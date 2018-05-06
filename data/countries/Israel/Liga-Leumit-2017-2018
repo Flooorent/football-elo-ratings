@@ -1,0 +1,297 @@
+date,score,home_team,away_team
+21/05/2018,document.write(timestamp_to_time(1526918400));16:00 GMT,Beitar Tel Aviv Ramla,Hapoel Tel Aviv
+21/05/2018,document.write(timestamp_to_time(1526918400));16:00 GMT,Hapoel Afula,Hapoel Katamon
+21/05/2018,document.write(timestamp_to_time(1526918400));16:00 GMT,[N] Hapoel Nazareth Illit,Hapoel Hadera
+21/05/2018,document.write(timestamp_to_time(1526918400));16:00 GMT,Hapoel Rishon LeZion,Maccabi Ahi Nazareth
+11/05/2018,document.write(timestamp_to_time(1526043600));13:00 GMT,Hapoel Hadera,Hapoel Afula
+11/05/2018,document.write(timestamp_to_time(1526043600));13:00 GMT,[N] Hapoel Katamon,Hapoel Rishon LeZion
+11/05/2018,document.write(timestamp_to_time(1526043600));13:00 GMT,Hapoel Tel Aviv,Hapoel Nazareth Illit
+11/05/2018,document.write(timestamp_to_time(1526043600));13:00 GMT,Maccabi Ahi Nazareth,Beitar Tel Aviv Ramla
+07/05/2018,document.write(timestamp_to_time(1525708800));16:00 GMT,Hapoel Afula,Hapoel Tel Aviv
+07/05/2018,document.write(timestamp_to_time(1525708800));16:00 GMT,[N] Hapoel Katamon,Maccabi Ahi Nazareth
+07/05/2018,document.write(timestamp_to_time(1525708800));16:00 GMT,[N] Hapoel Nazareth Illit,Beitar Tel Aviv Ramla
+07/05/2018,document.write(timestamp_to_time(1525708800));16:00 GMT,Hapoel Rishon LeZion,Hapoel Hadera
+01/05/2018,5 - 1,Beitar Tel Aviv Ramla,Hapoel Afula
+01/05/2018,1 - 0,Maccabi Ahi Nazareth,Hapoel Nazareth Illit
+30/04/2018,1 - 0,Hapoel Hadera,Hapoel Katamon
+30/04/2018,0 - 0,Hapoel Tel Aviv,Hapoel Rishon LeZion
+27/04/2018,0 - 1,Hapoel Afula,Hapoel Nazareth Illit
+26/04/2018,0 - 0,Hapoel Hadera,Maccabi Ahi Nazareth
+26/04/2018,3 - 2,[N] Hapoel Katamon,Hapoel Tel Aviv
+26/04/2018,1 - 0,Hapoel Rishon LeZion,Beitar Tel Aviv Ramla
+23/04/2018,3 - 0,Beitar Tel Aviv Ramla,Hapoel Katamon
+23/04/2018,1 - 2,[N] Hapoel Nazareth Illit,Hapoel Rishon LeZion
+23/04/2018,1 - 1,Hapoel Tel Aviv,Hapoel Hadera
+20/04/2018,0 - 3,Maccabi Ahi Nazareth,Hapoel Afula
+16/04/2018,1 - 1,Hapoel Hadera,Beitar Tel Aviv Ramla
+16/04/2018,0 - 2,Hapoel Rishon LeZion,Hapoel Afula
+16/04/2018,3 - 0,Hapoel Tel Aviv,Maccabi Ahi Nazareth
+13/04/2018,1 - 1,[N] Hapoel Katamon,Hapoel Nazareth Illit
+18/05/2018,document.write(timestamp_to_time(1526648400));13:00 GMT,Hapoel Marmorek,Hapoel Petah Tikva
+18/05/2018,document.write(timestamp_to_time(1526648400));13:00 GMT,Hapoel Ramat Gan,Hapoel Kfar Saba
+18/05/2018,document.write(timestamp_to_time(1526648400));13:00 GMT,[N] Ironi Nesher,Hapoel Ramat HaSharon
+18/05/2018,document.write(timestamp_to_time(1526648400));13:00 GMT,Maccabi Herzliya,Hapoel Bnei Lod
+14/05/2018,document.write(timestamp_to_time(1526313600));16:00 GMT,Hapoel Bnei Lod,Hapoel Ramat Gan
+14/05/2018,document.write(timestamp_to_time(1526313600));16:00 GMT,Hapoel Kfar Saba,Ironi Nesher
+14/05/2018,document.write(timestamp_to_time(1526313600));16:00 GMT,Hapoel Petah Tikva,Maccabi Herzliya
+14/05/2018,document.write(timestamp_to_time(1526313600));16:00 GMT,Hapoel Ramat HaSharon,Hapoel Marmorek
+04/05/2018,4 - 0,Hapoel Marmorek,Hapoel Kfar Saba
+04/05/2018,2 - 0,Hapoel Ramat Gan,Maccabi Herzliya
+04/05/2018,0 - 2,Hapoel Ramat HaSharon,Hapoel Petah Tikva
+04/05/2018,3 - 4,[N] Ironi Nesher,Hapoel Bnei Lod
+27/04/2018,2 - 0,Hapoel Bnei Lod,Hapoel Marmorek
+27/04/2018,0 - 1,Hapoel Kfar Saba,Hapoel Ramat HaSharon
+27/04/2018,2 - 1,Hapoel Petah Tikva,Hapoel Ramat Gan
+27/04/2018,5 - 0,Maccabi Herzliya,Ironi Nesher
+24/04/2018,0 - 2,Hapoel Kfar Saba,Hapoel Petah Tikva
+24/04/2018,1 - 0,Hapoel Marmorek,Maccabi Herzliya
+24/04/2018,3 - 1,Hapoel Ramat HaSharon,Hapoel Bnei Lod
+24/04/2018,0 - 2,[N] Ironi Nesher,Hapoel Ramat Gan
+20/04/2018,2 - 1,Hapoel Bnei Lod,Hapoel Kfar Saba
+20/04/2018,3 - 0,Hapoel Petah Tikva,Ironi Nesher
+20/04/2018,0 - 1,Hapoel Ramat Gan,Hapoel Marmorek
+20/04/2018,2 - 0,Maccabi Herzliya,Hapoel Ramat HaSharon
+13/04/2018,2 - 0,Hapoel Bnei Lod,Hapoel Petah Tikva
+13/04/2018,0 - 1,Hapoel Kfar Saba,Maccabi Herzliya
+13/04/2018,0 - 1,Hapoel Marmorek,Ironi Nesher
+13/04/2018,0 - 4,Hapoel Ramat HaSharon,Hapoel Ramat Gan
+05/04/2018,2 - 1,Beitar Tel Aviv Ramla,Hapoel Afula
+05/04/2018,1 - 1,Hapoel Bnei Lod,Maccabi Ahi Nazareth
+05/04/2018,3 - 0,Hapoel Hadera,Maccabi Herzliya
+05/04/2018,3 - 0,[N] Hapoel Nazareth Illit,Hapoel Kfar Saba
+05/04/2018,1 - 2,Hapoel Petah Tikva,Hapoel Tel Aviv
+05/04/2018,2 - 2,Hapoel Ramat Gan,Hapoel Katamon
+05/04/2018,4 - 1,Hapoel Ramat HaSharon,Hapoel Marmorek
+05/04/2018,2 - 1,Hapoel Rishon LeZion,Ironi Nesher
+29/03/2018,1 - 2,Hapoel Afula,Hapoel Bnei Lod
+29/03/2018,1 - 0,[N] Hapoel Katamon,Hapoel Nazareth Illit
+29/03/2018,0 - 1,Hapoel Kfar Saba,Hapoel Ramat HaSharon
+29/03/2018,0 - 1,Hapoel Marmorek,Hapoel Hadera
+29/03/2018,2 - 0,Hapoel Tel Aviv,Hapoel Ramat Gan
+29/03/2018,2 - 2,Ironi Nesher,Hapoel Petah Tikva
+29/03/2018,2 - 0,Maccabi Ahi Nazareth,Hapoel Rishon LeZion
+29/03/2018,2 - 1,Maccabi Herzliya,Beitar Tel Aviv Ramla
+19/03/2018,3 - 1,Hapoel Bnei Lod,Maccabi Herzliya
+19/03/2018,2 - 0,Hapoel Marmorek,Hapoel Kfar Saba
+19/03/2018,0 - 0,Hapoel Ramat HaSharon,Hapoel Katamon
+16/03/2018,1 - 0,Hapoel Hadera,Beitar Tel Aviv Ramla
+16/03/2018,0 - 1,[N] Hapoel Nazareth Illit,Hapoel Tel Aviv
+16/03/2018,1 - 1,Hapoel Petah Tikva,Maccabi Ahi Nazareth
+16/03/2018,4 - 0,Hapoel Ramat Gan,Ironi Nesher
+16/03/2018,0 - 0,Hapoel Rishon LeZion,Hapoel Afula
+14/03/2018,2 - 1,[N] Hapoel Katamon,Hapoel Marmorek
+13/03/2018,2 - 2,Beitar Tel Aviv Ramla,Hapoel Bnei Lod
+13/03/2018,1 - 1,Hapoel Afula,Hapoel Petah Tikva
+13/03/2018,0 - 2,Hapoel Kfar Saba,Hapoel Hadera
+13/03/2018,3 - 1,Hapoel Tel Aviv,Hapoel Ramat HaSharon
+13/03/2018,0 - 1,Ironi Nesher,Hapoel Nazareth Illit
+13/03/2018,1 - 0,Maccabi Ahi Nazareth,Hapoel Ramat Gan
+13/03/2018,2 - 2,Maccabi Herzliya,Hapoel Rishon LeZion
+09/03/2018,0 - 1,Hapoel Hadera,Hapoel Bnei Lod
+09/03/2018,1 - 4,Hapoel Kfar Saba,Hapoel Katamon
+09/03/2018,0 - 0,Hapoel Marmorek,Hapoel Tel Aviv
+09/03/2018,2 - 1,Hapoel Petah Tikva,Maccabi Herzliya
+09/03/2018,1 - 1,Hapoel Ramat Gan,Hapoel Afula
+09/03/2018,1 - 0,Hapoel Ramat HaSharon,Ironi Nesher
+09/03/2018,1 - 1,Hapoel Rishon LeZion,Beitar Tel Aviv Ramla
+08/03/2018,3 - 0,[N] Hapoel Nazareth Illit,Maccabi Ahi Nazareth
+05/03/2018,0 - 1,[N] Hapoel Katamon,Hapoel Hadera
+05/03/2018,4 - 0,Hapoel Tel Aviv,Hapoel Kfar Saba
+05/03/2018,0 - 2,Ironi Nesher,Hapoel Marmorek
+02/03/2018,0 - 2,Beitar Tel Aviv Ramla,Hapoel Petah Tikva
+02/03/2018,2 - 2,Hapoel Afula,Hapoel Nazareth Illit
+02/03/2018,0 - 0,Hapoel Bnei Lod,Hapoel Rishon LeZion
+02/03/2018,2 - 1,Maccabi Ahi Nazareth,Hapoel Ramat HaSharon
+02/03/2018,0 - 2,Maccabi Herzliya,Hapoel Ramat Gan
+26/02/2018,0 - 2,[N] Hapoel Katamon,Hapoel Tel Aviv
+26/02/2018,5 - 1,[N] Hapoel Nazareth Illit,Maccabi Herzliya
+26/02/2018,2 - 0,Hapoel Ramat Gan,Beitar Tel Aviv Ramla
+23/02/2018,1 - 1,Hapoel Hadera,Hapoel Rishon LeZion
+23/02/2018,3 - 0,Hapoel Kfar Saba,Ironi Nesher
+23/02/2018,1 - 0,Hapoel Marmorek,Maccabi Ahi Nazareth
+23/02/2018,0 - 2,Hapoel Petah Tikva,Hapoel Bnei Lod
+23/02/2018,2 - 0,Hapoel Ramat HaSharon,Hapoel Afula
+19/02/2018,2 - 0,Beitar Tel Aviv Ramla,Hapoel Nazareth Illit
+19/02/2018,0 - 1,Ironi Nesher,Hapoel Katamon
+19/02/2018,0 - 0,Maccabi Ahi Nazareth,Hapoel Kfar Saba
+16/02/2018,0 - 0,Hapoel Afula,Hapoel Marmorek
+16/02/2018,2 - 0,Hapoel Bnei Lod,Hapoel Ramat Gan
+16/02/2018,3 - 1,Hapoel Rishon LeZion,Hapoel Petah Tikva
+16/02/2018,0 - 0,Hapoel Tel Aviv,Hapoel Hadera
+16/02/2018,0 - 0,Maccabi Herzliya,Hapoel Ramat HaSharon
+12/02/2018,0 - 3,Hapoel Kfar Saba,Hapoel Afula
+12/02/2018,2 - 1,Hapoel Marmorek,Maccabi Herzliya
+12/02/2018,0 - 1,Hapoel Ramat Gan,Hapoel Rishon LeZion
+09/02/2018,3 - 1,Hapoel Hadera,Hapoel Petah Tikva
+09/02/2018,0 - 1,[N] Hapoel Katamon,Maccabi Ahi Nazareth
+09/02/2018,2 - 0,[N] Hapoel Nazareth Illit,Hapoel Bnei Lod
+09/02/2018,0 - 1,Hapoel Ramat HaSharon,Beitar Tel Aviv Ramla
+09/02/2018,3 - 0,[N] Hapoel Tel Aviv,Ironi Nesher
+05/02/2018,0 - 1,Hapoel Rishon LeZion,Hapoel Nazareth Illit
+05/02/2018,0 - 0,Ironi Nesher,Hapoel Hadera
+05/02/2018,0 - 1,Maccabi Ahi Nazareth,Hapoel Tel Aviv
+02/02/2018,3 - 1,Beitar Tel Aviv Ramla,Hapoel Marmorek
+02/02/2018,3 - 0,Hapoel Afula,Hapoel Katamon
+02/02/2018,1 - 0,Hapoel Bnei Lod,Hapoel Ramat HaSharon
+02/02/2018,0 - 0,Hapoel Petah Tikva,Hapoel Ramat Gan
+02/02/2018,1 - 1,Maccabi Herzliya,Hapoel Kfar Saba
+29/01/2018,2 - 1,Hapoel Hadera,Hapoel Ramat Gan
+29/01/2018,2 - 3,Hapoel Kfar Saba,Beitar Tel Aviv Ramla
+29/01/2018,1 - 2,Hapoel Marmorek,Hapoel Bnei Lod
+29/01/2018,1 - 0,[N] Hapoel Nazareth Illit,Hapoel Petah Tikva
+29/01/2018,0 - 1,[N] Hapoel Tel Aviv,Hapoel Afula
+29/01/2018,0 - 1,Ironi Nesher,Maccabi Ahi Nazareth
+26/01/2018,1 - 3,[N] Hapoel Katamon,Maccabi Herzliya
+26/01/2018,0 - 1,Hapoel Ramat HaSharon,Hapoel Rishon LeZion
+22/01/2018,0 - 2,Beitar Tel Aviv Ramla,Hapoel Katamon
+22/01/2018,1 - 0,Hapoel Petah Tikva,Hapoel Ramat HaSharon
+22/01/2018,0 - 1,Maccabi Ahi Nazareth,Hapoel Hadera
+19/01/2018,2 - 0,Hapoel Afula,Ironi Nesher
+19/01/2018,2 - 2,Hapoel Bnei Lod,Hapoel Kfar Saba
+19/01/2018,1 - 0,Hapoel Ramat Gan,Hapoel Nazareth Illit
+19/01/2018,0 - 5,Hapoel Rishon LeZion,Hapoel Marmorek
+19/01/2018,0 - 1,Maccabi Herzliya,Hapoel Tel Aviv
+15/01/2018,1 - 0,[N] Hapoel Katamon,Hapoel Bnei Lod
+15/01/2018,0 - 1,Hapoel Kfar Saba,Hapoel Rishon LeZion
+15/01/2018,2 - 1,Hapoel Marmorek,Hapoel Petah Tikva
+15/01/2018,2 - 0,Hapoel Tel Aviv,Beitar Tel Aviv Ramla
+12/01/2018,2 - 4,Hapoel Hadera,Hapoel Nazareth Illit
+12/01/2018,0 - 0,Hapoel Ramat HaSharon,Hapoel Ramat Gan
+12/01/2018,0 - 1,Ironi Nesher,Maccabi Herzliya
+12/01/2018,0 - 1,Maccabi Ahi Nazareth,Hapoel Afula
+10/01/2018,0 - 1,Hapoel Bnei Lod,Hapoel Tel Aviv
+10/01/2018,0 - 1,Hapoel Petah Tikva,Hapoel Kfar Saba
+09/01/2018,3 - 0,Beitar Tel Aviv Ramla,Ironi Nesher
+09/01/2018,1 - 1,Hapoel Hadera,Hapoel Afula
+09/01/2018,0 - 1,[N] Hapoel Nazareth Illit,Hapoel Ramat HaSharon
+09/01/2018,0 - 0,Hapoel Ramat Gan,Hapoel Marmorek
+09/01/2018,0 - 0,Hapoel Rishon LeZion,Hapoel Katamon
+09/01/2018,2 - 1,Maccabi Herzliya,Maccabi Ahi Nazareth
+01/01/2018,0 - 0,Hapoel Kfar Saba,Hapoel Ramat Gan
+01/01/2018,0 - 4,Hapoel Ramat HaSharon,Hapoel Hadera
+01/01/2018,0 - 0,Maccabi Ahi Nazareth,Beitar Tel Aviv Ramla
+29/12/2017,1 - 1,Hapoel Afula,Maccabi Herzliya
+29/12/2017,1 - 1,[N] Hapoel Katamon,Hapoel Petah Tikva
+29/12/2017,1 - 2,Hapoel Marmorek,Hapoel Nazareth Illit
+29/12/2017,0 - 1,Hapoel Tel Aviv,Hapoel Rishon LeZion
+29/12/2017,0 - 3,Ironi Nesher,Hapoel Bnei Lod
+25/12/2017,1 - 1,Hapoel Afula,Beitar Tel Aviv Ramla
+25/12/2017,0 - 1,[N] Hapoel Katamon,Hapoel Ramat Gan
+25/12/2017,0 - 1,Hapoel Tel Aviv,Hapoel Petah Tikva
+22/12/2017,3 - 0,Hapoel Kfar Saba,Hapoel Nazareth Illit
+22/12/2017,1 - 0,Hapoel Marmorek,Hapoel Ramat HaSharon
+22/12/2017,1 - 0,Ironi Nesher,Hapoel Rishon LeZion
+22/12/2017,0 - 0,Maccabi Ahi Nazareth,Hapoel Bnei Lod
+22/12/2017,1 - 2,Maccabi Herzliya,Hapoel Hadera
+18/12/2017,0 - 3,Hapoel Hadera,Hapoel Marmorek
+15/12/2017,1 - 3,Beitar Tel Aviv Ramla,Maccabi Herzliya
+15/12/2017,1 - 1,Hapoel Bnei Lod,Hapoel Afula
+15/12/2017,0 - 0,[N] Hapoel Nazareth Illit,Hapoel Katamon
+15/12/2017,2 - 0,Hapoel Petah Tikva,Ironi Nesher
+15/12/2017,1 - 1,Hapoel Ramat Gan,Hapoel Tel Aviv
+15/12/2017,4 - 1,Hapoel Ramat HaSharon,Hapoel Kfar Saba
+15/12/2017,0 - 0,Hapoel Rishon LeZion,Maccabi Ahi Nazareth
+11/12/2017,1 - 0,Hapoel Afula,Hapoel Rishon LeZion
+11/12/2017,1 - 0,Hapoel Kfar Saba,Hapoel Marmorek
+11/12/2017,0 - 2,Ironi Nesher,Hapoel Ramat Gan
+08/12/2017,1 - 1,Beitar Tel Aviv Ramla,Hapoel Hadera
+08/12/2017,2 - 1,[N] Hapoel Katamon,Hapoel Ramat HaSharon
+08/12/2017,4 - 1,Hapoel Tel Aviv,Hapoel Nazareth Illit
+08/12/2017,1 - 1,Maccabi Ahi Nazareth,Hapoel Petah Tikva
+08/12/2017,2 - 4,Maccabi Herzliya,Hapoel Bnei Lod
+04/12/2017,1 - 1,[N] Hapoel Nazareth Illit,Ironi Nesher
+04/12/2017,1 - 2,Hapoel Ramat HaSharon,Hapoel Tel Aviv
+04/12/2017,0 - 0,Hapoel Rishon LeZion,Maccabi Herzliya
+01/12/2017,0 - 1,Hapoel Bnei Lod,Beitar Tel Aviv Ramla
+01/12/2017,1 - 0,Hapoel Hadera,Hapoel Kfar Saba
+01/12/2017,1 - 3,Hapoel Marmorek,Hapoel Katamon
+01/12/2017,1 - 2,Hapoel Petah Tikva,Hapoel Afula
+01/12/2017,0 - 1,[N] Hapoel Ramat Gan,Maccabi Ahi Nazareth
+27/11/2017,1 - 2,Beitar Tel Aviv Ramla,Hapoel Rishon LeZion
+27/11/2017,0 - 1,[N] Ironi Nesher,Hapoel Ramat HaSharon
+27/11/2017,1 - 3,Maccabi Herzliya,Hapoel Petah Tikva
+24/11/2017,1 - 0,Hapoel Afula,Hapoel Ramat Gan
+24/11/2017,0 - 2,Hapoel Bnei Lod,Hapoel Hadera
+24/11/2017,2 - 1,[N] Hapoel Katamon,Hapoel Kfar Saba
+24/11/2017,1 - 0,[N] Hapoel Tel Aviv,Hapoel Marmorek
+24/11/2017,0 - 3,Maccabi Ahi Nazareth,Hapoel Nazareth Illit
+06/11/2017,1 - 0,Hapoel Marmorek,Ironi Nesher
+06/11/2017,2 - 2,[N] Hapoel Nazareth Illit,Hapoel Afula
+06/11/2017,2 - 1,Hapoel Rishon LeZion,Hapoel Bnei Lod
+03/11/2017,0 - 3,Hapoel Hadera,Hapoel Katamon
+03/11/2017,1 - 1,Hapoel Petah Tikva,Beitar Tel Aviv Ramla
+03/11/2017,3 - 0,Hapoel Ramat Gan,Maccabi Herzliya
+03/11/2017,2 - 1,Hapoel Ramat HaSharon,Maccabi Ahi Nazareth
+02/11/2017,0 - 1,Hapoel Kfar Saba,Hapoel Tel Aviv
+30/10/2017,2 - 0,Beitar Tel Aviv Ramla,Hapoel Ramat Gan
+30/10/2017,1 - 2,Hapoel Afula,Hapoel Ramat HaSharon
+30/10/2017,1 - 0,Hapoel Bnei Lod,Hapoel Petah Tikva
+27/10/2017,2 - 4,Hapoel Rishon LeZion,Hapoel Hadera
+27/10/2017,1 - 1,Hapoel Tel Aviv,Hapoel Katamon
+27/10/2017,1 - 3,Ironi Nesher,Hapoel Kfar Saba
+27/10/2017,4 - 1,Maccabi Ahi Nazareth,Hapoel Marmorek
+27/10/2017,2 - 3,Maccabi Herzliya,Hapoel Nazareth Illit
+23/10/2017,3 - 2,[N] Hapoel Katamon,Ironi Nesher
+23/10/2017,0 - 1,[N] Hapoel Nazareth Illit,Beitar Tel Aviv Ramla
+23/10/2017,0 - 1,Hapoel Ramat HaSharon,Maccabi Herzliya
+20/10/2017,2 - 2,Hapoel Hadera,Hapoel Tel Aviv
+20/10/2017,4 - 0,Hapoel Kfar Saba,Maccabi Ahi Nazareth
+20/10/2017,0 - 0,Hapoel Marmorek,Hapoel Afula
+20/10/2017,0 - 1,Hapoel Petah Tikva,Hapoel Rishon LeZion
+20/10/2017,1 - 1,Hapoel Ramat Gan,Hapoel Bnei Lod
+16/10/2017,2 - 2,Hapoel Petah Tikva,Hapoel Hadera
+16/10/2017,2 - 1,Ironi Nesher,Hapoel Tel Aviv
+16/10/2017,2 - 2,Maccabi Herzliya,Hapoel Marmorek
+13/10/2017,2 - 1,Beitar Tel Aviv Ramla,Hapoel Ramat HaSharon
+13/10/2017,0 - 1,Hapoel Afula,Hapoel Kfar Saba
+13/10/2017,0 - 0,Hapoel Bnei Lod,Hapoel Nazareth Illit
+13/10/2017,3 - 2,Hapoel Rishon LeZion,Hapoel Ramat Gan
+13/10/2017,2 - 1,Maccabi Ahi Nazareth,Hapoel Katamon
+26/09/2017,4 - 3,Hapoel Hadera,Ironi Nesher
+26/09/2017,0 - 0,[N] Hapoel Katamon,Hapoel Afula
+26/09/2017,4 - 0,Hapoel Kfar Saba,Maccabi Herzliya
+26/09/2017,1 - 2,[N] Hapoel Nazareth Illit,Hapoel Rishon LeZion
+26/09/2017,0 - 2,Hapoel Tel Aviv,Maccabi Ahi Nazareth
+25/09/2017,2 - 3,Hapoel Marmorek,Beitar Tel Aviv Ramla
+25/09/2017,1 - 1,Hapoel Ramat Gan,Hapoel Petah Tikva
+25/09/2017,1 - 0,Hapoel Ramat HaSharon,Hapoel Bnei Lod
+18/09/2017,3 - 4,Beitar Tel Aviv Ramla,Hapoel Kfar Saba
+18/09/2017,2 - 3,Hapoel Afula,Hapoel Tel Aviv
+18/09/2017,1 - 1,Hapoel Ramat Gan,Hapoel Hadera
+15/09/2017,0 - 2,Hapoel Bnei Lod,Hapoel Marmorek
+15/09/2017,0 - 0,Hapoel Petah Tikva,Hapoel Nazareth Illit
+15/09/2017,1 - 0,Hapoel Rishon LeZion,Hapoel Ramat HaSharon
+15/09/2017,2 - 0,Maccabi Ahi Nazareth,Ironi Nesher
+15/09/2017,0 - 2,Maccabi Herzliya,Hapoel Katamon
+12/09/2017,0 - 2,Beitar Tel Aviv Ramla,Hapoel Tel Aviv
+11/09/2017,0 - 3,Hapoel Marmorek,Hapoel Rishon LeZion
+11/09/2017,3 - 2,[N] Hapoel Nazareth Illit,Hapoel Ramat Gan
+11/09/2017,1 - 2,Ironi Nesher,Hapoel Afula
+08/09/2017,0 - 3,Hapoel Hadera,Maccabi Ahi Nazareth
+08/09/2017,1 - 1,[N] Hapoel Katamon,Beitar Tel Aviv Ramla
+08/09/2017,2 - 0,Hapoel Kfar Saba,Hapoel Bnei Lod
+08/09/2017,1 - 2,Hapoel Ramat HaSharon,Hapoel Petah Tikva
+08/09/2017,2 - 0,Hapoel Tel Aviv,Maccabi Herzliya
+04/09/2017,0 - 2,Hapoel Afula,Maccabi Ahi Nazareth
+04/09/2017,1 - 1,Hapoel Bnei Lod,Hapoel Katamon
+01/09/2017,3 - 1,[N] Hapoel Nazareth Illit,Hapoel Hadera
+01/09/2017,3 - 0,Hapoel Petah Tikva,Hapoel Marmorek
+01/09/2017,1 - 1,Hapoel Ramat Gan,Hapoel Ramat HaSharon
+01/09/2017,1 - 1,Hapoel Rishon LeZion,Hapoel Kfar Saba
+01/09/2017,0 - 0,Maccabi Herzliya,Ironi Nesher
+28/08/2017,4 - 0,Hapoel Kfar Saba,Hapoel Petah Tikva
+28/08/2017,1 - 0,Hapoel Ramat HaSharon,Hapoel Nazareth Illit
+28/08/2017,2 - 0,Maccabi Ahi Nazareth,Maccabi Herzliya
+25/08/2017,0 - 2,Hapoel Afula,Hapoel Hadera
+25/08/2017,1 - 0,[N] Hapoel Katamon,Hapoel Rishon LeZion
+25/08/2017,0 - 1,Hapoel Marmorek,Hapoel Ramat Gan
+25/08/2017,1 - 0,Hapoel Tel Aviv,Hapoel Bnei Lod
+25/08/2017,2 - 2,Ironi Nesher,Beitar Tel Aviv Ramla
+21/08/2017,2 - 0,Beitar Tel Aviv Ramla,Maccabi Ahi Nazareth
+21/08/2017,2 - 0,Hapoel Bnei Lod,Ironi Nesher
+21/08/2017,0 - 3,Hapoel Rishon LeZion,Hapoel Tel Aviv
+18/08/2017,1 - 3,Hapoel Hadera,Hapoel Ramat HaSharon
+18/08/2017,0 - 1,[N] Hapoel Nazareth Illit,Hapoel Marmorek
+18/08/2017,1 - 0,Hapoel Petah Tikva,Hapoel Katamon
+18/08/2017,0 - 2,Hapoel Ramat Gan,Hapoel Kfar Saba
+18/08/2017,0 - 2,Maccabi Herzliya,Hapoel Afula

@@ -1,0 +1,181 @@
+date,score,home_team,away_team
+29/05/2015,3 - 2,Aarau,Thun
+29/05/2015,4 - 3,Basel,St. Gallen
+29/05/2015,3 - 0,Luzern,Sion
+29/05/2015,2 - 1,Young Boys,Vaduz
+29/05/2015,4 - 3,Zürich,Grasshopper
+25/05/2015,0 - 1,Luzern,Zürich
+25/05/2015,6 - 2,Sion,Young Boys
+25/05/2015,5 - 1,St. Gallen,Aarau
+25/05/2015,2 - 2,Thun,Basel
+25/05/2015,0 - 1,Vaduz,Grasshopper
+21/05/2015,0 - 1,Young Boys,Luzern
+21/05/2015,2 - 2,Zürich,Vaduz
+20/05/2015,2 - 1,Aarau,Basel
+20/05/2015,0 - 0,Grasshopper,Sion
+20/05/2015,2 - 1,St. Gallen,Thun
+17/05/2015,0 - 0,Basel,Young Boys
+17/05/2015,2 - 0,Grasshopper,St. Gallen
+17/05/2015,2 - 2,Thun,Zürich
+16/05/2015,1 - 0,Sion,Aarau
+16/05/2015,0 - 2,Vaduz,Luzern
+10/05/2015,1 - 2,Zürich,Basel
+10/05/2015,0 - 0,Luzern,Thun
+10/05/2015,3 - 1,Young Boys,St. Gallen
+09/05/2015,4 - 0,Sion,Vaduz
+09/05/2015,0 - 1,Aarau,Grasshopper
+03/05/2015,0 - 1,Zürich,Young Boys
+03/05/2015,2 - 6,Aarau,Luzern
+03/05/2015,0 - 1,St. Gallen,Sion
+02/05/2015,2 - 1,Basel,Grasshopper
+02/05/2015,4 - 0,Thun,Vaduz
+30/04/2015,6 - 2,Luzern,St. Gallen
+29/04/2015,2 - 2,Young Boys,Aarau
+29/04/2015,0 - 0,Grasshopper,Thun
+29/04/2015,1 - 3,Vaduz,Basel
+28/04/2015,1 - 2,Sion,Zürich
+26/04/2015,2 - 2,Grasshopper,Young Boys
+26/04/2015,1 - 2,Basel,Luzern
+26/04/2015,1 - 2,St. Gallen,Vaduz
+25/04/2015,2 - 1,Thun,Sion
+25/04/2015,0 - 0,Aarau,Zürich
+19/04/2015,2 - 0,Luzern,Grasshopper
+19/04/2015,0 - 2,Vaduz,Aarau
+19/04/2015,4 - 0,Young Boys,Thun
+18/04/2015,1 - 2,Zürich,St. Gallen
+18/04/2015,0 - 1,Sion,Basel
+12/04/2015,5 - 1,Basel,Zürich
+12/04/2015,0 - 1,Aarau,Sion
+12/04/2015,1 - 1,Grasshopper,Vaduz
+11/04/2015,3 - 1,St. Gallen,Young Boys
+11/04/2015,1 - 0,Thun,Luzern
+04/04/2015,6 - 0,Basel,Aarau
+04/04/2015,4 - 1,Thun,St. Gallen
+04/04/2015,0 - 1,Zürich,Luzern
+03/04/2015,0 - 5,Sion,Grasshopper
+03/04/2015,0 - 1,Vaduz,Young Boys
+22/03/2015,3 - 0,Young Boys,Zürich
+22/03/2015,3 - 0,Sion,Thun
+22/03/2015,3 - 1,Vaduz,St. Gallen
+21/03/2015,3 - 1,Grasshopper,Aarau
+21/03/2015,1 - 4,Luzern,Basel
+18/03/2015,3 - 0,Sion,St. Gallen
+15/03/2015,2 - 2,St. Gallen,Basel
+15/03/2015,1 - 1,Aarau,Young Boys
+15/03/2015,0 - 1,Zürich,Sion
+14/03/2015,2 - 2,Thun,Grasshopper
+14/03/2015,2 - 0,Luzern,Vaduz
+08/03/2015,0 - 2,Aarau,St. Gallen
+08/03/2015,2 - 2,Vaduz,Zürich
+08/03/2015,3 - 2,Young Boys,Sion
+07/03/2015,3 - 0,Basel,Thun
+07/03/2015,1 - 0,Grasshopper,Luzern
+01/03/2015,2 - 2,Sion,Luzern
+01/03/2015,1 - 1,St. Gallen,Grasshopper
+01/03/2015,0 - 0,Thun,Young Boys
+28/02/2015,1 - 0,Basel,Vaduz
+28/02/2015,0 - 0,Zürich,Aarau
+25/02/2015,0 - 2,Vaduz,Sion
+22/02/2015,4 - 2,Young Boys,Basel
+22/02/2015,4 - 0,Luzern,Aarau
+22/02/2015,1 - 1,Vaduz,Thun
+21/02/2015,0 - 2,Grasshopper,Zürich
+15/02/2015,0 - 1,Zürich,Thun
+15/02/2015,0 - 1,Aarau,Vaduz
+15/02/2015,0 - 0,St. Gallen,Luzern
+14/02/2015,4 - 2,Young Boys,Grasshopper
+14/02/2015,1 - 1,Basel,Sion
+08/02/2015,2 - 4,Grasshopper,Basel
+08/02/2015,1 - 1,Thun,Aarau
+07/02/2015,1 - 4,St. Gallen,Zürich
+07/02/2015,1 - 1,Luzern,Young Boys
+07/12/2014,2 - 0,St. Gallen,Sion
+07/12/2014,2 - 1,Thun,Zürich
+07/12/2014,1 - 0,Vaduz,Aarau
+06/12/2014,0 - 1,Grasshopper,Young Boys
+06/12/2014,0 - 3,Luzern,Basel
+03/12/2014,1 - 2,Luzern,Young Boys
+30/11/2014,1 - 2,Zürich,Basel
+30/11/2014,0 - 1,Vaduz,Thun
+30/11/2014,4 - 2,Young Boys,St. Gallen
+29/11/2014,3 - 3,Sion,Grasshopper
+29/11/2014,0 - 3,Aarau,Luzern
+23/11/2014,0 - 1,Thun,Young Boys
+23/11/2014,3 - 0,Basel,Aarau
+23/11/2014,3 - 3,St. Gallen,Vaduz
+22/11/2014,3 - 2,Grasshopper,Luzern
+22/11/2014,1 - 3,Sion,Zürich
+09/11/2014,2 - 1,Young Boys,Sion
+09/11/2014,0 - 1,Aarau,Zürich
+09/11/2014,0 - 4,Vaduz,Basel
+08/11/2014,3 - 0,Grasshopper,St. Gallen
+08/11/2014,0 - 0,Luzern,Thun
+02/11/2014,1 - 0,St. Gallen,Thun
+02/11/2014,2 - 2,Sion,Aarau
+02/11/2014,0 - 1,Young Boys,Vaduz
+01/11/2014,2 - 0,Basel,Grasshopper
+01/11/2014,2 - 3,Zürich,Luzern
+26/10/2014,1 - 1,Vaduz,Grasshopper
+26/10/2014,1 - 1,Zürich,St. Gallen
+25/10/2014,1 - 1,Basel,Sion
+25/10/2014,0 - 0,Thun,Aarau
+19/10/2014,1 - 3,Grasshopper,Zürich
+19/10/2014,0 - 0,Luzern,Vaduz
+19/10/2014,0 - 0,Sion,Thun
+18/10/2014,0 - 1,Young Boys,Basel
+18/10/2014,0 - 3,Aarau,St. Gallen
+05/10/2014,3 - 2,Aarau,Young Boys
+05/10/2014,3 - 1,Sion,Luzern
+05/10/2014,3 - 0,Zürich,Vaduz
+04/10/2014,2 - 1,St. Gallen,Basel
+04/10/2014,3 - 2,Thun,Grasshopper
+28/09/2014,1 - 2,Luzern,St. Gallen
+28/09/2014,1 - 0,Vaduz,Sion
+28/09/2014,2 - 1,Young Boys,Zürich
+27/09/2014,1 - 1,Basel,Thun
+27/09/2014,2 - 1,Grasshopper,Aarau
+24/09/2014,0 - 1,Sion,Young Boys
+24/09/2014,3 - 0,St. Gallen,Grasshopper
+24/09/2014,0 - 0,Zürich,Aarau
+23/09/2014,3 - 1,Basel,Vaduz
+23/09/2014,3 - 2,Thun,Luzern
+14/09/2014,4 - 1,Zürich,Sion
+14/09/2014,2 - 2,Vaduz,St. Gallen
+14/09/2014,3 - 2,Young Boys,Luzern
+13/09/2014,2 - 1,Aarau,Thun
+13/09/2014,3 - 1,Grasshopper,Basel
+31/08/2014,3 - 1,Basel,Young Boys
+31/08/2014,0 - 1,Grasshopper,Vaduz
+31/08/2014,0 - 2,St. Gallen,Zürich
+30/08/2014,1 - 1,Luzern,Aarau
+30/08/2014,2 - 1,Thun,Sion
+17/08/2014,0 - 2,Vaduz,Young Boys
+17/08/2014,2 - 3,Sion,Basel
+17/08/2014,3 - 1,Thun,St. Gallen
+16/08/2014,1 - 1,Luzern,Zürich
+16/08/2014,1 - 2,Aarau,Grasshopper
+14/08/2014,0 - 2,Basel,St. Gallen
+13/08/2014,1 - 1,Vaduz,Luzern
+13/08/2014,4 - 0,Young Boys,Grasshopper
+10/08/2014,1 - 1,Young Boys,Thun
+10/08/2014,1 - 1,Luzern,Grasshopper
+10/08/2014,1 - 0,Sion,Vaduz
+09/08/2014,4 - 1,Basel,Zürich
+09/08/2014,2 - 2,St. Gallen,Aarau
+06/08/2014,1 - 1,Aarau,Vaduz
+03/08/2014,2 - 1,St. Gallen,Luzern
+03/08/2014,2 - 1,Zürich,Young Boys
+02/08/2014,0 - 0,Grasshopper,Sion
+02/08/2014,2 - 3,Thun,Basel
+27/07/2014,3 - 0,Basel,Luzern
+27/07/2014,1 - 4,Vaduz,Zürich
+27/07/2014,1 - 1,Young Boys,Aarau
+26/07/2014,1 - 0,Sion,St. Gallen
+26/07/2014,2 - 3,Grasshopper,Thun
+23/07/2014,1 - 0,Aarau,Sion
+23/07/2014,2 - 1,Zürich,Thun
+20/07/2014,1 - 0,Zürich,Grasshopper
+20/07/2014,1 - 1,Luzern,Sion
+20/07/2014,1 - 0,Thun,Vaduz
+19/07/2014,2 - 2,St. Gallen,Young Boys
+19/07/2014,1 - 2,Aarau,Basel

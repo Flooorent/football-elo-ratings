@@ -1,0 +1,307 @@
+date,score,home_team,away_team
+16/05/1999,3 - 1,Anderlecht,Kortrijk
+16/05/1999,5 - 3,Club Brugge,Westerlo
+16/05/1999,4 - 0,Eendracht Aalst,KV Oostende
+16/05/1999,2 - 1,FC Lommel,Sporting Charleroi
+16/05/1999,1 - 1,Germinal Ekeren,Excelsior Mouscron
+16/05/1999,3 - 0,Lierse,Standard Liège
+16/05/1999,1 - 4,Lokeren,Gent
+16/05/1999,1 - 1,Sint-Truiden,Beveren
+16/05/1999,1 - 2,Zuid-West-Vlaanderen,Genk
+09/05/1999,2 - 1,Beveren,Germinal Ekeren
+09/05/1999,2 - 0,Excelsior Mouscron,Club Brugge
+09/05/1999,2 - 5,Genk,Anderlecht
+09/05/1999,0 - 0,Gent,Zuid-West-Vlaanderen
+09/05/1999,4 - 1,Kortrijk,FC Lommel
+09/05/1999,0 - 6,KV Oostende,Lierse
+09/05/1999,2 - 1,Sporting Charleroi,Sint-Truiden
+09/05/1999,2 - 4,Standard Liège,Lokeren
+08/05/1999,1 - 1,Westerlo,Eendracht Aalst
+05/05/1999,4 - 0,Anderlecht,Gent
+05/05/1999,3 - 1,Club Brugge,Beveren
+05/05/1999,0 - 3,FC Lommel,Genk
+05/05/1999,2 - 0,Germinal Ekeren,Sporting Charleroi
+05/05/1999,3 - 1,Lierse,Eendracht Aalst
+05/05/1999,1 - 2,Lokeren,KV Oostende
+05/05/1999,1 - 1,Westerlo,Excelsior Mouscron
+05/05/1999,1 - 1,Zuid-West-Vlaanderen,Standard Liège
+02/05/1999,1 - 4,Eendracht Aalst,Excelsior Mouscron
+02/05/1999,4 - 1,Genk,Sint-Truiden
+02/05/1999,1 - 2,Kortrijk,Germinal Ekeren
+02/05/1999,0 - 6,Standard Liège,Anderlecht
+01/05/1999,1 - 0,Beveren,Westerlo
+01/05/1999,2 - 2,Gent,FC Lommel
+01/05/1999,1 - 0,KV Oostende,Zuid-West-Vlaanderen
+01/05/1999,2 - 3,Lierse,Lokeren
+30/04/1999,1 - 2,Sporting Charleroi,Club Brugge
+25/04/1999,3 - 0,Club Brugge,Kortrijk
+25/04/1999,3 - 1,Zuid-West-Vlaanderen,Lierse
+24/04/1999,3 - 0,Anderlecht,KV Oostende
+24/04/1999,1 - 0,Excelsior Mouscron,Beveren
+24/04/1999,3 - 0,FC Lommel,Standard Liège
+24/04/1999,0 - 2,Germinal Ekeren,Genk
+24/04/1999,6 - 2,Lokeren,Eendracht Aalst
+24/04/1999,1 - 0,Sint-Truiden,Gent
+24/04/1999,1 - 0,Westerlo,Sporting Charleroi
+18/04/1999,1 - 1,Genk,Club Brugge
+18/04/1999,4 - 2,Kortrijk,Westerlo
+18/04/1999,1 - 1,KV Oostende,FC Lommel
+17/04/1999,0 - 1,Eendracht Aalst,Beveren
+17/04/1999,1 - 3,Gent,Germinal Ekeren
+17/04/1999,0 - 0,Lierse,Anderlecht
+17/04/1999,1 - 0,Lokeren,Zuid-West-Vlaanderen
+17/04/1999,1 - 3,Sporting Charleroi,Excelsior Mouscron
+17/04/1999,2 - 0,Standard Liège,Sint-Truiden
+11/04/1999,2 - 2,Sint-Truiden,Kortrijk
+09/04/1999,0 - 2,Sporting Charleroi,Anderlecht
+03/04/1999,1 - 2,Beveren,Sporting Charleroi
+03/04/1999,1 - 0,Club Brugge,Gent
+03/04/1999,3 - 1,Excelsior Mouscron,Kortrijk
+03/04/1999,0 - 0,FC Lommel,Lierse
+03/04/1999,0 - 1,Germinal Ekeren,Standard Liège
+03/04/1999,5 - 0,Sint-Truiden,KV Oostende
+03/04/1999,1 - 1,Westerlo,Genk
+03/04/1999,5 - 1,Zuid-West-Vlaanderen,Eendracht Aalst
+02/04/1999,1 - 1,Anderlecht,Lokeren
+21/03/1999,2 - 2,Eendracht Aalst,Sporting Charleroi
+21/03/1999,1 - 0,Kortrijk,Beveren
+21/03/1999,1 - 2,Zuid-West-Vlaanderen,Anderlecht
+20/03/1999,3 - 0,Genk,Excelsior Mouscron
+20/03/1999,2 - 0,Gent,Westerlo
+20/03/1999,0 - 1,KV Oostende,Germinal Ekeren
+20/03/1999,6 - 0,Lierse,Sint-Truiden
+20/03/1999,2 - 1,Lokeren,FC Lommel
+19/03/1999,3 - 0,Standard Liège,Club Brugge
+14/03/1999,2 - 0,Club Brugge,KV Oostende
+13/03/1999,2 - 1,Anderlecht,Eendracht Aalst
+13/03/1999,1 - 0,Beveren,Genk
+13/03/1999,0 - 1,FC Lommel,Zuid-West-Vlaanderen
+13/03/1999,1 - 1,Germinal Ekeren,Lierse
+13/03/1999,7 - 0,Sint-Truiden,Lokeren
+13/03/1999,2 - 1,Sporting Charleroi,Kortrijk
+13/03/1999,3 - 1,Westerlo,Standard Liège
+12/03/1999,7 - 1,Excelsior Mouscron,Gent
+10/03/1999,1 - 3,Kortrijk,Genk
+10/03/1999,3 - 0,Lokeren,Westerlo
+07/03/1999,1 - 1,Eendracht Aalst,Kortrijk
+07/03/1999,5 - 2,Lierse,Club Brugge
+07/03/1999,1 - 1,Zuid-West-Vlaanderen,Sint-Truiden
+06/03/1999,3 - 0,Anderlecht,FC Lommel
+06/03/1999,2 - 1,Genk,Sporting Charleroi
+06/03/1999,4 - 1,Gent,Beveren
+06/03/1999,1 - 1,KV Oostende,Westerlo
+06/03/1999,1 - 1,Lokeren,Germinal Ekeren
+05/03/1999,2 - 0,Standard Liège,Excelsior Mouscron
+28/02/1999,0 - 2,Germinal Ekeren,Zuid-West-Vlaanderen
+27/02/1999,0 - 6,Beveren,Standard Liège
+27/02/1999,2 - 1,Excelsior Mouscron,KV Oostende
+27/02/1999,0 - 3,FC Lommel,Eendracht Aalst
+27/02/1999,1 - 4,Sint-Truiden,Anderlecht
+27/02/1999,1 - 1,Sporting Charleroi,Gent
+27/02/1999,0 - 2,Westerlo,Lierse
+26/02/1999,4 - 0,Club Brugge,Lokeren
+20/02/1999,2 - 0,Anderlecht,Germinal Ekeren
+14/02/1999,1 - 1,KV Oostende,Beveren
+14/02/1999,0 - 2,Zuid-West-Vlaanderen,Club Brugge
+13/02/1999,1 - 2,Eendracht Aalst,Genk
+13/02/1999,0 - 1,FC Lommel,Sint-Truiden
+13/02/1999,3 - 1,Gent,Kortrijk
+13/02/1999,2 - 0,Standard Liège,Sporting Charleroi
+12/02/1999,1 - 2,Lierse,Excelsior Mouscron
+06/02/1999,0 - 1,Beveren,Sint-Truiden
+31/01/1999,1 - 0,Germinal Ekeren,FC Lommel
+31/01/1999,1 - 3,Kortrijk,Standard Liège
+30/01/1999,1 - 3,Beveren,Lierse
+30/01/1999,5 - 1,Excelsior Mouscron,Lokeren
+30/01/1999,1 - 0,Genk,Gent
+30/01/1999,2 - 0,Sint-Truiden,Eendracht Aalst
+30/01/1999,1 - 1,Sporting Charleroi,KV Oostende
+30/01/1999,0 - 3,Westerlo,Zuid-West-Vlaanderen
+29/01/1999,2 - 0,Club Brugge,Anderlecht
+27/01/1999,2 - 4,Standard Liège,Genk
+24/01/1999,0 - 2,Eendracht Aalst,Gent
+24/01/1999,0 - 4,Zuid-West-Vlaanderen,Excelsior Mouscron
+23/01/1999,3 - 2,Anderlecht,Westerlo
+23/01/1999,2 - 1,FC Lommel,Club Brugge
+23/01/1999,1 - 3,KV Oostende,Kortrijk
+23/01/1999,4 - 0,Lierse,Sporting Charleroi
+23/01/1999,4 - 3,Lokeren,Beveren
+23/01/1999,2 - 0,Sint-Truiden,Germinal Ekeren
+18/01/1999,3 - 0,Genk,KV Oostende
+17/01/1999,3 - 2,Club Brugge,Sint-Truiden
+17/01/1999,1 - 0,Germinal Ekeren,Eendracht Aalst
+17/01/1999,3 - 2,Kortrijk,Lierse
+16/01/1999,0 - 3,Beveren,Zuid-West-Vlaanderen
+16/01/1999,3 - 2,Gent,Standard Liège
+16/01/1999,2 - 1,Sporting Charleroi,Lokeren
+16/01/1999,2 - 1,Westerlo,FC Lommel
+15/01/1999,2 - 3,Excelsior Mouscron,Anderlecht
+13/01/1999,2 - 2,Standard Liège,Lierse
+20/12/1998,1 - 0,Eendracht Aalst,Standard Liège
+20/12/1998,2 - 0,Germinal Ekeren,Club Brugge
+20/12/1998,1 - 1,Zuid-West-Vlaanderen,Sporting Charleroi
+19/12/1998,3 - 1,Anderlecht,Beveren
+19/12/1998,2 - 3,FC Lommel,Excelsior Mouscron
+19/12/1998,2 - 2,KV Oostende,Gent
+19/12/1998,2 - 1,Lokeren,Kortrijk
+19/12/1998,0 - 0,Sint-Truiden,Westerlo
+18/12/1998,1 - 1,Lierse,Genk
+13/12/1998,0 - 0,Club Brugge,Eendracht Aalst
+13/12/1998,3 - 1,Genk,Lokeren
+13/12/1998,0 - 0,Kortrijk,Zuid-West-Vlaanderen
+12/12/1998,0 - 0,Beveren,FC Lommel
+12/12/1998,5 - 1,Excelsior Mouscron,Sint-Truiden
+12/12/1998,1 - 0,Gent,Lierse
+12/12/1998,3 - 0,Standard Liège,KV Oostende
+12/12/1998,2 - 4,Westerlo,Germinal Ekeren
+06/12/1998,2 - 2,Genk,Zuid-West-Vlaanderen
+06/12/1998,0 - 4,Kortrijk,Anderlecht
+05/12/1998,2 - 2,Excelsior Mouscron,Germinal Ekeren
+05/12/1998,2 - 1,Gent,Lokeren
+05/12/1998,4 - 1,KV Oostende,Eendracht Aalst
+05/12/1998,1 - 1,Sporting Charleroi,FC Lommel
+04/12/1998,1 - 2,Westerlo,Club Brugge
+29/11/1998,0 - 0,Club Brugge,Excelsior Mouscron
+29/11/1998,3 - 2,Eendracht Aalst,Westerlo
+29/11/1998,1 - 0,Germinal Ekeren,Beveren
+29/11/1998,2 - 2,Zuid-West-Vlaanderen,Gent
+28/11/1998,3 - 2,Anderlecht,Genk
+28/11/1998,3 - 1,FC Lommel,Kortrijk
+28/11/1998,4 - 2,Lierse,KV Oostende
+28/11/1998,1 - 0,Sint-Truiden,Sporting Charleroi
+27/11/1998,4 - 1,Lokeren,Standard Liège
+22/11/1998,1 - 4,Eendracht Aalst,Lierse
+22/11/1998,2 - 2,Kortrijk,Sint-Truiden
+21/11/1998,1 - 2,Beveren,Club Brugge
+21/11/1998,2 - 1,Excelsior Mouscron,Westerlo
+21/11/1998,6 - 0,Genk,FC Lommel
+21/11/1998,3 - 2,Gent,Anderlecht
+21/11/1998,0 - 0,KV Oostende,Lokeren
+21/11/1998,2 - 2,Sporting Charleroi,Germinal Ekeren
+21/11/1998,0 - 2,Standard Liège,Zuid-West-Vlaanderen
+15/11/1998,0 - 1,Anderlecht,Standard Liège
+15/11/1998,3 - 2,Club Brugge,Sporting Charleroi
+15/11/1998,2 - 1,Germinal Ekeren,Kortrijk
+15/11/1998,2 - 1,Zuid-West-Vlaanderen,KV Oostende
+14/11/1998,3 - 1,Excelsior Mouscron,Eendracht Aalst
+14/11/1998,0 - 1,FC Lommel,Gent
+14/11/1998,2 - 0,Lokeren,Lierse
+14/11/1998,2 - 2,Sint-Truiden,Genk
+14/11/1998,0 - 0,Westerlo,Beveren
+08/11/1998,3 - 3,Eendracht Aalst,Lokeren
+08/11/1998,3 - 2,Genk,Germinal Ekeren
+08/11/1998,2 - 4,Kortrijk,Club Brugge
+07/11/1998,1 - 4,Beveren,Excelsior Mouscron
+07/11/1998,1 - 1,Gent,Sint-Truiden
+07/11/1998,0 - 2,KV Oostende,Anderlecht
+07/11/1998,3 - 1,Lierse,Zuid-West-Vlaanderen
+07/11/1998,1 - 3,Sporting Charleroi,Westerlo
+07/11/1998,1 - 0,Standard Liège,FC Lommel
+31/10/1998,2 - 0,Anderlecht,Lierse
+31/10/1998,0 - 2,Beveren,Eendracht Aalst
+31/10/1998,3 - 0,FC Lommel,KV Oostende
+31/10/1998,8 - 1,Germinal Ekeren,Gent
+31/10/1998,0 - 1,Sint-Truiden,Standard Liège
+31/10/1998,2 - 0,Westerlo,Kortrijk
+31/10/1998,3 - 2,Zuid-West-Vlaanderen,Lokeren
+30/10/1998,2 - 0,Club Brugge,Genk
+30/10/1998,3 - 2,Excelsior Mouscron,Sporting Charleroi
+25/10/1998,2 - 2,Eendracht Aalst,Zuid-West-Vlaanderen
+25/10/1998,3 - 0,Genk,Westerlo
+25/10/1998,2 - 2,Kortrijk,Excelsior Mouscron
+24/10/1998,0 - 4,Gent,Club Brugge
+24/10/1998,0 - 1,KV Oostende,Sint-Truiden
+24/10/1998,2 - 1,Lierse,FC Lommel
+24/10/1998,1 - 2,Sporting Charleroi,Beveren
+24/10/1998,1 - 0,Standard Liège,Germinal Ekeren
+23/10/1998,2 - 3,Lokeren,Anderlecht
+11/10/1998,3 - 5,Excelsior Mouscron,Genk
+10/10/1998,3 - 1,Anderlecht,Zuid-West-Vlaanderen
+10/10/1998,2 - 2,Beveren,Kortrijk
+10/10/1998,1 - 1,Club Brugge,Standard Liège
+10/10/1998,1 - 2,FC Lommel,Lokeren
+10/10/1998,2 - 2,Germinal Ekeren,KV Oostende
+10/10/1998,3 - 0,Sint-Truiden,Lierse
+10/10/1998,0 - 1,Sporting Charleroi,Eendracht Aalst
+10/10/1998,3 - 3,Westerlo,Gent
+04/10/1998,0 - 0,Eendracht Aalst,Anderlecht
+04/10/1998,2 - 2,Kortrijk,Sporting Charleroi
+04/10/1998,1 - 1,Zuid-West-Vlaanderen,FC Lommel
+03/10/1998,1 - 0,Genk,Beveren
+03/10/1998,1 - 4,KV Oostende,Club Brugge
+03/10/1998,1 - 0,Lierse,Germinal Ekeren
+03/10/1998,2 - 1,Lokeren,Sint-Truiden
+03/10/1998,2 - 0,Standard Liège,Westerlo
+02/10/1998,3 - 0,Gent,Excelsior Mouscron
+27/09/1998,3 - 4,Kortrijk,Eendracht Aalst
+26/09/1998,0 - 3,Beveren,Gent
+26/09/1998,3 - 1,Club Brugge,Lierse
+26/09/1998,2 - 2,FC Lommel,Anderlecht
+26/09/1998,1 - 1,Germinal Ekeren,Lokeren
+26/09/1998,1 - 0,Sint-Truiden,Zuid-West-Vlaanderen
+26/09/1998,1 - 1,Sporting Charleroi,Genk
+26/09/1998,7 - 0,Westerlo,KV Oostende
+25/09/1998,1 - 5,Excelsior Mouscron,Standard Liège
+23/09/1998,0 - 1,Club Brugge,FC Lommel
+23/09/1998,1 - 1,KV Oostende,Genk
+23/09/1998,5 - 0,Sporting Charleroi,Lierse
+20/09/1998,3 - 1,Eendracht Aalst,FC Lommel
+20/09/1998,0 - 4,Zuid-West-Vlaanderen,Germinal Ekeren
+19/09/1998,1 - 1,Anderlecht,Sint-Truiden
+19/09/1998,3 - 1,Genk,Kortrijk
+19/09/1998,1 - 1,Gent,Sporting Charleroi
+19/09/1998,2 - 4,KV Oostende,Excelsior Mouscron
+19/09/1998,5 - 1,Lierse,Westerlo
+19/09/1998,1 - 2,Standard Liège,Beveren
+18/09/1998,2 - 0,Lokeren,Club Brugge
+13/09/1998,1 - 0,Club Brugge,Zuid-West-Vlaanderen
+13/09/1998,3 - 4,Kortrijk,Gent
+13/09/1998,1 - 0,Sporting Charleroi,Standard Liège
+12/09/1998,5 - 0,Beveren,KV Oostende
+12/09/1998,0 - 0,Excelsior Mouscron,Lierse
+12/09/1998,2 - 0,Genk,Eendracht Aalst
+12/09/1998,0 - 3,Germinal Ekeren,Anderlecht
+12/09/1998,2 - 1,Sint-Truiden,FC Lommel
+12/09/1998,4 - 3,Westerlo,Lokeren
+09/09/1998,2 - 3,Anderlecht,Club Brugge
+09/09/1998,1 - 3,Eendracht Aalst,Sint-Truiden
+09/09/1998,1 - 2,FC Lommel,Germinal Ekeren
+09/09/1998,0 - 1,Gent,Genk
+09/09/1998,0 - 0,KV Oostende,Sporting Charleroi
+09/09/1998,3 - 0,Lierse,Beveren
+09/09/1998,0 - 0,Lokeren,Excelsior Mouscron
+09/09/1998,2 - 1,Standard Liège,Kortrijk
+09/09/1998,1 - 2,Zuid-West-Vlaanderen,Westerlo
+06/09/1998,2 - 1,Genk,Standard Liège
+06/09/1998,2 - 0,Kortrijk,KV Oostende
+05/09/1998,1 - 2,Beveren,Lokeren
+05/09/1998,2 - 2,Excelsior Mouscron,Zuid-West-Vlaanderen
+05/09/1998,2 - 2,Gent,Eendracht Aalst
+05/09/1998,1 - 0,Germinal Ekeren,Sint-Truiden
+05/09/1998,6 - 0,Westerlo,Anderlecht
+02/09/1998,5 - 0,Eendracht Aalst,Germinal Ekeren
+02/09/1998,0 - 1,FC Lommel,Westerlo
+02/09/1998,5 - 1,Lierse,Kortrijk
+02/09/1998,3 - 1,Lokeren,Sporting Charleroi
+02/09/1998,1 - 1,Sint-Truiden,Club Brugge
+02/09/1998,2 - 0,Standard Liège,Gent
+02/09/1998,1 - 1,Zuid-West-Vlaanderen,Beveren
+01/09/1998,1 - 1,Anderlecht,Excelsior Mouscron
+30/08/1998,3 - 1,Genk,Lierse
+30/08/1998,0 - 6,Kortrijk,Lokeren
+30/08/1998,2 - 1,Sporting Charleroi,Zuid-West-Vlaanderen
+29/08/1998,2 - 1,Beveren,Anderlecht
+29/08/1998,2 - 1,Club Brugge,Germinal Ekeren
+29/08/1998,2 - 0,Excelsior Mouscron,FC Lommel
+29/08/1998,1 - 1,Gent,KV Oostende
+29/08/1998,3 - 0,Standard Liège,Eendracht Aalst
+29/08/1998,1 - 4,Westerlo,Sint-Truiden
+23/08/1998,1 - 0,Zuid-West-Vlaanderen,Kortrijk
+22/08/1998,1 - 1,Anderlecht,Sporting Charleroi
+22/08/1998,0 - 2,Eendracht Aalst,Club Brugge
+22/08/1998,2 - 1,FC Lommel,Beveren
+22/08/1998,0 - 3,Germinal Ekeren,Westerlo
+22/08/1998,1 - 2,Lierse,Gent
+22/08/1998,2 - 0,Lokeren,Genk
+21/08/1998,2 - 1,KV Oostende,Standard Liège
+21/08/1998,0 - 2,Sint-Truiden,Excelsior Mouscron

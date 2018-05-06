@@ -1,0 +1,463 @@
+date,score,home_team,away_team
+06/05/1939,2 - 0,Arsenal,Brentford
+06/05/1939,1 - 1,Aston Villa,Middlesbrough
+06/05/1939,2 - 1,Blackpool,Portsmouth
+06/05/1939,3 - 1,Charlton Athletic,Preston North End
+06/05/1939,1 - 1,Chelsea,Bolton Wanderers
+06/05/1939,3 - 0,Grimsby Town,Everton
+06/05/1939,0 - 0,Leeds United,Stoke City
+06/05/1939,2 - 0,Manchester United,Liverpool
+06/05/1939,0 - 0,Wolverhampton Wanderers,Sunderland
+04/05/1939,0 - 2,Leicester City,Wolverhampton Wanderers
+29/04/1939,4 - 0,Birmingham City,Leeds United
+29/04/1939,0 - 0,Bolton Wanderers,Manchester United
+29/04/1939,1 - 1,Brentford,Blackpool
+29/04/1939,1 - 2,Derby County,Arsenal
+29/04/1939,3 - 0,Everton,Aston Villa
+29/04/1939,1 - 1,Preston North End,Chelsea
+29/04/1939,1 - 0,Stoke City,Charlton Athletic
+29/04/1939,0 - 0,Sunderland,Huddersfield Town
+26/04/1939,1 - 1,Birmingham City,Chelsea
+26/04/1939,0 - 2,Bolton Wanderers,Preston North End
+22/04/1939,2 - 1,Birmingham City,Blackpool
+22/04/1939,0 - 0,Bolton Wanderers,Wolverhampton Wanderers
+22/04/1939,2 - 1,Charlton Athletic,Everton
+22/04/1939,1 - 0,Chelsea,Portsmouth
+22/04/1939,2 - 0,Leeds United,Aston Villa
+22/04/1939,0 - 2,Leicester City,Grimsby Town
+22/04/1939,1 - 1,Liverpool,Sunderland
+22/04/1939,3 - 0,Manchester United,Brentford
+22/04/1939,2 - 0,Middlesbrough,Derby County
+22/04/1939,3 - 0,Preston North End,Huddersfield Town
+22/04/1939,1 - 0,Stoke City,Arsenal
+19/04/1939,2 - 1,Leeds United,Huddersfield Town
+19/04/1939,2 - 1,Portsmouth,Grimsby Town
+15/04/1939,2 - 1,Arsenal,Manchester United
+15/04/1939,1 - 3,Aston Villa,Bolton Wanderers
+15/04/1939,4 - 0,Blackpool,Middlesbrough
+15/04/1939,0 - 1,Brentford,Birmingham City
+15/04/1939,1 - 1,Derby County,Leicester City
+15/04/1939,0 - 0,Everton,Preston North End
+15/04/1939,2 - 1,Grimsby Town,Liverpool
+15/04/1939,3 - 1,Huddersfield Town,Chelsea
+15/04/1939,2 - 0,Portsmouth,Stoke City
+15/04/1939,2 - 1,Sunderland,Leeds United
+15/04/1939,3 - 1,Wolverhampton Wanderers,Charlton Athletic
+11/04/1939,2 - 2,Aston Villa,Wolverhampton Wanderers
+11/04/1939,2 - 0,Huddersfield Town,Grimsby Town
+11/04/1939,5 - 3,Leicester City,Middlesbrough
+10/04/1939,2 - 1,Arsenal,Blackpool
+10/04/1939,0 - 0,Birmingham City,Liverpool
+10/04/1939,1 - 3,Chelsea,Charlton Athletic
+10/04/1939,0 - 1,Derby County,Portsmouth
+10/04/1939,6 - 2,Everton,Sunderland
+10/04/1939,3 - 1,Leeds United,Manchester United
+10/04/1939,3 - 2,Middlesbrough,Leicester City
+10/04/1939,2 - 0,Preston North End,Brentford
+10/04/1939,4 - 1,Stoke City,Bolton Wanderers
+10/04/1939,2 - 1,Wolverhampton Wanderers,Aston Villa
+08/04/1939,1 - 2,Birmingham City,Arsenal
+08/04/1939,2 - 1,Bolton Wanderers,Sunderland
+08/04/1939,1 - 0,Charlton Athletic,Aston Villa
+08/04/1939,0 - 2,Chelsea,Everton
+08/04/1939,0 - 1,Leeds United,Grimsby Town
+08/04/1939,3 - 4,Leicester City,Blackpool
+08/04/1939,2 - 1,Liverpool,Derby County
+08/04/1939,1 - 1,Manchester United,Portsmouth
+08/04/1939,3 - 1,Middlesbrough,Brentford
+08/04/1939,4 - 2,Preston North End,Wolverhampton Wanderers
+08/04/1939,2 - 2,Stoke City,Huddersfield Town
+07/04/1939,1 - 0,Blackpool,Arsenal
+07/04/1939,3 - 1,Brentford,Preston North End
+07/04/1939,2 - 0,Charlton Athletic,Chelsea
+07/04/1939,3 - 3,Grimsby Town,Huddersfield Town
+07/04/1939,4 - 0,Liverpool,Birmingham City
+07/04/1939,0 - 0,Manchester United,Leeds United
+07/04/1939,1 - 3,Portsmouth,Derby County
+07/04/1939,1 - 2,Sunderland,Everton
+01/04/1939,1 - 2,Arsenal,Middlesbrough
+01/04/1939,3 - 0,Aston Villa,Preston North End
+01/04/1939,1 - 1,Blackpool,Liverpool
+01/04/1939,2 - 0,Brentford,Leicester City
+01/04/1939,1 - 0,Derby County,Leeds United
+01/04/1939,1 - 1,Everton,Stoke City
+01/04/1939,1 - 1,Grimsby Town,Bolton Wanderers
+01/04/1939,1 - 1,Huddersfield Town,Manchester United
+01/04/1939,2 - 0,Portsmouth,Birmingham City
+01/04/1939,1 - 1,Sunderland,Charlton Athletic
+01/04/1939,2 - 0,Wolverhampton Wanderers,Chelsea
+29/03/1939,1 - 1,Birmingham City,Huddersfield Town
+29/03/1939,3 - 1,Charlton Athletic,Grimsby Town
+29/03/1939,0 - 2,Manchester United,Everton
+29/03/1939,8 - 2,Middlesbrough,Portsmouth
+29/03/1939,5 - 3,Stoke City,Wolverhampton Wanderers
+25/03/1939,2 - 1,Bolton Wanderers,Derby County
+25/03/1939,2 - 1,Chelsea,Aston Villa
+25/03/1939,1 - 0,Leeds United,Blackpool
+25/03/1939,0 - 2,Leicester City,Arsenal
+25/03/1939,1 - 0,Liverpool,Brentford
+25/03/1939,2 - 1,Preston North End,Sunderland
+18/03/1939,2 - 0,Arsenal,Liverpool
+18/03/1939,3 - 0,Aston Villa,Stoke City
+18/03/1939,0 - 0,Blackpool,Bolton Wanderers
+18/03/1939,0 - 1,Brentford,Leeds United
+18/03/1939,3 - 1,Derby County,Charlton Athletic
+18/03/1939,4 - 2,Everton,Birmingham City
+18/03/1939,1 - 1,Grimsby Town,Preston North End
+18/03/1939,0 - 1,Huddersfield Town,Middlesbrough
+18/03/1939,0 - 1,Portsmouth,Leicester City
+18/03/1939,3 - 2,Sunderland,Chelsea
+18/03/1939,3 - 0,Wolverhampton Wanderers,Manchester United
+15/03/1939,1 - 1,Chelsea,Blackpool
+15/03/1939,1 - 1,Huddersfield Town,Liverpool
+15/03/1939,0 - 2,Sunderland,Portsmouth
+11/03/1939,3 - 2,Birmingham City,Wolverhampton Wanderers
+11/03/1939,1 - 1,Bolton Wanderers,Brentford
+11/03/1939,3 - 1,Charlton Athletic,Blackpool
+11/03/1939,5 - 1,Chelsea,Grimsby Town
+11/03/1939,4 - 2,Leeds United,Arsenal
+11/03/1939,0 - 1,Leicester City,Huddersfield Town
+11/03/1939,4 - 4,Liverpool,Portsmouth
+11/03/1939,1 - 1,Manchester United,Aston Villa
+11/03/1939,4 - 4,Middlesbrough,Everton
+11/03/1939,4 - 1,Preston North End,Derby County
+11/03/1939,3 - 1,Stoke City,Sunderland
+08/03/1939,2 - 1,Blackpool,Preston North End
+08/03/1939,0 - 1,Derby County,Chelsea
+08/03/1939,4 - 0,Everton,Leicester City
+08/03/1939,2 - 0,Portsmouth,Leeds United
+08/03/1939,6 - 1,Wolverhampton Wanderers,Middlesbrough
+07/03/1939,3 - 1,Grimsby Town,Stoke City
+04/03/1939,3 - 1,Arsenal,Bolton Wanderers
+04/03/1939,5 - 1,Aston Villa,Birmingham City
+04/03/1939,1 - 0,Brentford,Charlton Athletic
+04/03/1939,1 - 1,Liverpool,Leicester City
+04/03/1939,5 - 2,Sunderland,Manchester United
+25/02/1939,1 - 1,Birmingham City,Grimsby Town
+25/02/1939,3 - 2,Bolton Wanderers,Huddersfield Town
+25/02/1939,3 - 3,Charlton Athletic,Portsmouth
+25/02/1939,1 - 3,Chelsea,Brentford
+25/02/1939,1 - 2,Leeds United,Everton
+25/02/1939,1 - 1,Leicester City,Aston Villa
+25/02/1939,0 - 2,Liverpool,Wolverhampton Wanderers
+25/02/1939,1 - 1,Manchester United,Derby County
+25/02/1939,3 - 0,Middlesbrough,Sunderland
+25/02/1939,2 - 1,Preston North End,Arsenal
+25/02/1939,1 - 1,Stoke City,Blackpool
+22/02/1939,3 - 0,Bolton Wanderers,Birmingham City
+22/02/1939,2 - 0,Brentford,Portsmouth
+22/02/1939,7 - 0,Wolverhampton Wanderers,Everton
+21/02/1939,2 - 1,Grimsby Town,Arsenal
+18/02/1939,1 - 0,Arsenal,Chelsea
+18/02/1939,2 - 0,Aston Villa,Liverpool
+18/02/1939,3 - 5,Blackpool,Manchester United
+18/02/1939,1 - 0,Brentford,Stoke City
+18/02/1939,0 - 1,Derby County,Birmingham City
+18/02/1939,2 - 1,Everton,Bolton Wanderers
+18/02/1939,0 - 2,Grimsby Town,Middlesbrough
+18/02/1939,4 - 0,Huddersfield Town,Charlton Athletic
+18/02/1939,0 - 0,Portsmouth,Preston North End
+18/02/1939,2 - 0,Sunderland,Leicester City
+18/02/1939,4 - 1,Wolverhampton Wanderers,Leeds United
+15/02/1939,4 - 0,Aston Villa,Huddersfield Town
+15/02/1939,1 - 1,Preston North End,Stoke City
+11/02/1939,7 - 1,Charlton Athletic,Manchester United
+11/02/1939,1 - 2,Derby County,Brentford
+11/02/1939,0 - 1,Leeds United,Middlesbrough
+09/02/1939,1 - 5,Leicester City,Charlton Athletic
+08/02/1939,2 - 4,Brentford,Aston Villa
+04/02/1939,2 - 0,Arsenal,Sunderland
+04/02/1939,3 - 4,Birmingham City,Charlton Athletic
+04/02/1939,2 - 2,Blackpool,Derby County
+04/02/1939,1 - 2,Brentford,Grimsby Town
+04/02/1939,1 - 2,Huddersfield Town,Wolverhampton Wanderers
+04/02/1939,2 - 0,Leicester City,Leeds United
+04/02/1939,0 - 3,Liverpool,Everton
+04/02/1939,1 - 1,Manchester United,Preston North End
+04/02/1939,1 - 2,Middlesbrough,Bolton Wanderers
+04/02/1939,0 - 0,Portsmouth,Aston Villa
+04/02/1939,6 - 1,Stoke City,Chelsea
+01/02/1939,0 - 0,Arsenal,Wolverhampton Wanderers
+01/02/1939,4 - 1,Derby County,Grimsby Town
+01/02/1939,0 - 1,Portsmouth,Everton
+28/01/1939,1 - 3,Aston Villa,Arsenal
+28/01/1939,4 - 0,Bolton Wanderers,Leicester City
+28/01/1939,3 - 0,Charlton Athletic,Middlesbrough
+28/01/1939,0 - 1,Chelsea,Manchester United
+28/01/1939,3 - 2,Everton,Huddersfield Town
+28/01/1939,2 - 0,Grimsby Town,Blackpool
+28/01/1939,1 - 1,Leeds United,Liverpool
+28/01/1939,5 - 0,Preston North End,Birmingham City
+28/01/1939,3 - 0,Stoke City,Derby County
+28/01/1939,1 - 1,Sunderland,Brentford
+28/01/1939,3 - 0,Wolverhampton Wanderers,Portsmouth
+25/01/1939,1 - 1,Blackpool,Sunderland
+25/01/1939,1 - 2,Liverpool,Bolton Wanderers
+25/01/1939,2 - 2,Middlesbrough,Preston North End
+21/01/1939,2 - 0,Arsenal,Charlton Athletic
+21/01/1939,0 - 1,Manchester United,Stoke City
+14/01/1939,3 - 1,Aston Villa,Blackpool
+14/01/1939,2 - 2,Bolton Wanderers,Leeds United
+14/01/1939,1 - 3,Charlton Athletic,Liverpool
+14/01/1939,4 - 2,Chelsea,Middlesbrough
+14/01/1939,2 - 0,Everton,Arsenal
+14/01/1939,3 - 0,Huddersfield Town,Portsmouth
+14/01/1939,3 - 1,Manchester United,Grimsby Town
+14/01/1939,2 - 1,Preston North End,Leicester City
+14/01/1939,6 - 3,Stoke City,Birmingham City
+14/01/1939,1 - 0,Sunderland,Derby County
+14/01/1939,5 - 2,Wolverhampton Wanderers,Brentford
+02/01/1939,1 - 3,Bolton Wanderers,Stoke City
+02/01/1939,3 - 0,Middlesbrough,Liverpool
+31/12/1938,1 - 0,Arsenal,Huddersfield Town
+31/12/1938,3 - 3,Birmingham City,Manchester United
+31/12/1938,1 - 0,Blackpool,Wolverhampton Wanderers
+31/12/1938,5 - 1,Bolton Wanderers,Portsmouth
+31/12/1938,2 - 0,Brentford,Everton
+31/12/1938,2 - 1,Derby County,Aston Villa
+31/12/1938,1 - 3,Grimsby Town,Sunderland
+31/12/1938,2 - 1,Leeds United,Charlton Athletic
+31/12/1938,3 - 2,Leicester City,Chelsea
+31/12/1938,4 - 1,Liverpool,Preston North End
+31/12/1938,5 - 1,Middlesbrough,Stoke City
+27/12/1938,1 - 1,Aston Villa,Sunderland
+27/12/1938,2 - 2,Chelsea,Leeds United
+27/12/1938,2 - 1,Derby County,Everton
+27/12/1938,3 - 0,Huddersfield Town,Blackpool
+27/12/1938,1 - 1,Leicester City,Manchester United
+27/12/1938,1 - 0,Liverpool,Stoke City
+27/12/1938,2 - 2,Middlesbrough,Birmingham City
+27/12/1938,2 - 2,Portsmouth,Brentford
+27/12/1938,2 - 2,Preston North End,Bolton Wanderers
+27/12/1938,5 - 0,Wolverhampton Wanderers,Grimsby Town
+26/12/1938,2 - 1,Birmingham City,Middlesbrough
+26/12/1938,1 - 1,Blackpool,Huddersfield Town
+26/12/1938,1 - 0,Charlton Athletic,Arsenal
+26/12/1938,2 - 2,Everton,Derby County
+26/12/1938,2 - 4,Grimsby Town,Wolverhampton Wanderers
+26/12/1938,1 - 1,Leeds United,Chelsea
+26/12/1938,3 - 0,Manchester United,Leicester City
+26/12/1938,3 - 1,Stoke City,Liverpool
+26/12/1938,1 - 5,Sunderland,Aston Villa
+24/12/1938,0 - 2,Aston Villa,Grimsby Town
+24/12/1938,2 - 1,Charlton Athletic,Bolton Wanderers
+24/12/1938,4 - 1,Chelsea,Liverpool
+24/12/1938,4 - 0,Everton,Blackpool
+24/12/1938,1 - 2,Huddersfield Town,Brentford
+24/12/1938,1 - 1,Manchester United,Middlesbrough
+24/12/1938,0 - 0,Portsmouth,Arsenal
+24/12/1938,2 - 0,Preston North End,Leeds United
+24/12/1938,1 - 0,Stoke City,Leicester City
+24/12/1938,1 - 0,Sunderland,Birmingham City
+24/12/1938,0 - 0,Wolverhampton Wanderers,Derby County
+17/12/1938,4 - 1,Arsenal,Stoke City
+17/12/1938,2 - 1,Aston Villa,Leeds United
+17/12/1938,2 - 1,Blackpool,Birmingham City
+17/12/1938,2 - 5,Brentford,Manchester United
+17/12/1938,1 - 4,Derby County,Middlesbrough
+17/12/1938,1 - 4,Everton,Charlton Athletic
+17/12/1938,6 - 1,Grimsby Town,Leicester City
+17/12/1938,3 - 0,Huddersfield Town,Preston North End
+17/12/1938,2 - 1,Portsmouth,Chelsea
+17/12/1938,2 - 3,Sunderland,Liverpool
+17/12/1938,1 - 1,Wolverhampton Wanderers,Bolton Wanderers
+10/12/1938,5 - 1,Birmingham City,Brentford
+10/12/1938,1 - 2,Bolton Wanderers,Aston Villa
+10/12/1938,0 - 4,Charlton Athletic,Wolverhampton Wanderers
+10/12/1938,3 - 0,Chelsea,Huddersfield Town
+10/12/1938,3 - 3,Leeds United,Sunderland
+10/12/1938,2 - 3,Leicester City,Derby County
+10/12/1938,2 - 2,Liverpool,Grimsby Town
+10/12/1938,1 - 0,Manchester United,Arsenal
+10/12/1938,9 - 2,Middlesbrough,Blackpool
+10/12/1938,0 - 1,Preston North End,Everton
+10/12/1938,1 - 1,Stoke City,Portsmouth
+03/12/1938,3 - 1,Arsenal,Birmingham City
+03/12/1938,2 - 0,Aston Villa,Charlton Athletic
+03/12/1938,1 - 1,Blackpool,Leicester City
+03/12/1938,2 - 1,Brentford,Middlesbrough
+03/12/1938,2 - 2,Derby County,Liverpool
+03/12/1938,4 - 1,Everton,Chelsea
+03/12/1938,3 - 2,Grimsby Town,Leeds United
+03/12/1938,1 - 4,Huddersfield Town,Stoke City
+03/12/1938,0 - 0,Portsmouth,Manchester United
+03/12/1938,2 - 2,Sunderland,Bolton Wanderers
+03/12/1938,3 - 0,Wolverhampton Wanderers,Preston North End
+26/11/1938,2 - 0,Birmingham City,Portsmouth
+26/11/1938,1 - 1,Bolton Wanderers,Grimsby Town
+26/11/1938,3 - 0,Charlton Athletic,Sunderland
+26/11/1938,1 - 3,Chelsea,Wolverhampton Wanderers
+26/11/1938,1 - 4,Leeds United,Derby County
+26/11/1938,1 - 1,Leicester City,Brentford
+26/11/1938,1 - 0,Liverpool,Blackpool
+26/11/1938,1 - 1,Manchester United,Huddersfield Town
+26/11/1938,1 - 1,Middlesbrough,Arsenal
+26/11/1938,3 - 2,Preston North End,Aston Villa
+26/11/1938,0 - 0,Stoke City,Everton
+19/11/1938,0 - 0,Arsenal,Leicester City
+19/11/1938,6 - 2,Aston Villa,Chelsea
+19/11/1938,1 - 2,Blackpool,Leeds United
+19/11/1938,2 - 1,Brentford,Liverpool
+19/11/1938,3 - 0,Derby County,Bolton Wanderers
+19/11/1938,3 - 0,Everton,Manchester United
+19/11/1938,1 - 1,Grimsby Town,Charlton Athletic
+19/11/1938,3 - 1,Huddersfield Town,Birmingham City
+19/11/1938,1 - 1,Portsmouth,Middlesbrough
+19/11/1938,1 - 2,Sunderland,Preston North End
+19/11/1938,3 - 0,Wolverhampton Wanderers,Stoke City
+12/11/1938,1 - 0,Birmingham City,Everton
+12/11/1938,0 - 1,Bolton Wanderers,Blackpool
+12/11/1938,1 - 0,Charlton Athletic,Derby County
+12/11/1938,4 - 0,Chelsea,Sunderland
+12/11/1938,3 - 2,Leeds United,Brentford
+12/11/1938,5 - 0,Leicester City,Portsmouth
+12/11/1938,2 - 2,Liverpool,Arsenal
+12/11/1938,1 - 3,Manchester United,Wolverhampton Wanderers
+12/11/1938,4 - 1,Middlesbrough,Huddersfield Town
+12/11/1938,1 - 1,Preston North End,Grimsby Town
+12/11/1938,3 - 1,Stoke City,Aston Villa
+05/11/1938,2 - 3,Arsenal,Leeds United
+05/11/1938,0 - 2,Aston Villa,Manchester United
+05/11/1938,0 - 0,Blackpool,Charlton Athletic
+05/11/1938,2 - 2,Brentford,Bolton Wanderers
+05/11/1938,2 - 0,Derby County,Preston North End
+05/11/1938,4 - 0,Everton,Middlesbrough
+05/11/1938,2 - 1,Grimsby Town,Chelsea
+05/11/1938,2 - 0,Huddersfield Town,Leicester City
+05/11/1938,1 - 1,Portsmouth,Liverpool
+05/11/1938,3 - 0,Sunderland,Stoke City
+05/11/1938,2 - 1,Wolverhampton Wanderers,Birmingham City
+29/10/1938,3 - 0,Birmingham City,Aston Villa
+29/10/1938,1 - 1,Bolton Wanderers,Arsenal
+29/10/1938,1 - 1,Charlton Athletic,Brentford
+29/10/1938,0 - 2,Chelsea,Derby County
+29/10/1938,2 - 2,Leeds United,Portsmouth
+29/10/1938,3 - 0,Leicester City,Everton
+29/10/1938,3 - 3,Liverpool,Huddersfield Town
+29/10/1938,0 - 1,Manchester United,Sunderland
+29/10/1938,1 - 0,Middlesbrough,Wolverhampton Wanderers
+29/10/1938,1 - 1,Preston North End,Blackpool
+29/10/1938,1 - 2,Stoke City,Grimsby Town
+22/10/1938,1 - 0,Arsenal,Preston North End
+22/10/1938,1 - 2,Aston Villa,Leicester City
+22/10/1938,1 - 1,Blackpool,Stoke City
+22/10/1938,1 - 0,Brentford,Chelsea
+22/10/1938,5 - 1,Derby County,Manchester United
+22/10/1938,4 - 0,Everton,Leeds United
+22/10/1938,1 - 0,Grimsby Town,Birmingham City
+22/10/1938,2 - 1,Huddersfield Town,Bolton Wanderers
+22/10/1938,0 - 2,Portsmouth,Charlton Athletic
+22/10/1938,1 - 2,Sunderland,Middlesbrough
+22/10/1938,2 - 2,Wolverhampton Wanderers,Liverpool
+15/10/1938,3 - 0,Birmingham City,Derby County
+15/10/1938,4 - 2,Bolton Wanderers,Everton
+15/10/1938,2 - 1,Charlton Athletic,Huddersfield Town
+15/10/1938,4 - 2,Chelsea,Arsenal
+15/10/1938,1 - 0,Leeds United,Wolverhampton Wanderers
+15/10/1938,0 - 2,Leicester City,Sunderland
+15/10/1938,3 - 0,Liverpool,Aston Villa
+15/10/1938,0 - 0,Manchester United,Blackpool
+15/10/1938,3 - 2,Middlesbrough,Grimsby Town
+15/10/1938,2 - 2,Preston North End,Portsmouth
+15/10/1938,3 - 2,Stoke City,Brentford
+08/10/1938,2 - 0,Arsenal,Grimsby Town
+08/10/1938,0 - 2,Birmingham City,Bolton Wanderers
+08/10/1938,5 - 1,Blackpool,Chelsea
+08/10/1938,1 - 3,Brentford,Derby County
+08/10/1938,1 - 0,Everton,Wolverhampton Wanderers
+08/10/1938,1 - 1,Huddersfield Town,Aston Villa
+08/10/1938,2 - 2,Leicester City,Liverpool
+08/10/1938,0 - 2,Manchester United,Charlton Athletic
+08/10/1938,1 - 2,Middlesbrough,Leeds United
+08/10/1938,2 - 1,Portsmouth,Sunderland
+08/10/1938,3 - 1,Stoke City,Preston North End
+01/10/1938,2 - 0,Aston Villa,Portsmouth
+01/10/1938,4 - 1,Bolton Wanderers,Middlesbrough
+01/10/1938,4 - 4,Charlton Athletic,Birmingham City
+01/10/1938,1 - 1,Chelsea,Stoke City
+01/10/1938,2 - 1,Derby County,Blackpool
+01/10/1938,2 - 1,Everton,Liverpool
+01/10/1938,0 - 0,Grimsby Town,Brentford
+01/10/1938,8 - 2,Leeds United,Leicester City
+01/10/1938,1 - 1,Preston North End,Manchester United
+01/10/1938,0 - 0,Sunderland,Arsenal
+01/10/1938,3 - 0,Wolverhampton Wanderers,Huddersfield Town
+24/09/1938,0 - 0,Arsenal,Aston Villa
+24/09/1938,1 - 3,Birmingham City,Preston North End
+24/09/1938,3 - 1,Blackpool,Grimsby Town
+24/09/1938,2 - 3,Brentford,Sunderland
+24/09/1938,5 - 0,Derby County,Stoke City
+24/09/1938,3 - 0,Huddersfield Town,Everton
+24/09/1938,0 - 0,Leicester City,Bolton Wanderers
+24/09/1938,3 - 0,Liverpool,Leeds United
+24/09/1938,5 - 1,Manchester United,Chelsea
+24/09/1938,4 - 0,Middlesbrough,Charlton Athletic
+24/09/1938,1 - 0,Portsmouth,Wolverhampton Wanderers
+19/09/1938,4 - 1,Blackpool,Brentford
+17/09/1938,5 - 0,Aston Villa,Brentford
+17/09/1938,3 - 1,Bolton Wanderers,Liverpool
+17/09/1938,1 - 0,Charlton Athletic,Leicester City
+17/09/1938,2 - 2,Chelsea,Birmingham City
+17/09/1938,5 - 1,Everton,Portsmouth
+17/09/1938,1 - 1,Grimsby Town,Derby County
+17/09/1938,0 - 1,Huddersfield Town,Leeds United
+17/09/1938,3 - 1,Preston North End,Middlesbrough
+17/09/1938,1 - 1,Stoke City,Manchester United
+17/09/1938,1 - 2,Sunderland,Blackpool
+17/09/1938,0 - 1,Wolverhampton Wanderers,Arsenal
+14/09/1938,1 - 2,Arsenal,Derby County
+14/09/1938,0 - 1,Huddersfield Town,Sunderland
+14/09/1938,3 - 1,Liverpool,Middlesbrough
+12/09/1938,2 - 1,Leicester City,Birmingham City
+10/09/1938,1 - 2,Arsenal,Everton
+10/09/1938,1 - 2,Birmingham City,Stoke City
+10/09/1938,2 - 4,Blackpool,Aston Villa
+10/09/1938,0 - 1,Brentford,Wolverhampton Wanderers
+10/09/1938,1 - 0,Derby County,Sunderland
+10/09/1938,1 - 0,Grimsby Town,Manchester United
+10/09/1938,1 - 2,Leeds United,Bolton Wanderers
+10/09/1938,2 - 1,Leicester City,Preston North End
+10/09/1938,1 - 0,Liverpool,Charlton Athletic
+10/09/1938,1 - 1,Middlesbrough,Chelsea
+10/09/1938,4 - 0,Portsmouth,Huddersfield Town
+08/09/1938,1 - 0,Brentford,Arsenal
+07/09/1938,2 - 1,Birmingham City,Leicester City
+07/09/1938,3 - 0,Huddersfield Town,Derby County
+07/09/1938,1 - 0,Liverpool,Manchester United
+07/09/1938,1 - 1,Sunderland,Wolverhampton Wanderers
+06/09/1938,2 - 1,Grimsby Town,Portsmouth
+05/09/1938,0 - 3,Aston Villa,Everton
+05/09/1938,0 - 2,Bolton Wanderers,Chelsea
+05/09/1938,2 - 0,Preston North End,Charlton Athletic
+05/09/1938,1 - 1,Stoke City,Leeds United
+03/09/1938,0 - 1,Aston Villa,Derby County
+03/09/1938,2 - 0,Charlton Athletic,Leeds United
+03/09/1938,3 - 0,Chelsea,Leicester City
+03/09/1938,2 - 1,Everton,Brentford
+03/09/1938,1 - 1,Huddersfield Town,Arsenal
+03/09/1938,4 - 1,Manchester United,Birmingham City
+03/09/1938,2 - 1,Portsmouth,Bolton Wanderers
+03/09/1938,1 - 0,Preston North End,Liverpool
+03/09/1938,1 - 3,Stoke City,Middlesbrough
+03/09/1938,1 - 1,Sunderland,Grimsby Town
+03/09/1938,1 - 1,Wolverhampton Wanderers,Blackpool
+31/08/1938,3 - 1,Chelsea,Preston North End
+31/08/1938,1 - 0,Derby County,Huddersfield Town
+31/08/1938,3 - 0,Everton,Grimsby Town
+31/08/1938,2 - 0,Leeds United,Birmingham City
+31/08/1938,2 - 2,Manchester United,Bolton Wanderers
+31/08/1938,1 - 1,Middlesbrough,Aston Villa
+31/08/1938,1 - 0,Portsmouth,Blackpool
+29/08/1938,4 - 2,Charlton Athletic,Stoke City
+29/08/1938,0 - 0,Wolverhampton Wanderers,Leicester City
+27/08/1938,2 - 0,Arsenal,Portsmouth
+27/08/1938,1 - 2,Birmingham City,Sunderland
+27/08/1938,0 - 2,Blackpool,Everton
+27/08/1938,2 - 1,Bolton Wanderers,Charlton Athletic
+27/08/1938,2 - 1,Brentford,Huddersfield Town
+27/08/1938,2 - 2,Derby County,Wolverhampton Wanderers
+27/08/1938,1 - 2,Grimsby Town,Aston Villa
+27/08/1938,2 - 1,Leeds United,Preston North End
+27/08/1938,2 - 2,Leicester City,Stoke City
+27/08/1938,2 - 1,Liverpool,Chelsea
+27/08/1938,3 - 1,Middlesbrough,Manchester United

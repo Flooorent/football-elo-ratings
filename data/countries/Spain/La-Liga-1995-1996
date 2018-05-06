@@ -1,0 +1,463 @@
+date,score,home_team,away_team
+26/05/1996,2 - 2,Deportivo La Coruña,Barcelona
+26/05/1996,3 - 1,Mérida UD,Real Oviedo
+25/05/1996,3 - 1,Athletic Club,Rayo Vallecano
+25/05/1996,2 - 0,Atlético Madrid,Albacete
+25/05/1996,1 - 1,Celta de Vigo,Valencia
+25/05/1996,0 - 0,Espanyol,Compostela
+25/05/1996,2 - 3,Racing Santander,Real Sociedad
+25/05/1996,3 - 1,Real Valladolid,Real Betis
+25/05/1996,0 - 1,Real Zaragoza,Real Madrid
+25/05/1996,3 - 1,Sevilla,Salamanca
+25/05/1996,0 - 2,Sporting Gijón,Tenerife
+19/05/1996,2 - 2,Albacete,Racing Santander
+19/05/1996,3 - 2,Barcelona,Celta de Vigo
+19/05/1996,0 - 0,Compostela,Sevilla
+19/05/1996,4 - 3,Rayo Vallecano,Real Zaragoza
+19/05/1996,1 - 0,Real Betis,Deportivo La Coruña
+19/05/1996,4 - 0,Real Madrid,Mérida UD
+19/05/1996,3 - 8,Real Oviedo,Real Valladolid
+19/05/1996,2 - 2,Real Sociedad,Athletic Club
+19/05/1996,3 - 0,Salamanca,Sporting Gijón
+19/05/1996,1 - 0,Valencia,Espanyol
+18/05/1996,1 - 1,Tenerife,Atlético Madrid
+15/05/1996,1 - 1,Espanyol,Barcelona
+12/05/1996,2 - 1,Atlético Madrid,Salamanca
+12/05/1996,2 - 0,Celta de Vigo,Real Betis
+12/05/1996,0 - 4,Deportivo La Coruña,Real Oviedo
+12/05/1996,0 - 1,Mérida UD,Rayo Vallecano
+12/05/1996,1 - 2,Racing Santander,Tenerife
+12/05/1996,8 - 1,Real Sociedad,Albacete
+12/05/1996,0 - 3,Real Valladolid,Real Madrid
+12/05/1996,1 - 0,Real Zaragoza,Athletic Club
+12/05/1996,1 - 2,Sevilla,Valencia
+12/05/1996,2 - 1,Sporting Gijón,Compostela
+08/05/1996,5 - 0,Espanyol,Real Oviedo
+05/05/1996,2 - 2,Athletic Club,Albacete
+05/05/1996,1 - 1,Barcelona,Sevilla
+05/05/1996,0 - 2,Rayo Vallecano,Real Valladolid
+05/05/1996,2 - 3,Real Betis,Espanyol
+05/05/1996,1 - 0,Real Madrid,Deportivo La Coruña
+05/05/1996,1 - 1,Real Oviedo,Celta de Vigo
+05/05/1996,3 - 1,Real Zaragoza,Mérida UD
+05/05/1996,5 - 0,Salamanca,Racing Santander
+05/05/1996,1 - 0,Tenerife,Real Sociedad
+04/05/1996,1 - 3,Compostela,Atlético Madrid
+04/05/1996,1 - 0,Valencia,Sporting Gijón
+28/04/1996,0 - 0,Albacete,Tenerife
+28/04/1996,1 - 1,Celta de Vigo,Real Madrid
+28/04/1996,1 - 0,Deportivo La Coruña,Rayo Vallecano
+28/04/1996,1 - 0,Mérida UD,Athletic Club
+28/04/1996,1 - 0,Racing Santander,Compostela
+28/04/1996,1 - 0,Real Sociedad,Salamanca
+28/04/1996,0 - 0,Real Valladolid,Real Zaragoza
+28/04/1996,1 - 0,Sevilla,Real Betis
+28/04/1996,0 - 3,Sporting Gijón,Barcelona
+27/04/1996,2 - 3,Atlético Madrid,Valencia
+21/04/1996,2 - 0,Athletic Club,Tenerife
+21/04/1996,2 - 0,Compostela,Real Sociedad
+21/04/1996,1 - 0,Mérida UD,Real Valladolid
+21/04/1996,1 - 3,Rayo Vallecano,Celta de Vigo
+21/04/1996,2 - 5,Real Betis,Sporting Gijón
+21/04/1996,1 - 2,Real Madrid,Espanyol
+21/04/1996,2 - 3,Real Oviedo,Sevilla
+21/04/1996,2 - 3,Real Zaragoza,Deportivo La Coruña
+21/04/1996,2 - 4,Salamanca,Albacete
+20/04/1996,1 - 3,Barcelona,Atlético Madrid
+20/04/1996,2 - 1,Valencia,Racing Santander
+14/04/1996,2 - 1,Albacete,Compostela
+14/04/1996,1 - 1,Atlético Madrid,Real Betis
+14/04/1996,1 - 1,Celta de Vigo,Real Zaragoza
+14/04/1996,2 - 1,Deportivo La Coruña,Mérida UD
+14/04/1996,4 - 2,Espanyol,Rayo Vallecano
+14/04/1996,5 - 2,Real Sociedad,Valencia
+14/04/1996,1 - 1,Real Valladolid,Athletic Club
+14/04/1996,0 - 1,Sporting Gijón,Real Oviedo
+14/04/1996,4 - 0,Tenerife,Salamanca
+13/04/1996,1 - 1,Racing Santander,Barcelona
+13/04/1996,0 - 1,Sevilla,Real Madrid
+07/04/1996,3 - 1,Athletic Club,Salamanca
+07/04/1996,0 - 2,Compostela,Tenerife
+07/04/1996,2 - 0,Mérida UD,Celta de Vigo
+07/04/1996,0 - 0,Rayo Vallecano,Sevilla
+07/04/1996,2 - 2,Real Betis,Racing Santander
+07/04/1996,0 - 1,Real Madrid,Sporting Gijón
+07/04/1996,2 - 2,Real Valladolid,Deportivo La Coruña
+07/04/1996,1 - 0,Valencia,Albacete
+06/04/1996,1 - 0,Barcelona,Real Sociedad
+06/04/1996,1 - 1,Real Oviedo,Atlético Madrid
+06/04/1996,1 - 1,Real Zaragoza,Espanyol
+31/03/1996,0 - 1,Albacete,Barcelona
+31/03/1996,1 - 2,Atlético Madrid,Real Madrid
+31/03/1996,1 - 1,Celta de Vigo,Real Valladolid
+31/03/1996,0 - 0,Deportivo La Coruña,Athletic Club
+31/03/1996,3 - 0,Espanyol,Mérida UD
+31/03/1996,0 - 0,Racing Santander,Real Oviedo
+31/03/1996,1 - 1,Real Sociedad,Real Betis
+31/03/1996,1 - 0,Salamanca,Compostela
+31/03/1996,1 - 1,Sevilla,Real Zaragoza
+31/03/1996,3 - 1,Sporting Gijón,Rayo Vallecano
+31/03/1996,2 - 1,Tenerife,Valencia
+28/03/1996,0 - 0,Real Oviedo,Real Sociedad
+27/03/1996,0 - 0,Athletic Club,Compostela
+27/03/1996,2 - 2,Barcelona,Tenerife
+27/03/1996,2 - 1,Deportivo La Coruña,Celta de Vigo
+27/03/1996,3 - 2,Mérida UD,Sevilla
+27/03/1996,0 - 3,Rayo Vallecano,Atlético Madrid
+27/03/1996,2 - 3,Real Betis,Albacete
+27/03/1996,1 - 2,Real Madrid,Racing Santander
+27/03/1996,0 - 0,Real Valladolid,Espanyol
+27/03/1996,1 - 1,Real Zaragoza,Sporting Gijón
+27/03/1996,2 - 0,Valencia,Salamanca
+24/03/1996,0 - 1,Albacete,Real Oviedo
+24/03/1996,1 - 1,Atlético Madrid,Real Zaragoza
+24/03/1996,3 - 1,Celta de Vigo,Athletic Club
+24/03/1996,0 - 4,Compostela,Valencia
+24/03/1996,0 - 0,Espanyol,Deportivo La Coruña
+24/03/1996,1 - 2,Racing Santander,Rayo Vallecano
+24/03/1996,1 - 1,Real Sociedad,Real Madrid
+24/03/1996,1 - 3,Salamanca,Barcelona
+24/03/1996,1 - 1,Sevilla,Real Valladolid
+23/03/1996,3 - 1,Sporting Gijón,Mérida UD
+23/03/1996,1 - 2,Tenerife,Real Betis
+17/03/1996,0 - 1,Athletic Club,Valencia
+17/03/1996,4 - 2,Celta de Vigo,Espanyol
+17/03/1996,3 - 2,Deportivo La Coruña,Sevilla
+17/03/1996,0 - 1,Mérida UD,Atlético Madrid
+17/03/1996,2 - 0,Rayo Vallecano,Real Sociedad
+17/03/1996,4 - 0,Real Betis,Salamanca
+17/03/1996,1 - 3,Real Oviedo,Tenerife
+17/03/1996,1 - 0,Real Valladolid,Sporting Gijón
+16/03/1996,1 - 0,Barcelona,Compostela
+16/03/1996,2 - 0,Real Madrid,Albacete
+16/03/1996,1 - 2,Real Zaragoza,Racing Santander
+10/03/1996,1 - 2,Albacete,Rayo Vallecano
+10/03/1996,0 - 2,Atlético Madrid,Real Valladolid
+10/03/1996,1 - 2,Compostela,Real Betis
+10/03/1996,3 - 0,Espanyol,Athletic Club
+10/03/1996,2 - 0,Racing Santander,Mérida UD
+10/03/1996,3 - 1,Real Sociedad,Real Zaragoza
+10/03/1996,0 - 1,Salamanca,Real Oviedo
+10/03/1996,0 - 0,Sevilla,Celta de Vigo
+10/03/1996,1 - 1,Sporting Gijón,Deportivo La Coruña
+10/03/1996,3 - 0,Tenerife,Real Madrid
+09/03/1996,4 - 1,Valencia,Barcelona
+03/03/1996,0 - 0,Celta de Vigo,Sporting Gijón
+03/03/1996,2 - 2,Deportivo La Coruña,Atlético Madrid
+03/03/1996,2 - 4,Rayo Vallecano,Tenerife
+03/03/1996,3 - 0,Real Betis,Valencia
+03/03/1996,3 - 1,Real Oviedo,Compostela
+03/03/1996,3 - 1,Real Zaragoza,Albacete
+02/03/1996,0 - 0,Athletic Club,Barcelona
+02/03/1996,0 - 1,Espanyol,Sevilla
+02/03/1996,1 - 2,Mérida UD,Real Sociedad
+02/03/1996,5 - 0,Real Madrid,Salamanca
+02/03/1996,3 - 1,Real Valladolid,Racing Santander
+25/02/1996,2 - 0,Albacete,Mérida UD
+25/02/1996,3 - 2,Atlético Madrid,Celta de Vigo
+25/02/1996,1 - 0,Barcelona,Real Betis
+25/02/1996,3 - 3,Compostela,Real Madrid
+25/02/1996,1 - 0,Real Sociedad,Real Valladolid
+25/02/1996,1 - 2,Salamanca,Rayo Vallecano
+25/02/1996,1 - 1,Sevilla,Athletic Club
+25/02/1996,2 - 3,Sporting Gijón,Espanyol
+25/02/1996,1 - 2,Tenerife,Real Zaragoza
+25/02/1996,3 - 1,Valencia,Real Oviedo
+24/02/1996,2 - 1,Racing Santander,Deportivo La Coruña
+18/02/1996,0 - 1,Athletic Club,Real Betis
+18/02/1996,0 - 0,Celta de Vigo,Racing Santander
+18/02/1996,1 - 1,Deportivo La Coruña,Real Sociedad
+18/02/1996,0 - 2,Espanyol,Atlético Madrid
+18/02/1996,2 - 0,Mérida UD,Tenerife
+18/02/1996,0 - 1,Rayo Vallecano,Compostela
+18/02/1996,1 - 2,Real Oviedo,Barcelona
+18/02/1996,3 - 0,Real Valladolid,Albacete
+18/02/1996,2 - 0,Sevilla,Sporting Gijón
+17/02/1996,0 - 0,Real Madrid,Valencia
+17/02/1996,1 - 1,Real Zaragoza,Salamanca
+11/02/1996,1 - 0,Albacete,Deportivo La Coruña
+11/02/1996,3 - 2,Compostela,Real Zaragoza
+11/02/1996,1 - 1,Racing Santander,Espanyol
+11/02/1996,2 - 1,Real Betis,Real Oviedo
+11/02/1996,3 - 1,Real Sociedad,Celta de Vigo
+11/02/1996,2 - 2,Salamanca,Mérida UD
+11/02/1996,1 - 2,Sporting Gijón,Athletic Club
+11/02/1996,1 - 0,Tenerife,Real Valladolid
+10/02/1996,0 - 1,Atlético Madrid,Sevilla
+10/02/1996,3 - 0,Barcelona,Real Madrid
+10/02/1996,3 - 0,Valencia,Rayo Vallecano
+04/02/1996,0 - 1,Athletic Club,Real Oviedo
+04/02/1996,2 - 2,Celta de Vigo,Albacete
+04/02/1996,1 - 1,Deportivo La Coruña,Tenerife
+04/02/1996,0 - 0,Espanyol,Real Sociedad
+04/02/1996,0 - 2,Mérida UD,Compostela
+04/02/1996,1 - 1,Rayo Vallecano,Barcelona
+04/02/1996,4 - 2,Real Madrid,Real Betis
+04/02/1996,1 - 0,Real Valladolid,Salamanca
+04/02/1996,0 - 1,Sevilla,Racing Santander
+03/02/1996,4 - 1,Real Zaragoza,Valencia
+03/02/1996,1 - 2,Sporting Gijón,Atlético Madrid
+28/01/1996,0 - 0,Albacete,Espanyol
+28/01/1996,4 - 1,Atlético Madrid,Athletic Club
+28/01/1996,3 - 1,Barcelona,Real Zaragoza
+28/01/1996,1 - 3,Compostela,Real Valladolid
+28/01/1996,1 - 1,Racing Santander,Sporting Gijón
+28/01/1996,0 - 0,Real Betis,Rayo Vallecano
+28/01/1996,1 - 2,Real Oviedo,Real Madrid
+28/01/1996,1 - 0,Real Sociedad,Sevilla
+28/01/1996,1 - 0,Tenerife,Celta de Vigo
+28/01/1996,4 - 1,Valencia,Mérida UD
+27/01/1996,0 - 5,Salamanca,Deportivo La Coruña
+25/01/1996,0 - 0,Mérida UD,Barcelona
+24/01/1996,0 - 5,Athletic Club,Real Madrid
+24/01/1996,2 - 0,Atlético Madrid,Racing Santander
+24/01/1996,2 - 1,Celta de Vigo,Salamanca
+24/01/1996,2 - 0,Deportivo La Coruña,Compostela
+24/01/1996,2 - 1,Espanyol,Tenerife
+24/01/1996,1 - 2,Rayo Vallecano,Real Oviedo
+24/01/1996,2 - 5,Real Valladolid,Valencia
+24/01/1996,1 - 2,Real Zaragoza,Real Betis
+24/01/1996,1 - 1,Sevilla,Albacete
+24/01/1996,1 - 1,Sporting Gijón,Real Sociedad
+21/01/1996,1 - 3,Albacete,Sporting Gijón
+21/01/1996,1 - 0,Barcelona,Real Valladolid
+21/01/1996,1 - 1,Compostela,Celta de Vigo
+21/01/1996,1 - 1,Racing Santander,Athletic Club
+21/01/1996,0 - 1,Real Betis,Mérida UD
+21/01/1996,1 - 2,Real Madrid,Rayo Vallecano
+21/01/1996,1 - 1,Real Oviedo,Real Zaragoza
+21/01/1996,1 - 0,Real Sociedad,Atlético Madrid
+21/01/1996,2 - 2,Salamanca,Espanyol
+21/01/1996,4 - 2,Tenerife,Sevilla
+20/01/1996,2 - 1,Valencia,Deportivo La Coruña
+14/01/1996,1 - 1,Barcelona,Deportivo La Coruña
+14/01/1996,2 - 1,Compostela,Espanyol
+14/01/1996,2 - 2,Rayo Vallecano,Athletic Club
+14/01/1996,2 - 2,Real Madrid,Real Zaragoza
+14/01/1996,0 - 0,Real Oviedo,Mérida UD
+14/01/1996,2 - 1,Real Sociedad,Racing Santander
+14/01/1996,4 - 1,Salamanca,Sevilla
+14/01/1996,3 - 0,Tenerife,Sporting Gijón
+14/01/1996,3 - 0,Valencia,Celta de Vigo
+13/01/1996,1 - 1,Albacete,Atlético Madrid
+13/01/1996,3 - 0,Real Betis,Real Valladolid
+07/01/1996,1 - 0,Celta de Vigo,Barcelona
+07/01/1996,0 - 0,Deportivo La Coruña,Real Betis
+07/01/1996,2 - 0,Espanyol,Valencia
+07/01/1996,2 - 2,Mérida UD,Real Madrid
+07/01/1996,5 - 5,Racing Santander,Albacete
+07/01/1996,2 - 2,Real Valladolid,Real Oviedo
+07/01/1996,1 - 1,Real Zaragoza,Rayo Vallecano
+07/01/1996,0 - 1,Sevilla,Compostela
+07/01/1996,3 - 2,Sporting Gijón,Salamanca
+06/01/1996,0 - 0,Athletic Club,Real Sociedad
+06/01/1996,3 - 1,Atlético Madrid,Tenerife
+04/01/1996,2 - 1,Barcelona,Espanyol
+03/01/1996,3 - 5,Albacete,Real Sociedad
+03/01/1996,1 - 0,Athletic Club,Real Zaragoza
+03/01/1996,1 - 0,Compostela,Sporting Gijón
+03/01/1996,4 - 1,Rayo Vallecano,Mérida UD
+03/01/1996,0 - 3,Real Betis,Celta de Vigo
+03/01/1996,4 - 1,Real Madrid,Real Valladolid
+03/01/1996,0 - 2,Real Oviedo,Deportivo La Coruña
+03/01/1996,1 - 3,Salamanca,Atlético Madrid
+03/01/1996,2 - 0,Tenerife,Racing Santander
+03/01/1996,1 - 0,Valencia,Sevilla
+21/12/1995,3 - 0,Deportivo La Coruña,Real Madrid
+20/12/1995,2 - 0,Albacete,Athletic Club
+20/12/1995,3 - 0,Atlético Madrid,Compostela
+20/12/1995,1 - 0,Celta de Vigo,Real Oviedo
+20/12/1995,1 - 1,Espanyol,Real Betis
+20/12/1995,1 - 1,Mérida UD,Real Zaragoza
+20/12/1995,2 - 1,Racing Santander,Salamanca
+20/12/1995,0 - 1,Real Sociedad,Tenerife
+20/12/1995,1 - 1,Real Valladolid,Rayo Vallecano
+20/12/1995,1 - 0,Sevilla,Barcelona
+20/12/1995,1 - 3,Sporting Gijón,Valencia
+17/12/1995,1 - 1,Athletic Club,Mérida UD
+17/12/1995,2 - 0,Compostela,Racing Santander
+17/12/1995,0 - 6,Rayo Vallecano,Deportivo La Coruña
+17/12/1995,1 - 0,Real Madrid,Celta de Vigo
+17/12/1995,1 - 2,Real Oviedo,Espanyol
+17/12/1995,5 - 3,Real Zaragoza,Real Valladolid
+17/12/1995,3 - 3,Salamanca,Real Sociedad
+17/12/1995,1 - 3,Tenerife,Albacete
+17/12/1995,0 - 1,Valencia,Atlético Madrid
+16/12/1995,1 - 0,Barcelona,Sporting Gijón
+16/12/1995,1 - 1,Real Betis,Sevilla
+10/12/1995,3 - 3,Albacete,Salamanca
+10/12/1995,2 - 0,Celta de Vigo,Rayo Vallecano
+10/12/1995,2 - 3,Deportivo La Coruña,Real Zaragoza
+10/12/1995,3 - 1,Espanyol,Real Madrid
+10/12/1995,0 - 1,Real Sociedad,Compostela
+10/12/1995,1 - 1,Real Valladolid,Mérida UD
+10/12/1995,1 - 1,Sevilla,Real Oviedo
+10/12/1995,2 - 3,Sporting Gijón,Real Betis
+10/12/1995,3 - 2,Tenerife,Athletic Club
+09/12/1995,3 - 1,Atlético Madrid,Barcelona
+09/12/1995,0 - 3,Racing Santander,Valencia
+03/12/1995,2 - 1,Athletic Club,Real Valladolid
+03/12/1995,3 - 1,Compostela,Albacete
+03/12/1995,0 - 2,Mérida UD,Deportivo La Coruña
+03/12/1995,2 - 1,Real Betis,Atlético Madrid
+03/12/1995,1 - 0,Real Oviedo,Sporting Gijón
+03/12/1995,0 - 0,Real Zaragoza,Celta de Vigo
+03/12/1995,1 - 2,Salamanca,Tenerife
+03/12/1995,0 - 1,Valencia,Real Sociedad
+02/12/1995,1 - 1,Barcelona,Racing Santander
+02/12/1995,1 - 0,Rayo Vallecano,Espanyol
+02/12/1995,4 - 1,Real Madrid,Sevilla
+26/11/1995,1 - 3,Albacete,Valencia
+26/11/1995,3 - 0,Atlético Madrid,Real Oviedo
+26/11/1995,2 - 0,Celta de Vigo,Mérida UD
+26/11/1995,3 - 1,Deportivo La Coruña,Real Valladolid
+26/11/1995,1 - 1,Espanyol,Real Zaragoza
+26/11/1995,0 - 0,Racing Santander,Real Betis
+26/11/1995,2 - 1,Salamanca,Athletic Club
+26/11/1995,1 - 0,Sevilla,Rayo Vallecano
+26/11/1995,0 - 0,Sporting Gijón,Real Madrid
+26/11/1995,1 - 1,Tenerife,Compostela
+25/11/1995,1 - 1,Real Sociedad,Barcelona
+19/11/1995,1 - 0,Athletic Club,Deportivo La Coruña
+19/11/1995,0 - 0,Compostela,Salamanca
+19/11/1995,0 - 1,Mérida UD,Espanyol
+19/11/1995,2 - 0,Rayo Vallecano,Sporting Gijón
+19/11/1995,2 - 1,Real Oviedo,Racing Santander
+19/11/1995,1 - 1,Real Valladolid,Celta de Vigo
+19/11/1995,2 - 2,Valencia,Tenerife
+18/11/1995,3 - 0,Barcelona,Albacete
+18/11/1995,3 - 1,Real Betis,Real Sociedad
+18/11/1995,1 - 0,Real Madrid,Atlético Madrid
+18/11/1995,0 - 1,Real Zaragoza,Sevilla
+12/11/1995,0 - 0,Albacete,Real Betis
+12/11/1995,0 - 0,Atlético Madrid,Rayo Vallecano
+12/11/1995,2 - 1,Compostela,Athletic Club
+12/11/1995,2 - 0,Espanyol,Real Valladolid
+12/11/1995,2 - 0,Racing Santander,Real Madrid
+12/11/1995,1 - 1,Real Sociedad,Real Oviedo
+12/11/1995,4 - 0,Salamanca,Valencia
+12/11/1995,3 - 0,Sevilla,Mérida UD
+12/11/1995,4 - 1,Sporting Gijón,Real Zaragoza
+12/11/1995,1 - 1,Tenerife,Barcelona
+11/11/1995,0 - 0,Celta de Vigo,Deportivo La Coruña
+05/11/1995,3 - 0,Athletic Club,Celta de Vigo
+05/11/1995,4 - 1,Barcelona,Salamanca
+05/11/1995,0 - 1,Deportivo La Coruña,Espanyol
+05/11/1995,1 - 0,Mérida UD,Sporting Gijón
+05/11/1995,1 - 2,Rayo Vallecano,Racing Santander
+05/11/1995,3 - 3,Real Betis,Tenerife
+05/11/1995,1 - 0,Real Oviedo,Albacete
+05/11/1995,3 - 3,Real Valladolid,Sevilla
+05/11/1995,0 - 1,Real Zaragoza,Atlético Madrid
+05/11/1995,5 - 2,Valencia,Compostela
+04/11/1995,3 - 2,Real Madrid,Real Sociedad
+29/10/1995,1 - 1,Atlético Madrid,Mérida UD
+29/10/1995,2 - 2,Espanyol,Celta de Vigo
+29/10/1995,0 - 0,Racing Santander,Real Zaragoza
+29/10/1995,2 - 1,Real Sociedad,Rayo Vallecano
+29/10/1995,2 - 1,Salamanca,Real Betis
+29/10/1995,4 - 2,Sporting Gijón,Real Valladolid
+29/10/1995,3 - 3,Tenerife,Real Oviedo
+29/10/1995,3 - 1,Valencia,Athletic Club
+28/10/1995,1 - 1,Albacete,Real Madrid
+28/10/1995,2 - 1,Compostela,Barcelona
+28/10/1995,0 - 0,Sevilla,Deportivo La Coruña
+22/10/1995,0 - 0,Athletic Club,Espanyol
+22/10/1995,1 - 0,Barcelona,Valencia
+22/10/1995,4 - 0,Celta de Vigo,Sevilla
+22/10/1995,1 - 0,Deportivo La Coruña,Sporting Gijón
+22/10/1995,3 - 1,Mérida UD,Racing Santander
+22/10/1995,2 - 0,Rayo Vallecano,Albacete
+22/10/1995,5 - 0,Real Betis,Compostela
+22/10/1995,2 - 0,Real Madrid,Tenerife
+22/10/1995,2 - 2,Real Oviedo,Salamanca
+22/10/1995,1 - 2,Real Zaragoza,Real Sociedad
+21/10/1995,0 - 1,Real Valladolid,Atlético Madrid
+15/10/1995,0 - 1,Albacete,Real Zaragoza
+15/10/1995,4 - 1,Compostela,Real Oviedo
+15/10/1995,0 - 0,Racing Santander,Real Valladolid
+15/10/1995,1 - 2,Real Sociedad,Mérida UD
+15/10/1995,0 - 2,Salamanca,Real Madrid
+15/10/1995,1 - 0,Sporting Gijón,Celta de Vigo
+15/10/1995,2 - 2,Tenerife,Rayo Vallecano
+14/10/1995,1 - 0,Atlético Madrid,Deportivo La Coruña
+14/10/1995,4 - 1,Barcelona,Athletic Club
+14/10/1995,0 - 3,Sevilla,Espanyol
+14/10/1995,1 - 1,Valencia,Real Betis
+08/10/1995,1 - 1,Athletic Club,Sevilla
+08/10/1995,0 - 3,Celta de Vigo,Atlético Madrid
+08/10/1995,2 - 3,Deportivo La Coruña,Racing Santander
+08/10/1995,0 - 0,Espanyol,Sporting Gijón
+08/10/1995,1 - 1,Mérida UD,Albacete
+08/10/1995,1 - 4,Rayo Vallecano,Salamanca
+08/10/1995,2 - 1,Real Madrid,Compostela
+08/10/1995,0 - 1,Real Oviedo,Valencia
+08/10/1995,3 - 0,Real Valladolid,Real Sociedad
+08/10/1995,0 - 2,Real Zaragoza,Tenerife
+07/10/1995,1 - 5,Real Betis,Barcelona
+05/10/1995,2 - 1,Atlético Madrid,Espanyol
+04/10/1995,4 - 2,Albacete,Real Valladolid
+04/10/1995,4 - 1,Barcelona,Real Oviedo
+04/10/1995,1 - 0,Compostela,Rayo Vallecano
+04/10/1995,2 - 1,Racing Santander,Celta de Vigo
+04/10/1995,0 - 0,Real Betis,Athletic Club
+04/10/1995,2 - 1,Real Sociedad,Deportivo La Coruña
+04/10/1995,0 - 1,Salamanca,Real Zaragoza
+04/10/1995,3 - 1,Sporting Gijón,Sevilla
+04/10/1995,1 - 0,Tenerife,Mérida UD
+04/10/1995,4 - 3,Valencia,Real Madrid
+01/10/1995,1 - 1,Celta de Vigo,Real Sociedad
+01/10/1995,5 - 0,Deportivo La Coruña,Albacete
+01/10/1995,1 - 0,Espanyol,Racing Santander
+01/10/1995,0 - 0,Mérida UD,Salamanca
+01/10/1995,3 - 2,Rayo Vallecano,Valencia
+01/10/1995,0 - 1,Real Oviedo,Real Betis
+01/10/1995,3 - 0,Real Valladolid,Tenerife
+01/10/1995,1 - 0,Real Zaragoza,Compostela
+01/10/1995,0 - 0,Sevilla,Atlético Madrid
+30/09/1995,2 - 1,Athletic Club,Sporting Gijón
+30/09/1995,1 - 1,Real Madrid,Barcelona
+24/09/1995,4 - 0,Albacete,Celta de Vigo
+24/09/1995,2 - 0,Atlético Madrid,Sporting Gijón
+24/09/1995,1 - 0,Compostela,Mérida UD
+24/09/1995,0 - 0,Real Oviedo,Athletic Club
+24/09/1995,0 - 1,Real Sociedad,Espanyol
+24/09/1995,0 - 0,Salamanca,Real Valladolid
+24/09/1995,1 - 1,Tenerife,Deportivo La Coruña
+24/09/1995,0 - 0,Valencia,Real Zaragoza
+23/09/1995,2 - 0,Barcelona,Rayo Vallecano
+23/09/1995,1 - 1,Racing Santander,Sevilla
+23/09/1995,0 - 0,Real Betis,Real Madrid
+17/09/1995,2 - 2,Celta de Vigo,Tenerife
+17/09/1995,2 - 0,Deportivo La Coruña,Salamanca
+17/09/1995,1 - 0,Espanyol,Albacete
+17/09/1995,0 - 2,Mérida UD,Valencia
+17/09/1995,1 - 2,Rayo Vallecano,Real Betis
+17/09/1995,2 - 3,Real Madrid,Real Oviedo
+17/09/1995,0 - 0,Real Valladolid,Compostela
+17/09/1995,0 - 3,Real Zaragoza,Barcelona
+17/09/1995,2 - 1,Sevilla,Real Sociedad
+17/09/1995,4 - 2,Sporting Gijón,Racing Santander
+16/09/1995,0 - 2,Athletic Club,Atlético Madrid
+10/09/1995,4 - 0,Compostela,Deportivo La Coruña
+10/09/1995,0 - 4,Racing Santander,Atlético Madrid
+10/09/1995,2 - 0,Real Oviedo,Rayo Vallecano
+10/09/1995,2 - 0,Real Sociedad,Sporting Gijón
+10/09/1995,0 - 1,Salamanca,Celta de Vigo
+10/09/1995,1 - 4,Tenerife,Espanyol
+10/09/1995,1 - 0,Valencia,Real Valladolid
+09/09/1995,3 - 2,Albacete,Sevilla
+09/09/1995,2 - 2,Barcelona,Mérida UD
+09/09/1995,3 - 1,Real Betis,Real Zaragoza
+09/09/1995,1 - 2,Real Madrid,Athletic Club
+03/09/1995,4 - 0,Athletic Club,Racing Santander
+03/09/1995,4 - 1,Atlético Madrid,Real Sociedad
+03/09/1995,0 - 1,Celta de Vigo,Compostela
+03/09/1995,3 - 1,Espanyol,Salamanca
+03/09/1995,1 - 1,Mérida UD,Real Betis
+03/09/1995,1 - 5,Rayo Vallecano,Real Madrid
+03/09/1995,0 - 2,Real Valladolid,Barcelona
+03/09/1995,1 - 0,Real Zaragoza,Real Oviedo
+03/09/1995,0 - 1,Sevilla,Tenerife
+02/09/1995,3 - 0,Deportivo La Coruña,Valencia
+02/09/1995,3 - 0,Sporting Gijón,Albacete

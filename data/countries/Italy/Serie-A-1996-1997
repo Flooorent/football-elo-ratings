@@ -1,0 +1,307 @@
+date,score,home_team,away_team
+01/06/1997,2 - 2,Bologna,Internazionale
+01/06/1997,1 - 2,Hellas Verona,Parma
+01/06/1997,2 - 2,Juventus,Lazio
+01/06/1997,0 - 1,Milan,Cagliari
+01/06/1997,1 - 0,Napoli,Vicenza
+01/06/1997,2 - 1,Piacenza,Perugia
+01/06/1997,0 - 3,Reggiana,Atalanta
+01/06/1997,0 - 3,Roma,Udinese
+01/06/1997,1 - 1,Sampdoria,Fiorentina
+25/05/1997,3 - 4,Cagliari,Sampdoria
+25/05/1997,3 - 0,Fiorentina,Reggiana
+25/05/1997,3 - 2,Internazionale,Napoli
+25/05/1997,4 - 1,Lazio,Hellas Verona
+25/05/1997,1 - 0,Parma,Bologna
+25/05/1997,2 - 0,Perugia,Roma
+25/05/1997,4 - 0,Udinese,Piacenza
+25/05/1997,2 - 0,Vicenza,Milan
+23/05/1997,1 - 1,Atalanta,Juventus
+18/05/1997,0 - 0,Bologna,Vicenza
+18/05/1997,1 - 1,Hellas Verona,Atalanta
+18/05/1997,1 - 1,Juventus,Parma
+18/05/1997,2 - 2,Milan,Lazio
+18/05/1997,2 - 2,Napoli,Fiorentina
+18/05/1997,1 - 1,Piacenza,Cagliari
+18/05/1997,1 - 4,Reggiana,Perugia
+18/05/1997,1 - 1,Roma,Internazionale
+18/05/1997,4 - 0,Sampdoria,Udinese
+15/05/1997,0 - 4,Atalanta,Roma
+15/05/1997,4 - 1,Cagliari,Fiorentina
+15/05/1997,3 - 1,Internazionale,Reggiana
+15/05/1997,4 - 1,Juventus,Piacenza
+15/05/1997,3 - 2,Lazio,Napoli
+15/05/1997,1 - 1,Parma,Milan
+15/05/1997,5 - 1,Perugia,Bologna
+15/05/1997,3 - 0,Udinese,Hellas Verona
+15/05/1997,1 - 1,Vicenza,Sampdoria
+11/05/1997,3 - 0,Bologna,Cagliari
+11/05/1997,2 - 3,Fiorentina,Udinese
+11/05/1997,0 - 2,Hellas Verona,Juventus
+11/05/1997,4 - 1,Lazio,Perugia
+11/05/1997,3 - 1,Milan,Reggiana
+11/05/1997,1 - 0,Napoli,Roma
+11/05/1997,3 - 0,Parma,Vicenza
+11/05/1997,3 - 1,Piacenza,Atalanta
+11/05/1997,1 - 2,Sampdoria,Internazionale
+04/05/1997,1 - 2,Atalanta,Parma
+04/05/1997,2 - 0,Hellas Verona,Napoli
+04/05/1997,0 - 1,Internazionale,Vicenza
+04/05/1997,0 - 0,Juventus,Sampdoria
+04/05/1997,1 - 1,Perugia,Fiorentina
+04/05/1997,1 - 1,Piacenza,Bologna
+04/05/1997,0 - 3,Reggiana,Cagliari
+04/05/1997,1 - 1,Roma,Lazio
+04/05/1997,1 - 1,Udinese,Milan
+20/04/1997,0 - 1,Bologna,Juventus
+20/04/1997,1 - 2,Cagliari,Internazionale
+20/04/1997,2 - 1,Fiorentina,Roma
+20/04/1997,6 - 1,Lazio,Reggiana
+20/04/1997,0 - 0,Milan,Piacenza
+20/04/1997,0 - 1,Napoli,Atalanta
+20/04/1997,0 - 2,Parma,Udinese
+20/04/1997,0 - 0,Sampdoria,Hellas Verona
+20/04/1997,4 - 1,Vicenza,Perugia
+13/04/1997,1 - 1,Atalanta,Bologna
+13/04/1997,2 - 0,Hellas Verona,Perugia
+13/04/1997,3 - 1,Internazionale,Milan
+13/04/1997,0 - 3,Juventus,Udinese
+13/04/1997,1 - 1,Napoli,Cagliari
+13/04/1997,1 - 1,Piacenza,Fiorentina
+13/04/1997,0 - 0,Reggiana,Vicenza
+13/04/1997,0 - 1,Roma,Parma
+13/04/1997,1 - 0,Sampdoria,Lazio
+06/04/1997,3 - 2,Bologna,Reggiana
+06/04/1997,2 - 1,Cagliari,Roma
+06/04/1997,0 - 0,Fiorentina,Internazionale
+06/04/1997,2 - 0,Lazio,Piacenza
+06/04/1997,1 - 6,Milan,Juventus
+06/04/1997,3 - 0,Parma,Sampdoria
+06/04/1997,1 - 1,Perugia,Napoli
+06/04/1997,2 - 0,Udinese,Atalanta
+06/04/1997,0 - 0,Vicenza,Hellas Verona
+23/03/1997,0 - 2,Atalanta,Milan
+23/03/1997,1 - 0,Fiorentina,Parma
+23/03/1997,2 - 1,Internazionale,Hellas Verona
+23/03/1997,0 - 0,Napoli,Juventus
+23/03/1997,3 - 2,Perugia,Cagliari
+23/03/1997,2 - 2,Piacenza,Sampdoria
+23/03/1997,0 - 0,Reggiana,Udinese
+23/03/1997,1 - 1,Roma,Bologna
+23/03/1997,0 - 2,Vicenza,Lazio
+16/03/1997,2 - 1,Bologna,Napoli
+16/03/1997,2 - 1,Cagliari,Vicenza
+16/03/1997,0 - 0,Hellas Verona,Piacenza
+16/03/1997,3 - 0,Juventus,Roma
+16/03/1997,3 - 2,Lazio,Atalanta
+16/03/1997,2 - 0,Milan,Fiorentina
+16/03/1997,1 - 0,Parma,Internazionale
+16/03/1997,3 - 0,Sampdoria,Reggiana
+16/03/1997,2 - 1,Udinese,Perugia
+09/03/1997,4 - 0,Atalanta,Sampdoria
+09/03/1997,0 - 0,Cagliari,Lazio
+09/03/1997,3 - 2,Fiorentina,Bologna
+09/03/1997,0 - 0,Internazionale,Juventus
+09/03/1997,0 - 0,Napoli,Milan
+09/03/1997,1 - 2,Perugia,Parma
+09/03/1997,0 - 0,Reggiana,Piacenza
+09/03/1997,4 - 3,Roma,Hellas Verona
+09/03/1997,2 - 0,Vicenza,Udinese
+02/03/1997,2 - 2,Atalanta,Perugia
+02/03/1997,2 - 4,Hellas Verona,Reggiana
+02/03/1997,2 - 0,Juventus,Vicenza
+02/03/1997,1 - 0,Lazio,Fiorentina
+02/03/1997,1 - 1,Milan,Roma
+02/03/1997,3 - 2,Parma,Cagliari
+02/03/1997,0 - 3,Piacenza,Internazionale
+02/03/1997,1 - 2,Sampdoria,Bologna
+02/03/1997,2 - 2,Udinese,Napoli
+23/02/1997,0 - 0,Bologna,Udinese
+23/02/1997,3 - 2,Cagliari,Hellas Verona
+23/02/1997,1 - 1,Fiorentina,Juventus
+23/02/1997,2 - 0,Internazionale,Atalanta
+23/02/1997,1 - 1,Napoli,Sampdoria
+23/02/1997,2 - 0,Parma,Lazio
+23/02/1997,1 - 0,Perugia,Milan
+23/02/1997,2 - 2,Roma,Reggiana
+23/02/1997,1 - 1,Vicenza,Piacenza
+16/02/1997,3 - 1,Atalanta,Vicenza
+16/02/1997,2 - 1,Hellas Verona,Fiorentina
+16/02/1997,2 - 1,Juventus,Perugia
+16/02/1997,2 - 2,Lazio,Internazionale
+16/02/1997,2 - 0,Milan,Bologna
+16/02/1997,1 - 0,Piacenza,Napoli
+16/02/1997,0 - 0,Reggiana,Parma
+16/02/1997,1 - 2,Sampdoria,Roma
+16/02/1997,1 - 0,Udinese,Cagliari
+02/02/1997,6 - 1,Bologna,Hellas Verona
+02/02/1997,0 - 0,Cagliari,Juventus
+02/02/1997,0 - 0,Fiorentina,Atalanta
+02/02/1997,2 - 3,Milan,Sampdoria
+02/02/1997,1 - 0,Parma,Piacenza
+02/02/1997,0 - 0,Perugia,Internazionale
+02/02/1997,1 - 1,Reggiana,Napoli
+02/02/1997,2 - 0,Roma,Vicenza
+02/02/1997,2 - 3,Udinese,Lazio
+26/01/1997,4 - 1,Atalanta,Cagliari
+26/01/1997,3 - 1,Hellas Verona,Milan
+26/01/1997,1 - 1,Internazionale,Udinese
+26/01/1997,3 - 1,Juventus,Reggiana
+26/01/1997,1 - 2,Lazio,Bologna
+26/01/1997,2 - 1,Napoli,Parma
+26/01/1997,0 - 0,Piacenza,Roma
+26/01/1997,5 - 2,Sampdoria,Perugia
+26/01/1997,3 - 2,Vicenza,Fiorentina
+19/01/1997,1 - 0,Atalanta,Reggiana
+19/01/1997,1 - 1,Cagliari,Milan
+19/01/1997,1 - 1,Fiorentina,Sampdoria
+19/01/1997,0 - 2,Internazionale,Bologna
+19/01/1997,0 - 2,Lazio,Juventus
+19/01/1997,1 - 0,Parma,Hellas Verona
+19/01/1997,1 - 1,Perugia,Piacenza
+19/01/1997,1 - 0,Udinese,Roma
+19/01/1997,2 - 2,Vicenza,Napoli
+12/01/1997,0 - 1,Bologna,Parma
+12/01/1997,1 - 1,Hellas Verona,Lazio
+12/01/1997,0 - 0,Juventus,Atalanta
+12/01/1997,1 - 0,Milan,Vicenza
+12/01/1997,1 - 2,Napoli,Internazionale
+12/01/1997,0 - 0,Piacenza,Udinese
+12/01/1997,0 - 0,Reggiana,Fiorentina
+12/01/1997,4 - 1,Roma,Perugia
+12/01/1997,4 - 1,Sampdoria,Cagliari
+05/01/1997,1 - 0,Atalanta,Hellas Verona
+05/01/1997,1 - 0,Cagliari,Piacenza
+05/01/1997,3 - 0,Fiorentina,Napoli
+05/01/1997,3 - 1,Internazionale,Roma
+05/01/1997,3 - 0,Lazio,Milan
+05/01/1997,1 - 0,Parma,Juventus
+05/01/1997,1 - 3,Perugia,Reggiana
+05/01/1997,4 - 5,Udinese,Sampdoria
+05/01/1997,2 - 0,Vicenza,Bologna
+22/12/1996,0 - 0,Bologna,Perugia
+22/12/1996,2 - 0,Fiorentina,Cagliari
+22/12/1996,3 - 2,Hellas Verona,Udinese
+22/12/1996,0 - 1,Milan,Parma
+22/12/1996,1 - 0,Napoli,Lazio
+22/12/1996,1 - 1,Piacenza,Juventus
+22/12/1996,1 - 1,Reggiana,Internazionale
+22/12/1996,0 - 2,Roma,Atalanta
+22/12/1996,2 - 1,Sampdoria,Vicenza
+15/12/1996,4 - 0,Atalanta,Piacenza
+15/12/1996,2 - 2,Cagliari,Bologna
+15/12/1996,3 - 4,Internazionale,Sampdoria
+15/12/1996,3 - 2,Juventus,Hellas Verona
+15/12/1996,1 - 2,Perugia,Lazio
+15/12/1996,0 - 3,Reggiana,Milan
+15/12/1996,1 - 0,Roma,Napoli
+15/12/1996,2 - 0,Udinese,Fiorentina
+15/12/1996,1 - 1,Vicenza,Parma
+11/12/1996,1 - 4,Udinese,Juventus
+08/12/1996,1 - 1,Bologna,Piacenza
+08/12/1996,1 - 1,Cagliari,Reggiana
+08/12/1996,4 - 1,Fiorentina,Perugia
+08/12/1996,0 - 0,Lazio,Roma
+08/12/1996,2 - 1,Milan,Udinese
+08/12/1996,1 - 0,Napoli,Hellas Verona
+08/12/1996,0 - 0,Parma,Atalanta
+08/12/1996,0 - 1,Sampdoria,Juventus
+08/12/1996,1 - 1,Vicenza,Internazionale
+01/12/1996,2 - 2,Atalanta,Napoli
+01/12/1996,1 - 1,Hellas Verona,Sampdoria
+01/12/1996,2 - 2,Internazionale,Cagliari
+01/12/1996,1 - 0,Juventus,Bologna
+01/12/1996,1 - 1,Perugia,Vicenza
+01/12/1996,3 - 2,Piacenza,Milan
+01/12/1996,0 - 2,Reggiana,Lazio
+01/12/1996,3 - 3,Roma,Fiorentina
+01/12/1996,3 - 1,Udinese,Parma
+24/11/1996,3 - 1,Bologna,Atalanta
+24/11/1996,1 - 1,Cagliari,Napoli
+24/11/1996,1 - 1,Fiorentina,Piacenza
+24/11/1996,1 - 1,Lazio,Sampdoria
+24/11/1996,1 - 1,Milan,Internazionale
+24/11/1996,0 - 0,Parma,Roma
+24/11/1996,3 - 1,Perugia,Hellas Verona
+24/11/1996,2 - 0,Vicenza,Reggiana
+17/11/1996,1 - 0,Atalanta,Udinese
+17/11/1996,2 - 2,Hellas Verona,Vicenza
+17/11/1996,2 - 2,Internazionale,Fiorentina
+17/11/1996,0 - 0,Juventus,Milan
+17/11/1996,4 - 2,Napoli,Perugia
+17/11/1996,1 - 3,Piacenza,Lazio
+17/11/1996,1 - 3,Reggiana,Bologna
+17/11/1996,3 - 1,Roma,Cagliari
+17/11/1996,1 - 1,Sampdoria,Parma
+03/11/1996,3 - 2,Bologna,Roma
+03/11/1996,2 - 1,Cagliari,Perugia
+03/11/1996,0 - 1,Hellas Verona,Internazionale
+03/11/1996,1 - 1,Juventus,Napoli
+03/11/1996,0 - 2,Lazio,Vicenza
+03/11/1996,1 - 1,Milan,Atalanta
+03/11/1996,0 - 0,Parma,Fiorentina
+03/11/1996,3 - 0,Sampdoria,Piacenza
+03/11/1996,2 - 1,Udinese,Reggiana
+27/10/1996,2 - 1,Atalanta,Lazio
+27/10/1996,1 - 0,Fiorentina,Milan
+27/10/1996,3 - 1,Internazionale,Parma
+27/10/1996,3 - 2,Napoli,Bologna
+27/10/1996,2 - 1,Perugia,Udinese
+27/10/1996,2 - 0,Piacenza,Hellas Verona
+27/10/1996,1 - 1,Reggiana,Sampdoria
+27/10/1996,1 - 1,Roma,Juventus
+27/10/1996,2 - 0,Vicenza,Cagliari
+20/10/1996,0 - 2,Bologna,Fiorentina
+20/10/1996,2 - 1,Hellas Verona,Roma
+20/10/1996,2 - 0,Juventus,Internazionale
+20/10/1996,2 - 1,Lazio,Cagliari
+20/10/1996,3 - 1,Milan,Napoli
+20/10/1996,1 - 2,Parma,Perugia
+20/10/1996,3 - 0,Piacenza,Reggiana
+20/10/1996,2 - 0,Sampdoria,Atalanta
+20/10/1996,1 - 1,Udinese,Vicenza
+13/10/1996,2 - 1,Bologna,Sampdoria
+13/10/1996,0 - 1,Cagliari,Parma
+13/10/1996,0 - 0,Fiorentina,Lazio
+13/10/1996,2 - 0,Internazionale,Piacenza
+13/10/1996,1 - 1,Napoli,Udinese
+13/10/1996,3 - 1,Perugia,Atalanta
+13/10/1996,2 - 2,Reggiana,Hellas Verona
+13/10/1996,3 - 0,Roma,Milan
+13/10/1996,2 - 1,Vicenza,Juventus
+29/09/1996,1 - 1,Atalanta,Internazionale
+29/09/1996,2 - 2,Hellas Verona,Cagliari
+29/09/1996,1 - 0,Juventus,Fiorentina
+29/09/1996,2 - 1,Lazio,Parma
+29/09/1996,3 - 0,Milan,Perugia
+29/09/1996,1 - 0,Piacenza,Vicenza
+29/09/1996,1 - 1,Reggiana,Roma
+29/09/1996,0 - 1,Sampdoria,Napoli
+29/09/1996,2 - 2,Udinese,Bologna
+22/09/1996,1 - 2,Bologna,Milan
+22/09/1996,1 - 2,Cagliari,Udinese
+22/09/1996,2 - 0,Fiorentina,Hellas Verona
+22/09/1996,1 - 1,Internazionale,Lazio
+22/09/1996,1 - 1,Napoli,Piacenza
+22/09/1996,3 - 2,Parma,Reggiana
+22/09/1996,1 - 2,Perugia,Juventus
+22/09/1996,1 - 4,Roma,Sampdoria
+22/09/1996,4 - 1,Vicenza,Atalanta
+15/09/1996,2 - 2,Atalanta,Fiorentina
+15/09/1996,0 - 2,Hellas Verona,Bologna
+15/09/1996,1 - 0,Internazionale,Perugia
+15/09/1996,2 - 1,Juventus,Cagliari
+15/09/1996,0 - 1,Lazio,Udinese
+15/09/1996,1 - 0,Napoli,Reggiana
+15/09/1996,0 - 0,Piacenza,Parma
+15/09/1996,2 - 1,Sampdoria,Milan
+15/09/1996,0 - 2,Vicenza,Roma
+08/09/1996,1 - 0,Bologna,Lazio
+08/09/1996,2 - 0,Cagliari,Atalanta
+08/09/1996,2 - 4,Fiorentina,Vicenza
+08/09/1996,4 - 1,Milan,Hellas Verona
+08/09/1996,3 - 0,Parma,Napoli
+08/09/1996,1 - 0,Perugia,Sampdoria
+08/09/1996,1 - 1,Reggiana,Juventus
+08/09/1996,3 - 1,Roma,Piacenza
+08/09/1996,0 - 1,Udinese,Internazionale

@@ -1,0 +1,183 @@
+date,score,home_team,away_team
+13/06/2009,5 - 0,Luzern,Lugano
+10/06/2009,1 - 0,Lugano,Luzern
+30/05/2009,2 - 0,Aarau,Vaduz
+30/05/2009,2 - 1,Luzern,Neuchâtel Xamax
+30/05/2009,2 - 2,Sion,Bellinzona
+29/05/2009,0 - 3,Basel,Young Boys
+29/05/2009,2 - 1,Zürich,Grasshopper
+24/05/2009,0 - 1,Bellinzona,Zürich
+24/05/2009,4 - 1,Grasshopper,Basel
+24/05/2009,3 - 1,Neuchâtel Xamax,Aarau
+24/05/2009,1 - 5,Vaduz,Sion
+24/05/2009,5 - 2,Young Boys,Luzern
+17/05/2009,1 - 1,Luzern,Grasshopper
+17/05/2009,1 - 3,Zürich,Basel
+16/05/2009,1 - 0,Sion,Neuchâtel Xamax
+16/05/2009,0 - 1,Aarau,Young Boys
+16/05/2009,3 - 1,Bellinzona,Vaduz
+13/05/2009,1 - 1,Grasshopper,Aarau
+13/05/2009,1 - 0,Neuchâtel Xamax,Bellinzona
+13/05/2009,2 - 1,Young Boys,Sion
+12/05/2009,2 - 0,Basel,Luzern
+12/05/2009,3 - 5,Vaduz,Zürich
+10/05/2009,2 - 1,Bellinzona,Young Boys
+10/05/2009,1 - 4,Sion,Grasshopper
+09/05/2009,3 - 1,Aarau,Basel
+09/05/2009,2 - 4,Vaduz,Neuchâtel Xamax
+09/05/2009,1 - 1,Zürich,Luzern
+05/05/2009,6 - 0,Young Boys,Vaduz
+03/05/2009,1 - 3,Grasshopper,Bellinzona
+03/05/2009,0 - 1,Neuchâtel Xamax,Zürich
+02/05/2009,4 - 0,Luzern,Aarau
+02/05/2009,2 - 2,Basel,Sion
+26/04/2009,3 - 0,Zürich,Young Boys
+26/04/2009,4 - 1,Neuchâtel Xamax,Grasshopper
+26/04/2009,0 - 1,Vaduz,Basel
+25/04/2009,2 - 0,Bellinzona,Luzern
+25/04/2009,2 - 0,Sion,Aarau
+23/04/2009,2 - 0,Grasshopper,Vaduz
+23/04/2009,0 - 0,Young Boys,Neuchâtel Xamax
+22/04/2009,0 - 3,Aarau,Zürich
+22/04/2009,1 - 1,Basel,Bellinzona
+22/04/2009,1 - 0,Luzern,Sion
+19/04/2009,2 - 3,Neuchâtel Xamax,Basel
+19/04/2009,3 - 1,Young Boys,Grasshopper
+18/04/2009,1 - 2,Bellinzona,Aarau
+18/04/2009,1 - 2,Vaduz,Luzern
+18/04/2009,2 - 2,Zürich,Sion
+11/04/2009,0 - 0,Aarau,Bellinzona
+11/04/2009,3 - 3,Grasshopper,Young Boys
+09/04/2009,3 - 0,Basel,Neuchâtel Xamax
+09/04/2009,3 - 1,Luzern,Vaduz
+09/04/2009,0 - 1,Sion,Zürich
+05/04/2009,1 - 1,Bellinzona,Basel
+05/04/2009,2 - 3,Neuchâtel Xamax,Young Boys
+05/04/2009,2 - 1,Zürich,Aarau
+04/04/2009,1 - 1,Sion,Luzern
+04/04/2009,2 - 2,Vaduz,Grasshopper
+22/03/2009,1 - 1,Grasshopper,Neuchâtel Xamax
+22/03/2009,4 - 2,Luzern,Bellinzona
+22/03/2009,4 - 2,Young Boys,Zürich
+21/03/2009,1 - 0,Aarau,Sion
+21/03/2009,5 - 0,Basel,Vaduz
+15/03/2009,6 - 2,Bellinzona,Grasshopper
+15/03/2009,3 - 1,Vaduz,Young Boys
+15/03/2009,3 - 0,Zürich,Neuchâtel Xamax
+14/03/2009,0 - 0,Aarau,Luzern
+14/03/2009,0 - 4,Sion,Basel
+11/03/2009,1 - 0,Aarau,Grasshopper
+08/03/2009,3 - 1,Neuchâtel Xamax,Vaduz
+08/03/2009,3 - 0,Young Boys,Bellinzona
+08/03/2009,1 - 3,Luzern,Zürich
+07/03/2009,3 - 1,Basel,Aarau
+07/03/2009,0 - 2,Grasshopper,Sion
+01/03/2009,2 - 0,Bellinzona,Neuchâtel Xamax
+01/03/2009,1 - 2,Luzern,Basel
+01/03/2009,5 - 0,Zürich,Vaduz
+28/02/2009,0 - 3,Aarau,Grasshopper
+28/02/2009,2 - 3,Sion,Young Boys
+22/02/2009,2 - 1,Basel,Zürich
+22/02/2009,1 - 0,Grasshopper,Luzern
+22/02/2009,3 - 2,Neuchâtel Xamax,Sion
+21/02/2009,1 - 0,Vaduz,Bellinzona
+21/02/2009,4 - 0,Young Boys,Aarau
+18/02/2009,1 - 0,Bellinzona,Vaduz
+18/02/2009,1 - 1,Sion,Luzern
+15/02/2009,0 - 0,Basel,Grasshopper
+15/02/2009,2 - 3,Luzern,Young Boys
+15/02/2009,2 - 1,Sion,Vaduz
+14/02/2009,0 - 0,Aarau,Neuchâtel Xamax
+14/02/2009,0 - 0,Zürich,Bellinzona
+08/02/2009,1 - 0,Bellinzona,Sion
+08/02/2009,2 - 2,Grasshopper,Zürich
+08/02/2009,3 - 3,Neuchâtel Xamax,Luzern
+07/02/2009,1 - 1,Vaduz,Aarau
+07/02/2009,3 - 2,Young Boys,Basel
+14/12/2008,3 - 0,Young Boys,Bellinzona
+14/12/2008,1 - 0,Zürich,Vaduz
+14/12/2008,5 - 1,Luzern,Basel
+13/12/2008,0 - 0,Sion,Neuchâtel Xamax
+07/12/2008,0 - 1,Grasshopper,Young Boys
+07/12/2008,1 - 0,Vaduz,Neuchâtel Xamax
+06/12/2008,0 - 3,Bellinzona,Zürich
+04/12/2008,3 - 1,Basel,Aarau
+30/11/2008,2 - 0,Neuchâtel Xamax,Basel
+29/11/2008,1 - 1,Aarau,Young Boys
+29/11/2008,0 - 3,Luzern,Grasshopper
+29/11/2008,1 - 0,Zürich,Sion
+16/11/2008,1 - 0,Grasshopper,Neuchâtel Xamax
+16/11/2008,6 - 1,Young Boys,Luzern
+16/11/2008,1 - 1,Basel,Zürich
+15/11/2008,0 - 1,Aarau,Bellinzona
+15/11/2008,3 - 1,Sion,Vaduz
+09/11/2008,2 - 3,Neuchâtel Xamax,Young Boys
+09/11/2008,0 - 2,Vaduz,Basel
+09/11/2008,2 - 1,Zürich,Grasshopper
+08/11/2008,2 - 1,Bellinzona,Sion
+08/11/2008,3 - 0,Luzern,Aarau
+02/11/2008,2 - 1,Aarau,Neuchâtel Xamax
+02/11/2008,1 - 0,Luzern,Bellinzona
+02/11/2008,2 - 2,Young Boys,Zürich
+01/11/2008,3 - 0,Grasshopper,Vaduz
+30/10/2008,3 - 0,Basel,Sion
+26/10/2008,2 - 3,Bellinzona,Basel
+26/10/2008,0 - 0,Vaduz,Young Boys
+25/10/2008,1 - 0,Neuchâtel Xamax,Luzern
+25/10/2008,0 - 0,Sion,Grasshopper
+25/10/2008,4 - 0,Zürich,Aarau
+06/10/2008,0 - 3,Luzern,Zürich
+05/10/2008,1 - 1,Grasshopper,Basel
+05/10/2008,3 - 3,Neuchâtel Xamax,Bellinzona
+05/10/2008,5 - 0,Young Boys,Sion
+04/10/2008,4 - 0,Aarau,Vaduz
+28/09/2008,1 - 0,Vaduz,Luzern
+28/09/2008,3 - 0,Zürich,Neuchâtel Xamax
+27/09/2008,1 - 2,Basel,Young Boys
+27/09/2008,1 - 1,Sion,Aarau
+26/09/2008,1 - 1,Bellinzona,Grasshopper
+23/09/2008,3 - 1,Grasshopper,Bellinzona
+14/09/2008,1 - 2,Bellinzona,Young Boys
+14/09/2008,1 - 7,Vaduz,Zürich
+13/09/2008,2 - 0,Basel,Luzern
+13/09/2008,0 - 0,Grasshopper,Aarau
+13/09/2008,3 - 3,Neuchâtel Xamax,Sion
+01/09/2008,3 - 0,Zürich,Bellinzona
+31/08/2008,2 - 2,Neuchâtel Xamax,Vaduz
+31/08/2008,1 - 3,Young Boys,Grasshopper
+30/08/2008,0 - 2,Aarau,Basel
+30/08/2008,1 - 1,Luzern,Sion
+24/08/2008,1 - 3,Sion,Zürich
+24/08/2008,0 - 0,Vaduz,Bellinzona
+24/08/2008,3 - 3,Young Boys,Aarau
+23/08/2008,4 - 3,Basel,Neuchâtel Xamax
+23/08/2008,4 - 2,Grasshopper,Luzern
+17/08/2008,0 - 3,Luzern,Young Boys
+17/08/2008,1 - 1,Neuchâtel Xamax,Grasshopper
+17/08/2008,1 - 4,Zürich,Basel
+16/08/2008,1 - 2,Vaduz,Sion
+10/08/2008,2 - 2,Grasshopper,Zürich
+10/08/2008,2 - 1,Young Boys,Neuchâtel Xamax
+09/08/2008,4 - 0,Basel,Vaduz
+09/08/2008,1 - 0,Aarau,Luzern
+09/08/2008,0 - 2,Sion,Bellinzona
+06/08/2008,1 - 1,Bellinzona,Aarau
+03/08/2008,2 - 2,Bellinzona,Luzern
+03/08/2008,1 - 1,Vaduz,Grasshopper
+03/08/2008,2 - 1,Zürich,Young Boys
+02/08/2008,0 - 0,Neuchâtel Xamax,Aarau
+02/08/2008,2 - 0,Sion,Basel
+30/07/2008,3 - 1,Grasshopper,Sion
+27/07/2008,2 - 1,Aarau,Zürich
+27/07/2008,0 - 0,Young Boys,Vaduz
+26/07/2008,2 - 0,Basel,Bellinzona
+26/07/2008,0 - 1,Luzern,Neuchâtel Xamax
+24/07/2008,2 - 1,Sion,Young Boys
+24/07/2008,0 - 2,Vaduz,Aarau
+23/07/2008,1 - 0,Basel,Grasshopper
+23/07/2008,1 - 2,Bellinzona,Neuchâtel Xamax
+23/07/2008,1 - 0,Zürich,Luzern
+20/07/2008,1 - 2,Luzern,Vaduz
+20/07/2008,1 - 2,Neuchâtel Xamax,Zürich
+19/07/2008,3 - 1,Aarau,Sion
+18/07/2008,1 - 2,Young Boys,Basel

@@ -1,0 +1,463 @@
+date,score,home_team,away_team
+14/06/1947,2 - 1,Sheffield United,Stoke City
+07/06/1947,2 - 1,Sheffield United,Arsenal
+31/05/1947,2 - 1,Arsenal,Everton
+31/05/1947,1 - 2,Portsmouth,Derby County
+31/05/1947,1 - 3,Sheffield United,Charlton Athletic
+31/05/1947,1 - 2,Wolverhampton Wanderers,Liverpool
+26/05/1947,0 - 1,Aston Villa,Stoke City
+26/05/1947,1 - 0,Blackburn Rovers,Charlton Athletic
+26/05/1947,0 - 1,Brentford,Arsenal
+26/05/1947,0 - 3,Chelsea,Portsmouth
+26/05/1947,4 - 1,Everton,Leeds United
+26/05/1947,0 - 1,Huddersfield Town,Wolverhampton Wanderers
+26/05/1947,6 - 2,Manchester United,Sheffield United
+26/05/1947,1 - 1,Preston North End,Derby County
+24/05/1947,1 - 2,Arsenal,Liverpool
+24/05/1947,1 - 1,Everton,Charlton Athletic
+24/05/1947,0 - 1,Leeds United,Portsmouth
+24/05/1947,2 - 3,Sheffield United,Preston North End
+24/05/1947,2 - 1,Sunderland,Brentford
+17/05/1947,4 - 2,Aston Villa,Preston North End
+17/05/1947,0 - 0,Blackpool,Charlton Athletic
+17/05/1947,1 - 1,Brentford,Liverpool
+17/05/1947,1 - 2,Derby County,Sheffield United
+17/05/1947,4 - 1,Grimsby Town,Leeds United
+17/05/1947,3 - 1,Huddersfield Town,Middlesbrough
+17/05/1947,3 - 0,Manchester United,Portsmouth
+17/05/1947,0 - 0,Stoke City,Sunderland
+17/05/1947,3 - 3,Wolverhampton Wanderers,Blackburn Rovers
+10/05/1947,2 - 1,Aston Villa,Blackburn Rovers
+10/05/1947,1 - 0,Bolton Wanderers,Brentford
+10/05/1947,1 - 3,Charlton Athletic,Liverpool
+10/05/1947,2 - 0,Chelsea,Middlesbrough
+10/05/1947,0 - 1,Derby County,Arsenal
+10/05/1947,1 - 2,Grimsby Town,Sunderland
+10/05/1947,1 - 0,Huddersfield Town,Leeds United
+10/05/1947,1 - 1,Preston North End,Manchester United
+10/05/1947,3 - 1,Sheffield United,Portsmouth
+10/05/1947,2 - 3,Wolverhampton Wanderers,Everton
+03/05/1947,0 - 3,Brentford,Blackburn Rovers
+03/05/1947,1 - 4,Chelsea,Sheffield United
+03/05/1947,1 - 0,Derby County,Huddersfield Town
+03/05/1947,4 - 0,Grimsby Town,Middlesbrough
+03/05/1947,1 - 2,Leeds United,Stoke City
+03/05/1947,1 - 0,Liverpool,Manchester United
+03/05/1947,1 - 1,Portsmouth,Wolverhampton Wanderers
+03/05/1947,1 - 1,Sunderland,Charlton Athletic
+26/04/1947,5 - 3,Arsenal,Grimsby Town
+26/04/1947,1 - 2,Aston Villa,Liverpool
+26/04/1947,0 - 2,Blackburn Rovers,Stoke City
+26/04/1947,0 - 0,Brentford,Middlesbrough
+26/04/1947,2 - 1,Derby County,Leeds United
+26/04/1947,2 - 0,Everton,Preston North End
+26/04/1947,1 - 1,Huddersfield Town,Sheffield United
+26/04/1947,0 - 1,Portsmouth,Manchester United
+26/04/1947,3 - 1,Sunderland,Bolton Wanderers
+26/04/1947,6 - 4,Wolverhampton Wanderers,Chelsea
+19/04/1947,0 - 3,Bolton Wanderers,Wolverhampton Wanderers
+19/04/1947,2 - 2,Charlton Athletic,Arsenal
+19/04/1947,1 - 0,Chelsea,Huddersfield Town
+19/04/1947,2 - 0,Grimsby Town,Derby County
+19/04/1947,1 - 1,Leeds United,Aston Villa
+19/04/1947,1 - 0,Liverpool,Sunderland
+19/04/1947,4 - 0,Manchester United,Blackburn Rovers
+19/04/1947,1 - 2,Middlesbrough,Blackpool
+19/04/1947,1 - 1,Preston North End,Portsmouth
+19/04/1947,2 - 0,Sheffield United,Everton
+19/04/1947,3 - 1,Stoke City,Brentford
+12/04/1947,4 - 0,Arsenal,Middlesbrough
+12/04/1947,3 - 3,Aston Villa,Grimsby Town
+12/04/1947,1 - 2,Blackburn Rovers,Preston North End
+12/04/1947,0 - 2,Blackpool,Stoke City
+12/04/1947,0 - 0,Brentford,Manchester United
+12/04/1947,1 - 0,Derby County,Charlton Athletic
+12/04/1947,2 - 0,Everton,Chelsea
+12/04/1947,1 - 0,Huddersfield Town,Bolton Wanderers
+12/04/1947,0 - 0,Portsmouth,Sheffield United
+12/04/1947,1 - 0,Sunderland,Leeds United
+08/04/1947,4 - 0,Aston Villa,Sunderland
+08/04/1947,0 - 2,Leeds United,Manchester United
+08/04/1947,7 - 2,Wolverhampton Wanderers,Derby County
+07/04/1947,1 - 2,Blackburn Rovers,Chelsea
+07/04/1947,0 - 3,Blackpool,Everton
+07/04/1947,2 - 1,Derby County,Wolverhampton Wanderers
+07/04/1947,0 - 0,Huddersfield Town,Arsenal
+07/04/1947,3 - 0,Liverpool,Preston North End
+07/04/1947,3 - 1,Manchester United,Leeds United
+07/04/1947,1 - 2,Middlesbrough,Charlton Athletic
+07/04/1947,3 - 0,Portsmouth,Brentford
+07/04/1947,4 - 2,Sheffield United,Bolton Wanderers
+07/04/1947,3 - 0,Stoke City,Grimsby Town
+05/04/1947,1 - 3,Bolton Wanderers,Arsenal
+05/04/1947,0 - 0,Charlton Athletic,Portsmouth
+05/04/1947,3 - 0,Chelsea,Derby County
+05/04/1947,2 - 1,Grimsby Town,Blackburn Rovers
+05/04/1947,1 - 2,Leeds United,Brentford
+05/04/1947,2 - 3,Liverpool,Blackpool
+05/04/1947,3 - 1,Manchester United,Wolverhampton Wanderers
+05/04/1947,4 - 0,Middlesbrough,Everton
+05/04/1947,2 - 2,Preston North End,Sunderland
+05/04/1947,1 - 2,Sheffield United,Aston Villa
+05/04/1947,3 - 0,Stoke City,Huddersfield Town
+04/04/1947,1 - 2,Arsenal,Huddersfield Town
+04/04/1947,3 - 2,Bolton Wanderers,Sheffield United
+04/04/1947,1 - 3,Brentford,Portsmouth
+04/04/1947,3 - 3,Charlton Athletic,Middlesbrough
+04/04/1947,0 - 2,Chelsea,Blackburn Rovers
+04/04/1947,1 - 1,Everton,Blackpool
+04/04/1947,2 - 5,Grimsby Town,Stoke City
+04/04/1947,0 - 0,Preston North End,Liverpool
+04/04/1947,4 - 1,Sunderland,Aston Villa
+29/03/1947,2 - 0,Aston Villa,Chelsea
+29/03/1947,3 - 0,Blackpool,Leeds United
+29/03/1947,0 - 1,Brentford,Grimsby Town
+29/03/1947,1 - 3,Derby County,Bolton Wanderers
+29/03/1947,2 - 2,Everton,Stoke City
+29/03/1947,2 - 2,Huddersfield Town,Manchester United
+29/03/1947,3 - 1,Portsmouth,Middlesbrough
+29/03/1947,2 - 1,Sunderland,Sheffield United
+29/03/1947,4 - 1,Wolverhampton Wanderers,Preston North End
+22/03/1947,2 - 1,Bolton Wanderers,Aston Villa
+22/03/1947,3 - 0,Charlton Athletic,Brentford
+22/03/1947,2 - 1,Chelsea,Sunderland
+22/03/1947,2 - 3,Grimsby Town,Blackpool
+22/03/1947,1 - 1,Leeds United,Arsenal
+22/03/1947,1 - 1,Liverpool,Derby County
+22/03/1947,3 - 0,Manchester United,Everton
+22/03/1947,0 - 1,Middlesbrough,Blackburn Rovers
+22/03/1947,6 - 2,Preston North End,Huddersfield Town
+22/03/1947,2 - 0,Sheffield United,Wolverhampton Wanderers
+22/03/1947,1 - 1,Stoke City,Portsmouth
+15/03/1947,4 - 1,Arsenal,Preston North End
+15/03/1947,2 - 1,Blackburn Rovers,Bolton Wanderers
+15/03/1947,4 - 2,Blackpool,Sheffield United
+15/03/1947,0 - 2,Brentford,Chelsea
+15/03/1947,4 - 3,Derby County,Manchester United
+15/03/1947,3 - 2,Huddersfield Town,Grimsby Town
+15/03/1947,1 - 2,Portsmouth,Liverpool
+15/03/1947,1 - 0,Sunderland,Middlesbrough
+15/03/1947,2 - 0,Wolverhampton Wanderers,Charlton Athletic
+08/03/1947,0 - 3,Charlton Athletic,Huddersfield Town
+08/03/1947,1 - 4,Chelsea,Blackpool
+08/03/1947,2 - 2,Grimsby Town,Everton
+08/03/1947,2 - 1,Liverpool,Blackburn Rovers
+08/03/1947,2 - 1,Manchester United,Aston Villa
+08/03/1947,1 - 1,Middlesbrough,Wolverhampton Wanderers
+01/03/1947,1 - 2,Arsenal,Chelsea
+01/03/1947,1 - 0,Blackburn Rovers,Leeds United
+01/03/1947,0 - 1,Blackpool,Bolton Wanderers
+01/03/1947,2 - 1,Derby County,Brentford
+01/03/1947,4 - 1,Portsmouth,Grimsby Town
+01/03/1947,1 - 1,Sunderland,Manchester United
+01/03/1947,3 - 0,Wolverhampton Wanderers,Stoke City
+22/02/1947,0 - 2,Bolton Wanderers,Everton
+22/02/1947,1 - 1,Charlton Athletic,Aston Villa
+22/02/1947,0 - 1,Leeds United,Wolverhampton Wanderers
+22/02/1947,1 - 0,Liverpool,Huddersfield Town
+22/02/1947,3 - 0,Manchester United,Blackpool
+22/02/1947,1 - 0,Middlesbrough,Derby County
+22/02/1947,5 - 2,Preston North End,Brentford
+22/02/1947,0 - 1,Sheffield United,Blackburn Rovers
+22/02/1947,3 - 1,Stoke City,Arsenal
+19/02/1947,0 - 1,Bolton Wanderers,Charlton Athletic
+15/02/1947,1 - 1,Blackburn Rovers,Derby County
+15/02/1947,4 - 0,Blackpool,Preston North End
+15/02/1947,4 - 2,Everton,Sunderland
+15/02/1947,3 - 1,Middlesbrough,Bolton Wanderers
+15/02/1947,3 - 2,Portsmouth,Aston Villa
+15/02/1947,6 - 1,Stoke City,Chelsea
+12/02/1947,5 - 0,Liverpool,Grimsby Town
+08/02/1947,1 - 1,Arsenal,Blackpool
+08/02/1947,0 - 0,Chelsea,Grimsby Town
+08/02/1947,0 - 0,Sunderland,Portsmouth
+05/02/1947,1 - 1,Manchester United,Stoke City
+03/02/1947,2 - 0,Bolton Wanderers,Leeds United
+01/02/1947,6 - 2,Arsenal,Manchester United
+01/02/1947,1 - 2,Blackburn Rovers,Sunderland
+01/02/1947,2 - 1,Blackpool,Derby County
+01/02/1947,0 - 2,Brentford,Aston Villa
+01/02/1947,2 - 3,Charlton Athletic,Chelsea
+01/02/1947,1 - 0,Everton,Huddersfield Town
+01/02/1947,2 - 2,Grimsby Town,Bolton Wanderers
+01/02/1947,1 - 2,Leeds United,Liverpool
+01/02/1947,2 - 4,Middlesbrough,Sheffield United
+01/02/1947,5 - 0,Stoke City,Preston North End
+29/01/1947,1 - 0,Everton,Liverpool
+29/01/1947,1 - 2,Huddersfield Town,Portsmouth
+29/01/1947,0 - 1,Preston North End,Middlesbrough
+25/01/1947,1 - 1,Aston Villa,Blackpool
+18/01/1947,0 - 2,Arsenal,Aston Villa
+18/01/1947,2 - 2,Blackburn Rovers,Huddersfield Town
+18/01/1947,0 - 5,Blackpool,Sunderland
+18/01/1947,4 - 1,Brentford,Wolverhampton Wanderers
+18/01/1947,0 - 0,Charlton Athletic,Preston North End
+18/01/1947,3 - 0,Derby County,Stoke City
+18/01/1947,2 - 1,Grimsby Town,Sheffield United
+18/01/1947,2 - 1,Leeds United,Chelsea
+18/01/1947,0 - 3,Liverpool,Bolton Wanderers
+18/01/1947,2 - 4,Middlesbrough,Manchester United
+18/01/1947,2 - 1,Portsmouth,Everton
+04/01/1947,2 - 0,Aston Villa,Derby County
+04/01/1947,3 - 1,Chelsea,Liverpool
+04/01/1947,1 - 0,Everton,Blackburn Rovers
+04/01/1947,3 - 0,Huddersfield Town,Brentford
+04/01/1947,4 - 1,Manchester United,Charlton Athletic
+04/01/1947,2 - 0,Portsmouth,Bolton Wanderers
+04/01/1947,3 - 0,Preston North End,Grimsby Town
+04/01/1947,6 - 2,Sheffield United,Leeds United
+04/01/1947,3 - 1,Stoke City,Middlesbrough
+04/01/1947,1 - 4,Sunderland,Arsenal
+04/01/1947,3 - 1,Wolverhampton Wanderers,Blackpool
+01/01/1947,0 - 3,Blackburn Rovers,Brentford
+01/01/1947,1 - 2,Bolton Wanderers,Preston North End
+01/01/1947,2 - 0,Everton,Aston Villa
+01/01/1947,3 - 0,Middlesbrough,Grimsby Town
+28/12/1946,1 - 1,Arsenal,Wolverhampton Wanderers
+28/12/1946,0 - 1,Blackburn Rovers,Portsmouth
+28/12/1946,2 - 1,Blackpool,Huddersfield Town
+28/12/1946,1 - 1,Bolton Wanderers,Chelsea
+28/12/1946,1 - 1,Brentford,Everton
+28/12/1946,1 - 0,Charlton Athletic,Stoke City
+28/12/1946,5 - 1,Derby County,Sunderland
+28/12/1946,0 - 0,Grimsby Town,Manchester United
+28/12/1946,0 - 3,Leeds United,Preston North End
+28/12/1946,1 - 2,Liverpool,Sheffield United
+28/12/1946,1 - 2,Middlesbrough,Aston Villa
+26/12/1946,1 - 0,Blackpool,Blackburn Rovers
+26/12/1946,2 - 1,Brentford,Sheffield United
+26/12/1946,0 - 0,Charlton Athletic,Grimsby Town
+26/12/1946,5 - 1,Derby County,Everton
+26/12/1946,1 - 0,Huddersfield Town,Aston Villa
+26/12/1946,2 - 0,Liverpool,Stoke City
+26/12/1946,1 - 0,Manchester United,Bolton Wanderers
+26/12/1946,3 - 0,Middlesbrough,Leeds United
+26/12/1946,0 - 2,Portsmouth,Arsenal
+26/12/1946,1 - 1,Preston North End,Chelsea
+26/12/1946,2 - 1,Wolverhampton Wanderers,Sunderland
+25/12/1946,2 - 1,Arsenal,Portsmouth
+25/12/1946,2 - 2,Aston Villa,Huddersfield Town
+25/12/1946,1 - 1,Blackburn Rovers,Blackpool
+25/12/1946,2 - 2,Bolton Wanderers,Manchester United
+25/12/1946,1 - 2,Chelsea,Preston North End
+25/12/1946,4 - 1,Everton,Derby County
+25/12/1946,3 - 1,Grimsby Town,Charlton Athletic
+25/12/1946,3 - 3,Leeds United,Middlesbrough
+25/12/1946,6 - 1,Sheffield United,Brentford
+25/12/1946,2 - 1,Stoke City,Liverpool
+25/12/1946,0 - 1,Sunderland,Wolverhampton Wanderers
+21/12/1946,0 - 1,Bolton Wanderers,Sunderland
+21/12/1946,0 - 1,Charlton Athletic,Blackpool
+21/12/1946,1 - 2,Chelsea,Wolverhampton Wanderers
+21/12/1946,0 - 0,Grimsby Town,Arsenal
+21/12/1946,1 - 2,Leeds United,Derby County
+21/12/1946,4 - 1,Liverpool,Aston Villa
+21/12/1946,2 - 0,Middlesbrough,Brentford
+21/12/1946,2 - 1,Preston North End,Everton
+21/12/1946,2 - 2,Sheffield United,Huddersfield Town
+21/12/1946,0 - 0,Stoke City,Blackburn Rovers
+14/12/1946,1 - 0,Arsenal,Charlton Athletic
+14/12/1946,2 - 1,Aston Villa,Leeds United
+14/12/1946,2 - 1,Blackburn Rovers,Manchester United
+14/12/1946,0 - 5,Blackpool,Middlesbrough
+14/12/1946,1 - 4,Brentford,Stoke City
+14/12/1946,4 - 1,Derby County,Grimsby Town
+14/12/1946,2 - 3,Everton,Sheffield United
+14/12/1946,1 - 4,Huddersfield Town,Chelsea
+14/12/1946,4 - 4,Portsmouth,Preston North End
+14/12/1946,1 - 4,Sunderland,Liverpool
+14/12/1946,5 - 0,Wolverhampton Wanderers,Bolton Wanderers
+07/12/1946,4 - 0,Bolton Wanderers,Huddersfield Town
+07/12/1946,2 - 4,Charlton Athletic,Derby County
+07/12/1946,1 - 1,Chelsea,Everton
+07/12/1946,0 - 3,Grimsby Town,Aston Villa
+07/12/1946,1 - 1,Leeds United,Sunderland
+07/12/1946,1 - 5,Liverpool,Wolverhampton Wanderers
+07/12/1946,4 - 1,Manchester United,Brentford
+07/12/1946,2 - 0,Middlesbrough,Arsenal
+07/12/1946,4 - 0,Preston North End,Blackburn Rovers
+07/12/1946,4 - 1,Stoke City,Blackpool
+30/11/1946,2 - 2,Arsenal,Bolton Wanderers
+30/11/1946,2 - 3,Aston Villa,Sheffield United
+30/11/1946,1 - 1,Blackburn Rovers,Grimsby Town
+30/11/1946,3 - 2,Blackpool,Liverpool
+30/11/1946,1 - 1,Brentford,Leeds United
+30/11/1946,3 - 1,Derby County,Chelsea
+30/11/1946,2 - 1,Everton,Middlesbrough
+30/11/1946,1 - 0,Huddersfield Town,Stoke City
+30/11/1946,3 - 0,Portsmouth,Charlton Athletic
+30/11/1946,0 - 2,Sunderland,Preston North End
+30/11/1946,3 - 2,Wolverhampton Wanderers,Manchester United
+23/11/1946,5 - 1,Bolton Wanderers,Derby County
+23/11/1946,0 - 2,Charlton Athletic,Blackburn Rovers
+23/11/1946,1 - 3,Chelsea,Aston Villa
+23/11/1946,2 - 2,Grimsby Town,Brentford
+23/11/1946,4 - 2,Leeds United,Blackpool
+23/11/1946,4 - 2,Liverpool,Arsenal
+23/11/1946,5 - 2,Manchester United,Huddersfield Town
+23/11/1946,3 - 3,Middlesbrough,Portsmouth
+23/11/1946,2 - 2,Preston North End,Wolverhampton Wanderers
+23/11/1946,4 - 2,Sheffield United,Sunderland
+23/11/1946,2 - 1,Stoke City,Everton
+16/11/1946,4 - 2,Arsenal,Leeds United
+16/11/1946,1 - 1,Aston Villa,Bolton Wanderers
+16/11/1946,1 - 2,Blackburn Rovers,Middlesbrough
+16/11/1946,2 - 3,Blackpool,Grimsby Town
+16/11/1946,1 - 4,Brentford,Charlton Athletic
+16/11/1946,1 - 4,Derby County,Liverpool
+16/11/1946,2 - 2,Everton,Manchester United
+16/11/1946,3 - 0,Huddersfield Town,Preston North End
+16/11/1946,1 - 3,Portsmouth,Stoke City
+16/11/1946,1 - 2,Sunderland,Chelsea
+16/11/1946,3 - 1,Wolverhampton Wanderers,Sheffield United
+09/11/1946,0 - 0,Bolton Wanderers,Blackburn Rovers
+09/11/1946,1 - 4,Charlton Athletic,Wolverhampton Wanderers
+09/11/1946,3 - 2,Chelsea,Brentford
+09/11/1946,1 - 0,Grimsby Town,Huddersfield Town
+09/11/1946,2 - 1,Leeds United,Everton
+09/11/1946,3 - 0,Liverpool,Portsmouth
+09/11/1946,4 - 1,Manchester United,Derby County
+09/11/1946,1 - 3,Middlesbrough,Sunderland
+09/11/1946,2 - 0,Preston North End,Arsenal
+09/11/1946,4 - 2,Sheffield United,Blackpool
+09/11/1946,0 - 0,Stoke City,Aston Villa
+02/11/1946,2 - 3,Arsenal,Sheffield United
+02/11/1946,0 - 0,Aston Villa,Manchester United
+02/11/1946,0 - 0,Blackburn Rovers,Liverpool
+02/11/1946,1 - 0,Blackpool,Chelsea
+02/11/1946,1 - 0,Brentford,Bolton Wanderers
+02/11/1946,2 - 2,Derby County,Preston North End
+02/11/1946,3 - 3,Everton,Grimsby Town
+02/11/1946,5 - 1,Huddersfield Town,Charlton Athletic
+02/11/1946,4 - 1,Portsmouth,Leeds United
+02/11/1946,0 - 1,Sunderland,Stoke City
+02/11/1946,2 - 4,Wolverhampton Wanderers,Middlesbrough
+26/10/1946,1 - 1,Bolton Wanderers,Blackpool
+26/10/1946,4 - 1,Charlton Athletic,Everton
+26/10/1946,2 - 1,Chelsea,Arsenal
+26/10/1946,3 - 2,Grimsby Town,Portsmouth
+26/10/1946,0 - 1,Leeds United,Blackburn Rovers
+26/10/1946,1 - 0,Liverpool,Brentford
+26/10/1946,0 - 3,Manchester United,Sunderland
+26/10/1946,4 - 1,Middlesbrough,Huddersfield Town
+26/10/1946,3 - 1,Preston North End,Aston Villa
+26/10/1946,3 - 2,Sheffield United,Derby County
+26/10/1946,0 - 3,Stoke City,Wolverhampton Wanderers
+19/10/1946,1 - 0,Arsenal,Stoke City
+19/10/1946,4 - 0,Aston Villa,Charlton Athletic
+19/10/1946,2 - 0,Blackburn Rovers,Sheffield United
+19/10/1946,3 - 1,Blackpool,Manchester United
+19/10/1946,2 - 3,Brentford,Preston North End
+19/10/1946,1 - 1,Derby County,Middlesbrough
+19/10/1946,2 - 1,Everton,Bolton Wanderers
+19/10/1946,1 - 4,Huddersfield Town,Liverpool
+19/10/1946,0 - 2,Portsmouth,Chelsea
+19/10/1946,1 - 2,Sunderland,Grimsby Town
+19/10/1946,1 - 0,Wolverhampton Wanderers,Leeds United
+12/10/1946,2 - 2,Arsenal,Brentford
+12/10/1946,1 - 1,Aston Villa,Portsmouth
+12/10/1946,1 - 1,Bolton Wanderers,Middlesbrough
+12/10/1946,2 - 5,Chelsea,Stoke City
+12/10/1946,2 - 1,Derby County,Blackburn Rovers
+12/10/1946,1 - 0,Leeds United,Grimsby Town
+12/10/1946,1 - 1,Liverpool,Charlton Athletic
+12/10/1946,2 - 0,Preston North End,Blackpool
+12/10/1946,2 - 2,Sheffield United,Manchester United
+12/10/1946,4 - 1,Sunderland,Everton
+12/10/1946,6 - 1,Wolverhampton Wanderers,Huddersfield Town
+09/10/1946,2 - 2,Middlesbrough,Liverpool
+05/10/1946,0 - 1,Blackburn Rovers,Aston Villa
+05/10/1946,2 - 1,Blackpool,Arsenal
+05/10/1946,0 - 3,Brentford,Derby County
+05/10/1946,2 - 0,Charlton Athletic,Bolton Wanderers
+05/10/1946,0 - 2,Everton,Wolverhampton Wanderers
+05/10/1946,1 - 6,Grimsby Town,Liverpool
+05/10/1946,5 - 0,Leeds United,Huddersfield Town
+05/10/1946,1 - 1,Manchester United,Preston North End
+05/10/1946,3 - 2,Middlesbrough,Chelsea
+05/10/1946,4 - 1,Portsmouth,Sunderland
+05/10/1946,3 - 0,Stoke City,Sheffield United
+28/09/1946,5 - 2,Aston Villa,Brentford
+28/09/1946,1 - 2,Bolton Wanderers,Grimsby Town
+28/09/1946,2 - 2,Chelsea,Charlton Athletic
+28/09/1946,1 - 2,Derby County,Blackpool
+28/09/1946,1 - 0,Huddersfield Town,Everton
+28/09/1946,2 - 0,Liverpool,Leeds United
+28/09/1946,5 - 2,Manchester United,Arsenal
+28/09/1946,1 - 3,Preston North End,Stoke City
+28/09/1946,2 - 1,Sheffield United,Middlesbrough
+28/09/1946,1 - 0,Sunderland,Blackburn Rovers
+28/09/1946,3 - 1,Wolverhampton Wanderers,Portsmouth
+25/09/1946,5 - 0,Charlton Athletic,Leeds United
+25/09/1946,0 - 0,Huddersfield Town,Sunderland
+23/09/1946,4 - 3,Blackpool,Portsmouth
+23/09/1946,2 - 0,Wolverhampton Wanderers,Grimsby Town
+21/09/1946,0 - 1,Arsenal,Derby County
+21/09/1946,1 - 2,Blackburn Rovers,Wolverhampton Wanderers
+21/09/1946,1 - 0,Blackpool,Aston Villa
+21/09/1946,0 - 3,Brentford,Sunderland
+21/09/1946,1 - 2,Charlton Athletic,Sheffield United
+21/09/1946,2 - 1,Grimsby Town,Chelsea
+21/09/1946,4 - 0,Leeds United,Bolton Wanderers
+21/09/1946,0 - 0,Liverpool,Everton
+21/09/1946,2 - 0,Middlesbrough,Preston North End
+21/09/1946,3 - 1,Portsmouth,Huddersfield Town
+21/09/1946,3 - 2,Stoke City,Manchester United
+18/09/1946,2 - 1,Brentford,Blackpool
+18/09/1946,1 - 1,Manchester United,Chelsea
+17/09/1946,1 - 2,Blackburn Rovers,Arsenal
+16/09/1946,3 - 0,Aston Villa,Wolverhampton Wanderers
+16/09/1946,0 - 4,Preston North End,Bolton Wanderers
+16/09/1946,5 - 2,Stoke City,Leeds United
+14/09/1946,0 - 2,Aston Villa,Arsenal
+14/09/1946,1 - 3,Bolton Wanderers,Liverpool
+14/09/1946,3 - 0,Chelsea,Leeds United
+14/09/1946,1 - 0,Everton,Portsmouth
+14/09/1946,0 - 1,Huddersfield Town,Blackburn Rovers
+14/09/1946,1 - 0,Manchester United,Middlesbrough
+14/09/1946,5 - 1,Preston North End,Charlton Athletic
+14/09/1946,1 - 1,Sheffield United,Grimsby Town
+14/09/1946,3 - 2,Stoke City,Derby County
+14/09/1946,3 - 2,Sunderland,Blackpool
+14/09/1946,1 - 2,Wolverhampton Wanderers,Brentford
+11/09/1946,3 - 2,Bolton Wanderers,Stoke City
+11/09/1946,5 - 0,Charlton Athletic,Sunderland
+11/09/1946,3 - 2,Everton,Arsenal
+11/09/1946,5 - 2,Huddersfield Town,Derby County
+11/09/1946,5 - 0,Manchester United,Liverpool
+11/09/1946,0 - 1,Portsmouth,Blackpool
+11/09/1946,1 - 2,Wolverhampton Wanderers,Aston Villa
+09/09/1946,2 - 2,Sheffield United,Chelsea
+07/09/1946,2 - 2,Arsenal,Sunderland
+07/09/1946,4 - 1,Blackburn Rovers,Everton
+07/09/1946,2 - 0,Blackpool,Wolverhampton Wanderers
+07/09/1946,1 - 0,Bolton Wanderers,Portsmouth
+07/09/1946,2 - 0,Brentford,Huddersfield Town
+07/09/1946,1 - 3,Charlton Athletic,Manchester United
+07/09/1946,1 - 2,Derby County,Aston Villa
+07/09/1946,2 - 3,Grimsby Town,Preston North End
+07/09/1946,2 - 2,Leeds United,Sheffield United
+07/09/1946,7 - 4,Liverpool,Chelsea
+07/09/1946,5 - 4,Middlesbrough,Stoke City
+04/09/1946,1 - 3,Arsenal,Blackburn Rovers
+04/09/1946,0 - 3,Chelsea,Manchester United
+04/09/1946,2 - 0,Derby County,Portsmouth
+04/09/1946,0 - 2,Leeds United,Charlton Athletic
+04/09/1946,0 - 1,Liverpool,Middlesbrough
+04/09/1946,1 - 2,Preston North End,Sheffield United
+04/09/1946,3 - 0,Sunderland,Huddersfield Town
+03/09/1946,0 - 0,Grimsby Town,Wolverhampton Wanderers
+02/09/1946,0 - 1,Aston Villa,Everton
+02/09/1946,4 - 2,Blackpool,Brentford
+02/09/1946,1 - 2,Stoke City,Bolton Wanderers
+31/08/1946,0 - 1,Aston Villa,Middlesbrough
+31/08/1946,4 - 3,Chelsea,Bolton Wanderers
+31/08/1946,0 - 2,Everton,Brentford
+31/08/1946,1 - 3,Huddersfield Town,Blackpool
+31/08/1946,2 - 1,Manchester United,Grimsby Town
+31/08/1946,3 - 1,Portsmouth,Blackburn Rovers
+31/08/1946,3 - 2,Preston North End,Leeds United
+31/08/1946,0 - 1,Sheffield United,Liverpool
+31/08/1946,2 - 2,Stoke City,Charlton Athletic
+31/08/1946,3 - 2,Sunderland,Derby County
+31/08/1946,6 - 1,Wolverhampton Wanderers,Arsenal

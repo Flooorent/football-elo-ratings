@@ -1,0 +1,478 @@
+date,score,home_team,away_team
+12/05/2010,1 - 1, [ET] [N] Atlético Madrid,Fulham
+29/04/2010,2 - 1,Fulham,Hamburger SV
+29/04/2010,1 - 0, [ET] Liverpool,Atlético Madrid
+22/04/2010,1 - 0,Atlético Madrid,Liverpool
+22/04/2010,0 - 0,Hamburger SV,Fulham
+08/04/2010,0 - 0,Atlético Madrid,Valencia
+08/04/2010,4 - 1,Liverpool,Benfica
+08/04/2010,1 - 3,Standard Liège,Hamburger SV
+08/04/2010,0 - 1,Wolfsburg,Fulham
+01/04/2010,2 - 1,Benfica,Liverpool
+01/04/2010,2 - 1,Fulham,Wolfsburg
+01/04/2010,2 - 1,Hamburger SV,Standard Liège
+01/04/2010,2 - 2,Valencia,Atlético Madrid
+18/03/2010,4 - 3,Anderlecht,Hamburger SV
+18/03/2010,3 - 0,Liverpool,Lille
+18/03/2010,2 - 2,Sporting CP,Atlético Madrid
+18/03/2010,1 - 1, [ET] Wolfsburg,Rubin Kazan'
+18/03/2010,4 - 1,Fulham,Juventus
+18/03/2010,1 - 2,Olympique Marseille,Benfica
+18/03/2010,1 - 0,Standard Liège,Panathinaikos
+18/03/2010,4 - 4,Werder Bremen,Valencia
+11/03/2010,1 - 1,Benfica,Olympique Marseille
+11/03/2010,3 - 1,Juventus,Fulham
+11/03/2010,1 - 3,Panathinaikos,Standard Liège
+11/03/2010,1 - 1,Valencia,Werder Bremen
+11/03/2010,0 - 0,Atlético Madrid,Sporting CP
+11/03/2010,3 - 1,Hamburger SV,Anderlecht
+11/03/2010,1 - 0,Lille,Liverpool
+11/03/2010,1 - 1,Rubin Kazan',Wolfsburg
+25/02/2010,1 - 1,Fenerbahçe,Lille
+25/02/2010,0 - 0,Hapoel Tel Aviv,Rubin Kazan'
+25/02/2010,0 - 0,Juventus,Ajax
+25/02/2010,0 - 0,Salzburg,Standard Liège
+25/02/2010,3 - 0,Sporting CP,Everton
+25/02/2010,1 - 0, [ET] Valencia,Club Brugge
+25/02/2010,4 - 1,Werder Bremen,Twente
+25/02/2010,4 - 1,Wolfsburg,Villarreal
+25/02/2010,4 - 0,Anderlecht,Athletic Club
+25/02/2010,1 - 2,Galatasaray,Atlético Madrid
+25/02/2010,3 - 1,Olympique Marseille,København
+25/02/2010,3 - 2,PSV,Hamburger SV
+25/02/2010,2 - 3,Roma,Panathinaikos
+25/02/2010,1 - 1,Shakhtar Donetsk,Fulham
+25/02/2010,1 - 3,Unirea Urziceni,Liverpool
+23/02/2010,4 - 0,Benfica,Hertha BSC
+18/02/2010,1 - 1,Athletic Club,Anderlecht
+18/02/2010,1 - 1,Atlético Madrid,Galatasaray
+18/02/2010,2 - 1,Fulham,Shakhtar Donetsk
+18/02/2010,1 - 0,Hamburger SV,PSV
+18/02/2010,1 - 1,Hertha BSC,Benfica
+18/02/2010,1 - 3,København,Olympique Marseille
+18/02/2010,1 - 0,Liverpool,Unirea Urziceni
+18/02/2010,3 - 2,Panathinaikos,Roma
+18/02/2010,1 - 2,Ajax,Juventus
+18/02/2010,1 - 0,Club Brugge,Valencia
+18/02/2010,2 - 1,Lille,Fenerbahçe
+18/02/2010,3 - 2,Standard Liège,Salzburg
+18/02/2010,1 - 0,Twente,Werder Bremen
+18/02/2010,2 - 2,Villarreal,Wolfsburg
+18/02/2010,3 - 0,Rubin Kazan',Hapoel Tel Aviv
+16/02/2010,2 - 1,Everton,Sporting CP
+17/12/2009,1 - 3,Ajax,Anderlecht
+17/12/2009,1 - 2,Dinamo Zagreb,Politehnica Timişoara
+02/12/2009,0 - 1,Anderlecht,Dinamo Zagreb
+02/12/2009,1 - 2,Politehnica Timişoara,Ajax
+05/11/2009,3 - 1,Anderlecht,Politehnica Timişoara
+05/11/2009,0 - 2,Dinamo Zagreb,Ajax
+22/10/2009,2 - 1,Ajax,Dinamo Zagreb
+22/10/2009,0 - 0,Politehnica Timişoara,Anderlecht
+01/10/2009,1 - 1,Anderlecht,Ajax
+01/10/2009,0 - 3,Politehnica Timişoara,Dinamo Zagreb
+17/09/2009,0 - 0,Ajax,Politehnica Timişoara
+17/09/2009,0 - 2,Dinamo Zagreb,Anderlecht
+17/12/2009,1 - 2,Genoa,Valencia
+17/12/2009,3 - 1,Lille,Slavia Praha
+02/12/2009,0 - 0,Slavia Praha,Genoa
+02/12/2009,3 - 1,Valencia,Lille
+05/11/2009,3 - 2,Genoa,Lille
+05/11/2009,2 - 2,Slavia Praha,Valencia
+22/10/2009,3 - 0,Lille,Genoa
+22/10/2009,1 - 1,Valencia,Slavia Praha
+01/10/2009,1 - 5,Slavia Praha,Lille
+01/10/2009,3 - 2,Valencia,Genoa
+17/09/2009,2 - 0,Genoa,Slavia Praha
+17/09/2009,1 - 1,Lille,Valencia
+17/12/2009,1 - 0,Hapoel Tel Aviv,Hamburger SV
+17/12/2009,3 - 3,Rapid Wien,Celtic
+02/12/2009,2 - 0,Celtic,Hapoel Tel Aviv
+02/12/2009,2 - 0,Hamburger SV,Rapid Wien
+05/11/2009,0 - 0,Hamburger SV,Celtic
+05/11/2009,0 - 3,Rapid Wien,Hapoel Tel Aviv
+22/10/2009,0 - 1,Celtic,Hamburger SV
+22/10/2009,5 - 1,Hapoel Tel Aviv,Rapid Wien
+01/10/2009,1 - 1,Celtic,Rapid Wien
+01/10/2009,4 - 2,Hamburger SV,Hapoel Tel Aviv
+17/09/2009,2 - 1,Hapoel Tel Aviv,Celtic
+17/09/2009,3 - 0,Rapid Wien,Hamburger SV
+16/12/2009,5 - 0,Heerenveen,Ventspils
+16/12/2009,1 - 0,Hertha BSC,Sporting CP
+03/12/2009,1 - 1,Sporting CP,Heerenveen
+03/12/2009,0 - 1,Ventspils,Hertha BSC
+05/11/2009,2 - 3,Heerenveen,Hertha BSC
+05/11/2009,1 - 1,Sporting CP,Ventspils
+22/10/2009,0 - 1,Hertha BSC,Heerenveen
+22/10/2009,1 - 2,Ventspils,Sporting CP
+01/10/2009,1 - 0,Sporting CP,Hertha BSC
+01/10/2009,0 - 0,Ventspils,Heerenveen
+17/09/2009,2 - 3,Heerenveen,Sporting CP
+17/09/2009,1 - 1,Hertha BSC,Ventspils
+16/12/2009,2 - 3,Basel,Fulham
+16/12/2009,0 - 3,CSKA Sofia,Roma
+03/12/2009,1 - 0,Fulham,CSKA Sofia
+03/12/2009,2 - 1,Roma,Basel
+05/11/2009,3 - 1,Basel,CSKA Sofia
+05/11/2009,2 - 1,Roma,Fulham
+22/10/2009,0 - 2,CSKA Sofia,Basel
+22/10/2009,1 - 1,Fulham,Roma
+01/10/2009,1 - 0,Fulham,Basel
+01/10/2009,2 - 0,Roma,CSKA Sofia
+17/09/2009,2 - 0,Basel,Roma
+17/09/2009,1 - 1,CSKA Sofia,Fulham
+16/12/2009,3 - 0,Panathinaikos,Dinamo Bucureşti
+16/12/2009,1 - 0,Sturm Graz,Galatasaray
+03/12/2009,2 - 1,Dinamo Bucureşti,Sturm Graz
+03/12/2009,1 - 0,Galatasaray,Panathinaikos
+05/11/2009,0 - 3,Dinamo Bucureşti,Galatasaray
+05/11/2009,0 - 1,Sturm Graz,Panathinaikos
+22/10/2009,4 - 1,Galatasaray,Dinamo Bucureşti
+22/10/2009,1 - 0,Panathinaikos,Sturm Graz
+01/10/2009,0 - 1,Dinamo Bucureşti,Panathinaikos
+01/10/2009,1 - 1,Galatasaray,Sturm Graz
+17/09/2009,1 - 3,Panathinaikos,Galatasaray
+17/09/2009,0 - 1,Sturm Graz,Dinamo Bucureşti
+17/12/2009,0 - 1,Lazio,Levski Sofia
+17/12/2009,0 - 1,Villarreal,Salzburg
+02/12/2009,0 - 2,[N] Levski Sofia,Villarreal
+02/12/2009,2 - 1,Salzburg,Lazio
+05/11/2009,0 - 1,[N] Levski Sofia,Salzburg
+05/11/2009,4 - 1,Villarreal,Lazio
+22/10/2009,2 - 1,Lazio,Villarreal
+22/10/2009,1 - 0,Salzburg,Levski Sofia
+01/10/2009,0 - 4,[N] Levski Sofia,Lazio
+01/10/2009,2 - 0,Salzburg,Villarreal
+17/09/2009,1 - 2,Lazio,Salzburg
+17/09/2009,1 - 0,Villarreal,Levski Sofia
+17/12/2009,1 - 1,FCSB,Twente
+17/12/2009,1 - 0,Fenerbahçe,Sheriff
+02/12/2009,1 - 1,Sheriff,FCSB
+02/12/2009,0 - 1,Twente,Fenerbahçe
+05/11/2009,3 - 1,Fenerbahçe,FCSB
+05/11/2009,2 - 1,Twente,Sheriff
+22/10/2009,0 - 1,FCSB,Fenerbahçe
+22/10/2009,2 - 0,Sheriff,Twente
+01/10/2009,0 - 1,Sheriff,Fenerbahçe
+01/10/2009,0 - 0,Twente,FCSB
+17/09/2009,0 - 0,FCSB,Sheriff
+17/09/2009,1 - 2,Fenerbahçe,Twente
+17/12/2009,2 - 1,Benfica,AEK Athens
+17/12/2009,0 - 1,Everton,BATE
+02/12/2009,0 - 1,AEK Athens,Everton
+02/12/2009,1 - 2,[N] BATE,Benfica
+05/11/2009,2 - 2,AEK Athens,BATE
+05/11/2009,0 - 2,Everton,Benfica
+22/10/2009,2 - 1,[N] BATE,AEK Athens
+22/10/2009,5 - 0,Benfica,Everton
+01/10/2009,1 - 0,AEK Athens,Benfica
+01/10/2009,1 - 2,[N] BATE,Everton
+17/09/2009,2 - 0,Benfica,BATE
+17/09/2009,4 - 0,Everton,AEK Athens
+16/12/2009,1 - 0,Club Brugge,Toulouse
+16/12/2009,1 - 0,Partizan,Shakhtar Donetsk
+03/12/2009,0 - 0,Shakhtar Donetsk,Club Brugge
+03/12/2009,1 - 0,Toulouse,Partizan
+05/11/2009,2 - 4,Partizan,Club Brugge
+05/11/2009,0 - 2,Toulouse,Shakhtar Donetsk
+22/10/2009,2 - 0,Club Brugge,Partizan
+22/10/2009,4 - 0,Shakhtar Donetsk,Toulouse
+01/10/2009,4 - 1,Shakhtar Donetsk,Partizan
+01/10/2009,2 - 2,Toulouse,Club Brugge
+17/09/2009,1 - 4,Club Brugge,Shakhtar Donetsk
+17/09/2009,2 - 3,Partizan,Toulouse
+16/12/2009,0 - 2,CFR Cluj,PSV
+16/12/2009,0 - 3,Sparta Praha,København
+03/12/2009,2 - 0,København,CFR Cluj
+03/12/2009,1 - 0,PSV,Sparta Praha
+05/11/2009,2 - 3,CFR Cluj,Sparta Praha
+05/11/2009,1 - 1,København,PSV
+22/10/2009,1 - 0,PSV,København
+22/10/2009,2 - 0,Sparta Praha,CFR Cluj
+01/10/2009,1 - 0,København,Sparta Praha
+01/10/2009,1 - 0,PSV,CFR Cluj
+17/09/2009,2 - 0,CFR Cluj,København
+17/09/2009,2 - 2,Sparta Praha,PSV
+16/12/2009,0 - 3,Athletic Club,Werder Bremen
+16/12/2009,5 - 1,Nacional,Austria Wien
+03/12/2009,0 - 3,[N] Austria Wien,Athletic Club
+03/12/2009,4 - 1,Werder Bremen,Nacional
+05/11/2009,1 - 1,Nacional,Athletic Club
+05/11/2009,2 - 0,Werder Bremen,Austria Wien
+22/10/2009,2 - 1,Athletic Club,Nacional
+22/10/2009,2 - 2,[N] Austria Wien,Werder Bremen
+01/10/2009,1 - 1,[N] Austria Wien,Nacional
+01/10/2009,3 - 1,Werder Bremen,Athletic Club
+17/09/2009,3 - 0,Athletic Club,Austria Wien
+17/09/2009,2 - 3,Nacional,Werder Bremen
+27/08/2009,4 - 1,Valencia,Stabæk
+27/08/2009,2 - 1,Aston Villa,Rapid Wien
+27/08/2009,0 - 1,Toulouse,Trabzonspor
+27/08/2009,1 - 0,PSV,Bnei Yehuda
+27/08/2009,7 - 1,Roma,Košice
+27/08/2009,1 - 2,[N] St Patrick's Athl.,FCSB
+27/08/2009,2 - 1,Vorskla,Benfica
+27/08/2009,2 - 0,Hearts,Dinamo Zagreb
+27/08/2009,1 - 0, [PS] Club Brugge,Lech Poznań
+27/08/2009,2 - 1,Crvena Zvezda,Slavia Praha
+27/08/2009,2 - 2,Fenerbahçe,Sion
+27/08/2009,3 - 1,Hamburger SV,Guingamp
+27/08/2009,1 - 1,OB,Genoa
+27/08/2009,6 - 1,Villarreal,NAC Breda
+27/08/2009,3 - 0,AEK Athens,Vaslui
+27/08/2009,1 - 1,FCI Levadia,Galatasaray
+27/08/2009,0 - 1,Lovech,BATE [ET] 
+27/08/2009,1 - 0,Sparta Praha,Maribor
+27/08/2009,5 - 1,Basel,Bakı
+27/08/2009,0 - 3,Slovan Liberec,Dinamo Bucureşti [PS] 
+27/08/2009,0 - 2,Žilina,Partizan
+27/08/2009,2 - 2, [ET] [N] Austria Wien,Metalurh Donetsk
+27/08/2009,0 - 1,Metalist,Sturm Graz
+27/08/2009,1 - 0,Elfsborg,Lazio
+27/08/2009,1 - 1,Tromsø,Athletic Club
+27/08/2009,2 - 1,CFR Cluj,Sarajevo
+27/08/2009,0 - 0,Heerenveen,PAOK
+27/08/2009,4 - 2,Lille,Genk
+27/08/2009,1 - 2,Slovan Bratislava,Ajax
+27/08/2009,1 - 1,Zenit,Nacional
+27/08/2009,3 - 1,[N] Hertha BSC,Brøndby
+27/08/2009,1 - 2,Dinamo Moskva,CSKA Sofia
+27/08/2009,1 - 1,Hapoel Tel Aviv,Teplice
+27/08/2009,1 - 1,Sigma Olomouc,Everton
+27/08/2009,0 - 0,Qarabağ,Twente
+27/08/2009,0 - 2,Aktobe,Werder Bremen
+27/08/2009,1 - 0,Amkar Perm',Fulham
+25/08/2009,2 - 0,[N] Shakhtar Donetsk,Sivasspor
+20/08/2009,3 - 2,Athletic Club,Tromsø
+20/08/2009,4 - 3,Nacional,Zenit
+20/08/2009,4 - 0,Dinamo Zagreb,Hearts
+20/08/2009,4 - 0,Everton,Sigma Olomouc
+20/08/2009,3 - 1,Fulham,Amkar Perm'
+20/08/2009,0 - 3,Stabæk,Valencia
+20/08/2009,6 - 3,Werder Bremen,Aktobe
+20/08/2009,5 - 0,Ajax,Slovan Bratislava
+20/08/2009,4 - 0,Benfica,Vorskla
+20/08/2009,5 - 0,Galatasaray,FCI Levadia
+20/08/2009,1 - 2,Genk,Lille
+20/08/2009,3 - 1,Genoa,OB
+20/08/2009,3 - 0,Lazio,Elfsborg
+20/08/2009,0 - 2,Maribor,Sparta Praha
+20/08/2009,2 - 1,Brøndby,Hertha BSC
+20/08/2009,1 - 0,Lech Poznań,Club Brugge
+20/08/2009,0 - 2,Sion,Fenerbahçe
+20/08/2009,1 - 1,Partizan,Žilina
+20/08/2009,1 - 1,Sarajevo,CFR Cluj
+20/08/2009,0 - 3,Sivasspor,Shakhtar Donetsk
+20/08/2009,3 - 0,Slavia Praha,Crvena Zvezda
+20/08/2009,3 - 1,Twente,Qarabağ
+20/08/2009,2 - 1,Vaslui,AEK Athens
+20/08/2009,0 - 3,Dinamo Bucureşti,Slovan Liberec
+20/08/2009,3 - 0,FCSB,St Patrick's Athl.
+20/08/2009,2 - 2,Metalurh Donetsk,Austria Wien
+20/08/2009,1 - 0,[N] Rapid Wien,Aston Villa
+20/08/2009,1 - 1,Sturm Graz,Metalist
+20/08/2009,0 - 0,CSKA Sofia,Dinamo Moskva
+20/08/2009,1 - 3,NAC Breda,Villarreal
+20/08/2009,1 - 1,PAOK,Heerenveen
+20/08/2009,1 - 5,Guingamp,Hamburger SV
+20/08/2009,1 - 3,Trabzonspor,Toulouse
+20/08/2009,0 - 1,Bnei Yehuda,PSV
+20/08/2009,0 - 1,BATE,Lovech
+20/08/2009,1 - 2,Teplice,Hapoel Tel Aviv
+20/08/2009,1 - 3,Bakı,Basel
+20/08/2009,3 - 3,Košice,Roma
+06/08/2009,0 - 1,Paços de Ferreira,Bnei Yehuda
+06/08/2009,3 - 0,Fulham,Vėtra
+06/08/2009,0 - 1,Hajduk Split,Žilina
+06/08/2009,5 - 2,Crvena Zvezda,Dinamo Tbilisi
+06/08/2009,1 - 3,Motherwell,FCSB
+06/08/2009,0 - 1,PAOK,Vålerenga
+06/08/2009,1 - 7,Gent,Roma
+06/08/2009,0 - 1,Hamburger SV,Randers
+06/08/2009,2 - 1, [PS] Sarajevo,Helsingborg
+06/08/2009,3 - 0,OB,Rabotnički
+06/08/2009,1 - 1,Derry City,CSKA Sofia
+06/08/2009,2 - 0,Elfsborg,Sporting Braga
+06/08/2009,6 - 0,Galatasaray,Maccabi Netanya
+06/08/2009,1 - 1,Honvéd,Fenerbahçe
+06/08/2009,0 - 3,Interblock,Metalurh Donetsk
+06/08/2009,2 - 2,[N] Legia Warszawa,Brøndby
+06/08/2009,2 - 0,Metalist,Rijeka
+06/08/2009,3 - 1,NAC Breda,Polonia Warszawa
+06/08/2009,3 - 0,Sigma Olomouc,Aberdeen
+06/08/2009,3 - 1,Basel,KR
+06/08/2009,1 - 2,Young Boys,Athletic Club
+06/08/2009,2 - 1,APOP Kinyras,Rapid Wien
+06/08/2009,4 - 2,[N] Austria Wien,Vojvodina
+06/08/2009,5 - 0,Sturm Graz,Petrovac
+06/08/2009,1 - 1,Hapoel Tel Aviv,IFK Göteborg
+06/08/2009,1 - 1,Lahti,Club Brugge
+06/08/2009,2 - 0,Lille,Sloboda Užice
+06/08/2009,0 - 2,Slaven Koprivnica,Tromsø
+06/08/2009,1 - 2,Lech Poznań,Fredrikstad
+06/08/2009,0 - 1,Cherno More,PSV
+06/08/2009,2 - 0,Slovan Liberec,Vaduz
+06/08/2009,3 - 1,Košice,Slavija
+06/08/2009,2 - 1,Qarabağ,Honka
+06/08/2009,3 - 2,Krylya Sovetov,St Patrick's Athl.
+04/08/2009,1 - 1,Omonia Nicosia,Vaslui
+30/07/2009,1 - 2,Sporting Braga,Elfsborg
+30/07/2009,0 - 1,Athletic Club,Young Boys
+30/07/2009,2 - 2,KR,Basel
+30/07/2009,1 - 2,Rijeka,Metalist
+30/07/2009,1 - 5,Aberdeen,Sigma Olomouc
+30/07/2009,5 - 1,Fenerbahçe,Honvéd
+30/07/2009,2 - 1,Helsingborg,Sarajevo
+30/07/2009,1 - 0,PSV,Cherno More
+30/07/2009,3 - 1,Roma,Gent
+30/07/2009,0 - 2,Sloboda Užice,Lille
+30/07/2009,1 - 0,St Patrick's Athl.,Krylya Sovetov
+30/07/2009,3 - 2,Club Brugge,Lahti
+30/07/2009,0 - 4,Randers,Hamburger SV
+30/07/2009,0 - 2,Slavija,Košice
+30/07/2009,0 - 1,[N] Polonia Warszawa,NAC Breda
+30/07/2009,2 - 0,Vaslui,Omonia Nicosia
+30/07/2009,3 - 0,FCSB,Motherwell
+30/07/2009,0 - 1,Vaduz,Slovan Liberec
+30/07/2009,1 - 1,Žilina,Hajduk Split
+30/07/2009,2 - 1,[N] Rapid Wien,APOP Kinyras
+30/07/2009,1 - 1,Vojvodina,Austria Wien
+30/07/2009,1 - 1,Brøndby,Legia Warszawa
+30/07/2009,1 - 0,CSKA Sofia,Derry City
+30/07/2009,1 - 6,Fredrikstad,Lech Poznań
+30/07/2009,1 - 3,IFK Göteborg,Hapoel Tel Aviv
+30/07/2009,2 - 0,[N] Metalurh Donetsk,Interblock
+30/07/2009,2 - 1,Tromsø,Slaven Koprivnica
+30/07/2009,1 - 2,Vålerenga,PAOK
+30/07/2009,0 - 3,Vėtra,Fulham
+30/07/2009,1 - 4,Maccabi Netanya,Galatasaray
+30/07/2009,0 - 1,[N] Honka,Qarabağ
+30/07/2009,1 - 2,Petrovac,Sturm Graz
+30/07/2009,3 - 4,Rabotnički,OB
+30/07/2009,2 - 0,Dinamo Tbilisi,Crvena Zvezda
+28/07/2009,1 - 0,Bnei Yehuda,Paços de Ferreira
+23/07/2009,1 - 0,Paços de Ferreira,Zimbru
+23/07/2009,0 - 1,Bangor City,Honka
+23/07/2009,3 - 0,Rijeka,Differdange 03
+23/07/2009,0 - 2,Fram,Sigma Olomouc
+23/07/2009,1 - 2,Helsingborg,Zestafoni
+23/07/2009,8 - 1,Motherwell,Flamurtari
+23/07/2009,4 - 0,Crvena Zvezda,Rudar
+23/07/2009,1 - 1,Široki Brijeg,Sturm Graz
+23/07/2009,3 - 1,Slavija,AaB
+23/07/2009,0 - 3,Vllaznia Shkodër,Rapid Wien
+23/07/2009,1 - 0,Derry City,Skonto
+23/07/2009,2 - 0,Galatasaray,Tobol
+23/07/2009,1 - 0,Gent,Naftan
+23/07/2009,1 - 4,HB,Omonia Nicosia
+23/07/2009,1 - 2,Újpest,FCSB
+23/07/2009,1 - 1,Spartak Trnava,Sarajevo
+23/07/2009,1 - 0, [ET] Vaduz,Falkirk
+23/07/2009,1 - 4,FC Santa Coloma,Basel
+23/07/2009,0 - 3,Iskra-Stal,Cherno More
+23/07/2009,1 - 1,Larissa,KR
+23/07/2009,3 - 0,Maccabi Netanya,Sliema Wanderers
+23/07/2009,1 - 1,Randers,Sūduva
+23/07/2009,8 - 2,Slaven Koprivnica,Milano
+23/07/2009,0 - 0,Szombathelyi Haladás,Elfsborg
+23/07/2009,4 - 1,Tromsø,Dinamo Minsk
+23/07/2009,0 - 1,Dacia,Žilina
+23/07/2009,1 - 2,Partizan Minsk,Metalurh Donetsk
+23/07/2009,0 - 1,Dinaburg,Bnei Yehuda
+23/07/2009,1 - 3,HJK,Vėtra
+23/07/2009,1 - 1,Kaunas,Sloboda Užice
+23/07/2009,4 - 0,Polonia Warszawa,Juvenes / Dogana
+23/07/2009,1 - 4,Flora,Brøndby
+23/07/2009,0 - 2,Gandzasar,NAC Breda
+23/07/2009,2 - 0,Lahti,Gorica
+23/07/2009,0 - 1,Valletta,St Patrick's Athl.
+23/07/2009,2 - 1, [ET] Petrovac,Anorthosis
+23/07/2009,1 - 0,Qarabağ,Rosenborg
+23/07/2009,4 - 2,Rabotnički,Crusaders
+23/07/2009,3 - 1,Dinamo Tbilisi,Liepājas Metalurgs
+23/07/2009,0 - 1,Metalurgi Rustavi,Legia Warszawa
+16/07/2009,2 - 0,KR,Larissa
+16/07/2009,6 - 0,NAC Breda,Gandzasar
+16/07/2009,1 - 1,St Patrick's Athl.,Valletta
+16/07/2009,1 - 0,Falkirk,Vaduz
+16/07/2009,0 - 1,Juvenes / Dogana,Polonia Warszawa
+16/07/2009,1 - 0,Sarajevo,Spartak Trnava
+16/07/2009,0 - 1,Brøndby,Flora
+16/07/2009,1 - 0,Differdange 03,Rijeka
+16/07/2009,1 - 0,Gorica,Lahti
+16/07/2009,3 - 0,[N] Legia Warszawa,Metalurgi Rustavi
+16/07/2009,0 - 1,Rudar,Crvena Zvezda
+16/07/2009,0 - 0,AaB,Slavija
+16/07/2009,3 - 0,Basel,FC Santa Coloma
+16/07/2009,2 - 0,FCSB,Újpest
+16/07/2009,4 - 0,Omonia Nicosia,HB
+16/07/2009,5 - 0,[N] Rapid Wien,Vllaznia Shkodër
+16/07/2009,2 - 1,Sturm Graz,Široki Brijeg
+16/07/2009,2 - 1,Anorthosis,Petrovac
+16/07/2009,4 - 0,Bnei Yehuda,Dinaburg
+16/07/2009,1 - 0,Cherno More,Iskra-Stal
+16/07/2009,3 - 0,Elfsborg,Szombathelyi Haladás
+16/07/2009,0 - 0,Rosenborg,Qarabağ
+16/07/2009,1 - 1,Sigma Olomouc,Fram
+16/07/2009,0 - 1,Sūduva,Randers
+16/07/2009,0 - 1,Vėtra,HJK
+16/07/2009,1 - 1,Skonto,Derry City
+16/07/2009,3 - 0,Metalurh Donetsk,Partizan Minsk
+16/07/2009,1 - 1,Tobol,Galatasaray
+16/07/2009,0 - 0,Zimbru,Paços de Ferreira
+16/07/2009,0 - 0,Dinamo Minsk,Tromsø
+16/07/2009,2 - 0,Honka,Bangor City
+16/07/2009,2 - 1,Liepājas Metalurgs,Dinamo Tbilisi
+16/07/2009,0 - 0,Sloboda Užice,Kaunas
+16/07/2009,1 - 0,Flamurtari,Motherwell
+16/07/2009,2 - 0,Žilina,Dacia
+16/07/2009,0 - 4,Milano,Slaven Koprivnica
+16/07/2009,2 - 1,Naftan,Gent
+16/07/2009,1 - 2,Zestafoni,Helsingborg
+14/07/2009,1 - 1,Crusaders,Rabotnički
+14/07/2009,0 - 0,Sliema Wanderers,Maccabi Netanya
+09/07/2009,2 - 2,Keflavík,Valletta
+09/07/2009,0 - 3,Linfield,Randers
+09/07/2009,0 - 1,Polonia Warszawa,Budućnost
+09/07/2009,0 - 1,Široki Brijeg,Banants
+09/07/2009,0 - 3,Llanelli,Motherwell
+09/07/2009,1 - 2,The New Saints,Fram
+09/07/2009,1 - 2,UN Käerjéng,Anorthosis
+09/07/2009,1 - 1,Vllaznia Shkodër,Sligo Rovers
+09/07/2009,3 - 1,Rudar,Trans
+09/07/2009,0 - 2,B36,Metalurgi Rustavi
+09/07/2009,2 - 0,Dinamo Tirana,Lahti
+09/07/2009,3 - 1,Rosenborg,NSÍ
+09/07/2009,3 - 0,Vėtra,Grevenmacher
+09/07/2009,0 - 0,Birkirkara,Slaven Koprivnica
+09/07/2009,0 - 0,Nõmme Kalju,Dinaburg
+09/07/2009,3 - 0,Bnei Yehuda,Simurq
+09/07/2009,1 - 1, [ET] Partizan Minsk,Sutjeska
+09/07/2009,1 - 1,Renova,Dinamo Minsk
+09/07/2009,1 - 3,Keşlə,Spartak Trnava
+09/07/2009,2 - 1,Irtysh,Szombathelyi Haladás
+09/07/2009,1 - 1,Mika,Helsingborg
+09/07/2009,6 - 0,Zestafoni,Lisburn Distillery
+09/07/2009,0 - 2,Okzhetpes,Zimbru
+02/07/2009,0 - 1,Motherwell,Llanelli
+02/07/2009,2 - 1,Fram,The New Saints
+02/07/2009,3 - 1,Helsingborg,Mika
+02/07/2009,1 - 5,Lisburn Distillery,Zestafoni
+02/07/2009,0 - 2,Budućnost,Polonia Warszawa
+02/07/2009,0 - 3,NSÍ,Rosenborg
+02/07/2009,1 - 2,Sligo Rovers,Vllaznia Shkodër
+02/07/2009,5 - 0,Anorthosis,UN Käerjéng
+02/07/2009,0 - 3,Grevenmacher,Vėtra
+02/07/2009,4 - 0,Randers,Linfield
+02/07/2009,1 - 0,Slaven Koprivnica,Birkirkara
+02/07/2009,2 - 1,Spartak Trnava,Keşlə
+02/07/2009,1 - 0,Szombathelyi Haladás,Irtysh
+02/07/2009,2 - 1,Dinamo Minsk,Renova
+02/07/2009,0 - 3,Trans,Rudar
+02/07/2009,1 - 2,Zimbru,Okzhetpes
+02/07/2009,4 - 1,Lahti,Dinamo Tirana
+02/07/2009,1 - 1,Sutjeska,Partizan Minsk
+02/07/2009,3 - 0,Valletta,Keflavík
+02/07/2009,0 - 2,Banants,Široki Brijeg
+02/07/2009,2 - 1,Dinaburg,Nõmme Kalju
+02/07/2009,0 - 1,Simurq,Bnei Yehuda
+02/07/2009,2 - 0,Metalurgi Rustavi,B36

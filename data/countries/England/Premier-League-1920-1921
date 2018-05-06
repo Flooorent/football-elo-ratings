@@ -1,0 +1,463 @@
+date,score,home_team,away_team
+07/05/1921,2 - 0,Aston Villa,Bolton Wanderers
+07/05/1921,0 - 3,Bradford Park Avenue,West Bromwich Albion
+07/05/1921,2 - 2,Burnley,Sunderland
+07/05/1921,1 - 2,Chelsea,Blackburn Rovers
+07/05/1921,3 - 0,Liverpool,Arsenal
+07/05/1921,3 - 0,Manchester United,Derby County
+07/05/1921,1 - 1,Newcastle United,Manchester City
+07/05/1921,1 - 2,Oldham Athletic,Huddersfield Town
+07/05/1921,1 - 1,Preston North End,Bradford City
+07/05/1921,2 - 2,Tottenham Hotspur,Middlesbrough
+02/05/1921,0 - 0,Arsenal,Liverpool
+02/05/1921,0 - 0,Blackburn Rovers,Chelsea
+02/05/1921,6 - 2,Bradford City,Preston North End
+02/05/1921,1 - 1,Derby County,Manchester United
+02/05/1921,3 - 1,Huddersfield Town,Oldham Athletic
+02/05/1921,3 - 1,Manchester City,Newcastle United
+02/05/1921,1 - 0,Middlesbrough,Tottenham Hotspur
+02/05/1921,1 - 0,Sunderland,Burnley
+02/05/1921,0 - 1,West Bromwich Albion,Bradford Park Avenue
+30/04/1921,1 - 0,Aston Villa,Derby County
+30/04/1921,1 - 2,Bradford Park Avenue,Manchester City
+30/04/1921,1 - 1,Burnley,Everton
+30/04/1921,1 - 1,Chelsea,Middlesbrough
+30/04/1921,2 - 3,Liverpool,Bolton Wanderers
+30/04/1921,0 - 1,Manchester United,Blackburn Rovers
+30/04/1921,1 - 0,Newcastle United,Arsenal
+30/04/1921,2 - 0,Oldham Athletic,Bradford City
+30/04/1921,1 - 1,Preston North End,Sunderland
+30/04/1921,0 - 2,Sheffield United,West Bromwich Albion
+30/04/1921,1 - 0,Tottenham Hotspur,Huddersfield Town
+27/04/1921,0 - 0,Everton,Tottenham Hotspur
+25/04/1921,2 - 1,Arsenal,Preston North End
+25/04/1921,2 - 0,Huddersfield Town,Tottenham Hotspur
+23/04/1921,1 - 1,Arsenal,Newcastle United
+23/04/1921,2 - 0,Blackburn Rovers,Manchester United
+23/04/1921,1 - 0,Bolton Wanderers,Liverpool
+23/04/1921,1 - 3,Bradford City,Oldham Athletic
+23/04/1921,2 - 3,Derby County,Aston Villa
+23/04/1921,1 - 1,Everton,Burnley
+23/04/1921,1 - 0,Manchester City,Bradford Park Avenue
+23/04/1921,0 - 0,Middlesbrough,Chelsea
+23/04/1921,2 - 2,Sunderland,Preston North End
+23/04/1921,1 - 1,West Bromwich Albion,Sheffield United
+20/04/1921,5 - 1,Manchester City,Preston North End
+16/04/1921,3 - 0,Aston Villa,Blackburn Rovers
+16/04/1921,0 - 1,Bradford Park Avenue,Arsenal
+16/04/1921,1 - 1,Burnley,West Bromwich Albion
+16/04/1921,1 - 1,Chelsea,Huddersfield Town
+16/04/1921,1 - 1,Liverpool,Derby County
+16/04/1921,0 - 1,Manchester United,Middlesbrough
+16/04/1921,1 - 0,Newcastle United,Bolton Wanderers
+16/04/1921,2 - 1,Oldham Athletic,Sunderland
+16/04/1921,1 - 0,Preston North End,Everton
+16/04/1921,1 - 1,Sheffield United,Manchester City
+16/04/1921,2 - 0,Tottenham Hotspur,Bradford City
+09/04/1921,2 - 1,Arsenal,Bradford Park Avenue
+09/04/1921,0 - 1,Blackburn Rovers,Aston Villa
+09/04/1921,3 - 1,Bolton Wanderers,Newcastle United
+09/04/1921,1 - 0,Bradford City,Tottenham Hotspur
+09/04/1921,0 - 0,Derby County,Liverpool
+09/04/1921,0 - 1,Everton,Preston North End
+09/04/1921,2 - 0,Huddersfield Town,Chelsea
+09/04/1921,2 - 1,Manchester City,Sheffield United
+09/04/1921,2 - 4,Middlesbrough,Manchester United
+09/04/1921,1 - 1,Sunderland,Oldham Athletic
+09/04/1921,2 - 0,West Bromwich Albion,Burnley
+06/04/1921,5 - 1,Everton,Chelsea
+04/04/1921,3 - 0,Bolton Wanderers,Preston North End
+02/04/1921,0 - 1,Aston Villa,Middlesbrough
+02/04/1921,2 - 1,Bradford Park Avenue,Bolton Wanderers
+02/04/1921,2 - 1,Burnley,Manchester City
+02/04/1921,3 - 1,Chelsea,Bradford City
+02/04/1921,2 - 0,Liverpool,Blackburn Rovers
+02/04/1921,2 - 0,Manchester United,Huddersfield Town
+02/04/1921,0 - 1,Newcastle United,Derby County
+02/04/1921,0 - 1,Oldham Athletic,Everton
+02/04/1921,2 - 1,Preston North End,West Bromwich Albion
+02/04/1921,1 - 1,Sheffield United,Arsenal
+02/04/1921,0 - 0,Tottenham Hotspur,Sunderland
+29/03/1921,3 - 4,Bradford City,Blackburn Rovers
+29/03/1921,5 - 1,Chelsea,Aston Villa
+29/03/1921,1 - 0,Huddersfield Town,Sheffield United
+29/03/1921,3 - 4,West Bromwich Albion,Arsenal
+28/03/1921,2 - 1,Arsenal,West Bromwich Albion
+28/03/1921,3 - 0,Aston Villa,Chelsea
+28/03/1921,1 - 3,Bradford Park Avenue,Preston North End
+28/03/1921,0 - 1,Derby County,Sunderland
+28/03/1921,2 - 3,Everton,Bolton Wanderers
+28/03/1921,0 - 3,Manchester United,Burnley
+28/03/1921,3 - 1,Middlesbrough,Manchester City
+28/03/1921,0 - 0,Oldham Athletic,Newcastle United
+28/03/1921,1 - 0,Tottenham Hotspur,Liverpool
+26/03/1921,2 - 6,Arsenal,Sheffield United
+26/03/1921,1 - 1,Blackburn Rovers,Liverpool
+26/03/1921,2 - 0,Bolton Wanderers,Bradford Park Avenue
+26/03/1921,1 - 1,Bradford City,Chelsea
+26/03/1921,0 - 1,Derby County,Newcastle United
+26/03/1921,5 - 2,Everton,Oldham Athletic
+26/03/1921,5 - 2,Huddersfield Town,Manchester United
+26/03/1921,3 - 0,Manchester City,Burnley
+26/03/1921,1 - 4,Middlesbrough,Aston Villa
+26/03/1921,0 - 1,Sunderland,Tottenham Hotspur
+26/03/1921,0 - 3,West Bromwich Albion,Preston North End
+25/03/1921,2 - 3,Blackburn Rovers,Bradford City
+25/03/1921,4 - 2,Bolton Wanderers,Everton
+25/03/1921,1 - 0,Burnley,Manchester United
+25/03/1921,1 - 1,Liverpool,Tottenham Hotspur
+25/03/1921,2 - 1,Manchester City,Middlesbrough
+25/03/1921,1 - 2,Newcastle United,Oldham Athletic
+25/03/1921,3 - 3,Preston North End,Bradford Park Avenue
+25/03/1921,3 - 0,Sunderland,Derby County
+19/03/1921,1 - 1,Arsenal,Burnley
+19/03/1921,3 - 3,Blackburn Rovers,Newcastle United
+19/03/1921,2 - 2,Bolton Wanderers,Sheffield United
+19/03/1921,1 - 1,Bradford City,Manchester United
+19/03/1921,1 - 0,Derby County,Bradford Park Avenue
+19/03/1921,1 - 0,Huddersfield Town,Aston Villa
+19/03/1921,0 - 1,Middlesbrough,Liverpool
+19/03/1921,1 - 0,Sunderland,Chelsea
+19/03/1921,0 - 0,West Bromwich Albion,Oldham Athletic
+14/03/1921,1 - 1,West Bromwich Albion,Chelsea
+12/03/1921,0 - 0,Aston Villa,Huddersfield Town
+12/03/1921,2 - 1,Bradford Park Avenue,Derby County
+12/03/1921,1 - 0,Burnley,Arsenal
+12/03/1921,3 - 1,Chelsea,Sunderland
+12/03/1921,0 - 0,Liverpool,Middlesbrough
+12/03/1921,1 - 1,Manchester United,Bradford City
+12/03/1921,1 - 2,Newcastle United,Blackburn Rovers
+12/03/1921,0 - 3,Oldham Athletic,West Bromwich Albion
+12/03/1921,0 - 1,Preston North End,Manchester City
+12/03/1921,2 - 2,Sheffield United,Bolton Wanderers
+12/03/1921,2 - 0,Tottenham Hotspur,Everton
+09/03/1921,2 - 0,Everton,Manchester United
+09/03/1921,2 - 0,Manchester City,Tottenham Hotspur
+07/03/1921,3 - 0,Bradford City,Aston Villa
+05/03/1921,1 - 0,Blackburn Rovers,Bradford Park Avenue
+05/03/1921,1 - 1,Bolton Wanderers,Burnley
+05/03/1921,1 - 1,Derby County,Sheffield United
+05/03/1921,1 - 2,Huddersfield Town,Liverpool
+05/03/1921,3 - 1,Manchester City,Oldham Athletic
+05/03/1921,0 - 0,Middlesbrough,Newcastle United
+05/03/1921,2 - 3,Sunderland,Manchester United
+26/02/1921,1 - 2,Aston Villa,Bradford City
+26/02/1921,1 - 1,Bradford Park Avenue,Blackburn Rovers
+26/02/1921,3 - 1,Burnley,Bolton Wanderers
+26/02/1921,0 - 1,Chelsea,Everton
+26/02/1921,4 - 1,Liverpool,Huddersfield Town
+26/02/1921,3 - 0,Manchester United,Sunderland
+26/02/1921,2 - 0,Newcastle United,Middlesbrough
+26/02/1921,2 - 0,Oldham Athletic,Manchester City
+26/02/1921,0 - 1,Preston North End,Arsenal
+26/02/1921,0 - 1,Sheffield United,Derby County
+26/02/1921,1 - 0,Tottenham Hotspur,West Bromwich Albion
+23/02/1921,0 - 0,Derby County,Burnley
+23/02/1921,1 - 3,Huddersfield Town,Newcastle United
+23/02/1921,2 - 0,Manchester City,Everton
+23/02/1921,0 - 1,Sunderland,Aston Villa
+23/02/1921,3 - 1,West Bromwich Albion,Tottenham Hotspur
+19/02/1921,2 - 2,Arsenal,Oldham Athletic
+19/02/1921,1 - 1,Blackburn Rovers,Sheffield United
+19/02/1921,0 - 0,Bradford City,Liverpool
+19/02/1921,2 - 1,Middlesbrough,Bradford Park Avenue
+16/02/1921,2 - 2,Bradford City,Bolton Wanderers
+14/02/1921,2 - 1,Oldham Athletic,Derby County
+12/02/1921,1 - 5,Aston Villa,Sunderland
+12/02/1921,3 - 0,Bradford Park Avenue,Middlesbrough
+12/02/1921,2 - 1,Burnley,Derby County
+12/02/1921,3 - 0,Chelsea,West Bromwich Albion
+12/02/1921,2 - 1,Liverpool,Bradford City
+12/02/1921,1 - 2,Manchester United,Everton
+12/02/1921,1 - 0,Newcastle United,Huddersfield Town
+12/02/1921,1 - 1,Oldham Athletic,Arsenal
+12/02/1921,1 - 2,Preston North End,Bolton Wanderers
+12/02/1921,1 - 1,Sheffield United,Blackburn Rovers
+12/02/1921,2 - 0,Tottenham Hotspur,Manchester City
+10/02/1921,1 - 2,Blackburn Rovers,Huddersfield Town
+09/02/1921,0 - 0,Aston Villa,Burnley
+09/02/1921,1 - 1,Bradford City,West Bromwich Albion
+09/02/1921,2 - 0,Liverpool,Manchester United
+09/02/1921,1 - 0,Newcastle United,Chelsea
+07/02/1921,2 - 0,Preston North End,Sheffield United
+05/02/1921,1 - 1,Bolton Wanderers,Bradford City
+05/02/1921,1 - 1,Bradford Park Avenue,Tottenham Hotspur
+05/02/1921,7 - 1,Burnley,Aston Villa
+05/02/1921,2 - 0,Chelsea,Newcastle United
+05/02/1921,3 - 3,Derby County,Oldham Athletic
+05/02/1921,3 - 0,Everton,Manchester City
+05/02/1921,0 - 0,Huddersfield Town,Blackburn Rovers
+05/02/1921,1 - 1,Manchester United,Liverpool
+05/02/1921,1 - 0,Sheffield United,Preston North End
+05/02/1921,5 - 1,Sunderland,Arsenal
+05/02/1921,0 - 1,West Bromwich Albion,Middlesbrough
+03/02/1921,2 - 0,Tottenham Hotspur,Bradford Park Avenue
+29/01/1921,1 - 2,Arsenal,Sunderland
+29/01/1921,0 - 1,Middlesbrough,West Bromwich Albion
+22/01/1921,3 - 2,Arsenal,Tottenham Hotspur
+22/01/1921,1 - 3,Blackburn Rovers,Burnley
+22/01/1921,1 - 1,Bolton Wanderers,Oldham Athletic
+22/01/1921,1 - 1,Bradford City,Newcastle United
+22/01/1921,1 - 1,Derby County,Preston North End
+22/01/1921,1 - 1,Everton,Aston Villa
+22/01/1921,0 - 0,Huddersfield Town,Bradford Park Avenue
+22/01/1921,1 - 0,Manchester City,Chelsea
+22/01/1921,2 - 2,Middlesbrough,Sheffield United
+22/01/1921,2 - 1,Sunderland,Liverpool
+22/01/1921,0 - 2,West Bromwich Albion,Manchester United
+15/01/1921,1 - 3,Aston Villa,Everton
+15/01/1921,1 - 1,Bradford Park Avenue,Huddersfield Town
+15/01/1921,4 - 1,Burnley,Blackburn Rovers
+15/01/1921,2 - 1,Chelsea,Manchester City
+15/01/1921,0 - 0,Liverpool,Sunderland
+15/01/1921,1 - 4,Manchester United,West Bromwich Albion
+15/01/1921,4 - 0,Newcastle United,Bradford City
+15/01/1921,0 - 0,Oldham Athletic,Bolton Wanderers
+15/01/1921,2 - 1,Preston North End,Derby County
+15/01/1921,1 - 1,Sheffield United,Middlesbrough
+15/01/1921,2 - 1,Tottenham Hotspur,Arsenal
+01/01/1921,1 - 2,Arsenal,Bradford City
+01/01/1921,0 - 2,Aston Villa,Liverpool
+01/01/1921,1 - 0,Bolton Wanderers,Tottenham Hotspur
+01/01/1921,0 - 2,Bradford Park Avenue,Chelsea
+01/01/1921,2 - 1,Derby County,Huddersfield Town
+01/01/1921,2 - 2,Everton,West Bromwich Albion
+01/01/1921,3 - 1,Manchester City,Sunderland
+01/01/1921,1 - 1,Middlesbrough,Blackburn Rovers
+01/01/1921,6 - 3,Newcastle United,Manchester United
+01/01/1921,0 - 3,Preston North End,Burnley
+01/01/1921,3 - 0,Sheffield United,Oldham Athletic
+29/12/1920,1 - 1,Sheffield United,Huddersfield Town
+27/12/1920,1 - 1,Arsenal,Everton
+27/12/1920,2 - 1,Bradford Park Avenue,Oldham Athletic
+27/12/1920,1 - 1,Derby County,Bradford City
+27/12/1920,0 - 1,Huddersfield Town,Middlesbrough
+27/12/1920,2 - 1,Liverpool,Chelsea
+27/12/1920,1 - 3,Manchester United,Aston Villa
+27/12/1920,4 - 2,Preston North End,Blackburn Rovers
+27/12/1920,1 - 1,Sheffield United,Burnley
+27/12/1920,0 - 0,Sunderland,Bolton Wanderers
+27/12/1920,2 - 0,Tottenham Hotspur,Newcastle United
+27/12/1920,2 - 2,West Bromwich Albion,Manchester City
+25/12/1920,3 - 4,Aston Villa,Manchester United
+25/12/1920,2 - 2,Blackburn Rovers,Preston North End
+25/12/1920,6 - 2,Bolton Wanderers,Sunderland
+25/12/1920,2 - 2,Bradford City,Derby County
+25/12/1920,6 - 0,Burnley,Sheffield United
+25/12/1920,1 - 1,Chelsea,Liverpool
+25/12/1920,2 - 4,Everton,Arsenal
+25/12/1920,4 - 0,Manchester City,West Bromwich Albion
+25/12/1920,2 - 0,Middlesbrough,Huddersfield Town
+25/12/1920,1 - 1,Newcastle United,Tottenham Hotspur
+25/12/1920,1 - 0,Oldham Athletic,Bradford Park Avenue
+18/12/1920,3 - 2,Blackburn Rovers,Middlesbrough
+18/12/1920,3 - 1,Bradford City,Arsenal
+18/12/1920,2 - 0,Burnley,Preston North End
+18/12/1920,4 - 1,Chelsea,Bradford Park Avenue
+18/12/1920,2 - 0,Huddersfield Town,Derby County
+18/12/1920,4 - 1,Liverpool,Aston Villa
+18/12/1920,2 - 0,Manchester United,Newcastle United
+18/12/1920,0 - 0,Oldham Athletic,Sheffield United
+18/12/1920,1 - 0,Sunderland,Manchester City
+18/12/1920,5 - 2,Tottenham Hotspur,Bolton Wanderers
+18/12/1920,1 - 2,West Bromwich Albion,Everton
+11/12/1920,1 - 1,Arsenal,Chelsea
+11/12/1920,0 - 0,Aston Villa,Newcastle United
+11/12/1920,3 - 1,Bolton Wanderers,Huddersfield Town
+11/12/1920,2 - 4,Bradford Park Avenue,Manchester United
+11/12/1920,1 - 0,Burnley,Liverpool
+11/12/1920,0 - 1,Derby County,Blackburn Rovers
+11/12/1920,2 - 1,Everton,Middlesbrough
+11/12/1920,1 - 0,Manchester City,Bradford City
+11/12/1920,4 - 0,Preston North End,Oldham Athletic
+11/12/1920,1 - 1,Sheffield United,Tottenham Hotspur
+11/12/1920,3 - 0,Sunderland,West Bromwich Albion
+04/12/1920,2 - 0,Blackburn Rovers,Derby County
+04/12/1920,1 - 2,Bradford City,Manchester City
+04/12/1920,1 - 2,Chelsea,Arsenal
+04/12/1920,0 - 0,Huddersfield Town,Bolton Wanderers
+04/12/1920,0 - 0,Liverpool,Burnley
+04/12/1920,5 - 1,Manchester United,Bradford Park Avenue
+04/12/1920,3 - 1,Middlesbrough,Everton
+04/12/1920,2 - 1,Newcastle United,Aston Villa
+04/12/1920,0 - 2,Oldham Athletic,Preston North End
+04/12/1920,4 - 1,Tottenham Hotspur,Sheffield United
+04/12/1920,4 - 1,West Bromwich Albion,Sunderland
+27/11/1920,2 - 0,Arsenal,Huddersfield Town
+27/11/1920,2 - 1,Bolton Wanderers,Blackburn Rovers
+27/11/1920,4 - 0,Bradford Park Avenue,Aston Villa
+27/11/1920,7 - 1,Burnley,Oldham Athletic
+27/11/1920,0 - 1,Derby County,Middlesbrough
+27/11/1920,0 - 1,Liverpool,Newcastle United
+27/11/1920,3 - 0,Manchester City,Manchester United
+27/11/1920,4 - 1,Preston North End,Tottenham Hotspur
+27/11/1920,0 - 1,Sheffield United,Chelsea
+27/11/1920,0 - 2,Sunderland,Everton
+27/11/1920,2 - 0,West Bromwich Albion,Bradford City
+20/11/1920,4 - 1,Aston Villa,Bradford Park Avenue
+20/11/1920,2 - 2,Blackburn Rovers,Bolton Wanderers
+20/11/1920,2 - 1,Chelsea,Sheffield United
+20/11/1920,1 - 1,Everton,Sunderland
+20/11/1920,0 - 4,Huddersfield Town,Arsenal
+20/11/1920,1 - 1,Manchester United,Manchester City
+20/11/1920,1 - 0,Middlesbrough,Derby County
+20/11/1920,2 - 0,Newcastle United,Liverpool
+20/11/1920,2 - 2,Oldham Athletic,Burnley
+20/11/1920,1 - 2,Tottenham Hotspur,Preston North End
+13/11/1920,2 - 0,Arsenal,Blackburn Rovers
+13/11/1920,1 - 0,Bolton Wanderers,Derby County
+13/11/1920,1 - 3,Bradford Park Avenue,Liverpool
+13/11/1920,3 - 1,Burnley,Newcastle United
+13/11/1920,2 - 2,Everton,Bradford City
+13/11/1920,3 - 2,Manchester City,Huddersfield Town
+13/11/1920,2 - 5,Oldham Athletic,Tottenham Hotspur
+13/11/1920,0 - 1,Preston North End,Chelsea
+13/11/1920,0 - 0,Sheffield United,Manchester United
+13/11/1920,1 - 2,Sunderland,Middlesbrough
+13/11/1920,2 - 1,West Bromwich Albion,Aston Villa
+06/11/1920,0 - 0,Aston Villa,West Bromwich Albion
+06/11/1920,2 - 2,Blackburn Rovers,Arsenal
+06/11/1920,2 - 2,Bradford City,Everton
+06/11/1920,1 - 1,Chelsea,Preston North End
+06/11/1920,0 - 0,Derby County,Bolton Wanderers
+06/11/1920,0 - 1,Huddersfield Town,Manchester City
+06/11/1920,0 - 1,Liverpool,Bradford Park Avenue
+06/11/1920,2 - 1,Manchester United,Sheffield United
+06/11/1920,2 - 0,Middlesbrough,Sunderland
+06/11/1920,1 - 2,Newcastle United,Burnley
+06/11/1920,5 - 1,Tottenham Hotspur,Oldham Athletic
+30/10/1920,2 - 0,Arsenal,Derby County
+30/10/1920,6 - 2,Bolton Wanderers,Middlesbrough
+30/10/1920,0 - 2,Bradford Park Avenue,Newcastle United
+30/10/1920,2 - 0,Burnley,Tottenham Hotspur
+30/10/1920,0 - 3,Everton,Liverpool
+30/10/1920,0 - 0,Manchester City,Blackburn Rovers
+30/10/1920,1 - 2,Oldham Athletic,Chelsea
+30/10/1920,0 - 0,Preston North End,Manchester United
+30/10/1920,0 - 0,Sheffield United,Aston Villa
+30/10/1920,0 - 0,Sunderland,Bradford City
+30/10/1920,3 - 0,West Bromwich Albion,Huddersfield Town
+23/10/1920,4 - 0,Aston Villa,Sheffield United
+23/10/1920,0 - 2,Blackburn Rovers,Manchester City
+23/10/1920,2 - 2,Bradford City,Sunderland
+23/10/1920,1 - 1,Chelsea,Oldham Athletic
+23/10/1920,1 - 1,Derby County,Arsenal
+23/10/1920,5 - 1,Huddersfield Town,West Bromwich Albion
+23/10/1920,1 - 0,Liverpool,Everton
+23/10/1920,1 - 0,Manchester United,Preston North End
+23/10/1920,4 - 1,Middlesbrough,Bolton Wanderers
+23/10/1920,2 - 1,Newcastle United,Bradford Park Avenue
+23/10/1920,1 - 2,Tottenham Hotspur,Burnley
+16/10/1920,1 - 1,Bolton Wanderers,Arsenal
+16/10/1920,0 - 1,Bradford City,Middlesbrough
+16/10/1920,1 - 0,Burnley,Bradford Park Avenue
+16/10/1920,0 - 4,Chelsea,Tottenham Hotspur
+16/10/1920,0 - 0,Everton,Huddersfield Town
+16/10/1920,0 - 0,Manchester City,Derby County
+16/10/1920,2 - 2,Oldham Athletic,Manchester United
+16/10/1920,6 - 1,Preston North End,Aston Villa
+16/10/1920,0 - 1,Sheffield United,Liverpool
+16/10/1920,0 - 2,Sunderland,Newcastle United
+16/10/1920,1 - 1,West Bromwich Albion,Blackburn Rovers
+09/10/1920,0 - 0,Arsenal,Bolton Wanderers
+09/10/1920,1 - 0,Aston Villa,Preston North End
+09/10/1920,5 - 1,Blackburn Rovers,West Bromwich Albion
+09/10/1920,1 - 3,Bradford Park Avenue,Burnley
+09/10/1920,3 - 0,Derby County,Manchester City
+09/10/1920,0 - 1,Huddersfield Town,Everton
+09/10/1920,2 - 2,Liverpool,Sheffield United
+09/10/1920,4 - 1,Manchester United,Oldham Athletic
+09/10/1920,2 - 1,Middlesbrough,Bradford City
+09/10/1920,6 - 1,Newcastle United,Sunderland
+09/10/1920,5 - 0,Tottenham Hotspur,Chelsea
+04/10/1920,2 - 0,Sheffield United,Everton
+02/10/1920,2 - 1,Bradford City,Bradford Park Avenue
+02/10/1920,1 - 1,Chelsea,Burnley
+02/10/1920,2 - 1,Everton,Blackburn Rovers
+02/10/1920,3 - 1,Manchester City,Bolton Wanderers
+02/10/1920,2 - 1,Middlesbrough,Arsenal
+02/10/1920,1 - 1,Oldham Athletic,Aston Villa
+02/10/1920,2 - 3,Preston North End,Liverpool
+02/10/1920,0 - 3,Sheffield United,Newcastle United
+02/10/1920,2 - 1,Sunderland,Huddersfield Town
+02/10/1920,4 - 1,Tottenham Hotspur,Manchester United
+02/10/1920,3 - 0,West Bromwich Albion,Derby County
+25/09/1920,2 - 2,Arsenal,Middlesbrough
+25/09/1920,3 - 0,Aston Villa,Oldham Athletic
+25/09/1920,0 - 0,Blackburn Rovers,Everton
+25/09/1920,3 - 0,Bolton Wanderers,Manchester City
+25/09/1920,1 - 2,Bradford Park Avenue,Bradford City
+25/09/1920,4 - 0,Burnley,Chelsea
+25/09/1920,1 - 1,Derby County,West Bromwich Albion
+25/09/1920,0 - 0,Huddersfield Town,Sunderland
+25/09/1920,6 - 0,Liverpool,Preston North End
+25/09/1920,0 - 1,Manchester United,Tottenham Hotspur
+25/09/1920,3 - 0,Newcastle United,Sheffield United
+22/09/1920,3 - 0,Everton,Sheffield United
+20/09/1920,5 - 1,Blackburn Rovers,Oldham Athletic
+18/09/1920,0 - 2,Bradford City,Huddersfield Town
+18/09/1920,1 - 2,Chelsea,Manchester United
+18/09/1920,3 - 1,Everton,Derby County
+18/09/1920,3 - 1,Manchester City,Arsenal
+18/09/1920,0 - 0,Middlesbrough,Burnley
+18/09/1920,0 - 0,Oldham Athletic,Liverpool
+18/09/1920,3 - 2,Preston North End,Newcastle United
+18/09/1920,2 - 0,Sheffield United,Bradford Park Avenue
+18/09/1920,2 - 0,Sunderland,Blackburn Rovers
+18/09/1920,1 - 2,Tottenham Hotspur,Aston Villa
+18/09/1920,2 - 1,West Bromwich Albion,Bolton Wanderers
+15/09/1920,5 - 0,Bolton Wanderers,Aston Villa
+11/09/1920,2 - 1,Arsenal,Manchester City
+11/09/1920,4 - 2,Aston Villa,Tottenham Hotspur
+11/09/1920,2 - 0,Blackburn Rovers,Sunderland
+11/09/1920,3 - 0,Bolton Wanderers,West Bromwich Albion
+11/09/1920,2 - 0,Bradford Park Avenue,Sheffield United
+11/09/1920,2 - 1,Burnley,Middlesbrough
+11/09/1920,2 - 4,Derby County,Everton
+11/09/1920,1 - 0,Huddersfield Town,Bradford City
+11/09/1920,5 - 2,Liverpool,Oldham Athletic
+11/09/1920,3 - 1,Manchester United,Chelsea
+11/09/1920,4 - 2,Newcastle United,Preston North End
+08/09/1920,1 - 1,Bradford Park Avenue,Sunderland
+08/09/1920,2 - 0,Newcastle United,Everton
+06/09/1920,3 - 1,Aston Villa,Manchester City
+06/09/1920,3 - 1,Bolton Wanderers,Chelsea
+06/09/1920,3 - 0,Burnley,Huddersfield Town
+06/09/1920,0 - 0,Liverpool,West Bromwich Albion
+06/09/1920,1 - 1,Manchester United,Arsenal
+06/09/1920,2 - 0,Preston North End,Middlesbrough
+06/09/1920,4 - 1,Sheffield United,Bradford City
+06/09/1920,2 - 0,Tottenham Hotspur,Derby County
+04/09/1920,0 - 1,Arsenal,Aston Villa
+04/09/1920,1 - 1,Blackburn Rovers,Tottenham Hotspur
+04/09/1920,1 - 1,Bolton Wanderers,Manchester United
+04/09/1920,2 - 0,Bradford City,Burnley
+04/09/1920,1 - 1,Chelsea,Derby County
+04/09/1920,1 - 1,Everton,Bradford Park Avenue
+04/09/1920,1 - 0,Huddersfield Town,Preston North End
+04/09/1920,3 - 2,Manchester City,Liverpool
+04/09/1920,3 - 3,Oldham Athletic,Middlesbrough
+04/09/1920,3 - 1,Sunderland,Sheffield United
+04/09/1920,0 - 0,West Bromwich Albion,Newcastle United
+01/09/1920,1 - 0,Chelsea,Bolton Wanderers
+01/09/1920,3 - 1,Everton,Newcastle United
+01/09/1920,5 - 1,Sunderland,Bradford Park Avenue
+01/09/1920,1 - 1,West Bromwich Albion,Liverpool
+30/08/1920,2 - 0,Arsenal,Manchester United
+30/08/1920,4 - 0,Bradford City,Sheffield United
+30/08/1920,2 - 2,Derby County,Tottenham Hotspur
+30/08/1920,1 - 0,Huddersfield Town,Burnley
+30/08/1920,3 - 1,Manchester City,Aston Villa
+30/08/1920,0 - 0,Middlesbrough,Preston North End
+30/08/1920,1 - 0,Oldham Athletic,Blackburn Rovers
+28/08/1920,5 - 0,Aston Villa,Arsenal
+28/08/1920,3 - 3,Bradford Park Avenue,Everton
+28/08/1920,1 - 4,Burnley,Bradford City
+28/08/1920,0 - 0,Derby County,Chelsea
+28/08/1920,4 - 2,Liverpool,Manchester City
+28/08/1920,2 - 3,Manchester United,Bolton Wanderers
+28/08/1920,1 - 2,Middlesbrough,Oldham Athletic
+28/08/1920,1 - 1,Newcastle United,West Bromwich Albion
+28/08/1920,0 - 1,Preston North End,Huddersfield Town
+28/08/1920,1 - 1,Sheffield United,Sunderland
+28/08/1920,1 - 2,Tottenham Hotspur,Blackburn Rovers

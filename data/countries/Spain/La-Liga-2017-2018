@@ -1,0 +1,381 @@
+date,score,home_team,away_team
+20/05/2018,-,Athletic Club,Espanyol
+20/05/2018,-,Atlético Madrid,Eibar
+20/05/2018,-,Barcelona,Real Sociedad
+20/05/2018,-,Celta de Vigo,Levante
+20/05/2018,-,Las Palmas,Girona
+20/05/2018,-,Leganés,Real Betis
+20/05/2018,-,Málaga,Getafe
+20/05/2018,-,Sevilla,Deportivo Alavés
+20/05/2018,-,Valencia,Deportivo La Coruña
+20/05/2018,-,Villarreal,Real Madrid
+13/05/2018,document.write(timestamp_to_time(1526237100));18:45 GMT,Levante,Barcelona
+13/05/2018,document.write(timestamp_to_time(1526220900));14:15 GMT,Espanyol,Málaga
+12/05/2018,document.write(timestamp_to_time(1526142600));16:30 GMT,Deportivo Alavés,Athletic Club
+12/05/2018,document.write(timestamp_to_time(1526142600));16:30 GMT,Deportivo La Coruña,Villarreal
+12/05/2018,document.write(timestamp_to_time(1526142600));16:30 GMT,Eibar,Las Palmas
+12/05/2018,document.write(timestamp_to_time(1526142600));16:30 GMT,Getafe,Atlético Madrid
+12/05/2018,document.write(timestamp_to_time(1526142600));16:30 GMT,Girona,Valencia
+12/05/2018,document.write(timestamp_to_time(1526142600));16:30 GMT,Real Betis,Sevilla
+12/05/2018,document.write(timestamp_to_time(1526142600));16:30 GMT,Real Madrid,Celta de Vigo
+12/05/2018,document.write(timestamp_to_time(1526142600));16:30 GMT,Real Sociedad,Leganés
+09/05/2018,document.write(timestamp_to_time(1525894200));19:30 GMT,Sevilla,Real Madrid
+09/05/2018,document.write(timestamp_to_time(1525888800));18:00 GMT,Barcelona,Villarreal
+07/05/2018,document.write(timestamp_to_time(1525719600));19:00 GMT,Leganés,Levante
+06/05/2018,document.write(timestamp_to_time(1525632300));18:45 GMT,Barcelona,Real Madrid
+06/05/2018,document.write(timestamp_to_time(1525624200));16:30 GMT,Las Palmas,Getafe
+06/05/2018,document.write(timestamp_to_time(1525616100));14:15 GMT,Atlético Madrid,Espanyol
+06/05/2018,document.write(timestamp_to_time(1525600800));10:00 GMT,Málaga,Deportivo Alavés
+05/05/2018,document.write(timestamp_to_time(1525545900));18:45 GMT,Villarreal,Valencia
+05/05/2018,document.write(timestamp_to_time(1525537800));16:30 GMT,Celta de Vigo,Deportivo La Coruña
+05/05/2018,document.write(timestamp_to_time(1525529700));14:15 GMT,Athletic Club,Real Betis
+05/05/2018,document.write(timestamp_to_time(1525518000));11:00 GMT,Girona,Eibar
+04/05/2018,document.write(timestamp_to_time(1525460400));19:00 GMT,Sevilla,Real Sociedad
+30/04/2018,2 - 1,Real Betis,Málaga
+29/04/2018,2 - 4,Deportivo La Coruña,Barcelona
+29/04/2018,0 - 0,Valencia,Eibar
+29/04/2018,0 - 1,Deportivo Alavés,Atlético Madrid
+29/04/2018,1 - 1,Getafe,Girona
+28/04/2018,4 - 1,Villarreal,Celta de Vigo
+28/04/2018,2 - 1,Real Madrid,Leganés
+28/04/2018,3 - 1,Real Sociedad,Athletic Club
+28/04/2018,1 - 1,Espanyol,Las Palmas
+27/04/2018,2 - 1,Levante,Sevilla
+23/04/2018,1 - 3,Athletic Club,Levante
+22/04/2018,0 - 0,Atlético Madrid,Real Betis
+22/04/2018,0 - 4,Las Palmas,Deportivo Alavés
+22/04/2018,2 - 0,Málaga,Real Sociedad
+22/04/2018,0 - 2,Girona,Espanyol
+21/04/2018,1 - 1,Celta de Vigo,Valencia
+21/04/2018,0 - 1,Eibar,Getafe
+20/04/2018,0 - 0,Leganés,Deportivo La Coruña
+19/04/2018,1 - 0,Levante,Málaga
+19/04/2018,1 - 0,Real Betis,Las Palmas
+19/04/2018,1 - 2,Deportivo Alavés,Girona
+19/04/2018,3 - 0,Real Sociedad,Atlético Madrid
+18/04/2018,1 - 1,Real Madrid,Athletic Club
+18/04/2018,0 - 1,Espanyol,Eibar
+18/04/2018,1 - 2,Valencia,Getafe
+17/04/2018,2 - 1,Villarreal,Leganés
+17/04/2018,2 - 2,Celta de Vigo,Barcelona
+17/04/2018,0 - 0,Deportivo La Coruña,Sevilla
+15/04/2018,1 - 2,Málaga,Real Madrid
+15/04/2018,1 - 0,Getafe,Espanyol
+15/04/2018,3 - 0,Atlético Madrid,Levante
+15/04/2018,0 - 1,Eibar,Deportivo Alavés
+14/04/2018,2 - 3,Athletic Club,Deportivo La Coruña
+14/04/2018,0 - 1,Las Palmas,Real Sociedad
+14/04/2018,1 - 0,Leganés,Celta de Vigo
+14/04/2018,2 - 1,Barcelona,Valencia
+14/04/2018,2 - 2,Sevilla,Villarreal
+13/04/2018,0 - 1,Girona,Real Betis
+09/04/2018,1 - 3,Villarreal,Athletic Club
+08/04/2018,1 - 0,Valencia,Espanyol
+08/04/2018,5 - 0,Real Sociedad,Girona
+08/04/2018,1 - 1,Real Madrid,Atlético Madrid
+08/04/2018,2 - 1,Levante,Las Palmas
+07/04/2018,3 - 1,Barcelona,Leganés
+07/04/2018,2 - 0,Real Betis,Eibar
+07/04/2018,4 - 0,Celta de Vigo,Sevilla
+07/04/2018,2 - 0,Deportivo Alavés,Getafe
+06/04/2018,3 - 2,Deportivo La Coruña,Málaga
+02/04/2018,0 - 1,Getafe,Real Betis
+01/04/2018,1 - 0,Atlético Madrid,Deportivo La Coruña
+01/04/2018,0 - 0,Eibar,Real Sociedad
+01/04/2018,1 - 0,Málaga,Villarreal
+01/04/2018,0 - 1,Leganés,Valencia
+01/04/2018,0 - 0,Espanyol,Deportivo Alavés
+31/03/2018,2 - 2,Sevilla,Barcelona
+31/03/2018,0 - 3,Las Palmas,Real Madrid
+31/03/2018,1 - 1,Athletic Club,Celta de Vigo
+31/03/2018,1 - 1,Girona,Levante
+18/03/2018,6 - 3,Real Madrid,Girona
+18/03/2018,0 - 0,Celta de Vigo,Málaga
+18/03/2018,2 - 1,Villarreal,Atlético Madrid
+18/03/2018,2 - 0,Barcelona,Athletic Club
+18/03/2018,2 - 1,Leganés,Sevilla
+17/03/2018,3 - 0,Real Betis,Espanyol
+17/03/2018,1 - 2,Real Sociedad,Getafe
+17/03/2018,3 - 1,Valencia,Deportivo Alavés
+17/03/2018,1 - 1,Deportivo La Coruña,Las Palmas
+16/03/2018,2 - 1,Levante,Eibar
+12/03/2018,1 - 3,Deportivo Alavés,Real Betis
+11/03/2018,2 - 0,Athletic Club,Leganés
+11/03/2018,0 - 2,Las Palmas,Villarreal
+11/03/2018,3 - 0,Atlético Madrid,Celta de Vigo
+11/03/2018,2 - 1,Espanyol,Real Sociedad
+10/03/2018,0 - 2,Málaga,Barcelona
+10/03/2018,0 - 1,Getafe,Levante
+10/03/2018,0 - 2,Sevilla,Valencia
+10/03/2018,1 - 2,Eibar,Real Madrid
+09/03/2018,2 - 0,Girona,Deportivo La Coruña
+05/03/2018,2 - 1,Celta de Vigo,Las Palmas
+04/03/2018,2 - 0,Valencia,Real Betis
+04/03/2018,2 - 1,Real Sociedad,Deportivo Alavés
+04/03/2018,1 - 0,Barcelona,Atlético Madrid
+04/03/2018,1 - 1,Levante,Espanyol
+03/03/2018,3 - 1,Real Madrid,Getafe
+03/03/2018,1 - 1,Deportivo La Coruña,Eibar
+03/03/2018,2 - 0,Leganés,Málaga
+03/03/2018,2 - 0,Sevilla,Athletic Club
+03/03/2018,0 - 2,Villarreal,Girona
+01/03/2018,1 - 0,Deportivo Alavés,Levante
+01/03/2018,1 - 1,Las Palmas,Barcelona
+01/03/2018,0 - 0,Real Betis,Real Sociedad
+28/02/2018,4 - 0,Atlético Madrid,Leganés
+28/02/2018,1 - 0,Eibar,Villarreal
+28/02/2018,1 - 1,Athletic Club,Valencia
+28/02/2018,3 - 0,Getafe,Deportivo La Coruña
+28/02/2018,0 - 1,Málaga,Sevilla
+27/02/2018,1 - 0,Girona,Celta de Vigo
+27/02/2018,1 - 0,Espanyol,Real Madrid
+26/02/2018,0 - 2,Levante,Real Betis
+25/02/2018,2 - 5,Sevilla,Atlético Madrid
+25/02/2018,2 - 1,Valencia,Real Sociedad
+25/02/2018,2 - 1,Athletic Club,Málaga
+25/02/2018,1 - 0,Villarreal,Getafe
+24/02/2018,6 - 1,Barcelona,Girona
+24/02/2018,0 - 0,Leganés,Las Palmas
+24/02/2018,4 - 0,Real Madrid,Deportivo Alavés
+24/02/2018,2 - 0,Celta de Vigo,Eibar
+23/02/2018,0 - 0,Deportivo La Coruña,Espanyol
+21/02/2018,1 - 3,Leganés,Real Madrid
+19/02/2018,3 - 0,Getafe,Celta de Vigo
+18/02/2018,3 - 5,Real Betis,Real Madrid
+18/02/2018,1 - 1,Espanyol,Villarreal
+18/02/2018,2 - 0,Atlético Madrid,Athletic Club
+18/02/2018,3 - 0,Real Sociedad,Levante
+17/02/2018,1 - 2,Málaga,Valencia
+17/02/2018,1 - 0,Deportivo Alavés,Deportivo La Coruña
+17/02/2018,0 - 2,Eibar,Barcelona
+17/02/2018,1 - 2,Las Palmas,Sevilla
+16/02/2018,3 - 0,Girona,Leganés
+12/02/2018,0 - 1,Deportivo La Coruña,Real Betis
+11/02/2018,3 - 1,Valencia,Levante
+11/02/2018,2 - 2,Celta de Vigo,Espanyol
+11/02/2018,0 - 0,Barcelona,Getafe
+11/02/2018,1 - 0,Sevilla,Girona
+10/02/2018,5 - 2,Real Madrid,Real Sociedad
+10/02/2018,0 - 1,Leganés,Eibar
+10/02/2018,0 - 1,Málaga,Atlético Madrid
+10/02/2018,1 - 2,Villarreal,Deportivo Alavés
+09/02/2018,0 - 0,Athletic Club,Las Palmas
+05/02/2018,1 - 0,Las Palmas,Málaga
+04/02/2018,1 - 0,Atlético Madrid,Valencia
+04/02/2018,2 - 0,Girona,Athletic Club
+04/02/2018,1 - 1,Espanyol,Barcelona
+04/02/2018,0 - 0,Getafe,Leganés
+03/02/2018,2 - 2,Levante,Real Madrid
+03/02/2018,2 - 1,Deportivo Alavés,Celta de Vigo
+03/02/2018,2 - 1,Real Betis,Villarreal
+03/02/2018,5 - 1,Eibar,Sevilla
+02/02/2018,5 - 0,Real Sociedad,Deportivo La Coruña
+29/01/2018,3 - 2,Celta de Vigo,Real Betis
+28/01/2018,2 - 1,Barcelona,Deportivo Alavés
+28/01/2018,1 - 1,Sevilla,Getafe
+28/01/2018,3 - 0,Atlético Madrid,Las Palmas
+28/01/2018,3 - 2,Leganés,Espanyol
+27/01/2018,4 - 2,Villarreal,Real Sociedad
+27/01/2018,0 - 0,Málaga,Girona
+27/01/2018,1 - 4,Valencia,Real Madrid
+27/01/2018,2 - 2,Deportivo La Coruña,Levante
+26/01/2018,1 - 1,Athletic Club,Eibar
+22/01/2018,1 - 1,Eibar,Málaga
+21/01/2018,0 - 5,Real Betis,Barcelona
+21/01/2018,1 - 2,Real Sociedad,Celta de Vigo
+21/01/2018,7 - 1,Real Madrid,Deportivo La Coruña
+21/01/2018,2 - 2,Deportivo Alavés,Leganés
+20/01/2018,2 - 1,Las Palmas,Valencia
+20/01/2018,2 - 1,Villarreal,Levante
+20/01/2018,1 - 1,Atlético Madrid,Girona
+20/01/2018,0 - 3,Espanyol,Sevilla
+19/01/2018,2 - 2,Getafe,Athletic Club
+15/01/2018,3 - 2,Real Betis,Leganés
+14/01/2018,2 - 4,Real Sociedad,Barcelona
+14/01/2018,1 - 1,Espanyol,Athletic Club
+14/01/2018,1 - 0,Deportivo Alavés,Sevilla
+14/01/2018,0 - 1,Levante,Celta de Vigo
+13/01/2018,1 - 2,Deportivo La Coruña,Valencia
+13/01/2018,0 - 1,Eibar,Atlético Madrid
+13/01/2018,0 - 1,Real Madrid,Villarreal
+13/01/2018,6 - 0,Girona,Las Palmas
+12/01/2018,1 - 0,Getafe,Málaga
+08/01/2018,0 - 1,Málaga,Espanyol
+07/01/2018,2 - 2,Celta de Vigo,Real Madrid
+07/01/2018,2 - 0,Athletic Club,Deportivo Alavés
+07/01/2018,1 - 1,Villarreal,Deportivo La Coruña
+07/01/2018,3 - 0,Barcelona,Levante
+07/01/2018,1 - 0,Leganés,Real Sociedad
+06/01/2018,3 - 5,Sevilla,Real Betis
+06/01/2018,1 - 2,Las Palmas,Eibar
+06/01/2018,2 - 1,Valencia,Girona
+06/01/2018,2 - 0,Atlético Madrid,Getafe
+23/12/2017,1 - 3,Deportivo La Coruña,Celta de Vigo
+23/12/2017,0 - 1,Valencia,Villarreal
+23/12/2017,0 - 3,Real Madrid,Barcelona
+22/12/2017,1 - 0,Espanyol,Atlético Madrid
+22/12/2017,0 - 2,Real Betis,Athletic Club
+21/12/2017,1 - 0,Deportivo Alavés,Málaga
+21/12/2017,4 - 1,Eibar,Girona
+20/12/2017,3 - 1,Real Sociedad,Sevilla
+20/12/2017,2 - 0,Getafe,Las Palmas
+19/12/2017,0 - 0,Levante,Leganés
+18/12/2017,0 - 2,Málaga,Real Betis
+17/12/2017,4 - 0,Barcelona,Deportivo La Coruña
+17/12/2017,2 - 2,Las Palmas,Espanyol
+17/12/2017,0 - 1,Celta de Vigo,Villarreal
+17/12/2017,1 - 0,Girona,Getafe
+16/12/2017,1 - 0,Atlético Madrid,Deportivo Alavés
+16/12/2017,2 - 1,Eibar,Valencia
+16/12/2017,0 - 0,Athletic Club,Real Sociedad
+15/12/2017,0 - 0,Sevilla,Levante
+11/12/2017,0 - 1,Espanyol,Girona
+10/12/2017,0 - 2,Villarreal,Barcelona
+10/12/2017,1 - 2,Levante,Athletic Club
+10/12/2017,0 - 1,Real Betis,Atlético Madrid
+10/12/2017,0 - 2,Real Sociedad,Málaga
+09/12/2017,2 - 1,Valencia,Celta de Vigo
+09/12/2017,1 - 0,Deportivo La Coruña,Leganés
+09/12/2017,5 - 0,Real Madrid,Sevilla
+09/12/2017,0 - 0,Getafe,Eibar
+08/12/2017,2 - 0,Deportivo Alavés,Las Palmas
+04/12/2017,2 - 3,Girona,Deportivo Alavés
+03/12/2017,1 - 0,Las Palmas,Real Betis
+03/12/2017,3 - 1,Eibar,Espanyol
+03/12/2017,1 - 0,Getafe,Valencia
+03/12/2017,3 - 1,Leganés,Villarreal
+02/12/2017,0 - 0,Athletic Club,Real Madrid
+02/12/2017,2 - 0,Sevilla,Deportivo La Coruña
+02/12/2017,2 - 1,Atlético Madrid,Real Sociedad
+02/12/2017,2 - 2,Barcelona,Celta de Vigo
+01/12/2017,0 - 0,Málaga,Levante
+27/11/2017,1 - 0,Espanyol,Getafe
+26/11/2017,1 - 1,Valencia,Barcelona
+26/11/2017,2 - 3,Villarreal,Sevilla
+26/11/2017,2 - 2,Real Sociedad,Las Palmas
+26/11/2017,2 - 2,Deportivo La Coruña,Athletic Club
+25/11/2017,0 - 5,Levante,Atlético Madrid
+25/11/2017,2 - 2,Real Betis,Girona
+25/11/2017,3 - 2,Real Madrid,Málaga
+25/11/2017,1 - 2,Deportivo Alavés,Eibar
+24/11/2017,1 - 0,Celta de Vigo,Leganés
+20/11/2017,5 - 0,Eibar,Real Betis
+19/11/2017,1 - 1,Athletic Club,Villarreal
+19/11/2017,0 - 2,Las Palmas,Levante
+19/11/2017,0 - 2,Espanyol,Valencia
+19/11/2017,3 - 2,Málaga,Deportivo La Coruña
+18/11/2017,0 - 0,Atlético Madrid,Real Madrid
+18/11/2017,2 - 1,Sevilla,Celta de Vigo
+18/11/2017,0 - 3,Leganés,Barcelona
+18/11/2017,4 - 1,Getafe,Deportivo Alavés
+17/11/2017,1 - 1,Girona,Real Sociedad
+05/11/2017,3 - 0,Real Madrid,Las Palmas
+05/11/2017,3 - 1,Real Sociedad,Eibar
+05/11/2017,2 - 0,Villarreal,Málaga
+05/11/2017,3 - 1,Celta de Vigo,Athletic Club
+05/11/2017,1 - 2,Levante,Girona
+04/11/2017,2 - 1,Barcelona,Sevilla
+04/11/2017,1 - 0,Deportivo Alavés,Espanyol
+04/11/2017,0 - 1,Deportivo La Coruña,Atlético Madrid
+04/11/2017,3 - 0,Valencia,Leganés
+03/11/2017,2 - 2,Real Betis,Getafe
+30/10/2017,1 - 0,Espanyol,Real Betis
+30/10/2017,1 - 3,Las Palmas,Deportivo La Coruña
+29/10/2017,2 - 1,Málaga,Celta de Vigo
+29/10/2017,2 - 2,Eibar,Levante
+29/10/2017,2 - 1,Girona,Real Madrid
+29/10/2017,2 - 1,Getafe,Real Sociedad
+28/10/2017,2 - 1,Sevilla,Leganés
+28/10/2017,0 - 2,Athletic Club,Barcelona
+28/10/2017,1 - 1,Atlético Madrid,Villarreal
+28/10/2017,1 - 2,Deportivo Alavés,Valencia
+23/10/2017,1 - 2,Deportivo La Coruña,Girona
+23/10/2017,1 - 1,Real Sociedad,Espanyol
+22/10/2017,3 - 0,Real Madrid,Eibar
+22/10/2017,1 - 0,Leganés,Athletic Club
+22/10/2017,0 - 1,Celta de Vigo,Atlético Madrid
+22/10/2017,4 - 0,Villarreal,Las Palmas
+21/10/2017,2 - 0,Barcelona,Málaga
+21/10/2017,4 - 0,Valencia,Sevilla
+21/10/2017,2 - 0,Real Betis,Deportivo Alavés
+21/10/2017,1 - 1,Levante,Getafe
+16/10/2017,2 - 5,Las Palmas,Celta de Vigo
+15/10/2017,3 - 6,Real Betis,Valencia
+15/10/2017,0 - 2,Málaga,Leganés
+15/10/2017,1 - 2,Girona,Villarreal
+15/10/2017,0 - 0,Eibar,Deportivo La Coruña
+14/10/2017,1 - 1,Atlético Madrid,Barcelona
+14/10/2017,0 - 2,Deportivo Alavés,Real Sociedad
+14/10/2017,1 - 2,Getafe,Real Madrid
+14/10/2017,1 - 0,Athletic Club,Sevilla
+13/10/2017,0 - 0,Espanyol,Levante
+01/10/2017,2 - 0,Real Madrid,Espanyol
+01/10/2017,3 - 2,Valencia,Athletic Club
+01/10/2017,3 - 0,Villarreal,Eibar
+01/10/2017,3 - 0,Barcelona,Las Palmas
+01/10/2017,4 - 4,Real Sociedad,Real Betis
+30/09/2017,0 - 0,Leganés,Atlético Madrid
+30/09/2017,0 - 2,Levante,Deportivo Alavés
+30/09/2017,2 - 0,Sevilla,Málaga
+30/09/2017,2 - 1,Deportivo La Coruña,Getafe
+29/09/2017,3 - 3,Celta de Vigo,Girona
+25/09/2017,4 - 0,Real Betis,Levante
+24/09/2017,2 - 3,Real Sociedad,Valencia
+24/09/2017,0 - 4,Eibar,Celta de Vigo
+24/09/2017,0 - 2,Las Palmas,Leganés
+24/09/2017,4 - 0,Getafe,Villarreal
+24/09/2017,4 - 1,Espanyol,Deportivo La Coruña
+23/09/2017,0 - 3,Girona,Barcelona
+23/09/2017,3 - 3,Málaga,Athletic Club
+23/09/2017,1 - 2,Deportivo Alavés,Real Madrid
+23/09/2017,2 - 0,Atlético Madrid,Sevilla
+21/09/2017,3 - 0,Levante,Real Sociedad
+21/09/2017,1 - 1,Celta de Vigo,Getafe
+21/09/2017,0 - 0,Villarreal,Espanyol
+20/09/2017,0 - 1,Real Madrid,Real Betis
+20/09/2017,1 - 0,Sevilla,Las Palmas
+20/09/2017,1 - 0,Deportivo La Coruña,Deportivo Alavés
+20/09/2017,1 - 2,Athletic Club,Atlético Madrid
+20/09/2017,0 - 0,Leganés,Girona
+19/09/2017,6 - 1,Barcelona,Eibar
+19/09/2017,5 - 0,Valencia,Málaga
+18/09/2017,2 - 1,Espanyol,Celta de Vigo
+17/09/2017,1 - 3,Real Sociedad,Real Madrid
+17/09/2017,1 - 0,Las Palmas,Athletic Club
+17/09/2017,0 - 1,Girona,Sevilla
+17/09/2017,0 - 3,Deportivo Alavés,Villarreal
+16/09/2017,1 - 0,Atlético Madrid,Málaga
+16/09/2017,2 - 1,Real Betis,Deportivo La Coruña
+16/09/2017,1 - 2,Getafe,Barcelona
+16/09/2017,1 - 1,Levante,Valencia
+15/09/2017,1 - 0,Eibar,Leganés
+11/09/2017,1 - 3,Málaga,Las Palmas
+10/09/2017,3 - 1,Villarreal,Real Betis
+10/09/2017,1 - 0,Celta de Vigo,Deportivo Alavés
+10/09/2017,2 - 0,Athletic Club,Girona
+10/09/2017,2 - 4,Deportivo La Coruña,Real Sociedad
+09/09/2017,5 - 0,Barcelona,Espanyol
+09/09/2017,3 - 0,Sevilla,Eibar
+09/09/2017,0 - 0,Valencia,Atlético Madrid
+09/09/2017,1 - 1,Real Madrid,Levante
+08/09/2017,1 - 2,Leganés,Getafe
+27/08/2017,2 - 2,Real Madrid,Valencia
+27/08/2017,0 - 1,Getafe,Sevilla
+27/08/2017,0 - 1,Eibar,Athletic Club
+27/08/2017,0 - 1,Espanyol,Leganés
+26/08/2017,1 - 5,Las Palmas,Atlético Madrid
+26/08/2017,1 - 0,Girona,Málaga
+26/08/2017,2 - 2,Levante,Deportivo La Coruña
+26/08/2017,0 - 2,Deportivo Alavés,Barcelona
+25/08/2017,2 - 1,Real Betis,Celta de Vigo
+25/08/2017,3 - 0,Real Sociedad,Villarreal
+21/08/2017,0 - 1,Málaga,Eibar
+21/08/2017,1 - 0,Levante,Villarreal
+20/08/2017,0 - 3,Deportivo La Coruña,Real Madrid
+20/08/2017,2 - 0,Barcelona,Real Betis
+20/08/2017,0 - 0,Athletic Club,Getafe
+19/08/2017,1 - 1,Sevilla,Espanyol
+19/08/2017,2 - 2,Girona,Atlético Madrid
+19/08/2017,2 - 3,Celta de Vigo,Real Sociedad
+18/08/2017,1 - 0,Valencia,Las Palmas
+18/08/2017,1 - 0,Leganés,Deportivo Alavés

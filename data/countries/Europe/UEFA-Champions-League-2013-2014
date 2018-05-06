@@ -1,0 +1,214 @@
+date,score,home_team,away_team
+24/05/2014,1 - 1, [ET] [N] Real Madrid,Atlético Madrid
+30/04/2014,1 - 3,Chelsea,Atlético Madrid
+29/04/2014,0 - 4,Bayern München,Real Madrid
+23/04/2014,1 - 0,Real Madrid,Bayern München
+22/04/2014,0 - 0,Atlético Madrid,Chelsea
+09/04/2014,1 - 0,Atlético Madrid,Barcelona
+09/04/2014,3 - 1,Bayern München,Manchester United
+08/04/2014,2 - 0,Borussia Dortmund,Real Madrid
+08/04/2014,2 - 0,Chelsea,PSG
+02/04/2014,3 - 1,PSG,Chelsea
+02/04/2014,3 - 0,Real Madrid,Borussia Dortmund
+01/04/2014,1 - 1,Barcelona,Atlético Madrid
+01/04/2014,1 - 1,Manchester United,Bayern München
+19/03/2014,1 - 2,Borussia Dortmund,Zenit
+19/03/2014,3 - 0,Manchester United,Olympiakos Piraeus
+18/03/2014,2 - 0,Chelsea,Galatasaray
+18/03/2014,3 - 1,Real Madrid,Schalke 04
+12/03/2014,2 - 1,Barcelona,Manchester City
+12/03/2014,2 - 1,PSG,Bayer Leverkusen
+11/03/2014,4 - 1,Atlético Madrid,Milan
+11/03/2014,1 - 1,Bayern München,Arsenal
+26/02/2014,1 - 1,Galatasaray,Chelsea
+26/02/2014,1 - 6,Schalke 04,Real Madrid
+25/02/2014,2 - 0,Olympiakos Piraeus,Manchester United
+25/02/2014,2 - 4,Zenit,Borussia Dortmund
+19/02/2014,0 - 2,Arsenal,Bayern München
+19/02/2014,0 - 1,Milan,Atlético Madrid
+18/02/2014,0 - 4,Bayer Leverkusen,PSG
+18/02/2014,0 - 2,Manchester City,Barcelona
+10/12/2013,1 - 0,Manchester United,Shakhtar Donetsk
+10/12/2013,0 - 1,Real Sociedad,Bayer Leverkusen
+27/11/2013,0 - 5,Bayer Leverkusen,Manchester United
+27/11/2013,4 - 0,Shakhtar Donetsk,Real Sociedad
+05/11/2013,0 - 0,Real Sociedad,Manchester United
+05/11/2013,0 - 0,Shakhtar Donetsk,Bayer Leverkusen
+23/10/2013,4 - 0,Bayer Leverkusen,Shakhtar Donetsk
+23/10/2013,1 - 0,Manchester United,Real Sociedad
+02/10/2013,2 - 1,Bayer Leverkusen,Real Sociedad
+02/10/2013,1 - 1,Shakhtar Donetsk,Manchester United
+17/09/2013,4 - 2,Manchester United,Bayer Leverkusen
+17/09/2013,0 - 2,Real Sociedad,Shakhtar Donetsk
+11/12/2013,1 - 0,Galatasaray,Juventus
+10/12/2013,0 - 2,København,Real Madrid
+27/11/2013,3 - 1,Juventus,København
+27/11/2013,4 - 1,Real Madrid,Galatasaray
+05/11/2013,2 - 2,Juventus,Real Madrid
+05/11/2013,1 - 0,København,Galatasaray
+23/10/2013,3 - 1,Galatasaray,København
+23/10/2013,2 - 1,Real Madrid,Juventus
+02/10/2013,2 - 2,Juventus,Galatasaray
+02/10/2013,4 - 0,Real Madrid,København
+17/09/2013,1 - 6,Galatasaray,Real Madrid
+17/09/2013,1 - 1,København,Juventus
+10/12/2013,2 - 1,Benfica,PSG
+10/12/2013,3 - 1,Olympiakos Piraeus,Anderlecht
+27/11/2013,2 - 3,Anderlecht,Benfica
+27/11/2013,2 - 1,PSG,Olympiakos Piraeus
+05/11/2013,1 - 0,Olympiakos Piraeus,Benfica
+05/11/2013,1 - 1,PSG,Anderlecht
+23/10/2013,0 - 5,Anderlecht,PSG
+23/10/2013,1 - 1,Benfica,Olympiakos Piraeus
+02/10/2013,0 - 3,Anderlecht,Olympiakos Piraeus
+02/10/2013,3 - 0,PSG,Benfica
+17/09/2013,2 - 0,Benfica,Anderlecht
+17/09/2013,1 - 4,Olympiakos Piraeus,PSG
+10/12/2013,2 - 3,Bayern München,Manchester City
+10/12/2013,2 - 1,Viktoria Plzeň,CSKA Moskva
+27/11/2013,4 - 2,Manchester City,Viktoria Plzeň
+27/11/2013,1 - 3,CSKA Moskva,Bayern München
+05/11/2013,5 - 2,Manchester City,CSKA Moskva
+05/11/2013,0 - 1,Viktoria Plzeň,Bayern München
+23/10/2013,5 - 0,Bayern München,Viktoria Plzeň
+23/10/2013,1 - 2,CSKA Moskva,Manchester City
+02/10/2013,1 - 3,Manchester City,Bayern München
+02/10/2013,3 - 2,[N] CSKA Moskva,Viktoria Plzeň
+17/09/2013,3 - 0,Bayern München,CSKA Moskva
+17/09/2013,0 - 3,Viktoria Plzeň,Manchester City
+11/12/2013,1 - 0,Chelsea,FCSB
+11/12/2013,2 - 0,Schalke 04,Basel
+26/11/2013,1 - 0,Basel,Chelsea
+26/11/2013,0 - 0,FCSB,Schalke 04
+06/11/2013,1 - 1,Basel,FCSB
+06/11/2013,3 - 0,Chelsea,Schalke 04
+22/10/2013,1 - 1,FCSB,Basel
+22/10/2013,0 - 3,Schalke 04,Chelsea
+01/10/2013,0 - 1,Basel,Schalke 04
+01/10/2013,0 - 4,FCSB,Chelsea
+18/09/2013,1 - 2,Chelsea,Basel
+18/09/2013,3 - 0,Schalke 04,FCSB
+11/12/2013,2 - 0,Napoli,Arsenal
+11/12/2013,1 - 2,Olympique Marseille,Borussia Dortmund
+26/11/2013,2 - 0,Arsenal,Olympique Marseille
+26/11/2013,3 - 1,Borussia Dortmund,Napoli
+06/11/2013,0 - 1,Borussia Dortmund,Arsenal
+06/11/2013,3 - 2,Napoli,Olympique Marseille
+22/10/2013,1 - 2,Arsenal,Borussia Dortmund
+22/10/2013,1 - 2,Olympique Marseille,Napoli
+01/10/2013,2 - 0,Arsenal,Napoli
+01/10/2013,3 - 0,Borussia Dortmund,Olympique Marseille
+18/09/2013,2 - 1,Napoli,Borussia Dortmund
+18/09/2013,1 - 2,Olympique Marseille,Arsenal
+11/12/2013,2 - 0,Atlético Madrid,Porto
+11/12/2013,4 - 1,Austria Wien,Zenit
+26/11/2013,1 - 1,Porto,Austria Wien
+26/11/2013,1 - 1,Zenit,Atlético Madrid
+06/11/2013,4 - 0,Atlético Madrid,Austria Wien
+06/11/2013,1 - 1,Zenit,Porto
+22/10/2013,0 - 3,Austria Wien,Atlético Madrid
+22/10/2013,0 - 1,Porto,Zenit
+01/10/2013,1 - 2,Porto,Atlético Madrid
+01/10/2013,0 - 0,Zenit,Austria Wien
+18/09/2013,3 - 1,Atlético Madrid,Zenit
+18/09/2013,0 - 1,Austria Wien,Porto
+11/12/2013,6 - 1,Barcelona,Celtic
+11/12/2013,0 - 0,Milan,Ajax
+26/11/2013,2 - 1,Ajax,Barcelona
+26/11/2013,0 - 3,Celtic,Milan
+06/11/2013,1 - 0,Ajax,Celtic
+06/11/2013,3 - 1,Barcelona,Milan
+22/10/2013,2 - 1,Celtic,Ajax
+22/10/2013,1 - 1,Milan,Barcelona
+01/10/2013,1 - 1,Ajax,Milan
+01/10/2013,0 - 1,Celtic,Barcelona
+18/09/2013,4 - 0,Barcelona,Ajax
+18/09/2013,2 - 0,Milan,Celtic
+28/08/2013,3 - 0,Celtic,Shakhter Karagandy
+28/08/2013,0 - 1,Maribor,Viktoria Plzeň
+28/08/2013,3 - 0,Milan,PSV
+28/08/2013,2 - 0,Real Sociedad,Olympique Lyonnais
+28/08/2013,4 - 2,Zenit,Paços de Ferreira
+27/08/2013,2 - 0,Arsenal,Fenerbahçe
+27/08/2013,2 - 3,[N] Austria Wien,Dinamo Zagreb
+27/08/2013,2 - 0,Basel,Ludogorets
+27/08/2013,2 - 2,Legia Warszawa,FCSB
+27/08/2013,2 - 3,PAOK,Schalke 04
+21/08/2013,0 - 2,Dinamo Zagreb,Austria Wien
+21/08/2013,1 - 1,FCSB,Legia Warszawa
+21/08/2013,0 - 3,Fenerbahçe,Arsenal
+21/08/2013,2 - 4,[N] Ludogorets,Basel
+21/08/2013,1 - 1,Schalke 04,PAOK
+20/08/2013,0 - 2,Olympique Lyonnais,Real Sociedad
+20/08/2013,1 - 4,Paços de Ferreira,Zenit
+20/08/2013,1 - 1,PSV,Milan
+20/08/2013,3 - 1,Viktoria Plzeň,Maribor
+20/08/2013,2 - 0,[N] Shakhter Karagandy,Celtic
+07/08/2013,0 - 0,Legia Warszawa,Molde
+07/08/2013,0 - 3,Zulte-Waregem,PSV
+07/08/2013,6 - 2,Viktoria Plzeň,Nõmme Kalju
+07/08/2013,0 - 0,Elfsborg,Celtic
+07/08/2013,1 - 1,Metalist,PAOK
+07/08/2013,0 - 3,Sheriff,Dinamo Zagreb
+07/08/2013,0 - 0,FH,Austria Wien
+07/08/2013,5 - 0,Zenit,Nordsjælland
+06/08/2013,0 - 1,Grasshopper,Olympique Lyonnais
+06/08/2013,3 - 1,Fenerbahçe,Salzburg
+06/08/2013,0 - 1,Partizan,Ludogorets
+06/08/2013,0 - 0,Maribor,APOEL
+06/08/2013,3 - 2,[N] Skënderbeu Korçë,Shakhter Karagandy
+06/08/2013,1 - 1,FCSB,Dinamo Tbilisi
+06/08/2013,3 - 3,Maccabi Tel Aviv,Basel
+31/07/2013,1 - 0,Celtic,Elfsborg
+31/07/2013,1 - 1,Salzburg,Fenerbahçe
+31/07/2013,2 - 1,Ludogorets,Partizan
+31/07/2013,1 - 1,APOEL,Maribor
+31/07/2013,1 - 1,Molde,Legia Warszawa
+30/07/2013,1 - 0,Olympique Lyonnais,Grasshopper
+30/07/2013,1 - 0,Dinamo Zagreb,Sheriff
+30/07/2013,2 - 0,PSV,Zulte-Waregem
+30/07/2013,0 - 2,PAOK,Metalist
+30/07/2013,1 - 0,Basel,Maccabi Tel Aviv
+30/07/2013,0 - 1,Nordsjælland,Zenit
+30/07/2013,1 - 0,[N] Austria Wien,FH
+30/07/2013,0 - 2,Dinamo Tbilisi,FCSB
+30/07/2013,0 - 4,[N] Nõmme Kalju,Viktoria Plzeň
+30/07/2013,3 - 0,[N] Shakhter Karagandy,Skënderbeu Korçë
+24/07/2013,1 - 0,Legia Warszawa,The New Saints
+24/07/2013,0 - 0,Partizan,Shirak
+24/07/2013,2 - 0,Maribor,Birkirkara
+24/07/2013,3 - 0,Ludogorets,Slovan Bratislava
+23/07/2013,2 - 1,FH,Ekranas
+23/07/2013,1 - 2,Željezničar,Viktoria Plzeň
+23/07/2013,2 - 0,Celtic,Cliftonville
+23/07/2013,1 - 0,Dinamo Zagreb,Fola Esch
+23/07/2013,1 - 2,Vardar,FCSB
+23/07/2013,2 - 1,Maccabi Tel Aviv,Győri ETO
+23/07/2013,1 - 3,EB / Streymur,Dinamo Tbilisi
+23/07/2013,0 - 0, [ET] Skënderbeu Korçë,Neftçi
+23/07/2013,2 - 0,Molde,Sligo Rovers
+23/07/2013,2 - 1,Nõmme Kalju,HJK
+23/07/2013,0 - 5,Sutjeska,Sheriff
+23/07/2013,0 - 4,Daugava Daugavpils,Elfsborg
+23/07/2013,1 - 0,Shakhter Karagandy,BATE
+17/07/2013,0 - 3,Cliftonville,Celtic
+17/07/2013,0 - 2,Győri ETO,Maccabi Tel Aviv
+17/07/2013,2 - 1,Slovan Bratislava,Ludogorets
+17/07/2013,1 - 3,The New Saints,Legia Warszawa
+17/07/2013,7 - 1,Elfsborg,Daugava Daugavpils
+17/07/2013,0 - 1,Sligo Rovers,Molde
+17/07/2013,0 - 0,Neftçi,Skënderbeu Korçë
+17/07/2013,0 - 0,HJK,Nõmme Kalju
+17/07/2013,1 - 1,Shirak,Partizan
+16/07/2013,3 - 0,FCSB,Vardar
+16/07/2013,0 - 0,Birkirkara,Maribor
+16/07/2013,0 - 5,Fola Esch,Dinamo Zagreb
+16/07/2013,0 - 1,Ekranas,FH
+16/07/2013,1 - 1,Sheriff,Sutjeska
+16/07/2013,0 - 1,BATE,Shakhter Karagandy
+16/07/2013,6 - 1,Dinamo Tbilisi,EB / Streymur
+16/07/2013,4 - 3,Viktoria Plzeň,Željezničar
+09/07/2013,1 - 0,Tre Penne,Shirak
+09/07/2013,5 - 1,EB / Streymur,Lusitanos
+02/07/2013,2 - 2,Lusitanos,EB / Streymur
+02/07/2013,3 - 0,Shirak,Tre Penne

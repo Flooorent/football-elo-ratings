@@ -1,0 +1,381 @@
+date,score,home_team,away_team
+24/05/1997,3 - 1,Auxerre,Nice
+24/05/1997,0 - 1,Cannes,Nancy
+24/05/1997,1 - 2,Le Havre,Bordeaux
+24/05/1997,0 - 0,Lens,Caen
+24/05/1997,1 - 0,Metz,Lille
+24/05/1997,2 - 1,Monaco,Nantes
+24/05/1997,1 - 0,Montpellier,Guingamp
+24/05/1997,8 - 0,Olympique Lyonnais,Olympique Marseille
+24/05/1997,2 - 1,PSG,Strasbourg
+24/05/1997,1 - 3,Rennes,Bastia
+17/05/1997,2 - 1,Bastia,Auxerre
+17/05/1997,2 - 2,Bordeaux,Olympique Lyonnais
+17/05/1997,3 - 0,Caen,Cannes
+17/05/1997,2 - 2,Lille,Le Havre
+17/05/1997,1 - 3,Nancy,Monaco
+17/05/1997,3 - 0,Nantes,Montpellier
+17/05/1997,3 - 0,Nice,Metz
+17/05/1997,1 - 0,Olympique Marseille,PSG
+17/05/1997,1 - 1,Rennes,Guingamp
+17/05/1997,1 - 0,Strasbourg,Lens
+04/05/1997,2 - 2,Cannes,Strasbourg
+04/05/1997,2 - 2,Monaco,Caen
+03/05/1997,4 - 1,Auxerre,Rennes
+03/05/1997,0 - 0,Guingamp,Nantes
+03/05/1997,1 - 0,Le Havre,Nice
+03/05/1997,2 - 0,Lens,Olympique Marseille
+03/05/1997,1 - 0,Metz,Bastia
+03/05/1997,1 - 1,Montpellier,Nancy
+03/05/1997,0 - 0,Olympique Lyonnais,Lille
+03/05/1997,2 - 2,PSG,Bordeaux
+30/04/1997,1 - 0,Auxerre,Guingamp
+30/04/1997,1 - 2,Bastia,Le Havre
+30/04/1997,2 - 1,Bordeaux,Lens
+30/04/1997,0 - 1,Lille,PSG
+30/04/1997,1 - 3,Nancy,Nantes
+30/04/1997,0 - 1,Nice,Olympique Lyonnais
+30/04/1997,3 - 1,Olympique Marseille,Cannes
+30/04/1997,1 - 3,Rennes,Metz
+29/04/1997,0 - 1,Caen,Montpellier
+29/04/1997,0 - 2,Strasbourg,Monaco
+27/04/1997,5 - 0,PSG,Nice
+26/04/1997,1 - 1,Cannes,Bordeaux
+26/04/1997,0 - 1,Guingamp,Nancy
+26/04/1997,1 - 1,Le Havre,Rennes
+26/04/1997,1 - 0,Lens,Lille
+26/04/1997,1 - 0,Metz,Auxerre
+26/04/1997,1 - 1,Monaco,Olympique Marseille
+26/04/1997,1 - 4,Montpellier,Strasbourg
+26/04/1997,1 - 1,Nantes,Caen
+26/04/1997,4 - 2,Olympique Lyonnais,Bastia
+17/04/1997,1 - 2,Lille,Cannes
+16/04/1997,2 - 0,Auxerre,Le Havre
+16/04/1997,2 - 1,Bordeaux,Monaco
+16/04/1997,1 - 1,Caen,Nancy
+16/04/1997,2 - 0,Metz,Guingamp
+16/04/1997,1 - 2,Nice,Lens
+16/04/1997,2 - 2,Olympique Marseille,Montpellier
+16/04/1997,2 - 1,Rennes,Olympique Lyonnais
+16/04/1997,0 - 1,Strasbourg,Nantes
+15/04/1997,1 - 1,Bastia,PSG
+11/04/1997,2 - 2,Caen,Bastia
+06/04/1997,1 - 1,Guingamp,Caen
+06/04/1997,1 - 1,Lens,Bastia
+05/04/1997,1 - 1,Cannes,Nice
+05/04/1997,0 - 0,Le Havre,Metz
+05/04/1997,2 - 0,Montpellier,Bordeaux
+05/04/1997,2 - 0,Nancy,Strasbourg
+05/04/1997,1 - 1,Nantes,Olympique Marseille
+05/04/1997,2 - 0,Olympique Lyonnais,Auxerre
+05/04/1997,1 - 1,PSG,Rennes
+04/04/1997,2 - 0,Monaco,Lille
+26/03/1997,2 - 1,Auxerre,PSG
+26/03/1997,1 - 0,Bastia,Cannes
+26/03/1997,0 - 1,Le Havre,Guingamp
+26/03/1997,0 - 1,Metz,Olympique Lyonnais
+26/03/1997,0 - 2,Nice,Monaco
+26/03/1997,4 - 1,Olympique Marseille,Nancy
+26/03/1997,2 - 2,Rennes,Lens
+26/03/1997,2 - 0,Strasbourg,Caen
+25/03/1997,0 - 0,Bordeaux,Nantes
+25/03/1997,0 - 4,Lille,Montpellier
+23/03/1997,1 - 0,Caen,Olympique Marseille
+23/03/1997,2 - 0,PSG,Metz
+22/03/1997,1 - 0,Cannes,Rennes
+22/03/1997,2 - 1,Guingamp,Strasbourg
+22/03/1997,2 - 1,Lens,Auxerre
+22/03/1997,3 - 1,Monaco,Bastia
+22/03/1997,2 - 1,Montpellier,Nice
+22/03/1997,1 - 1,Nancy,Bordeaux
+22/03/1997,1 - 0,Nantes,Lille
+22/03/1997,2 - 1,Olympique Lyonnais,Le Havre
+15/03/1997,3 - 1,Bordeaux,Caen
+15/03/1997,2 - 0,Metz,Lens
+15/03/1997,2 - 1,Olympique Lyonnais,Guingamp
+14/03/1997,3 - 1,Auxerre,Cannes
+14/03/1997,2 - 2,Bastia,Montpellier
+14/03/1997,1 - 0,Le Havre,PSG
+14/03/1997,2 - 0,Lille,Nancy
+14/03/1997,1 - 2,Nice,Nantes
+14/03/1997,0 - 1,Olympique Marseille,Strasbourg
+14/03/1997,0 - 3,Rennes,Monaco
+09/03/1997,0 - 0,Monaco,Auxerre
+09/03/1997,3 - 1,PSG,Olympique Lyonnais
+08/03/1997,1 - 0,Caen,Lille
+08/03/1997,0 - 0,Cannes,Metz
+08/03/1997,3 - 1,Guingamp,Olympique Marseille
+08/03/1997,0 - 1,Lens,Le Havre
+08/03/1997,0 - 0,Montpellier,Rennes
+08/03/1997,1 - 0,Nancy,Nice
+08/03/1997,3 - 0,Nantes,Bastia
+08/03/1997,1 - 1,Strasbourg,Bordeaux
+22/02/1997,0 - 2,Auxerre,Montpellier
+22/02/1997,2 - 0,Bastia,Nancy
+22/02/1997,4 - 0,Bordeaux,Olympique Marseille
+22/02/1997,0 - 0,Le Havre,Cannes
+22/02/1997,2 - 4,Lille,Strasbourg
+22/02/1997,2 - 0,Metz,Monaco
+22/02/1997,1 - 1,Nice,Caen
+22/02/1997,1 - 1,PSG,Guingamp
+21/02/1997,0 - 0,Olympique Lyonnais,Lens
+21/02/1997,0 - 1,Rennes,Nantes
+14/02/1997,0 - 1,Cannes,Olympique Lyonnais
+14/02/1997,2 - 2,Guingamp,Bordeaux
+14/02/1997,3 - 0,Monaco,Le Havre
+14/02/1997,1 - 0,Montpellier,Metz
+14/02/1997,1 - 0,Nancy,Rennes
+14/02/1997,5 - 1,Olympique Marseille,Lille
+14/02/1997,3 - 1,Strasbourg,Nice
+13/02/1997,1 - 2,Lens,PSG
+13/02/1997,0 - 0,Nantes,Auxerre
+02/02/1997,3 - 1,Bastia,Strasbourg
+02/02/1997,3 - 3,Olympique Lyonnais,Monaco
+01/02/1997,1 - 0,Auxerre,Nancy
+01/02/1997,0 - 0,Le Havre,Montpellier
+01/02/1997,2 - 1,Lens,Guingamp
+01/02/1997,0 - 0,Lille,Bordeaux
+01/02/1997,0 - 1,Metz,Nantes
+01/02/1997,0 - 0,Nice,Olympique Marseille
+01/02/1997,1 - 1,PSG,Cannes
+01/02/1997,1 - 1,Rennes,Caen
+26/01/1997,2 - 3,Caen,Auxerre
+26/01/1997,2 - 0,Monaco,PSG
+25/01/1997,4 - 1,Bordeaux,Nice
+25/01/1997,0 - 0,Cannes,Lens
+25/01/1997,1 - 0,Guingamp,Lille
+25/01/1997,2 - 1,Montpellier,Olympique Lyonnais
+25/01/1997,2 - 3,Nancy,Metz
+25/01/1997,1 - 1,Nantes,Le Havre
+25/01/1997,1 - 0,Olympique Marseille,Bastia
+25/01/1997,3 - 0,Strasbourg,Rennes
+20/12/1996,0 - 1,Auxerre,Strasbourg
+20/12/1996,1 - 0,Cannes,Guingamp
+20/12/1996,1 - 3,Le Havre,Nancy
+20/12/1996,1 - 3,Lens,Monaco
+20/12/1996,2 - 2,Metz,Caen
+20/12/1996,1 - 1,Nice,Lille
+20/12/1996,0 - 1,Olympique Lyonnais,Nantes
+20/12/1996,1 - 1,PSG,Montpellier
+20/12/1996,4 - 2,Rennes,Olympique Marseille
+19/12/1996,3 - 1,Bastia,Bordeaux
+15/12/1996,3 - 0,Olympique Marseille,Auxerre
+14/12/1996,2 - 0,Bordeaux,Rennes
+14/12/1996,4 - 0,Caen,Le Havre
+14/12/1996,0 - 1,Guingamp,Nice
+14/12/1996,1 - 2,Lille,Bastia
+14/12/1996,1 - 0,Monaco,Cannes
+14/12/1996,1 - 0,Montpellier,Lens
+14/12/1996,2 - 3,Nancy,Olympique Lyonnais
+14/12/1996,0 - 0,Nantes,PSG
+14/12/1996,0 - 1,Strasbourg,Metz
+07/12/1996,2 - 1,Auxerre,Bordeaux
+07/12/1996,1 - 0,Bastia,Nice
+07/12/1996,1 - 0,Cannes,Montpellier
+07/12/1996,2 - 0,Le Havre,Strasbourg
+07/12/1996,1 - 1,Metz,Olympique Marseille
+07/12/1996,0 - 0,Monaco,Guingamp
+07/12/1996,3 - 0,Olympique Lyonnais,Caen
+07/12/1996,2 - 0,Rennes,Lille
+06/12/1996,0 - 4,Lens,Nantes
+06/12/1996,1 - 2,PSG,Nancy
+29/11/1996,1 - 3,Caen,PSG
+29/11/1996,2 - 1,Guingamp,Bastia
+29/11/1996,0 - 1,Lille,Auxerre
+29/11/1996,1 - 1,Nancy,Lens
+29/11/1996,5 - 1,Nantes,Cannes
+29/11/1996,3 - 1,Nice,Rennes
+29/11/1996,0 - 0,Olympique Marseille,Le Havre
+29/11/1996,3 - 0,Strasbourg,Olympique Lyonnais
+28/11/1996,1 - 0,Bordeaux,Metz
+28/11/1996,0 - 1,Montpellier,Monaco
+23/11/1996,1 - 2,Auxerre,Bastia
+23/11/1996,2 - 0,Cannes,Caen
+23/11/1996,1 - 0,Guingamp,Rennes
+23/11/1996,0 - 0,Le Havre,Lille
+23/11/1996,1 - 2,Lens,Strasbourg
+23/11/1996,1 - 0,Metz,Nice
+23/11/1996,2 - 0,Monaco,Nancy
+23/11/1996,2 - 2,Montpellier,Nantes
+23/11/1996,2 - 2,Olympique Lyonnais,Bordeaux
+22/11/1996,0 - 0,PSG,Olympique Marseille
+17/11/1996,1 - 1,Lille,Olympique Lyonnais
+16/11/1996,2 - 1,Bastia,Metz
+16/11/1996,5 - 3,Bordeaux,PSG
+16/11/1996,0 - 1,Caen,Monaco
+16/11/1996,0 - 0,Nancy,Montpellier
+16/11/1996,1 - 1,Nantes,Guingamp
+16/11/1996,0 - 3,Nice,Le Havre
+16/11/1996,2 - 1,Olympique Marseille,Lens
+16/11/1996,1 - 0,Rennes,Auxerre
+16/11/1996,2 - 0,Strasbourg,Cannes
+13/11/1996,0 - 0,Cannes,Olympique Marseille
+13/11/1996,0 - 0,Guingamp,Auxerre
+13/11/1996,0 - 1,Le Havre,Bastia
+13/11/1996,3 - 4,Lens,Bordeaux
+13/11/1996,2 - 0,Metz,Rennes
+13/11/1996,2 - 0,Monaco,Strasbourg
+13/11/1996,0 - 0,Montpellier,Caen
+13/11/1996,3 - 1,Olympique Lyonnais,Nice
+13/11/1996,3 - 1,PSG,Lille
+12/11/1996,2 - 0,Nantes,Nancy
+06/11/1996,2 - 3,Auxerre,Metz
+06/11/1996,3 - 1,Bastia,Olympique Lyonnais
+06/11/1996,1 - 0,Bordeaux,Cannes
+06/11/1996,0 - 0,Caen,Nantes
+06/11/1996,2 - 1,Lille,Lens
+06/11/1996,2 - 0,Nancy,Guingamp
+06/11/1996,0 - 1,Nice,PSG
+06/11/1996,1 - 1,Rennes,Le Havre
+06/11/1996,2 - 1,Strasbourg,Montpellier
+05/11/1996,3 - 1,Olympique Marseille,Monaco
+03/11/1996,3 - 0,PSG,Bastia
+02/11/1996,0 - 1,Cannes,Lille
+02/11/1996,0 - 1,Guingamp,Metz
+02/11/1996,0 - 2,Le Havre,Auxerre
+02/11/1996,3 - 2,Lens,Nice
+02/11/1996,3 - 1,Monaco,Bordeaux
+02/11/1996,2 - 0,Montpellier,Olympique Marseille
+02/11/1996,1 - 2,Nancy,Caen
+02/11/1996,3 - 0,Nantes,Strasbourg
+02/11/1996,2 - 0,Olympique Lyonnais,Rennes
+26/10/1996,7 - 0,Auxerre,Olympique Lyonnais
+26/10/1996,0 - 1,Bastia,Lens
+26/10/1996,0 - 1,Caen,Guingamp
+26/10/1996,1 - 4,Lille,Monaco
+26/10/1996,1 - 2,Metz,Le Havre
+26/10/1996,0 - 0,Nice,Cannes
+26/10/1996,0 - 1,Olympique Marseille,Nantes
+26/10/1996,2 - 1,Rennes,PSG
+26/10/1996,3 - 1,Strasbourg,Nancy
+25/10/1996,3 - 1,Bordeaux,Montpellier
+19/10/1996,3 - 0,Caen,Strasbourg
+19/10/1996,1 - 1,Cannes,Bastia
+19/10/1996,2 - 2,Guingamp,Le Havre
+19/10/1996,2 - 0,Lens,Rennes
+19/10/1996,4 - 1,Monaco,Nice
+19/10/1996,0 - 1,Montpellier,Lille
+19/10/1996,0 - 0,Nancy,Olympique Marseille
+19/10/1996,3 - 1,Nantes,Bordeaux
+19/10/1996,0 - 0,Olympique Lyonnais,Metz
+19/10/1996,1 - 1,PSG,Auxerre
+13/10/1996,3 - 0,Rennes,Cannes
+12/10/1996,1 - 0,Auxerre,Lens
+12/10/1996,0 - 0,Bastia,Monaco
+12/10/1996,0 - 1,Bordeaux,Nancy
+12/10/1996,4 - 1,Le Havre,Olympique Lyonnais
+12/10/1996,3 - 3,Lille,Nantes
+12/10/1996,0 - 1,Metz,PSG
+12/10/1996,1 - 1,Nice,Montpellier
+12/10/1996,0 - 1,Olympique Marseille,Caen
+12/10/1996,2 - 1,Strasbourg,Guingamp
+05/10/1996,0 - 0,Caen,Bordeaux
+05/10/1996,1 - 1,Cannes,Auxerre
+05/10/1996,1 - 0,Guingamp,Olympique Lyonnais
+05/10/1996,2 - 2,Lens,Metz
+05/10/1996,3 - 1,Monaco,Rennes
+05/10/1996,3 - 1,Montpellier,Bastia
+05/10/1996,2 - 2,Nancy,Lille
+05/10/1996,7 - 0,Nantes,Nice
+05/10/1996,2 - 0,PSG,Le Havre
+05/10/1996,2 - 1,Strasbourg,Olympique Marseille
+02/10/1996,2 - 0,Auxerre,Monaco
+02/10/1996,0 - 0,Bastia,Nantes
+02/10/1996,1 - 2,Bordeaux,Strasbourg
+02/10/1996,1 - 0,Lille,Caen
+02/10/1996,0 - 0,Metz,Cannes
+02/10/1996,1 - 0,Nice,Nancy
+02/10/1996,1 - 1,Olympique Lyonnais,PSG
+02/10/1996,2 - 1,Olympique Marseille,Guingamp
+02/10/1996,2 - 0,Rennes,Montpellier
+01/10/1996,0 - 0,Le Havre,Lens
+29/09/1996,2 - 2,Guingamp,PSG
+28/09/1996,1 - 2,Caen,Nice
+28/09/1996,2 - 0,Cannes,Le Havre
+28/09/1996,0 - 1,Lens,Olympique Lyonnais
+28/09/1996,1 - 1,Monaco,Metz
+28/09/1996,0 - 0,Montpellier,Auxerre
+28/09/1996,2 - 2,Nancy,Bastia
+28/09/1996,3 - 3,Nantes,Rennes
+28/09/1996,0 - 0,Olympique Marseille,Bordeaux
+28/09/1996,3 - 0,Strasbourg,Lille
+20/09/1996,4 - 2,Bastia,Caen
+20/09/1996,0 - 0,Bordeaux,Guingamp
+20/09/1996,1 - 2,Le Havre,Monaco
+20/09/1996,1 - 1,Lille,Olympique Marseille
+20/09/1996,1 - 1,Metz,Montpellier
+20/09/1996,1 - 1,Nice,Strasbourg
+20/09/1996,3 - 1,Olympique Lyonnais,Cannes
+20/09/1996,4 - 0,PSG,Lens
+20/09/1996,1 - 0,Rennes,Nancy
+19/09/1996,2 - 2,Auxerre,Nantes
+15/09/1996,0 - 1,Cannes,PSG
+14/09/1996,3 - 0,Bordeaux,Lille
+14/09/1996,0 - 0,Caen,Rennes
+14/09/1996,1 - 0,Guingamp,Lens
+14/09/1996,0 - 0,Monaco,Olympique Lyonnais
+14/09/1996,2 - 1,Montpellier,Le Havre
+14/09/1996,0 - 0,Nancy,Auxerre
+14/09/1996,0 - 1,Nantes,Metz
+14/09/1996,1 - 0,Olympique Marseille,Nice
+14/09/1996,1 - 3,Strasbourg,Bastia
+09/09/1996,0 - 1,Nice,Bordeaux
+08/09/1996,2 - 0,Bastia,Olympique Marseille
+06/09/1996,2 - 0,Auxerre,Caen
+06/09/1996,3 - 1,Le Havre,Nantes
+06/09/1996,0 - 0,Lens,Cannes
+06/09/1996,1 - 1,Lille,Guingamp
+06/09/1996,1 - 0,Metz,Nancy
+06/09/1996,1 - 1,Olympique Lyonnais,Montpellier
+06/09/1996,0 - 0,PSG,Monaco
+06/09/1996,2 - 0,Rennes,Strasbourg
+03/09/1996,3 - 1,Bordeaux,Bastia
+03/09/1996,0 - 0,Caen,Metz
+03/09/1996,0 - 1,Guingamp,Cannes
+03/09/1996,3 - 2,Lille,Nice
+03/09/1996,5 - 1,Monaco,Lens
+03/09/1996,0 - 3,Montpellier,PSG
+03/09/1996,0 - 1,Nancy,Le Havre
+03/09/1996,3 - 1,Olympique Marseille,Rennes
+03/09/1996,2 - 1,Strasbourg,Auxerre
+02/09/1996,2 - 2,Nantes,Olympique Lyonnais
+28/08/1996,0 - 0,Bastia,Lille
+28/08/1996,0 - 2,Cannes,Monaco
+28/08/1996,1 - 1,Le Havre,Caen
+28/08/1996,3 - 2,Lens,Montpellier
+28/08/1996,3 - 1,Metz,Strasbourg
+28/08/1996,1 - 2,Nice,Guingamp
+28/08/1996,2 - 0,Olympique Lyonnais,Nancy
+28/08/1996,1 - 0,PSG,Nantes
+28/08/1996,1 - 1,Rennes,Bordeaux
+27/08/1996,0 - 0,Auxerre,Olympique Marseille
+24/08/1996,0 - 0,Bordeaux,Auxerre
+24/08/1996,1 - 1,Caen,Olympique Lyonnais
+24/08/1996,2 - 1,Guingamp,Monaco
+24/08/1996,3 - 1,Lille,Rennes
+24/08/1996,0 - 1,Montpellier,Cannes
+24/08/1996,0 - 1,Nantes,Lens
+24/08/1996,1 - 1,Nice,Bastia
+24/08/1996,1 - 2,Olympique Marseille,Metz
+24/08/1996,1 - 0,Strasbourg,Le Havre
+23/08/1996,0 - 0,Nancy,PSG
+17/08/1996,2 - 0,Auxerre,Lille
+17/08/1996,1 - 0,Bastia,Guingamp
+17/08/1996,1 - 1,Cannes,Nantes
+17/08/1996,1 - 1,Le Havre,Olympique Marseille
+17/08/1996,3 - 1,Lens,Nancy
+17/08/1996,1 - 1,Metz,Bordeaux
+17/08/1996,1 - 1,Monaco,Montpellier
+17/08/1996,2 - 0,Olympique Lyonnais,Strasbourg
+17/08/1996,2 - 0,PSG,Caen
+17/08/1996,3 - 1,Rennes,Nice
+11/08/1996,2 - 0,Bastia,Rennes
+11/08/1996,1 - 0,Bordeaux,Le Havre
+11/08/1996,0 - 2,Caen,Lens
+11/08/1996,0 - 0,Guingamp,Montpellier
+11/08/1996,1 - 0,Lille,Metz
+11/08/1996,1 - 2,Nancy,Cannes
+11/08/1996,1 - 3,Nantes,Monaco
+11/08/1996,0 - 1,Nice,Auxerre
+11/08/1996,3 - 1,Olympique Marseille,Olympique Lyonnais
+11/08/1996,0 - 1,Strasbourg,PSG

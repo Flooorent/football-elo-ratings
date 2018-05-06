@@ -1,0 +1,210 @@
+date,score,home_team,away_team
+17/05/2006,2 - 1,[N] Barcelona,Arsenal
+26/04/2006,0 - 0,Barcelona,Milan
+25/04/2006,0 - 0,Villarreal,Arsenal
+19/04/2006,1 - 0,Arsenal,Villarreal
+18/04/2006,0 - 1,Milan,Barcelona
+05/04/2006,2 - 0,Barcelona,Benfica
+05/04/2006,0 - 0,Juventus,Arsenal
+04/04/2006,3 - 1,Milan,Olympique Lyonnais
+04/04/2006,1 - 0,Villarreal,Internazionale
+29/03/2006,2 - 1,Internazionale,Villarreal
+29/03/2006,0 - 0,Olympique Lyonnais,Milan
+28/03/2006,2 - 0,Arsenal,Juventus
+28/03/2006,0 - 0,Benfica,Barcelona
+14/03/2006,1 - 0,Internazionale,Ajax
+08/03/2006,0 - 0,Arsenal,Real Madrid
+08/03/2006,0 - 2,Liverpool,Benfica
+08/03/2006,4 - 1,Milan,Bayern München
+08/03/2006,4 - 0,Olympique Lyonnais,PSV
+07/03/2006,1 - 1,Barcelona,Chelsea
+07/03/2006,2 - 1,Juventus,Werder Bremen
+07/03/2006,1 - 1,Villarreal,Rangers
+22/02/2006,2 - 2,Ajax,Internazionale
+22/02/2006,1 - 2,Chelsea,Barcelona
+22/02/2006,2 - 2,Rangers,Villarreal
+22/02/2006,3 - 2,Werder Bremen,Juventus
+21/02/2006,1 - 1,Bayern München,Milan
+21/02/2006,1 - 0,Benfica,Liverpool
+21/02/2006,0 - 1,PSV,Olympique Lyonnais
+21/02/2006,0 - 1,Real Madrid,Arsenal
+07/12/2005,1 - 1,Club Brugge,Bayern München
+07/12/2005,1 - 3,Rapid Wien,Juventus
+22/11/2005,4 - 0,Bayern München,Rapid Wien
+22/11/2005,1 - 0,Juventus,Club Brugge
+02/11/2005,3 - 2,Club Brugge,Rapid Wien
+02/11/2005,2 - 1,Juventus,Bayern München
+18/10/2005,2 - 1,Bayern München,Juventus
+18/10/2005,0 - 1,Rapid Wien,Club Brugge
+27/09/2005,1 - 0,Bayern München,Club Brugge
+27/09/2005,3 - 0,Juventus,Rapid Wien
+14/09/2005,1 - 2,Club Brugge,Juventus
+14/09/2005,0 - 1,Rapid Wien,Bayern München
+07/12/2005,0 - 0,Arsenal,Ajax
+07/12/2005,0 - 0,Sparta Praha,Thun
+22/11/2005,2 - 1,Ajax,Sparta Praha
+22/11/2005,0 - 1,Thun,Arsenal
+02/11/2005,3 - 0,Arsenal,Sparta Praha
+02/11/2005,2 - 4,Thun,Ajax
+18/10/2005,2 - 0,Ajax,Thun
+18/10/2005,0 - 2,Sparta Praha,Arsenal
+27/09/2005,1 - 2,Ajax,Arsenal
+27/09/2005,1 - 0,Thun,Sparta Praha
+14/09/2005,2 - 1,Arsenal,Thun
+14/09/2005,1 - 1,Sparta Praha,Ajax
+07/12/2005,0 - 2,Udinese,Barcelona
+07/12/2005,5 - 1,Werder Bremen,Panathinaikos
+22/11/2005,3 - 1,Barcelona,Werder Bremen
+22/11/2005,1 - 2,Panathinaikos,Udinese
+02/11/2005,5 - 0,Barcelona,Panathinaikos
+02/11/2005,4 - 3,Werder Bremen,Udinese
+18/10/2005,0 - 0,Panathinaikos,Barcelona
+18/10/2005,1 - 1,Udinese,Werder Bremen
+27/09/2005,4 - 1,Barcelona,Udinese
+27/09/2005,2 - 1,Panathinaikos,Werder Bremen
+14/09/2005,3 - 0,Udinese,Panathinaikos
+14/09/2005,0 - 2,Werder Bremen,Barcelona
+07/12/2005,2 - 1,Benfica,Manchester United
+07/12/2005,1 - 0,Villarreal,Lille
+22/11/2005,0 - 0,Lille,Benfica
+22/11/2005,0 - 0,Manchester United,Villarreal
+02/11/2005,1 - 0,Lille,Manchester United
+02/11/2005,0 - 1,Benfica,Villarreal
+18/10/2005,0 - 0,Manchester United,Lille
+18/10/2005,1 - 1,Villarreal,Benfica
+27/09/2005,0 - 0,Lille,Villarreal
+27/09/2005,2 - 1,Manchester United,Benfica
+14/09/2005,1 - 0,Benfica,Lille
+14/09/2005,0 - 0,Villarreal,Manchester United
+06/12/2005,3 - 2,Milan,Schalke 04
+06/12/2005,2 - 0,PSV,Fenerbahçe
+23/11/2005,0 - 4,Fenerbahçe,Milan
+23/11/2005,3 - 0,Schalke 04,PSV
+01/11/2005,1 - 0,PSV,Milan
+01/11/2005,2 - 0,Schalke 04,Fenerbahçe
+19/10/2005,3 - 3,Fenerbahçe,Schalke 04
+19/10/2005,0 - 0,Milan,PSV
+28/09/2005,3 - 0,Fenerbahçe,PSV
+28/09/2005,2 - 2,Schalke 04,Milan
+13/09/2005,3 - 1,Milan,Fenerbahçe
+13/09/2005,1 - 0,PSV,Schalke 04
+06/12/2005,2 - 1,Olympiakos Piraeus,Real Madrid
+06/12/2005,2 - 1,Olympique Lyonnais,Rosenborg
+23/11/2005,1 - 1,Real Madrid,Olympique Lyonnais
+23/11/2005,1 - 1,Rosenborg,Olympiakos Piraeus
+01/11/2005,1 - 4,Olympiakos Piraeus,Olympique Lyonnais
+01/11/2005,0 - 2,Rosenborg,Real Madrid
+19/10/2005,2 - 1,Olympique Lyonnais,Olympiakos Piraeus
+19/10/2005,4 - 1,Real Madrid,Rosenborg
+28/09/2005,2 - 1,Real Madrid,Olympiakos Piraeus
+28/09/2005,0 - 1,Rosenborg,Olympique Lyonnais
+13/09/2005,1 - 3,Olympiakos Piraeus,Rosenborg
+13/09/2005,3 - 0,Olympique Lyonnais,Real Madrid
+06/12/2005,0 - 0,Chelsea,Liverpool
+06/12/2005,0 - 1,Real Betis,Anderlecht
+23/11/2005,0 - 2,Anderlecht,Chelsea
+23/11/2005,0 - 0,Liverpool,Real Betis
+01/11/2005,3 - 0,Liverpool,Anderlecht
+01/11/2005,1 - 0,Real Betis,Chelsea
+19/10/2005,0 - 1,Anderlecht,Liverpool
+19/10/2005,4 - 0,Chelsea,Real Betis
+28/09/2005,0 - 1,Anderlecht,Real Betis
+28/09/2005,0 - 0,Liverpool,Chelsea
+13/09/2005,1 - 0,Chelsea,Anderlecht
+13/09/2005,1 - 2,Real Betis,Liverpool
+06/12/2005,0 - 0,Petržalka,Porto
+06/12/2005,1 - 1,Rangers,Internazionale
+23/11/2005,4 - 0,Internazionale,Petržalka
+23/11/2005,1 - 1,Porto,Rangers
+01/11/2005,2 - 1,Internazionale,Porto
+01/11/2005,2 - 2,Petržalka,Rangers
+19/10/2005,2 - 0,Porto,Internazionale
+19/10/2005,0 - 0,Rangers,Petržalka
+28/09/2005,1 - 0,Internazionale,Rangers
+28/09/2005,2 - 3,Porto,Petržalka
+13/09/2005,0 - 1,Petržalka,Internazionale
+13/09/2005,3 - 2,Rangers,Porto
+24/08/2005,2 - 1,Villarreal,Everton
+24/08/2005,1 - 1,Internazionale,Shakhtar Donetsk
+24/08/2005,2 - 0,Rangers,Anorthosis
+24/08/2005,3 - 0,Werder Bremen,Basel
+24/08/2005,3 - 1,Ajax,Brøndby
+24/08/2005,1 - 0, [PS] Club Brugge,Vålerenga
+24/08/2005,0 - 3,[N] Debrecen,Manchester United
+24/08/2005,0 - 2,Slavia Praha,Anderlecht
+23/08/2005,0 - 1,Liverpool,CSKA Sofia
+23/08/2005,2 - 2,Monaco,Real Betis
+23/08/2005,3 - 1, [ET] Panathinaikos,Wisła Kraków
+23/08/2005,3 - 2,Rosenborg,FCSB
+23/08/2005,3 - 2,Udinese,Sporting CP
+23/08/2005,3 - 0,Thun,Malmö FF
+23/08/2005,0 - 0,Partizan,Petržalka [PS] 
+23/08/2005,0 - 1,Lokomotiv Moskva,Rapid Wien
+10/08/2005,0 - 1,Sporting CP,Udinese
+10/08/2005,1 - 1,FCSB,Rosenborg
+10/08/2005,2 - 1,Basel,Werder Bremen
+10/08/2005,1 - 3,[N] CSKA Sofia,Liverpool
+10/08/2005,1 - 1,[N] Rapid Wien,Lokomotiv Moskva
+10/08/2005,2 - 1,Anderlecht,Slavia Praha
+10/08/2005,0 - 0,Petržalka,Partizan
+10/08/2005,0 - 2,Shakhtar Donetsk,Internazionale
+10/08/2005,2 - 2,Brøndby,Ajax
+10/08/2005,0 - 1,Malmö FF,Thun
+09/08/2005,1 - 0,[N] Real Betis,Monaco
+09/08/2005,1 - 2,Everton,Villarreal
+09/08/2005,3 - 0,Manchester United,Debrecen
+09/08/2005,1 - 0,Vålerenga,Club Brugge
+09/08/2005,3 - 1,Wisła Kraków,Panathinaikos
+09/08/2005,1 - 2,Anorthosis,Rangers
+03/08/2005,3 - 1,Brøndby,Dinamo Tbilisi
+03/08/2005,0 - 5,Hajduk Split,Debrecen
+03/08/2005,3 - 2,[N] Rapid Wien,F91 Dudelange
+03/08/2005,1 - 0,Thun,Dynamo Kyiv
+03/08/2005,2 - 0,CSKA Sofia,Tirana
+03/08/2005,4 - 1,FCSB,Shelbourne
+03/08/2005,0 - 1,Sheriff,Partizan
+03/08/2005,1 - 0,Trabzonspor,Anorthosis
+03/08/2005,2 - 0,Lokomotiv Moskva,Rabotnički
+03/08/2005,2 - 2,Maccabi Haifa,Malmö FF
+03/08/2005,1 - 4,Haka,Vålerenga
+03/08/2005,1 - 0,Neftçi,Anderlecht
+02/08/2005,4 - 0,Celtic,Petržalka
+02/08/2005,2 - 0,Liverpool,Kaunas
+27/07/2005,3 - 0,Debrecen,Hajduk Split
+27/07/2005,0 - 0,Shelbourne,FCSB
+27/07/2005,0 - 2,Tirana,CSKA Sofia
+27/07/2005,3 - 2,Malmö FF,Maccabi Haifa
+27/07/2005,5 - 0,Petržalka,Celtic
+27/07/2005,1 - 1,Rabotnički,Lokomotiv Moskva
+27/07/2005,1 - 0,Partizan,Sheriff
+27/07/2005,1 - 6,F91 Dudelange,Rapid Wien
+26/07/2005,1 - 3,Kaunas,Liverpool
+26/07/2005,1 - 0,Vålerenga,Haka
+26/07/2005,5 - 0,Anderlecht,Neftçi
+26/07/2005,3 - 1,Anorthosis,Trabzonspor
+26/07/2005,2 - 2,Dynamo Kyiv,Thun
+26/07/2005,0 - 2,Dinamo Tbilisi,Brøndby
+20/07/2005,4 - 1,Shelbourne,Glentoran
+20/07/2005,3 - 0,Tirana,Gorica
+20/07/2005,1 - 2,FH,Neftçi
+20/07/2005,2 - 0, [ET] Petržalka,Kairat
+20/07/2005,1 - 0,Anorthosis,Dinamo Minsk
+20/07/2005,2 - 0,Sheriff,Sliema Wanderers
+20/07/2005,1 - 0,Skonto,Rabotnički
+20/07/2005,0 - 1,Zrinjski,F91 Dudelange [ET] 
+20/07/2005,2 - 2,Pyunik,Haka
+19/07/2005,0 - 3,The New Saints,Liverpool
+19/07/2005,2 - 0,Dinamo Tbilisi,FCI Levadia
+19/07/2005,4 - 0,[N] Kaunas,HB
+13/07/2005,3 - 0,Liverpool,The New Saints
+13/07/2005,1 - 2,Glentoran,Shelbourne
+13/07/2005,2 - 0,Gorica,Tirana
+13/07/2005,2 - 4,HB,Kaunas
+13/07/2005,0 - 1,F91 Dudelange,Zrinjski
+13/07/2005,1 - 0,Haka,Pyunik
+12/07/2005,6 - 0,Rabotnički,Skonto
+12/07/2005,1 - 4,Sliema Wanderers,Sheriff
+12/07/2005,1 - 1,Dinamo Minsk,Anorthosis
+12/07/2005,1 - 0,FCI Levadia,Dinamo Tbilisi
+12/07/2005,2 - 0,Neftçi,FH
+12/07/2005,2 - 0,Kairat,Petržalka

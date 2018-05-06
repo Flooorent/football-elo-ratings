@@ -1,0 +1,218 @@
+date,score,home_team,away_team
+28/05/2016,1 - 1, [PS] [N] Real Madrid,Atlético Madrid
+04/05/2016,1 - 0,Real Madrid,Manchester City
+03/05/2016,2 - 1,Bayern München,Atlético Madrid
+27/04/2016,1 - 0,Atlético Madrid,Bayern München
+26/04/2016,0 - 0,Manchester City,Real Madrid
+13/04/2016,2 - 0,Atlético Madrid,Barcelona
+13/04/2016,2 - 2,Benfica,Bayern München
+12/04/2016,1 - 0,Manchester City,PSG
+12/04/2016,3 - 0,Real Madrid,Wolfsburg
+06/04/2016,2 - 2,PSG,Manchester City
+06/04/2016,2 - 0,Wolfsburg,Real Madrid
+05/04/2016,2 - 1,Barcelona,Atlético Madrid
+05/04/2016,1 - 0,Bayern München,Benfica
+16/03/2016,3 - 1,Barcelona,Arsenal
+16/03/2016,2 - 2, [ET] Bayern München,Juventus
+15/03/2016,0 - 0, [PS] Atlético Madrid,PSV
+15/03/2016,0 - 0,Manchester City,Dynamo Kyiv
+09/03/2016,1 - 2,Chelsea,PSG
+09/03/2016,1 - 2,Zenit,Benfica
+08/03/2016,2 - 0,Real Madrid,Roma
+08/03/2016,1 - 0,Wolfsburg,Gent
+24/02/2016,1 - 3,Dynamo Kyiv,Manchester City
+24/02/2016,0 - 0,PSV,Atlético Madrid
+23/02/2016,0 - 2,Arsenal,Barcelona
+23/02/2016,2 - 2,Juventus,Bayern München
+17/02/2016,2 - 3,Gent,Wolfsburg
+17/02/2016,0 - 2,Roma,Real Madrid
+16/02/2016,1 - 0,Benfica,Zenit
+16/02/2016,2 - 1,PSG,Chelsea
+08/12/2015,2 - 0,PSG,Shakhtar Donetsk
+08/12/2015,8 - 0,Real Madrid,Malmö FF
+25/11/2015,0 - 5,Malmö FF,PSG
+25/11/2015,3 - 4,Shakhtar Donetsk,Real Madrid
+03/11/2015,1 - 0,Real Madrid,PSG
+03/11/2015,4 - 0,Shakhtar Donetsk,Malmö FF
+21/10/2015,1 - 0,Malmö FF,Shakhtar Donetsk
+21/10/2015,0 - 0,PSG,Real Madrid
+30/09/2015,0 - 2,Malmö FF,Real Madrid
+30/09/2015,0 - 3,Shakhtar Donetsk,PSG
+15/09/2015,2 - 0,PSG,Malmö FF
+15/09/2015,4 - 0,Real Madrid,Shakhtar Donetsk
+08/12/2015,2 - 1,PSV,CSKA Moskva
+08/12/2015,3 - 2,Wolfsburg,Manchester United
+25/11/2015,0 - 0,Manchester United,PSV
+25/11/2015,0 - 2,CSKA Moskva,Wolfsburg
+03/11/2015,1 - 0,Manchester United,CSKA Moskva
+03/11/2015,2 - 0,PSV,Wolfsburg
+21/10/2015,1 - 1,CSKA Moskva,Manchester United
+21/10/2015,2 - 0,Wolfsburg,PSV
+30/09/2015,3 - 2,CSKA Moskva,PSV
+30/09/2015,2 - 1,Manchester United,Wolfsburg
+15/09/2015,2 - 1,PSV,Manchester United
+15/09/2015,1 - 0,Wolfsburg,CSKA Moskva
+08/12/2015,1 - 2,Benfica,Atlético Madrid
+08/12/2015,1 - 1,Galatasaray,Astana
+25/11/2015,2 - 0,Atlético Madrid,Galatasaray
+25/11/2015,2 - 2,Astana,Benfica
+03/11/2015,2 - 1,Benfica,Galatasaray
+03/11/2015,0 - 0,Astana,Atlético Madrid
+21/10/2015,4 - 0,Atlético Madrid,Astana
+21/10/2015,2 - 1,Galatasaray,Benfica
+30/09/2015,1 - 2,Atlético Madrid,Benfica
+30/09/2015,2 - 2,Astana,Galatasaray
+15/09/2015,2 - 0,Benfica,Astana
+15/09/2015,0 - 2,Galatasaray,Atlético Madrid
+08/12/2015,4 - 2,Manchester City,Borussia M'gladbach
+08/12/2015,1 - 0,Sevilla,Juventus
+25/11/2015,4 - 2,Borussia M'gladbach,Sevilla
+25/11/2015,1 - 0,Juventus,Manchester City
+03/11/2015,1 - 1,Borussia M'gladbach,Juventus
+03/11/2015,1 - 3,Sevilla,Manchester City
+21/10/2015,0 - 0,Juventus,Borussia M'gladbach
+21/10/2015,2 - 1,Manchester City,Sevilla
+30/09/2015,1 - 2,Borussia M'gladbach,Manchester City
+30/09/2015,2 - 0,Juventus,Sevilla
+15/09/2015,1 - 2,Manchester City,Juventus
+15/09/2015,3 - 0,Sevilla,Borussia M'gladbach
+09/12/2015,1 - 1,Bayer Leverkusen,Barcelona
+09/12/2015,0 - 0,Roma,BATE
+24/11/2015,6 - 1,Barcelona,Roma
+24/11/2015,1 - 1,BATE,Bayer Leverkusen
+04/11/2015,3 - 0,Barcelona,BATE
+04/11/2015,3 - 2,Roma,Bayer Leverkusen
+20/10/2015,0 - 2,BATE,Barcelona
+20/10/2015,4 - 4,Bayer Leverkusen,Roma
+29/09/2015,2 - 1,Barcelona,Bayer Leverkusen
+29/09/2015,3 - 2,BATE,Roma
+16/09/2015,4 - 1,Bayer Leverkusen,BATE
+16/09/2015,1 - 1,Roma,Barcelona
+09/12/2015,0 - 2,Dinamo Zagreb,Bayern München
+09/12/2015,0 - 3,Olympiakos Piraeus,Arsenal
+24/11/2015,3 - 0,Arsenal,Dinamo Zagreb
+24/11/2015,4 - 0,Bayern München,Olympiakos Piraeus
+04/11/2015,5 - 1,Bayern München,Arsenal
+04/11/2015,2 - 1,Olympiakos Piraeus,Dinamo Zagreb
+20/10/2015,2 - 0,Arsenal,Bayern München
+20/10/2015,0 - 1,Dinamo Zagreb,Olympiakos Piraeus
+29/09/2015,2 - 3,Arsenal,Olympiakos Piraeus
+29/09/2015,5 - 0,Bayern München,Dinamo Zagreb
+16/09/2015,2 - 1,Dinamo Zagreb,Arsenal
+16/09/2015,0 - 3,Olympiakos Piraeus,Bayern München
+09/12/2015,2 - 0,Chelsea,Porto
+09/12/2015,1 - 0,Dynamo Kyiv,Maccabi Tel Aviv
+24/11/2015,0 - 4,[N] Maccabi Tel Aviv,Chelsea
+24/11/2015,0 - 2,Porto,Dynamo Kyiv
+04/11/2015,2 - 1,Chelsea,Dynamo Kyiv
+04/11/2015,1 - 3,[N] Maccabi Tel Aviv,Porto
+20/10/2015,0 - 0,Dynamo Kyiv,Chelsea
+20/10/2015,2 - 0,Porto,Maccabi Tel Aviv
+29/09/2015,0 - 2,[N] Maccabi Tel Aviv,Dynamo Kyiv
+29/09/2015,2 - 1,Porto,Chelsea
+16/09/2015,4 - 0,Chelsea,Maccabi Tel Aviv
+16/09/2015,2 - 2,Dynamo Kyiv,Porto
+09/12/2015,2 - 1,Gent,Zenit
+09/12/2015,0 - 2,Valencia,Olympique Lyonnais
+24/11/2015,1 - 2,Olympique Lyonnais,Gent
+24/11/2015,2 - 0,Zenit,Valencia
+04/11/2015,1 - 0,Gent,Valencia
+04/11/2015,0 - 2,Olympique Lyonnais,Zenit
+20/10/2015,2 - 1,Valencia,Gent
+20/10/2015,3 - 1,Zenit,Olympique Lyonnais
+29/09/2015,0 - 1,Olympique Lyonnais,Valencia
+29/09/2015,2 - 1,Zenit,Gent
+16/09/2015,1 - 1,Gent,Olympique Lyonnais
+16/09/2015,2 - 3,Valencia,Zenit
+26/08/2015,1 - 1,APOEL,Astana
+26/08/2015,3 - 0,Bayer Leverkusen,Lazio
+26/08/2015,0 - 4,Club Brugge,Manchester United
+26/08/2015,3 - 1,CSKA Moskva,Sporting CP
+26/08/2015,2 - 1,Partizan,BATE
+25/08/2015,4 - 1,Dinamo Zagreb,Skënderbeu Korçë
+25/08/2015,1 - 1,Maccabi Tel Aviv,Basel
+25/08/2015,2 - 0,Malmö FF,Celtic
+25/08/2015,2 - 1,Monaco,Valencia
+25/08/2015,2 - 2,Shakhtar Donetsk,Rapid Wien
+19/08/2015,2 - 2,Basel,Maccabi Tel Aviv
+19/08/2015,3 - 2,Celtic,Malmö FF
+19/08/2015,0 - 1,Rapid Wien,Shakhtar Donetsk
+19/08/2015,1 - 2,[N] Skënderbeu Korçë,Dinamo Zagreb
+19/08/2015,3 - 1,Valencia,Monaco
+18/08/2015,1 - 0,BATE,Partizan
+18/08/2015,1 - 0,Lazio,Bayer Leverkusen
+18/08/2015,3 - 1,Manchester United,Club Brugge
+18/08/2015,2 - 1,Sporting CP,CSKA Moskva
+18/08/2015,1 - 0,Astana,APOEL
+05/08/2015,3 - 0,Shakhtar Donetsk,Fenerbahçe
+05/08/2015,2 - 0,[N] Skënderbeu Korçë,Milsami
+05/08/2015,0 - 2,Viktoria Plzeň,Maccabi Tel Aviv
+05/08/2015,3 - 0,Club Brugge,Panathinaikos
+05/08/2015,3 - 0,Malmö FF,Salzburg
+05/08/2015,4 - 2,Partizan,FCSB
+05/08/2015,1 - 0,Basel,Lech Poznań
+05/08/2015,1 - 0,BATE,Videoton
+05/08/2015,2 - 3,Sparta Praha,CSKA Moskva
+05/08/2015,0 - 0,Qarabağ,Celtic
+05/08/2015,4 - 3,Astana,HJK
+04/08/2015,4 - 0,Monaco,Young Boys
+04/08/2015,2 - 3,Ajax,Rapid Wien
+04/08/2015,0 - 1,APOEL,Midtjylland
+04/08/2015,3 - 3,Molde,Dinamo Zagreb
+29/07/2015,2 - 2,Rapid Wien,Ajax
+29/07/2015,1 - 0,Celtic,Qarabağ
+29/07/2015,1 - 3,Lech Poznań,Basel
+29/07/2015,1 - 1,FCSB,Partizan
+29/07/2015,2 - 0,Salzburg,Malmö FF
+29/07/2015,0 - 0,HJK,Astana
+28/07/2015,1 - 1,Dinamo Zagreb,Molde
+28/07/2015,1 - 1,Videoton,BATE
+28/07/2015,1 - 3,Young Boys,Monaco
+28/07/2015,0 - 0,Fenerbahçe,Shakhtar Donetsk
+28/07/2015,2 - 1,Panathinaikos,Club Brugge
+28/07/2015,1 - 2,Maccabi Tel Aviv,Viktoria Plzeň
+28/07/2015,1 - 2,Midtjylland,APOEL
+28/07/2015,0 - 2,[N] Milsami,Skënderbeu Korçë
+28/07/2015,2 - 2,CSKA Moskva,Sparta Praha
+22/07/2015,1 - 4,Stjarnan,Celtic
+22/07/2015,0 - 0,Dundalk,BATE
+22/07/2015,1 - 0,Lech Poznań,Sarajevo
+22/07/2015,0 - 1,Rudar,Qarabağ
+22/07/2015,2 - 3,FCSB,Trenčín
+22/07/2015,0 - 1,Videoton,The New Saints
+22/07/2015,0 - 3,Fola Esch,Dinamo Zagreb
+22/07/2015,3 - 1,Astana,Maribor
+21/07/2015,3 - 2,Crusaders,Skënderbeu Korçë
+21/07/2015,0 - 1,Žalgiris,Malmö FF
+21/07/2015,0 - 2,Lincoln Red Imps,Midtjylland
+21/07/2015,1 - 1,Vardar,APOEL
+21/07/2015,5 - 1,Maccabi Tel Aviv,Hibernians
+21/07/2015,1 - 0,HJK,Ventspils
+21/07/2015,2 - 1,Milsami,Ludogorets
+21/07/2015,1 - 0,Pyunik,Molde
+21/07/2015,0 - 2,Dila,Partizan
+15/07/2015,1 - 1,Dinamo Zagreb,Fola Esch
+15/07/2015,2 - 0,Celtic,Stjarnan
+15/07/2015,2 - 1,BATE,Dundalk
+15/07/2015,0 - 0,Malmö FF,Žalgiris
+15/07/2015,0 - 0,Qarabağ,Rudar
+14/07/2015,0 - 2,Sarajevo,Lech Poznań
+14/07/2015,1 - 0,Partizan,Dila
+14/07/2015,1 - 0,Maribor,Astana
+14/07/2015,0 - 2,Trenčín,FCSB
+14/07/2015,2 - 1,Hibernians,Maccabi Tel Aviv
+14/07/2015,5 - 0,Molde,Pyunik
+14/07/2015,4 - 1,Skënderbeu Korçë,Crusaders
+14/07/2015,0 - 1,The New Saints,Videoton
+14/07/2015,0 - 1,Ludogorets,Milsami
+14/07/2015,1 - 0,Midtjylland,Lincoln Red Imps
+14/07/2015,0 - 0,APOEL,Vardar
+14/07/2015,1 - 3,Ventspils,HJK
+07/07/2015,1 - 2,Folgore,Pyunik
+07/07/2015,1 - 2,FC Santa Coloma,Lincoln Red Imps
+07/07/2015,4 - 1,The New Saints,B36
+07/07/2015,1 - 1,FCI Levadia,Crusaders
+01/07/2015,1 - 2,B36,The New Saints
+30/06/2015,0 - 0,Crusaders,FCI Levadia
+30/06/2015,0 - 0,Lincoln Red Imps,FC Santa Coloma
+30/06/2015,2 - 1,Pyunik,Folgore

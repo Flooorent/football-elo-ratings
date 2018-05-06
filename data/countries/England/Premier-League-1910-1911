@@ -1,0 +1,381 @@
+date,score,home_team,away_team
+29/04/1911,0 - 1,Bristol City,Everton
+29/04/1911,1 - 1,Bury,Sheffield United
+29/04/1911,3 - 1,Liverpool,Aston Villa
+29/04/1911,5 - 1,Manchester United,Sunderland
+29/04/1911,2 - 3,Middlesbrough,Blackburn Rovers
+29/04/1911,3 - 3,Newcastle United,Manchester City
+29/04/1911,0 - 2,Notts County,Arsenal
+29/04/1911,2 - 0,Preston North End,Bradford City
+29/04/1911,2 - 0,Sheffield Wednesday,Oldham Athletic
+27/04/1911,1 - 0,Bradford City,Middlesbrough
+24/04/1911,0 - 0,Blackburn Rovers,Aston Villa
+22/04/1911,2 - 0,Arsenal,Preston North End
+22/04/1911,4 - 2,Aston Villa,Manchester United
+22/04/1911,3 - 0,Blackburn Rovers,Tottenham Hotspur
+22/04/1911,1 - 1,Everton,Sheffield Wednesday
+22/04/1911,1 - 2,Manchester City,Bristol City
+22/04/1911,0 - 0,Oldham Athletic,Bury
+22/04/1911,1 - 1,Sunderland,Notts County
+18/04/1911,1 - 0,Notts County,Middlesbrough
+17/04/1911,0 - 1,Bradford City,Notts County
+17/04/1911,1 - 1,Liverpool,Arsenal
+17/04/1911,3 - 0,Oldham Athletic,Sheffield United
+17/04/1911,0 - 0,Sheffield Wednesday,Manchester United
+17/04/1911,0 - 1,Tottenham Hotspur,Everton
+15/04/1911,5 - 1,Bristol City,Nottingham Forest
+15/04/1911,2 - 0,Liverpool,Bury
+15/04/1911,1 - 1,Manchester United,Sheffield United
+15/04/1911,1 - 1,Middlesbrough,Arsenal
+15/04/1911,2 - 2,Newcastle United,Blackburn Rovers
+15/04/1911,1 - 2,Notts County,Aston Villa
+15/04/1911,2 - 0,Oldham Athletic,Everton
+15/04/1911,0 - 2,Preston North End,Sunderland
+15/04/1911,4 - 1,Sheffield Wednesday,Manchester City
+15/04/1911,2 - 0,Tottenham Hotspur,Bradford City
+14/04/1911,0 - 0,Arsenal,Liverpool
+14/04/1911,3 - 0,Aston Villa,Sheffield United
+14/04/1911,0 - 0,Bury,Sunderland
+14/04/1911,2 - 1,Everton,Nottingham Forest
+14/04/1911,2 - 1,Manchester City,Middlesbrough
+14/04/1911,0 - 2,Newcastle United,Sheffield Wednesday
+14/04/1911,2 - 0,Notts County,Blackburn Rovers
+14/04/1911,1 - 0,Oldham Athletic,Bristol City
+11/04/1911,3 - 0,Bradford City,Sunderland
+08/04/1911,2 - 0,Arsenal,Tottenham Hotspur
+08/04/1911,0 - 2,Aston Villa,Preston North End
+08/04/1911,2 - 0,Blackburn Rovers,Bristol City
+08/04/1911,1 - 0,Bradford City,Newcastle United
+08/04/1911,0 - 3,Bury,Manchester United
+08/04/1911,1 - 0,Liverpool,Oldham Athletic
+08/04/1911,2 - 1,Manchester City,Everton
+08/04/1911,0 - 1,Nottingham Forest,Sheffield Wednesday
+08/04/1911,0 - 2,Sheffield United,Notts County
+08/04/1911,3 - 1,Sunderland,Middlesbrough
+06/04/1911,0 - 1,Blackburn Rovers,Everton
+05/04/1911,0 - 1,Nottingham Forest,Newcastle United
+04/04/1911,5 - 2,Bradford City,Sheffield Wednesday
+03/04/1911,0 - 0,Sheffield United,Newcastle United
+01/04/1911,0 - 2,Bristol City,Bradford City
+01/04/1911,2 - 0,Manchester United,Liverpool
+01/04/1911,0 - 1,Middlesbrough,Aston Villa
+01/04/1911,0 - 1,Newcastle United,Arsenal
+01/04/1911,1 - 0,Notts County,Bury
+01/04/1911,1 - 1,Oldham Athletic,Manchester City
+01/04/1911,1 - 1,Preston North End,Sheffield United
+01/04/1911,1 - 0,Sheffield Wednesday,Blackburn Rovers
+01/04/1911,1 - 1,Tottenham Hotspur,Sunderland
+27/03/1911,2 - 1,Aston Villa,Everton
+27/03/1911,4 - 1,Blackburn Rovers,Nottingham Forest
+27/03/1911,2 - 1,Sheffield United,Middlesbrough
+27/03/1911,2 - 0,Tottenham Hotspur,Oldham Athletic
+25/03/1911,3 - 0,Arsenal,Bristol City
+25/03/1911,1 - 0,Bury,Preston North End
+25/03/1911,2 - 1,Liverpool,Notts County
+25/03/1911,0 - 0,Manchester United,Oldham Athletic
+25/03/1911,0 - 0,Nottingham Forest,Manchester City
+18/03/1911,1 - 1,Bristol City,Sunderland
+18/03/1911,0 - 0,Everton,Bradford City
+18/03/1911,0 - 0,Manchester City,Blackburn Rovers
+18/03/1911,2 - 1,Middlesbrough,Bury
+18/03/1911,1 - 0,Newcastle United,Aston Villa
+18/03/1911,1 - 0,Notts County,Manchester United
+18/03/1911,2 - 0,Oldham Athletic,Nottingham Forest
+18/03/1911,2 - 1,Preston North End,Liverpool
+18/03/1911,0 - 0,Sheffield Wednesday,Arsenal
+18/03/1911,2 - 1,Tottenham Hotspur,Sheffield United
+15/03/1911,1 - 1,Arsenal,Aston Villa
+15/03/1911,3 - 2,Manchester United,Tottenham Hotspur
+14/03/1911,1 - 0,Bradford City,Manchester City
+11/03/1911,1 - 0,Arsenal,Everton
+11/03/1911,2 - 0,Aston Villa,Bristol City
+11/03/1911,2 - 1,Bury,Tottenham Hotspur
+11/03/1911,3 - 0,Liverpool,Middlesbrough
+11/03/1911,5 - 0,Manchester United,Preston North End
+11/03/1911,1 - 0,Notts County,Oldham Athletic
+11/03/1911,1 - 2,Sunderland,Sheffield Wednesday
+06/03/1911,3 - 0,Oldham Athletic,Arsenal
+04/03/1911,0 - 2,Bristol City,Sheffield United
+04/03/1911,2 - 2,Everton,Sunderland
+04/03/1911,1 - 1,Manchester City,Arsenal
+04/03/1911,2 - 2,Middlesbrough,Manchester United
+04/03/1911,5 - 1,Newcastle United,Bury
+04/03/1911,0 - 2,Nottingham Forest,Bradford City
+04/03/1911,2 - 0,Oldham Athletic,Blackburn Rovers
+04/03/1911,2 - 0,Preston North End,Notts County
+04/03/1911,1 - 0,Sheffield Wednesday,Aston Villa
+04/03/1911,1 - 0,Tottenham Hotspur,Liverpool
+28/02/1911,1 - 0,Bradford City,Blackburn Rovers
+27/02/1911,3 - 0,Liverpool,Newcastle United
+25/02/1911,3 - 2,Arsenal,Nottingham Forest
+25/02/1911,4 - 0,Aston Villa,Tottenham Hotspur
+25/02/1911,2 - 1,Bury,Bristol City
+25/02/1911,1 - 1,Preston North End,Oldham Athletic
+25/02/1911,0 - 1,Sheffield United,Sheffield Wednesday
+25/02/1911,4 - 0,Sunderland,Manchester City
+18/02/1911,1 - 0,Blackburn Rovers,Arsenal
+18/02/1911,1 - 1,Bristol City,Liverpool
+18/02/1911,1 - 0,Everton,Sheffield United
+18/02/1911,1 - 1,Manchester City,Aston Villa
+18/02/1911,2 - 0,Middlesbrough,Preston North End
+18/02/1911,0 - 1,Newcastle United,Manchester United
+18/02/1911,1 - 3,Nottingham Forest,Sunderland
+18/02/1911,1 - 0,Oldham Athletic,Bradford City
+18/02/1911,1 - 0,Sheffield Wednesday,Bury
+18/02/1911,3 - 0,Tottenham Hotspur,Notts County
+13/02/1911,6 - 2,Tottenham Hotspur,Middlesbrough
+11/02/1911,0 - 0,Arsenal,Bradford City
+11/02/1911,3 - 1,Aston Villa,Nottingham Forest
+11/02/1911,0 - 0,Bury,Everton
+11/02/1911,3 - 0,Liverpool,Sheffield Wednesday
+11/02/1911,3 - 1,Manchester United,Bristol City
+11/02/1911,1 - 2,Middlesbrough,Oldham Athletic
+11/02/1911,2 - 2,Notts County,Newcastle United
+11/02/1911,2 - 0,Preston North End,Tottenham Hotspur
+11/02/1911,2 - 2,Sheffield United,Manchester City
+11/02/1911,2 - 2,Sunderland,Blackburn Rovers
+04/02/1911,1 - 0,Bristol City,Notts County
+04/02/1911,1 - 2,Nottingham Forest,Sheffield United
+04/02/1911,4 - 1,Sunderland,Bury
+28/01/1911,4 - 1,Aston Villa,Bradford City
+28/01/1911,1 - 0,Bury,Nottingham Forest
+28/01/1911,1 - 1,Liverpool,Manchester City
+28/01/1911,2 - 2,Manchester United,Everton
+28/01/1911,0 - 2,Middlesbrough,Newcastle United
+28/01/1911,2 - 0,Notts County,Sheffield Wednesday
+28/01/1911,4 - 0,Preston North End,Bristol City
+28/01/1911,1 - 1,Sheffield United,Blackburn Rovers
+28/01/1911,2 - 2,Sunderland,Arsenal
+21/01/1911,6 - 2,Blackburn Rovers,Bury
+21/01/1911,0 - 1,Bradford City,Sheffield United
+21/01/1911,3 - 2,Bristol City,Middlesbrough
+21/01/1911,5 - 0,Everton,Notts County
+21/01/1911,1 - 1,Manchester City,Manchester United
+21/01/1911,1 - 1,Newcastle United,Tottenham Hotspur
+21/01/1911,2 - 0,Nottingham Forest,Liverpool
+21/01/1911,2 - 1,Oldham Athletic,Sunderland
+21/01/1911,0 - 0,Sheffield Wednesday,Preston North End
+07/01/1911,2 - 1,Aston Villa,Sunderland
+07/01/1911,0 - 1,Bury,Bradford City
+07/01/1911,2 - 2,Liverpool,Blackburn Rovers
+07/01/1911,4 - 2,Manchester United,Nottingham Forest
+07/01/1911,0 - 1,Middlesbrough,Sheffield Wednesday
+07/01/1911,3 - 0,Newcastle United,Oldham Athletic
+07/01/1911,0 - 1,Notts County,Manchester City
+07/01/1911,0 - 2,Preston North End,Everton
+07/01/1911,3 - 2,Sheffield United,Arsenal
+07/01/1911,3 - 2,Tottenham Hotspur,Bristol City
+03/01/1911,2 - 1,Manchester City,Tottenham Hotspur
+03/01/1911,1 - 1,Newcastle United,Preston North End
+02/01/1911,0 - 1,Blackburn Rovers,Preston North End
+02/01/1911,1 - 0,Bury,Aston Villa
+02/01/1911,1 - 5,Everton,Newcastle United
+02/01/1911,1 - 0,Manchester United,Bradford City
+02/01/1911,2 - 2,Middlesbrough,Nottingham Forest
+02/01/1911,2 - 1,Sheffield Wednesday,Bristol City
+02/01/1911,4 - 0,Sunderland,Liverpool
+31/12/1910,3 - 2,Arsenal,Bury
+31/12/1910,1 - 0,Blackburn Rovers,Manchester United
+31/12/1910,1 - 3,Bradford City,Liverpool
+31/12/1910,1 - 0,Bristol City,Newcastle United
+31/12/1910,2 - 0,Everton,Middlesbrough
+31/12/1910,0 - 2,Manchester City,Preston North End
+31/12/1910,0 - 2,Nottingham Forest,Notts County
+31/12/1910,1 - 1,Oldham Athletic,Aston Villa
+31/12/1910,2 - 1,Sheffield Wednesday,Tottenham Hotspur
+31/12/1910,0 - 2,Sunderland,Sheffield United
+28/12/1910,2 - 1,Sheffield United,Aston Villa
+27/12/1910,1 - 0,Bradford City,Manchester United
+27/12/1910,3 - 2,Bristol City,Oldham Athletic
+27/12/1910,0 - 1,Everton,Liverpool
+27/12/1910,1 - 1,Nottingham Forest,Middlesbrough
+27/12/1910,0 - 2,Sheffield Wednesday,Newcastle United
+27/12/1910,1 - 1,Tottenham Hotspur,Manchester City
+26/12/1910,4 - 1,Aston Villa,Bury
+26/12/1910,2 - 2,Bristol City,Sheffield Wednesday
+26/12/1910,1 - 2,Liverpool,Sunderland
+26/12/1910,5 - 0,Manchester United,Arsenal
+26/12/1910,0 - 0,Middlesbrough,Manchester City
+26/12/1910,1 - 0,Newcastle United,Everton
+26/12/1910,1 - 1,Notts County,Bradford City
+26/12/1910,0 - 0,Preston North End,Blackburn Rovers
+26/12/1910,1 - 2,Sheffield United,Oldham Athletic
+26/12/1910,1 - 4,Tottenham Hotspur,Nottingham Forest
+24/12/1910,2 - 1,Arsenal,Notts County
+24/12/1910,1 - 1,Aston Villa,Liverpool
+24/12/1910,5 - 1,Blackburn Rovers,Middlesbrough
+24/12/1910,1 - 0,Bradford City,Preston North End
+24/12/1910,4 - 3,Everton,Bristol City
+24/12/1910,2 - 0,Manchester City,Newcastle United
+24/12/1910,1 - 2,Nottingham Forest,Tottenham Hotspur
+24/12/1910,1 - 0,Oldham Athletic,Sheffield Wednesday
+24/12/1910,3 - 0,Sheffield United,Bury
+24/12/1910,1 - 2,Sunderland,Manchester United
+17/12/1910,2 - 1,Bristol City,Manchester City
+17/12/1910,2 - 2,Bury,Oldham Athletic
+17/12/1910,2 - 0,Liverpool,Sheffield United
+17/12/1910,2 - 0,Manchester United,Aston Villa
+17/12/1910,3 - 2,Middlesbrough,Bradford City
+17/12/1910,4 - 1,Newcastle United,Nottingham Forest
+17/12/1910,1 - 1,Notts County,Sunderland
+17/12/1910,4 - 1,Preston North End,Arsenal
+17/12/1910,0 - 2,Sheffield Wednesday,Everton
+17/12/1910,2 - 2,Tottenham Hotspur,Blackburn Rovers
+10/12/1910,0 - 2,Arsenal,Middlesbrough
+10/12/1910,3 - 1,Aston Villa,Notts County
+10/12/1910,3 - 1,Blackburn Rovers,Newcastle United
+10/12/1910,3 - 0,Bradford City,Tottenham Hotspur
+10/12/1910,3 - 0,Bury,Liverpool
+10/12/1910,1 - 0,Everton,Oldham Athletic
+10/12/1910,1 - 2,Manchester City,Sheffield Wednesday
+10/12/1910,3 - 3,Nottingham Forest,Bristol City
+10/12/1910,2 - 0,Sheffield United,Manchester United
+10/12/1910,1 - 1,Sunderland,Preston North End
+03/12/1910,1 - 0,Bristol City,Blackburn Rovers
+03/12/1910,1 - 0,Everton,Manchester City
+03/12/1910,3 - 2,Manchester United,Bury
+03/12/1910,1 - 0,Middlesbrough,Sunderland
+03/12/1910,6 - 1,Newcastle United,Bradford City
+03/12/1910,0 - 3,Notts County,Sheffield United
+03/12/1910,3 - 1,Oldham Athletic,Liverpool
+03/12/1910,0 - 1,Preston North End,Aston Villa
+03/12/1910,5 - 2,Sheffield Wednesday,Nottingham Forest
+03/12/1910,3 - 1,Tottenham Hotspur,Arsenal
+26/11/1910,1 - 2,Arsenal,Newcastle United
+26/11/1910,5 - 0,Aston Villa,Middlesbrough
+26/11/1910,6 - 1,Blackburn Rovers,Sheffield Wednesday
+26/11/1910,3 - 1,Bradford City,Bristol City
+26/11/1910,0 - 0,Bury,Notts County
+26/11/1910,3 - 2,Liverpool,Manchester United
+26/11/1910,2 - 0,Manchester City,Oldham Athletic
+26/11/1910,1 - 1,Nottingham Forest,Everton
+26/11/1910,5 - 0,Sheffield United,Preston North End
+26/11/1910,4 - 0,Sunderland,Tottenham Hotspur
+19/11/1910,0 - 1,Bristol City,Arsenal
+19/11/1910,6 - 1,Everton,Blackburn Rovers
+19/11/1910,1 - 0,Manchester City,Nottingham Forest
+19/11/1910,3 - 1,Middlesbrough,Sheffield United
+19/11/1910,1 - 1,Newcastle United,Sunderland
+19/11/1910,1 - 0,Notts County,Liverpool
+19/11/1910,1 - 3,Oldham Athletic,Manchester United
+19/11/1910,2 - 0,Preston North End,Bury
+19/11/1910,0 - 1,Sheffield Wednesday,Bradford City
+19/11/1910,1 - 2,Tottenham Hotspur,Aston Villa
+12/11/1910,1 - 0,Arsenal,Sheffield Wednesday
+12/11/1910,3 - 2,Aston Villa,Newcastle United
+12/11/1910,2 - 0,Blackburn Rovers,Manchester City
+12/11/1910,3 - 1,Bradford City,Everton
+12/11/1910,4 - 2,Bury,Middlesbrough
+12/11/1910,3 - 0,Liverpool,Preston North End
+12/11/1910,0 - 0,Manchester United,Notts County
+12/11/1910,4 - 1,Nottingham Forest,Oldham Athletic
+12/11/1910,3 - 0,Sheffield United,Tottenham Hotspur
+12/11/1910,3 - 1,Sunderland,Bristol City
+05/11/1910,1 - 2,Bristol City,Aston Villa
+05/11/1910,2 - 0,Everton,Arsenal
+05/11/1910,1 - 3,Manchester City,Bradford City
+05/11/1910,2 - 2,Middlesbrough,Liverpool
+05/11/1910,1 - 1,Newcastle United,Sheffield United
+05/11/1910,5 - 2,Nottingham Forest,Blackburn Rovers
+05/11/1910,2 - 1,Oldham Athletic,Notts County
+05/11/1910,0 - 2,Preston North End,Manchester United
+05/11/1910,1 - 1,Sheffield Wednesday,Sunderland
+05/11/1910,5 - 0,Tottenham Hotspur,Bury
+29/10/1910,0 - 1,Arsenal,Manchester City
+29/10/1910,2 - 1,Aston Villa,Sheffield Wednesday
+29/10/1910,1 - 0,Blackburn Rovers,Oldham Athletic
+29/10/1910,2 - 1,Bradford City,Nottingham Forest
+29/10/1910,1 - 1,Bury,Newcastle United
+29/10/1910,1 - 2,Liverpool,Tottenham Hotspur
+29/10/1910,1 - 2,Manchester United,Middlesbrough
+29/10/1910,3 - 3,Notts County,Preston North End
+29/10/1910,0 - 4,Sheffield United,Bristol City
+29/10/1910,4 - 0,Sunderland,Everton
+22/10/1910,3 - 0,Blackburn Rovers,Bradford City
+22/10/1910,2 - 0,Bristol City,Bury
+22/10/1910,0 - 1,Everton,Aston Villa
+22/10/1910,3 - 3,Manchester City,Sunderland
+22/10/1910,4 - 1,Middlesbrough,Notts County
+22/10/1910,6 - 1,Newcastle United,Liverpool
+22/10/1910,2 - 3,Nottingham Forest,Arsenal
+22/10/1910,2 - 1,Oldham Athletic,Preston North End
+22/10/1910,2 - 0,Sheffield Wednesday,Sheffield United
+22/10/1910,2 - 2,Tottenham Hotspur,Manchester United
+15/10/1910,4 - 1,Arsenal,Blackburn Rovers
+15/10/1910,2 - 1,Aston Villa,Manchester City
+15/10/1910,1 - 2,Bradford City,Oldham Athletic
+15/10/1910,1 - 1,Bury,Sheffield Wednesday
+15/10/1910,4 - 0,Liverpool,Bristol City
+15/10/1910,2 - 0,Manchester United,Newcastle United
+15/10/1910,1 - 0,Notts County,Tottenham Hotspur
+15/10/1910,1 - 1,Preston North End,Middlesbrough
+15/10/1910,0 - 1,Sheffield United,Everton
+15/10/1910,2 - 2,Sunderland,Nottingham Forest
+08/10/1910,0 - 1,Blackburn Rovers,Sunderland
+08/10/1910,3 - 0,Bradford City,Arsenal
+08/10/1910,0 - 1,Bristol City,Manchester United
+08/10/1910,2 - 1,Everton,Bury
+08/10/1910,0 - 4,Manchester City,Sheffield United
+08/10/1910,2 - 0,Newcastle United,Notts County
+08/10/1910,3 - 1,Nottingham Forest,Aston Villa
+08/10/1910,1 - 1,Oldham Athletic,Middlesbrough
+08/10/1910,1 - 0,Sheffield Wednesday,Liverpool
+08/10/1910,1 - 1,Tottenham Hotspur,Preston North End
+06/10/1910,1 - 3,Nottingham Forest,Preston North End
+01/10/1910,0 - 0,Arsenal,Oldham Athletic
+01/10/1910,2 - 2,Aston Villa,Blackburn Rovers
+01/10/1910,5 - 2,Bury,Manchester City
+01/10/1910,0 - 2,Liverpool,Everton
+01/10/1910,3 - 2,Manchester United,Sheffield Wednesday
+01/10/1910,2 - 0,Middlesbrough,Tottenham Hotspur
+01/10/1910,2 - 0,Notts County,Bristol City
+01/10/1910,2 - 1,Preston North End,Newcastle United
+01/10/1910,0 - 1,Sheffield United,Nottingham Forest
+01/10/1910,1 - 1,Sunderland,Bradford City
+24/09/1910,0 - 0,Arsenal,Sunderland
+24/09/1910,1 - 2,Blackburn Rovers,Sheffield United
+24/09/1910,1 - 2,Bradford City,Aston Villa
+24/09/1910,0 - 0,Bristol City,Preston North End
+24/09/1910,0 - 1,Everton,Manchester United
+24/09/1910,1 - 2,Manchester City,Liverpool
+24/09/1910,0 - 0,Newcastle United,Middlesbrough
+24/09/1910,1 - 2,Nottingham Forest,Bury
+24/09/1910,2 - 0,Oldham Athletic,Tottenham Hotspur
+24/09/1910,1 - 3,Sheffield Wednesday,Notts County
+19/09/1910,2 - 0,Sheffield United,Liverpool
+17/09/1910,3 - 0,Aston Villa,Arsenal
+17/09/1910,2 - 2,Bury,Blackburn Rovers
+17/09/1910,2 - 3,Liverpool,Nottingham Forest
+17/09/1910,2 - 1,Manchester United,Manchester City
+17/09/1910,3 - 0,Middlesbrough,Bristol City
+17/09/1910,0 - 0,Notts County,Everton
+17/09/1910,1 - 3,Preston North End,Sheffield Wednesday
+17/09/1910,0 - 1,Sheffield United,Bradford City
+17/09/1910,2 - 1,Sunderland,Oldham Athletic
+17/09/1910,1 - 2,Tottenham Hotspur,Newcastle United
+10/09/1910,0 - 0,Arsenal,Sheffield United
+10/09/1910,1 - 2,Blackburn Rovers,Liverpool
+10/09/1910,2 - 2,Bradford City,Bury
+10/09/1910,0 - 2,Bristol City,Tottenham Hotspur
+10/09/1910,2 - 0,Everton,Preston North End
+10/09/1910,0 - 1,Manchester City,Notts County
+10/09/1910,2 - 1,Nottingham Forest,Manchester United
+10/09/1910,0 - 2,Oldham Athletic,Newcastle United
+10/09/1910,1 - 1,Sheffield Wednesday,Middlesbrough
+10/09/1910,3 - 2,Sunderland,Aston Villa
+03/09/1910,1 - 1,Aston Villa,Oldham Athletic
+03/09/1910,1 - 1,Bury,Arsenal
+03/09/1910,1 - 2,Liverpool,Bradford City
+03/09/1910,3 - 2,Manchester United,Blackburn Rovers
+03/09/1910,1 - 0,Middlesbrough,Everton
+03/09/1910,0 - 1,Newcastle United,Bristol City
+03/09/1910,1 - 1,Notts County,Nottingham Forest
+03/09/1910,1 - 1,Preston North End,Manchester City
+03/09/1910,1 - 2,Sheffield United,Sunderland
+03/09/1910,3 - 1,Tottenham Hotspur,Sheffield Wednesday
+01/09/1910,1 - 2,Arsenal,Manchester United
+01/09/1910,1 - 1,Blackburn Rovers,Notts County
+01/09/1910,2 - 0,Everton,Tottenham Hotspur
+01/09/1910,5 - 1,Manchester City,Bury
+01/09/1910,0 - 2,Preston North End,Nottingham Forest
+01/09/1910,2 - 1,Sunderland,Newcastle United

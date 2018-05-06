@@ -1,0 +1,381 @@
+date,score,home_team,away_team
+18/05/2008,2 - 0,Atalanta,Genoa
+18/05/2008,2 - 2,Cagliari,Reggina
+18/05/2008,1 - 1,Catania,Roma
+18/05/2008,2 - 1,Empoli,Livorno
+18/05/2008,2 - 1,Lazio,Napoli
+18/05/2008,4 - 1,Milan,Udinese
+18/05/2008,0 - 2,Parma,Internazionale
+18/05/2008,2 - 2,Robur Siena,Palermo
+18/05/2008,0 - 1,Torino,Fiorentina
+17/05/2008,3 - 3,Sampdoria,Juventus
+11/05/2008,3 - 1,Fiorentina,Parma
+11/05/2008,0 - 2,Genoa,Lazio
+11/05/2008,2 - 2,Internazionale,Robur Siena
+11/05/2008,1 - 1,Juventus,Catania
+11/05/2008,0 - 1,Livorno,Torino
+11/05/2008,3 - 1,Napoli,Milan
+11/05/2008,0 - 2,Palermo,Sampdoria
+11/05/2008,2 - 0,Reggina,Empoli
+11/05/2008,2 - 1,Roma,Atalanta
+11/05/2008,0 - 2,Udinese,Cagliari
+04/05/2008,3 - 2,Atalanta,Livorno
+04/05/2008,2 - 1,Cagliari,Fiorentina
+04/05/2008,1 - 2,Catania,Reggina
+04/05/2008,0 - 1,Empoli,Udinese
+04/05/2008,1 - 2,Lazio,Palermo
+04/05/2008,2 - 1,Milan,Internazionale
+04/05/2008,1 - 0,Parma,Genoa
+04/05/2008,1 - 0,Robur Siena,Juventus
+04/05/2008,0 - 3,Sampdoria,Roma
+04/05/2008,2 - 1,Torino,Napoli
+27/04/2008,2 - 2,Fiorentina,Sampdoria
+27/04/2008,0 - 1,Genoa,Empoli
+27/04/2008,2 - 1,Internazionale,Cagliari
+27/04/2008,5 - 2,Juventus,Lazio
+27/04/2008,1 - 4,Livorno,Milan
+27/04/2008,0 - 0,Napoli,Robur Siena
+27/04/2008,0 - 0,Palermo,Atalanta
+27/04/2008,2 - 1,Reggina,Parma
+27/04/2008,4 - 1,Roma,Torino
+27/04/2008,2 - 1,Udinese,Catania
+20/04/2008,0 - 1,Torino,Internazionale
+20/04/2008,0 - 4,Atalanta,Juventus
+20/04/2008,2 - 0,Cagliari,Empoli
+20/04/2008,1 - 0,Catania,Lazio
+20/04/2008,5 - 1,Milan,Reggina
+20/04/2008,1 - 2,Parma,Napoli
+20/04/2008,0 - 1,Robur Siena,Genoa
+20/04/2008,3 - 0,Sampdoria,Udinese
+19/04/2008,1 - 0,Fiorentina,Palermo
+19/04/2008,1 - 1,Roma,Livorno
+16/04/2008,3 - 0,Juventus,Parma
+13/04/2008,2 - 0,Internazionale,Fiorentina
+13/04/2008,1 - 1,Empoli,Parma
+13/04/2008,3 - 0,Genoa,Torino
+13/04/2008,1 - 1,Lazio,Robur Siena
+13/04/2008,1 - 2,Livorno,Cagliari
+13/04/2008,2 - 0,Napoli,Atalanta
+13/04/2008,1 - 0,Reggina,Sampdoria
+13/04/2008,1 - 3,Udinese,Roma
+12/04/2008,3 - 2,Juventus,Milan
+12/04/2008,1 - 0,Palermo,Catania
+06/04/2008,3 - 2,Palermo,Juventus
+06/04/2008,0 - 2,Atalanta,Internazionale
+06/04/2008,3 - 0,Catania,Napoli
+06/04/2008,2 - 0,Fiorentina,Reggina
+06/04/2008,2 - 2,Parma,Lazio
+06/04/2008,1 - 1,Robur Siena,Udinese
+06/04/2008,2 - 0,Sampdoria,Livorno
+06/04/2008,0 - 1,Torino,Empoli
+05/04/2008,3 - 1,Milan,Cagliari
+05/04/2008,3 - 2,Roma,Genoa
+30/03/2008,1 - 0,Napoli,Palermo
+30/03/2008,1 - 2,Catania,Torino
+30/03/2008,0 - 2,Empoli,Sampdoria
+30/03/2008,2 - 0,Genoa,Reggina
+30/03/2008,0 - 0,Livorno,Robur Siena
+30/03/2008,1 - 2,Milan,Atalanta
+30/03/2008,3 - 1,Udinese,Fiorentina
+29/03/2008,1 - 1,Lazio,Internazionale
+29/03/2008,1 - 1,Cagliari,Roma
+22/03/2008,1 - 2,Internazionale,Juventus
+22/03/2008,0 - 0,Atalanta,Catania
+22/03/2008,1 - 0,Fiorentina,Lazio
+22/03/2008,2 - 3,Palermo,Genoa
+22/03/2008,1 - 1,Reggina,Napoli
+22/03/2008,2 - 0,Robur Siena,Parma
+22/03/2008,2 - 1,Roma,Empoli
+22/03/2008,1 - 1,Sampdoria,Cagliari
+22/03/2008,0 - 1,Torino,Milan
+22/03/2008,2 - 0,Udinese,Livorno
+19/03/2008,3 - 2,Lazio,Roma
+19/03/2008,1 - 0,Cagliari,Atalanta
+19/03/2008,0 - 0,Catania,Robur Siena
+19/03/2008,0 - 0,Empoli,Juventus
+19/03/2008,1 - 1,Genoa,Internazionale
+19/03/2008,1 - 1,Livorno,Reggina
+19/03/2008,1 - 2,Milan,Sampdoria
+19/03/2008,2 - 0,Napoli,Fiorentina
+19/03/2008,2 - 1,Parma,Palermo
+19/03/2008,0 - 1,Torino,Udinese
+16/03/2008,1 - 0,Juventus,Napoli
+16/03/2008,4 - 1,Atalanta,Empoli
+16/03/2008,3 - 0,Cagliari,Torino
+16/03/2008,3 - 1,Fiorentina,Genoa
+16/03/2008,2 - 1,Internazionale,Palermo
+16/03/2008,1 - 1,Livorno,Parma
+16/03/2008,4 - 0,Reggina,Robur Siena
+16/03/2008,3 - 1,Sampdoria,Catania
+15/03/2008,2 - 1,Roma,Milan
+15/03/2008,2 - 2,Udinese,Lazio
+09/03/2008,0 - 2,Genoa,Juventus
+09/03/2008,2 - 1,Catania,Cagliari
+09/03/2008,1 - 3,Empoli,Milan
+09/03/2008,2 - 0,Lazio,Livorno
+09/03/2008,0 - 2,Napoli,Roma
+09/03/2008,1 - 2,Parma,Sampdoria
+09/03/2008,1 - 0,Robur Siena,Fiorentina
+09/03/2008,1 - 0,Torino,Atalanta
+08/03/2008,1 - 1,Palermo,Udinese
+08/03/2008,2 - 0,Internazionale,Reggina
+02/03/2008,1 - 0,Napoli,Internazionale
+02/03/2008,2 - 1,Cagliari,Genoa
+02/03/2008,0 - 2,Empoli,Robur Siena
+02/03/2008,2 - 3,Juventus,Fiorentina
+02/03/2008,1 - 0,Livorno,Catania
+02/03/2008,0 - 0,Reggina,Palermo
+02/03/2008,2 - 2,Sampdoria,Torino
+02/03/2008,2 - 0,Udinese,Atalanta
+01/03/2008,1 - 1,Milan,Lazio
+01/03/2008,4 - 0,Roma,Parma
+27/02/2008,4 - 1,Atalanta,Sampdoria
+27/02/2008,1 - 1,Catania,Milan
+27/02/2008,1 - 0,Fiorentina,Livorno
+27/02/2008,2 - 0,Genoa,Napoli
+27/02/2008,1 - 1,Internazionale,Roma
+27/02/2008,1 - 0,Lazio,Reggina
+27/02/2008,2 - 0,Palermo,Empoli
+27/02/2008,2 - 0,Parma,Udinese
+27/02/2008,1 - 0,Robur Siena,Cagliari
+26/02/2008,0 - 0,Juventus,Torino
+24/02/2008,2 - 1,Milan,Palermo
+24/02/2008,2 - 2,Atalanta,Robur Siena
+24/02/2008,1 - 0,Cagliari,Lazio
+24/02/2008,2 - 0,Empoli,Catania
+24/02/2008,1 - 2,Livorno,Napoli
+24/02/2008,1 - 0,Roma,Fiorentina
+24/02/2008,1 - 1,Sampdoria,Internazionale
+24/02/2008,3 - 5,Udinese,Genoa
+23/02/2008,2 - 1,Reggina,Juventus
+23/02/2008,4 - 4,Torino,Parma
+17/02/2008,2 - 1,Fiorentina,Catania
+17/02/2008,0 - 1,Genoa,Sampdoria
+17/02/2008,3 - 0,Lazio,Atalanta
+17/02/2008,1 - 3,Napoli,Empoli
+17/02/2008,2 - 1,Palermo,Cagliari
+17/02/2008,1 - 3,Reggina,Udinese
+17/02/2008,0 - 0,Robur Siena,Torino
+16/02/2008,1 - 0,Juventus,Roma
+16/02/2008,0 - 0,Parma,Milan
+16/02/2008,2 - 0,Internazionale,Livorno
+13/02/2008,1 - 1,Milan,Livorno
+10/02/2008,0 - 2,Catania,Internazionale
+10/02/2008,1 - 1,Cagliari,Parma
+10/02/2008,1 - 0,Empoli,Lazio
+10/02/2008,1 - 1,Livorno,Genoa
+10/02/2008,1 - 0,Milan,Robur Siena
+10/02/2008,2 - 0,Sampdoria,Napoli
+10/02/2008,3 - 1,Torino,Palermo
+10/02/2008,1 - 2,Udinese,Juventus
+09/02/2008,2 - 0,Roma,Reggina
+09/02/2008,2 - 2,Atalanta,Fiorentina
+03/02/2008,0 - 1,Fiorentina,Milan
+03/02/2008,2 - 1,Genoa,Catania
+03/02/2008,1 - 0,Internazionale,Empoli
+03/02/2008,1 - 1,Juventus,Cagliari
+03/02/2008,2 - 1,Lazio,Sampdoria
+03/02/2008,2 - 3,Parma,Atalanta
+03/02/2008,1 - 3,Reggina,Torino
+03/02/2008,3 - 0,Robur Siena,Roma
+02/02/2008,3 - 1,Napoli,Udinese
+02/02/2008,1 - 0,Palermo,Livorno
+30/01/2008,0 - 1,Reggina,Milan
+27/01/2008,1 - 3,Livorno,Juventus
+27/01/2008,2 - 2,Atalanta,Reggina
+27/01/2008,2 - 1,Cagliari,Napoli
+27/01/2008,0 - 0,Catania,Parma
+27/01/2008,0 - 2,Empoli,Fiorentina
+27/01/2008,2 - 0,Milan,Genoa
+27/01/2008,0 - 0,Torino,Lazio
+27/01/2008,0 - 0,Udinese,Internazionale
+26/01/2008,1 - 0,Roma,Palermo
+26/01/2008,1 - 0,Sampdoria,Robur Siena
+23/01/2008,2 - 1,Atalanta,Milan
+20/01/2008,3 - 2,Internazionale,Parma
+20/01/2008,0 - 0,Juventus,Sampdoria
+20/01/2008,1 - 0,Livorno,Empoli
+20/01/2008,2 - 2,Napoli,Lazio
+20/01/2008,2 - 3,Palermo,Robur Siena
+20/01/2008,2 - 0,Reggina,Cagliari
+20/01/2008,2 - 0,Roma,Catania
+20/01/2008,0 - 1,Udinese,Milan
+19/01/2008,2 - 1,Fiorentina,Torino
+19/01/2008,2 - 1,Genoa,Atalanta
+13/01/2008,5 - 2,Milan,Napoli
+13/01/2008,1 - 2,Atalanta,Roma
+13/01/2008,0 - 1,Cagliari,Udinese
+13/01/2008,1 - 2,Lazio,Genoa
+13/01/2008,1 - 2,Parma,Fiorentina
+13/01/2008,2 - 3,Robur Siena,Internazionale
+13/01/2008,3 - 0,Sampdoria,Palermo
+13/01/2008,1 - 2,Torino,Livorno
+12/01/2008,1 - 1,Catania,Juventus
+12/01/2008,1 - 1,Empoli,Reggina
+23/12/2007,5 - 1,Fiorentina,Cagliari
+23/12/2007,2 - 1,Internazionale,Milan
+23/12/2007,2 - 0,Juventus,Robur Siena
+23/12/2007,1 - 1,Livorno,Atalanta
+23/12/2007,1 - 1,Napoli,Torino
+23/12/2007,2 - 2,Palermo,Lazio
+23/12/2007,3 - 1,Reggina,Catania
+23/12/2007,2 - 2,Udinese,Empoli
+22/12/2007,2 - 0,Roma,Sampdoria
+22/12/2007,1 - 0,Genoa,Parma
+16/12/2007,0 - 2,Cagliari,Internazionale
+16/12/2007,1 - 3,Atalanta,Palermo
+16/12/2007,1 - 1,Empoli,Genoa
+16/12/2007,3 - 0,Parma,Reggina
+16/12/2007,1 - 1,Robur Siena,Napoli
+16/12/2007,2 - 2,Sampdoria,Fiorentina
+16/12/2007,0 - 0,Torino,Roma
+15/12/2007,2 - 3,Lazio,Juventus
+15/12/2007,2 - 0,Catania,Udinese
+09/12/2007,1 - 0,Napoli,Parma
+09/12/2007,4 - 1,Empoli,Cagliari
+09/12/2007,1 - 3,Genoa,Robur Siena
+09/12/2007,4 - 0,Internazionale,Torino
+09/12/2007,1 - 0,Juventus,Atalanta
+09/12/2007,1 - 1,Livorno,Roma
+09/12/2007,3 - 2,Udinese,Sampdoria
+08/12/2007,2 - 0,Palermo,Fiorentina
+08/12/2007,2 - 0,Lazio,Catania
+05/12/2007,3 - 0,Internazionale,Lazio
+05/12/2007,2 - 0,Roma,Cagliari
+02/12/2007,1 - 1,Torino,Genoa
+02/12/2007,5 - 1,Atalanta,Napoli
+02/12/2007,0 - 0,Cagliari,Livorno
+02/12/2007,3 - 1,Catania,Palermo
+02/12/2007,0 - 2,Fiorentina,Internazionale
+02/12/2007,1 - 0,Parma,Empoli
+02/12/2007,1 - 1,Robur Siena,Lazio
+02/12/2007,2 - 1,Roma,Udinese
+01/12/2007,0 - 0,Milan,Juventus
+01/12/2007,3 - 0,Sampdoria,Reggina
+25/11/2007,5 - 0,Juventus,Palermo
+25/11/2007,1 - 2,Cagliari,Milan
+25/11/2007,0 - 0,Empoli,Torino
+25/11/2007,1 - 0,Lazio,Parma
+25/11/2007,3 - 1,Livorno,Sampdoria
+25/11/2007,2 - 0,Napoli,Catania
+25/11/2007,0 - 0,Reggina,Fiorentina
+25/11/2007,2 - 0,Udinese,Robur Siena
+24/11/2007,2 - 1,Internazionale,Atalanta
+24/11/2007,0 - 1,Genoa,Roma
+11/11/2007,1 - 2,Fiorentina,Udinese
+11/11/2007,2 - 2,Parma,Juventus
+11/11/2007,2 - 0,Reggina,Genoa
+11/11/2007,2 - 3,Robur Siena,Livorno
+11/11/2007,1 - 1,Torino,Catania
+10/11/2007,2 - 1,Palermo,Napoli
+10/11/2007,3 - 0,Sampdoria,Empoli
+04/11/2007,1 - 1,Juventus,Internazionale
+04/11/2007,0 - 3,Cagliari,Sampdoria
+04/11/2007,1 - 2,Catania,Atalanta
+04/11/2007,2 - 2,Empoli,Roma
+04/11/2007,3 - 3,Genoa,Palermo
+04/11/2007,0 - 0,Livorno,Udinese
+04/11/2007,1 - 1,Napoli,Reggina
+04/11/2007,2 - 2,Parma,Robur Siena
+03/11/2007,0 - 0,Milan,Torino
+03/11/2007,0 - 1,Lazio,Fiorentina
+31/10/2007,2 - 2,Atalanta,Cagliari
+31/10/2007,1 - 0,Fiorentina,Napoli
+31/10/2007,4 - 1,Internazionale,Genoa
+31/10/2007,3 - 0,Juventus,Empoli
+31/10/2007,1 - 1,Palermo,Parma
+31/10/2007,1 - 3,Reggina,Livorno
+31/10/2007,1 - 1,Robur Siena,Catania
+31/10/2007,3 - 2,Roma,Lazio
+31/10/2007,0 - 5,Sampdoria,Milan
+31/10/2007,2 - 1,Udinese,Torino
+28/10/2007,0 - 0,Genoa,Fiorentina
+28/10/2007,2 - 0,Catania,Sampdoria
+28/10/2007,0 - 1,Empoli,Atalanta
+28/10/2007,0 - 1,Lazio,Udinese
+28/10/2007,0 - 1,Milan,Roma
+28/10/2007,0 - 0,Palermo,Internazionale
+28/10/2007,3 - 2,Parma,Livorno
+28/10/2007,0 - 0,Robur Siena,Reggina
+27/10/2007,3 - 1,Napoli,Juventus
+27/10/2007,2 - 0,Torino,Cagliari
+21/10/2007,1 - 0,Juventus,Genoa
+21/10/2007,2 - 2,Atalanta,Torino
+21/10/2007,1 - 1,Cagliari,Catania
+21/10/2007,3 - 0,Fiorentina,Robur Siena
+21/10/2007,0 - 1,Livorno,Lazio
+21/10/2007,0 - 1,Milan,Empoli
+21/10/2007,3 - 0,Sampdoria,Parma
+21/10/2007,1 - 1,Udinese,Palermo
+20/10/2007,0 - 1,Reggina,Internazionale
+20/10/2007,4 - 4,Roma,Napoli
+07/10/2007,1 - 5,Lazio,Milan
+07/10/2007,1 - 0,Catania,Livorno
+07/10/2007,1 - 1,Fiorentina,Juventus
+07/10/2007,2 - 0,Genoa,Cagliari
+07/10/2007,1 - 1,Palermo,Reggina
+07/10/2007,0 - 3,Parma,Roma
+07/10/2007,3 - 0,Robur Siena,Empoli
+07/10/2007,1 - 0,Torino,Sampdoria
+06/10/2007,2 - 1,Internazionale,Napoli
+06/10/2007,0 - 0,Atalanta,Udinese
+30/09/2007,0 - 1,Torino,Juventus
+30/09/2007,1 - 0,Cagliari,Robur Siena
+30/09/2007,3 - 1,Empoli,Palermo
+30/09/2007,1 - 1,Milan,Catania
+30/09/2007,1 - 2,Napoli,Genoa
+30/09/2007,1 - 1,Reggina,Lazio
+30/09/2007,3 - 0,Sampdoria,Atalanta
+30/09/2007,2 - 1,Udinese,Parma
+29/09/2007,0 - 3,Livorno,Fiorentina
+29/09/2007,1 - 4,Roma,Internazionale
+26/09/2007,1 - 0,Catania,Empoli
+26/09/2007,2 - 2,Fiorentina,Roma
+26/09/2007,3 - 2,Genoa,Udinese
+26/09/2007,3 - 0,Internazionale,Sampdoria
+26/09/2007,4 - 0,Juventus,Reggina
+26/09/2007,3 - 1,Lazio,Cagliari
+26/09/2007,1 - 0,Napoli,Livorno
+26/09/2007,2 - 1,Palermo,Milan
+26/09/2007,2 - 0,Parma,Torino
+26/09/2007,1 - 1,Robur Siena,Atalanta
+23/09/2007,0 - 0,Sampdoria,Genoa
+23/09/2007,2 - 1,Atalanta,Lazio
+23/09/2007,0 - 1,Cagliari,Palermo
+23/09/2007,0 - 1,Catania,Fiorentina
+23/09/2007,0 - 0,Empoli,Napoli
+23/09/2007,2 - 2,Livorno,Internazionale
+23/09/2007,2 - 2,Roma,Juventus
+23/09/2007,1 - 1,Torino,Robur Siena
+22/09/2007,1 - 1,Milan,Parma
+22/09/2007,2 - 0,Udinese,Reggina
+16/09/2007,1 - 1,Parma,Cagliari
+16/09/2007,2 - 2,Fiorentina,Atalanta
+16/09/2007,1 - 1,Genoa,Livorno
+16/09/2007,2 - 0,Internazionale,Catania
+16/09/2007,0 - 1,Juventus,Udinese
+16/09/2007,2 - 0,Napoli,Sampdoria
+16/09/2007,1 - 1,Palermo,Torino
+16/09/2007,0 - 2,Reggina,Roma
+15/09/2007,0 - 0,Lazio,Empoli
+15/09/2007,1 - 1,Robur Siena,Milan
+03/09/2007,1 - 1,Milan,Fiorentina
+02/09/2007,0 - 0,Sampdoria,Lazio
+02/09/2007,2 - 0,Atalanta,Parma
+02/09/2007,2 - 3,Cagliari,Juventus
+02/09/2007,0 - 0,Catania,Genoa
+02/09/2007,2 - 4,Livorno,Palermo
+02/09/2007,3 - 0,Roma,Robur Siena
+02/09/2007,2 - 2,Torino,Reggina
+02/09/2007,0 - 5,Udinese,Napoli
+01/09/2007,0 - 2,Empoli,Internazionale
+26/08/2007,0 - 2,Palermo,Roma
+26/08/2007,3 - 1,Fiorentina,Empoli
+26/08/2007,0 - 3,Genoa,Milan
+26/08/2007,1 - 1,Internazionale,Udinese
+26/08/2007,0 - 2,Napoli,Cagliari
+26/08/2007,2 - 2,Parma,Catania
+26/08/2007,1 - 1,Reggina,Atalanta
+26/08/2007,1 - 2,Robur Siena,Sampdoria
+25/08/2007,5 - 1,Juventus,Livorno
+25/08/2007,2 - 2,Lazio,Torino

@@ -1,0 +1,313 @@
+date,score,home_team,away_team
+26/05/2013,1 - 2,Utrecht,Twente
+23/05/2013,0 - 2,Twente,Utrecht
+19/05/2013,2 - 1,Utrecht,Heerenveen
+19/05/2013,3 - 2,Twente,Groningen
+16/05/2013,0 - 1,Heerenveen,Utrecht
+16/05/2013,0 - 1,Groningen,Twente
+12/05/2013,1 - 0,Feyenoord,NAC Breda
+12/05/2013,0 - 2,Groningen,Ajax
+12/05/2013,1 - 2,NEC,RKC Waalwijk
+12/05/2013,4 - 2,PEC Zwolle,ADO Den Haag
+12/05/2013,1 - 0,Roda JC,Heerenveen
+12/05/2013,3 - 1,Twente,PSV
+12/05/2013,3 - 0,Utrecht,Heracles
+12/05/2013,0 - 1,Vitesse,VVV
+12/05/2013,2 - 0,Willem II,AZ
+05/05/2013,2 - 0,ADO Den Haag,Feyenoord
+05/05/2013,5 - 0,Ajax,Willem II
+05/05/2013,4 - 0,AZ,PEC Zwolle
+05/05/2013,2 - 4,Heerenveen,Utrecht
+05/05/2013,1 - 1,Heracles,Twente
+05/05/2013,5 - 3,NAC Breda,Roda JC
+05/05/2013,4 - 2,PSV,NEC
+05/05/2013,3 - 2,RKC Waalwijk,Vitesse
+05/05/2013,0 - 0,VVV,Groningen
+28/04/2013,3 - 1,Vitesse,Willem II
+28/04/2013,6 - 0,Feyenoord,Heracles
+28/04/2013,1 - 2,PEC Zwolle,Utrecht
+28/04/2013,5 - 2,Twente,NEC
+27/04/2013,0 - 2,NAC Breda,Ajax
+27/04/2013,1 - 1,ADO Den Haag,VVV
+27/04/2013,3 - 1,Roda JC,RKC Waalwijk
+27/04/2013,5 - 2,PSV,Groningen
+26/04/2013,0 - 4,Heerenveen,AZ
+21/04/2013,2 - 0,Feyenoord,Vitesse
+21/04/2013,1 - 3,NEC,PEC Zwolle
+21/04/2013,3 - 0,Utrecht,NAC Breda
+21/04/2013,2 - 2,VVV,Twente
+20/04/2013,1 - 3,AZ,PSV
+20/04/2013,4 - 0,Heracles,RKC Waalwijk
+20/04/2013,2 - 1,Willem II,Roda JC
+20/04/2013,2 - 1,Groningen,ADO Den Haag
+19/04/2013,1 - 1,Ajax,Heerenveen
+14/04/2013,2 - 3,PSV,Ajax
+14/04/2013,6 - 0,AZ,Utrecht
+14/04/2013,1 - 1,RKC Waalwijk,Feyenoord
+14/04/2013,3 - 2,Heerenveen,Willem II
+13/04/2013,1 - 3,ADO Den Haag,Twente
+13/04/2013,0 - 2,Heracles,Groningen
+13/04/2013,2 - 0,NAC Breda,NEC
+13/04/2013,3 - 3,Roda JC,Vitesse
+12/04/2013,0 - 2,VVV,PEC Zwolle
+07/04/2013,4 - 0,Ajax,Heracles
+07/04/2013,3 - 1,Groningen,Heerenveen
+07/04/2013,1 - 1,NEC,AZ
+07/04/2013,1 - 0,Utrecht,ADO Den Haag
+06/04/2013,1 - 3,Willem II,PSV
+06/04/2013,1 - 1,PEC Zwolle,RKC Waalwijk
+06/04/2013,2 - 0,Twente,Roda JC
+06/04/2013,3 - 0,Vitesse,NAC Breda
+05/04/2013,1 - 0,Feyenoord,VVV
+31/03/2013,4 - 1,Ajax,NEC
+31/03/2013,1 - 2,Heracles,AZ
+31/03/2013,4 - 0,RKC Waalwijk,ADO Den Haag
+31/03/2013,2 - 1,Vitesse,PEC Zwolle
+31/03/2013,2 - 2,Roda JC,PSV
+30/03/2013,2 - 0,Heerenveen,Feyenoord
+30/03/2013,2 - 1,Utrecht,VVV
+30/03/2013,1 - 2,Willem II,Groningen
+30/03/2013,1 - 1,Twente,NAC Breda
+17/03/2013,0 - 3,Groningen,Twente
+17/03/2013,2 - 3,AZ,Ajax
+17/03/2013,2 - 1,Feyenoord,Utrecht
+17/03/2013,4 - 0,NAC Breda,Willem II
+16/03/2013,0 - 4,ADO Den Haag,Vitesse
+16/03/2013,2 - 0,PSV,RKC Waalwijk
+16/03/2013,0 - 2,VVV,Heracles
+16/03/2013,1 - 3,NEC,Heerenveen
+15/03/2013,3 - 2,PEC Zwolle,Roda JC
+10/03/2013,0 - 1,Twente,Vitesse
+10/03/2013,3 - 0,Ajax,PEC Zwolle
+10/03/2013,1 - 0,Utrecht,RKC Waalwijk
+10/03/2013,0 - 1,Roda JC,Feyenoord
+09/03/2013,1 - 1,AZ,ADO Den Haag
+09/03/2013,1 - 0,Heracles,NEC
+09/03/2013,1 - 0,Willem II,VVV
+09/03/2013,2 - 1,Heerenveen,PSV
+08/03/2013,1 - 1,Groningen,NAC Breda
+03/03/2013,3 - 1,ADO Den Haag,Heracles
+03/03/2013,2 - 1,RKC Waalwijk,AZ
+03/03/2013,4 - 1,Roda JC,Groningen
+03/03/2013,0 - 3,NEC,Feyenoord
+02/03/2013,0 - 2,Twente,Ajax
+02/03/2013,2 - 0,PEC Zwolle,Willem II
+02/03/2013,2 - 0,PSV,VVV
+02/03/2013,1 - 2,NAC Breda,Heerenveen
+01/03/2013,2 - 0,Vitesse,Utrecht
+24/02/2013,0 - 1,AZ,NAC Breda
+24/02/2013,1 - 1,Ajax,ADO Den Haag
+24/02/2013,4 - 0,Utrecht,Roda JC
+24/02/2013,2 - 1,Feyenoord,PSV
+23/02/2013,2 - 1,Heerenveen,Twente
+23/02/2013,1 - 0,Groningen,PEC Zwolle
+23/02/2013,1 - 0,VVV,RKC Waalwijk
+23/02/2013,3 - 5,Heracles,Vitesse
+22/02/2013,2 - 3,Willem II,NEC
+17/02/2013,0 - 2,RKC Waalwijk,Ajax
+17/02/2013,2 - 1,ADO Den Haag,Heerenveen
+17/02/2013,3 - 2,PEC Zwolle,Feyenoord
+17/02/2013,2 - 0,Vitesse,Groningen
+16/02/2013,2 - 1,PSV,Utrecht
+16/02/2013,1 - 1,NAC Breda,Heracles
+16/02/2013,2 - 2,Roda JC,AZ
+16/02/2013,1 - 1,Twente,Willem II
+15/02/2013,1 - 2,NEC,VVV
+10/02/2013,1 - 1,PEC Zwolle,Twente
+10/02/2013,1 - 1,Ajax,Roda JC
+10/02/2013,3 - 1,Feyenoord,AZ
+10/02/2013,0 - 3,Utrecht,NEC
+09/02/2013,2 - 2,Vitesse,PSV
+09/02/2013,2 - 1,Groningen,RKC Waalwijk
+09/02/2013,2 - 2,Heerenveen,VVV
+09/02/2013,4 - 1,Heracles,Willem II
+09/02/2013,2 - 1,ADO Den Haag,NAC Breda
+03/02/2013,1 - 3,Willem II,Feyenoord
+03/02/2013,2 - 4,Twente,Utrecht
+03/02/2013,0 - 3,VVV,Ajax
+03/02/2013,2 - 1,NEC,Vitesse
+02/02/2013,7 - 0,PSV,ADO Den Haag
+02/02/2013,3 - 0,NAC Breda,PEC Zwolle
+02/02/2013,3 - 3,Roda JC,Heracles
+02/02/2013,0 - 1,AZ,Groningen
+01/02/2013,0 - 1,RKC Waalwijk,Heerenveen
+27/01/2013,2 - 1,NEC,Groningen
+27/01/2013,0 - 0,Feyenoord,Twente
+27/01/2013,3 - 1,Utrecht,Willem II
+27/01/2013,3 - 2,Vitesse,Ajax
+26/01/2013,1 - 5,Heracles,PSV
+26/01/2013,2 - 2,ADO Den Haag,Roda JC
+26/01/2013,0 - 4,RKC Waalwijk,NAC Breda
+26/01/2013,1 - 1,PEC Zwolle,Heerenveen
+25/01/2013,1 - 4,VVV,AZ
+20/01/2013,2 - 0,Roda JC,NEC
+20/01/2013,3 - 0,Ajax,Feyenoord
+20/01/2013,1 - 1,Willem II,ADO Den Haag
+20/01/2013,0 - 2,Groningen,Utrecht
+19/01/2013,4 - 1,AZ,Vitesse
+19/01/2013,1 - 0,NAC Breda,VVV
+19/01/2013,0 - 0,Twente,RKC Waalwijk
+19/01/2013,0 - 1,Heerenveen,Heracles
+18/01/2013,1 - 3,PSV,PEC Zwolle
+23/12/2012,2 - 4,VVV,Roda JC
+23/12/2012,2 - 1,Feyenoord,Groningen
+23/12/2012,0 - 0,RKC Waalwijk,Willem II
+23/12/2012,0 - 0,Utrecht,Ajax
+22/12/2012,1 - 6,NAC Breda,PSV
+22/12/2012,2 - 0,ADO Den Haag,NEC
+22/12/2012,1 - 1,Heracles,PEC Zwolle
+22/12/2012,2 - 1,Heerenveen,Vitesse
+21/12/2012,0 - 3,AZ,Twente
+16/12/2012,2 - 4,Willem II,Ajax
+16/12/2012,3 - 2,Feyenoord,ADO Den Haag
+16/12/2012,2 - 2,Vitesse,RKC Waalwijk
+16/12/2012,3 - 1,Utrecht,Heerenveen
+15/12/2012,1 - 1,NEC,PSV
+15/12/2012,0 - 0,Groningen,VVV
+15/12/2012,0 - 0,Roda JC,NAC Breda
+15/12/2012,1 - 2,PEC Zwolle,AZ
+14/12/2012,3 - 2,Twente,Heracles
+09/12/2012,3 - 0,PSV,Twente
+09/12/2012,2 - 2,NAC Breda,Feyenoord
+09/12/2012,3 - 1,VVV,Vitesse
+09/12/2012,4 - 4,Heerenveen,Roda JC
+08/12/2012,2 - 0,Ajax,Groningen
+08/12/2012,1 - 1,ADO Den Haag,PEC Zwolle
+08/12/2012,0 - 0,AZ,Willem II
+08/12/2012,2 - 0,RKC Waalwijk,NEC
+07/12/2012,1 - 1,Heracles,Utrecht
+02/12/2012,3 - 0,Vitesse,Roda JC
+02/12/2012,2 - 0,Groningen,Heracles
+02/12/2012,2 - 1,Utrecht,AZ
+02/12/2012,1 - 1,NEC,NAC Breda
+01/12/2012,3 - 1,Ajax,PSV
+01/12/2012,2 - 0,Feyenoord,RKC Waalwijk
+01/12/2012,3 - 1,Willem II,Heerenveen
+01/12/2012,2 - 0,Twente,ADO Den Haag
+30/11/2012,0 - 0,PEC Zwolle,VVV
+25/11/2012,2 - 2,Twente,PEC Zwolle
+25/11/2012,0 - 2,AZ,Feyenoord
+25/11/2012,1 - 2,PSV,Vitesse
+25/11/2012,1 - 2,Roda JC,Ajax
+24/11/2012,2 - 2,Willem II,Heracles
+24/11/2012,1 - 1,RKC Waalwijk,Groningen
+24/11/2012,1 - 1,VVV,Heerenveen
+24/11/2012,2 - 0,NEC,Utrecht
+23/11/2012,0 - 3,NAC Breda,ADO Den Haag
+18/11/2012,5 - 1,Heracles,Roda JC
+18/11/2012,3 - 0,Feyenoord,Willem II
+18/11/2012,1 - 1,Utrecht,Twente
+18/11/2012,4 - 1,Vitesse,NEC
+17/11/2012,1 - 1,Groningen,AZ
+17/11/2012,2 - 0,Ajax,VVV
+17/11/2012,0 - 2,Heerenveen,RKC Waalwijk
+17/11/2012,2 - 0,PEC Zwolle,NAC Breda
+17/11/2012,1 - 6,ADO Den Haag,PSV
+11/11/2012,5 - 1,PSV,Heerenveen
+11/11/2012,5 - 2,Feyenoord,Roda JC
+11/11/2012,2 - 4,PEC Zwolle,Ajax
+11/11/2012,0 - 0,Vitesse,Twente
+10/11/2012,3 - 2,NEC,Heracles
+10/11/2012,2 - 2,ADO Den Haag,AZ
+10/11/2012,4 - 1,VVV,Willem II
+10/11/2012,4 - 0,RKC Waalwijk,Utrecht
+09/11/2012,0 - 1,NAC Breda,Groningen
+04/11/2012,2 - 1,NAC Breda,RKC Waalwijk
+04/11/2012,1 - 2,AZ,VVV
+04/11/2012,2 - 1,Heerenveen,PEC Zwolle
+04/11/2012,3 - 0,Twente,Feyenoord
+04/11/2012,1 - 2,Groningen,NEC
+03/11/2012,4 - 0,PSV,Heracles
+03/11/2012,1 - 5,Willem II,Utrecht
+03/11/2012,0 - 2,Ajax,Vitesse
+02/11/2012,0 - 0,Roda JC,ADO Den Haag
+28/10/2012,1 - 2,Vitesse,AZ
+28/10/2012,6 - 3,Heracles,Heerenveen
+28/10/2012,1 - 2,PEC Zwolle,PSV
+28/10/2012,0 - 1,RKC Waalwijk,Twente
+28/10/2012,2 - 2,Feyenoord,Ajax
+27/10/2012,1 - 4,VVV,NAC Breda
+27/10/2012,0 - 0,NEC,Roda JC
+27/10/2012,2 - 0,ADO Den Haag,Willem II
+26/10/2012,1 - 0,Utrecht,Groningen
+21/10/2012,1 - 2,RKC Waalwijk,PEC Zwolle
+21/10/2012,3 - 0,Heerenveen,Groningen
+21/10/2012,2 - 3,VVV,Feyenoord
+21/10/2012,1 - 2,ADO Den Haag,Utrecht
+20/10/2012,0 - 2,AZ,NEC
+20/10/2012,0 - 3,NAC Breda,Vitesse
+20/10/2012,3 - 2,PSV,Willem II
+20/10/2012,1 - 1,Roda JC,Twente
+20/10/2012,3 - 3,Heracles,Ajax
+07/10/2012,3 - 0,Twente,AZ
+07/10/2012,2 - 2,Groningen,Feyenoord
+07/10/2012,4 - 0,PSV,NAC Breda
+07/10/2012,1 - 1,Ajax,Utrecht
+06/10/2012,3 - 0,Roda JC,VVV
+06/10/2012,0 - 3,PEC Zwolle,Heracles
+06/10/2012,3 - 3,Vitesse,Heerenveen
+06/10/2012,1 - 0,Willem II,RKC Waalwijk
+05/10/2012,1 - 1,NEC,ADO Den Haag
+30/09/2012,0 - 6,VVV,PSV
+30/09/2012,3 - 2,Groningen,Roda JC
+30/09/2012,0 - 1,Willem II,PEC Zwolle
+30/09/2012,3 - 3,AZ,RKC Waalwijk
+29/09/2012,1 - 0,Ajax,Twente
+29/09/2012,5 - 1,Feyenoord,NEC
+29/09/2012,3 - 3,Heracles,ADO Den Haag
+29/09/2012,1 - 2,Utrecht,Vitesse
+29/09/2012,2 - 0,Heerenveen,NAC Breda
+23/09/2012,3 - 0,PSV,Feyenoord
+23/09/2012,2 - 1,NAC Breda,AZ
+23/09/2012,1 - 0,Twente,Heerenveen
+23/09/2012,1 - 1,ADO Den Haag,Ajax
+22/09/2012,0 - 0,NEC,Willem II
+22/09/2012,1 - 1,RKC Waalwijk,VVV
+22/09/2012,1 - 1,Vitesse,Heracles
+22/09/2012,1 - 2,PEC Zwolle,Groningen
+21/09/2012,0 - 1,Roda JC,Utrecht
+16/09/2012,0 - 3,Groningen,Vitesse
+16/09/2012,4 - 0,AZ,Roda JC
+16/09/2012,1 - 0,Utrecht,PSV
+16/09/2012,2 - 1,Heracles,NAC Breda
+15/09/2012,2 - 0,Feyenoord,PEC Zwolle
+15/09/2012,1 - 3,Heerenveen,ADO Den Haag
+15/09/2012,2 - 2,VVV,NEC
+15/09/2012,2 - 6,Willem II,Twente
+15/09/2012,2 - 0,Ajax,RKC Waalwijk
+02/09/2012,2 - 2,Heerenveen,Ajax
+02/09/2012,5 - 1,PSV,AZ
+02/09/2012,1 - 0,Twente,VVV
+02/09/2012,1 - 0,Vitesse,Feyenoord
+01/09/2012,1 - 1,NAC Breda,Utrecht
+01/09/2012,0 - 4,PEC Zwolle,NEC
+01/09/2012,1 - 1,RKC Waalwijk,Heracles
+01/09/2012,3 - 0,Roda JC,Willem II
+31/08/2012,0 - 1,ADO Den Haag,Groningen
+26/08/2012,1 - 3,Groningen,PSV
+26/08/2012,1 - 2,Heracles,Feyenoord
+26/08/2012,1 - 3,NEC,Twente
+26/08/2012,0 - 2,Willem II,Vitesse
+26/08/2012,0 - 0,AZ,Heerenveen
+25/08/2012,5 - 0,Ajax,NAC Breda
+25/08/2012,2 - 4,VVV,ADO Den Haag
+25/08/2012,1 - 1,Utrecht,PEC Zwolle
+24/08/2012,1 - 0,RKC Waalwijk,Roda JC
+19/08/2012,1 - 6,NEC,Ajax
+19/08/2012,2 - 2,ADO Den Haag,RKC Waalwijk
+19/08/2012,3 - 1,AZ,Heracles
+19/08/2012,1 - 1,Groningen,Willem II
+18/08/2012,1 - 1,Feyenoord,Heerenveen
+18/08/2012,0 - 1,NAC Breda,Twente
+18/08/2012,0 - 1,PEC Zwolle,Vitesse
+18/08/2012,1 - 3,VVV,Utrecht
+18/08/2012,5 - 0,PSV,Roda JC
+12/08/2012,2 - 2,Ajax,AZ
+12/08/2012,0 - 2,Heerenveen,NEC
+12/08/2012,4 - 1,Twente,Groningen
+12/08/2012,2 - 2,Vitesse,ADO Den Haag
+12/08/2012,0 - 1,Utrecht,Feyenoord
+11/08/2012,1 - 1,Heracles,VVV
+11/08/2012,1 - 1,Roda JC,PEC Zwolle
+11/08/2012,3 - 2,RKC Waalwijk,PSV
+10/08/2012,1 - 1,Willem II,NAC Breda

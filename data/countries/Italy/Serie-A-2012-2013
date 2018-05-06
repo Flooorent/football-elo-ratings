@@ -1,0 +1,381 @@
+date,score,home_team,away_team
+19/05/2013,1 - 0,[N] Cagliari,Lazio
+19/05/2013,2 - 5,Internazionale,Udinese
+19/05/2013,1 - 3,Palermo,Parma
+19/05/2013,1 - 5,Pescara,Fiorentina
+19/05/2013,1 - 2,Robur Siena,Milan
+19/05/2013,2 - 1,Roma,Napoli
+19/05/2013,2 - 2,Torino,Catania
+19/05/2013,2 - 2,Atalanta,Chievo
+19/05/2013,0 - 0,Bologna,Genoa
+18/05/2013,3 - 2,Sampdoria,Juventus
+12/05/2013,0 - 0,Milan,Roma
+12/05/2013,0 - 2,Parma,Bologna
+12/05/2013,2 - 0,Lazio,Sampdoria
+12/05/2013,2 - 1,Napoli,Robur Siena
+12/05/2013,2 - 1,Udinese,Atalanta
+12/05/2013,1 - 1,Chievo,Torino
+12/05/2013,1 - 0,Fiorentina,Palermo
+12/05/2013,0 - 0,Genoa,Internazionale
+11/05/2013,1 - 0,Catania,Pescara
+11/05/2013,1 - 1,Juventus,Cagliari
+08/05/2013,0 - 1,Atalanta,Juventus
+08/05/2013,0 - 3,Bologna,Napoli
+08/05/2013,0 - 1,[N] Cagliari,Parma
+08/05/2013,1 - 3,Internazionale,Lazio
+08/05/2013,2 - 3,Palermo,Udinese
+08/05/2013,0 - 1,Robur Siena,Fiorentina
+08/05/2013,1 - 1,Sampdoria,Catania
+08/05/2013,0 - 0,Torino,Genoa
+08/05/2013,0 - 4,Pescara,Milan
+07/05/2013,0 - 1,Roma,Chievo
+05/05/2013,3 - 1,Napoli,Internazionale
+05/05/2013,3 - 0,Catania,Robur Siena
+05/05/2013,4 - 1,Genoa,Pescara
+05/05/2013,1 - 0,Juventus,Palermo
+05/05/2013,6 - 0,Lazio,Bologna
+05/05/2013,1 - 0,Milan,Torino
+05/05/2013,2 - 0,Parma,Atalanta
+05/05/2013,3 - 1,Udinese,Sampdoria
+04/05/2013,0 - 1,Fiorentina,Roma
+04/05/2013,0 - 0,Chievo,Cagliari
+28/04/2013,4 - 2,Milan,Catania
+28/04/2013,0 - 1,Chievo,Genoa
+28/04/2013,1 - 0,Palermo,Internazionale
+28/04/2013,0 - 0,Parma,Lazio
+28/04/2013,4 - 0,Roma,Robur Siena
+28/04/2013,0 - 3,Sampdoria,Fiorentina
+28/04/2013,0 - 2,Torino,Juventus
+27/04/2013,0 - 3,Pescara,Napoli
+27/04/2013,1 - 1,Atalanta,Bologna
+27/04/2013,0 - 1,[N] Cagliari,Udinese
+21/04/2013,1 - 0,Juventus,Milan
+21/04/2013,1 - 1,Bologna,Sampdoria
+21/04/2013,1 - 1,Catania,Palermo
+21/04/2013,4 - 3,Fiorentina,Torino
+21/04/2013,3 - 2,Napoli,Cagliari
+21/04/2013,0 - 1,Robur Siena,Chievo
+21/04/2013,1 - 1,Roma,Pescara
+21/04/2013,1 - 0,Internazionale,Parma
+20/04/2013,1 - 0,Udinese,Lazio
+20/04/2013,1 - 1,Genoa,Atalanta
+15/04/2013,0 - 2,Lazio,Juventus
+14/04/2013,1 - 1,Milan,Napoli
+14/04/2013,2 - 0,Cagliari,Internazionale
+14/04/2013,0 - 0,Chievo,Catania
+14/04/2013,1 - 1,Genoa,Sampdoria
+14/04/2013,0 - 3,Parma,Udinese
+14/04/2013,1 - 2,Torino,Roma
+14/04/2013,1 - 1,Palermo,Bologna
+13/04/2013,0 - 2,Atalanta,Fiorentina
+13/04/2013,2 - 3,Pescara,Robur Siena
+08/04/2013,1 - 1,Roma,Lazio
+07/04/2013,3 - 4,Internazionale,Atalanta
+07/04/2013,2 - 0,Napoli,Genoa
+07/04/2013,0 - 0,Catania,Cagliari
+07/04/2013,0 - 0,Robur Siena,Parma
+07/04/2013,1 - 3,Sampdoria,Palermo
+07/04/2013,3 - 1,Udinese,Chievo
+07/04/2013,2 - 2,Fiorentina,Milan
+06/04/2013,2 - 2,Bologna,Torino
+06/04/2013,2 - 1,Juventus,Pescara
+03/04/2013,0 - 2,Sampdoria,Internazionale
+30/03/2013,3 - 5,Torino,Napoli
+30/03/2013,0 - 1,Chievo,Milan
+30/03/2013,0 - 0,Atalanta,Sampdoria
+30/03/2013,2 - 1,Cagliari,Fiorentina
+30/03/2013,2 - 2,Genoa,Robur Siena
+30/03/2013,1 - 2,Internazionale,Juventus
+30/03/2013,2 - 1,Lazio,Catania
+30/03/2013,2 - 0,Palermo,Roma
+30/03/2013,3 - 0,Parma,Pescara
+30/03/2013,0 - 0,Udinese,Bologna
+17/03/2013,2 - 0,Roma,Parma
+17/03/2013,1 - 0,Torino,Lazio
+17/03/2013,3 - 2,Fiorentina,Genoa
+17/03/2013,2 - 0,Milan,Palermo
+17/03/2013,3 - 2,Napoli,Atalanta
+17/03/2013,0 - 2,Pescara,Chievo
+17/03/2013,0 - 0,Robur Siena,Cagliari
+16/03/2013,0 - 2,Bologna,Juventus
+16/03/2013,3 - 1,Catania,Udinese
+10/03/2013,0 - 1,Internazionale,Bologna
+10/03/2013,0 - 2,Lazio,Fiorentina
+10/03/2013,3 - 1,Cagliari,Sampdoria
+10/03/2013,2 - 0,Chievo,Napoli
+10/03/2013,1 - 0,Juventus,Catania
+10/03/2013,1 - 2,Palermo,Robur Siena
+10/03/2013,4 - 1,Parma,Torino
+10/03/2013,2 - 1,Atalanta,Pescara
+09/03/2013,1 - 1,Udinese,Roma
+08/03/2013,0 - 2,Genoa,Milan
+03/03/2013,3 - 1,Roma,Genoa
+03/03/2013,3 - 0,Bologna,Cagliari
+03/03/2013,2 - 3,Catania,Internazionale
+03/03/2013,2 - 1,Fiorentina,Chievo
+03/03/2013,0 - 1,Pescara,Udinese
+03/03/2013,0 - 2,Robur Siena,Atalanta
+03/03/2013,1 - 0,Sampdoria,Parma
+03/03/2013,0 - 0,Torino,Palermo
+02/03/2013,3 - 0,Milan,Lazio
+01/03/2013,1 - 1,Napoli,Juventus
+26/02/2013,2 - 1,Bologna,Fiorentina
+25/02/2013,2 - 0,Lazio,Pescara
+25/02/2013,0 - 0,Udinese,Napoli
+24/02/2013,1 - 1,Internazionale,Milan
+24/02/2013,2 - 3,Atalanta,Roma
+24/02/2013,4 - 3,Cagliari,Torino
+24/02/2013,3 - 0,Juventus,Robur Siena
+24/02/2013,1 - 2,Parma,Catania
+24/02/2013,2 - 0,Sampdoria,Chievo
+23/02/2013,0 - 0,Palermo,Genoa
+18/02/2013,3 - 0,Robur Siena,Lazio
+17/02/2013,4 - 1,Fiorentina,Internazionale
+17/02/2013,1 - 0,Catania,Bologna
+17/02/2013,1 - 0,Genoa,Udinese
+17/02/2013,0 - 0,Napoli,Sampdoria
+17/02/2013,0 - 2,Pescara,Cagliari
+17/02/2013,2 - 1,Torino,Atalanta
+16/02/2013,1 - 0,Roma,Juventus
+16/02/2013,1 - 1,Chievo,Palermo
+15/02/2013,2 - 1,Milan,Parma
+10/02/2013,3 - 1,Internazionale,Chievo
+10/02/2013,0 - 0,Atalanta,Catania
+10/02/2013,1 - 1,Bologna,Robur Siena
+10/02/2013,1 - 1,Cagliari,Milan
+10/02/2013,1 - 1,Palermo,Pescara
+10/02/2013,3 - 1,Sampdoria,Roma
+10/02/2013,1 - 0,Udinese,Torino
+10/02/2013,0 - 0,Parma,Genoa
+09/02/2013,1 - 1,Lazio,Napoli
+09/02/2013,2 - 0,Juventus,Fiorentina
+03/02/2013,2 - 1,Milan,Udinese
+03/02/2013,2 - 0,Fiorentina,Parma
+03/02/2013,3 - 2,Genoa,Lazio
+03/02/2013,1 - 2,Palermo,Atalanta
+03/02/2013,2 - 3,Pescara,Bologna
+03/02/2013,3 - 1,Robur Siena,Internazionale
+03/02/2013,1 - 2,Chievo,Juventus
+02/02/2013,2 - 0,Napoli,Catania
+02/02/2013,0 - 0,Torino,Sampdoria
+01/02/2013,2 - 4,Roma,Cagliari
+27/01/2013,2 - 2,Internazionale,Torino
+27/01/2013,0 - 1,Atalanta,Milan
+27/01/2013,1 - 1,Cagliari,Palermo
+27/01/2013,2 - 1,Catania,Fiorentina
+27/01/2013,1 - 2,Parma,Napoli
+27/01/2013,6 - 0,Sampdoria,Pescara
+27/01/2013,1 - 0,Udinese,Robur Siena
+27/01/2013,3 - 3,Bologna,Roma
+26/01/2013,1 - 1,Juventus,Genoa
+26/01/2013,0 - 1,Lazio,Chievo
+20/01/2013,1 - 1,Roma,Internazionale
+20/01/2013,1 - 1,Atalanta,Cagliari
+20/01/2013,1 - 1,Chievo,Parma
+20/01/2013,0 - 2,Genoa,Catania
+20/01/2013,2 - 1,Milan,Bologna
+20/01/2013,0 - 2,Pescara,Torino
+20/01/2013,1 - 0,Robur Siena,Sampdoria
+20/01/2013,1 - 1,Fiorentina,Napoli
+19/01/2013,4 - 0,Juventus,Udinese
+19/01/2013,2 - 2,Palermo,Lazio
+13/01/2013,0 - 0,Sampdoria,Milan
+13/01/2013,2 - 1,Cagliari,Genoa
+13/01/2013,1 - 0,Catania,Roma
+13/01/2013,2 - 0,Lazio,Atalanta
+13/01/2013,3 - 0,Napoli,Palermo
+13/01/2013,1 - 1,Parma,Juventus
+13/01/2013,3 - 1,Udinese,Fiorentina
+13/01/2013,3 - 2,Torino,Robur Siena
+12/01/2013,2 - 0,Internazionale,Pescara
+12/01/2013,4 - 0,Bologna,Chievo
+06/01/2013,4 - 1,Napoli,Roma
+06/01/2013,1 - 0,Chievo,Atalanta
+06/01/2013,0 - 2,Fiorentina,Pescara
+06/01/2013,2 - 0,Genoa,Bologna
+06/01/2013,1 - 2,Juventus,Sampdoria
+06/01/2013,2 - 1,Milan,Robur Siena
+06/01/2013,2 - 1,Parma,Palermo
+06/01/2013,3 - 0,Udinese,Internazionale
+05/01/2013,2 - 1,Lazio,Cagliari
+05/01/2013,0 - 0,Catania,Torino
+22/12/2012,4 - 2,Roma,Milan
+22/12/2012,1 - 1,Atalanta,Udinese
+22/12/2012,1 - 2,Bologna,Parma
+22/12/2012,0 - 3,Palermo,Fiorentina
+22/12/2012,0 - 2,Robur Siena,Napoli
+22/12/2012,0 - 1,Sampdoria,Lazio
+22/12/2012,2 - 0,Torino,Chievo
+22/12/2012,1 - 1,Internazionale,Genoa
+21/12/2012,1 - 3,[N] Cagliari,Juventus
+21/12/2012,2 - 1,Pescara,Catania
+16/12/2012,2 - 3,Napoli,Bologna
+16/12/2012,3 - 1,Catania,Sampdoria
+16/12/2012,1 - 0,Chievo,Roma
+16/12/2012,1 - 1,Genoa,Torino
+16/12/2012,3 - 0,Juventus,Atalanta
+16/12/2012,4 - 1,Milan,Pescara
+16/12/2012,4 - 1,Parma,Cagliari
+16/12/2012,4 - 1,Fiorentina,Robur Siena
+15/12/2012,1 - 0,Lazio,Internazionale
+15/12/2012,1 - 1,Udinese,Palermo
+10/12/2012,0 - 0,Bologna,Lazio
+10/12/2012,0 - 2,Sampdoria,Udinese
+09/12/2012,2 - 1,Internazionale,Napoli
+09/12/2012,0 - 2,Cagliari,Chievo
+09/12/2012,0 - 1,Palermo,Juventus
+09/12/2012,2 - 0,Pescara,Genoa
+09/12/2012,1 - 3,Robur Siena,Catania
+09/12/2012,2 - 4,Torino,Milan
+08/12/2012,4 - 2,Roma,Fiorentina
+08/12/2012,2 - 1,Atalanta,Parma
+02/12/2012,2 - 2,Fiorentina,Sampdoria
+02/12/2012,2 - 1,Bologna,Atalanta
+02/12/2012,2 - 4,Genoa,Chievo
+02/12/2012,1 - 0,Internazionale,Palermo
+02/12/2012,2 - 1,Lazio,Parma
+02/12/2012,1 - 3,Robur Siena,Roma
+02/12/2012,4 - 1,Udinese,Cagliari
+02/12/2012,5 - 1,Napoli,Pescara
+01/12/2012,3 - 0,Juventus,Torino
+30/11/2012,1 - 3,Catania,Milan
+27/11/2012,3 - 0,Lazio,Udinese
+26/11/2012,1 - 0,Parma,Internazionale
+26/11/2012,0 - 1,Cagliari,Napoli
+25/11/2012,1 - 0,Milan,Juventus
+25/11/2012,0 - 1,Atalanta,Genoa
+25/11/2012,0 - 0,Chievo,Robur Siena
+25/11/2012,0 - 1,Pescara,Roma
+25/11/2012,1 - 0,Sampdoria,Bologna
+25/11/2012,2 - 2,Torino,Fiorentina
+24/11/2012,3 - 1,Palermo,Catania
+19/11/2012,2 - 0,Roma,Torino
+18/11/2012,3 - 1,Sampdoria,Genoa
+18/11/2012,3 - 0,Bologna,Palermo
+18/11/2012,2 - 1,Catania,Chievo
+18/11/2012,4 - 1,Fiorentina,Atalanta
+18/11/2012,2 - 2,Internazionale,Cagliari
+18/11/2012,1 - 0,Robur Siena,Pescara
+18/11/2012,2 - 2,Udinese,Parma
+17/11/2012,2 - 2,Napoli,Milan
+17/11/2012,0 - 0,Juventus,Lazio
+11/11/2012,3 - 2,Atalanta,Internazionale
+11/11/2012,2 - 2,Chievo,Udinese
+11/11/2012,2 - 4,Genoa,Napoli
+11/11/2012,3 - 2,Lazio,Roma
+11/11/2012,1 - 3,Milan,Fiorentina
+11/11/2012,0 - 0,Parma,Robur Siena
+11/11/2012,1 - 0,Torino,Bologna
+11/11/2012,2 - 0,Palermo,Sampdoria
+10/11/2012,1 - 6,Pescara,Juventus
+10/11/2012,0 - 0,Cagliari,Catania
+04/11/2012,4 - 1,Roma,Palermo
+04/11/2012,1 - 1,Bologna,Udinese
+04/11/2012,4 - 0,Catania,Lazio
+04/11/2012,4 - 1,Fiorentina,Cagliari
+04/11/2012,1 - 1,Napoli,Torino
+04/11/2012,1 - 0,Robur Siena,Genoa
+04/11/2012,1 - 2,Sampdoria,Atalanta
+04/11/2012,2 - 0,Pescara,Parma
+03/11/2012,1 - 3,Juventus,Internazionale
+03/11/2012,5 - 1,Milan,Chievo
+01/11/2012,0 - 1,Genoa,Fiorentina
+31/10/2012,1 - 0,Atalanta,Napoli
+31/10/2012,4 - 2,Cagliari,Robur Siena
+31/10/2012,2 - 0,Chievo,Pescara
+31/10/2012,3 - 2,Internazionale,Sampdoria
+31/10/2012,2 - 1,Juventus,Bologna
+31/10/2012,1 - 1,Lazio,Torino
+31/10/2012,3 - 2,Parma,Roma
+31/10/2012,2 - 2,Udinese,Catania
+30/10/2012,2 - 2,Palermo,Milan
+28/10/2012,1 - 0,Napoli,Chievo
+28/10/2012,2 - 3,Roma,Udinese
+28/10/2012,1 - 3,Bologna,Internazionale
+28/10/2012,2 - 0,Fiorentina,Lazio
+28/10/2012,0 - 0,Pescara,Atalanta
+28/10/2012,0 - 1,Sampdoria,Cagliari
+28/10/2012,1 - 3,Torino,Parma
+28/10/2012,0 - 1,Catania,Juventus
+27/10/2012,1 - 0,Milan,Genoa
+27/10/2012,0 - 0,Robur Siena,Palermo
+21/10/2012,2 - 4,Genoa,Roma
+21/10/2012,2 - 1,Atalanta,Robur Siena
+21/10/2012,1 - 1,Chievo,Fiorentina
+21/10/2012,2 - 0,Internazionale,Catania
+21/10/2012,0 - 0,Palermo,Torino
+21/10/2012,2 - 1,Parma,Sampdoria
+21/10/2012,1 - 0,Udinese,Pescara
+21/10/2012,1 - 0,Cagliari,Bologna
+20/10/2012,3 - 2,Lazio,Milan
+20/10/2012,2 - 0,Juventus,Napoli
+07/10/2012,0 - 1,Milan,Internazionale
+07/10/2012,2 - 1,Napoli,Udinese
+07/10/2012,2 - 0,Catania,Parma
+07/10/2012,1 - 0,Fiorentina,Bologna
+07/10/2012,0 - 3,Pescara,Lazio
+07/10/2012,1 - 2,Robur Siena,Juventus
+07/10/2012,0 - 1,Torino,Cagliari
+07/10/2012,2 - 0,Roma,Atalanta
+06/10/2012,1 - 1,Genoa,Palermo
+06/10/2012,2 - 1,Chievo,Sampdoria
+30/09/2012,2 - 1,Internazionale,Fiorentina
+30/09/2012,1 - 5,Atalanta,Torino
+30/09/2012,4 - 0,Bologna,Catania
+30/09/2012,1 - 2,Cagliari,Pescara
+30/09/2012,2 - 1,Lazio,Robur Siena
+30/09/2012,4 - 1,Palermo,Chievo
+30/09/2012,0 - 1,Sampdoria,Napoli
+30/09/2012,0 - 0,Udinese,Genoa
+29/09/2012,4 - 1,Juventus,Roma
+29/09/2012,1 - 1,Parma,Milan
+27/09/2012,1 - 0,Robur Siena,Bologna
+26/09/2012,2 - 1,Catania,Atalanta
+26/09/2012,0 - 2,Chievo,Internazionale
+26/09/2012,1 - 1,Genoa,Parma
+26/09/2012,2 - 0,Milan,Cagliari
+26/09/2012,3 - 0,Napoli,Lazio
+26/09/2012,1 - 1,Roma,Sampdoria
+26/09/2012,0 - 0,Torino,Udinese
+26/09/2012,1 - 0,Pescara,Palermo
+25/09/2012,0 - 0,Fiorentina,Juventus
+23/09/2012,0 - 1,Lazio,Genoa
+23/09/2012,1 - 0,Atalanta,Palermo
+23/09/2012,1 - 1,Bologna,Pescara
+23/09/2012,0 - 3,Cagliari,Roma
+23/09/2012,0 - 0,Catania,Napoli
+23/09/2012,0 - 2,Internazionale,Robur Siena
+23/09/2012,2 - 1,Udinese,Milan
+23/09/2012,1 - 1,Sampdoria,Torino
+22/09/2012,2 - 0,Juventus,Chievo
+22/09/2012,1 - 1,Parma,Fiorentina
+16/09/2012,0 - 2,Torino,Internazionale
+16/09/2012,2 - 0,Fiorentina,Catania
+16/09/2012,1 - 3,Genoa,Juventus
+16/09/2012,3 - 1,Napoli,Parma
+16/09/2012,2 - 3,Pescara,Sampdoria
+16/09/2012,2 - 2,Robur Siena,Udinese
+16/09/2012,2 - 3,Roma,Bologna
+16/09/2012,1 - 3,Chievo,Lazio
+15/09/2012,0 - 1,Milan,Atalanta
+15/09/2012,1 - 1,Palermo,Cagliari
+02/09/2012,1 - 1,Cagliari,Atalanta
+02/09/2012,3 - 2,Catania,Genoa
+02/09/2012,1 - 3,Internazionale,Roma
+02/09/2012,3 - 0,Lazio,Palermo
+02/09/2012,2 - 1,Napoli,Fiorentina
+02/09/2012,2 - 0,Parma,Chievo
+02/09/2012,2 - 1,Sampdoria,Robur Siena
+02/09/2012,1 - 4,Udinese,Juventus
+01/09/2012,1 - 3,Bologna,Milan
+01/09/2012,3 - 0,Torino,Pescara
+26/08/2012,0 - 1,Atalanta,Lazio
+26/08/2012,2 - 0,Chievo,Bologna
+26/08/2012,2 - 0,Genoa,Cagliari
+26/08/2012,0 - 3,Palermo,Napoli
+26/08/2012,0 - 3,Pescara,Internazionale
+26/08/2012,0 - 0,Robur Siena,Torino
+26/08/2012,2 - 2,Roma,Catania
+26/08/2012,0 - 1,Milan,Sampdoria
+25/08/2012,2 - 0,Juventus,Parma
+25/08/2012,2 - 1,Fiorentina,Udinese

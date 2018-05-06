@@ -1,0 +1,307 @@
+date,score,home_team,away_team
+05/05/2002,3 - 0,Brescia,Bologna
+05/05/2002,2 - 1,Chievo,Atalanta
+05/05/2002,4 - 2,Lazio,Internazionale
+05/05/2002,3 - 0,Milan,Lecce
+05/05/2002,2 - 1,Parma,Venezia
+05/05/2002,2 - 0,Perugia,Fiorentina
+05/05/2002,3 - 0,Piacenza,Hellas Verona
+05/05/2002,0 - 1,Torino,Roma
+05/05/2002,0 - 2,Udinese,Juventus
+28/04/2002,2 - 1,Atalanta,Perugia
+28/04/2002,2 - 0,Bologna,Lazio
+28/04/2002,1 - 2,Fiorentina,Parma
+28/04/2002,1 - 2,Hellas Verona,Milan
+28/04/2002,3 - 1,Internazionale,Piacenza
+28/04/2002,5 - 0,Juventus,Brescia
+28/04/2002,1 - 2,Lecce,Udinese
+28/04/2002,5 - 0,Roma,Chievo
+28/04/2002,1 - 1,Venezia,Torino
+21/04/2002,3 - 0,Brescia,Fiorentina
+21/04/2002,2 - 2,Chievo,Internazionale
+21/04/2002,5 - 4,Lazio,Hellas Verona
+21/04/2002,0 - 0,Milan,Roma
+21/04/2002,1 - 1,Parma,Atalanta
+21/04/2002,1 - 0,Perugia,Bologna
+21/04/2002,0 - 1,Piacenza,Juventus
+21/04/2002,1 - 1,Torino,Lecce
+21/04/2002,1 - 0,Udinese,Venezia
+14/04/2002,1 - 1,Atalanta,Torino
+14/04/2002,1 - 2,Bologna,Piacenza
+14/04/2002,0 - 1,Fiorentina,Lazio
+14/04/2002,1 - 0,Hellas Verona,Udinese
+14/04/2002,2 - 1,Internazionale,Brescia
+14/04/2002,1 - 0,Juventus,Milan
+14/04/2002,2 - 3,Lecce,Chievo
+14/04/2002,3 - 1,Roma,Parma
+14/04/2002,0 - 2,Venezia,Perugia
+07/04/2002,0 - 0,Brescia,Hellas Verona
+07/04/2002,1 - 1,Chievo,Milan
+07/04/2002,1 - 2,Internazionale,Atalanta
+07/04/2002,1 - 0,Lazio,Lecce
+07/04/2002,2 - 0,Parma,Udinese
+07/04/2002,0 - 4,Perugia,Juventus
+07/04/2002,3 - 0,Piacenza,Fiorentina
+07/04/2002,2 - 2,Venezia,Roma
+06/04/2002,1 - 1,Torino,Bologna
+30/03/2002,1 - 1,Atalanta,Piacenza
+30/03/2002,0 - 1,Fiorentina,Internazionale
+30/03/2002,0 - 1,Hellas Verona,Torino
+30/03/2002,1 - 1,Juventus,Lazio
+30/03/2002,2 - 1,Lecce,Venezia
+30/03/2002,3 - 1,Milan,Parma
+30/03/2002,2 - 2,Perugia,Chievo
+30/03/2002,3 - 1,Roma,Bologna
+30/03/2002,3 - 2,Udinese,Brescia
+24/03/2002,4 - 3,Bologna,Lecce
+24/03/2002,3 - 0,Brescia,Perugia
+24/03/2002,2 - 1,Chievo,Hellas Verona
+24/03/2002,3 - 1,Internazionale,Roma
+24/03/2002,2 - 0,Lazio,Udinese
+24/03/2002,0 - 1,Piacenza,Milan
+24/03/2002,1 - 0,Torino,Fiorentina
+24/03/2002,0 - 1,Venezia,Atalanta
+23/03/2002,1 - 0,Parma,Juventus
+17/03/2002,1 - 1,Brescia,Lazio
+17/03/2002,1 - 1,Chievo,Venezia
+17/03/2002,1 - 1,Fiorentina,Bologna
+17/03/2002,1 - 0,Juventus,Hellas Verona
+17/03/2002,1 - 2,Lecce,Internazionale
+17/03/2002,2 - 1,Milan,Torino
+17/03/2002,2 - 1,Perugia,Parma
+17/03/2002,1 - 1,Udinese,Piacenza
+16/03/2002,3 - 1,Roma,Atalanta
+13/03/2002,0 - 0,Parma,Chievo
+10/03/2002,2 - 1,Atalanta,Lecce
+10/03/2002,2 - 0,Bologna,Milan
+10/03/2002,0 - 0,Fiorentina,Udinese
+10/03/2002,1 - 0,Hellas Verona,Parma
+10/03/2002,1 - 5,Lazio,Roma
+10/03/2002,2 - 0,Piacenza,Perugia
+10/03/2002,2 - 2,Torino,Chievo
+10/03/2002,1 - 2,Venezia,Brescia
+09/03/2002,2 - 2,Internazionale,Juventus
+03/03/2002,2 - 2,Brescia,Piacenza
+03/03/2002,1 - 2,Hellas Verona,Fiorentina
+03/03/2002,2 - 1,Juventus,Bologna
+03/03/2002,4 - 2,Lazio,Venezia
+03/03/2002,1 - 1,Lecce,Roma
+03/03/2002,0 - 1,Milan,Internazionale
+03/03/2002,2 - 0,Perugia,Torino
+03/03/2002,1 - 2,Udinese,Atalanta
+24/02/2002,0 - 1,Atalanta,Lazio
+24/02/2002,2 - 1,Bologna,Hellas Verona
+24/02/2002,1 - 1,Chievo,Brescia
+24/02/2002,1 - 2,Fiorentina,Lecce
+24/02/2002,3 - 2,Internazionale,Udinese
+24/02/2002,2 - 3,Piacenza,Parma
+24/02/2002,2 - 2,Torino,Juventus
+24/02/2002,1 - 4,Venezia,Milan
+23/02/2002,1 - 0,Roma,Perugia
+17/02/2002,0 - 0,Brescia,Roma
+17/02/2002,0 - 3,Hellas Verona,Internazionale
+17/02/2002,1 - 1,Lazio,Chievo
+17/02/2002,0 - 1,Parma,Torino
+17/02/2002,2 - 1,Perugia,Lecce
+17/02/2002,5 - 0,Piacenza,Venezia
+17/02/2002,0 - 1,Udinese,Bologna
+16/02/2002,2 - 1,Juventus,Fiorentina
+16/02/2002,0 - 0,Milan,Atalanta
+10/02/2002,0 - 0,Atalanta,Brescia
+10/02/2002,2 - 1,Bologna,Internazionale
+10/02/2002,1 - 1,Lecce,Hellas Verona
+10/02/2002,1 - 1,Milan,Perugia
+10/02/2002,1 - 0,Parma,Lazio
+10/02/2002,0 - 0,Roma,Juventus
+10/02/2002,1 - 1,Torino,Piacenza
+10/02/2002,2 - 0,Venezia,Fiorentina
+09/02/2002,1 - 2,Chievo,Udinese
+03/02/2002,1 - 1,Bologna,Venezia
+03/02/2002,1 - 4,Brescia,Parma
+03/02/2002,2 - 2,Fiorentina,Roma
+03/02/2002,3 - 1,Hellas Verona,Atalanta
+03/02/2002,3 - 0,Juventus,Lecce
+03/02/2002,1 - 1,Lazio,Milan
+03/02/2002,2 - 2,Piacenza,Chievo
+03/02/2002,0 - 0,Udinese,Perugia
+02/02/2002,0 - 0,Internazionale,Torino
+30/01/2002,3 - 1,Chievo,Lazio
+27/01/2002,2 - 0,Atalanta,Fiorentina
+27/01/2002,1 - 3,Chievo,Juventus
+27/01/2002,1 - 3,Lecce,Brescia
+27/01/2002,2 - 3,Milan,Udinese
+27/01/2002,3 - 1,Perugia,Hellas Verona
+27/01/2002,2 - 0,Roma,Piacenza
+27/01/2002,1 - 0,Torino,Lazio
+27/01/2002,1 - 1,Venezia,Internazionale
+26/01/2002,2 - 1,Parma,Bologna
+20/01/2002,3 - 1,Bologna,Chievo
+20/01/2002,1 - 1,Fiorentina,Milan
+20/01/2002,1 - 0,Hellas Verona,Venezia
+20/01/2002,2 - 0,Internazionale,Parma
+20/01/2002,3 - 0,Juventus,Atalanta
+20/01/2002,5 - 0,Lazio,Perugia
+20/01/2002,0 - 0,Lecce,Piacenza
+20/01/2002,1 - 1,Udinese,Roma
+19/01/2002,1 - 2,Brescia,Torino
+13/01/2002,2 - 2,Atalanta,Bologna
+13/01/2002,2 - 2,Chievo,Fiorentina
+13/01/2002,0 - 0,Milan,Brescia
+13/01/2002,1 - 1,Parma,Lecce
+13/01/2002,0 - 2,Perugia,Internazionale
+13/01/2002,1 - 0,Piacenza,Lazio
+13/01/2002,3 - 2,Roma,Hellas Verona
+13/01/2002,3 - 1,Torino,Udinese
+13/01/2002,1 - 2,Venezia,Juventus
+06/01/2002,1 - 2,Atalanta,Chievo
+06/01/2002,2 - 1,Bologna,Brescia
+06/01/2002,1 - 3,Fiorentina,Perugia
+06/01/2002,1 - 0,Hellas Verona,Piacenza
+06/01/2002,0 - 0,Internazionale,Lazio
+06/01/2002,3 - 0,Juventus,Udinese
+06/01/2002,1 - 0,Roma,Torino
+06/01/2002,3 - 4,Venezia,Parma
+05/01/2002,0 - 1,Lecce,Milan
+23/12/2001,0 - 4,Brescia,Juventus
+23/12/2001,2 - 1,Milan,Hellas Verona
+23/12/2001,2 - 0,Parma,Fiorentina
+23/12/2001,2 - 0,Perugia,Atalanta
+23/12/2001,2 - 3,Piacenza,Internazionale
+23/12/2001,1 - 2,Torino,Venezia
+23/12/2001,0 - 1,Udinese,Lecce
+22/12/2001,0 - 3,Chievo,Roma
+22/12/2001,2 - 2,Lazio,Bologna
+19/12/2001,1 - 1,Atalanta,Milan
+19/12/2001,0 - 1,Bologna,Udinese
+19/12/2001,1 - 1,Fiorentina,Juventus
+19/12/2001,3 - 0,Internazionale,Hellas Verona
+19/12/2001,2 - 3,Lecce,Perugia
+19/12/2001,0 - 0,Roma,Brescia
+19/12/2001,1 - 0,Torino,Parma
+19/12/2001,2 - 3,Venezia,Piacenza
+16/12/2001,4 - 1,Atalanta,Parma
+16/12/2001,2 - 1,Bologna,Perugia
+16/12/2001,1 - 0,Fiorentina,Brescia
+16/12/2001,3 - 1,Hellas Verona,Lazio
+16/12/2001,2 - 0,Juventus,Piacenza
+16/12/2001,1 - 1,Lecce,Torino
+16/12/2001,1 - 0,Roma,Milan
+16/12/2001,2 - 1,Venezia,Udinese
+15/12/2001,1 - 2,Internazionale,Chievo
+09/12/2001,1 - 3,Brescia,Internazionale
+09/12/2001,2 - 1,Chievo,Lecce
+09/12/2001,3 - 0,Lazio,Fiorentina
+09/12/2001,1 - 1,Milan,Juventus
+09/12/2001,1 - 2,Parma,Roma
+09/12/2001,2 - 0,Perugia,Venezia
+09/12/2001,1 - 2,Torino,Atalanta
+09/12/2001,2 - 1,Udinese,Hellas Verona
+08/12/2001,2 - 0,Piacenza,Bologna
+02/12/2001,2 - 4,Atalanta,Internazionale
+02/12/2001,1 - 0,Bologna,Torino
+02/12/2001,1 - 3,Fiorentina,Piacenza
+02/12/2001,2 - 0,Hellas Verona,Brescia
+02/12/2001,1 - 2,Lecce,Lazio
+02/12/2001,3 - 2,Milan,Chievo
+02/12/2001,1 - 0,Roma,Venezia
+02/12/2001,3 - 2,Udinese,Parma
+01/12/2001,2 - 0,Juventus,Perugia
+25/11/2001,1 - 3,Bologna,Roma
+25/11/2001,2 - 0,Brescia,Udinese
+25/11/2001,2 - 0,Chievo,Perugia
+25/11/2001,2 - 0,Internazionale,Fiorentina
+25/11/2001,0 - 1,Parma,Milan
+25/11/2001,1 - 2,Piacenza,Atalanta
+25/11/2001,5 - 1,Torino,Hellas Verona
+25/11/2001,1 - 1,Venezia,Lecce
+24/11/2001,1 - 0,Lazio,Juventus
+18/11/2001,1 - 0,Atalanta,Venezia
+18/11/2001,0 - 0,Fiorentina,Torino
+18/11/2001,3 - 2,Hellas Verona,Chievo
+18/11/2001,3 - 1,Juventus,Parma
+18/11/2001,1 - 0,Lecce,Bologna
+18/11/2001,0 - 0,Milan,Piacenza
+18/11/2001,1 - 1,Perugia,Brescia
+18/11/2001,1 - 4,Udinese,Lazio
+17/11/2001,0 - 0,Roma,Internazionale
+04/11/2001,1 - 1,Atalanta,Roma
+04/11/2001,3 - 2,Bologna,Fiorentina
+04/11/2001,2 - 2,Hellas Verona,Juventus
+04/11/2001,2 - 0,Internazionale,Lecce
+04/11/2001,5 - 0,Lazio,Brescia
+04/11/2001,2 - 1,Parma,Perugia
+04/11/2001,1 - 2,Piacenza,Udinese
+04/11/2001,1 - 0,Torino,Milan
+03/11/2001,0 - 0,Venezia,Chievo
+28/10/2001,3 - 2,Brescia,Venezia
+28/10/2001,3 - 0,Chievo,Torino
+28/10/2001,0 - 2,Lecce,Atalanta
+28/10/2001,0 - 0,Milan,Bologna
+28/10/2001,2 - 2,Parma,Hellas Verona
+28/10/2001,1 - 0,Perugia,Piacenza
+28/10/2001,1 - 2,Udinese,Fiorentina
+27/10/2001,0 - 0,Juventus,Internazionale
+27/10/2001,2 - 0,Roma,Lazio
+21/10/2001,1 - 5,Atalanta,Udinese
+21/10/2001,1 - 0,Chievo,Parma
+21/10/2001,0 - 2,Fiorentina,Hellas Verona
+21/10/2001,2 - 4,Internazionale,Milan
+21/10/2001,0 - 1,Piacenza,Brescia
+21/10/2001,5 - 1,Roma,Lecce
+21/10/2001,1 - 0,Torino,Perugia
+21/10/2001,0 - 0,Venezia,Lazio
+20/10/2001,0 - 0,Bologna,Juventus
+14/10/2001,2 - 2,Brescia,Chievo
+14/10/2001,0 - 1,Hellas Verona,Bologna
+14/10/2001,3 - 3,Juventus,Torino
+14/10/2001,4 - 1,Lecce,Fiorentina
+14/10/2001,1 - 1,Milan,Venezia
+14/10/2001,2 - 2,Parma,Piacenza
+14/10/2001,1 - 1,Udinese,Internazionale
+13/10/2001,2 - 0,Lazio,Atalanta
+13/10/2001,0 - 0,Perugia,Roma
+30/09/2001,3 - 3,Brescia,Atalanta
+30/09/2001,3 - 1,Fiorentina,Venezia
+30/09/2001,2 - 1,Hellas Verona,Lecce
+30/09/2001,1 - 0,Internazionale,Bologna
+30/09/2001,0 - 0,Lazio,Parma
+30/09/2001,3 - 1,Perugia,Milan
+30/09/2001,3 - 1,Piacenza,Torino
+30/09/2001,1 - 2,Udinese,Chievo
+29/09/2001,0 - 2,Juventus,Roma
+23/09/2001,1 - 0,Atalanta,Hellas Verona
+23/09/2001,4 - 2,Chievo,Piacenza
+23/09/2001,2 - 0,Milan,Lazio
+23/09/2001,1 - 0,Parma,Brescia
+23/09/2001,1 - 2,Perugia,Udinese
+23/09/2001,2 - 1,Roma,Fiorentina
+23/09/2001,0 - 1,Torino,Internazionale
+23/09/2001,0 - 1,Venezia,Bologna
+22/09/2001,0 - 0,Lecce,Juventus
+16/09/2001,1 - 0,Bologna,Parma
+16/09/2001,1 - 1,Brescia,Lecce
+16/09/2001,3 - 1,Fiorentina,Atalanta
+16/09/2001,1 - 1,Hellas Verona,Perugia
+16/09/2001,2 - 1,Internazionale,Venezia
+16/09/2001,0 - 0,Lazio,Torino
+16/09/2001,2 - 0,Piacenza,Roma
+16/09/2001,1 - 2,Udinese,Milan
+15/09/2001,3 - 2,Juventus,Chievo
+09/09/2001,0 - 2,Atalanta,Juventus
+09/09/2001,2 - 0,Chievo,Bologna
+09/09/2001,5 - 2,Milan,Fiorentina
+09/09/2001,2 - 2,Parma,Internazionale
+09/09/2001,1 - 2,Piacenza,Lecce
+09/09/2001,1 - 3,Torino,Brescia
+09/09/2001,0 - 1,Venezia,Hellas Verona
+08/09/2001,0 - 0,Perugia,Lazio
+08/09/2001,1 - 1,Roma,Udinese
+26/08/2001,2 - 2,Brescia,Milan
+26/08/2001,0 - 2,Fiorentina,Chievo
+26/08/2001,1 - 1,Hellas Verona,Roma
+26/08/2001,4 - 1,Internazionale,Perugia
+26/08/2001,4 - 0,Juventus,Venezia
+26/08/2001,1 - 1,Lazio,Piacenza
+26/08/2001,1 - 1,Lecce,Parma
+26/08/2001,2 - 2,Udinese,Torino
+25/08/2001,1 - 0,Bologna,Atalanta

@@ -1,0 +1,335 @@
+date,score,home_team,away_team
+18/05/2005,1 - 3,Sporting CP,CSKA Moskva
+05/05/2005,2 - 1, [ET] AZ,Sporting CP
+05/05/2005,3 - 0,CSKA Moskva,Parma
+28/04/2005,0 - 0,Parma,CSKA Moskva
+28/04/2005,2 - 1,Sporting CP,AZ
+14/04/2005,2 - 0,Auxerre,CSKA Moskva
+14/04/2005,1 - 1,AZ,Villarreal
+14/04/2005,0 - 0,Parma,Austria Wien
+14/04/2005,4 - 1,Sporting CP,Newcastle United
+07/04/2005,1 - 1,Austria Wien,Parma
+07/04/2005,4 - 0,CSKA Moskva,Auxerre
+07/04/2005,1 - 0,Newcastle United,Sporting CP
+07/04/2005,1 - 2,Villarreal,AZ
+20/03/2005,2 - 0,Villarreal,FCSB
+17/03/2005,0 - 0,Auxerre,Lille
+17/03/2005,2 - 0,CSKA Moskva,Partizan
+17/03/2005,1 - 0,Parma,Sevilla
+17/03/2005,2 - 2,Real Zaragoza,Austria Wien
+17/03/2005,1 - 0,Sporting CP,Middlesbrough
+16/03/2005,2 - 1,AZ,Shakhtar Donetsk
+16/03/2005,0 - 0,FCSB,Villarreal
+16/03/2005,4 - 0,Newcastle United,Olympiakos Piraeus
+10/03/2005,1 - 1,Austria Wien,Real Zaragoza
+10/03/2005,0 - 1,Lille,Auxerre
+10/03/2005,2 - 3,Middlesbrough,Sporting CP
+10/03/2005,1 - 3,Olympiakos Piraeus,Newcastle United
+10/03/2005,1 - 1,Partizan,CSKA Moskva
+10/03/2005,0 - 0,Sevilla,Parma
+10/03/2005,1 - 3,Shakhtar Donetsk,AZ
+27/02/2005,1 - 2,Athletic Club,Austria Wien
+24/02/2005,0 - 0,Austria Wien,Athletic Club
+24/02/2005,3 - 1,Auxerre,Ajax
+24/02/2005,2 - 1,AZ,Alemannia Aachen
+24/02/2005,1 - 1,Benfica,CSKA Moskva
+24/02/2005,0 - 1,Dnipro Dnipropetrovsk,Partizan
+24/02/2005,2 - 0, [PS] FCSB,Valencia
+24/02/2005,1 - 2,Feyenoord,Sporting CP
+24/02/2005,2 - 0,Lille,Basel
+24/02/2005,2 - 1,Middlesbrough,Grazer AK
+24/02/2005,2 - 1,Newcastle United,Heerenveen
+24/02/2005,2 - 1,Real Zaragoza,Fenerbahçe
+24/02/2005,0 - 1,Schalke 04,Shakhtar Donetsk
+24/02/2005,2 - 0,Sevilla,Panathinaikos
+24/02/2005,0 - 1,Sochaux,Olympiakos Piraeus
+24/02/2005,0 - 0,Stuttgart,Parma [ET] 
+24/02/2005,2 - 0,Villarreal,Dynamo Kyiv
+17/02/2005,0 - 0,Alemannia Aachen,AZ
+17/02/2005,0 - 0,Basel,Lille
+17/02/2005,2 - 0,CSKA Moskva,Benfica
+17/02/2005,0 - 0,Dynamo Kyiv,Villarreal
+17/02/2005,0 - 1,Fenerbahçe,Real Zaragoza
+17/02/2005,2 - 2,Grazer AK,Middlesbrough
+17/02/2005,1 - 2,Heerenveen,Newcastle United
+17/02/2005,1 - 0,Olympiakos Piraeus,Sochaux
+16/02/2005,1 - 0,Ajax,Auxerre
+16/02/2005,1 - 0,Panathinaikos,Sevilla
+16/02/2005,0 - 0,Parma,Stuttgart
+16/02/2005,2 - 2,Partizan,Dnipro Dnipropetrovsk
+16/02/2005,1 - 1,Shakhtar Donetsk,Schalke 04
+16/02/2005,2 - 1,Sporting CP,Feyenoord
+16/02/2005,2 - 0,Valencia,FCSB
+16/12/2004,1 - 0,Basel,Feyenoord
+16/12/2004,0 - 1,Hearts,Ferencváros
+01/12/2004,1 - 2,Ferencváros,Basel
+01/12/2004,2 - 1,Feyenoord,Schalke 04
+25/11/2004,1 - 2,Basel,Hearts
+25/11/2004,2 - 0,Schalke 04,Ferencváros
+04/11/2004,1 - 1,Ferencváros,Feyenoord
+04/11/2004,0 - 1,Hearts,Schalke 04
+21/10/2004,3 - 0,Feyenoord,Hearts
+21/10/2004,1 - 1,Schalke 04,Basel
+16/12/2004,3 - 2,Parma,Beşiktaş
+16/12/2004,1 - 7,Standard Liège,Athletic Club
+01/12/2004,1 - 0,Athletic Club,FCSB
+01/12/2004,1 - 1,Beşiktaş,Standard Liège
+25/11/2004,2 - 1,FCSB,Beşiktaş
+25/11/2004,2 - 1,Standard Liège,Parma
+04/11/2004,3 - 1,Beşiktaş,Athletic Club
+04/11/2004,1 - 0,Parma,FCSB
+21/10/2004,2 - 0,Athletic Club,Parma
+21/10/2004,2 - 0,FCSB,Standard Liège
+16/12/2004,1 - 1,Club Brugge,Real Zaragoza
+16/12/2004,1 - 2,Utrecht,Austria Wien
+01/12/2004,1 - 1,Austria Wien,Club Brugge
+01/12/2004,2 - 1,Real Zaragoza,Dnipro Dnipropetrovsk
+25/11/2004,1 - 0,Club Brugge,Utrecht
+25/11/2004,1 - 0,Dnipro Dnipropetrovsk,Austria Wien
+04/11/2004,1 - 0,Austria Wien,Real Zaragoza
+04/11/2004,1 - 2,Utrecht,Dnipro Dnipropetrovsk
+21/10/2004,3 - 2,Dnipro Dnipropetrovsk,Club Brugge
+21/10/2004,2 - 0,Real Zaragoza,Utrecht
+16/12/2004,1 - 1,Newcastle United,Sporting CP
+16/12/2004,1 - 0,Sochaux,Panionios
+01/12/2004,5 - 2,Panionios,Dinamo Tbilisi
+01/12/2004,0 - 1,Sporting CP,Sochaux
+25/11/2004,0 - 4,Dinamo Tbilisi,Sporting CP
+25/11/2004,0 - 4,Sochaux,Newcastle United
+04/11/2004,2 - 0,Newcastle United,Dinamo Tbilisi
+04/11/2004,4 - 1,Sporting CP,Panionios
+21/10/2004,0 - 2,Dinamo Tbilisi,Sochaux
+21/10/2004,0 - 1,Panionios,Newcastle United
+15/12/2004,3 - 0,Middlesbrough,Partizan
+15/12/2004,4 - 0,Villarreal,Egaleo
+02/12/2004,2 - 2,Egaleo,Lazio
+02/12/2004,1 - 1,Partizan,Villarreal
+25/11/2004,2 - 2,Lazio,Partizan
+25/11/2004,2 - 0,Villarreal,Middlesbrough
+04/11/2004,2 - 0,Middlesbrough,Lazio
+04/11/2004,4 - 0,Partizan,Egaleo
+21/10/2004,0 - 1,Egaleo,Middlesbrough
+21/10/2004,1 - 1,Lazio,Villarreal
+15/12/2004,2 - 0,Grazer AK,AZ
+15/12/2004,0 - 2,Rangers,Auxerre
+02/12/2004,5 - 1,Auxerre,Amica
+02/12/2004,1 - 0,AZ,Rangers
+25/11/2004,1 - 3,Amica,AZ
+25/11/2004,3 - 0,Rangers,Grazer AK
+04/11/2004,2 - 0,AZ,Auxerre
+04/11/2004,3 - 1,Grazer AK,Amica
+21/10/2004,0 - 5,Amica,Rangers
+21/10/2004,0 - 0,Auxerre,Grazer AK
+15/12/2004,1 - 0,Heerenveen,Beveren
+15/12/2004,2 - 1,Stuttgart,Dinamo Zagreb
+02/12/2004,0 - 3,Beveren,Benfica
+02/12/2004,2 - 2,Dinamo Zagreb,Heerenveen
+25/11/2004,2 - 0,Benfica,Dinamo Zagreb
+25/11/2004,1 - 0,Heerenveen,Stuttgart
+04/11/2004,6 - 1,Dinamo Zagreb,Beveren
+04/11/2004,3 - 0,Stuttgart,Benfica
+21/10/2004,4 - 2,Benfica,Heerenveen
+21/10/2004,1 - 5,Beveren,Stuttgart
+15/12/2004,0 - 2,AEK Athens,Alemannia Aachen
+15/12/2004,1 - 0,Lille,Sevilla
+02/12/2004,2 - 2,Alemannia Aachen,Zenit
+02/12/2004,3 - 2,Sevilla,AEK Athens
+25/11/2004,1 - 2,AEK Athens,Lille
+25/11/2004,1 - 1,Zenit,Sevilla
+04/11/2004,2 - 1,Lille,Zenit
+04/11/2004,2 - 0,Sevilla,Alemannia Aachen
+21/10/2004,1 - 0,Alemannia Aachen,Lille
+21/10/2004,5 - 1,Zenit,AEK Athens
+30/09/2004,1 - 0,AEK Athens,Gorica
+30/09/2004,0 - 0,Alemannia Aachen,FH
+30/09/2004,1 - 0,Amica,Ventspils
+30/09/2004,2 - 0,Athletic Club,Trabzonspor
+30/09/2004,2 - 0,Auxerre,AaB
+30/09/2004,2 - 1,AZ,PAOK
+30/09/2004,1 - 1,Baník Ostrava,Middlesbrough
+30/09/2004,2 - 0,Basel,Akhmat Grozny
+30/09/2004,2 - 0,Benfica,Dukla
+30/09/2004,1 - 0,Beşiktaş,Bodø / Glimt
+30/09/2004,1 - 0,Beveren,Levski Sofia
+30/09/2004,1 - 5,Bnei Sakhnin,Newcastle United
+30/09/2004,1 - 1,Bochum,Standard Liège
+30/09/2004,1 - 2,Châteauroux,Club Brugge
+30/09/2004,1 - 2,Crvena Zvezda,Zenit
+30/09/2004,2 - 2,CSKA Sofia,FCSB
+30/09/2004,0 - 0,Dinamo Bucureşti,Partizan
+30/09/2004,2 - 1,Dinamo Tbilisi,Wisła Kraków
+30/09/2004,3 - 0,Djurgården,Utrecht
+30/09/2004,2 - 0,Dnipro Dnipropetrovsk,Maccabi Haifa
+30/09/2004,0 - 0,Elfsborg,Dinamo Zagreb
+30/09/2004,3 - 1,Ferencváros,Millwall
+30/09/2004,4 - 1,Feyenoord,Odd
+30/09/2004,1 - 1,Gençlerbirliği,Egaleo
+30/09/2004,5 - 0,Heerenveen,Maccabi Petah Tikva
+30/09/2004,3 - 0,Lazio,Metalurh Donetsk
+30/09/2004,1 - 3,Legia Warszawa,Austria Wien
+30/09/2004,0 - 4,Liepājas Metalurgs,Schalke 04
+30/09/2004,2 - 0,Lille,Shelbourne
+30/09/2004,1 - 0,Lovech,Grazer AK
+30/09/2004,0 - 0,Maribor,Parma
+30/09/2004,1 - 2,Nacional,Sevilla
+30/09/2004,1 - 0, [PS] Rangers,Marítimo
+30/09/2004,0 - 0,Rapid Wien,Sporting CP
+30/09/2004,2 - 3,Sigma Olomouc,Real Zaragoza
+30/09/2004,2 - 2,Sporting Braga,Hearts
+30/09/2004,0 - 5,Stabæk,Sochaux
+30/09/2004,4 - 0,Stuttgart,Újpest
+30/09/2004,1 - 0,Udinese,Panionios
+30/09/2004,3 - 0,Villarreal,Hammarby
+16/09/2004,1 - 1,AaB,Auxerre
+16/09/2004,1 - 1,Akhmat Grozny,Basel
+16/09/2004,1 - 0,Austria Wien,Legia Warszawa
+16/09/2004,1 - 1,Bodø / Glimt,Beşiktaş
+16/09/2004,4 - 0,Club Brugge,Châteauroux
+16/09/2004,2 - 0,Dinamo Zagreb,Elfsborg
+16/09/2004,0 - 3,Dukla,Benfica
+16/09/2004,1 - 0,Egaleo,Gençlerbirliği
+16/09/2004,2 - 1,FCSB,CSKA Sofia
+16/09/2004,1 - 5,FH,Alemannia Aachen
+16/09/2004,1 - 1,Gorica,AEK Athens
+16/09/2004,5 - 0,Grazer AK,Lovech
+16/09/2004,1 - 2,Hammarby,Villarreal
+16/09/2004,3 - 1,Hearts,Sporting Braga
+16/09/2004,1 - 1,Levski Sofia,Beveren
+16/09/2004,1 - 0,Maccabi Haifa,Dnipro Dnipropetrovsk
+16/09/2004,1 - 0,Marítimo,Rangers
+16/09/2004,0 - 3,Metalurh Donetsk,Lazio
+16/09/2004,3 - 0,Middlesbrough,Baník Ostrava
+16/09/2004,1 - 1,Millwall,Ferencváros
+16/09/2004,2 - 0,Newcastle United,Bnei Sakhnin
+16/09/2004,0 - 1,Odd,Feyenoord
+16/09/2004,3 - 1,Panionios,Udinese
+16/09/2004,2 - 3,PAOK,AZ
+16/09/2004,3 - 2,Parma,Maribor
+16/09/2004,3 - 1,Partizan,Dinamo Bucureşti
+16/09/2004,1 - 0,Real Zaragoza,Sigma Olomouc
+16/09/2004,5 - 1,Schalke 04,Liepājas Metalurgs
+16/09/2004,2 - 0,Sevilla,Nacional
+16/09/2004,2 - 2,Shelbourne,Lille
+16/09/2004,4 - 0,Sochaux,Stabæk
+16/09/2004,2 - 0,Sporting CP,Rapid Wien
+16/09/2004,0 - 0,Standard Liège,Bochum
+16/09/2004,3 - 2,Trabzonspor,Athletic Club
+16/09/2004,1 - 3,Újpest,Stuttgart
+16/09/2004,4 - 0,Utrecht,Djurgården
+16/09/2004,1 - 1,Ventspils,Amica
+16/09/2004,4 - 3,Wisła Kraków,Dinamo Tbilisi
+16/09/2004,4 - 0,Zenit,Crvena Zvezda
+26/08/2004,0 - 0,AaB,Žalgiris
+26/08/2004,3 - 0,Austria Wien,Mariupol'
+26/08/2004,1 - 1,Brøndby,Ventspils
+26/08/2004,1 - 1, [ET] CSKA Sofia,Omonia Nicosia
+26/08/2004,2 - 0,Dinamo Tbilisi,Slavia Praha
+26/08/2004,1 - 1,Dnipro Dnipropetrovsk,Petržalka
+26/08/2004,1 - 2,Dunfermline Athletic,FH
+26/08/2004,2 - 1,Ekranas,Odd
+26/08/2004,2 - 1,Elfsborg,Glentoran
+26/08/2004,2 - 1,FCI Levadia,Bodø / Glimt [PS] 
+26/08/2004,1 - 2,FCSB,Železnik
+26/08/2004,1 - 3,Haka,Stabæk
+26/08/2004,1 - 0,Honvéd,Amica [PS] 
+26/08/2004,1 - 2,ÍA,Hammarby
+26/08/2004,0 - 1,Lech Poznań,Akhmat Grozny
+26/08/2004,6 - 0,Legia Warszawa,Metalurgi Rustavi
+26/08/2004,1 - 1,Liepājas Metalurgs,Öster
+26/08/2004,7 - 0,Lovech,Željezničar
+26/08/2004,4 - 0,Maccabi Petah Tikva,AEK Larnaca 
+26/08/2004,0 - 1,Maribor,Budućnost
+26/08/2004,0 - 3,Modriča,Levski Sofia
+26/08/2004,1 - 0,Partizan,Oţelul
+26/08/2004,1 - 3,Partizani Tirana,Bnei Sakhnin
+26/08/2004,2 - 0,Primorje,Dinamo Zagreb
+26/08/2004,2 - 1,Rijeka,Gençlerbirliği
+26/08/2004,0 - 3,Rubin Kazan',Rapid Wien
+26/08/2004,0 - 2,Servette,Újpest
+26/08/2004,4 - 0,Sigma Olomouc,Nistru
+26/08/2004,1 - 2,Tiraspol,Metalurh Donetsk
+26/08/2004,1 - 2,Vaduz,Beveren
+26/08/2004,1 - 1,Wil,Dukla
+26/08/2004,2 - 0,Zenit,Austria Kärnten
+12/08/2004,3 - 0,AEK Larnaca ,Maccabi Petah Tikva
+12/08/2004,1 - 0,Akhmat Grozny,Lech Poznań
+12/08/2004,1 - 0,Amica,Honvéd
+12/08/2004,3 - 1,Beveren,Vaduz
+12/08/2004,3 - 0,Bnei Sakhnin,Partizani Tirana
+12/08/2004,2 - 1,Bodø / Glimt,FCI Levadia
+12/08/2004,4 - 0,Dinamo Zagreb,Primorje
+12/08/2004,3 - 1,Dukla,Wil
+12/08/2004,2 - 2,FH,Dunfermline Athletic
+12/08/2004,1 - 0,Gençlerbirliği,Rijeka
+12/08/2004,0 - 1,Glentoran,Elfsborg
+12/08/2004,2 - 0,Hammarby,ÍA
+12/08/2004,5 - 0,Levski Sofia,Modriča
+12/08/2004,0 - 0,Mariupol',Austria Wien
+12/08/2004,0 - 1,Metalurgi Rustavi,Legia Warszawa
+12/08/2004,3 - 0,Metalurh Donetsk,Tiraspol
+12/08/2004,1 - 2,Nistru,Sigma Olomouc
+12/08/2004,3 - 1,Odd,Ekranas
+12/08/2004,2 - 2,Öster,Liepājas Metalurgs
+12/08/2004,0 - 0,Oţelul,Partizan
+12/08/2004,0 - 3,Petržalka,Dnipro Dnipropetrovsk
+12/08/2004,0 - 2,Rapid Wien,Rubin Kazan'
+12/08/2004,3 - 1,Slavia Praha,Dinamo Tbilisi
+12/08/2004,3 - 1,Stabæk,Haka
+12/08/2004,3 - 1,Újpest,Servette
+12/08/2004,0 - 0,Ventspils,Brøndby
+12/08/2004,1 - 3,Žalgiris,AaB
+12/08/2004,2 - 4,Železnik,FCSB
+12/08/2004,1 - 2,Željezničar,Lovech
+10/08/2004,3 - 1,Austria Kärnten,Zenit
+10/08/2004,1 - 2,Budućnost,Maribor
+10/08/2004,1 - 1,Omonia Nicosia,CSKA Sofia
+29/07/2004,0 - 2,Banants,Mariupol'
+29/07/2004,2 - 1,Birkirkara,Partizani Tirana
+29/07/2004,1 - 0,Dinamo Tbilisi,BATE
+29/07/2004,1 - 4,Dinamo Tirana,Oţelul
+29/07/2004,1 - 3,Etzella Ettelbrück,Haka
+29/07/2004,1 - 2,F91 Dudelange,Ekranas
+29/07/2004,3 - 1,FH,Haverfordwest County
+29/07/2004,1 - 1,Honvéd,Mika
+29/07/2004,8 - 1,Liepājas Metalurgs,B36
+29/07/2004,2 - 3,Longford Town,Vaduz
+29/07/2004,1 - 1,Maribor,Sileks
+29/07/2004,3 - 0,Modriča,FC Santa Coloma
+29/07/2004,2 - 0,Primorje,Marsaxlokk
+29/07/2004,0 - 1,Qarabağ,Dukla
+29/07/2004,1 - 4,Şəmkir,Metalurgi Rustavi
+29/07/2004,1 - 2,Shakhtyor,Nistru
+29/07/2004,1 - 4,Sloga Jugomagnat,Omonia Nicosia
+29/07/2004,1 - 2,The New Saints,Öster
+29/07/2004,2 - 0,Tiraspol,Shirak
+29/07/2004,1 - 2,TVMK Tallinn,ÍA
+29/07/2004,1 - 2,Vantaan Allianssi,Glentoran
+29/07/2004,8 - 0,Ventspils,B68
+29/07/2004,2 - 0,Žalgiris,Portadown
+29/07/2004,4 - 0,Željezničar,Pennarossa
+27/07/2004,1 - 3,Bohemians,FCI Levadia
+15/07/2004,1 - 3,B36,Liepājas Metalurgs
+15/07/2004,0 - 3,B68,Ventspils
+15/07/2004,2 - 3,BATE,Dinamo Tbilisi
+15/07/2004,3 - 0,Dukla,Qarabağ
+15/07/2004,1 - 0,Ekranas,F91 Dudelange
+15/07/2004,0 - 1,FC Santa Coloma,Modriča
+15/07/2004,0 - 0,FCI Levadia,Bohemians
+15/07/2004,2 - 2,Glentoran,Vantaan Allianssi
+15/07/2004,2 - 1,Haka,Etzella Ettelbrück
+15/07/2004,0 - 1,Haverfordwest County,FH
+15/07/2004,4 - 2,ÍA,TVMK Tallinn
+15/07/2004,2 - 0,Mariupol',Banants
+15/07/2004,0 - 1,Marsaxlokk,Primorje
+15/07/2004,1 - 0,Metalurgi Rustavi,Şəmkir
+15/07/2004,1 - 1,Nistru,Shakhtyor
+15/07/2004,4 - 0,Omonia Nicosia,Sloga Jugomagnat
+15/07/2004,2 - 0,Öster,The New Saints
+15/07/2004,4 - 0,Oţelul,Dinamo Tirana
+15/07/2004,4 - 2,Partizani Tirana,Birkirkara
+15/07/2004,1 - 5,Pennarossa,Željezničar
+15/07/2004,2 - 2,Portadown,Žalgiris
+15/07/2004,1 - 3,Shirak,Tiraspol
+15/07/2004,0 - 1,Sileks,Maribor
+15/07/2004,1 - 0,Vaduz,Longford Town
+13/07/2004,0 - 1,Mika,Honvéd

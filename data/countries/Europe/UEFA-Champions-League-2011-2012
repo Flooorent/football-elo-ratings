@@ -1,0 +1,214 @@
+date,score,home_team,away_team
+19/05/2012,1 - 1,Bayern München,Chelsea [PS] 
+25/04/2012,2 - 1,Real Madrid,Bayern München [PS] 
+24/04/2012,2 - 2,Barcelona,Chelsea
+18/04/2012,1 - 0,Chelsea,Barcelona
+17/04/2012,2 - 1,Bayern München,Real Madrid
+04/04/2012,2 - 1,Chelsea,Benfica
+04/04/2012,5 - 2,Real Madrid,APOEL
+03/04/2012,3 - 1,Barcelona,Milan
+03/04/2012,2 - 0,Bayern München,Olympique Marseille
+28/03/2012,0 - 0,Milan,Barcelona
+28/03/2012,0 - 2,Olympique Marseille,Bayern München
+27/03/2012,0 - 3,APOEL,Real Madrid
+27/03/2012,0 - 1,Benfica,Chelsea
+14/03/2012,3 - 1, [ET] Chelsea,Napoli
+14/03/2012,4 - 1,Real Madrid,CSKA Moskva
+13/03/2012,7 - 0,Bayern München,Basel
+13/03/2012,2 - 1,Internazionale,Olympique Marseille
+07/03/2012,1 - 0, [PS] APOEL,Olympique Lyonnais
+07/03/2012,7 - 1,Barcelona,Bayer Leverkusen
+06/03/2012,3 - 0,Arsenal,Milan
+06/03/2012,2 - 0,Benfica,Zenit
+22/02/2012,1 - 0,Basel,Bayern München
+22/02/2012,1 - 0,Olympique Marseille,Internazionale
+21/02/2012,3 - 1,Napoli,Chelsea
+21/02/2012,1 - 1,CSKA Moskva,Real Madrid
+15/02/2012,4 - 0,Milan,Arsenal
+15/02/2012,3 - 2,Zenit,Benfica
+14/02/2012,1 - 3,Bayer Leverkusen,Barcelona
+14/02/2012,1 - 0,Olympique Lyonnais,APOEL
+07/12/2011,2 - 0,Manchester City,Bayern München
+07/12/2011,0 - 2,Villarreal,Napoli
+22/11/2011,3 - 1,Bayern München,Villarreal
+22/11/2011,2 - 1,Napoli,Manchester City
+02/11/2011,3 - 2,Bayern München,Napoli
+02/11/2011,0 - 3,Villarreal,Manchester City
+18/10/2011,2 - 1,Manchester City,Villarreal
+18/10/2011,1 - 1,Napoli,Bayern München
+27/09/2011,2 - 0,Bayern München,Manchester City
+27/09/2011,2 - 0,Napoli,Villarreal
+14/09/2011,1 - 1,Manchester City,Napoli
+14/09/2011,0 - 2,Villarreal,Bayern München
+07/12/2011,1 - 2,Internazionale,CSKA Moskva
+07/12/2011,0 - 0,Lille,Trabzonspor
+22/11/2011,1 - 1,Trabzonspor,Internazionale
+22/11/2011,0 - 2,CSKA Moskva,Lille
+02/11/2011,2 - 1,Internazionale,Lille
+02/11/2011,0 - 0,Trabzonspor,CSKA Moskva
+18/10/2011,0 - 1,Lille,Internazionale
+18/10/2011,3 - 0,CSKA Moskva,Trabzonspor
+27/09/2011,1 - 1,Trabzonspor,Lille
+27/09/2011,2 - 3,CSKA Moskva,Internazionale
+14/09/2011,0 - 1,Internazionale,Trabzonspor
+14/09/2011,2 - 2,Lille,CSKA Moskva
+07/12/2011,2 - 1,Basel,Manchester United
+07/12/2011,1 - 0,Benfica,Oţelul
+22/11/2011,2 - 2,Manchester United,Benfica
+22/11/2011,2 - 3,Oţelul,Basel
+02/11/2011,1 - 1,Benfica,Basel
+02/11/2011,2 - 0,Manchester United,Oţelul
+18/10/2011,0 - 2,Basel,Benfica
+18/10/2011,0 - 2,Oţelul,Manchester United
+27/09/2011,3 - 3,Manchester United,Basel
+27/09/2011,0 - 1,Oţelul,Benfica
+14/09/2011,2 - 1,Basel,Oţelul
+14/09/2011,1 - 1,Benfica,Manchester United
+07/12/2011,0 - 3,Ajax,Real Madrid
+07/12/2011,1 - 7,Dinamo Zagreb,Olympique Lyonnais
+22/11/2011,0 - 0,Olympique Lyonnais,Ajax
+22/11/2011,6 - 2,Real Madrid,Dinamo Zagreb
+02/11/2011,4 - 0,Ajax,Dinamo Zagreb
+02/11/2011,0 - 2,Olympique Lyonnais,Real Madrid
+18/10/2011,0 - 2,Dinamo Zagreb,Ajax
+18/10/2011,4 - 0,Real Madrid,Olympique Lyonnais
+27/09/2011,2 - 0,Olympique Lyonnais,Dinamo Zagreb
+27/09/2011,3 - 0,Real Madrid,Ajax
+14/09/2011,0 - 0,Ajax,Olympique Lyonnais
+14/09/2011,0 - 1,Dinamo Zagreb,Real Madrid
+06/12/2011,3 - 0,Chelsea,Valencia
+06/12/2011,1 - 1,Genk,Bayer Leverkusen
+23/11/2011,2 - 1,Bayer Leverkusen,Chelsea
+23/11/2011,7 - 0,Valencia,Genk
+01/11/2011,1 - 1,Genk,Chelsea
+01/11/2011,3 - 1,Valencia,Bayer Leverkusen
+19/10/2011,2 - 1,Bayer Leverkusen,Valencia
+19/10/2011,5 - 0,Chelsea,Genk
+28/09/2011,2 - 0,Bayer Leverkusen,Genk
+28/09/2011,1 - 1,Valencia,Chelsea
+13/09/2011,2 - 0,Chelsea,Bayer Leverkusen
+13/09/2011,0 - 0,Genk,Valencia
+06/12/2011,2 - 3,Borussia Dortmund,Olympique Marseille
+06/12/2011,3 - 1,Olympiakos Piraeus,Arsenal
+23/11/2011,2 - 1,Arsenal,Borussia Dortmund
+23/11/2011,0 - 1,Olympique Marseille,Olympiakos Piraeus
+01/11/2011,0 - 0,Arsenal,Olympique Marseille
+01/11/2011,1 - 0,Borussia Dortmund,Olympiakos Piraeus
+19/10/2011,3 - 1,Olympiakos Piraeus,Borussia Dortmund
+19/10/2011,0 - 1,Olympique Marseille,Arsenal
+28/09/2011,2 - 1,Arsenal,Olympiakos Piraeus
+28/09/2011,3 - 0,Olympique Marseille,Borussia Dortmund
+13/09/2011,1 - 1,Borussia Dortmund,Arsenal
+13/09/2011,0 - 1,Olympiakos Piraeus,Olympique Marseille
+06/12/2011,0 - 2,APOEL,Shakhtar Donetsk
+06/12/2011,0 - 0,Porto,Zenit
+23/11/2011,0 - 2,Shakhtar Donetsk,Porto
+23/11/2011,0 - 0,Zenit,APOEL
+01/11/2011,2 - 1,APOEL,Porto
+01/11/2011,1 - 0,Zenit,Shakhtar Donetsk
+19/10/2011,1 - 1,Porto,APOEL
+19/10/2011,2 - 2,Shakhtar Donetsk,Zenit
+28/09/2011,1 - 1,Shakhtar Donetsk,APOEL
+28/09/2011,3 - 1,Zenit,Porto
+13/09/2011,2 - 1,APOEL,Zenit
+13/09/2011,2 - 1,Porto,Shakhtar Donetsk
+06/12/2011,4 - 0,Barcelona,BATE
+06/12/2011,2 - 2,[N] Viktoria Plzeň,Milan
+23/11/2011,2 - 3,Milan,Barcelona
+23/11/2011,0 - 1,[N] BATE,Viktoria Plzeň
+01/11/2011,0 - 4,[N] Viktoria Plzeň,Barcelona
+01/11/2011,1 - 1,[N] BATE,Milan
+19/10/2011,2 - 0,Barcelona,Viktoria Plzeň
+19/10/2011,2 - 0,Milan,BATE
+28/09/2011,0 - 5,[N] BATE,Barcelona
+28/09/2011,2 - 0,Milan,Viktoria Plzeň
+13/09/2011,2 - 2,Barcelona,Milan
+13/09/2011,1 - 1,[N] Viktoria Plzeň,BATE
+24/08/2011,3 - 1,Benfica,Twente
+24/08/2011,0 - 2,Sturm Graz,BATE
+24/08/2011,1 - 2,Udinese,Arsenal
+24/08/2011,2 - 1,[N] Viktoria Plzeň,København
+24/08/2011,1 - 1,Rubin Kazan',Olympique Lyonnais
+23/08/2011,3 - 1,APOEL,Wisła Kraków
+23/08/2011,2 - 1, [PS] Genk,Maccabi Haifa
+23/08/2011,2 - 0,Malmö FF,Dinamo Zagreb
+23/08/2011,3 - 0,Villarreal,OB
+23/08/2011,0 - 1,Zürich,Bayern München
+17/08/2011,2 - 0,Bayern München,Zürich
+17/08/2011,4 - 1,Dinamo Zagreb,Malmö FF
+17/08/2011,2 - 1,[N] Maccabi Haifa,Genk
+17/08/2011,1 - 0,OB,Villarreal
+17/08/2011,1 - 0,Wisła Kraków,APOEL
+16/08/2011,1 - 0,Arsenal,Udinese
+16/08/2011,1 - 1,[N] BATE,Sturm Graz
+16/08/2011,1 - 3,København,Viktoria Plzeň
+16/08/2011,3 - 1,Olympique Lyonnais,Rubin Kazan'
+16/08/2011,2 - 2,Twente,Benfica
+03/08/2011,1 - 0,Dinamo Zagreb,HJK
+03/08/2011,1 - 1,Maribor,Maccabi Haifa
+03/08/2011,1 - 1,Partizan,Genk
+03/08/2011,1 - 1,[N] Trabzonspor,Benfica
+03/08/2011,1 - 0,Sturm Graz,Zestafoni
+03/08/2011,3 - 1,Wisła Kraków,Lovech
+03/08/2011,0 - 2,Slovan Bratislava,APOEL
+03/08/2011,3 - 2,Viktoria Plzeň,Rosenborg
+03/08/2011,1 - 0,Zürich,Standard Liège
+03/08/2011,0 - 0,Vaslui,Twente
+03/08/2011,1 - 1,Malmö FF,Rangers
+03/08/2011,2 - 1,Rubin Kazan',Dynamo Kyiv
+02/08/2011,3 - 4,Panathinaikos,OB
+02/08/2011,0 - 2,Shamrock Rovers,København
+02/08/2011,3 - 1,BATE,Ekranas
+27/07/2011,2 - 0,Benfica,Trabzonspor
+27/07/2011,0 - 1,Rosenborg,Viktoria Plzeň
+27/07/2011,1 - 1,Standard Liège,Zürich
+27/07/2011,2 - 1,Maccabi Haifa,Maribor
+27/07/2011,1 - 0,København,Shamrock Rovers
+27/07/2011,1 - 1,OB,Panathinaikos
+27/07/2011,1 - 2,HJK,Dinamo Zagreb
+26/07/2011,2 - 1,Genk,Partizan
+26/07/2011,0 - 1,Rangers,Malmö FF
+26/07/2011,2 - 0,[N] Twente,Vaslui
+26/07/2011,0 - 2,Dynamo Kyiv,Rubin Kazan'
+26/07/2011,1 - 2,Lovech,Wisła Kraków
+26/07/2011,0 - 0,APOEL,Slovan Bratislava
+26/07/2011,0 - 0,Ekranas,BATE
+26/07/2011,1 - 1,[N] Zestafoni,Sturm Graz
+20/07/2011,3 - 2,Borac Banja Luka,Maccabi Haifa
+20/07/2011,2 - 0,Breidablik,Rosenborg
+20/07/2011,3 - 2,Videoton,Sturm Graz
+20/07/2011,4 - 0,APOEL,Skënderbeu Korçë
+20/07/2011,2 - 0,Dacia,Zestafoni
+19/07/2011,0 - 1,Shkendija,Partizan
+19/07/2011,2 - 0,Wisła Kraków,Skonto
+19/07/2011,5 - 1,Viktoria Plzeň,Pyunik
+19/07/2011,1 - 1,HB,Malmö FF
+19/07/2011,3 - 0,Lovech,Mogren
+19/07/2011,2 - 0,BATE,Linfield
+19/07/2011,1 - 0,Ekranas,Valletta
+19/07/2011,1 - 3,F91 Dudelange,Maribor
+19/07/2011,10 - 0,HJK,Bangor City
+19/07/2011,0 - 0,Neftçi,Dinamo Zagreb
+19/07/2011,1 - 1,Tobol,Slovan Bratislava
+19/07/2011,0 - 0,Flora,Shamrock Rovers
+13/07/2011,1 - 1,Linfield,BATE
+13/07/2011,4 - 0,Partizan,Shkendija
+13/07/2011,5 - 0,Rosenborg,Breidablik
+13/07/2011,0 - 1,Skonto,Wisła Kraków
+13/07/2011,2 - 0,[N] Sturm Graz,Videoton
+13/07/2011,3 - 0,Dinamo Zagreb,Neftçi
+13/07/2011,0 - 2,Skënderbeu Korçë,APOEL
+13/07/2011,0 - 3,Bangor City,HJK
+13/07/2011,5 - 1,Maccabi Haifa,Borac Banja Luka
+13/07/2011,2 - 0,Malmö FF,HB
+13/07/2011,3 - 0,Zestafoni,Dacia
+12/07/2011,1 - 0,Shamrock Rovers,Flora
+12/07/2011,2 - 0,Slovan Bratislava,Tobol
+12/07/2011,2 - 0,Maribor,F91 Dudelange
+12/07/2011,1 - 2,Mogren,Lovech
+12/07/2011,2 - 3,Valletta,Ekranas
+12/07/2011,0 - 4,Pyunik,Viktoria Plzeň
+06/07/2011,2 - 1,Valletta,Tre Fiori
+05/07/2011,2 - 0,F91 Dudelange,FC Santa Coloma
+28/06/2011,0 - 3,Tre Fiori,Valletta
+28/06/2011,0 - 2,FC Santa Coloma,F91 Dudelange

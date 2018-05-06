@@ -1,0 +1,381 @@
+date,score,home_team,away_team
+13/05/2012,2 - 1,Chelsea,Blackburn Rovers
+13/05/2012,3 - 1,Everton,Newcastle United
+13/05/2012,3 - 2,Manchester City,Queens Park Rangers
+13/05/2012,2 - 0,Norwich City,Aston Villa
+13/05/2012,2 - 2,Stoke City,Bolton Wanderers
+13/05/2012,0 - 1,Sunderland,Manchester United
+13/05/2012,1 - 0,Swansea City,Liverpool
+13/05/2012,2 - 0,Tottenham Hotspur,Fulham
+13/05/2012,2 - 3,West Bromwich Albion,Arsenal
+13/05/2012,3 - 2,Wigan Athletic,Wolverhampton Wanderers
+08/05/2012,4 - 1,Liverpool,Chelsea
+07/05/2012,0 - 1,Blackburn Rovers,Wigan Athletic
+06/05/2012,2 - 0,Manchester United,Swansea City
+06/05/2012,1 - 1,Aston Villa,Tottenham Hotspur
+06/05/2012,2 - 2,Bolton Wanderers,West Bromwich Albion
+06/05/2012,2 - 1,Fulham,Sunderland
+06/05/2012,1 - 0,Queens Park Rangers,Stoke City
+06/05/2012,0 - 0,Wolverhampton Wanderers,Everton
+06/05/2012,0 - 2,Newcastle United,Manchester City
+05/05/2012,3 - 3,Arsenal,Norwich City
+02/05/2012,1 - 4,Bolton Wanderers,Tottenham Hotspur
+02/05/2012,0 - 2,Chelsea,Newcastle United
+01/05/2012,0 - 1,Liverpool,Fulham
+01/05/2012,1 - 1,Stoke City,Everton
+30/04/2012,1 - 0,Manchester City,Manchester United
+29/04/2012,2 - 0,Tottenham Hotspur,Blackburn Rovers
+29/04/2012,6 - 1,Chelsea,Queens Park Rangers
+28/04/2012,0 - 3,Norwich City,Liverpool
+28/04/2012,4 - 0,Everton,Fulham
+28/04/2012,1 - 1,Stoke City,Arsenal
+28/04/2012,2 - 2,Sunderland,Bolton Wanderers
+28/04/2012,4 - 4,Swansea City,Wolverhampton Wanderers
+28/04/2012,0 - 0,West Bromwich Albion,Aston Villa
+28/04/2012,4 - 0,Wigan Athletic,Newcastle United
+24/04/2012,1 - 2,Aston Villa,Bolton Wanderers
+22/04/2012,0 - 1,Liverpool,West Bromwich Albion
+22/04/2012,0 - 2,Wolverhampton Wanderers,Manchester City
+22/04/2012,4 - 4,Manchester United,Everton
+21/04/2012,1 - 0,Queens Park Rangers,Tottenham Hotspur
+21/04/2012,0 - 0,Aston Villa,Sunderland
+21/04/2012,2 - 0,Blackburn Rovers,Norwich City
+21/04/2012,1 - 1,Bolton Wanderers,Swansea City
+21/04/2012,2 - 1,Fulham,Wigan Athletic
+21/04/2012,3 - 0,Newcastle United,Stoke City
+21/04/2012,0 - 0,Arsenal,Chelsea
+16/04/2012,1 - 2,Arsenal,Wigan Athletic
+15/04/2012,4 - 0,Manchester United,Aston Villa
+14/04/2012,0 - 0,Sunderland,Wolverhampton Wanderers
+14/04/2012,3 - 0,Swansea City,Blackburn Rovers
+14/04/2012,1 - 0,West Bromwich Albion,Queens Park Rangers
+14/04/2012,1 - 6,Norwich City,Manchester City
+11/04/2012,3 - 0,Queens Park Rangers,Swansea City
+11/04/2012,4 - 0,Manchester City,West Bromwich Albion
+11/04/2012,1 - 0,Wigan Athletic,Manchester United
+11/04/2012,0 - 3,Wolverhampton Wanderers,Arsenal
+10/04/2012,2 - 3,Blackburn Rovers,Liverpool
+09/04/2012,1 - 1,Fulham,Chelsea
+09/04/2012,1 - 1,Aston Villa,Stoke City
+09/04/2012,4 - 0,Everton,Sunderland
+09/04/2012,2 - 0,Newcastle United,Bolton Wanderers
+09/04/2012,1 - 2,Tottenham Hotspur,Norwich City
+08/04/2012,1 - 0,Arsenal,Manchester City
+08/04/2012,2 - 0,Manchester United,Queens Park Rangers
+07/04/2012,2 - 1,Stoke City,Wolverhampton Wanderers
+07/04/2012,0 - 3,Bolton Wanderers,Fulham
+07/04/2012,2 - 1,Chelsea,Wigan Athletic
+07/04/2012,1 - 1,Liverpool,Aston Villa
+07/04/2012,2 - 2,Norwich City,Everton
+07/04/2012,3 - 0,West Bromwich Albion,Blackburn Rovers
+07/04/2012,0 - 0,Sunderland,Tottenham Hotspur
+06/04/2012,0 - 2,Swansea City,Newcastle United
+02/04/2012,0 - 2,Blackburn Rovers,Manchester United
+01/04/2012,3 - 1,Tottenham Hotspur,Swansea City
+01/04/2012,2 - 0,Newcastle United,Liverpool
+31/03/2012,2 - 4,Aston Villa,Chelsea
+31/03/2012,2 - 0,Everton,West Bromwich Albion
+31/03/2012,2 - 1,Fulham,Norwich City
+31/03/2012,3 - 3,Manchester City,Sunderland
+31/03/2012,2 - 1,Queens Park Rangers,Arsenal
+31/03/2012,2 - 0,Wigan Athletic,Stoke City
+31/03/2012,2 - 3,Wolverhampton Wanderers,Bolton Wanderers
+26/03/2012,1 - 0,Manchester United,Fulham
+25/03/2012,1 - 3,West Bromwich Albion,Newcastle United
+24/03/2012,1 - 1,Stoke City,Manchester City
+24/03/2012,3 - 0,Arsenal,Aston Villa
+24/03/2012,2 - 1,Bolton Wanderers,Blackburn Rovers
+24/03/2012,1 - 2,Liverpool,Wigan Athletic
+24/03/2012,2 - 1,Norwich City,Wolverhampton Wanderers
+24/03/2012,3 - 1,Sunderland,Queens Park Rangers
+24/03/2012,0 - 2,Swansea City,Everton
+24/03/2012,0 - 0,Chelsea,Tottenham Hotspur
+21/03/2012,0 - 1,Everton,Arsenal
+21/03/2012,3 - 2,Queens Park Rangers,Liverpool
+21/03/2012,2 - 1,Manchester City,Chelsea
+21/03/2012,1 - 1,Tottenham Hotspur,Stoke City
+20/03/2012,2 - 0,Blackburn Rovers,Sunderland
+18/03/2012,1 - 0,Newcastle United,Norwich City
+18/03/2012,0 - 5,Wolverhampton Wanderers,Manchester United
+17/03/2012,0 - 3,Fulham,Swansea City
+17/03/2012,1 - 1,Wigan Athletic,West Bromwich Albion
+13/03/2012,3 - 0,Liverpool,Everton
+12/03/2012,2 - 1,Arsenal,Newcastle United
+11/03/2012,1 - 1,Norwich City,Wigan Athletic
+11/03/2012,2 - 0,Manchester United,West Bromwich Albion
+11/03/2012,1 - 0,Swansea City,Manchester City
+10/03/2012,1 - 0,Everton,Tottenham Hotspur
+10/03/2012,1 - 0,Aston Villa,Fulham
+10/03/2012,1 - 0,Chelsea,Stoke City
+10/03/2012,1 - 0,Sunderland,Liverpool
+10/03/2012,0 - 2,Wolverhampton Wanderers,Blackburn Rovers
+10/03/2012,2 - 1,Bolton Wanderers,Queens Park Rangers
+04/03/2012,1 - 3,Tottenham Hotspur,Manchester United
+04/03/2012,5 - 0,Fulham,Wolverhampton Wanderers
+04/03/2012,1 - 1,Newcastle United,Sunderland
+03/03/2012,1 - 1,Blackburn Rovers,Aston Villa
+03/03/2012,2 - 0,Manchester City,Bolton Wanderers
+03/03/2012,1 - 1,Queens Park Rangers,Everton
+03/03/2012,1 - 0,Stoke City,Norwich City
+03/03/2012,1 - 0,West Bromwich Albion,Chelsea
+03/03/2012,0 - 2,Wigan Athletic,Swansea City
+03/03/2012,1 - 2,Liverpool,Arsenal
+26/02/2012,2 - 0,Stoke City,Swansea City
+26/02/2012,5 - 2,Arsenal,Tottenham Hotspur
+26/02/2012,1 - 2,Norwich City,Manchester United
+25/02/2012,3 - 0,Manchester City,Blackburn Rovers
+25/02/2012,3 - 0,Chelsea,Bolton Wanderers
+25/02/2012,2 - 2,Newcastle United,Wolverhampton Wanderers
+25/02/2012,0 - 1,Queens Park Rangers,Fulham
+25/02/2012,4 - 0,West Bromwich Albion,Sunderland
+25/02/2012,0 - 0,Wigan Athletic,Aston Villa
+12/02/2012,0 - 1,Aston Villa,Manchester City
+12/02/2012,1 - 5,Wolverhampton Wanderers,West Bromwich Albion
+11/02/2012,5 - 0,Tottenham Hotspur,Newcastle United
+11/02/2012,3 - 2,Blackburn Rovers,Queens Park Rangers
+11/02/2012,1 - 2,Bolton Wanderers,Wigan Athletic
+11/02/2012,2 - 0,Everton,Chelsea
+11/02/2012,2 - 1,Fulham,Stoke City
+11/02/2012,1 - 2,Sunderland,Arsenal
+11/02/2012,2 - 3,Swansea City,Norwich City
+11/02/2012,2 - 1,Manchester United,Liverpool
+06/02/2012,0 - 0,Liverpool,Tottenham Hotspur
+05/02/2012,3 - 3,Chelsea,Manchester United
+05/02/2012,2 - 1,Newcastle United,Aston Villa
+04/02/2012,3 - 0,Manchester City,Fulham
+04/02/2012,2 - 0,Norwich City,Bolton Wanderers
+04/02/2012,1 - 2,Queens Park Rangers,Wolverhampton Wanderers
+04/02/2012,0 - 1,Stoke City,Sunderland
+04/02/2012,1 - 2,West Bromwich Albion,Swansea City
+04/02/2012,1 - 1,Wigan Athletic,Everton
+04/02/2012,7 - 1,Arsenal,Blackburn Rovers
+01/02/2012,0 - 2,Blackburn Rovers,Newcastle United
+01/02/2012,0 - 0,Bolton Wanderers,Arsenal
+01/02/2012,1 - 1,Fulham,West Bromwich Albion
+01/02/2012,3 - 0,Sunderland,Norwich City
+01/02/2012,2 - 2,Aston Villa,Queens Park Rangers
+31/01/2012,1 - 0,Everton,Manchester City
+31/01/2012,2 - 0,Manchester United,Stoke City
+31/01/2012,1 - 1,Swansea City,Chelsea
+31/01/2012,3 - 1,Tottenham Hotspur,Wigan Athletic
+31/01/2012,0 - 3,Wolverhampton Wanderers,Liverpool
+22/01/2012,1 - 2,Arsenal,Manchester United
+22/01/2012,3 - 2,Manchester City,Tottenham Hotspur
+21/01/2012,3 - 1,Bolton Wanderers,Liverpool
+21/01/2012,1 - 1,Everton,Blackburn Rovers
+21/01/2012,5 - 2,Fulham,Newcastle United
+21/01/2012,3 - 1,Queens Park Rangers,Wigan Athletic
+21/01/2012,1 - 2,Stoke City,West Bromwich Albion
+21/01/2012,2 - 0,Sunderland,Swansea City
+21/01/2012,2 - 3,Wolverhampton Wanderers,Aston Villa
+21/01/2012,0 - 0,Norwich City,Chelsea
+16/01/2012,0 - 1,Wigan Athletic,Manchester City
+15/01/2012,3 - 2,Swansea City,Arsenal
+15/01/2012,1 - 0,Newcastle United,Queens Park Rangers
+14/01/2012,1 - 1,Aston Villa,Everton
+14/01/2012,3 - 1,Blackburn Rovers,Fulham
+14/01/2012,1 - 0,Chelsea,Sunderland
+14/01/2012,0 - 0,Liverpool,Stoke City
+14/01/2012,3 - 0,Manchester United,Bolton Wanderers
+14/01/2012,1 - 1,Tottenham Hotspur,Wolverhampton Wanderers
+14/01/2012,1 - 2,West Bromwich Albion,Norwich City
+11/01/2012,2 - 0,Tottenham Hotspur,Everton
+04/01/2012,1 - 2,Everton,Bolton Wanderers
+04/01/2012,3 - 0,Newcastle United,Manchester United
+03/01/2012,3 - 0,Manchester City,Liverpool
+03/01/2012,1 - 0,Tottenham Hotspur,West Bromwich Albion
+03/01/2012,1 - 4,Wigan Athletic,Sunderland
+02/01/2012,2 - 1,Fulham,Arsenal
+02/01/2012,0 - 2,Aston Villa,Swansea City
+02/01/2012,1 - 2,Blackburn Rovers,Stoke City
+02/01/2012,1 - 2,Queens Park Rangers,Norwich City
+02/01/2012,1 - 2,Wolverhampton Wanderers,Chelsea
+01/01/2012,1 - 0,Sunderland,Manchester City
+01/01/2012,0 - 1,West Bromwich Albion,Everton
+31/12/2011,1 - 0,Arsenal,Queens Park Rangers
+31/12/2011,1 - 1,Bolton Wanderers,Wolverhampton Wanderers
+31/12/2011,1 - 3,Chelsea,Aston Villa
+31/12/2011,1 - 1,Norwich City,Fulham
+31/12/2011,2 - 2,Stoke City,Wigan Athletic
+31/12/2011,1 - 1,Swansea City,Tottenham Hotspur
+31/12/2011,2 - 3,Manchester United,Blackburn Rovers
+30/12/2011,3 - 1,Liverpool,Newcastle United
+27/12/2011,0 - 2,Norwich City,Tottenham Hotspur
+27/12/2011,1 - 1,Swansea City,Queens Park Rangers
+27/12/2011,1 - 1,Arsenal,Wolverhampton Wanderers
+26/12/2011,0 - 0,Stoke City,Aston Villa
+26/12/2011,0 - 2,Bolton Wanderers,Newcastle United
+26/12/2011,1 - 1,Liverpool,Blackburn Rovers
+26/12/2011,5 - 0,Manchester United,Wigan Athletic
+26/12/2011,1 - 1,Sunderland,Everton
+26/12/2011,0 - 0,West Bromwich Albion,Manchester City
+26/12/2011,1 - 1,Chelsea,Fulham
+22/12/2011,1 - 1,Tottenham Hotspur,Chelsea
+21/12/2011,1 - 0,Everton,Swansea City
+21/12/2011,0 - 5,Fulham,Manchester United
+21/12/2011,2 - 3,Queens Park Rangers,Sunderland
+21/12/2011,0 - 0,Wigan Athletic,Liverpool
+21/12/2011,1 - 2,Aston Villa,Arsenal
+21/12/2011,3 - 0,Manchester City,Stoke City
+21/12/2011,2 - 3,Newcastle United,West Bromwich Albion
+20/12/2011,1 - 2,Blackburn Rovers,Bolton Wanderers
+20/12/2011,2 - 2,Wolverhampton Wanderers,Norwich City
+18/12/2011,1 - 0,Manchester City,Arsenal
+18/12/2011,1 - 0,Tottenham Hotspur,Sunderland
+18/12/2011,0 - 2,Aston Villa,Liverpool
+18/12/2011,0 - 2,Queens Park Rangers,Manchester United
+17/12/2011,1 - 1,Wigan Athletic,Chelsea
+17/12/2011,1 - 2,Blackburn Rovers,West Bromwich Albion
+17/12/2011,1 - 1,Everton,Norwich City
+17/12/2011,2 - 0,Fulham,Bolton Wanderers
+17/12/2011,0 - 0,Newcastle United,Swansea City
+17/12/2011,1 - 2,Wolverhampton Wanderers,Stoke City
+12/12/2011,2 - 1,Chelsea,Manchester City
+11/12/2011,2 - 1,Stoke City,Tottenham Hotspur
+11/12/2011,2 - 1,Sunderland,Blackburn Rovers
+10/12/2011,1 - 0,Arsenal,Everton
+10/12/2011,1 - 2,Bolton Wanderers,Aston Villa
+10/12/2011,1 - 0,Liverpool,Queens Park Rangers
+10/12/2011,4 - 1,Manchester United,Wolverhampton Wanderers
+10/12/2011,4 - 2,Norwich City,Newcastle United
+10/12/2011,2 - 0,Swansea City,Fulham
+10/12/2011,1 - 2,West Bromwich Albion,Wigan Athletic
+05/12/2011,1 - 0,Fulham,Liverpool
+04/12/2011,2 - 1,Wolverhampton Wanderers,Sunderland
+04/12/2011,0 - 1,Everton,Stoke City
+03/12/2011,0 - 1,Aston Villa,Manchester United
+03/12/2011,4 - 2,Blackburn Rovers,Swansea City
+03/12/2011,5 - 1,Manchester City,Norwich City
+03/12/2011,1 - 1,Queens Park Rangers,West Bromwich Albion
+03/12/2011,3 - 0,Tottenham Hotspur,Bolton Wanderers
+03/12/2011,0 - 4,Wigan Athletic,Arsenal
+03/12/2011,0 - 3,Newcastle United,Chelsea
+27/11/2011,1 - 1,Liverpool,Manchester City
+27/11/2011,0 - 0,Swansea City,Aston Villa
+26/11/2011,1 - 1,Arsenal,Fulham
+26/11/2011,0 - 2,Bolton Wanderers,Everton
+26/11/2011,3 - 0,Chelsea,Wolverhampton Wanderers
+26/11/2011,1 - 1,Manchester United,Newcastle United
+26/11/2011,2 - 1,Norwich City,Queens Park Rangers
+26/11/2011,1 - 2,Sunderland,Wigan Athletic
+26/11/2011,1 - 3,West Bromwich Albion,Tottenham Hotspur
+26/11/2011,3 - 1,Stoke City,Blackburn Rovers
+21/11/2011,2 - 0,Tottenham Hotspur,Aston Villa
+20/11/2011,1 - 2,Chelsea,Liverpool
+19/11/2011,0 - 1,Swansea City,Manchester United
+19/11/2011,2 - 1,Everton,Wolverhampton Wanderers
+19/11/2011,3 - 1,Manchester City,Newcastle United
+19/11/2011,2 - 3,Stoke City,Queens Park Rangers
+19/11/2011,0 - 0,Sunderland,Fulham
+19/11/2011,2 - 1,West Bromwich Albion,Bolton Wanderers
+19/11/2011,3 - 3,Wigan Athletic,Blackburn Rovers
+19/11/2011,1 - 2,Norwich City,Arsenal
+06/11/2011,1 - 3,Fulham,Tottenham Hotspur
+06/11/2011,5 - 0,Bolton Wanderers,Stoke City
+06/11/2011,3 - 1,Wolverhampton Wanderers,Wigan Athletic
+05/11/2011,2 - 3,Queens Park Rangers,Manchester City
+05/11/2011,3 - 0,Arsenal,West Bromwich Albion
+05/11/2011,3 - 2,Aston Villa,Norwich City
+05/11/2011,0 - 1,Blackburn Rovers,Chelsea
+05/11/2011,0 - 0,Liverpool,Swansea City
+05/11/2011,1 - 0,Manchester United,Sunderland
+05/11/2011,2 - 1,Newcastle United,Everton
+31/10/2011,1 - 3,Stoke City,Newcastle United
+30/10/2011,3 - 1,Tottenham Hotspur,Queens Park Rangers
+29/10/2011,0 - 2,West Bromwich Albion,Liverpool
+29/10/2011,3 - 1,Manchester City,Wolverhampton Wanderers
+29/10/2011,3 - 3,Norwich City,Blackburn Rovers
+29/10/2011,2 - 2,Sunderland,Aston Villa
+29/10/2011,3 - 1,Swansea City,Bolton Wanderers
+29/10/2011,0 - 2,Wigan Athletic,Fulham
+29/10/2011,3 - 5,Chelsea,Arsenal
+29/10/2011,0 - 1,Everton,Manchester United
+23/10/2011,1 - 0,Queens Park Rangers,Chelsea
+23/10/2011,1 - 2,Blackburn Rovers,Tottenham Hotspur
+23/10/2011,3 - 1,Arsenal,Stoke City
+23/10/2011,1 - 3,Fulham,Everton
+23/10/2011,1 - 6,Manchester United,Manchester City
+22/10/2011,1 - 1,Liverpool,Norwich City
+22/10/2011,1 - 2,Aston Villa,West Bromwich Albion
+22/10/2011,0 - 2,Bolton Wanderers,Sunderland
+22/10/2011,1 - 0,Newcastle United,Wigan Athletic
+22/10/2011,2 - 2,Wolverhampton Wanderers,Swansea City
+16/10/2011,2 - 2,Newcastle United,Tottenham Hotspur
+16/10/2011,2 - 1,Arsenal,Sunderland
+16/10/2011,2 - 0,West Bromwich Albion,Wolverhampton Wanderers
+15/10/2011,3 - 1,Chelsea,Everton
+15/10/2011,4 - 1,Manchester City,Aston Villa
+15/10/2011,3 - 1,Norwich City,Swansea City
+15/10/2011,1 - 1,Queens Park Rangers,Blackburn Rovers
+15/10/2011,2 - 0,Stoke City,Fulham
+15/10/2011,1 - 3,Wigan Athletic,Bolton Wanderers
+15/10/2011,1 - 1,Liverpool,Manchester United
+02/10/2011,2 - 1,Tottenham Hotspur,Arsenal
+02/10/2011,6 - 0,Fulham,Queens Park Rangers
+02/10/2011,2 - 0,Swansea City,Stoke City
+02/10/2011,1 - 5,Bolton Wanderers,Chelsea
+01/10/2011,2 - 0,Aston Villa,Wigan Athletic
+01/10/2011,0 - 4,Blackburn Rovers,Manchester City
+01/10/2011,2 - 0,Manchester United,Norwich City
+01/10/2011,2 - 2,Sunderland,West Bromwich Albion
+01/10/2011,1 - 2,Wolverhampton Wanderers,Newcastle United
+01/10/2011,0 - 2,Everton,Liverpool
+26/09/2011,2 - 1,Norwich City,Sunderland
+25/09/2011,1 - 1,Queens Park Rangers,Aston Villa
+24/09/2011,1 - 1,Stoke City,Manchester United
+24/09/2011,3 - 0,Arsenal,Bolton Wanderers
+24/09/2011,4 - 1,Chelsea,Swansea City
+24/09/2011,2 - 1,Liverpool,Wolverhampton Wanderers
+24/09/2011,3 - 1,Newcastle United,Blackburn Rovers
+24/09/2011,0 - 0,West Bromwich Albion,Fulham
+24/09/2011,1 - 2,Wigan Athletic,Tottenham Hotspur
+24/09/2011,2 - 0,Manchester City,Everton
+18/09/2011,3 - 1,Manchester United,Chelsea
+18/09/2011,2 - 2,Fulham,Manchester City
+18/09/2011,4 - 0,Sunderland,Stoke City
+18/09/2011,4 - 0,Tottenham Hotspur,Liverpool
+17/09/2011,1 - 1,Aston Villa,Newcastle United
+17/09/2011,1 - 2,Bolton Wanderers,Norwich City
+17/09/2011,3 - 1,Everton,Wigan Athletic
+17/09/2011,3 - 0,Swansea City,West Bromwich Albion
+17/09/2011,0 - 3,Wolverhampton Wanderers,Queens Park Rangers
+17/09/2011,4 - 3,Blackburn Rovers,Arsenal
+12/09/2011,0 - 0,Queens Park Rangers,Newcastle United
+11/09/2011,1 - 1,Fulham,Blackburn Rovers
+11/09/2011,0 - 1,Norwich City,West Bromwich Albion
+10/09/2011,0 - 5,Bolton Wanderers,Manchester United
+10/09/2011,1 - 0,Arsenal,Swansea City
+10/09/2011,2 - 2,Everton,Aston Villa
+10/09/2011,3 - 0,Manchester City,Wigan Athletic
+10/09/2011,1 - 0,Stoke City,Liverpool
+10/09/2011,1 - 2,Sunderland,Chelsea
+10/09/2011,0 - 2,Wolverhampton Wanderers,Tottenham Hotspur
+28/08/2011,8 - 2,Manchester United,Arsenal
+28/08/2011,0 - 1,West Bromwich Albion,Stoke City
+28/08/2011,1 - 5,Tottenham Hotspur,Manchester City
+28/08/2011,2 - 1,Newcastle United,Fulham
+27/08/2011,3 - 1,Liverpool,Bolton Wanderers
+27/08/2011,0 - 1,Blackburn Rovers,Everton
+27/08/2011,3 - 1,Chelsea,Norwich City
+27/08/2011,0 - 0,Swansea City,Sunderland
+27/08/2011,2 - 0,Wigan Athletic,Queens Park Rangers
+27/08/2011,0 - 0,Aston Villa,Wolverhampton Wanderers
+22/08/2011,3 - 0,Manchester United,Tottenham Hotspur
+21/08/2011,2 - 3,Bolton Wanderers,Manchester City
+21/08/2011,2 - 0,Wolverhampton Wanderers,Fulham
+21/08/2011,1 - 1,Norwich City,Stoke City
+20/08/2011,2 - 1,Chelsea,West Bromwich Albion
+20/08/2011,3 - 1,Aston Villa,Blackburn Rovers
+20/08/2011,0 - 1,Everton,Queens Park Rangers
+20/08/2011,0 - 0,Swansea City,Wigan Athletic
+20/08/2011,0 - 2,Arsenal,Liverpool
+20/08/2011,0 - 1,Sunderland,Newcastle United
+15/08/2011,4 - 0,Manchester City,Swansea City
+14/08/2011,1 - 2,West Bromwich Albion,Manchester United
+14/08/2011,0 - 0,Stoke City,Chelsea
+13/08/2011,0 - 0,Newcastle United,Arsenal
+13/08/2011,1 - 2,Blackburn Rovers,Wolverhampton Wanderers
+13/08/2011,0 - 0,Fulham,Aston Villa
+13/08/2011,1 - 1,Liverpool,Sunderland
+13/08/2011,0 - 4,Queens Park Rangers,Bolton Wanderers
+13/08/2011,1 - 1,Wigan Athletic,Norwich City

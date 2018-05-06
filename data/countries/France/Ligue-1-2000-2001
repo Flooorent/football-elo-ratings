@@ -1,0 +1,307 @@
+date,score,home_team,away_team
+19/05/2001,5 - 1,Bastia,Toulouse
+19/05/2001,1 - 4,Lens,Nantes
+19/05/2001,2 - 0,Metz,Bordeaux
+19/05/2001,1 - 2,Monaco,Lille
+19/05/2001,3 - 4,Rennes,Olympique Lyonnais
+19/05/2001,2 - 2,Saint-Étienne,Guingamp
+19/05/2001,1 - 0,Sedan,Auxerre
+19/05/2001,1 - 2,Strasbourg,PSG
+19/05/2001,1 - 1,Troyes,Olympique Marseille
+12/05/2001,0 - 1,Auxerre,Rennes
+12/05/2001,2 - 2,Bordeaux,Sedan
+12/05/2001,1 - 1,Guingamp,Troyes
+12/05/2001,0 - 0,Monaco,Lens
+12/05/2001,1 - 0,Nantes,Saint-Étienne
+12/05/2001,5 - 0,Olympique Lyonnais,Strasbourg
+12/05/2001,2 - 1,Olympique Marseille,Bastia
+12/05/2001,2 - 2,PSG,Lille
+12/05/2001,2 - 1,Toulouse,Metz
+04/05/2001,1 - 1,Lens,Troyes
+29/04/2001,0 - 1,Troyes,Nantes
+28/04/2001,2 - 0,Bastia,Guingamp
+28/04/2001,1 - 2,Lille,Olympique Lyonnais
+28/04/2001,1 - 0,Metz,Olympique Marseille
+28/04/2001,1 - 1,PSG,Monaco
+28/04/2001,1 - 2,Rennes,Bordeaux
+28/04/2001,1 - 1,Saint-Étienne,Lens
+28/04/2001,2 - 3,Sedan,Toulouse
+28/04/2001,1 - 0,Strasbourg,Auxerre
+15/04/2001,2 - 0,Olympique Lyonnais,PSG
+14/04/2001,1 - 1,Auxerre,Lille
+14/04/2001,2 - 1,Bordeaux,Strasbourg
+14/04/2001,1 - 3,Guingamp,Metz
+14/04/2001,5 - 3,Monaco,Saint-Étienne
+14/04/2001,1 - 0,Nantes,Bastia
+14/04/2001,2 - 1,Olympique Marseille,Sedan
+14/04/2001,2 - 0,Toulouse,Rennes
+11/04/2001,0 - 1,Strasbourg,Metz
+07/04/2001,1 - 3,Bastia,Lens
+07/04/2001,1 - 2,Metz,Nantes
+07/04/2001,2 - 1,Olympique Lyonnais,Monaco
+07/04/2001,3 - 0,PSG,Auxerre
+07/04/2001,2 - 0,Rennes,Olympique Marseille
+07/04/2001,2 - 2,Sedan,Guingamp
+07/04/2001,1 - 0,Strasbourg,Toulouse
+07/04/2001,0 - 0,Troyes,Saint-Étienne
+06/04/2001,2 - 2,Lille,Bordeaux
+18/03/2001,2 - 0,Bordeaux,PSG
+17/03/2001,0 - 3,Auxerre,Olympique Lyonnais
+17/03/2001,1 - 6,Guingamp,Rennes
+17/03/2001,1 - 1,Lens,Metz
+17/03/2001,4 - 3,Monaco,Troyes
+17/03/2001,4 - 1,Nantes,Sedan
+17/03/2001,0 - 0,Olympique Marseille,Strasbourg
+17/03/2001,2 - 1,Saint-Étienne,Bastia
+17/03/2001,0 - 2,Toulouse,Lille
+04/03/2001,0 - 2,Rennes,Nantes
+03/03/2001,1 - 0,Auxerre,Monaco
+03/03/2001,2 - 2,Bastia,Troyes
+03/03/2001,1 - 0,Lille,Olympique Marseille
+03/03/2001,3 - 0,Metz,Saint-Étienne
+03/03/2001,2 - 1,Olympique Lyonnais,Bordeaux
+03/03/2001,3 - 0,PSG,Toulouse
+03/03/2001,2 - 2,Sedan,Lens
+03/03/2001,0 - 1,Strasbourg,Guingamp
+23/02/2001,3 - 1,Troyes,Rennes
+18/02/2001,1 - 0,Bordeaux,Auxerre
+18/02/2001,1 - 0,Nantes,Strasbourg
+17/02/2001,0 - 1,Guingamp,Lille
+17/02/2001,1 - 2,Lens,Rennes
+17/02/2001,2 - 1,Monaco,Bastia
+17/02/2001,1 - 0,Olympique Marseille,PSG
+17/02/2001,0 - 2,Saint-Étienne,Sedan
+17/02/2001,1 - 1,Toulouse,Olympique Lyonnais
+17/02/2001,3 - 2,Troyes,Metz
+07/02/2001,2 - 0,Auxerre,Toulouse
+07/02/2001,2 - 1,Bordeaux,Monaco
+07/02/2001,1 - 1,Lille,Nantes
+07/02/2001,3 - 2,Metz,Bastia
+07/02/2001,1 - 3,PSG,Guingamp
+07/02/2001,2 - 1,Sedan,Troyes
+07/02/2001,1 - 0,Strasbourg,Lens
+06/02/2001,1 - 1,Olympique Lyonnais,Olympique Marseille
+06/02/2001,3 - 0,Rennes,Saint-Étienne
+04/02/2001,0 - 1,Lens,Lille
+03/02/2001,0 - 1,Bastia,Sedan
+03/02/2001,2 - 3,Guingamp,Olympique Lyonnais
+03/02/2001,6 - 1,Monaco,Metz
+03/02/2001,1 - 0,Nantes,PSG
+03/02/2001,0 - 1,Olympique Marseille,Auxerre
+03/02/2001,3 - 3,Saint-Étienne,Strasbourg
+03/02/2001,1 - 1,Toulouse,Bordeaux
+27/01/2001,1 - 1,Auxerre,Guingamp
+27/01/2001,4 - 1,Lille,Saint-Étienne
+27/01/2001,3 - 1,Olympique Lyonnais,Nantes
+27/01/2001,1 - 0,PSG,Lens
+27/01/2001,1 - 2,Rennes,Bastia
+27/01/2001,0 - 0,Sedan,Metz
+27/01/2001,3 - 3,Strasbourg,Troyes
+27/01/2001,2 - 1,Toulouse,Monaco
+26/01/2001,3 - 0,Bordeaux,Olympique Marseille
+13/01/2001,3 - 1,Bastia,Strasbourg
+13/01/2001,1 - 1,Guingamp,Bordeaux
+13/01/2001,2 - 2,Metz,Rennes
+13/01/2001,1 - 0,Monaco,Sedan
+13/01/2001,1 - 1,Nantes,Auxerre
+13/01/2001,1 - 1,Olympique Marseille,Toulouse
+13/01/2001,1 - 0,Saint-Étienne,PSG
+13/01/2001,2 - 1,Troyes,Lille
+12/01/2001,0 - 0,Lens,Olympique Lyonnais
+22/12/2000,3 - 2,Auxerre,Lens
+22/12/2000,0 - 2,Bordeaux,Nantes
+22/12/2000,1 - 0,Lille,Bastia
+22/12/2000,2 - 1,Olympique Lyonnais,Saint-Étienne
+22/12/2000,0 - 0,PSG,Troyes
+22/12/2000,2 - 0,Rennes,Sedan
+22/12/2000,1 - 1,Toulouse,Guingamp
+20/12/2000,2 - 1,Olympique Marseille,Monaco
+17/12/2000,1 - 1,Bastia,PSG
+17/12/2000,3 - 2,Nantes,Toulouse
+16/12/2000,1 - 0,Guingamp,Olympique Marseille
+16/12/2000,2 - 2,Lens,Bordeaux
+16/12/2000,1 - 1,Metz,Lille
+16/12/2000,1 - 2,Monaco,Rennes
+16/12/2000,2 - 0,Saint-Étienne,Auxerre
+16/12/2000,1 - 0,Sedan,Strasbourg
+16/12/2000,1 - 0,Troyes,Olympique Lyonnais
+13/12/2000,3 - 1,Bastia,Nantes
+13/12/2000,2 - 0,Lille,PSG
+13/12/2000,4 - 1,Olympique Lyonnais,Toulouse
+10/12/2000,2 - 1,Bordeaux,Saint-Étienne
+10/12/2000,2 - 0,Olympique Marseille,Nantes
+09/12/2000,2 - 2,Auxerre,Troyes
+09/12/2000,2 - 2,Guingamp,Monaco
+09/12/2000,2 - 0,Lille,Sedan
+09/12/2000,1 - 0,Olympique Lyonnais,Bastia
+09/12/2000,1 - 0,PSG,Metz
+09/12/2000,1 - 1,Strasbourg,Rennes
+09/12/2000,1 - 0,Toulouse,Lens
+03/12/2000,1 - 0,Lens,Olympique Marseille
+02/12/2000,3 - 1,Bastia,Auxerre
+02/12/2000,0 - 0,Metz,Olympique Lyonnais
+02/12/2000,1 - 0,Monaco,Strasbourg
+02/12/2000,2 - 1,Nantes,Guingamp
+02/12/2000,2 - 0,Rennes,Lille
+02/12/2000,1 - 0,Saint-Étienne,Toulouse
+02/12/2000,5 - 1,Sedan,PSG
+02/12/2000,1 - 0,Troyes,Bordeaux
+29/11/2000,1 - 0,Auxerre,Metz
+29/11/2000,0 - 0,Bordeaux,Bastia
+29/11/2000,1 - 1,Lille,Strasbourg
+29/11/2000,3 - 1,Nantes,Monaco
+29/11/2000,2 - 2,Olympique Lyonnais,Sedan
+29/11/2000,2 - 1,Olympique Marseille,Saint-Étienne
+29/11/2000,2 - 1,Toulouse,Troyes
+28/11/2000,0 - 1,Guingamp,Lens
+28/11/2000,0 - 1,PSG,Rennes
+26/11/2000,0 - 2,Saint-Étienne,Nantes
+26/11/2000,0 - 0,Sedan,Bordeaux
+25/11/2000,3 - 0,Bastia,Olympique Marseille
+25/11/2000,4 - 3,Lens,Monaco
+25/11/2000,1 - 1,Metz,Toulouse
+25/11/2000,0 - 1,Rennes,Auxerre
+25/11/2000,0 - 3,Strasbourg,Olympique Lyonnais
+25/11/2000,0 - 1,Troyes,Guingamp
+19/11/2000,1 - 2,Auxerre,Strasbourg
+19/11/2000,3 - 0,Bordeaux,Rennes
+18/11/2000,1 - 0,Guingamp,Bastia
+18/11/2000,0 - 0,Lens,Saint-Étienne
+18/11/2000,2 - 0,Monaco,PSG
+18/11/2000,4 - 0,Nantes,Troyes
+18/11/2000,0 - 1,Olympique Lyonnais,Lille
+18/11/2000,2 - 0,Toulouse,Sedan
+17/11/2000,4 - 1,Olympique Marseille,Metz
+12/11/2000,0 - 2,Strasbourg,Bordeaux
+11/11/2000,1 - 1,Lille,Auxerre
+11/11/2000,1 - 1,Metz,Guingamp
+11/11/2000,1 - 1,PSG,Olympique Lyonnais
+11/11/2000,1 - 1,Rennes,Toulouse
+11/11/2000,2 - 0,Sedan,Olympique Marseille
+11/11/2000,1 - 0,Troyes,Lens
+10/11/2000,1 - 0,Saint-Étienne,Monaco
+04/11/2000,1 - 0,Auxerre,PSG
+04/11/2000,1 - 0,Bordeaux,Lille
+04/11/2000,0 - 3,Guingamp,Sedan
+04/11/2000,4 - 0,Lens,Bastia
+04/11/2000,2 - 0,Nantes,Metz
+04/11/2000,0 - 1,Olympique Marseille,Rennes
+04/11/2000,4 - 1,Saint-Étienne,Troyes
+04/11/2000,0 - 0,Toulouse,Strasbourg
+03/11/2000,0 - 2,Monaco,Olympique Lyonnais
+29/10/2000,0 - 0,Bastia,Saint-Étienne
+29/10/2000,1 - 0,Lille,Toulouse
+29/10/2000,2 - 1,Metz,Lens
+29/10/2000,2 - 2,Olympique Lyonnais,Auxerre
+29/10/2000,1 - 2,PSG,Bordeaux
+29/10/2000,1 - 2,Rennes,Guingamp
+29/10/2000,2 - 0,Sedan,Nantes
+29/10/2000,1 - 0,Troyes,Monaco
+28/10/2000,1 - 1,Strasbourg,Olympique Marseille
+22/10/2000,0 - 1,Olympique Marseille,Lille
+21/10/2000,1 - 1,Bordeaux,Olympique Lyonnais
+21/10/2000,2 - 1,Guingamp,Strasbourg
+21/10/2000,1 - 1,Lens,Sedan
+21/10/2000,1 - 1,Monaco,Auxerre
+21/10/2000,1 - 0,Nantes,Rennes
+21/10/2000,2 - 0,Saint-Étienne,Metz
+21/10/2000,2 - 3,Toulouse,PSG
+21/10/2000,0 - 0,Troyes,Bastia
+15/10/2000,0 - 2,Auxerre,Bordeaux
+14/10/2000,1 - 1,Lille,Guingamp
+14/10/2000,2 - 2,Metz,Troyes
+14/10/2000,1 - 0,Rennes,Lens
+14/10/2000,2 - 1,Sedan,Saint-Étienne
+14/10/2000,0 - 5,Strasbourg,Nantes
+13/10/2000,0 - 2,Bastia,Monaco
+13/10/2000,2 - 0,PSG,Olympique Marseille
+10/10/2000,2 - 1,Sedan,Rennes
+01/10/2000,0 - 0,Nantes,Lille
+01/10/2000,1 - 1,Olympique Marseille,Olympique Lyonnais
+30/09/2000,1 - 0,Bastia,Metz
+30/09/2000,1 - 1,Guingamp,PSG
+30/09/2000,0 - 0,Lens,Strasbourg
+30/09/2000,2 - 2,Monaco,Bordeaux
+30/09/2000,0 - 2,Saint-Étienne,Rennes
+30/09/2000,0 - 1,Toulouse,Auxerre
+30/09/2000,1 - 1,Troyes,Sedan
+24/09/2000,2 - 1,Lille,Lens
+23/09/2000,0 - 1,Auxerre,Olympique Marseille
+23/09/2000,2 - 1,Bordeaux,Toulouse
+23/09/2000,1 - 3,Metz,Monaco
+23/09/2000,0 - 1,Olympique Lyonnais,Guingamp
+23/09/2000,2 - 1,PSG,Nantes
+23/09/2000,0 - 2,Rennes,Troyes
+23/09/2000,3 - 3,Sedan,Bastia
+23/09/2000,3 - 2,Strasbourg,Saint-Étienne
+17/09/2000,0 - 1,Nantes,Olympique Lyonnais
+17/09/2000,1 - 1,Saint-Étienne,Lille
+16/09/2000,0 - 2,Bastia,Rennes
+16/09/2000,1 - 0,Guingamp,Auxerre
+16/09/2000,1 - 1,Lens,PSG
+16/09/2000,1 - 0,Metz,Sedan
+16/09/2000,3 - 0,Monaco,Toulouse
+16/09/2000,0 - 1,Olympique Marseille,Bordeaux
+16/09/2000,0 - 1,Troyes,Strasbourg
+10/09/2000,2 - 0,Toulouse,Olympique Marseille
+09/09/2000,2 - 2,Auxerre,Nantes
+09/09/2000,0 - 2,Bordeaux,Guingamp
+09/09/2000,1 - 2,Lille,Troyes
+09/09/2000,3 - 0,Olympique Lyonnais,Lens
+09/09/2000,5 - 1,PSG,Saint-Étienne
+09/09/2000,0 - 1,Rennes,Metz
+09/09/2000,1 - 0,Sedan,Monaco
+09/09/2000,1 - 4,Strasbourg,Bastia
+06/09/2000,1 - 0,Bastia,Lille
+06/09/2000,2 - 1,Guingamp,Toulouse
+06/09/2000,1 - 0,Lens,Auxerre
+06/09/2000,1 - 0,Metz,Strasbourg
+06/09/2000,0 - 5,Nantes,Bordeaux
+06/09/2000,2 - 2,Saint-Étienne,Olympique Lyonnais
+06/09/2000,5 - 3,Troyes,PSG
+05/09/2000,0 - 2,Monaco,Olympique Marseille
+27/08/2000,4 - 3,Auxerre,Saint-Étienne
+27/08/2000,3 - 1,PSG,Bastia
+26/08/2000,1 - 1,Bordeaux,Lens
+26/08/2000,2 - 1,Lille,Metz
+26/08/2000,1 - 0,Olympique Lyonnais,Troyes
+26/08/2000,3 - 1,Olympique Marseille,Guingamp
+26/08/2000,1 - 1,Rennes,Monaco
+26/08/2000,3 - 2,Strasbourg,Sedan
+26/08/2000,1 - 1,Toulouse,Nantes
+20/08/2000,1 - 0,Monaco,Guingamp
+19/08/2000,2 - 1,Lens,Toulouse
+19/08/2000,1 - 0,Metz,PSG
+19/08/2000,3 - 2,Nantes,Olympique Marseille
+19/08/2000,3 - 0,Rennes,Strasbourg
+19/08/2000,1 - 0,Saint-Étienne,Bordeaux
+19/08/2000,1 - 0,Sedan,Lille
+19/08/2000,1 - 0,Troyes,Auxerre
+18/08/2000,2 - 0,Bastia,Olympique Lyonnais
+13/08/2000,0 - 0,Olympique Marseille,Lens
+13/08/2000,2 - 1,PSG,Sedan
+12/08/2000,1 - 0,Auxerre,Bastia
+12/08/2000,2 - 2,Bordeaux,Troyes
+12/08/2000,0 - 1,Guingamp,Nantes
+12/08/2000,1 - 0,Lille,Rennes
+12/08/2000,0 - 0,Olympique Lyonnais,Metz
+12/08/2000,1 - 3,Strasbourg,Monaco
+12/08/2000,1 - 1,Toulouse,Saint-Étienne
+05/08/2000,2 - 0,Bastia,Bordeaux
+05/08/2000,3 - 2,Lens,Guingamp
+05/08/2000,1 - 2,Metz,Auxerre
+05/08/2000,1 - 1,Rennes,PSG
+05/08/2000,0 - 4,Strasbourg,Lille
+05/08/2000,1 - 1,Troyes,Toulouse
+04/08/2000,2 - 5,Monaco,Nantes
+04/08/2000,3 - 0,Saint-Étienne,Olympique Marseille
+03/08/2000,1 - 1,Sedan,Olympique Lyonnais
+29/07/2000,0 - 1,Auxerre,Sedan
+29/07/2000,1 - 1,Bordeaux,Metz
+29/07/2000,2 - 2,Guingamp,Saint-Étienne
+29/07/2000,1 - 1,Lille,Monaco
+29/07/2000,0 - 2,Nantes,Lens
+29/07/2000,2 - 2,Olympique Lyonnais,Rennes
+29/07/2000,0 - 1,Toulouse,Bastia
+28/07/2000,3 - 1,Olympique Marseille,Troyes
+28/07/2000,3 - 1,PSG,Strasbourg

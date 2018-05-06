@@ -1,0 +1,307 @@
+date,score,home_team,away_team
+11/05/2000,1 - 4,Beveren,Beerschot
+11/05/2000,1 - 1,Excelsior Mouscron,Eendracht Aalst
+11/05/2000,4 - 1,FC Lommel,Sint-Truiden
+11/05/2000,3 - 1,Genk,Mechelen
+11/05/2000,2 - 3,Gent,Westerlo
+11/05/2000,1 - 2,Lierse,Lokeren
+11/05/2000,1 - 1,Sporting Charleroi,Anderlecht
+11/05/2000,1 - 3,Standard Liège,Zuid-West-Vlaanderen
+11/05/2000,0 - 2,Verbroedering Geel,Club Brugge
+06/05/2000,2 - 0,Anderlecht,Standard Liège
+06/05/2000,0 - 1,Beerschot,Excelsior Mouscron
+06/05/2000,3 - 1,Club Brugge,FC Lommel
+06/05/2000,0 - 3,Eendracht Aalst,Sporting Charleroi
+06/05/2000,5 - 2,Lokeren,Beveren
+06/05/2000,0 - 2,Mechelen,Gent
+06/05/2000,2 - 1,Sint-Truiden,Lierse
+06/05/2000,4 - 1,Westerlo,Verbroedering Geel
+06/05/2000,1 - 2,Zuid-West-Vlaanderen,Genk
+22/04/2000,3 - 4,Beveren,Sint-Truiden
+22/04/2000,0 - 0,Excelsior Mouscron,Lokeren
+22/04/2000,1 - 1,FC Lommel,Verbroedering Geel
+22/04/2000,1 - 4,Genk,Anderlecht
+22/04/2000,4 - 2,Gent,Zuid-West-Vlaanderen
+22/04/2000,3 - 0,Sporting Charleroi,Beerschot
+22/04/2000,3 - 1,Standard Liège,Eendracht Aalst
+22/04/2000,8 - 0,Westerlo,Mechelen
+21/04/2000,1 - 0,Lierse,Club Brugge
+16/04/2000,1 - 2,Anderlecht,Gent
+16/04/2000,3 - 1,Club Brugge,Beveren
+16/04/2000,3 - 0,Verbroedering Geel,Mechelen
+16/04/2000,3 - 1,Zuid-West-Vlaanderen,Westerlo
+15/04/2000,2 - 0,Beerschot,Standard Liège
+15/04/2000,1 - 3,Eendracht Aalst,Genk
+15/04/2000,1 - 0,FC Lommel,Lierse
+15/04/2000,1 - 1,Lokeren,Sporting Charleroi
+15/04/2000,0 - 0,Sint-Truiden,Excelsior Mouscron
+09/04/2000,1 - 0,Beveren,FC Lommel
+09/04/2000,4 - 0,Gent,Eendracht Aalst
+09/04/2000,4 - 0,Mechelen,Zuid-West-Vlaanderen
+08/04/2000,3 - 0,Beerschot,Genk
+08/04/2000,1 - 1,Sporting Charleroi,Sint-Truiden
+08/04/2000,5 - 0,Westerlo,Anderlecht
+07/04/2000,1 - 2,Excelsior Mouscron,Club Brugge
+07/04/2000,2 - 2,Lierse,Verbroedering Geel
+07/04/2000,1 - 2,Standard Liège,Lokeren
+02/04/2000,2 - 0,Sint-Truiden,Standard Liège
+02/04/2000,3 - 2,Verbroedering Geel,Zuid-West-Vlaanderen
+01/04/2000,5 - 0,Anderlecht,Mechelen
+01/04/2000,2 - 0,Beerschot,Gent
+01/04/2000,3 - 1,Club Brugge,Sporting Charleroi
+01/04/2000,1 - 1,Eendracht Aalst,Westerlo
+01/04/2000,0 - 4,FC Lommel,Excelsior Mouscron
+01/04/2000,1 - 3,Lierse,Beveren
+01/04/2000,1 - 2,Lokeren,Genk
+26/03/2000,1 - 1,Gent,Lokeren
+26/03/2000,2 - 2,Zuid-West-Vlaanderen,Anderlecht
+25/03/2000,1 - 1,Beveren,Verbroedering Geel
+25/03/2000,3 - 3,Excelsior Mouscron,Lierse
+25/03/2000,0 - 2,Genk,Sint-Truiden
+25/03/2000,2 - 0,Mechelen,Eendracht Aalst
+25/03/2000,1 - 1,Sporting Charleroi,FC Lommel
+25/03/2000,3 - 2,Westerlo,Beerschot
+24/03/2000,0 - 1,Standard Liège,Club Brugge
+19/03/2000,1 - 1,Beveren,Excelsior Mouscron
+19/03/2000,2 - 0,Club Brugge,Genk
+19/03/2000,3 - 0,Eendracht Aalst,Zuid-West-Vlaanderen
+19/03/2000,2 - 1,FC Lommel,Standard Liège
+18/03/2000,0 - 0,Beerschot,Mechelen
+18/03/2000,2 - 0,Lierse,Sporting Charleroi
+18/03/2000,0 - 0,Lokeren,Westerlo
+18/03/2000,0 - 0,Sint-Truiden,Gent
+18/03/2000,0 - 0,Verbroedering Geel,Anderlecht
+12/03/2000,0 - 0,Mechelen,Lokeren
+12/03/2000,2 - 3,Sporting Charleroi,Beveren
+12/03/2000,1 - 0,Zuid-West-Vlaanderen,Beerschot
+11/03/2000,4 - 1,Anderlecht,Eendracht Aalst
+11/03/2000,3 - 1,Excelsior Mouscron,Verbroedering Geel
+11/03/2000,1 - 2,Genk,FC Lommel
+11/03/2000,3 - 1,Standard Liège,Lierse
+11/03/2000,3 - 2,Westerlo,Sint-Truiden
+10/03/2000,2 - 0,Gent,Club Brugge
+05/03/2000,1 - 3,Beerschot,Anderlecht
+05/03/2000,2 - 0,Club Brugge,Westerlo
+04/03/2000,0 - 2,Beveren,Standard Liège
+04/03/2000,2 - 1,Excelsior Mouscron,Sporting Charleroi
+04/03/2000,1 - 3,FC Lommel,Gent
+04/03/2000,5 - 0,Lierse,Genk
+04/03/2000,2 - 0,Lokeren,Zuid-West-Vlaanderen
+04/03/2000,3 - 1,Sint-Truiden,Mechelen
+04/03/2000,1 - 2,Verbroedering Geel,Eendracht Aalst
+01/03/2000,0 - 0,Beerschot,Lokeren
+20/02/2000,1 - 2,Eendracht Aalst,Beerschot
+20/02/2000,4 - 1,Genk,Beveren
+20/02/2000,3 - 2,Zuid-West-Vlaanderen,Sint-Truiden
+19/02/2000,5 - 0,Anderlecht,Lokeren
+19/02/2000,0 - 0,Mechelen,Club Brugge
+19/02/2000,1 - 3,Sporting Charleroi,Verbroedering Geel
+19/02/2000,1 - 0,Westerlo,FC Lommel
+18/02/2000,2 - 0,Gent,Lierse
+18/02/2000,2 - 0,Standard Liège,Excelsior Mouscron
+13/02/2000,1 - 2,Club Brugge,Zuid-West-Vlaanderen
+13/02/2000,1 - 4,Sporting Charleroi,Standard Liège
+12/02/2000,0 - 1,Beveren,Gent
+12/02/2000,0 - 2,FC Lommel,Mechelen
+12/02/2000,7 - 0,Lierse,Westerlo
+12/02/2000,5 - 1,Lokeren,Eendracht Aalst
+12/02/2000,0 - 4,Sint-Truiden,Anderlecht
+12/02/2000,0 - 2,Verbroedering Geel,Beerschot
+11/02/2000,5 - 0,Excelsior Mouscron,Genk
+06/02/2000,1 - 1,Anderlecht,Club Brugge
+06/02/2000,2 - 0,Eendracht Aalst,Sint-Truiden
+06/02/2000,3 - 0,Standard Liège,Verbroedering Geel
+06/02/2000,5 - 1,Zuid-West-Vlaanderen,FC Lommel
+05/02/2000,1 - 2,Genk,Sporting Charleroi
+05/02/2000,2 - 3,Gent,Excelsior Mouscron
+05/02/2000,4 - 3,Mechelen,Lierse
+05/02/2000,3 - 2,Westerlo,Beveren
+30/01/2000,3 - 0,Club Brugge,Eendracht Aalst
+30/01/2000,2 - 1,Excelsior Mouscron,Westerlo
+30/01/2000,2 - 0,Lierse,Zuid-West-Vlaanderen
+29/01/2000,2 - 1,Beveren,Mechelen
+29/01/2000,3 - 3,FC Lommel,Anderlecht
+29/01/2000,2 - 0,Sint-Truiden,Beerschot
+29/01/2000,1 - 2,Sporting Charleroi,Gent
+29/01/2000,3 - 0,Verbroedering Geel,Lokeren
+28/01/2000,5 - 1,Standard Liège,Genk
+23/01/2000,2 - 0,Anderlecht,Lierse
+23/01/2000,3 - 1,Eendracht Aalst,FC Lommel
+23/01/2000,1 - 1,Westerlo,Sporting Charleroi
+23/01/2000,0 - 5,Zuid-West-Vlaanderen,Beveren
+22/01/2000,1 - 0,Genk,Verbroedering Geel
+22/01/2000,1 - 5,Gent,Standard Liège
+22/01/2000,3 - 0,Lokeren,Sint-Truiden
+22/01/2000,1 - 3,Mechelen,Excelsior Mouscron
+21/01/2000,5 - 3,Beerschot,Club Brugge
+16/01/2000,6 - 1,Club Brugge,Lokeren
+16/01/2000,5 - 2,Lierse,Eendracht Aalst
+16/01/2000,4 - 0,Standard Liège,Westerlo
+15/01/2000,0 - 0,Beveren,Anderlecht
+15/01/2000,4 - 2,Excelsior Mouscron,Zuid-West-Vlaanderen
+15/01/2000,2 - 2,FC Lommel,Beerschot
+15/01/2000,0 - 1,Genk,Gent
+15/01/2000,1 - 4,Sporting Charleroi,Mechelen
+15/01/2000,1 - 2,Verbroedering Geel,Sint-Truiden
+12/01/2000,1 - 1,Beerschot,Lierse
+12/01/2000,2 - 4,Eendracht Aalst,Beveren
+12/01/2000,1 - 1,Genk,Westerlo
+12/01/2000,1 - 1,Gent,Verbroedering Geel
+12/01/2000,2 - 1,Lokeren,FC Lommel
+12/01/2000,2 - 4,Mechelen,Standard Liège
+12/01/2000,0 - 1,Sint-Truiden,Club Brugge
+12/01/2000,4 - 1,Zuid-West-Vlaanderen,Sporting Charleroi
+11/01/2000,0 - 2,Excelsior Mouscron,Anderlecht
+12/12/1999,2 - 5,Eendracht Aalst,Excelsior Mouscron
+12/12/1999,3 - 4,Zuid-West-Vlaanderen,Standard Liège
+11/12/1999,3 - 0,Anderlecht,Sporting Charleroi
+11/12/1999,2 - 0,Beerschot,Beveren
+11/12/1999,4 - 0,Club Brugge,Verbroedering Geel
+11/12/1999,5 - 1,Lokeren,Lierse
+11/12/1999,2 - 0,Mechelen,Genk
+11/12/1999,2 - 0,Sint-Truiden,FC Lommel
+11/12/1999,4 - 2,Westerlo,Gent
+08/12/1999,4 - 0,Beveren,Westerlo
+05/12/1999,4 - 3,Genk,Zuid-West-Vlaanderen
+05/12/1999,6 - 1,Gent,Mechelen
+05/12/1999,0 - 0,Standard Liège,Anderlecht
+04/12/1999,2 - 1,Beveren,Lokeren
+04/12/1999,1 - 1,Excelsior Mouscron,Beerschot
+04/12/1999,0 - 0,FC Lommel,Club Brugge
+04/12/1999,0 - 0,Lierse,Sint-Truiden
+04/12/1999,0 - 1,Sporting Charleroi,Eendracht Aalst
+04/12/1999,2 - 3,Verbroedering Geel,Westerlo
+28/11/1999,1 - 3,Anderlecht,Genk
+28/11/1999,3 - 0,Beerschot,Sporting Charleroi
+28/11/1999,1 - 2,Eendracht Aalst,Standard Liège
+28/11/1999,1 - 2,Zuid-West-Vlaanderen,Gent
+27/11/1999,3 - 2,Lokeren,Excelsior Mouscron
+27/11/1999,2 - 2,Mechelen,Westerlo
+27/11/1999,0 - 2,Sint-Truiden,Beveren
+27/11/1999,0 - 0,Verbroedering Geel,FC Lommel
+26/11/1999,1 - 0,Club Brugge,Lierse
+21/11/1999,4 - 1,Westerlo,Zuid-West-Vlaanderen
+20/11/1999,2 - 3,Beveren,Club Brugge
+20/11/1999,3 - 0,Excelsior Mouscron,Sint-Truiden
+20/11/1999,2 - 1,Genk,Eendracht Aalst
+20/11/1999,4 - 0,Lierse,FC Lommel
+20/11/1999,1 - 1,Mechelen,Verbroedering Geel
+20/11/1999,2 - 4,Sporting Charleroi,Lokeren
+20/11/1999,1 - 0,Standard Liège,Beerschot
+19/11/1999,0 - 3,Gent,Anderlecht
+10/11/1999,3 - 0,Anderlecht,Westerlo
+10/11/1999,1 - 2,Club Brugge,Excelsior Mouscron
+10/11/1999,4 - 2,Eendracht Aalst,Gent
+10/11/1999,0 - 0,FC Lommel,Beveren
+10/11/1999,4 - 0,Genk,Beerschot
+10/11/1999,5 - 3,Lokeren,Standard Liège
+10/11/1999,2 - 2,Sint-Truiden,Sporting Charleroi
+10/11/1999,2 - 1,Verbroedering Geel,Lierse
+10/11/1999,5 - 2,Zuid-West-Vlaanderen,Mechelen
+07/11/1999,3 - 0,Zuid-West-Vlaanderen,Verbroedering Geel
+06/11/1999,1 - 1,Beveren,Lierse
+06/11/1999,0 - 0,Excelsior Mouscron,FC Lommel
+06/11/1999,1 - 1,Genk,Lokeren
+06/11/1999,1 - 3,Gent,Beerschot
+06/11/1999,2 - 5,Mechelen,Anderlecht
+06/11/1999,2 - 1,Standard Liège,Sint-Truiden
+06/11/1999,3 - 2,Westerlo,Eendracht Aalst
+05/11/1999,0 - 2,Sporting Charleroi,Club Brugge
+31/10/1999,2 - 0,Eendracht Aalst,Mechelen
+30/10/1999,3 - 2,Beerschot,Westerlo
+30/10/1999,5 - 2,Club Brugge,Standard Liège
+30/10/1999,1 - 1,FC Lommel,Sporting Charleroi
+30/10/1999,1 - 0,Lierse,Excelsior Mouscron
+30/10/1999,0 - 4,Lokeren,Gent
+30/10/1999,0 - 5,Sint-Truiden,Genk
+30/10/1999,1 - 1,Verbroedering Geel,Beveren
+28/10/1999,2 - 0,Anderlecht,Zuid-West-Vlaanderen
+24/10/1999,4 - 0,Anderlecht,Verbroedering Geel
+24/10/1999,3 - 0,Excelsior Mouscron,Beveren
+24/10/1999,1 - 0,Genk,Club Brugge
+24/10/1999,1 - 1,Zuid-West-Vlaanderen,Eendracht Aalst
+23/10/1999,4 - 2,Gent,Sint-Truiden
+23/10/1999,2 - 0,Mechelen,Beerschot
+23/10/1999,1 - 1,Sporting Charleroi,Lierse
+23/10/1999,4 - 1,Standard Liège,FC Lommel
+23/10/1999,3 - 3,Westerlo,Lokeren
+13/10/1999,1 - 0,Beerschot,Zuid-West-Vlaanderen
+13/10/1999,1 - 1,Beveren,Sporting Charleroi
+13/10/1999,1 - 3,Club Brugge,Gent
+13/10/1999,2 - 3,Eendracht Aalst,Anderlecht
+13/10/1999,0 - 1,FC Lommel,Genk
+13/10/1999,1 - 0,Lierse,Standard Liège
+13/10/1999,0 - 2,Lokeren,Mechelen
+13/10/1999,2 - 1,Sint-Truiden,Westerlo
+13/10/1999,1 - 4,Verbroedering Geel,Excelsior Mouscron
+03/10/1999,2 - 2,Anderlecht,Beerschot
+03/10/1999,1 - 0,Eendracht Aalst,Verbroedering Geel
+03/10/1999,2 - 2,Genk,Lierse
+03/10/1999,1 - 0,Westerlo,Club Brugge
+03/10/1999,2 - 3,Zuid-West-Vlaanderen,Lokeren
+02/10/1999,6 - 2,Gent,FC Lommel
+02/10/1999,3 - 2,Mechelen,Sint-Truiden
+02/10/1999,3 - 1,Standard Liège,Beveren
+01/10/1999,2 - 1,Sporting Charleroi,Excelsior Mouscron
+26/09/1999,6 - 0,Club Brugge,Mechelen
+26/09/1999,0 - 0,Verbroedering Geel,Sporting Charleroi
+25/09/1999,3 - 2,Beerschot,Eendracht Aalst
+25/09/1999,1 - 4,Beveren,Genk
+25/09/1999,2 - 2,FC Lommel,Westerlo
+25/09/1999,2 - 1,Lierse,Gent
+25/09/1999,2 - 3,Lokeren,Anderlecht
+25/09/1999,2 - 0,Sint-Truiden,Zuid-West-Vlaanderen
+24/09/1999,1 - 3,Excelsior Mouscron,Standard Liège
+19/09/1999,2 - 1,Anderlecht,Sint-Truiden
+19/09/1999,1 - 0,Eendracht Aalst,Lokeren
+19/09/1999,0 - 2,Westerlo,Lierse
+19/09/1999,1 - 1,Zuid-West-Vlaanderen,Club Brugge
+18/09/1999,4 - 1,Beerschot,Verbroedering Geel
+18/09/1999,2 - 2,Genk,Excelsior Mouscron
+18/09/1999,4 - 1,Gent,Beveren
+18/09/1999,1 - 0,Mechelen,FC Lommel
+17/09/1999,1 - 3,Standard Liège,Sporting Charleroi
+11/09/1999,5 - 3,Excelsior Mouscron,Gent
+11/09/1999,0 - 2,FC Lommel,Zuid-West-Vlaanderen
+11/09/1999,5 - 1,Lierse,Mechelen
+11/09/1999,1 - 1,Lokeren,Beerschot
+11/09/1999,1 - 5,Sint-Truiden,Eendracht Aalst
+11/09/1999,2 - 1,Sporting Charleroi,Genk
+11/09/1999,0 - 0,Verbroedering Geel,Standard Liège
+29/08/1999,3 - 3,Anderlecht,FC Lommel
+29/08/1999,0 - 2,Eendracht Aalst,Club Brugge
+29/08/1999,4 - 0,Genk,Standard Liège
+29/08/1999,0 - 3,Zuid-West-Vlaanderen,Lierse
+28/08/1999,3 - 1,Beerschot,Sint-Truiden
+28/08/1999,3 - 2,Gent,Sporting Charleroi
+28/08/1999,0 - 0,Lokeren,Verbroedering Geel
+28/08/1999,3 - 1,Mechelen,Beveren
+28/08/1999,3 - 0,Westerlo,Excelsior Mouscron
+22/08/1999,2 - 0,Club Brugge,Beerschot
+22/08/1999,3 - 3,FC Lommel,Eendracht Aalst
+22/08/1999,0 - 3,Lierse,Anderlecht
+21/08/1999,2 - 2,Beveren,Zuid-West-Vlaanderen
+21/08/1999,2 - 0,Excelsior Mouscron,Mechelen
+21/08/1999,1 - 1,Sint-Truiden,Lokeren
+21/08/1999,1 - 2,Sporting Charleroi,Westerlo
+21/08/1999,0 - 2,Standard Liège,Gent
+21/08/1999,1 - 1,Verbroedering Geel,Genk
+15/08/1999,5 - 2,Anderlecht,Beveren
+15/08/1999,2 - 3,Eendracht Aalst,Lierse
+15/08/1999,2 - 5,Lokeren,Club Brugge
+15/08/1999,1 - 1,Zuid-West-Vlaanderen,Excelsior Mouscron
+14/08/1999,3 - 1,Beerschot,FC Lommel
+14/08/1999,0 - 2,Gent,Genk
+14/08/1999,2 - 1,Mechelen,Sporting Charleroi
+14/08/1999,1 - 1,Sint-Truiden,Verbroedering Geel
+14/08/1999,2 - 1,Westerlo,Standard Liège
+08/08/1999,3 - 2,Anderlecht,Excelsior Mouscron
+08/08/1999,4 - 0,Club Brugge,Sint-Truiden
+07/08/1999,0 - 2,Beveren,Eendracht Aalst
+07/08/1999,1 - 0,FC Lommel,Lokeren
+07/08/1999,3 - 1,Lierse,Beerschot
+07/08/1999,2 - 1,Sporting Charleroi,Zuid-West-Vlaanderen
+07/08/1999,2 - 1,Standard Liège,Mechelen
+07/08/1999,6 - 6,Westerlo,Genk
+06/08/1999,1 - 5,Verbroedering Geel,Gent
+27/02/1999,0 - 2,Club Brugge,Anderlecht

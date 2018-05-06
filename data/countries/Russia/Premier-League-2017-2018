@@ -1,0 +1,241 @@
+date,score,home_team,away_team
+13/05/2018,document.write(timestamp_to_time(1526209200));11:00 GMT,Amkar Perm',Akhmat Grozny
+13/05/2018,document.write(timestamp_to_time(1526209200));11:00 GMT,Arsenal Tula,Lokomotiv Moskva
+13/05/2018,document.write(timestamp_to_time(1526209200));11:00 GMT,CSKA Moskva,Anzhi
+13/05/2018,document.write(timestamp_to_time(1526209200));11:00 GMT,Krasnodar,Rubin Kazan'
+13/05/2018,document.write(timestamp_to_time(1526209200));11:00 GMT,Rostov,Ural
+13/05/2018,document.write(timestamp_to_time(1526209200));11:00 GMT,Spartak Moskva,Dinamo Moskva
+13/05/2018,document.write(timestamp_to_time(1526209200));11:00 GMT,Ufa,Tosno
+13/05/2018,document.write(timestamp_to_time(1526209200));11:00 GMT,[N] Zenit,SKA Khabarovsk
+07/05/2018,document.write(timestamp_to_time(1525710600));16:30 GMT,Anzhi,Akhmat Grozny
+07/05/2018,document.write(timestamp_to_time(1525710600));16:30 GMT,Rubin Kazan',Ufa
+06/05/2018,document.write(timestamp_to_time(1525622400));16:00 GMT,CSKA Moskva,Arsenal Tula
+06/05/2018,document.write(timestamp_to_time(1525604400));11:00 GMT,[N] Ural,Amkar Perm'
+05/05/2018,document.write(timestamp_to_time(1525536000));16:00 GMT,Spartak Moskva,Rostov
+05/05/2018,document.write(timestamp_to_time(1525527000));13:30 GMT,Lokomotiv Moskva,Zenit
+05/05/2018,document.write(timestamp_to_time(1525518000));11:00 GMT,Tosno,Dinamo Moskva
+05/05/2018,Live,SKA Khabarovsk,Krasnodar
+30/04/2018,2 - 0,Krasnodar,Lokomotiv Moskva
+30/04/2018,0 - 0,Akhmat Grozny,Ural
+30/04/2018,0 - 0,Dinamo Moskva,Rubin Kazan'
+30/04/2018,1 - 0,Ufa,SKA Khabarovsk
+29/04/2018,2 - 0,[N] Rostov,Tosno
+29/04/2018,0 - 0,Zenit,CSKA Moskva
+29/04/2018,0 - 2,Amkar Perm',Spartak Moskva
+28/04/2018,2 - 1,Arsenal Tula,Anzhi
+23/04/2018,1 - 3,Spartak Moskva,Akhmat Grozny
+22/04/2018,0 - 0,Lokomotiv Moskva,Ufa
+22/04/2018,2 - 1,CSKA Moskva,Krasnodar
+22/04/2018,0 - 2,Tosno,Amkar Perm'
+22/04/2018,3 - 3,Arsenal Tula,Zenit
+22/04/2018,0 - 1,SKA Khabarovsk,Dinamo Moskva
+21/04/2018,0 - 1,Anzhi,Ural
+21/04/2018,1 - 1,[N] Rubin Kazan',Rostov
+18/04/2018,3 - 0,CSKA Moskva,Amkar Perm'
+18/04/2018,0 - 0,Lokomotiv Moskva,Akhmat Grozny
+18/04/2018,2 - 1,Zenit,Dinamo Moskva
+15/04/2018,2 - 0,Rostov,SKA Khabarovsk
+15/04/2018,1 - 1,Ufa,CSKA Moskva
+15/04/2018,2 - 1,[N] Ural,Spartak Moskva
+14/04/2018,3 - 0,Krasnodar,Arsenal Tula
+14/04/2018,1 - 0,Zenit,Anzhi
+14/04/2018,0 - 4,Dinamo Moskva,Lokomotiv Moskva
+14/04/2018,0 - 3,Amkar Perm',Rubin Kazan'
+13/04/2018,1 - 0,Akhmat Grozny,Tosno
+09/04/2018,1 - 2,CSKA Moskva,Dinamo Moskva
+08/04/2018,1 - 4,Anzhi,Spartak Moskva
+08/04/2018,1 - 0,Lokomotiv Moskva,Rostov
+08/04/2018,2 - 2,Tosno,Ural
+07/04/2018,2 - 1,Arsenal Tula,Ufa
+07/04/2018,1 - 2,Zenit,Krasnodar
+07/04/2018,3 - 2,[N] Rubin Kazan',Akhmat Grozny
+07/04/2018,0 - 2,SKA Khabarovsk,Amkar Perm'
+01/04/2018,1 - 1,Krasnodar,Anzhi
+01/04/2018,1 - 2,Rostov,CSKA Moskva
+01/04/2018,1 - 2,Ufa,Zenit
+01/04/2018,1 - 1,[N] Ural,Rubin Kazan'
+31/03/2018,2 - 1,Spartak Moskva,Tosno
+31/03/2018,2 - 1,Dinamo Moskva,Arsenal Tula
+31/03/2018,0 - 0,[N] Akhmat Grozny,SKA Khabarovsk
+31/03/2018,2 - 1,[N] Amkar Perm',Lokomotiv Moskva
+17/03/2018,2 - 0,Anzhi,Tosno
+17/03/2018,1 - 2,Rubin Kazan',Spartak Moskva
+17/03/2018,0 - 1,Krasnodar,Ufa
+17/03/2018,2 - 2,Arsenal Tula,Rostov
+17/03/2018,0 - 3,SKA Khabarovsk,Ural
+12/03/2018,0 - 2,Ural,Lokomotiv Moskva
+11/03/2018,1 - 0,Spartak Moskva,SKA Khabarovsk
+11/03/2018,0 - 3,Akhmat Grozny,CSKA Moskva
+11/03/2018,0 - 0,Rostov,Zenit
+10/03/2018,0 - 1,[N] Tosno,Rubin Kazan'
+10/03/2018,0 - 0,Dinamo Moskva,Krasnodar
+10/03/2018,3 - 2,Ufa,Anzhi
+09/03/2018,0 - 2,[N] Amkar Perm',Arsenal Tula
+04/03/2018,1 - 0,Arsenal Tula,Akhmat Grozny
+04/03/2018,0 - 0,Lokomotiv Moskva,Spartak Moskva
+04/03/2018,1 - 1,Ufa,Dinamo Moskva
+04/03/2018,0 - 1,SKA Khabarovsk,Tosno
+03/03/2018,3 - 1,Krasnodar,Rostov
+03/03/2018,0 - 0,Zenit,Amkar Perm'
+03/03/2018,1 - 0,CSKA Moskva,Ural
+02/03/2018,1 - 1,Anzhi,Rubin Kazan'
+11/12/2017,0 - 0,Akhmat Grozny,Zenit
+11/12/2017,1 - 3,Tosno,Lokomotiv Moskva
+10/12/2017,1 - 0,Rostov,Ufa
+10/12/2017,3 - 0,Spartak Moskva,CSKA Moskva
+10/12/2017,1 - 3,Amkar Perm',Krasnodar
+09/12/2017,3 - 1,Rubin Kazan',SKA Khabarovsk
+09/12/2017,2 - 0,Dinamo Moskva,Anzhi
+08/12/2017,1 - 1,Ural,Arsenal Tula
+03/12/2017,4 - 0,Anzhi,SKA Khabarovsk
+03/12/2017,3 - 2,Krasnodar,Akhmat Grozny
+03/12/2017,3 - 0,Ufa,Amkar Perm'
+02/12/2017,1 - 0,Lokomotiv Moskva,Rubin Kazan'
+02/12/2017,2 - 0,Dinamo Moskva,Rostov
+02/12/2017,2 - 1,Zenit,Ural
+01/12/2017,0 - 1,Arsenal Tula,Spartak Moskva
+01/12/2017,6 - 0,CSKA Moskva,Tosno
+27/11/2017,3 - 1,Spartak Moskva,Zenit
+27/11/2017,1 - 2,SKA Khabarovsk,Lokomotiv Moskva
+26/11/2017,2 - 0,Rostov,Anzhi
+26/11/2017,0 - 1,Rubin Kazan',CSKA Moskva
+26/11/2017,0 - 1,Ural,Krasnodar
+25/11/2017,2 - 1,Akhmat Grozny,Ufa
+25/11/2017,3 - 2,Tosno,Arsenal Tula
+24/11/2017,2 - 1,Amkar Perm',Dinamo Moskva
+19/11/2017,5 - 0,Zenit,Tosno
+19/11/2017,0 - 0,Rostov,Amkar Perm'
+19/11/2017,0 - 1,Anzhi,Lokomotiv Moskva
+19/11/2017,2 - 0,Ufa,Ural
+18/11/2017,0 - 0,Arsenal Tula,Rubin Kazan'
+18/11/2017,1 - 4,Krasnodar,Spartak Moskva
+18/11/2017,1 - 1,Dinamo Moskva,Akhmat Grozny
+18/11/2017,2 - 4,SKA Khabarovsk,CSKA Moskva
+05/11/2017,0 - 0,Rubin Kazan',Zenit
+05/11/2017,3 - 1,Spartak Moskva,Ufa
+05/11/2017,2 - 2,Lokomotiv Moskva,CSKA Moskva
+05/11/2017,1 - 2,Amkar Perm',Anzhi
+05/11/2017,1 - 2,SKA Khabarovsk,Arsenal Tula
+04/11/2017,1 - 0,Akhmat Grozny,Rostov
+04/11/2017,1 - 3,Tosno,Krasnodar
+03/11/2017,2 - 2,Ural,Dinamo Moskva
+30/10/2017,1 - 1,Akhmat Grozny,Anzhi
+30/10/2017,2 - 1,Ufa,Rubin Kazan'
+29/10/2017,4 - 1,Krasnodar,SKA Khabarovsk
+29/10/2017,0 - 3,Zenit,Lokomotiv Moskva
+29/10/2017,0 - 1,Dinamo Moskva,Tosno
+29/10/2017,1 - 1,Amkar Perm',Ural
+28/10/2017,2 - 2,Rostov,Spartak Moskva
+27/10/2017,1 - 0,Arsenal Tula,CSKA Moskva
+23/10/2017,2 - 0,Lokomotiv Moskva,Krasnodar
+22/10/2017,3 - 2,Anzhi,Arsenal Tula
+22/10/2017,0 - 0,CSKA Moskva,Zenit
+22/10/2017,2 - 0,Ural,Akhmat Grozny
+21/10/2017,0 - 0,Spartak Moskva,Amkar Perm'
+21/10/2017,0 - 0,Rubin Kazan',Dinamo Moskva
+21/10/2017,1 - 1,Tosno,Rostov
+21/10/2017,2 - 2,SKA Khabarovsk,Ufa
+16/10/2017,0 - 0,Amkar Perm',Tosno
+15/10/2017,0 - 1,Zenit,Arsenal Tula
+15/10/2017,0 - 1,Rostov,Rubin Kazan'
+15/10/2017,1 - 0,Ufa,Lokomotiv Moskva
+14/10/2017,0 - 1,Krasnodar,CSKA Moskva
+14/10/2017,2 - 1,Ural,Anzhi
+14/10/2017,2 - 0,Dinamo Moskva,SKA Khabarovsk
+13/10/2017,1 - 2,Akhmat Grozny,Spartak Moskva
+01/10/2017,2 - 2,Anzhi,Zenit
+01/10/2017,3 - 0,Lokomotiv Moskva,Dinamo Moskva
+01/10/2017,0 - 0,CSKA Moskva,Ufa
+30/09/2017,2 - 0,Spartak Moskva,Ural
+30/09/2017,0 - 1,Rubin Kazan',Amkar Perm'
+30/09/2017,1 - 0,Tosno,Akhmat Grozny
+30/09/2017,2 - 1,SKA Khabarovsk,Rostov
+29/09/2017,1 - 0,Arsenal Tula,Krasnodar
+25/09/2017,1 - 0,[N] Akhmat Grozny,Rubin Kazan'
+25/09/2017,3 - 0,Amkar Perm',SKA Khabarovsk
+24/09/2017,0 - 2,Krasnodar,Zenit
+24/09/2017,0 - 1,Rostov,Lokomotiv Moskva
+24/09/2017,1 - 0,Ufa,Arsenal Tula
+24/09/2017,3 - 1,Ural,Tosno
+23/09/2017,2 - 2,Spartak Moskva,Anzhi
+23/09/2017,0 - 0,Dinamo Moskva,CSKA Moskva
+18/09/2017,3 - 0,Zenit,Ufa
+18/09/2017,0 - 1,Lokomotiv Moskva,Amkar Perm'
+17/09/2017,0 - 1,Rubin Kazan',Ural
+17/09/2017,2 - 2,Tosno,Spartak Moskva
+17/09/2017,2 - 2,SKA Khabarovsk,Akhmat Grozny
+16/09/2017,1 - 5,Anzhi,Krasnodar
+16/09/2017,2 - 0,CSKA Moskva,Rostov
+15/09/2017,1 - 0,Arsenal Tula,Dinamo Moskva
+11/09/2017,1 - 1,Ural,SKA Khabarovsk
+10/09/2017,1 - 1,Akhmat Grozny,Lokomotiv Moskva
+10/09/2017,0 - 1,Ufa,Krasnodar
+10/09/2017,0 - 0,Dinamo Moskva,Zenit
+09/09/2017,1 - 0,Spartak Moskva,Rubin Kazan'
+09/09/2017,2 - 2,Rostov,Arsenal Tula
+09/09/2017,2 - 2,Tosno,Anzhi
+08/09/2017,0 - 1,Amkar Perm',CSKA Moskva
+27/08/2017,2 - 0,Krasnodar,Dinamo Moskva
+27/08/2017,0 - 0,Zenit,Rostov
+27/08/2017,0 - 1,CSKA Moskva,Akhmat Grozny
+27/08/2017,0 - 0,SKA Khabarovsk,Spartak Moskva
+26/08/2017,2 - 1,Lokomotiv Moskva,Ural
+26/08/2017,1 - 0,Rubin Kazan',Tosno
+26/08/2017,0 - 1,Arsenal Tula,Amkar Perm'
+25/08/2017,1 - 0,Anzhi,Ufa
+21/08/2017,1 - 2,Akhmat Grozny,Arsenal Tula
+20/08/2017,0 - 0,Rostov,Krasnodar
+20/08/2017,1 - 1,Dinamo Moskva,Ufa
+20/08/2017,0 - 1,Amkar Perm',Zenit
+19/08/2017,6 - 0,Rubin Kazan',Anzhi
+19/08/2017,3 - 4,Spartak Moskva,Lokomotiv Moskva
+19/08/2017,0 - 0,Ural,CSKA Moskva
+18/08/2017,0 - 0,Tosno,SKA Khabarovsk
+14/08/2017,2 - 2,Arsenal Tula,Ural
+13/08/2017,1 - 1,Krasnodar,Amkar Perm'
+13/08/2017,4 - 0,Zenit,Akhmat Grozny
+13/08/2017,0 - 2,Lokomotiv Moskva,Tosno
+13/08/2017,1 - 1,SKA Khabarovsk,Rubin Kazan'
+12/08/2017,1 - 3,Anzhi,Dinamo Moskva
+12/08/2017,2 - 1,CSKA Moskva,Spartak Moskva
+12/08/2017,1 - 4,Ufa,Rostov
+10/08/2017,2 - 3,Akhmat Grozny,Krasnodar
+09/08/2017,1 - 0,Rostov,Dinamo Moskva
+09/08/2017,1 - 1,Rubin Kazan',Lokomotiv Moskva
+09/08/2017,1 - 2,Tosno,CSKA Moskva
+09/08/2017,2 - 0,Spartak Moskva,Arsenal Tula
+09/08/2017,1 - 1,Ural,Zenit
+08/08/2017,0 - 0,Amkar Perm',Ufa
+08/08/2017,2 - 0,SKA Khabarovsk,Anzhi
+06/08/2017,1 - 1,Krasnodar,Ural
+06/08/2017,5 - 1,Zenit,Spartak Moskva
+06/08/2017,1 - 2,CSKA Moskva,Rubin Kazan'
+06/08/2017,1 - 2,Arsenal Tula,Tosno
+05/08/2017,1 - 0,Lokomotiv Moskva,SKA Khabarovsk
+05/08/2017,3 - 0,Dinamo Moskva,Amkar Perm'
+05/08/2017,3 - 2,Ufa,Akhmat Grozny
+04/08/2017,0 - 1,Anzhi,Rostov
+31/07/2017,2 - 0,Spartak Moskva,Krasnodar
+30/07/2017,0 - 1,Tosno,Zenit
+30/07/2017,1 - 0,Lokomotiv Moskva,Anzhi
+30/07/2017,0 - 1,Amkar Perm',Rostov
+29/07/2017,2 - 0,Akhmat Grozny,Dinamo Moskva
+29/07/2017,2 - 1,Rubin Kazan',Arsenal Tula
+29/07/2017,2 - 0,CSKA Moskva,SKA Khabarovsk
+29/07/2017,1 - 1,Ural,Ufa
+24/07/2017,1 - 0,Arsenal Tula,SKA Khabarovsk
+23/07/2017,0 - 1,Rostov,Akhmat Grozny
+23/07/2017,0 - 1,Dinamo Moskva,Ural
+23/07/2017,0 - 0,Ufa,Spartak Moskva
+22/07/2017,2 - 0,Krasnodar,Tosno
+22/07/2017,2 - 1,Zenit,Rubin Kazan'
+21/07/2017,1 - 0,Anzhi,Amkar Perm'
+21/07/2017,1 - 3,CSKA Moskva,Lokomotiv Moskva
+18/07/2017,2 - 2,Dinamo Moskva,Spartak Moskva
+18/07/2017,1 - 0,Lokomotiv Moskva,Arsenal Tula
+16/07/2017,1 - 0,Akhmat Grozny,Amkar Perm'
+16/07/2017,1 - 2,Rubin Kazan',Krasnodar
+16/07/2017,0 - 2,SKA Khabarovsk,Zenit
+15/07/2017,1 - 3,Anzhi,CSKA Moskva
+15/07/2017,0 - 1,Tosno,Ufa
+15/07/2017,1 - 1,Ural,Rostov

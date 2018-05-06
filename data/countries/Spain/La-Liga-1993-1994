@@ -1,0 +1,381 @@
+date,score,home_team,away_team
+15/05/1994,1 - 1,Albacete,Real Sociedad
+15/05/1994,3 - 2,Athletic Club,Tenerife
+15/05/1994,2 - 0,Atlético Madrid,Rayo Vallecano
+15/05/1994,5 - 2,Barcelona,Sevilla
+15/05/1994,0 - 0,Deportivo La Coruña,Valencia
+15/05/1994,3 - 0,Osasuna,Sporting Gijón
+15/05/1994,2 - 1,Racing Santander,Lerida
+15/05/1994,1 - 2,Real Oviedo,CD Logroñés
+15/05/1994,0 - 0,Real Valladolid,Celta de Vigo
+15/05/1994,4 - 1,Real Zaragoza,Real Madrid
+08/05/1994,0 - 2,CD Logroñés,Deportivo La Coruña
+08/05/1994,4 - 0,Celta de Vigo,Osasuna
+08/05/1994,0 - 1,Lerida,Atlético Madrid
+08/05/1994,0 - 0,Rayo Vallecano,Real Oviedo
+08/05/1994,0 - 1,Real Madrid,Barcelona
+08/05/1994,0 - 0,Real Sociedad,Athletic Club
+08/05/1994,2 - 0,Sevilla,Albacete
+08/05/1994,0 - 3,Sporting Gijón,Real Zaragoza
+08/05/1994,1 - 0,Tenerife,Racing Santander
+08/05/1994,5 - 1,Valencia,Real Valladolid
+01/05/1994,1 - 4,Albacete,Real Madrid
+01/05/1994,2 - 0,Atlético Madrid,Tenerife
+01/05/1994,4 - 0,Barcelona,Sporting Gijón
+01/05/1994,0 - 0,Deportivo La Coruña,Rayo Vallecano
+01/05/1994,3 - 3,Osasuna,Valencia
+01/05/1994,2 - 2,Racing Santander,Athletic Club
+01/05/1994,0 - 0,Real Oviedo,Lerida
+01/05/1994,0 - 0,Real Sociedad,Sevilla
+01/05/1994,2 - 0,Real Valladolid,CD Logroñés
+01/05/1994,4 - 1,Real Zaragoza,Celta de Vigo
+24/04/1994,1 - 1,Athletic Club,Sevilla
+24/04/1994,3 - 2,CD Logroñés,Osasuna
+24/04/1994,0 - 4,Celta de Vigo,Barcelona
+24/04/1994,0 - 0,Lerida,Deportivo La Coruña
+24/04/1994,2 - 0,Racing Santander,Atlético Madrid
+24/04/1994,0 - 1,Rayo Vallecano,Real Valladolid
+24/04/1994,0 - 1,Real Madrid,Real Sociedad
+24/04/1994,1 - 0,Sporting Gijón,Albacete
+24/04/1994,2 - 2,Tenerife,Real Oviedo
+24/04/1994,3 - 0,Valencia,Real Zaragoza
+17/04/1994,0 - 4,Albacete,Celta de Vigo
+17/04/1994,4 - 2,Atlético Madrid,Athletic Club
+17/04/1994,3 - 1,Barcelona,Valencia
+17/04/1994,2 - 0,Deportivo La Coruña,Tenerife
+17/04/1994,1 - 1,Osasuna,Rayo Vallecano
+17/04/1994,3 - 0,Real Oviedo,Racing Santander
+17/04/1994,0 - 1,Real Sociedad,Sporting Gijón
+17/04/1994,0 - 2,Real Valladolid,Lerida
+17/04/1994,1 - 1,Real Zaragoza,CD Logroñés
+17/04/1994,0 - 1,Sevilla,Real Madrid
+10/04/1994,2 - 1,Athletic Club,Real Madrid
+10/04/1994,0 - 3,Atlético Madrid,Real Oviedo
+10/04/1994,0 - 0,CD Logroñés,Barcelona
+10/04/1994,3 - 2,Celta de Vigo,Real Sociedad
+10/04/1994,1 - 2,Lerida,Osasuna
+10/04/1994,0 - 1,Racing Santander,Deportivo La Coruña
+10/04/1994,1 - 2,Rayo Vallecano,Real Zaragoza
+10/04/1994,0 - 1,Sporting Gijón,Sevilla
+10/04/1994,0 - 2,Tenerife,Real Valladolid
+10/04/1994,4 - 0,Valencia,Albacete
+06/04/1994,2 - 2,Albacete,CD Logroñés
+06/04/1994,1 - 0,Barcelona,Rayo Vallecano
+06/04/1994,2 - 1,Deportivo La Coruña,Atlético Madrid
+06/04/1994,1 - 0,Osasuna,Tenerife
+06/04/1994,2 - 2,Real Madrid,Sporting Gijón
+06/04/1994,3 - 0,Real Oviedo,Athletic Club
+06/04/1994,0 - 0,Real Sociedad,Valencia
+06/04/1994,0 - 3,Real Valladolid,Racing Santander
+06/04/1994,1 - 1,Real Zaragoza,Lerida
+06/04/1994,4 - 1,Sevilla,Celta de Vigo
+03/04/1994,7 - 0,Athletic Club,Sporting Gijón
+03/04/1994,2 - 0,Atlético Madrid,Real Valladolid
+03/04/1994,2 - 0,CD Logroñés,Real Sociedad
+03/04/1994,3 - 2,Celta de Vigo,Real Madrid
+03/04/1994,1 - 2,Lerida,Barcelona
+03/04/1994,3 - 1,Racing Santander,Osasuna
+03/04/1994,0 - 0,Rayo Vallecano,Albacete
+03/04/1994,2 - 5,Real Oviedo,Deportivo La Coruña
+03/04/1994,5 - 3,Tenerife,Real Zaragoza
+03/04/1994,1 - 1,Valencia,Sevilla
+27/03/1994,2 - 1,Albacete,Lerida
+27/03/1994,2 - 1,Barcelona,Tenerife
+27/03/1994,4 - 1,Deportivo La Coruña,Athletic Club
+27/03/1994,0 - 1,Osasuna,Atlético Madrid
+27/03/1994,3 - 2,Real Madrid,Valencia
+27/03/1994,1 - 1,Real Sociedad,Rayo Vallecano
+27/03/1994,0 - 0,Real Valladolid,Real Oviedo
+27/03/1994,2 - 0,Real Zaragoza,Racing Santander
+27/03/1994,4 - 1,Sevilla,CD Logroñés
+27/03/1994,2 - 1,Sporting Gijón,Celta de Vigo
+20/03/1994,2 - 1,Athletic Club,Celta de Vigo
+20/03/1994,0 - 4,Atlético Madrid,Real Zaragoza
+20/03/1994,3 - 4,CD Logroñés,Real Madrid
+20/03/1994,0 - 0,Deportivo La Coruña,Real Valladolid
+20/03/1994,1 - 0,Lerida,Real Sociedad
+20/03/1994,1 - 1,Racing Santander,Barcelona
+20/03/1994,2 - 1,Rayo Vallecano,Sevilla
+20/03/1994,1 - 0,Real Oviedo,Osasuna
+20/03/1994,2 - 1,Tenerife,Albacete
+20/03/1994,1 - 0,Valencia,Sporting Gijón
+13/03/1994,3 - 0,Albacete,Racing Santander
+13/03/1994,5 - 3,Barcelona,Atlético Madrid
+13/03/1994,1 - 2,Celta de Vigo,Valencia
+13/03/1994,0 - 0,Osasuna,Deportivo La Coruña
+13/03/1994,5 - 2,Real Madrid,Rayo Vallecano
+13/03/1994,2 - 1,Real Sociedad,Tenerife
+13/03/1994,1 - 1,Real Valladolid,Athletic Club
+13/03/1994,2 - 1,Real Zaragoza,Real Oviedo
+13/03/1994,2 - 1,Sevilla,Lerida
+13/03/1994,1 - 2,Sporting Gijón,CD Logroñés
+06/03/1994,2 - 1,Athletic Club,Valencia
+06/03/1994,0 - 0,Atlético Madrid,Albacete
+06/03/1994,1 - 1,CD Logroñés,Celta de Vigo
+06/03/1994,1 - 1,Deportivo La Coruña,Real Zaragoza
+06/03/1994,2 - 1,Lerida,Real Madrid
+06/03/1994,4 - 1,Racing Santander,Real Sociedad
+06/03/1994,2 - 1,Rayo Vallecano,Sporting Gijón
+06/03/1994,1 - 3,Real Oviedo,Barcelona
+06/03/1994,2 - 1,Real Valladolid,Osasuna
+06/03/1994,2 - 1,Tenerife,Sevilla
+27/02/1994,5 - 0,Albacete,Real Oviedo
+27/02/1994,3 - 0,Barcelona,Deportivo La Coruña
+27/02/1994,0 - 0,Celta de Vigo,Rayo Vallecano
+27/02/1994,0 - 0,Osasuna,Athletic Club
+27/02/1994,1 - 1,Real Madrid,Tenerife
+27/02/1994,2 - 1,Real Sociedad,Atlético Madrid
+27/02/1994,2 - 0,Real Zaragoza,Real Valladolid
+27/02/1994,2 - 1,Sevilla,Racing Santander
+27/02/1994,1 - 1,Sporting Gijón,Lerida
+27/02/1994,3 - 1,Valencia,CD Logroñés
+23/02/1994,0 - 0,Athletic Club,CD Logroñés
+23/02/1994,2 - 4,Atlético Madrid,Sevilla
+23/02/1994,5 - 1,Deportivo La Coruña,Albacete
+23/02/1994,0 - 0,Lerida,Celta de Vigo
+23/02/1994,0 - 0,Osasuna,Real Zaragoza
+23/02/1994,1 - 3,Racing Santander,Real Madrid
+23/02/1994,1 - 1,Rayo Vallecano,Valencia
+23/02/1994,2 - 1,Real Oviedo,Real Sociedad
+23/02/1994,1 - 3,Real Valladolid,Barcelona
+23/02/1994,3 - 0,Tenerife,Sporting Gijón
+20/02/1994,1 - 1,Albacete,Real Valladolid
+20/02/1994,8 - 1,Barcelona,Osasuna
+20/02/1994,1 - 1,CD Logroñés,Rayo Vallecano
+20/02/1994,1 - 0,Celta de Vigo,Tenerife
+20/02/1994,1 - 0,Real Madrid,Atlético Madrid
+20/02/1994,0 - 1,Real Sociedad,Deportivo La Coruña
+20/02/1994,1 - 0,Real Zaragoza,Athletic Club
+20/02/1994,2 - 0,Sevilla,Real Oviedo
+20/02/1994,0 - 2,Sporting Gijón,Racing Santander
+20/02/1994,3 - 3,Valencia,Lerida
+13/02/1994,0 - 0,Athletic Club,Rayo Vallecano
+13/02/1994,2 - 0,Atlético Madrid,Sporting Gijón
+13/02/1994,2 - 0,Deportivo La Coruña,Sevilla
+13/02/1994,1 - 1,Lerida,CD Logroñés
+13/02/1994,3 - 1,Osasuna,Albacete
+13/02/1994,2 - 1,Racing Santander,Celta de Vigo
+13/02/1994,0 - 1,Real Oviedo,Real Madrid
+13/02/1994,0 - 0,Real Valladolid,Real Sociedad
+13/02/1994,6 - 3,Real Zaragoza,Barcelona
+13/02/1994,1 - 0,Tenerife,Valencia
+06/02/1994,2 - 1,Albacete,Real Zaragoza
+06/02/1994,2 - 3,Barcelona,Athletic Club
+06/02/1994,1 - 2,CD Logroñés,Tenerife
+06/02/1994,3 - 2,Celta de Vigo,Atlético Madrid
+06/02/1994,1 - 2,Rayo Vallecano,Lerida
+06/02/1994,2 - 0,Real Madrid,Deportivo La Coruña
+06/02/1994,1 - 0,Real Sociedad,Osasuna
+06/02/1994,3 - 3,Sevilla,Real Valladolid
+06/02/1994,0 - 0,Sporting Gijón,Real Oviedo
+06/02/1994,2 - 1,Valencia,Racing Santander
+30/01/1994,4 - 0,Athletic Club,Lerida
+30/01/1994,2 - 0,Atlético Madrid,Valencia
+30/01/1994,2 - 1,Barcelona,Albacete
+30/01/1994,2 - 1,Deportivo La Coruña,Sporting Gijón
+30/01/1994,0 - 0,Osasuna,Sevilla
+30/01/1994,0 - 0,Racing Santander,CD Logroñés
+30/01/1994,1 - 0,Real Oviedo,Celta de Vigo
+30/01/1994,0 - 0,Real Valladolid,Real Madrid
+30/01/1994,3 - 0,Real Zaragoza,Real Sociedad
+30/01/1994,3 - 1,Tenerife,Rayo Vallecano
+23/01/1994,1 - 0,Albacete,Athletic Club
+23/01/1994,1 - 0,CD Logroñés,Atlético Madrid
+23/01/1994,0 - 0,Celta de Vigo,Deportivo La Coruña
+23/01/1994,1 - 1,Lerida,Tenerife
+23/01/1994,1 - 1,Rayo Vallecano,Racing Santander
+23/01/1994,0 - 0,Real Madrid,Osasuna
+23/01/1994,2 - 1,Real Sociedad,Barcelona
+23/01/1994,0 - 1,Sevilla,Real Zaragoza
+23/01/1994,2 - 0,Sporting Gijón,Real Valladolid
+23/01/1994,2 - 2,Valencia,Real Oviedo
+16/01/1994,2 - 2,CD Logroñés,Real Oviedo
+16/01/1994,1 - 2,Celta de Vigo,Real Valladolid
+16/01/1994,0 - 0,Lerida,Racing Santander
+16/01/1994,2 - 1,Rayo Vallecano,Atlético Madrid
+16/01/1994,3 - 2,Real Madrid,Real Zaragoza
+16/01/1994,1 - 1,Real Sociedad,Albacete
+16/01/1994,0 - 0,Sevilla,Barcelona
+16/01/1994,7 - 1,Sporting Gijón,Osasuna
+16/01/1994,2 - 1,Tenerife,Athletic Club
+16/01/1994,1 - 3,Valencia,Deportivo La Coruña
+09/01/1994,2 - 2,Albacete,Sevilla
+09/01/1994,0 - 0,Athletic Club,Real Sociedad
+09/01/1994,0 - 0,Atlético Madrid,Lerida
+09/01/1994,5 - 0,Barcelona,Real Madrid
+09/01/1994,3 - 0,Deportivo La Coruña,CD Logroñés
+09/01/1994,0 - 1,Osasuna,Celta de Vigo
+09/01/1994,1 - 0,Racing Santander,Tenerife
+09/01/1994,5 - 0,Real Oviedo,Rayo Vallecano
+09/01/1994,1 - 1,Real Valladolid,Valencia
+09/01/1994,3 - 0,Real Zaragoza,Sporting Gijón
+02/01/1994,1 - 2,Athletic Club,Racing Santander
+02/01/1994,0 - 0,CD Logroñés,Real Valladolid
+02/01/1994,1 - 0,Celta de Vigo,Real Zaragoza
+02/01/1994,1 - 1,Lerida,Real Oviedo
+02/01/1994,0 - 0,Rayo Vallecano,Deportivo La Coruña
+02/01/1994,2 - 0,Real Madrid,Albacete
+02/01/1994,1 - 0,Sevilla,Real Sociedad
+02/01/1994,2 - 0,Sporting Gijón,Barcelona
+02/01/1994,1 - 1,Tenerife,Atlético Madrid
+02/01/1994,0 - 0,Valencia,Osasuna
+19/12/1993,3 - 1,Albacete,Sporting Gijón
+19/12/1993,4 - 0,Atlético Madrid,Racing Santander
+19/12/1993,1 - 0,Barcelona,Celta de Vigo
+19/12/1993,2 - 0,Deportivo La Coruña,Lerida
+19/12/1993,1 - 3,Osasuna,CD Logroñés
+19/12/1993,1 - 0,Real Oviedo,Tenerife
+19/12/1993,2 - 0,Real Sociedad,Real Madrid
+19/12/1993,1 - 3,Real Valladolid,Rayo Vallecano
+19/12/1993,1 - 0,Real Zaragoza,Valencia
+19/12/1993,1 - 3,Sevilla,Athletic Club
+12/12/1993,3 - 2,Athletic Club,Atlético Madrid
+12/12/1993,2 - 2,CD Logroñés,Real Zaragoza
+12/12/1993,1 - 4,Celta de Vigo,Albacete
+12/12/1993,1 - 0,Lerida,Real Valladolid
+12/12/1993,1 - 2,Racing Santander,Real Oviedo
+12/12/1993,1 - 0,Rayo Vallecano,Osasuna
+12/12/1993,0 - 0,Real Madrid,Sevilla
+12/12/1993,3 - 2,Sporting Gijón,Real Sociedad
+12/12/1993,0 - 1,Tenerife,Deportivo La Coruña
+12/12/1993,0 - 4,Valencia,Barcelona
+05/12/1993,3 - 1,Albacete,Valencia
+05/12/1993,2 - 2,Barcelona,CD Logroñés
+05/12/1993,1 - 0,Deportivo La Coruña,Racing Santander
+05/12/1993,1 - 0,Osasuna,Lerida
+05/12/1993,2 - 1,Real Madrid,Athletic Club
+05/12/1993,1 - 1,Real Oviedo,Atlético Madrid
+05/12/1993,2 - 1,Real Sociedad,Celta de Vigo
+05/12/1993,2 - 0,Real Valladolid,Tenerife
+05/12/1993,4 - 1,Real Zaragoza,Rayo Vallecano
+05/12/1993,1 - 2,Sevilla,Sporting Gijón
+28/11/1993,1 - 1,Athletic Club,Real Oviedo
+28/11/1993,0 - 1,Atlético Madrid,Deportivo La Coruña
+28/11/1993,2 - 2,CD Logroñés,Albacete
+28/11/1993,2 - 1,Celta de Vigo,Sevilla
+28/11/1993,0 - 1,Lerida,Real Zaragoza
+28/11/1993,5 - 1,Racing Santander,Real Valladolid
+28/11/1993,2 - 4,Rayo Vallecano,Barcelona
+28/11/1993,2 - 1,Sporting Gijón,Real Madrid
+28/11/1993,1 - 0,Tenerife,Osasuna
+28/11/1993,0 - 0,Valencia,Real Sociedad
+21/11/1993,1 - 1,Albacete,Rayo Vallecano
+21/11/1993,0 - 1,Barcelona,Lerida
+21/11/1993,4 - 0,Deportivo La Coruña,Real Oviedo
+21/11/1993,0 - 0,Osasuna,Racing Santander
+21/11/1993,2 - 1,Real Madrid,Celta de Vigo
+21/11/1993,2 - 2,Real Sociedad,CD Logroñés
+21/11/1993,1 - 1,Real Valladolid,Atlético Madrid
+21/11/1993,6 - 2,Real Zaragoza,Tenerife
+21/11/1993,0 - 1,Sevilla,Valencia
+21/11/1993,0 - 1,Sporting Gijón,Athletic Club
+10/11/1993,3 - 1,Athletic Club,Deportivo La Coruña
+10/11/1993,3 - 0,Atlético Madrid,Osasuna
+10/11/1993,1 - 1,CD Logroñés,Sevilla
+10/11/1993,0 - 2,Celta de Vigo,Sporting Gijón
+10/11/1993,0 - 1,Lerida,Albacete
+10/11/1993,2 - 0,Racing Santander,Real Zaragoza
+10/11/1993,4 - 1,Rayo Vallecano,Real Sociedad
+10/11/1993,1 - 0,Real Oviedo,Real Valladolid
+10/11/1993,2 - 3,Tenerife,Barcelona
+10/11/1993,0 - 3,Valencia,Real Madrid
+07/11/1993,2 - 3,Albacete,Tenerife
+07/11/1993,2 - 1,Barcelona,Racing Santander
+07/11/1993,1 - 1,Celta de Vigo,Athletic Club
+07/11/1993,2 - 0,Osasuna,Real Oviedo
+07/11/1993,2 - 1,Real Madrid,CD Logroñés
+07/11/1993,1 - 3,Real Sociedad,Lerida
+07/11/1993,0 - 0,Real Valladolid,Deportivo La Coruña
+07/11/1993,2 - 1,Real Zaragoza,Atlético Madrid
+07/11/1993,3 - 1,Sevilla,Rayo Vallecano
+07/11/1993,2 - 0,Sporting Gijón,Valencia
+31/10/1993,3 - 0,Athletic Club,Real Valladolid
+31/10/1993,4 - 3,Atlético Madrid,Barcelona
+31/10/1993,1 - 2,CD Logroñés,Sporting Gijón
+31/10/1993,3 - 1,Deportivo La Coruña,Osasuna
+31/10/1993,0 - 3,Lerida,Sevilla
+31/10/1993,1 - 1,Racing Santander,Albacete
+31/10/1993,0 - 2,Rayo Vallecano,Real Madrid
+31/10/1993,2 - 1,Real Oviedo,Real Zaragoza
+31/10/1993,2 - 1,Tenerife,Real Sociedad
+31/10/1993,3 - 0,Valencia,Celta de Vigo
+24/10/1993,2 - 2,Albacete,Atlético Madrid
+24/10/1993,1 - 0,Barcelona,Real Oviedo
+24/10/1993,2 - 0,Celta de Vigo,CD Logroñés
+24/10/1993,2 - 0,Osasuna,Real Valladolid
+24/10/1993,5 - 0,Real Madrid,Lerida
+24/10/1993,2 - 0,Real Sociedad,Racing Santander
+24/10/1993,0 - 1,Real Zaragoza,Deportivo La Coruña
+24/10/1993,4 - 0,Sevilla,Tenerife
+24/10/1993,2 - 0,Sporting Gijón,Rayo Vallecano
+24/10/1993,1 - 0,Valencia,Athletic Club
+17/10/1993,1 - 2,Athletic Club,Osasuna
+17/10/1993,1 - 2,Atlético Madrid,Real Sociedad
+17/10/1993,2 - 0,CD Logroñés,Valencia
+17/10/1993,1 - 0,Deportivo La Coruña,Barcelona
+17/10/1993,1 - 1,Lerida,Sporting Gijón
+17/10/1993,1 - 0,Racing Santander,Sevilla
+17/10/1993,1 - 1,Rayo Vallecano,Celta de Vigo
+17/10/1993,1 - 1,Real Oviedo,Albacete
+17/10/1993,0 - 0,Real Valladolid,Real Zaragoza
+17/10/1993,0 - 0,Tenerife,Real Madrid
+06/10/1993,0 - 0,Albacete,Deportivo La Coruña
+06/10/1993,3 - 0,Barcelona,Real Valladolid
+06/10/1993,4 - 2,CD Logroñés,Athletic Club
+06/10/1993,1 - 0,Celta de Vigo,Lerida
+06/10/1993,2 - 1,Real Madrid,Racing Santander
+06/10/1993,2 - 2,Real Sociedad,Real Oviedo
+06/10/1993,2 - 1,Real Zaragoza,Osasuna
+06/10/1993,2 - 1,Sevilla,Atlético Madrid
+06/10/1993,1 - 2,Sporting Gijón,Tenerife
+06/10/1993,3 - 1,Valencia,Rayo Vallecano
+03/10/1993,2 - 1,Athletic Club,Real Zaragoza
+03/10/1993,0 - 0,Atlético Madrid,Real Madrid
+03/10/1993,0 - 1,Deportivo La Coruña,Real Sociedad
+03/10/1993,1 - 1,Lerida,Valencia
+03/10/1993,2 - 3,Osasuna,Barcelona
+03/10/1993,2 - 0,Racing Santander,Sporting Gijón
+03/10/1993,3 - 1,Rayo Vallecano,CD Logroñés
+03/10/1993,0 - 2,Real Oviedo,Sevilla
+03/10/1993,1 - 0,Real Valladolid,Albacete
+03/10/1993,0 - 0,Tenerife,Celta de Vigo
+26/09/1993,2 - 1,Albacete,Osasuna
+26/09/1993,4 - 1,Barcelona,Real Zaragoza
+26/09/1993,2 - 1,CD Logroñés,Lerida
+26/09/1993,0 - 0,Celta de Vigo,Racing Santander
+26/09/1993,1 - 2,Rayo Vallecano,Athletic Club
+26/09/1993,0 - 1,Real Madrid,Real Oviedo
+26/09/1993,1 - 0,Real Sociedad,Real Valladolid
+26/09/1993,0 - 0,Sevilla,Deportivo La Coruña
+26/09/1993,1 - 1,Sporting Gijón,Atlético Madrid
+26/09/1993,3 - 2,Valencia,Tenerife
+19/09/1993,0 - 0,Athletic Club,Barcelona
+19/09/1993,3 - 2,Atlético Madrid,Celta de Vigo
+19/09/1993,4 - 0,Deportivo La Coruña,Real Madrid
+19/09/1993,0 - 1,Lerida,Rayo Vallecano
+19/09/1993,0 - 2,Osasuna,Real Sociedad
+19/09/1993,0 - 1,Racing Santander,Valencia
+19/09/1993,0 - 1,Real Oviedo,Sporting Gijón
+19/09/1993,2 - 2,Real Valladolid,Sevilla
+19/09/1993,1 - 1,Real Zaragoza,Albacete
+19/09/1993,2 - 0,Tenerife,CD Logroñés
+12/09/1993,0 - 0,Albacete,Barcelona
+12/09/1993,0 - 1,CD Logroñés,Racing Santander
+12/09/1993,1 - 1,Celta de Vigo,Real Oviedo
+12/09/1993,1 - 2,Lerida,Athletic Club
+12/09/1993,4 - 3,Rayo Vallecano,Tenerife
+12/09/1993,1 - 3,Real Madrid,Real Valladolid
+12/09/1993,2 - 2,Real Sociedad,Real Zaragoza
+12/09/1993,1 - 1,Sevilla,Osasuna
+12/09/1993,0 - 2,Sporting Gijón,Deportivo La Coruña
+12/09/1993,2 - 2,Valencia,Atlético Madrid
+05/09/1993,4 - 1,Athletic Club,Albacete
+05/09/1993,1 - 0,Atlético Madrid,CD Logroñés
+05/09/1993,3 - 0,Barcelona,Real Sociedad
+05/09/1993,0 - 0,Deportivo La Coruña,Celta de Vigo
+05/09/1993,1 - 4,Osasuna,Real Madrid
+05/09/1993,1 - 0,Racing Santander,Rayo Vallecano
+05/09/1993,0 - 3,Real Oviedo,Valencia
+05/09/1993,0 - 1,Real Valladolid,Sporting Gijón
+05/09/1993,1 - 2,Real Zaragoza,Sevilla
+05/09/1993,1 - 0,Tenerife,Lerida

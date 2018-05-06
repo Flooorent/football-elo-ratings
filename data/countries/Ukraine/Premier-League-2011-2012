@@ -1,0 +1,241 @@
+date,score,home_team,away_team
+10/05/2012,1 - 0,Chornomorets,Obolon'
+10/05/2012,2 - 0,Dnipro Dnipropetrovsk,Karpaty
+10/05/2012,1 - 1,Dynamo Kyiv,Tavriya
+10/05/2012,0 - 2,Kryvbas,Arsenal Kyiv
+10/05/2012,2 - 1,Mariupol',Metalurh Donetsk
+10/05/2012,3 - 0,[N] Shakhtar Donetsk,Oleksandria
+10/05/2012,2 - 2,Volyn,Zorya
+10/05/2012,2 - 2,Vorskla,Metalist
+02/05/2012,2 - 0,Karpaty,Kryvbas
+02/05/2012,1 - 2,Metalist,Shakhtar Donetsk
+02/05/2012,0 - 0,Obolon',Mariupol'
+02/05/2012,1 - 3,Oleksandria,Chornomorets
+02/05/2012,0 - 0,Zorya,Dynamo Kyiv
+02/05/2012,3 - 0,Arsenal Kyiv,Volyn
+02/05/2012,0 - 3,Metalurh Donetsk,Dnipro Dnipropetrovsk
+02/05/2012,0 - 2,Tavriya,Vorskla
+24/04/2012,1 - 1,Tavriya,Metalurh Donetsk
+22/04/2012,0 - 1,Volyn,Dynamo Kyiv
+22/04/2012,3 - 3,Chornomorets,Metalist
+22/04/2012,3 - 2,Arsenal Kyiv,Karpaty
+22/04/2012,2 - 2,Vorskla,Zorya
+21/04/2012,3 - 1,[N] Shakhtar Donetsk,Tavriya
+21/04/2012,2 - 2,Dnipro Dnipropetrovsk,Obolon'
+21/04/2012,1 - 2,Kryvbas,Metalurh Donetsk
+20/04/2012,2 - 0,Mariupol',Oleksandria
+16/04/2012,1 - 5,Zorya,Shakhtar Donetsk
+16/04/2012,1 - 0,[N] Karpaty,Volyn
+16/04/2012,2 - 0,Tavriya,Chornomorets
+16/04/2012,1 - 1,Metalurh Donetsk,Arsenal Kyiv
+14/04/2012,0 - 0,Metalist,Mariupol'
+14/04/2012,3 - 0,Dynamo Kyiv,Vorskla
+14/04/2012,1 - 5,Oleksandria,Dnipro Dnipropetrovsk
+13/04/2012,0 - 0,Obolon',Kryvbas
+09/04/2012,2 - 2,Dnipro Dnipropetrovsk,Metalist
+08/04/2012,1 - 2,Kryvbas,Oleksandria
+08/04/2012,0 - 2,Mariupol',Tavriya
+07/04/2012,2 - 3,Chornomorets,Zorya
+07/04/2012,0 - 2,Karpaty,Metalurh Donetsk
+07/04/2012,2 - 0,[N] Shakhtar Donetsk,Dynamo Kyiv
+06/04/2012,4 - 1,Arsenal Kyiv,Obolon'
+06/04/2012,0 - 0,Volyn,Vorskla
+01/04/2012,1 - 1,Metalist,Kryvbas
+01/04/2012,3 - 1,Dynamo Kyiv,Chornomorets
+01/04/2012,0 - 2,Vorskla,Shakhtar Donetsk
+01/04/2012,1 - 2,Oleksandria,Arsenal Kyiv
+31/03/2012,2 - 0,Obolon',Karpaty
+31/03/2012,2 - 2,Zorya,Mariupol'
+31/03/2012,0 - 2,Tavriya,Dnipro Dnipropetrovsk
+30/03/2012,0 - 3,Metalurh Donetsk,Volyn
+25/03/2012,1 - 1,Karpaty,Oleksandria
+25/03/2012,0 - 3,Kryvbas,Tavriya
+25/03/2012,2 - 1,Chornomorets,Vorskla
+25/03/2012,0 - 1,Mariupol',Dynamo Kyiv
+24/03/2012,2 - 0,Metalurh Donetsk,Obolon'
+24/03/2012,3 - 1,Dnipro Dnipropetrovsk,Zorya
+24/03/2012,4 - 2,Arsenal Kyiv,Metalist
+23/03/2012,1 - 2,Volyn,Shakhtar Donetsk
+19/03/2012,3 - 1,Metalist,Karpaty
+18/03/2012,0 - 0,Oleksandria,Metalurh Donetsk
+18/03/2012,2 - 0,Dynamo Kyiv,Dnipro Dnipropetrovsk
+18/03/2012,1 - 0,Obolon',Volyn
+17/03/2012,3 - 1,Vorskla,Mariupol'
+17/03/2012,4 - 0,[N] Shakhtar Donetsk,Chornomorets
+17/03/2012,1 - 1,Tavriya,Arsenal Kyiv
+16/03/2012,2 - 0,Zorya,Kryvbas
+11/03/2012,1 - 1,Arsenal Kyiv,Zorya
+11/03/2012,0 - 3,Kryvbas,Dynamo Kyiv
+11/03/2012,2 - 3,Karpaty,Tavriya
+11/03/2012,1 - 1,Metalurh Donetsk,Metalist
+10/03/2012,0 - 2,Volyn,Chornomorets
+10/03/2012,1 - 1,Dnipro Dnipropetrovsk,Vorskla
+10/03/2012,1 - 2,Mariupol',Shakhtar Donetsk
+09/03/2012,1 - 1,Obolon',Oleksandria
+04/03/2012,1 - 0,Dynamo Kyiv,Arsenal Kyiv
+04/03/2012,1 - 1,[N] Shakhtar Donetsk,Dnipro Dnipropetrovsk
+04/03/2012,2 - 1,Vorskla,Kryvbas
+03/03/2012,1 - 0,Metalist,Obolon'
+03/03/2012,1 - 0,Chornomorets,Mariupol'
+03/03/2012,0 - 1,Oleksandria,Volyn
+03/03/2012,5 - 1,Zorya,Karpaty
+11/12/2011,0 - 4,Kryvbas,Shakhtar Donetsk
+11/12/2011,0 - 1,Volyn,Mariupol'
+11/12/2011,3 - 0,Metalurh Donetsk,Zorya
+10/12/2011,2 - 0,Arsenal Kyiv,Vorskla
+10/12/2011,1 - 0,Dnipro Dnipropetrovsk,Chornomorets
+10/12/2011,0 - 1,Karpaty,Dynamo Kyiv
+10/12/2011,1 - 3,Oleksandria,Metalist
+09/12/2011,1 - 3,Obolon',Tavriya
+05/12/2011,1 - 0,[N] Dynamo Kyiv,Metalurh Donetsk
+04/12/2011,3 - 1,Metalist,Volyn
+04/12/2011,1 - 1,Vorskla,Karpaty
+04/12/2011,3 - 2,Mariupol',Dnipro Dnipropetrovsk
+03/12/2011,1 - 2,Chornomorets,Kryvbas
+03/12/2011,4 - 1,Tavriya,Oleksandria
+03/12/2011,1 - 2,Zorya,Obolon'
+02/12/2011,5 - 0,[N] Shakhtar Donetsk,Arsenal Kyiv
+27/11/2011,0 - 1,Arsenal Kyiv,Chornomorets
+27/11/2011,0 - 5,[N] Karpaty,Shakhtar Donetsk
+27/11/2011,1 - 0,Oleksandria,Zorya
+26/11/2011,1 - 2,Volyn,Dnipro Dnipropetrovsk
+26/11/2011,2 - 0,Kryvbas,Mariupol'
+26/11/2011,0 - 1,Obolon',Dynamo Kyiv
+25/11/2011,2 - 0,Metalist,Tavriya
+25/11/2011,6 - 3,Metalurh Donetsk,Vorskla
+20/11/2011,4 - 0,[N] Dynamo Kyiv,Oleksandria
+20/11/2011,0 - 1,Vorskla,Obolon'
+20/11/2011,1 - 5,Zorya,Metalist
+19/11/2011,2 - 2,Chornomorets,Karpaty
+19/11/2011,0 - 2,Dnipro Dnipropetrovsk,Kryvbas
+19/11/2011,2 - 0,[N] Shakhtar Donetsk,Metalurh Donetsk
+19/11/2011,1 - 0,Tavriya,Volyn
+18/11/2011,0 - 0,Mariupol',Arsenal Kyiv
+06/11/2011,1 - 2,Metalist,Dynamo Kyiv
+06/11/2011,0 - 2,Obolon',Shakhtar Donetsk
+06/11/2011,1 - 1,Oleksandria,Vorskla
+05/11/2011,1 - 0,Dnipro Dnipropetrovsk,Arsenal Kyiv
+05/11/2011,0 - 0,Volyn,Kryvbas
+05/11/2011,3 - 0,[N] Karpaty,Mariupol'
+05/11/2011,3 - 0,Metalurh Donetsk,Chornomorets
+04/11/2011,0 - 1,[N] Zorya,Tavriya
+31/10/2011,0 - 0,Metalurh Donetsk,Mariupol'
+31/10/2011,0 - 1,Obolon',Chornomorets
+30/10/2011,2 - 0,Arsenal Kyiv,Kryvbas
+30/10/2011,0 - 2,[N] Karpaty,Dnipro Dnipropetrovsk
+30/10/2011,0 - 0,Tavriya,Dynamo Kyiv
+30/10/2011,0 - 2,Zorya,Volyn
+29/10/2011,2 - 2,Metalist,Vorskla
+29/10/2011,2 - 3,Oleksandria,Shakhtar Donetsk
+23/10/2011,6 - 1,[N] Dynamo Kyiv,Zorya
+23/10/2011,3 - 2,Vorskla,Tavriya
+23/10/2011,1 - 2,[N] Shakhtar Donetsk,Metalist
+22/10/2011,1 - 0,Dnipro Dnipropetrovsk,Metalurh Donetsk
+22/10/2011,1 - 1,Kryvbas,Karpaty
+22/10/2011,2 - 1,Mariupol',Obolon'
+21/10/2011,2 - 1,[N] Chornomorets,Oleksandria
+21/10/2011,1 - 0,Volyn,Arsenal Kyiv
+16/10/2011,2 - 1,[N] Dynamo Kyiv,Volyn
+16/10/2011,1 - 4,Obolon',Dnipro Dnipropetrovsk
+16/10/2011,0 - 3,[N] Karpaty,Arsenal Kyiv
+16/10/2011,1 - 0,Metalurh Donetsk,Kryvbas
+15/10/2011,1 - 0,Metalist,Chornomorets
+15/10/2011,1 - 3,Tavriya,Shakhtar Donetsk
+14/10/2011,0 - 0,[N] Zorya,Vorskla
+14/10/2011,1 - 2,Oleksandria,Mariupol'
+02/10/2011,1 - 0,Arsenal Kyiv,Metalurh Donetsk
+02/10/2011,1 - 2,Vorskla,Dynamo Kyiv
+02/10/2011,4 - 1,[N] Shakhtar Donetsk,Zorya
+02/10/2011,0 - 1,Mariupol',Metalist
+01/10/2011,0 - 2,Volyn,Karpaty
+01/10/2011,1 - 0,[N] Chornomorets,Tavriya
+01/10/2011,1 - 0,Kryvbas,Obolon'
+30/09/2011,5 - 1,Dnipro Dnipropetrovsk,Oleksandria
+26/09/2011,2 - 1,Metalurh Donetsk,Karpaty
+26/09/2011,3 - 2,Tavriya,Mariupol'
+25/09/2011,0 - 1,Obolon',Arsenal Kyiv
+25/09/2011,1 - 1,Oleksandria,Kryvbas
+25/09/2011,0 - 2,[N] Zorya,Chornomorets
+24/09/2011,0 - 0,[N] Dynamo Kyiv,Shakhtar Donetsk
+24/09/2011,1 - 0,Metalist,Dnipro Dnipropetrovsk
+24/09/2011,3 - 1,Vorskla,Volyn
+18/09/2011,0 - 0,Arsenal Kyiv,Oleksandria
+18/09/2011,1 - 0,[N] Shakhtar Donetsk,Vorskla
+18/09/2011,0 - 1,Kryvbas,Metalist
+18/09/2011,1 - 2,[N] Chornomorets,Dynamo Kyiv
+17/09/2011,2 - 1,Dnipro Dnipropetrovsk,Tavriya
+17/09/2011,0 - 0,[N] Karpaty,Obolon'
+17/09/2011,1 - 1,Mariupol',Zorya
+16/09/2011,0 - 2,Volyn,Metalurh Donetsk
+11/09/2011,3 - 1,[N] Dynamo Kyiv,Mariupol'
+11/09/2011,0 - 1,Obolon',Metalurh Donetsk
+11/09/2011,2 - 0,Zorya,Dnipro Dnipropetrovsk
+10/09/2011,0 - 0,Metalist,Arsenal Kyiv
+10/09/2011,1 - 1,Oleksandria,Karpaty
+10/09/2011,3 - 1,Vorskla,Chornomorets
+09/09/2011,1 - 2,Tavriya,Kryvbas
+09/09/2011,5 - 1,[N] Shakhtar Donetsk,Volyn
+28/08/2011,1 - 2,[N] Karpaty,Metalist
+28/08/2011,2 - 2,[N] Chornomorets,Shakhtar Donetsk
+28/08/2011,0 - 4,Dnipro Dnipropetrovsk,Dynamo Kyiv
+28/08/2011,4 - 1,Mariupol',Vorskla
+27/08/2011,2 - 3,Arsenal Kyiv,Tavriya
+27/08/2011,2 - 1,Kryvbas,Zorya
+26/08/2011,1 - 1,Volyn,Obolon'
+26/08/2011,3 - 1,Metalurh Donetsk,Oleksandria
+21/08/2011,1 - 0,[N] Dynamo Kyiv,Kryvbas
+21/08/2011,2 - 0,Metalist,Metalurh Donetsk
+21/08/2011,3 - 0,[N] Shakhtar Donetsk,Mariupol'
+21/08/2011,1 - 1,Tavriya,Karpaty
+21/08/2011,0 - 0,Vorskla,Dnipro Dnipropetrovsk
+20/08/2011,0 - 0,[N] Chornomorets,Volyn
+20/08/2011,1 - 0,Oleksandria,Obolon'
+19/08/2011,0 - 3,Zorya,Arsenal Kyiv
+15/08/2011,1 - 3,Metalurh Donetsk,Tavriya
+14/08/2011,1 - 1,Mariupol',Chornomorets
+14/08/2011,3 - 1,Volyn,Oleksandria
+13/08/2011,3 - 3,Obolon',Metalist
+13/08/2011,1 - 3,Dnipro Dnipropetrovsk,Shakhtar Donetsk
+13/08/2011,2 - 1,[N] Karpaty,Zorya
+13/08/2011,0 - 2,Arsenal Kyiv,Dynamo Kyiv
+12/08/2011,0 - 0,Kryvbas,Vorskla
+07/08/2011,0 - 2,Vorskla,Arsenal Kyiv
+07/08/2011,2 - 0,[N] Dynamo Kyiv,Karpaty
+07/08/2011,2 - 0,[N] Shakhtar Donetsk,Kryvbas
+06/08/2011,1 - 1,[N] Chornomorets,Dnipro Dnipropetrovsk
+06/08/2011,2 - 1,Metalist,Oleksandria
+06/08/2011,0 - 0,Tavriya,Obolon'
+05/08/2011,1 - 2,Mariupol',Volyn
+05/08/2011,1 - 0,[N] Zorya,Metalurh Donetsk
+31/07/2011,1 - 1,Arsenal Kyiv,Shakhtar Donetsk
+31/07/2011,0 - 2,[N] Karpaty,Vorskla
+31/07/2011,1 - 0,Kryvbas,Chornomorets
+30/07/2011,0 - 0,Metalurh Donetsk,Dynamo Kyiv
+30/07/2011,3 - 0,Dnipro Dnipropetrovsk,Mariupol'
+30/07/2011,0 - 0,Oleksandria,Tavriya
+29/07/2011,0 - 0,Obolon',Zorya
+29/07/2011,0 - 3,Volyn,Metalist
+24/07/2011,1 - 2,Dnipro Dnipropetrovsk,Volyn
+24/07/2011,2 - 1,[N] Shakhtar Donetsk,Karpaty
+24/07/2011,4 - 2,Vorskla,Metalurh Donetsk
+23/07/2011,0 - 3,[N] Chornomorets,Arsenal Kyiv
+23/07/2011,0 - 0,Tavriya,Metalist
+23/07/2011,1 - 3,Mariupol',Kryvbas
+22/07/2011,4 - 0,[N] Dynamo Kyiv,Obolon'
+22/07/2011,2 - 0,[N] Zorya,Oleksandria
+17/07/2011,0 - 0,Arsenal Kyiv,Mariupol'
+17/07/2011,0 - 1,Obolon',Vorskla
+17/07/2011,1 - 1,[N] Karpaty,Chornomorets
+16/07/2011,0 - 2,Metalurh Donetsk,Shakhtar Donetsk
+16/07/2011,2 - 2,Volyn,Tavriya
+16/07/2011,1 - 3,Oleksandria,Dynamo Kyiv
+16/07/2011,3 - 2,[N] Metalist,Zorya
+15/07/2011,0 - 2,Kryvbas,Dnipro Dnipropetrovsk
+11/07/2011,3 - 3,Arsenal Kyiv,Dnipro Dnipropetrovsk
+10/07/2011,0 - 1,[N] Chornomorets,Metalurh Donetsk
+10/07/2011,1 - 1,[N] Dynamo Kyiv,Metalist
+10/07/2011,4 - 0,[N] Shakhtar Donetsk,Obolon'
+09/07/2011,3 - 1,Tavriya,Zorya
+09/07/2011,1 - 0,Kryvbas,Volyn
+09/07/2011,1 - 0,Mariupol',Karpaty
+08/07/2011,0 - 1,Vorskla,Oleksandria

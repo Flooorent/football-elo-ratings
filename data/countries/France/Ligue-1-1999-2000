@@ -1,0 +1,307 @@
+date,score,home_team,away_team
+13/05/2000,1 - 1,Bastia,Bordeaux
+13/05/2000,0 - 1,Le Havre,Nantes
+13/05/2000,3 - 0,Lens,Strasbourg
+13/05/2000,2 - 2,Montpellier,Olympique Lyonnais
+13/05/2000,2 - 0,Nancy,Auxerre
+13/05/2000,2 - 0,Rennes,Metz
+13/05/2000,3 - 1,Saint-Étienne,Monaco
+13/05/2000,2 - 2,Sedan,Olympique Marseille
+13/05/2000,2 - 2,Troyes,PSG
+04/05/2000,4 - 0,Auxerre,Rennes
+04/05/2000,1 - 2,Bordeaux,Lens
+04/05/2000,3 - 1,Metz,Troyes
+04/05/2000,5 - 2,Monaco,Le Havre
+04/05/2000,1 - 0,Nantes,Sedan
+04/05/2000,2 - 1,Olympique Lyonnais,Bastia
+04/05/2000,2 - 2,Olympique Marseille,Nancy
+04/05/2000,3 - 0,PSG,Montpellier
+04/05/2000,0 - 1,Strasbourg,Saint-Étienne
+30/04/2000,2 - 2,Auxerre,Olympique Marseille
+30/04/2000,1 - 2,Bastia,PSG
+29/04/2000,0 - 1,Le Havre,Strasbourg
+29/04/2000,4 - 3,Lens,Olympique Lyonnais
+29/04/2000,0 - 1,Montpellier,Metz
+29/04/2000,2 - 1,Nancy,Nantes
+29/04/2000,1 - 2,Saint-Étienne,Bordeaux
+29/04/2000,2 - 1,Sedan,Monaco
+29/04/2000,1 - 0,Troyes,Rennes
+15/04/2000,3 - 0,Bordeaux,Le Havre
+15/04/2000,1 - 1,Metz,Bastia
+15/04/2000,2 - 2,Monaco,Nancy
+15/04/2000,0 - 0,Nantes,Olympique Marseille
+15/04/2000,1 - 3,Rennes,Montpellier
+15/04/2000,1 - 1,Strasbourg,Sedan
+15/04/2000,2 - 0,Troyes,Auxerre
+14/04/2000,0 - 0,Olympique Lyonnais,Saint-Étienne
+14/04/2000,4 - 1,PSG,Lens
+09/04/2000,1 - 0,Lens,Metz
+08/04/2000,1 - 1,Auxerre,Nantes
+08/04/2000,4 - 2,Bastia,Rennes
+08/04/2000,0 - 1,Le Havre,Olympique Lyonnais
+08/04/2000,2 - 2,Montpellier,Troyes
+08/04/2000,2 - 3,Nancy,Strasbourg
+08/04/2000,1 - 1,Saint-Étienne,PSG
+07/04/2000,4 - 2,Olympique Marseille,Monaco
+07/04/2000,0 - 1,Sedan,Bordeaux
+26/03/2000,2 - 0,Monaco,Nantes
+26/03/2000,2 - 0,Olympique Lyonnais,Sedan
+26/03/2000,3 - 0,Rennes,Lens
+25/03/2000,2 - 1,Bordeaux,Nancy
+25/03/2000,1 - 1,Metz,Saint-Étienne
+25/03/2000,2 - 0,Montpellier,Auxerre
+25/03/2000,2 - 1,PSG,Le Havre
+25/03/2000,3 - 1,Strasbourg,Olympique Marseille
+25/03/2000,1 - 0,Troyes,Bastia
+12/03/2000,0 - 2,Auxerre,Monaco
+12/03/2000,0 - 1,Lens,Troyes
+12/03/2000,1 - 0,Nancy,Olympique Lyonnais
+11/03/2000,1 - 0,Bastia,Montpellier
+11/03/2000,1 - 0,Le Havre,Metz
+11/03/2000,3 - 1,Nantes,Strasbourg
+11/03/2000,0 - 2,Olympique Marseille,Bordeaux
+11/03/2000,1 - 0,Saint-Étienne,Rennes
+11/03/2000,1 - 1,Sedan,PSG
+27/02/2000,3 - 2,Strasbourg,Monaco
+26/02/2000,2 - 0,Bastia,Auxerre
+26/02/2000,3 - 0,Bordeaux,Nantes
+26/02/2000,1 - 1,Metz,Sedan
+26/02/2000,1 - 1,Montpellier,Lens
+26/02/2000,2 - 0,Olympique Lyonnais,Olympique Marseille
+26/02/2000,1 - 1,PSG,Nancy
+26/02/2000,2 - 1,Rennes,Le Havre
+26/02/2000,0 - 1,Troyes,Saint-Étienne
+16/02/2000,0 - 1,Auxerre,Strasbourg
+16/02/2000,2 - 0,Le Havre,Troyes
+16/02/2000,4 - 0,Lens,Bastia
+16/02/2000,1 - 0,Monaco,Bordeaux
+16/02/2000,0 - 0,Nancy,Metz
+16/02/2000,5 - 4,Saint-Étienne,Montpellier
+16/02/2000,2 - 1,Sedan,Rennes
+15/02/2000,6 - 1,Nantes,Olympique Lyonnais
+15/02/2000,4 - 1,Olympique Marseille,PSG
+06/02/2000,2 - 0,Metz,Olympique Marseille
+06/02/2000,2 - 1,Olympique Lyonnais,Monaco
+05/02/2000,4 - 0,Bastia,Saint-Étienne
+05/02/2000,3 - 0,Bordeaux,Strasbourg
+05/02/2000,2 - 1,Lens,Auxerre
+05/02/2000,0 - 0,Montpellier,Le Havre
+05/02/2000,0 - 0,PSG,Nantes
+05/02/2000,3 - 1,Rennes,Nancy
+05/02/2000,0 - 2,Troyes,Sedan
+02/02/2000,2 - 2,Le Havre,Bastia
+02/02/2000,1 - 2,Nancy,Troyes
+02/02/2000,1 - 3,Nantes,Metz
+02/02/2000,1 - 1,Olympique Marseille,Rennes
+02/02/2000,0 - 2,Saint-Étienne,Lens
+02/02/2000,2 - 1,Sedan,Montpellier
+02/02/2000,4 - 2,Strasbourg,Olympique Lyonnais
+01/02/2000,1 - 0,Auxerre,Bordeaux
+01/02/2000,1 - 0,Monaco,PSG
+26/01/2000,1 - 0,Bastia,Sedan
+26/01/2000,4 - 0,Lens,Le Havre
+26/01/2000,1 - 0,Montpellier,Nancy
+26/01/2000,1 - 1,Olympique Lyonnais,Bordeaux
+26/01/2000,4 - 2,PSG,Strasbourg
+26/01/2000,0 - 0,Rennes,Nantes
+26/01/2000,0 - 0,Saint-Étienne,Auxerre
+25/01/2000,1 - 1,Metz,Monaco
+25/01/2000,1 - 2,Troyes,Olympique Marseille
+19/01/2000,0 - 1,Sedan,Le Havre
+19/01/2000,2 - 0,Strasbourg,Troyes
+16/01/2000,1 - 1,Bordeaux,PSG
+16/01/2000,0 - 0,Olympique Marseille,Montpellier
+15/01/2000,2 - 0,Auxerre,Olympique Lyonnais
+15/01/2000,1 - 0,Le Havre,Saint-Étienne
+15/01/2000,3 - 1,Monaco,Rennes
+15/01/2000,1 - 0,Nancy,Bastia
+15/01/2000,3 - 0,Nantes,Troyes
+15/01/2000,0 - 0,Sedan,Lens
+15/01/2000,1 - 1,Strasbourg,Metz
+12/01/2000,0 - 0,Bastia,Olympique Marseille
+12/01/2000,0 - 0,Le Havre,Auxerre
+12/01/2000,0 - 1,Lens,Nancy
+12/01/2000,3 - 0,Montpellier,Nantes
+12/01/2000,2 - 1,Rennes,Strasbourg
+12/01/2000,2 - 3,Saint-Étienne,Sedan
+12/01/2000,1 - 4,Troyes,Monaco
+11/01/2000,2 - 1,Metz,Bordeaux
+11/01/2000,2 - 2,PSG,Olympique Lyonnais
+18/12/1999,1 - 0,Monaco,Montpellier
+18/12/1999,1 - 0,Nancy,Saint-Étienne
+18/12/1999,1 - 1,Nantes,Bastia
+18/12/1999,2 - 0,Olympique Lyonnais,Metz
+18/12/1999,1 - 2,Olympique Marseille,Lens
+17/12/1999,1 - 0,Auxerre,PSG
+17/12/1999,1 - 0,Bordeaux,Rennes
+14/12/1999,1 - 2,Lens,Nantes
+12/12/1999,1 - 0,Bastia,Monaco
+12/12/1999,1 - 3,Metz,PSG
+12/12/1999,5 - 1,Saint-Étienne,Olympique Marseille
+11/12/1999,0 - 1,Le Havre,Nancy
+11/12/1999,1 - 1,Montpellier,Strasbourg
+11/12/1999,1 - 2,Rennes,Olympique Lyonnais
+11/12/1999,1 - 1,Sedan,Auxerre
+11/12/1999,2 - 0,Troyes,Bordeaux
+04/12/1999,1 - 1,Auxerre,Metz
+04/12/1999,2 - 0,Monaco,Lens
+04/12/1999,1 - 0,PSG,Rennes
+03/12/1999,2 - 0,Bordeaux,Montpellier
+03/12/1999,0 - 2,Nancy,Sedan
+03/12/1999,0 - 1,Nantes,Saint-Étienne
+03/12/1999,1 - 3,Olympique Lyonnais,Troyes
+03/12/1999,2 - 0,Olympique Marseille,Le Havre
+03/12/1999,2 - 0,Strasbourg,Bastia
+01/12/1999,2 - 0,Monaco,Auxerre
+28/11/1999,3 - 0,Bastia,Olympique Lyonnais
+28/11/1999,3 - 3,Lens,Bordeaux
+28/11/1999,0 - 0,Sedan,Nantes
+27/11/1999,1 - 4,Le Havre,Monaco
+27/11/1999,0 - 1,Montpellier,PSG
+27/11/1999,2 - 2,Nancy,Olympique Marseille
+27/11/1999,1 - 0,Rennes,Auxerre
+27/11/1999,0 - 1,Saint-Étienne,Strasbourg
+27/11/1999,2 - 2,Troyes,Metz
+20/11/1999,2 - 1,Monaco,Sedan
+20/11/1999,2 - 0,Nantes,Nancy
+20/11/1999,1 - 0,Olympique Lyonnais,Lens
+20/11/1999,0 - 1,Olympique Marseille,Auxerre
+19/11/1999,1 - 2,Bordeaux,Saint-Étienne
+19/11/1999,2 - 2,Metz,Montpellier
+19/11/1999,2 - 0,PSG,Bastia
+19/11/1999,2 - 2,Rennes,Troyes
+19/11/1999,0 - 1,Strasbourg,Le Havre
+10/11/1999,0 - 1,Auxerre,Troyes
+10/11/1999,0 - 0,Bastia,Metz
+10/11/1999,3 - 0,Le Havre,Bordeaux
+10/11/1999,3 - 2,Lens,PSG
+10/11/1999,1 - 2,Montpellier,Rennes
+10/11/1999,1 - 2,Nancy,Monaco
+10/11/1999,1 - 1,Olympique Marseille,Nantes
+10/11/1999,1 - 1,Saint-Étienne,Olympique Lyonnais
+09/11/1999,2 - 1,Sedan,Strasbourg
+07/11/1999,0 - 0,Metz,Lens
+07/11/1999,1 - 1,Monaco,Olympique Marseille
+07/11/1999,3 - 1,Nantes,Auxerre
+07/11/1999,3 - 0,Olympique Lyonnais,Le Havre
+07/11/1999,2 - 1,Troyes,Montpellier
+06/11/1999,1 - 1,Bordeaux,Sedan
+06/11/1999,2 - 0,PSG,Saint-Étienne
+06/11/1999,0 - 0,Rennes,Bastia
+06/11/1999,0 - 2,Strasbourg,Nancy
+31/10/1999,1 - 1,Lens,Rennes
+30/10/1999,2 - 1,Auxerre,Montpellier
+30/10/1999,5 - 0,Bastia,Troyes
+30/10/1999,3 - 1,Le Havre,PSG
+30/10/1999,2 - 2,Nancy,Bordeaux
+30/10/1999,4 - 1,Olympique Marseille,Strasbourg
+30/10/1999,2 - 0,Saint-Étienne,Metz
+29/10/1999,0 - 3,Nantes,Monaco
+29/10/1999,2 - 0,Sedan,Olympique Lyonnais
+24/10/1999,3 - 0,Metz,Le Havre
+24/10/1999,1 - 1,Montpellier,Bastia
+24/10/1999,2 - 1,Olympique Lyonnais,Nancy
+24/10/1999,3 - 2,PSG,Sedan
+24/10/1999,3 - 2,Strasbourg,Nantes
+24/10/1999,0 - 1,Troyes,Lens
+23/10/1999,2 - 1,Bordeaux,Olympique Marseille
+23/10/1999,4 - 1,Rennes,Saint-Étienne
+17/10/1999,0 - 2,Sedan,Metz
+16/10/1999,3 - 1,Auxerre,Bastia
+16/10/1999,0 - 1,Le Havre,Rennes
+16/10/1999,1 - 0,Lens,Montpellier
+16/10/1999,3 - 0,Monaco,Strasbourg
+16/10/1999,1 - 1,Nancy,PSG
+16/10/1999,0 - 1,Nantes,Bordeaux
+16/10/1999,1 - 0,Saint-Étienne,Troyes
+15/10/1999,0 - 1,Olympique Marseille,Olympique Lyonnais
+13/10/1999,2 - 0,Bastia,Lens
+13/10/1999,3 - 2,Bordeaux,Monaco
+13/10/1999,2 - 2,Metz,Nancy
+13/10/1999,0 - 1,Montpellier,Saint-Étienne
+13/10/1999,5 - 0,Rennes,Sedan
+13/10/1999,1 - 3,Strasbourg,Auxerre
+13/10/1999,3 - 1,Troyes,Le Havre
+12/10/1999,2 - 0,Olympique Lyonnais,Nantes
+12/10/1999,0 - 2,PSG,Olympique Marseille
+03/10/1999,3 - 2,Auxerre,Lens
+03/10/1999,1 - 0,Monaco,Olympique Lyonnais
+03/10/1999,0 - 4,Nantes,PSG
+02/10/1999,2 - 1,Le Havre,Montpellier
+02/10/1999,3 - 0,Nancy,Rennes
+02/10/1999,1 - 1,Olympique Marseille,Metz
+02/10/1999,1 - 1,Saint-Étienne,Bastia
+02/10/1999,2 - 1,Sedan,Troyes
+02/10/1999,2 - 2,Strasbourg,Bordeaux
+26/09/1999,0 - 2,Lens,Saint-Étienne
+26/09/1999,1 - 2,Rennes,Olympique Marseille
+25/09/1999,1 - 1,Bastia,Le Havre
+25/09/1999,1 - 0,Bordeaux,Auxerre
+25/09/1999,2 - 1,Metz,Nantes
+25/09/1999,1 - 1,Montpellier,Sedan
+25/09/1999,0 - 0,Olympique Lyonnais,Strasbourg
+25/09/1999,0 - 3,PSG,Monaco
+25/09/1999,2 - 0,Troyes,Nancy
+19/09/1999,1 - 1,Le Havre,Lens
+19/09/1999,2 - 2,Monaco,Metz
+19/09/1999,1 - 2,Nancy,Montpellier
+19/09/1999,3 - 0,Nantes,Rennes
+19/09/1999,1 - 0,Olympique Marseille,Troyes
+19/09/1999,2 - 0,Sedan,Bastia
+19/09/1999,1 - 1,Strasbourg,PSG
+18/09/1999,2 - 1,Auxerre,Saint-Étienne
+18/09/1999,1 - 3,Bordeaux,Olympique Lyonnais
+12/09/1999,2 - 1,PSG,Bordeaux
+12/09/1999,2 - 1,Rennes,Monaco
+11/09/1999,1 - 1,Bastia,Nancy
+11/09/1999,0 - 3,Lens,Sedan
+11/09/1999,0 - 0,Metz,Strasbourg
+11/09/1999,3 - 1,Montpellier,Olympique Marseille
+11/09/1999,0 - 0,Olympique Lyonnais,Auxerre
+11/09/1999,3 - 3,Saint-Étienne,Le Havre
+11/09/1999,1 - 0,Troyes,Nantes
+29/08/1999,3 - 0,Monaco,Troyes
+29/08/1999,1 - 0,Olympique Lyonnais,PSG
+28/08/1999,2 - 1,Auxerre,Le Havre
+28/08/1999,0 - 0,Bordeaux,Metz
+28/08/1999,2 - 1,Nancy,Lens
+28/08/1999,3 - 0,Nantes,Montpellier
+28/08/1999,1 - 1,Olympique Marseille,Bastia
+28/08/1999,3 - 2,Sedan,Saint-Étienne
+28/08/1999,2 - 1,Strasbourg,Rennes
+22/08/1999,2 - 1,Bastia,Nantes
+22/08/1999,0 - 0,Lens,Olympique Marseille
+20/08/1999,2 - 1,Le Havre,Sedan
+20/08/1999,0 - 1,Metz,Olympique Lyonnais
+20/08/1999,2 - 3,Montpellier,Monaco
+20/08/1999,1 - 1,PSG,Auxerre
+20/08/1999,2 - 1,Rennes,Bordeaux
+20/08/1999,2 - 1,Saint-Étienne,Nancy
+20/08/1999,2 - 1,Troyes,Strasbourg
+15/08/1999,2 - 2,Olympique Lyonnais,Rennes
+15/08/1999,3 - 3,Olympique Marseille,Saint-Étienne
+14/08/1999,3 - 1,Auxerre,Sedan
+14/08/1999,4 - 0,Bordeaux,Troyes
+14/08/1999,4 - 0,Monaco,Bastia
+14/08/1999,3 - 0,Nancy,Le Havre
+14/08/1999,0 - 1,Nantes,Lens
+14/08/1999,2 - 1,PSG,Metz
+14/08/1999,2 - 0,Strasbourg,Montpellier
+07/08/1999,3 - 0,Metz,Auxerre
+07/08/1999,2 - 2,Montpellier,Bordeaux
+07/08/1999,1 - 3,Rennes,PSG
+06/08/1999,3 - 0,Bastia,Strasbourg
+06/08/1999,1 - 0,Lens,Monaco
+06/08/1999,0 - 2,Saint-Étienne,Nantes
+06/08/1999,3 - 1,Sedan,Nancy
+05/08/1999,0 - 0,Le Havre,Olympique Marseille
+05/08/1999,1 - 2,Troyes,Olympique Lyonnais
+31/07/1999,2 - 1,Auxerre,Nancy
+31/07/1999,0 - 0,Metz,Rennes
+31/07/1999,1 - 0,Nantes,Le Havre
+31/07/1999,1 - 2,Olympique Lyonnais,Montpellier
+31/07/1999,3 - 0,Olympique Marseille,Sedan
+31/07/1999,1 - 0,PSG,Troyes
+31/07/1999,1 - 0,Strasbourg,Lens
+30/07/1999,3 - 2,Bordeaux,Bastia
+30/07/1999,2 - 2,Monaco,Saint-Étienne

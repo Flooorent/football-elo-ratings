@@ -1,0 +1,307 @@
+date,score,home_team,away_team
+16/05/1998,1 - 1,Atalanta,Juventus
+16/05/1998,2 - 1,Bologna,Lazio
+16/05/1998,2 - 0,Fiorentina,Milan
+16/05/1998,4 - 1,Internazionale,Empoli
+16/05/1998,1 - 3,Lecce,Piacenza
+16/05/1998,2 - 2,Napoli,Bari 1908
+16/05/1998,1 - 3,Parma,Brescia
+16/05/1998,2 - 0,Roma,Sampdoria
+16/05/1998,1 - 3,Vicenza,Udinese
+10/05/1998,2 - 1,Bari 1908,Internazionale
+10/05/1998,2 - 1,Brescia,Napoli
+10/05/1998,3 - 2,Empoli,Vicenza
+10/05/1998,3 - 2,Juventus,Bologna
+10/05/1998,1 - 4,Lazio,Fiorentina
+10/05/1998,1 - 1,Milan,Parma
+10/05/1998,3 - 3,Piacenza,Roma
+10/05/1998,1 - 1,Sampdoria,Lecce
+10/05/1998,1 - 0,Udinese,Atalanta
+03/05/1998,2 - 0,Atalanta,Bari 1908
+03/05/1998,2 - 2,Bologna,Empoli
+03/05/1998,5 - 1,Fiorentina,Brescia
+03/05/1998,0 - 0,Internazionale,Piacenza
+03/05/1998,1 - 3,Napoli,Udinese
+03/05/1998,2 - 2,Parma,Sampdoria
+03/05/1998,5 - 0,Roma,Milan
+03/05/1998,0 - 0,Vicenza,Juventus
+02/05/1998,1 - 0,Lecce,Lazio
+26/04/1998,0 - 0,Bari 1908,Vicenza
+26/04/1998,1 - 3,Brescia,Bologna
+26/04/1998,5 - 1,Empoli,Lecce
+26/04/1998,1 - 0,Juventus,Internazionale
+26/04/1998,1 - 2,Lazio,Parma
+26/04/1998,0 - 0,Milan,Napoli
+26/04/1998,3 - 0,Piacenza,Atalanta
+26/04/1998,2 - 0,Sampdoria,Fiorentina
+26/04/1998,4 - 2,Udinese,Roma
+19/04/1998,1 - 0,Atalanta,Fiorentina
+19/04/1998,3 - 0,Bologna,Milan
+19/04/1998,0 - 1,Empoli,Juventus
+19/04/1998,2 - 0,Internazionale,Udinese
+19/04/1998,0 - 2,Lecce,Parma
+19/04/1998,0 - 2,Napoli,Sampdoria
+19/04/1998,0 - 1,Piacenza,Bari 1908
+19/04/1998,5 - 0,Roma,Brescia
+19/04/1998,2 - 1,Vicenza,Lazio
+11/04/1998,1 - 1,Brescia,Lazio
+11/04/1998,1 - 1,Fiorentina,Vicenza
+11/04/1998,2 - 0,Juventus,Piacenza
+11/04/1998,1 - 1,Lecce,Bologna
+11/04/1998,3 - 0,Milan,Atalanta
+11/04/1998,3 - 1,Parma,Napoli
+11/04/1998,1 - 2,Roma,Internazionale
+11/04/1998,3 - 0,Sampdoria,Empoli
+11/04/1998,2 - 0,Udinese,Bari 1908
+05/04/1998,0 - 1,Atalanta,Roma
+05/04/1998,1 - 0,Bari 1908,Milan
+05/04/1998,2 - 0,Bologna,Udinese
+05/04/1998,3 - 1,Empoli,Brescia
+05/04/1998,3 - 0,Internazionale,Sampdoria
+05/04/1998,0 - 1,Lazio,Juventus
+05/04/1998,1 - 2,Parma,Fiorentina
+04/04/1998,1 - 2,Napoli,Piacenza
+04/04/1998,1 - 3,Vicenza,Lecce
+29/03/1998,1 - 1,Brescia,Bari 1908
+29/03/1998,4 - 0,Fiorentina,Napoli
+29/03/1998,1 - 1,Lecce,Atalanta
+29/03/1998,0 - 0,Piacenza,Empoli
+29/03/1998,2 - 2,Roma,Parma
+29/03/1998,2 - 3,Sampdoria,Bologna
+28/03/1998,2 - 1,Internazionale,Vicenza
+28/03/1998,4 - 1,Juventus,Milan
+28/03/1998,0 - 2,Udinese,Lazio
+22/03/1998,1 - 0,Atalanta,Empoli
+22/03/1998,0 - 1,Bari 1908,Sampdoria
+22/03/1998,1 - 1,Fiorentina,Bologna
+22/03/1998,0 - 0,Lazio,Piacenza
+22/03/1998,0 - 3,Milan,Internazionale
+22/03/1998,2 - 4,Napoli,Lecce
+22/03/1998,2 - 2,Parma,Juventus
+22/03/1998,3 - 1,Udinese,Brescia
+22/03/1998,1 - 1,Vicenza,Roma
+15/03/1998,2 - 2,Brescia,Milan
+15/03/1998,2 - 0,Empoli,Parma
+15/03/1998,1 - 1,Lecce,Fiorentina
+15/03/1998,0 - 2,Piacenza,Udinese
+15/03/1998,2 - 1,Roma,Bari 1908
+14/03/1998,3 - 1,Bologna,Vicenza
+14/03/1998,4 - 0,Internazionale,Atalanta
+14/03/1998,2 - 2,Juventus,Napoli
+14/03/1998,0 - 4,Sampdoria,Lazio
+08/03/1998,2 - 0,Bari 1908,Empoli
+08/03/1998,3 - 2,Brescia,Lecce
+08/03/1998,1 - 1,Fiorentina,Piacenza
+08/03/1998,2 - 0,Lazio,Roma
+08/03/1998,1 - 0,Milan,Sampdoria
+08/03/1998,0 - 0,Napoli,Bologna
+08/03/1998,1 - 0,Parma,Internazionale
+08/03/1998,1 - 1,Udinese,Juventus
+08/03/1998,1 - 0,Vicenza,Atalanta
+01/03/1998,1 - 2,Bologna,Parma
+01/03/1998,1 - 0,Empoli,Udinese
+01/03/1998,0 - 0,Lecce,Milan
+01/03/1998,1 - 0,Piacenza,Sampdoria
+01/03/1998,4 - 1,Roma,Fiorentina
+01/03/1998,2 - 1,Vicenza,Brescia
+28/02/1998,0 - 0,Atalanta,Lazio
+28/02/1998,2 - 0,Internazionale,Napoli
+28/02/1998,1 - 0,Juventus,Bari 1908
+22/02/1998,2 - 2,Bari 1908,Lecce
+22/02/1998,3 - 0,Bologna,Piacenza
+22/02/1998,2 - 2,Brescia,Atalanta
+22/02/1998,3 - 0,Fiorentina,Juventus
+22/02/1998,3 - 0,Lazio,Internazionale
+22/02/1998,3 - 1,Milan,Empoli
+22/02/1998,0 - 2,Napoli,Roma
+22/02/1998,2 - 1,Parma,Vicenza
+22/02/1998,0 - 3,Sampdoria,Udinese
+15/02/1998,1 - 0,Atalanta,Napoli
+15/02/1998,0 - 2,Bari 1908,Lazio
+15/02/1998,1 - 1,Empoli,Fiorentina
+15/02/1998,5 - 0,Internazionale,Lecce
+15/02/1998,3 - 0,Juventus,Sampdoria
+15/02/1998,0 - 0,Piacenza,Brescia
+15/02/1998,2 - 1,Roma,Bologna
+15/02/1998,1 - 1,Udinese,Parma
+15/02/1998,1 - 4,Vicenza,Milan
+11/02/1998,4 - 3,Bologna,Bari 1908
+11/02/1998,1 - 1,Brescia,Juventus
+11/02/1998,1 - 1,Fiorentina,Internazionale
+11/02/1998,3 - 1,Lazio,Empoli
+11/02/1998,1 - 3,Lecce,Roma
+11/02/1998,0 - 0,Milan,Udinese
+11/02/1998,2 - 0,Napoli,Vicenza
+11/02/1998,1 - 1,Parma,Piacenza
+11/02/1998,2 - 0,Sampdoria,Atalanta
+08/02/1998,0 - 0,Atalanta,Parma
+08/02/1998,0 - 1,Bari 1908,Fiorentina
+08/02/1998,5 - 0,Empoli,Napoli
+08/02/1998,0 - 1,Internazionale,Bologna
+08/02/1998,3 - 1,Juventus,Roma
+08/02/1998,2 - 1,Lazio,Milan
+08/02/1998,1 - 1,Piacenza,Vicenza
+08/02/1998,2 - 1,Sampdoria,Brescia
+08/02/1998,6 - 0,Udinese,Lecce
+01/02/1998,0 - 0,Bologna,Atalanta
+01/02/1998,0 - 1,Brescia,Internazionale
+01/02/1998,1 - 0,Fiorentina,Udinese
+01/02/1998,0 - 2,Lecce,Juventus
+01/02/1998,1 - 0,Milan,Piacenza
+01/02/1998,0 - 0,Napoli,Lazio
+01/02/1998,1 - 0,Parma,Bari 1908
+01/02/1998,4 - 3,Roma,Empoli
+01/02/1998,1 - 1,Vicenza,Sampdoria
+25/01/1998,2 - 0,Bari 1908,Napoli
+25/01/1998,2 - 1,Brescia,Parma
+25/01/1998,1 - 1,Empoli,Internazionale
+25/01/1998,3 - 1,Juventus,Atalanta
+25/01/1998,1 - 0,Lazio,Bologna
+25/01/1998,0 - 2,Milan,Fiorentina
+25/01/1998,1 - 0,Piacenza,Lecce
+25/01/1998,1 - 1,Sampdoria,Roma
+25/01/1998,3 - 0,Udinese,Vicenza
+18/01/1998,1 - 1,Atalanta,Udinese
+18/01/1998,1 - 3,Bologna,Juventus
+18/01/1998,1 - 3,Fiorentina,Lazio
+18/01/1998,0 - 1,Internazionale,Bari 1908
+18/01/1998,1 - 3,Lecce,Sampdoria
+18/01/1998,0 - 3,Napoli,Brescia
+18/01/1998,3 - 1,Parma,Milan
+18/01/1998,1 - 1,Roma,Piacenza
+18/01/1998,1 - 0,Vicenza,Empoli
+11/01/1998,0 - 0,Bari 1908,Atalanta
+11/01/1998,1 - 3,Brescia,Fiorentina
+11/01/1998,0 - 0,Empoli,Bologna
+11/01/1998,2 - 0,Juventus,Vicenza
+11/01/1998,4 - 0,Lazio,Lecce
+11/01/1998,0 - 0,Milan,Roma
+11/01/1998,0 - 1,Piacenza,Internazionale
+11/01/1998,5 - 2,Sampdoria,Parma
+11/01/1998,1 - 1,Udinese,Napoli
+04/01/1998,2 - 2,Atalanta,Piacenza
+04/01/1998,2 - 1,Bologna,Brescia
+04/01/1998,1 - 1,Fiorentina,Sampdoria
+04/01/1998,1 - 0,Internazionale,Juventus
+04/01/1998,2 - 2,Lecce,Empoli
+04/01/1998,1 - 2,Napoli,Milan
+04/01/1998,1 - 1,Parma,Lazio
+04/01/1998,1 - 2,Roma,Udinese
+04/01/1998,1 - 2,Vicenza,Bari 1908
+21/12/1997,0 - 0,Bari 1908,Piacenza
+21/12/1997,1 - 1,Brescia,Roma
+21/12/1997,5 - 0,Fiorentina,Atalanta
+21/12/1997,5 - 2,Juventus,Empoli
+21/12/1997,4 - 0,Lazio,Vicenza
+21/12/1997,0 - 0,Milan,Bologna
+21/12/1997,2 - 1,Parma,Lecce
+21/12/1997,6 - 3,Sampdoria,Napoli
+21/12/1997,1 - 0,Udinese,Internazionale
+14/12/1997,1 - 2,Atalanta,Milan
+14/12/1997,0 - 0,Bari 1908,Udinese
+14/12/1997,2 - 0,Bologna,Lecce
+14/12/1997,4 - 1,Empoli,Sampdoria
+14/12/1997,3 - 0,Internazionale,Roma
+14/12/1997,1 - 0,Lazio,Brescia
+14/12/1997,0 - 4,Napoli,Parma
+14/12/1997,1 - 1,Piacenza,Juventus
+14/12/1997,1 - 5,Vicenza,Fiorentina
+07/12/1997,3 - 1,Brescia,Empoli
+07/12/1997,1 - 1,Fiorentina,Parma
+07/12/1997,0 - 1,Lecce,Vicenza
+07/12/1997,2 - 0,Milan,Bari 1908
+07/12/1997,1 - 0,Piacenza,Napoli
+07/12/1997,3 - 0,Roma,Atalanta
+07/12/1997,4 - 3,Udinese,Bologna
+06/12/1997,2 - 1,Juventus,Lazio
+06/12/1997,1 - 1,Sampdoria,Internazionale
+30/11/1997,0 - 0,Atalanta,Lecce
+30/11/1997,2 - 1,Bari 1908,Brescia
+30/11/1997,2 - 2,Bologna,Sampdoria
+30/11/1997,2 - 3,Empoli,Piacenza
+30/11/1997,2 - 3,Lazio,Udinese
+30/11/1997,1 - 1,Milan,Juventus
+30/11/1997,1 - 1,Napoli,Fiorentina
+30/11/1997,0 - 2,Parma,Roma
+30/11/1997,1 - 3,Vicenza,Internazionale
+23/11/1997,2 - 2,Bologna,Fiorentina
+23/11/1997,0 - 4,Brescia,Udinese
+23/11/1997,1 - 0,Empoli,Atalanta
+23/11/1997,2 - 2,Juventus,Parma
+23/11/1997,2 - 0,Lecce,Napoli
+23/11/1997,2 - 2,Roma,Vicenza
+23/11/1997,1 - 0,Sampdoria,Bari 1908
+22/11/1997,2 - 2,Internazionale,Milan
+22/11/1997,0 - 0,Piacenza,Lazio
+09/11/1997,1 - 2,Atalanta,Internazionale
+09/11/1997,1 - 3,Bari 1908,Roma
+09/11/1997,5 - 0,Fiorentina,Lecce
+09/11/1997,3 - 0,Lazio,Sampdoria
+09/11/1997,2 - 1,Milan,Brescia
+09/11/1997,1 - 2,Napoli,Juventus
+09/11/1997,2 - 0,Parma,Empoli
+09/11/1997,2 - 0,Udinese,Piacenza
+09/11/1997,3 - 2,Vicenza,Bologna
+02/11/1997,1 - 3,Atalanta,Vicenza
+02/11/1997,5 - 1,Bologna,Napoli
+02/11/1997,2 - 3,Empoli,Bari 1908
+02/11/1997,2 - 0,Lecce,Brescia
+02/11/1997,0 - 0,Piacenza,Fiorentina
+02/11/1997,0 - 3,Sampdoria,Milan
+01/11/1997,1 - 0,Internazionale,Parma
+01/11/1997,4 - 1,Juventus,Udinese
+01/11/1997,1 - 3,Roma,Lazio
+19/10/1997,0 - 5,Bari 1908,Juventus
+19/10/1997,4 - 0,Brescia,Vicenza
+19/10/1997,0 - 0,Fiorentina,Roma
+19/10/1997,1 - 2,Milan,Lecce
+19/10/1997,2 - 0,Parma,Bologna
+19/10/1997,3 - 1,Sampdoria,Piacenza
+18/10/1997,0 - 2,Lazio,Atalanta
+18/10/1997,0 - 2,Napoli,Internazionale
+18/10/1997,2 - 2,Udinese,Empoli
+05/10/1997,0 - 1,Atalanta,Brescia
+05/10/1997,0 - 1,Empoli,Milan
+05/10/1997,1 - 1,Internazionale,Lazio
+05/10/1997,2 - 1,Juventus,Fiorentina
+05/10/1997,0 - 1,Lecce,Bari 1908
+05/10/1997,0 - 0,Piacenza,Bologna
+05/10/1997,6 - 2,Roma,Napoli
+05/10/1997,3 - 2,Udinese,Sampdoria
+05/10/1997,0 - 0,Vicenza,Parma
+28/09/1997,0 - 0,Bologna,Roma
+28/09/1997,2 - 0,Brescia,Piacenza
+28/09/1997,1 - 2,Fiorentina,Empoli
+28/09/1997,0 - 1,Milan,Vicenza
+28/09/1997,0 - 1,Napoli,Atalanta
+27/09/1997,3 - 2,Lazio,Bari 1908
+27/09/1997,1 - 5,Lecce,Internazionale
+27/09/1997,4 - 0,Parma,Udinese
+27/09/1997,1 - 1,Sampdoria,Juventus
+21/09/1997,0 - 2,Atalanta,Sampdoria
+21/09/1997,0 - 0,Bari 1908,Bologna
+21/09/1997,1 - 0,Empoli,Lazio
+21/09/1997,3 - 2,Internazionale,Fiorentina
+21/09/1997,4 - 0,Juventus,Brescia
+21/09/1997,1 - 3,Piacenza,Parma
+21/09/1997,3 - 1,Roma,Lecce
+21/09/1997,2 - 1,Udinese,Milan
+21/09/1997,1 - 1,Vicenza,Napoli
+14/09/1997,2 - 4,Bologna,Internazionale
+14/09/1997,3 - 1,Fiorentina,Bari 1908
+14/09/1997,2 - 1,Napoli,Empoli
+14/09/1997,2 - 2,Parma,Atalanta
+14/09/1997,0 - 0,Roma,Juventus
+14/09/1997,3 - 2,Vicenza,Piacenza
+13/09/1997,3 - 3,Brescia,Sampdoria
+13/09/1997,1 - 2,Lecce,Udinese
+13/09/1997,1 - 1,Milan,Lazio
+31/08/1997,4 - 2,Atalanta,Bologna
+31/08/1997,0 - 2,Bari 1908,Parma
+31/08/1997,1 - 3,Empoli,Roma
+31/08/1997,2 - 1,Internazionale,Brescia
+31/08/1997,2 - 0,Juventus,Lecce
+31/08/1997,2 - 0,Lazio,Napoli
+31/08/1997,1 - 1,Piacenza,Milan
+31/08/1997,2 - 1,Sampdoria,Vicenza
+31/08/1997,2 - 3,Udinese,Fiorentina

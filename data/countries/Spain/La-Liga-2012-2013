@@ -1,0 +1,381 @@
+date,score,home_team,away_team
+01/06/2013,1 - 0,Celta de Vigo,Espanyol
+01/06/2013,0 - 1,Deportivo La Coruña,Real Sociedad
+01/06/2013,2 - 0,Granada,Getafe
+01/06/2013,1 - 1,Levante,Real Betis
+01/06/2013,4 - 2,Mallorca,Real Valladolid
+01/06/2013,2 - 2,Rayo Vallecano,Athletic Club
+01/06/2013,1 - 3,Real Zaragoza,Atlético Madrid
+01/06/2013,4 - 3,Sevilla,Valencia
+01/06/2013,4 - 1,Barcelona,Málaga
+01/06/2013,4 - 2,Real Madrid,Osasuna
+26/05/2013,0 - 1,Athletic Club,Levante
+26/05/2013,0 - 0,Atlético Madrid,Mallorca
+26/05/2013,0 - 2,Espanyol,Barcelona
+26/05/2013,1 - 2,Getafe,Rayo Vallecano
+26/05/2013,3 - 1,Málaga,Deportivo La Coruña
+26/05/2013,2 - 1,Osasuna,Sevilla
+26/05/2013,4 - 0,Real Betis,Real Zaragoza
+26/05/2013,3 - 3,Real Sociedad,Real Madrid
+26/05/2013,0 - 2,Real Valladolid,Celta de Vigo
+26/05/2013,1 - 0,Valencia,Granada
+20/05/2013,1 - 0,Mallorca,Real Betis
+19/05/2013,2 - 1,Barcelona,Real Valladolid
+19/05/2013,1 - 2,Real Zaragoza,Athletic Club
+19/05/2013,2 - 0,Deportivo La Coruña,Espanyol
+19/05/2013,2 - 3,Levante,Rayo Vallecano
+18/05/2013,1 - 2,Sevilla,Real Sociedad
+18/05/2013,3 - 0,Granada,Osasuna
+18/05/2013,0 - 1,Getafe,Valencia
+13/05/2013,2 - 2,Real Sociedad,Granada
+12/05/2013,0 - 0,Málaga,Sevilla
+12/05/2013,1 - 2,Atlético Madrid,Barcelona
+12/05/2013,1 - 0,Real Betis,Celta de Vigo
+12/05/2013,0 - 4,Rayo Vallecano,Valencia
+11/05/2013,1 - 1,Espanyol,Real Madrid
+11/05/2013,1 - 0,Osasuna,Getafe
+11/05/2013,1 - 0,Real Valladolid,Deportivo La Coruña
+11/05/2013,2 - 1,Athletic Club,Mallorca
+10/05/2013,0 - 0,Levante,Real Zaragoza
+08/05/2013,6 - 2,Real Madrid,Málaga
+08/05/2013,1 - 3,Celta de Vigo,Atlético Madrid
+06/05/2013,2 - 1,Getafe,Real Sociedad
+05/05/2013,4 - 2,Barcelona,Real Betis
+05/05/2013,3 - 0,Sevilla,Espanyol
+05/05/2013,3 - 0,Real Zaragoza,Rayo Vallecano
+05/05/2013,1 - 1,Mallorca,Levante
+04/05/2013,0 - 0,Deportivo La Coruña,Atlético Madrid
+04/05/2013,4 - 3,Real Madrid,Real Valladolid
+04/05/2013,1 - 0,Granada,Málaga
+04/05/2013,4 - 0,Valencia,Osasuna
+03/05/2013,1 - 1,Celta de Vigo,Athletic Club
+29/04/2013,1 - 1,Real Betis,Deportivo La Coruña
+28/04/2013,4 - 2,Real Sociedad,Valencia
+28/04/2013,1 - 1,Real Valladolid,Sevilla
+28/04/2013,2 - 1,Málaga,Getafe
+28/04/2013,0 - 1,Espanyol,Granada
+27/04/2013,3 - 2,Real Zaragoza,Mallorca
+27/04/2013,1 - 2,Atlético Madrid,Real Madrid
+27/04/2013,2 - 2,Athletic Club,Barcelona
+27/04/2013,0 - 1,Levante,Celta de Vigo
+26/04/2013,2 - 2,Rayo Vallecano,Osasuna
+22/04/2013,2 - 1,Celta de Vigo,Real Zaragoza
+21/04/2013,0 - 1,Sevilla,Atlético Madrid
+21/04/2013,0 - 0,Osasuna,Real Sociedad
+21/04/2013,1 - 1,Deportivo La Coruña,Athletic Club
+21/04/2013,0 - 2,Getafe,Espanyol
+20/04/2013,5 - 1,Valencia,Málaga
+20/04/2013,1 - 0,Barcelona,Levante
+20/04/2013,3 - 1,Real Madrid,Real Betis
+20/04/2013,1 - 1,Granada,Real Valladolid
+19/04/2013,1 - 1,Mallorca,Rayo Vallecano
+15/04/2013,1 - 0,Mallorca,Celta de Vigo
+14/04/2013,0 - 3,Athletic Club,Real Madrid
+14/04/2013,0 - 3,Real Zaragoza,Barcelona
+14/04/2013,5 - 0,Atlético Madrid,Granada
+14/04/2013,0 - 2,Rayo Vallecano,Real Sociedad
+13/04/2013,1 - 0,Málaga,Osasuna
+13/04/2013,3 - 3,Espanyol,Valencia
+13/04/2013,0 - 4,Levante,Deportivo La Coruña
+13/04/2013,2 - 1,Real Valladolid,Getafe
+12/04/2013,3 - 3,Real Betis,Sevilla
+08/04/2013,2 - 1,Sevilla,Athletic Club
+07/04/2013,2 - 1,Valencia,Real Valladolid
+07/04/2013,0 - 0,Getafe,Atlético Madrid
+07/04/2013,0 - 2,Osasuna,Espanyol
+07/04/2013,0 - 2,Celta de Vigo,Rayo Vallecano
+06/04/2013,5 - 0,Barcelona,Mallorca
+06/04/2013,3 - 2,Deportivo La Coruña,Real Zaragoza
+06/04/2013,5 - 1,Real Madrid,Levante
+06/04/2013,4 - 2,Real Sociedad,Málaga
+05/04/2013,1 - 5,Granada,Real Betis
+01/04/2013,0 - 0,Real Betis,Getafe
+01/04/2013,1 - 0,Athletic Club,Granada
+31/03/2013,1 - 1,Atlético Madrid,Valencia
+31/03/2013,2 - 2,Espanyol,Real Sociedad
+31/03/2013,2 - 3,Mallorca,Deportivo La Coruña
+31/03/2013,1 - 3,Real Valladolid,Osasuna
+30/03/2013,1 - 0,Levante,Sevilla
+30/03/2013,1 - 1,Real Zaragoza,Real Madrid
+30/03/2013,2 - 2,Celta de Vigo,Barcelona
+30/03/2013,1 - 3,Rayo Vallecano,Málaga
+17/03/2013,3 - 1,Barcelona,Rayo Vallecano
+17/03/2013,1 - 1,Granada,Levante
+17/03/2013,0 - 2,Osasuna,Atlético Madrid
+17/03/2013,4 - 0,Sevilla,Real Zaragoza
+17/03/2013,0 - 2,Málaga,Espanyol
+16/03/2013,3 - 0,Valencia,Real Betis
+16/03/2013,5 - 2,Real Madrid,Mallorca
+16/03/2013,1 - 0,Getafe,Athletic Club
+16/03/2013,4 - 1,Real Sociedad,Real Valladolid
+15/03/2013,3 - 1,Deportivo La Coruña,Celta de Vigo
+11/03/2013,0 - 0,Real Zaragoza,Granada
+10/03/2013,0 - 1,Atlético Madrid,Real Sociedad
+10/03/2013,1 - 2,Celta de Vigo,Real Madrid
+10/03/2013,0 - 0,Levante,Getafe
+10/03/2013,1 - 0,Athletic Club,Valencia
+09/03/2013,2 - 1,Mallorca,Sevilla
+09/03/2013,2 - 0,Barcelona,Deportivo La Coruña
+09/03/2013,1 - 1,Real Valladolid,Málaga
+09/03/2013,2 - 0,Rayo Vallecano,Espanyol
+08/03/2013,2 - 1,Real Betis,Osasuna
+04/03/2013,4 - 1,Sevilla,Celta de Vigo
+03/03/2013,3 - 3,Real Sociedad,Real Betis
+03/03/2013,0 - 0,Málaga,Atlético Madrid
+03/03/2013,0 - 0,Espanyol,Real Valladolid
+03/03/2013,1 - 2,Granada,Mallorca
+02/03/2013,2 - 2,Valencia,Levante
+02/03/2013,0 - 1,Osasuna,Athletic Club
+02/03/2013,0 - 0,Deportivo La Coruña,Rayo Vallecano
+02/03/2013,2 - 1,Real Madrid,Barcelona
+01/03/2013,2 - 0,Getafe,Real Zaragoza
+25/02/2013,0 - 2,Levante,Osasuna
+24/02/2013,3 - 0,Real Betis,Málaga
+24/02/2013,1 - 0,Atlético Madrid,Espanyol
+24/02/2013,2 - 1,Celta de Vigo,Granada
+24/02/2013,1 - 2,Rayo Vallecano,Real Valladolid
+23/02/2013,2 - 1,Barcelona,Sevilla
+23/02/2013,1 - 2,Deportivo La Coruña,Real Madrid
+23/02/2013,2 - 2,Real Zaragoza,Valencia
+23/02/2013,1 - 3,Mallorca,Getafe
+22/02/2013,1 - 3,Athletic Club,Real Sociedad
+17/02/2013,1 - 0,Espanyol,Real Betis
+17/02/2013,2 - 0,Real Madrid,Rayo Vallecano
+17/02/2013,0 - 3,Real Valladolid,Atlético Madrid
+17/02/2013,2 - 0,Valencia,Mallorca
+17/02/2013,1 - 1,Real Sociedad,Levante
+16/02/2013,1 - 0,Osasuna,Real Zaragoza
+16/02/2013,1 - 2,Granada,Barcelona
+16/02/2013,1 - 0,Málaga,Athletic Club
+16/02/2013,3 - 1,Getafe,Celta de Vigo
+15/02/2013,3 - 1,Sevilla,Deportivo La Coruña
+11/02/2013,0 - 0,Real Betis,Real Valladolid
+10/02/2013,2 - 1,Rayo Vallecano,Atlético Madrid
+10/02/2013,0 - 4,Athletic Club,Espanyol
+10/02/2013,1 - 2,Real Zaragoza,Real Sociedad
+10/02/2013,6 - 1,Barcelona,Getafe
+09/02/2013,0 - 3,Deportivo La Coruña,Granada
+09/02/2013,4 - 1,Real Madrid,Sevilla
+09/02/2013,1 - 2,Levante,Málaga
+09/02/2013,0 - 1,Celta de Vigo,Valencia
+09/02/2013,1 - 1,Mallorca,Osasuna
+03/02/2013,1 - 0,Atlético Madrid,Real Betis
+03/02/2013,3 - 0,Real Sociedad,Mallorca
+03/02/2013,1 - 1,Valencia,Barcelona
+03/02/2013,2 - 1,Sevilla,Rayo Vallecano
+03/02/2013,1 - 1,Málaga,Real Zaragoza
+02/02/2013,1 - 0,Granada,Real Madrid
+02/02/2013,3 - 2,Espanyol,Levante
+02/02/2013,3 - 1,Getafe,Deportivo La Coruña
+02/02/2013,1 - 0,Osasuna,Celta de Vigo
+01/02/2013,2 - 2,Real Valladolid,Athletic Club
+28/01/2013,3 - 0,Sevilla,Granada
+27/01/2013,3 - 0,Athletic Club,Atlético Madrid
+27/01/2013,2 - 3,Mallorca,Málaga
+27/01/2013,5 - 1,Barcelona,Osasuna
+27/01/2013,3 - 0,Rayo Vallecano,Real Betis
+27/01/2013,4 - 0,Real Madrid,Getafe
+26/01/2013,2 - 3,Deportivo La Coruña,Valencia
+26/01/2013,0 - 0,Real Zaragoza,Espanyol
+26/01/2013,2 - 1,Levante,Real Valladolid
+26/01/2013,1 - 1,Celta de Vigo,Real Sociedad
+21/01/2013,1 - 1,Real Betis,Athletic Club
+20/01/2013,0 - 5,Valencia,Real Madrid
+20/01/2013,2 - 0,Atlético Madrid,Levante
+20/01/2013,2 - 0,Real Valladolid,Real Zaragoza
+20/01/2013,2 - 1,Osasuna,Deportivo La Coruña
+19/01/2013,1 - 1,Málaga,Celta de Vigo
+19/01/2013,1 - 1,Getafe,Sevilla
+19/01/2013,3 - 2,Real Sociedad,Barcelona
+19/01/2013,2 - 0,Granada,Rayo Vallecano
+18/01/2013,3 - 2,Espanyol,Mallorca
+14/01/2013,2 - 2,Getafe,Granada
+13/01/2013,1 - 3,Málaga,Barcelona
+13/01/2013,2 - 0,Atlético Madrid,Real Zaragoza
+13/01/2013,1 - 1,Real Sociedad,Deportivo La Coruña
+13/01/2013,2 - 0,Real Betis,Levante
+12/01/2013,2 - 0,Valencia,Sevilla
+12/01/2013,0 - 0,Osasuna,Real Madrid
+12/01/2013,1 - 0,Espanyol,Celta de Vigo
+12/01/2013,3 - 1,Real Valladolid,Mallorca
+11/01/2013,1 - 2,Athletic Club,Rayo Vallecano
+07/01/2013,3 - 1,Rayo Vallecano,Getafe
+06/01/2013,1 - 1,Mallorca,Atlético Madrid
+06/01/2013,4 - 0,Barcelona,Espanyol
+06/01/2013,4 - 3,Real Madrid,Real Sociedad
+06/01/2013,3 - 1,Celta de Vigo,Real Valladolid
+05/01/2013,1 - 0,Sevilla,Osasuna
+05/01/2013,1 - 0,Deportivo La Coruña,Málaga
+05/01/2013,1 - 2,Granada,Valencia
+05/01/2013,3 - 1,Levante,Athletic Club
+04/01/2013,1 - 2,Real Zaragoza,Real Betis
+22/12/2012,0 - 2,Athletic Club,Real Zaragoza
+22/12/2012,3 - 2,Málaga,Real Madrid
+22/12/2012,1 - 2,Osasuna,Granada
+22/12/2012,1 - 3,Real Valladolid,Barcelona
+22/12/2012,1 - 2,Real Betis,Mallorca
+21/12/2012,1 - 0,Atlético Madrid,Celta de Vigo
+21/12/2012,4 - 2,Valencia,Getafe
+20/12/2012,2 - 0,Espanyol,Deportivo La Coruña
+20/12/2012,2 - 1,Real Sociedad,Sevilla
+20/12/2012,3 - 0,Rayo Vallecano,Levante
+17/12/2012,0 - 1,Celta de Vigo,Real Betis
+17/12/2012,0 - 0,Deportivo La Coruña,Real Valladolid
+16/12/2012,4 - 1,Barcelona,Atlético Madrid
+16/12/2012,2 - 2,Real Madrid,Espanyol
+16/12/2012,0 - 1,Valencia,Rayo Vallecano
+16/12/2012,0 - 1,Real Zaragoza,Levante
+15/12/2012,0 - 2,Sevilla,Málaga
+15/12/2012,0 - 0,Granada,Real Sociedad
+15/12/2012,0 - 1,Mallorca,Athletic Club
+15/12/2012,1 - 1,Getafe,Osasuna
+10/12/2012,0 - 2,Rayo Vallecano,Real Zaragoza
+09/12/2012,1 - 2,Real Betis,Barcelona
+09/12/2012,6 - 0,Atlético Madrid,Deportivo La Coruña
+09/12/2012,1 - 0,Athletic Club,Celta de Vigo
+09/12/2012,4 - 0,Levante,Mallorca
+08/12/2012,0 - 1,Osasuna,Valencia
+08/12/2012,2 - 3,Real Valladolid,Real Madrid
+08/12/2012,4 - 0,Málaga,Granada
+08/12/2012,1 - 1,Real Sociedad,Getafe
+07/12/2012,2 - 2,Espanyol,Sevilla
+03/12/2012,1 - 2,Sevilla,Real Valladolid
+02/12/2012,1 - 1,Mallorca,Real Zaragoza
+02/12/2012,1 - 1,Celta de Vigo,Levante
+02/12/2012,2 - 3,Deportivo La Coruña,Real Betis
+02/12/2012,0 - 0,Granada,Espanyol
+01/12/2012,2 - 0,Real Madrid,Atlético Madrid
+01/12/2012,5 - 1,Barcelona,Athletic Club
+01/12/2012,2 - 5,Valencia,Real Sociedad
+01/12/2012,1 - 0,Getafe,Málaga
+30/11/2012,1 - 0,Osasuna,Rayo Vallecano
+26/11/2012,0 - 1,Real Zaragoza,Celta de Vigo
+25/11/2012,0 - 4,Levante,Barcelona
+25/11/2012,4 - 0,Atlético Madrid,Sevilla
+25/11/2012,1 - 1,Athletic Club,Deportivo La Coruña
+25/11/2012,0 - 2,Espanyol,Getafe
+24/11/2012,1 - 0,Real Betis,Real Madrid
+24/11/2012,4 - 0,Málaga,Valencia
+24/11/2012,1 - 0,Real Valladolid,Granada
+24/11/2012,2 - 0,Rayo Vallecano,Mallorca
+23/11/2012,0 - 0,Real Sociedad,Osasuna
+19/11/2012,4 - 0,Real Sociedad,Rayo Vallecano
+18/11/2012,5 - 1,Sevilla,Real Betis
+18/11/2012,0 - 1,Granada,Atlético Madrid
+18/11/2012,2 - 1,Getafe,Real Valladolid
+18/11/2012,1 - 1,Celta de Vigo,Mallorca
+18/11/2012,0 - 2,Deportivo La Coruña,Levante
+17/11/2012,5 - 1,Real Madrid,Athletic Club
+17/11/2012,3 - 1,Barcelona,Real Zaragoza
+17/11/2012,2 - 1,Valencia,Espanyol
+17/11/2012,0 - 0,Osasuna,Málaga
+11/11/2012,1 - 2,Levante,Real Madrid
+11/11/2012,2 - 0,Atlético Madrid,Getafe
+11/11/2012,2 - 4,Mallorca,Barcelona
+11/11/2012,2 - 1,Athletic Club,Sevilla
+11/11/2012,1 - 1,Real Valladolid,Valencia
+10/11/2012,1 - 2,Málaga,Real Sociedad
+10/11/2012,5 - 3,Real Zaragoza,Deportivo La Coruña
+10/11/2012,0 - 3,Espanyol,Osasuna
+10/11/2012,3 - 2,Rayo Vallecano,Celta de Vigo
+09/11/2012,1 - 2,Real Betis,Granada
+05/11/2012,2 - 4,Getafe,Real Betis
+04/11/2012,0 - 0,Sevilla,Levante
+04/11/2012,1 - 2,Granada,Athletic Club
+04/11/2012,0 - 1,Osasuna,Real Valladolid
+04/11/2012,1 - 0,Deportivo La Coruña,Mallorca
+04/11/2012,0 - 1,Real Sociedad,Espanyol
+03/11/2012,2 - 0,Valencia,Atlético Madrid
+03/11/2012,4 - 0,Real Madrid,Real Zaragoza
+03/11/2012,3 - 1,Barcelona,Celta de Vigo
+03/11/2012,1 - 2,Málaga,Rayo Vallecano
+29/10/2012,2 - 2,Real Valladolid,Real Sociedad
+28/10/2012,0 - 5,Mallorca,Real Madrid
+28/10/2012,3 - 1,Atlético Madrid,Osasuna
+28/10/2012,1 - 2,Athletic Club,Getafe
+28/10/2012,3 - 1,Levante,Granada
+28/10/2012,2 - 1,Real Zaragoza,Sevilla
+27/10/2012,0 - 5,Rayo Vallecano,Barcelona
+27/10/2012,1 - 1,Celta de Vigo,Deportivo La Coruña
+27/10/2012,1 - 0,Real Betis,Valencia
+27/10/2012,0 - 0,Espanyol,Málaga
+22/10/2012,3 - 2,Sevilla,Mallorca
+21/10/2012,0 - 1,Real Sociedad,Atlético Madrid
+21/10/2012,0 - 0,Osasuna,Real Betis
+21/10/2012,1 - 2,Granada,Real Zaragoza
+21/10/2012,3 - 2,Espanyol,Rayo Vallecano
+21/10/2012,0 - 1,Getafe,Levante
+20/10/2012,4 - 5,Deportivo La Coruña,Barcelona
+20/10/2012,3 - 2,Valencia,Athletic Club
+20/10/2012,2 - 0,Real Madrid,Celta de Vigo
+20/10/2012,2 - 1,Málaga,Real Valladolid
+07/10/2012,2 - 1,Atlético Madrid,Málaga
+07/10/2012,2 - 2,Barcelona,Real Madrid
+07/10/2012,1 - 0,Athletic Club,Osasuna
+07/10/2012,1 - 2,Mallorca,Granada
+07/10/2012,1 - 0,Levante,Valencia
+06/10/2012,2 - 0,Real Betis,Real Sociedad
+06/10/2012,1 - 1,Real Valladolid,Espanyol
+06/10/2012,0 - 1,Real Zaragoza,Getafe
+06/10/2012,2 - 1,Rayo Vallecano,Deportivo La Coruña
+05/10/2012,2 - 0,Celta de Vigo,Sevilla
+01/10/2012,1 - 0,Getafe,Mallorca
+30/09/2012,0 - 1,Espanyol,Atlético Madrid
+30/09/2012,5 - 1,Real Madrid,Deportivo La Coruña
+30/09/2012,4 - 0,Osasuna,Levante
+30/09/2012,6 - 1,Real Valladolid,Rayo Vallecano
+30/09/2012,2 - 1,Granada,Celta de Vigo
+29/09/2012,2 - 3,Sevilla,Barcelona
+29/09/2012,2 - 0,Real Sociedad,Athletic Club
+29/09/2012,4 - 0,Málaga,Real Betis
+29/09/2012,2 - 0,Valencia,Real Zaragoza
+26/09/2012,2 - 4,Real Betis,Atlético Madrid
+24/09/2012,0 - 2,Deportivo La Coruña,Sevilla
+24/09/2012,0 - 2,Rayo Vallecano,Real Madrid
+23/09/2012,0 - 0,Athletic Club,Málaga
+23/09/2012,2 - 1,Atlético Madrid,Real Valladolid
+23/09/2012,2 - 1,Levante,Real Sociedad
+23/09/2012,2 - 0,Mallorca,Valencia
+22/09/2012,2 - 0,Barcelona,Granada
+22/09/2012,1 - 0,Real Betis,Espanyol
+22/09/2012,2 - 1,Celta de Vigo,Getafe
+22/09/2012,3 - 1,Real Zaragoza,Osasuna
+17/09/2012,0 - 1,Real Valladolid,Real Betis
+16/09/2012,4 - 3,Atlético Madrid,Rayo Vallecano
+16/09/2012,2 - 0,Real Sociedad,Real Zaragoza
+16/09/2012,1 - 1,Osasuna,Mallorca
+16/09/2012,1 - 1,Granada,Deportivo La Coruña
+16/09/2012,3 - 3,Espanyol,Athletic Club
+15/09/2012,1 - 0,Sevilla,Real Madrid
+15/09/2012,1 - 4,Getafe,Barcelona
+15/09/2012,2 - 1,Valencia,Celta de Vigo
+15/09/2012,3 - 1,Málaga,Levante
+02/09/2012,1 - 0,Barcelona,Valencia
+02/09/2012,3 - 0,Real Madrid,Granada
+02/09/2012,3 - 2,Levante,Espanyol
+02/09/2012,2 - 0,Athletic Club,Real Valladolid
+02/09/2012,0 - 0,Rayo Vallecano,Sevilla
+01/09/2012,1 - 0,Mallorca,Real Sociedad
+01/09/2012,1 - 1,Deportivo La Coruña,Getafe
+01/09/2012,0 - 1,Real Zaragoza,Málaga
+01/09/2012,2 - 0,Celta de Vigo,Osasuna
+27/08/2012,4 - 0,Atlético Madrid,Athletic Club
+27/08/2012,2 - 0,Real Valladolid,Levante
+26/08/2012,3 - 3,Valencia,Deportivo La Coruña
+26/08/2012,2 - 1,Getafe,Real Madrid
+26/08/2012,1 - 1,Granada,Sevilla
+26/08/2012,1 - 2,Osasuna,Barcelona
+25/08/2012,1 - 1,Málaga,Mallorca
+25/08/2012,1 - 2,Espanyol,Real Zaragoza
+25/08/2012,1 - 2,Real Betis,Rayo Vallecano
+25/08/2012,2 - 1,Real Sociedad,Celta de Vigo
+20/08/2012,0 - 1,Real Zaragoza,Real Valladolid
+20/08/2012,1 - 0,Rayo Vallecano,Granada
+20/08/2012,2 - 0,Deportivo La Coruña,Osasuna
+19/08/2012,1 - 1,Levante,Atlético Madrid
+19/08/2012,5 - 1,Barcelona,Real Sociedad
+19/08/2012,3 - 5,Athletic Club,Real Betis
+19/08/2012,1 - 1,Real Madrid,Valencia
+18/08/2012,2 - 1,Mallorca,Espanyol
+18/08/2012,2 - 1,Sevilla,Getafe
+18/08/2012,0 - 1,Celta de Vigo,Málaga

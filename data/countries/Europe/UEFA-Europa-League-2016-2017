@@ -1,0 +1,470 @@
+date,score,home_team,away_team
+24/05/2017,0 - 2,[N] Ajax,Manchester United
+11/05/2017,1 - 1,Manchester United,Celta de Vigo
+11/05/2017,3 - 1,Olympique Lyonnais,Ajax
+04/05/2017,0 - 1,Celta de Vigo,Manchester United
+03/05/2017,4 - 1,Ajax,Olympique Lyonnais
+20/04/2017,2 - 1,Beşiktaş,Olympique Lyonnais [PS] 
+20/04/2017,1 - 1,Genk,Celta de Vigo
+20/04/2017,1 - 1, [ET] Manchester United,Anderlecht
+20/04/2017,2 - 0, [ET] Schalke 04,Ajax
+13/04/2017,2 - 0,Ajax,Schalke 04
+13/04/2017,1 - 1,Anderlecht,Manchester United
+13/04/2017,3 - 2,Celta de Vigo,Genk
+13/04/2017,2 - 1,Olympique Lyonnais,Beşiktaş
+16/03/2017,2 - 0,Ajax,København
+16/03/2017,1 - 0,Anderlecht,APOEL
+16/03/2017,2 - 2,Borussia M'gladbach,Schalke 04
+16/03/2017,1 - 0,Manchester United,Rostov
+16/03/2017,2 - 1,Roma,Olympique Lyonnais
+16/03/2017,4 - 1,Beşiktaş,Olympiakos Piraeus
+16/03/2017,1 - 1,Genk,Gent
+16/03/2017,0 - 2,Krasnodar,Celta de Vigo
+09/03/2017,2 - 1,Celta de Vigo,Krasnodar
+09/03/2017,2 - 5,Gent,Genk
+09/03/2017,1 - 1,Olympiakos Piraeus,Beşiktaş
+09/03/2017,4 - 2,Olympique Lyonnais,Roma
+09/03/2017,1 - 1,Schalke 04,Borussia M'gladbach
+09/03/2017,0 - 1,APOEL,Anderlecht
+09/03/2017,2 - 1,København,Ajax
+09/03/2017,1 - 1,Rostov,Manchester United
+23/02/2017,2 - 4,Fiorentina,Borussia M'gladbach
+23/02/2017,1 - 0,Genk,Astra
+23/02/2017,0 - 0,København,Ludogorets
+23/02/2017,7 - 1,Olympique Lyonnais,AZ
+23/02/2017,0 - 1,[N] Shakhtar Donetsk,Celta de Vigo [ET] 
+23/02/2017,1 - 1,Sparta Praha,Rostov
+23/02/2017,2 - 2,Tottenham Hotspur,Gent
+23/02/2017,1 - 0,Ajax,Legia Warszawa
+23/02/2017,2 - 0,APOEL,Athletic Club
+23/02/2017,2 - 1,Beşiktaş,Hapoel Be'er Sheva
+23/02/2017,0 - 1,Roma,Villarreal
+23/02/2017,3 - 1,Zenit,Anderlecht
+23/02/2017,0 - 3,Osmanlıspor,Olympiakos Piraeus
+22/02/2017,1 - 1,Fenerbahçe,Krasnodar
+22/02/2017,0 - 1,Saint-Étienne,Manchester United
+22/02/2017,1 - 1,Schalke 04,PAOK
+16/02/2017,2 - 0,Anderlecht,Zenit
+16/02/2017,3 - 2,Athletic Club,APOEL
+16/02/2017,1 - 3,Hapoel Be'er Sheva,Beşiktaş
+16/02/2017,0 - 0,Legia Warszawa,Ajax
+16/02/2017,3 - 0,Manchester United,Saint-Étienne
+16/02/2017,0 - 3,PAOK,Schalke 04
+16/02/2017,0 - 4,Villarreal,Roma
+16/02/2017,2 - 2,Astra,Genk
+16/02/2017,1 - 4,AZ,Olympique Lyonnais
+16/02/2017,0 - 1,Borussia M'gladbach,Fiorentina
+16/02/2017,0 - 1,Celta de Vigo,Shakhtar Donetsk
+16/02/2017,1 - 0,Gent,Tottenham Hotspur
+16/02/2017,1 - 2,Ludogorets,København
+16/02/2017,0 - 0,Olympiakos Piraeus,Osmanlıspor
+16/02/2017,4 - 0,Rostov,Sparta Praha
+16/02/2017,1 - 0,Krasnodar,Fenerbahçe
+08/12/2016,0 - 1,Feyenoord,Fenerbahçe
+08/12/2016,0 - 2,Zorya,Manchester United
+24/11/2016,4 - 0,Manchester United,Feyenoord
+24/11/2016,2 - 0,Fenerbahçe,Zorya
+03/11/2016,2 - 1,Fenerbahçe,Manchester United
+03/11/2016,1 - 1,Zorya,Feyenoord
+20/10/2016,1 - 0,Feyenoord,Zorya
+20/10/2016,4 - 1,Manchester United,Fenerbahçe
+29/09/2016,1 - 0,Fenerbahçe,Feyenoord
+29/09/2016,1 - 0,Manchester United,Zorya
+15/09/2016,1 - 0,Feyenoord,Manchester United
+15/09/2016,1 - 1,Zorya,Fenerbahçe
+08/12/2016,2 - 0,APOEL,Olympiakos Piraeus
+08/12/2016,3 - 0,Young Boys,Astana
+24/11/2016,1 - 1,Olympiakos Piraeus,Young Boys
+24/11/2016,2 - 1,Astana,APOEL
+03/11/2016,1 - 0,APOEL,Young Boys
+03/11/2016,1 - 1,Astana,Olympiakos Piraeus
+20/10/2016,4 - 1,Olympiakos Piraeus,Astana
+20/10/2016,3 - 1,Young Boys,APOEL
+29/09/2016,0 - 1,Olympiakos Piraeus,APOEL
+29/09/2016,0 - 0,Astana,Young Boys
+15/09/2016,2 - 1,APOEL,Astana
+15/09/2016,0 - 1,Young Boys,Olympiakos Piraeus
+08/12/2016,2 - 3,Anderlecht,Saint-Étienne
+08/12/2016,2 - 0,Mainz 05,Qəbələ
+24/11/2016,0 - 0,Saint-Étienne,Mainz 05
+24/11/2016,1 - 3,Qəbələ,Anderlecht
+03/11/2016,6 - 1,Anderlecht,Mainz 05
+03/11/2016,1 - 2,Qəbələ,Saint-Étienne
+20/10/2016,1 - 1,Mainz 05,Anderlecht
+20/10/2016,1 - 0,Saint-Étienne,Qəbələ
+29/09/2016,1 - 1,Saint-Étienne,Anderlecht
+29/09/2016,2 - 3,Qəbələ,Mainz 05
+15/09/2016,3 - 1,Anderlecht,Qəbələ
+15/09/2016,1 - 1,Mainz 05,Saint-Étienne
+08/12/2016,3 - 2,AZ,Zenit
+08/12/2016,2 - 1,Maccabi Tel Aviv,Dundalk
+24/11/2016,0 - 1,Dundalk,AZ
+24/11/2016,2 - 0,Zenit,Maccabi Tel Aviv
+03/11/2016,0 - 0,Maccabi Tel Aviv,AZ
+03/11/2016,2 - 1,Zenit,Dundalk
+20/10/2016,1 - 2,AZ,Maccabi Tel Aviv
+20/10/2016,1 - 2,Dundalk,Zenit
+29/09/2016,1 - 0,Dundalk,Maccabi Tel Aviv
+29/09/2016,5 - 0,Zenit,AZ
+15/09/2016,1 - 1,AZ,Dundalk
+15/09/2016,3 - 4,Maccabi Tel Aviv,Zenit
+08/12/2016,0 - 0,[N] Astra,Roma
+08/12/2016,3 - 2,Viktoria Plzeň,Austria Wien
+24/11/2016,1 - 2,Austria Wien,Astra
+24/11/2016,4 - 1,Roma,Viktoria Plzeň
+03/11/2016,1 - 1,[N] Astra,Viktoria Plzeň
+03/11/2016,2 - 4,Austria Wien,Roma
+20/10/2016,3 - 3,Roma,Austria Wien
+20/10/2016,1 - 2,Viktoria Plzeň,Astra
+29/09/2016,0 - 0,Austria Wien,Viktoria Plzeň
+29/09/2016,4 - 0,Roma,Astra
+15/09/2016,2 - 3,[N] Astra,Austria Wien
+15/09/2016,1 - 1,Viktoria Plzeň,Roma
+09/12/2016,0 - 2,Sassuolo,Genk
+08/12/2016,1 - 1,Rapid Wien,Athletic Club
+24/11/2016,3 - 2,Athletic Club,Sassuolo
+24/11/2016,1 - 0,Genk,Rapid Wien
+03/11/2016,5 - 3,Athletic Club,Genk
+03/11/2016,2 - 2,Sassuolo,Rapid Wien
+20/10/2016,2 - 0,Genk,Athletic Club
+20/10/2016,1 - 1,Rapid Wien,Sassuolo
+29/09/2016,1 - 0,Athletic Club,Rapid Wien
+29/09/2016,3 - 1,Genk,Sassuolo
+15/09/2016,3 - 2,Rapid Wien,Genk
+15/09/2016,3 - 0,Sassuolo,Athletic Club
+08/12/2016,0 - 2,Panathinaikos,Celta de Vigo
+08/12/2016,1 - 1,Standard Liège,Ajax
+24/11/2016,2 - 0,Ajax,Panathinaikos
+24/11/2016,1 - 1,Celta de Vigo,Standard Liège
+03/11/2016,3 - 2,Ajax,Celta de Vigo
+03/11/2016,0 - 3,Panathinaikos,Standard Liège
+20/10/2016,2 - 2,Celta de Vigo,Ajax
+20/10/2016,2 - 2,Standard Liège,Panathinaikos
+29/09/2016,1 - 0,Ajax,Standard Liège
+29/09/2016,2 - 0,Celta de Vigo,Panathinaikos
+15/09/2016,1 - 2,Panathinaikos,Ajax
+15/09/2016,1 - 1,Standard Liège,Celta de Vigo
+08/12/2016,0 - 1,Konyaspor,Gent
+08/12/2016,2 - 4,Sporting Braga,Shakhtar Donetsk
+24/11/2016,2 - 2,Gent,Sporting Braga
+24/11/2016,4 - 0,Shakhtar Donetsk,Konyaspor
+03/11/2016,3 - 5,Gent,Shakhtar Donetsk
+03/11/2016,3 - 1,Sporting Braga,Konyaspor
+20/10/2016,1 - 1,Konyaspor,Sporting Braga
+20/10/2016,5 - 0,Shakhtar Donetsk,Gent
+29/09/2016,2 - 0,Gent,Konyaspor
+29/09/2016,2 - 0,Shakhtar Donetsk,Sporting Braga
+15/09/2016,0 - 1,Konyaspor,Shakhtar Donetsk
+15/09/2016,1 - 1,Sporting Braga,Gent
+08/12/2016,2 - 1,Nice,Krasnodar
+08/12/2016,2 - 0,Salzburg,Schalke 04
+24/11/2016,1 - 1,Krasnodar,Salzburg
+24/11/2016,2 - 0,Schalke 04,Nice
+03/11/2016,0 - 2,Nice,Salzburg
+03/11/2016,2 - 0,Schalke 04,Krasnodar
+20/10/2016,0 - 1,Krasnodar,Schalke 04
+20/10/2016,0 - 1,Salzburg,Nice
+29/09/2016,5 - 2,[N] Krasnodar,Nice
+29/09/2016,3 - 1,Schalke 04,Salzburg
+15/09/2016,0 - 1,Nice,Schalke 04
+15/09/2016,0 - 1,Salzburg,Krasnodar
+08/12/2016,2 - 0,PAOK,Slovan Liberec
+08/12/2016,1 - 2,Qarabağ,Fiorentina
+24/11/2016,2 - 3,Fiorentina,PAOK
+24/11/2016,3 - 0,Slovan Liberec,Qarabağ
+03/11/2016,3 - 0,Fiorentina,Slovan Liberec
+03/11/2016,0 - 1,PAOK,Qarabağ
+20/10/2016,2 - 0,Qarabağ,PAOK
+20/10/2016,1 - 3,Slovan Liberec,Fiorentina
+29/09/2016,5 - 1,Fiorentina,Qarabağ
+29/09/2016,1 - 2,Slovan Liberec,PAOK
+15/09/2016,0 - 0,PAOK,Fiorentina
+15/09/2016,2 - 2,Qarabağ,Slovan Liberec
+08/12/2016,2 - 1,Internazionale,Sparta Praha
+08/12/2016,1 - 1,Southampton,Hapoel Be'er Sheva
+24/11/2016,3 - 2,Hapoel Be'er Sheva,Internazionale
+24/11/2016,1 - 0,Sparta Praha,Southampton
+03/11/2016,2 - 1,Southampton,Internazionale
+03/11/2016,2 - 0,Sparta Praha,Hapoel Be'er Sheva
+20/10/2016,0 - 1,Hapoel Be'er Sheva,Sparta Praha
+20/10/2016,1 - 0,Internazionale,Southampton
+29/09/2016,0 - 0,Hapoel Be'er Sheva,Southampton
+29/09/2016,3 - 1,Sparta Praha,Internazionale
+15/09/2016,0 - 2,Internazionale,Hapoel Be'er Sheva
+15/09/2016,3 - 0,Southampton,Sparta Praha
+08/12/2016,2 - 0,Osmanlıspor,Zürich
+08/12/2016,2 - 1,Villarreal,FCSB
+24/11/2016,2 - 1,FCSB,Osmanlıspor
+24/11/2016,1 - 1,Zürich,Villarreal
+03/11/2016,1 - 2,Villarreal,Osmanlıspor
+03/11/2016,0 - 0,Zürich,FCSB
+20/10/2016,1 - 1,FCSB,Zürich
+20/10/2016,2 - 2,Osmanlıspor,Villarreal
+29/09/2016,1 - 1,FCSB,Villarreal
+29/09/2016,2 - 1,Zürich,Osmanlıspor
+15/09/2016,2 - 0,Osmanlıspor,FCSB
+15/09/2016,2 - 1,Villarreal,Zürich
+25/08/2016,0 - 2,Rapid Wien,Trenčín
+25/08/2016,2 - 0,Shakhtar Donetsk,İstanbul Başakşehir
+25/08/2016,0 - 1, [ET] Olympiakos Piraeus,Arouca
+25/08/2016,0 - 0,Saint-Étienne,Beitar Jerusalem
+25/08/2016,0 - 1,West Ham United,Astra
+25/08/2016,1 - 1,Crvena Zvezda,Sassuolo
+25/08/2016,2 - 1,Hajduk Split,Maccabi Tel Aviv [PS] 
+25/08/2016,1 - 0,Maribor,Qəbələ
+25/08/2016,3 - 0,Anderlecht,Slavia Praha
+25/08/2016,0 - 0,AZ,Vojvodina
+25/08/2016,2 - 2,BATE,Astana
+25/08/2016,2 - 0,Genk,Lokomotiva Zagreb
+25/08/2016,2 - 0,Osmanlıspor,Midtjylland
+25/08/2016,2 - 0,PAOK,Dinamo Tbilisi
+25/08/2016,0 - 4,Shkendija,Gent
+25/08/2016,3 - 2,Sparta Praha,SønderjyskE
+25/08/2016,0 - 0,Partizani Tirana,Krasnodar
+25/08/2016,1 - 1,Brøndby,Panathinaikos
+25/08/2016,0 - 2,Grasshopper,Fenerbahçe
+25/08/2016,1 - 2,Rosenborg,Austria Wien
+25/08/2016,3 - 0,Slovan Liberec,AEK Larnaca 
+25/08/2016,3 - 0,Qarabağ,IFK Göteborg
+18/08/2016,0 - 4,Trenčín,Rapid Wien
+18/08/2016,0 - 1,Arouca,Olympiakos Piraeus
+18/08/2016,3 - 0,Sassuolo,Crvena Zvezda
+18/08/2016,2 - 1,Gent,Shkendija
+18/08/2016,1 - 1,Astra,West Ham United
+18/08/2016,3 - 0,Fenerbahçe,Grasshopper
+18/08/2016,2 - 2,[N] Lokomotiva Zagreb,Genk
+18/08/2016,3 - 0,Panathinaikos,Brøndby
+18/08/2016,0 - 3,Vojvodina,AZ
+18/08/2016,1 - 2,İstanbul Başakşehir,Shakhtar Donetsk
+18/08/2016,0 - 1,AEK Larnaca ,Slovan Liberec
+18/08/2016,2 - 1,Austria Wien,Rosenborg
+18/08/2016,1 - 0,[N] IFK Göteborg,Qarabağ
+18/08/2016,2 - 1,Maccabi Tel Aviv,Hajduk Split
+18/08/2016,3 - 1,Qəbələ,Maribor
+18/08/2016,0 - 3,Slavia Praha,Anderlecht
+18/08/2016,4 - 0,[N] Krasnodar,Partizani Tirana
+18/08/2016,0 - 1,Midtjylland,Osmanlıspor
+18/08/2016,0 - 0,SønderjyskE,Sparta Praha
+18/08/2016,0 - 3,Dinamo Tbilisi,PAOK
+18/08/2016,2 - 0,Astana,BATE
+17/08/2016,1 - 2,Beitar Jerusalem,Saint-Étienne
+04/08/2016,3 - 0,Rapid Wien,Torpedo BelAZ
+04/08/2016,1 - 1,Rio Ave,Slavia Praha
+04/08/2016,1 - 2,Cork City,Genk
+04/08/2016,3 - 0,West Ham United,Domžale
+04/08/2016,3 - 1,Hajduk Split,Oleksandria
+04/08/2016,3 - 0,Sassuolo,Luzern
+04/08/2016,3 - 1,Brøndby,Hertha BSC
+04/08/2016,1 - 0,Maribor,Aberdeen
+04/08/2016,2 - 2,Rijeka,İstanbul Başakşehir
+04/08/2016,0 - 0,Viitorul,Gent
+04/08/2016,0 - 1,AEK Athens,Saint-Étienne
+04/08/2016,0 - 2,[N] Dinamo Minsk,Vojvodina
+04/08/2016,2 - 1,Maccabi Tel Aviv,Pandurii Târgu Jiu
+04/08/2016,1 - 1,SønderjyskE,Zagłębie Lubin
+04/08/2016,0 - 2,[N] AIK,Panathinaikos
+04/08/2016,2 - 1,Apollon,Grasshopper
+04/08/2016,0 - 0,Arouca,Heracles
+04/08/2016,3 - 0,Beitar Jerusalem,Jelgava
+04/08/2016,1 - 0,Mladá Boleslav,Shkendija
+04/08/2016,1 - 2,[N] PAS Giannina,AZ
+04/08/2016,1 - 0,Qəbələ,Lille
+04/08/2016,2 - 3,Vorskla,Lokomotiva Zagreb
+04/08/2016,3 - 1,[N] Krasnodar,Birkirkara
+04/08/2016,0 - 1,Spartak Moskva,AEK Larnaca 
+04/08/2016,0 - 1,Spartak Trnava,Austria Wien [PS] 
+04/08/2016,0 - 2,HJK,IFK Göteborg
+04/08/2016,0 - 1,Midtjylland,Videoton
+04/08/2016,0 - 2,Nõmme Kalju,Osmanlıspor
+03/08/2016,2 - 0,Slovan Liberec,Admira
+28/07/2016,1 - 2,Admira,Slovan Liberec
+28/07/2016,0 - 0,Saint-Étienne,AEK Athens
+28/07/2016,1 - 1,Aberdeen,Maribor
+28/07/2016,1 - 0,AZ,PAS Giannina
+28/07/2016,2 - 1,[N] Domžale,West Ham United
+28/07/2016,5 - 0,Gent,Viitorul
+28/07/2016,0 - 1,Videoton,Midtjylland
+28/07/2016,1 - 0,Hertha BSC,Brøndby
+28/07/2016,1 - 0,Genk,Cork City
+28/07/2016,1 - 0,Osmanlıspor,Nõmme Kalju
+28/07/2016,1 - 0,Panathinaikos,AIK
+28/07/2016,1 - 3,Pandurii Târgu Jiu,Maccabi Tel Aviv
+28/07/2016,2 - 0,Shkendija,Mladá Boleslav
+28/07/2016,1 - 1,Vojvodina,Dinamo Minsk
+28/07/2016,2 - 1,[N] Grasshopper,Apollon
+28/07/2016,1 - 1,Luzern,Sassuolo
+28/07/2016,0 - 3,Birkirkara,Krasnodar
+28/07/2016,0 - 0,İstanbul Başakşehir,Rijeka
+28/07/2016,0 - 1,Austria Wien,Spartak Trnava
+28/07/2016,1 - 2,[N] IFK Göteborg,HJK
+28/07/2016,1 - 1,[N] Jelgava,Beitar Jerusalem
+28/07/2016,1 - 1,Lille,Qəbələ
+28/07/2016,0 - 0,[N] Lokomotiva Zagreb,Vorskla
+28/07/2016,0 - 0,[N] Slavia Praha,Rio Ave
+28/07/2016,0 - 0,Torpedo BelAZ,Rapid Wien
+28/07/2016,1 - 2,Zagłębie Lubin,SønderjyskE
+28/07/2016,1 - 1,Heracles,Arouca
+28/07/2016,0 - 3,Oleksandria,Hajduk Split
+28/07/2016,1 - 1,AEK Larnaca ,Spartak Moskva
+21/07/2016,0 - 0, [PS] Zagłębie Lubin,Partizan
+21/07/2016,1 - 2,Hearts,Birkirkara
+21/07/2016,2 - 0,Budućnost,Genk [PS] 
+21/07/2016,1 - 0,Cork City,Häcken
+21/07/2016,0 - 1,St Patrick's Athl.,Dinamo Minsk
+21/07/2016,1 - 1,Čukarički,Videoton
+21/07/2016,2 - 1,Domžale,Shakhtyor
+21/07/2016,2 - 1,Hajduk Split,CSM Iaşi
+21/07/2016,2 - 0,Spartak Trnava,Shirak
+21/07/2016,0 - 1, [PS] Brøndby,Hibernian
+21/07/2016,5 - 0,Osmanlıspor,Zimbru
+21/07/2016,1 - 0,Shkendija,Neftçi
+21/07/2016,1 - 2,[N] Connah's Quay,Vojvodina
+21/07/2016,1 - 4,Kukësi,Austria Wien
+21/07/2016,2 - 0,AEK Larnaca ,Cliftonville
+21/07/2016,0 - 1,Europa,AIK
+21/07/2016,2 - 1,Grasshopper,KR
+21/07/2016,0 - 0,[N] IFK Göteborg,Piast Gliwice
+21/07/2016,1 - 1,[N] Levski Sofia,Maribor
+21/07/2016,2 - 1,Maccabi Tel Aviv,Kairat
+21/07/2016,3 - 0, [ET] Odd,PAS Giannina
+21/07/2016,2 - 0,Qəbələ,MTK
+21/07/2016,2 - 0,Slavia Praha,FCI Levadia
+21/07/2016,2 - 1,Strømsgodset,SønderjyskE
+21/07/2016,2 - 2,Vaduz,Midtjylland
+21/07/2016,3 - 2,Omonia Nicosia,Beitar Jerusalem
+21/07/2016,1 - 0,HJK,Beroe
+21/07/2016,3 - 0,Lokomotiva Zagreb,RoPS
+21/07/2016,1 - 1, [PS] Nõmme Kalju,Maccabi Haifa
+21/07/2016,1 - 0,Torpedo BelAZ,Debrecen
+21/07/2016,3 - 0,Jelgava,Slovan Bratislava
+21/07/2016,0 - 1,Ventspils,Aberdeen
+20/07/2016,0 - 2,Kapaz,Admira
+14/07/2016,3 - 3,KR,Grasshopper
+14/07/2016,1 - 0,Austria Wien,Kukësi
+14/07/2016,3 - 0,Aberdeen,Ventspils
+14/07/2016,2 - 3,Cliftonville,AEK Larnaca 
+14/07/2016,0 - 1,Hibernian,Brøndby
+14/07/2016,0 - 3,Piast Gliwice,IFK Göteborg
+14/07/2016,0 - 0,Birkirkara,Hearts
+14/07/2016,1 - 2,MTK,Qəbələ
+14/07/2016,2 - 0,Videoton,Čukarički
+14/07/2016,0 - 0,Partizan,Zagłębie Lubin
+14/07/2016,0 - 0,Slovan Bratislava,Jelgava
+14/07/2016,2 - 2,CSM Iaşi,Hajduk Split
+14/07/2016,2 - 0,Genk,Budućnost
+14/07/2016,0 - 0,Maribor,Levski Sofia
+14/07/2016,3 - 0,PAS Giannina,Odd
+14/07/2016,1 - 0,Vojvodina,Connah's Quay
+14/07/2016,1 - 1,Beroe,HJK
+14/07/2016,1 - 1,Shakhtyor,Domžale
+14/07/2016,1 - 0,[N] Admira,Kapaz
+14/07/2016,1 - 0,AIK,Europa
+14/07/2016,1 - 0,Beitar Jerusalem,Omonia Nicosia
+14/07/2016,1 - 1,Häcken,Cork City
+14/07/2016,1 - 1,Maccabi Haifa,Nõmme Kalju
+14/07/2016,2 - 1,SønderjyskE,Strømsgodset
+14/07/2016,2 - 2,Zimbru,Osmanlıspor
+14/07/2016,1 - 2,Debrecen,Torpedo BelAZ
+14/07/2016,3 - 0,Midtjylland,Vaduz
+14/07/2016,3 - 1,FCI Levadia,Slavia Praha
+14/07/2016,0 - 0,Neftçi,Shkendija
+14/07/2016,1 - 1,RoPS,Lokomotiva Zagreb
+14/07/2016,1 - 1,Dinamo Minsk,St Patrick's Athl.
+14/07/2016,1 - 1,Kairat,Maccabi Tel Aviv
+14/07/2016,1 - 1,Shirak,Spartak Trnava
+07/07/2016,2 - 0,Cliftonville,Differdange 03
+07/07/2016,1 - 1,Cork City,Linfield
+07/07/2016,0 - 6,Glenavon,KR
+07/07/2016,1 - 3,Folgore,AEK Larnaca 
+07/07/2016,1 - 2,Lusitanos,Domžale
+07/07/2016,1 - 2,Cracovia Kraków,Shkendija
+07/07/2016,0 - 3,Hibernians,Spartak Trnava
+07/07/2016,1 - 2,Llandudno,IFK Göteborg
+07/07/2016,5 - 0,Shakhtyor,NSÍ
+07/07/2016,1 - 2,Sileks,Vaduz
+07/07/2016,0 - 2,Víkingur,Ventspils
+07/07/2016,5 - 0,Vojvodina,Bokelj
+07/07/2016,0 - 2,Bala Town,AIK
+07/07/2016,1 - 0,Budućnost,Rabotnički
+07/07/2016,0 - 2,HB,FCI Levadia
+07/07/2016,C - C,Slovan Bratislava,Partizani Tirana
+07/07/2016,0 - 1,Stabæk,Connah's Quay
+07/07/2016,0 - 1,Sūduva,Midtjylland
+07/07/2016,2 - 0,Zaria,Videoton
+07/07/2016,1 - 0,Beitar Jerusalem,Sloboda Tuzla
+07/07/2016,6 - 0,Brøndby,Valur
+07/07/2016,1 - 0,Fola Esch,Aberdeen
+07/07/2016,0 - 1,Gorica,Maccabi Tel Aviv
+07/07/2016,0 - 1, [ET] Omonia Nicosia,Banants
+07/07/2016,2 - 0,Debrecen,La Fiorita
+07/07/2016,1 - 1,HJK,Atlantas
+07/07/2016,4 - 1,Lokomotiva Zagreb,UE Santa Coloma
+07/07/2016,1 - 1,Mariehamn,Odd
+07/07/2016,2 - 0,MTK,Aktobe
+07/07/2016,1 - 2,Neftçi,Balzan
+07/07/2016,4 - 1,Nõmme Kalju,Trakai
+07/07/2016,0 - 2,Radnik Bijeljina,Beroe
+07/07/2016,1 - 1,RoPS,Shamrock Rovers
+07/07/2016,0 - 2,Spartaks Jūrmala,Dinamo Minsk
+07/07/2016,3 - 0,Zagłębie Lubin,Slavia Sofia
+07/07/2016,2 - 2,Jelgava,Breidablik
+07/07/2016,0 - 1,Rudar,Kukësi
+07/07/2016,0 - 1,Dacia,Kapaz
+07/07/2016,2 - 1,Pyunik,Europa
+07/07/2016,2 - 1,Samtredia,Qəbələ
+07/07/2016,2 - 3,Spartak Myjava,Admira
+07/07/2016,5 - 0,Kairat,Teuta Durrës
+07/07/2016,1 - 0, [PS] Shirak,Dila
+07/07/2016,3 - 3,Ordabasy,Čukarički
+06/07/2016,2 - 4,FCI Tallinn,Hearts
+05/07/2016,2 - 1,Jeunesse d'Esch,St Patrick's Athl.
+05/07/2016,2 - 3,Chikhura,Zimbru
+05/07/2016,2 - 0,Birkirkara,Široki Brijeg
+30/06/2016,1 - 4,Valur,Brøndby
+30/06/2016,2 - 3,Breidablik,Jelgava
+30/06/2016,2 - 1,KR,Glenavon
+30/06/2016,2 - 1,Hearts,FCI Tallinn
+30/06/2016,0 - 2,Shamrock Rovers,RoPS
+30/06/2016,2 - 0,Shkendija,Cracovia Kraków
+30/06/2016,3 - 1,Aberdeen,Fola Esch
+30/06/2016,0 - 1,Linfield,Cork City
+30/06/2016,3 - 0,Čukarički,Ordabasy
+30/06/2016,0 - 5,La Fiorita,Debrecen
+30/06/2016,0 - 0,[N] Connah's Quay,Stabæk
+30/06/2016,3 - 0,Spartak Trnava,Hibernians
+30/06/2016,3 - 1,Domžale,Lusitanos
+30/06/2016,0 - 2,NSÍ,Shakhtyor
+30/06/2016,0 - 1,Teuta Durrës,Kairat
+30/06/2016,0 - 0,Beroe,Radnik Bijeljina
+30/06/2016,3 - 0,Maccabi Tel Aviv,Gorica
+30/06/2016,3 - 0,AEK Larnaca ,Folgore
+30/06/2016,1 - 1,Differdange 03,Cliftonville
+30/06/2016,1 - 1,Kukësi,Rudar
+30/06/2016,1 - 0,Midtjylland,Sūduva
+30/06/2016,2 - 0,Odd,Mariehamn
+30/06/2016,5 - 1,Qəbələ,Samtredia
+30/06/2016,1 - 1,Široki Brijeg,Birkirkara
+30/06/2016,3 - 1,Vaduz,Sileks
+30/06/2016,0 - 1,Zimbru,Chikhura
+30/06/2016,2 - 0,[N] AIK,Bala Town
+30/06/2016,2 - 0,Europa,Pyunik
+30/06/2016,5 - 0,[N] IFK Göteborg,Llandudno
+30/06/2016,1 - 0,Slavia Sofia,Zagłębie Lubin
+30/06/2016,0 - 2,Atlantas,HJK
+30/06/2016,0 - 2,Balzan,Neftçi
+30/06/2016,0 - 1,Banants,Omonia Nicosia
+30/06/2016,2 - 1,Dinamo Minsk,Spartaks Jūrmala
+30/06/2016,1 - 1,FCI Levadia,HB
+30/06/2016,0 - 0,Sloboda Tuzla,Beitar Jerusalem
+30/06/2016,2 - 1,Trakai,Nõmme Kalju
+30/06/2016,3 - 0,Videoton,Zaria
+30/06/2016,1 - 1,Bokelj,Vojvodina
+30/06/2016,1 - 1,[N] Admira,Spartak Myjava
+30/06/2016,1 - 3,UE Santa Coloma,Lokomotiva Zagreb
+30/06/2016,2 - 0,Ventspils,Víkingur
+30/06/2016,1 - 1,Aktobe,MTK
+30/06/2016,1 - 0,Dila,Shirak
+28/06/2016,1 - 0,St Patrick's Athl.,Jeunesse d'Esch
+28/06/2016,0 - 0,Kapaz,Dacia
+28/06/2016,0 - 0,Partizani Tirana,Slovan Bratislava
+28/06/2016,1 - 1,Rabotnički,Budućnost

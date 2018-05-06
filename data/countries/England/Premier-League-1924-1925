@@ -1,0 +1,463 @@
+date,score,home_team,away_team
+02/05/1925,2 - 0,Aston Villa,Nottingham Forest
+02/05/1925,2 - 0,Bury,Arsenal
+02/05/1925,0 - 0,Cardiff City,Preston North End
+02/05/1925,1 - 0,Everton,Leeds United
+02/05/1925,1 - 1,Huddersfield Town,Liverpool
+02/05/1925,1 - 0,Manchester City,Tottenham Hotspur
+02/05/1925,0 - 1,Notts County,Birmingham City
+02/05/1925,1 - 1,Sunderland,Burnley
+02/05/1925,0 - 0,West Bromwich Albion,Bolton Wanderers
+29/04/1925,4 - 3,Aston Villa,Blackburn Rovers
+29/04/1925,1 - 2,Liverpool,Cardiff City
+29/04/1925,1 - 1,Notts County,Huddersfield Town
+27/04/1925,1 - 1,Everton,Sheffield United
+25/04/1925,2 - 1,Birmingham City,Manchester City
+25/04/1925,2 - 0,Bolton Wanderers,Liverpool
+25/04/1925,1 - 1,Burnley,Aston Villa
+25/04/1925,1 - 0,Leeds United,Arsenal
+25/04/1925,2 - 0,Notts County,Newcastle United
+25/04/1925,1 - 4,Preston North End,Huddersfield Town
+25/04/1925,1 - 1,Sunderland,West Ham United
+25/04/1925,1 - 0,Tottenham Hotspur,Nottingham Forest
+25/04/1925,1 - 1,West Bromwich Albion,Bury
+22/04/1925,6 - 0,Bolton Wanderers,Blackburn Rovers
+18/04/1925,5 - 0,Arsenal,Burnley
+18/04/1925,1 - 0,Aston Villa,Preston North End
+18/04/1925,1 - 1,Blackburn Rovers,Sunderland
+18/04/1925,1 - 4,Bury,Birmingham City
+18/04/1925,0 - 0,Huddersfield Town,Cardiff City
+18/04/1925,1 - 0,Liverpool,Tottenham Hotspur
+18/04/1925,4 - 2,Manchester City,Leeds United
+18/04/1925,0 - 1,Newcastle United,Bolton Wanderers
+18/04/1925,0 - 1,Nottingham Forest,West Bromwich Albion
+18/04/1925,2 - 0,Sheffield United,Notts County
+18/04/1925,4 - 1,West Ham United,Everton
+15/04/1925,3 - 0,Cardiff City,Blackburn Rovers
+14/04/1925,2 - 0,Arsenal,West Bromwich Albion
+14/04/1925,2 - 0,Huddersfield Town,Bury
+14/04/1925,2 - 1,Leeds United,Bolton Wanderers
+14/04/1925,6 - 2,West Ham United,Sheffield United
+13/04/1925,0 - 0,Blackburn Rovers,Nottingham Forest
+13/04/1925,2 - 0,Cardiff City,Sunderland
+13/04/1925,0 - 0,Everton,Preston North End
+13/04/1925,1 - 0,Manchester City,Aston Villa
+13/04/1925,2 - 0,Notts County,Burnley
+13/04/1925,1 - 2,Sheffield United,Newcastle United
+13/04/1925,2 - 0,West Bromwich Albion,Arsenal
+13/04/1925,0 - 1,West Ham United,Liverpool
+11/04/1925,1 - 1,Birmingham City,Nottingham Forest
+11/04/1925,3 - 1,Bolton Wanderers,Sheffield United
+11/04/1925,1 - 0,Burnley,Manchester City
+11/04/1925,2 - 1,Cardiff City,Aston Villa
+11/04/1925,1 - 0,Everton,Blackburn Rovers
+11/04/1925,1 - 0,Leeds United,Bury
+11/04/1925,4 - 1,Notts County,West Ham United
+11/04/1925,2 - 0,Preston North End,Arsenal
+11/04/1925,1 - 1,Sunderland,Huddersfield Town
+11/04/1925,3 - 0,Tottenham Hotspur,Newcastle United
+11/04/1925,0 - 0,West Bromwich Albion,Liverpool
+10/04/1925,2 - 1,Aston Villa,Manchester City
+10/04/1925,1 - 0,Bolton Wanderers,Leeds United
+10/04/1925,1 - 1,Burnley,Notts County
+10/04/1925,0 - 1,Bury,Huddersfield Town
+10/04/1925,2 - 0,Liverpool,West Ham United
+10/04/1925,0 - 2,Nottingham Forest,Blackburn Rovers
+10/04/1925,1 - 1,Preston North End,Everton
+10/04/1925,0 - 1,Tottenham Hotspur,Birmingham City
+06/04/1925,4 - 0,Sheffield United,Burnley
+04/04/1925,1 - 1,Arsenal,Cardiff City
+04/04/1925,1 - 4,Aston Villa,Sunderland
+04/04/1925,0 - 2,Blackburn Rovers,Notts County
+04/04/1925,1 - 0,Bury,Burnley
+04/04/1925,2 - 0,Huddersfield Town,Everton
+04/04/1925,1 - 1,Liverpool,Birmingham City
+04/04/1925,2 - 1,Manchester City,Preston North End
+04/04/1925,0 - 1,Newcastle United,West Bromwich Albion
+04/04/1925,4 - 0,Nottingham Forest,Leeds United
+04/04/1925,2 - 0,Sheffield United,Tottenham Hotspur
+04/04/1925,1 - 1,West Ham United,Bolton Wanderers
+02/04/1925,7 - 1,Blackburn Rovers,Birmingham City
+02/04/1925,0 - 0,West Ham United,Nottingham Forest
+01/04/1925,4 - 0,Aston Villa,Arsenal
+01/04/1925,0 - 2,Cardiff City,Manchester City
+01/04/1925,1 - 0,Notts County,Preston North End
+30/03/1925,2 - 1,West Bromwich Albion,Sheffield United
+28/03/1925,1 - 1,Birmingham City,Newcastle United
+28/03/1925,0 - 0,Burnley,Nottingham Forest
+28/03/1925,2 - 0,Everton,Aston Villa
+28/03/1925,4 - 1,Leeds United,Liverpool
+28/03/1925,1 - 1,Preston North End,Bury
+28/03/1925,2 - 0,Sunderland,Arsenal
+28/03/1925,1 - 1,Tottenham Hotspur,West Ham United
+23/03/1925,1 - 2,Arsenal,West Ham United
+21/03/1925,3 - 1,Arsenal,Everton
+21/03/1925,0 - 0,Aston Villa,Notts County
+21/03/1925,1 - 1,Blackburn Rovers,Tottenham Hotspur
+21/03/1925,4 - 1,Bury,Cardiff City
+21/03/1925,0 - 0,Huddersfield Town,Bolton Wanderers
+21/03/1925,3 - 0,Liverpool,Burnley
+21/03/1925,1 - 3,Manchester City,Sunderland
+21/03/1925,4 - 1,Newcastle United,Leeds United
+21/03/1925,0 - 1,Nottingham Forest,Preston North End
+21/03/1925,4 - 3,Sheffield United,Birmingham City
+21/03/1925,2 - 1,West Ham United,West Bromwich Albion
+19/03/1925,0 - 1,Blackburn Rovers,Bury
+18/03/1925,0 - 2,Cardiff City,Tottenham Hotspur
+18/03/1925,1 - 0,Everton,Notts County
+16/03/1925,0 - 0,Birmingham City,West Bromwich Albion
+16/03/1925,0 - 1,Sheffield United,Liverpool
+14/03/1925,1 - 1,Birmingham City,West Ham United
+14/03/1925,4 - 0,Bolton Wanderers,Aston Villa
+14/03/1925,1 - 3,Burnley,Newcastle United
+14/03/1925,2 - 0,Cardiff City,Nottingham Forest
+14/03/1925,1 - 1,Leeds United,Sheffield United
+14/03/1925,2 - 1,Notts County,Arsenal
+14/03/1925,4 - 0,Preston North End,Liverpool
+14/03/1925,1 - 1,Sunderland,Bury
+14/03/1925,1 - 2,Tottenham Hotspur,Huddersfield Town
+14/03/1925,1 - 1,West Bromwich Albion,Blackburn Rovers
+11/03/1925,1 - 1,Huddersfield Town,West Bromwich Albion
+09/03/1925,2 - 1,Tottenham Hotspur,Leeds United
+07/03/1925,1 - 0,Arsenal,Bolton Wanderers
+07/03/1925,0 - 1,Aston Villa,Tottenham Hotspur
+07/03/1925,1 - 0,Bury,Everton
+07/03/1925,2 - 1,Manchester City,Notts County
+07/03/1925,3 - 1,Newcastle United,Preston North End
+07/03/1925,1 - 1,Nottingham Forest,Sunderland
+07/03/1925,0 - 0,West Ham United,Leeds United
+28/02/1925,0 - 1,Birmingham City,Huddersfield Town
+28/02/1925,4 - 2,Bolton Wanderers,Manchester City
+28/02/1925,5 - 4,Burnley,West Ham United
+28/02/1925,3 - 0,Cardiff City,Newcastle United
+28/02/1925,3 - 1,Everton,Nottingham Forest
+28/02/1925,1 - 1,Leeds United,Blackburn Rovers
+28/02/1925,1 - 1,Notts County,Bury
+28/02/1925,0 - 1,Preston North End,Sheffield United
+28/02/1925,3 - 0,Sunderland,Liverpool
+28/02/1925,2 - 0,Tottenham Hotspur,Arsenal
+28/02/1925,4 - 1,West Bromwich Albion,Aston Villa
+25/02/1925,1 - 2,Everton,Cardiff City
+23/02/1925,2 - 1,Manchester City,Sheffield United
+21/02/1925,5 - 0,Bolton Wanderers,Burnley
+21/02/1925,1 - 1,Huddersfield Town,Manchester City
+21/02/1925,2 - 0,Newcastle United,Sunderland
+14/02/1925,0 - 5,Arsenal,Huddersfield Town
+14/02/1925,1 - 0,Aston Villa,Birmingham City
+14/02/1925,1 - 4,Burnley,Tottenham Hotspur
+14/02/1925,4 - 2,Bury,West Ham United
+14/02/1925,1 - 1,Cardiff City,Notts County
+14/02/1925,0 - 1,Leeds United,West Bromwich Albion
+14/02/1925,1 - 1,Liverpool,Newcastle United
+14/02/1925,1 - 3,Manchester City,Blackburn Rovers
+14/02/1925,2 - 3,Nottingham Forest,Sheffield United
+14/02/1925,1 - 0,Preston North End,Bolton Wanderers
+14/02/1925,4 - 1,Sunderland,Everton
+12/02/1925,1 - 2,Preston North End,West Bromwich Albion
+11/02/1925,0 - 0,Bury,Newcastle United
+11/02/1925,4 - 0,Cardiff City,Burnley
+11/02/1925,1 - 0,Sunderland,Bolton Wanderers
+07/02/1925,0 - 0,Birmingham City,Leeds United
+07/02/1925,1 - 0,Blackburn Rovers,Arsenal
+07/02/1925,3 - 0,Bolton Wanderers,Cardiff City
+07/02/1925,4 - 1,Huddersfield Town,Aston Villa
+07/02/1925,3 - 1,Liverpool,Everton
+07/02/1925,4 - 1,Newcastle United,Nottingham Forest
+07/02/1925,4 - 1,Notts County,Sunderland
+07/02/1925,0 - 1,Sheffield United,Bury
+07/02/1925,2 - 0,Tottenham Hotspur,Preston North End
+07/02/1925,1 - 4,West Bromwich Albion,Burnley
+07/02/1925,4 - 0,West Ham United,Manchester City
+04/02/1925,0 - 1,Nottingham Forest,Liverpool
+02/02/1925,3 - 2,Burnley,Birmingham City
+31/01/1925,2 - 0,Huddersfield Town,Leeds United
+31/01/1925,0 - 0,Manchester City,Bury
+24/01/1925,3 - 0,Birmingham City,Preston North End
+24/01/1925,2 - 3,Blackburn Rovers,Huddersfield Town
+24/01/1925,1 - 0,Bolton Wanderers,Everton
+24/01/1925,0 - 2,Leeds United,Burnley
+24/01/1925,4 - 0,Liverpool,Bury
+24/01/1925,2 - 0,Newcastle United,Manchester City
+24/01/1925,0 - 0,Nottingham Forest,Notts County
+24/01/1925,2 - 1,Sheffield United,Arsenal
+24/01/1925,1 - 0,Tottenham Hotspur,Sunderland
+24/01/1925,1 - 0,West Bromwich Albion,Cardiff City
+24/01/1925,2 - 0,West Ham United,Aston Villa
+21/01/1925,1 - 4,Aston Villa,Liverpool
+17/01/1925,0 - 2,Arsenal,Newcastle United
+17/01/1925,1 - 1,Aston Villa,Sheffield United
+17/01/1925,0 - 3,Blackburn Rovers,Burnley
+17/01/1925,3 - 0,Bury,Nottingham Forest
+17/01/1925,1 - 0,Cardiff City,Birmingham City
+17/01/1925,1 - 0,Everton,Tottenham Hotspur
+17/01/1925,1 - 2,Huddersfield Town,West Ham United
+17/01/1925,5 - 0,Manchester City,Liverpool
+17/01/1925,0 - 1,Notts County,Bolton Wanderers
+17/01/1925,1 - 4,Preston North End,Leeds United
+17/01/1925,3 - 0,Sunderland,West Bromwich Albion
+03/01/1925,2 - 1,Birmingham City,Sunderland
+03/01/1925,1 - 0,Burnley,Preston North End
+03/01/1925,1 - 0,Bury,Bolton Wanderers
+03/01/1925,0 - 0,Leeds United,Cardiff City
+03/01/1925,2 - 1,Liverpool,Arsenal
+03/01/1925,4 - 1,Newcastle United,Aston Villa
+03/01/1925,0 - 3,Nottingham Forest,Manchester City
+03/01/1925,1 - 1,Sheffield United,Huddersfield Town
+03/01/1925,1 - 1,Tottenham Hotspur,Notts County
+03/01/1925,3 - 0,West Bromwich Albion,Everton
+03/01/1925,2 - 0,West Ham United,Blackburn Rovers
+01/01/1925,3 - 0,Bolton Wanderers,Birmingham City
+01/01/1925,5 - 2,Bury,Tottenham Hotspur
+01/01/1925,3 - 2,Everton,Burnley
+01/01/1925,0 - 0,Newcastle United,Sheffield United
+01/01/1925,1 - 0,Sunderland,Cardiff City
+27/12/1924,2 - 1,Arsenal,Nottingham Forest
+27/12/1924,2 - 2,Blackburn Rovers,Sheffield United
+27/12/1924,3 - 0,Bolton Wanderers,Tottenham Hotspur
+27/12/1924,2 - 1,Everton,Birmingham City
+27/12/1924,0 - 0,Huddersfield Town,Newcastle United
+27/12/1924,0 - 2,Notts County,West Bromwich Albion
+27/12/1924,3 - 2,Preston North End,West Ham United
+27/12/1924,2 - 1,Sunderland,Leeds United
+26/12/1924,0 - 1,Arsenal,Birmingham City
+26/12/1924,2 - 1,Aston Villa,Leeds United
+26/12/1924,2 - 1,Cardiff City,West Ham United
+26/12/1924,2 - 0,Huddersfield Town,Burnley
+26/12/1924,1 - 0,Liverpool,Notts County
+26/12/1924,1 - 1,Newcastle United,Everton
+26/12/1924,1 - 1,Nottingham Forest,Bolton Wanderers
+26/12/1924,3 - 2,Preston North End,Blackburn Rovers
+26/12/1924,2 - 1,Sheffield United,Sunderland
+26/12/1924,3 - 1,West Bromwich Albion,Manchester City
+25/12/1924,2 - 1,Birmingham City,Arsenal
+25/12/1924,0 - 1,Blackburn Rovers,Preston North End
+25/12/1924,1 - 0,Bolton Wanderers,Nottingham Forest
+25/12/1924,1 - 5,Burnley,Huddersfield Town
+25/12/1924,0 - 1,Everton,Newcastle United
+25/12/1924,6 - 0,Leeds United,Aston Villa
+25/12/1924,1 - 2,Manchester City,West Bromwich Albion
+25/12/1924,1 - 2,Notts County,Liverpool
+25/12/1924,0 - 1,Sunderland,Sheffield United
+25/12/1924,1 - 1,Tottenham Hotspur,Bury
+25/12/1924,3 - 2,West Ham United,Cardiff City
+20/12/1924,6 - 1,Arsenal,Leeds United
+20/12/1924,3 - 0,Aston Villa,Burnley
+20/12/1924,3 - 1,Blackburn Rovers,Cardiff City
+20/12/1924,0 - 2,Bury,West Bromwich Albion
+20/12/1924,1 - 0,Huddersfield Town,Preston North End
+20/12/1924,0 - 0,Liverpool,Bolton Wanderers
+20/12/1924,2 - 2,Manchester City,Birmingham City
+20/12/1924,1 - 0,Newcastle United,Notts County
+20/12/1924,1 - 0,Nottingham Forest,Tottenham Hotspur
+20/12/1924,1 - 1,Sheffield United,Everton
+20/12/1924,4 - 1,West Ham United,Sunderland
+15/12/1924,1 - 3,Cardiff City,Liverpool
+13/12/1924,0 - 1,Birmingham City,Bury
+13/12/1924,3 - 2,Bolton Wanderers,Newcastle United
+13/12/1924,1 - 0,Burnley,Arsenal
+13/12/1924,2 - 2,Cardiff City,Huddersfield Town
+13/12/1924,1 - 0,Everton,West Ham United
+13/12/1924,0 - 3,Leeds United,Manchester City
+13/12/1924,2 - 0,Notts County,Sheffield United
+13/12/1924,3 - 2,Preston North End,Aston Villa
+13/12/1924,1 - 0,Sunderland,Blackburn Rovers
+13/12/1924,1 - 1,Tottenham Hotspur,Liverpool
+13/12/1924,5 - 1,West Bromwich Albion,Nottingham Forest
+06/12/1924,4 - 0,Arsenal,Preston North End
+06/12/1924,1 - 2,Aston Villa,Cardiff City
+06/12/1924,3 - 0,Blackburn Rovers,Everton
+06/12/1924,1 - 0,Bury,Leeds United
+06/12/1924,4 - 0,Huddersfield Town,Sunderland
+06/12/1924,1 - 1,Liverpool,West Bromwich Albion
+06/12/1924,3 - 3,Manchester City,Burnley
+06/12/1924,1 - 1,Newcastle United,Tottenham Hotspur
+06/12/1924,1 - 1,Nottingham Forest,Birmingham City
+06/12/1924,2 - 0,Sheffield United,Bolton Wanderers
+06/12/1924,3 - 0,West Ham United,Notts County
+29/11/1924,5 - 2,Birmingham City,Liverpool
+29/11/1924,5 - 0,Bolton Wanderers,West Ham United
+29/11/1924,4 - 0,Burnley,Bury
+29/11/1924,1 - 1,Cardiff City,Arsenal
+29/11/1924,0 - 2,Everton,Huddersfield Town
+29/11/1924,1 - 1,Leeds United,Nottingham Forest
+29/11/1924,0 - 0,Notts County,Blackburn Rovers
+29/11/1924,2 - 3,Preston North End,Manchester City
+29/11/1924,1 - 1,Sunderland,Aston Villa
+29/11/1924,4 - 1,Tottenham Hotspur,Sheffield United
+29/11/1924,2 - 0,West Bromwich Albion,Newcastle United
+22/11/1924,0 - 0,Arsenal,Sunderland
+22/11/1924,3 - 1,Aston Villa,Everton
+22/11/1924,0 - 2,Blackburn Rovers,Bolton Wanderers
+22/11/1924,1 - 1,Bury,Preston North End
+22/11/1924,0 - 0,Huddersfield Town,Notts County
+22/11/1924,1 - 0,Liverpool,Leeds United
+22/11/1924,2 - 2,Manchester City,Cardiff City
+22/11/1924,4 - 0,Newcastle United,Birmingham City
+22/11/1924,0 - 0,Nottingham Forest,Burnley
+22/11/1924,2 - 0,Sheffield United,West Bromwich Albion
+22/11/1924,1 - 1,West Ham United,Tottenham Hotspur
+20/11/1924,1 - 2,Preston North End,Sunderland
+15/11/1924,1 - 1,Birmingham City,Sheffield United
+15/11/1924,1 - 0,Bolton Wanderers,Huddersfield Town
+15/11/1924,2 - 1,Burnley,Liverpool
+15/11/1924,4 - 1,Cardiff City,Bury
+15/11/1924,2 - 3,Everton,Arsenal
+15/11/1924,1 - 1,Leeds United,Newcastle United
+15/11/1924,0 - 0,Notts County,Aston Villa
+15/11/1924,3 - 1,Preston North End,Nottingham Forest
+15/11/1924,3 - 2,Sunderland,Manchester City
+15/11/1924,5 - 0,Tottenham Hotspur,Blackburn Rovers
+15/11/1924,4 - 1,West Bromwich Albion,West Ham United
+12/11/1924,2 - 3,Liverpool,Huddersfield Town
+10/11/1924,1 - 1,Tottenham Hotspur,Manchester City
+08/11/1924,0 - 1,Arsenal,Notts County
+08/11/1924,2 - 2,Aston Villa,Bolton Wanderers
+08/11/1924,1 - 0,Blackburn Rovers,West Bromwich Albion
+08/11/1924,3 - 0,Bury,Sunderland
+08/11/1924,1 - 2,Huddersfield Town,Tottenham Hotspur
+08/11/1924,3 - 1,Liverpool,Preston North End
+08/11/1924,2 - 2,Manchester City,Everton
+08/11/1924,3 - 0,Newcastle United,Burnley
+08/11/1924,2 - 1,Nottingham Forest,Cardiff City
+08/11/1924,1 - 1,Sheffield United,Leeds United
+08/11/1924,0 - 1,West Ham United,Birmingham City
+01/11/1924,1 - 1,Birmingham City,Blackburn Rovers
+01/11/1924,4 - 1,Bolton Wanderers,Arsenal
+01/11/1924,1 - 1,Burnley,Sheffield United
+01/11/1924,0 - 0,Everton,Bury
+01/11/1924,2 - 1,Leeds United,West Ham United
+01/11/1924,2 - 0,Notts County,Manchester City
+01/11/1924,0 - 1,Preston North End,Newcastle United
+01/11/1924,3 - 1,Sunderland,Nottingham Forest
+01/11/1924,1 - 3,Tottenham Hotspur,Aston Villa
+01/11/1924,1 - 0,West Bromwich Albion,Huddersfield Town
+29/10/1924,3 - 1,Everton,Manchester City
+25/10/1924,1 - 0,Arsenal,Tottenham Hotspur
+25/10/1924,1 - 0,Aston Villa,West Bromwich Albion
+25/10/1924,2 - 3,Blackburn Rovers,Leeds United
+25/10/1924,2 - 1,Bury,Notts County
+25/10/1924,0 - 1,Huddersfield Town,Birmingham City
+25/10/1924,3 - 1,Liverpool,Sunderland
+25/10/1924,2 - 2,Manchester City,Bolton Wanderers
+25/10/1924,1 - 2,Newcastle United,Cardiff City
+25/10/1924,0 - 1,Nottingham Forest,Everton
+25/10/1924,3 - 0,Sheffield United,Preston North End
+25/10/1924,2 - 0,West Ham United,Burnley
+18/10/1924,1 - 1,Arsenal,Aston Villa
+18/10/1924,0 - 0,Burnley,Bolton Wanderers
+18/10/1924,1 - 1,Bury,Blackburn Rovers
+18/10/1924,2 - 1,Cardiff City,Everton
+18/10/1924,1 - 0,Leeds United,Tottenham Hotspur
+18/10/1924,4 - 1,Liverpool,Sheffield United
+18/10/1924,1 - 1,Manchester City,Huddersfield Town
+18/10/1924,2 - 1,Nottingham Forest,West Ham United
+18/10/1924,0 - 1,Preston North End,Notts County
+18/10/1924,1 - 1,Sunderland,Newcastle United
+18/10/1924,1 - 1,West Bromwich Albion,Birmingham City
+15/10/1924,0 - 0,Liverpool,Blackburn Rovers
+13/10/1924,0 - 1,Arsenal,Bury
+11/10/1924,1 - 0,Birmingham City,Aston Villa
+11/10/1924,3 - 1,Blackburn Rovers,Manchester City
+11/10/1924,6 - 1,Bolton Wanderers,Preston North End
+11/10/1924,0 - 3,Everton,Sunderland
+11/10/1924,4 - 0,Huddersfield Town,Arsenal
+11/10/1924,0 - 0,Newcastle United,Liverpool
+11/10/1924,3 - 0,Notts County,Cardiff City
+11/10/1924,1 - 2,Sheffield United,Nottingham Forest
+11/10/1924,1 - 1,Tottenham Hotspur,Burnley
+11/10/1924,3 - 1,West Bromwich Albion,Leeds United
+11/10/1924,1 - 1,West Ham United,Bury
+04/10/1924,1 - 0,Arsenal,Blackburn Rovers
+04/10/1924,1 - 1,Aston Villa,Huddersfield Town
+04/10/1924,0 - 1,Burnley,West Bromwich Albion
+04/10/1924,1 - 0,Bury,Sheffield United
+04/10/1924,1 - 2,Cardiff City,Bolton Wanderers
+04/10/1924,0 - 1,Everton,Liverpool
+04/10/1924,0 - 1,Leeds United,Birmingham City
+04/10/1924,3 - 1,Manchester City,West Ham United
+04/10/1924,1 - 1,Nottingham Forest,Newcastle United
+04/10/1924,0 - 3,Preston North End,Tottenham Hotspur
+04/10/1924,0 - 1,Sunderland,Notts County
+02/10/1924,0 - 2,Nottingham Forest,Aston Villa
+29/09/1924,1 - 2,Burnley,Sunderland
+27/09/1924,1 - 0,Birmingham City,Burnley
+27/09/1924,1 - 1,Blackburn Rovers,Aston Villa
+27/09/1924,1 - 2,Bolton Wanderers,Sunderland
+27/09/1924,1 - 1,Leeds United,Huddersfield Town
+27/09/1924,3 - 0,Liverpool,Nottingham Forest
+27/09/1924,2 - 2,Newcastle United,Bury
+27/09/1924,3 - 1,Notts County,Everton
+27/09/1924,0 - 5,Sheffield United,Manchester City
+27/09/1924,1 - 1,Tottenham Hotspur,Cardiff City
+27/09/1924,1 - 1,West Bromwich Albion,Preston North End
+27/09/1924,1 - 0,West Ham United,Arsenal
+22/09/1924,1 - 1,Sheffield United,West Ham United
+22/09/1924,0 - 1,Tottenham Hotspur,West Bromwich Albion
+20/09/1924,2 - 0,Arsenal,Sheffield United
+20/09/1924,1 - 1,Aston Villa,West Ham United
+20/09/1924,1 - 1,Burnley,Leeds United
+20/09/1924,0 - 0,Bury,Liverpool
+20/09/1924,0 - 1,Cardiff City,West Bromwich Albion
+20/09/1924,2 - 2,Everton,Bolton Wanderers
+20/09/1924,0 - 0,Huddersfield Town,Blackburn Rovers
+20/09/1924,3 - 1,Manchester City,Newcastle United
+20/09/1924,0 - 0,Notts County,Nottingham Forest
+20/09/1924,1 - 0,Preston North End,Birmingham City
+20/09/1924,4 - 1,Sunderland,Tottenham Hotspur
+17/09/1924,1 - 0,Leeds United,Everton
+17/09/1924,2 - 0,Manchester City,Arsenal
+17/09/1924,4 - 1,Newcastle United,West Ham United
+15/09/1924,1 - 0,Birmingham City,Notts County
+15/09/1924,3 - 1,Blackburn Rovers,Liverpool
+15/09/1924,1 - 3,Preston North End,Cardiff City
+13/09/1924,2 - 1,Birmingham City,Cardiff City
+13/09/1924,1 - 0,Bolton Wanderers,Notts County
+13/09/1924,3 - 5,Burnley,Blackburn Rovers
+13/09/1924,4 - 0,Leeds United,Preston North End
+13/09/1924,5 - 3,Liverpool,Manchester City
+13/09/1924,2 - 2,Newcastle United,Arsenal
+13/09/1924,2 - 0,Nottingham Forest,Bury
+13/09/1924,2 - 2,Sheffield United,Aston Villa
+13/09/1924,0 - 0,Tottenham Hotspur,Everton
+13/09/1924,2 - 1,West Bromwich Albion,Sunderland
+13/09/1924,0 - 0,West Ham United,Huddersfield Town
+10/09/1924,1 - 1,Leeds United,Notts County
+10/09/1924,4 - 0,Newcastle United,Blackburn Rovers
+08/09/1924,1 - 0,Birmingham City,Bolton Wanderers
+08/09/1924,0 - 0,Burnley,Everton
+08/09/1924,4 - 3,Bury,Aston Villa
+08/09/1924,0 - 1,Nottingham Forest,Huddersfield Town
+08/09/1924,1 - 0,Sheffield United,Cardiff City
+08/09/1924,2 - 0,West Bromwich Albion,Tottenham Hotspur
+08/09/1924,0 - 0,West Ham United,Newcastle United
+06/09/1924,2 - 0,Arsenal,Liverpool
+06/09/1924,0 - 0,Aston Villa,Newcastle United
+06/09/1924,0 - 1,Blackburn Rovers,West Ham United
+06/09/1924,3 - 3,Bolton Wanderers,Bury
+06/09/1924,3 - 0,Cardiff City,Leeds United
+06/09/1924,1 - 0,Everton,West Bromwich Albion
+06/09/1924,2 - 1,Huddersfield Town,Sheffield United
+06/09/1924,4 - 2,Manchester City,Nottingham Forest
+06/09/1924,0 - 0,Notts County,Tottenham Hotspur
+06/09/1924,0 - 2,Preston North End,Burnley
+06/09/1924,4 - 0,Sunderland,Birmingham City
+03/09/1924,0 - 2,Birmingham City,Tottenham Hotspur
+03/09/1924,2 - 0,Sunderland,Preston North End
+02/09/1924,3 - 0,Huddersfield Town,Nottingham Forest
+01/09/1924,1 - 0,Arsenal,Manchester City
+01/09/1924,3 - 3,Aston Villa,Bury
+01/09/1924,1 - 1,Blackburn Rovers,Newcastle United
+01/09/1924,1 - 1,Bolton Wanderers,West Bromwich Albion
+01/09/1924,1 - 1,Cardiff City,Sheffield United
+01/09/1924,1 - 0,Notts County,Leeds United
+30/08/1924,2 - 2,Birmingham City,Everton
+30/08/1924,0 - 0,Burnley,Cardiff City
+30/08/1924,0 - 2,Bury,Manchester City
+30/08/1924,1 - 1,Leeds United,Sunderland
+30/08/1924,2 - 4,Liverpool,Aston Villa
+30/08/1924,1 - 3,Newcastle United,Huddersfield Town
+30/08/1924,0 - 2,Nottingham Forest,Arsenal
+30/08/1924,2 - 3,Sheffield United,Blackburn Rovers
+30/08/1924,3 - 0,Tottenham Hotspur,Bolton Wanderers
+30/08/1924,1 - 2,West Bromwich Albion,Notts County
+30/08/1924,1 - 0,West Ham United,Preston North End

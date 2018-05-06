@@ -1,0 +1,463 @@
+date,score,home_team,away_team
+02/05/1960,1 - 2,Manchester City,Burnley
+30/04/1960,1 - 0,Birmingham City,Blackburn Rovers
+30/04/1960,0 - 0,Burnley,Fulham
+30/04/1960,1 - 5,Chelsea,Wolverhampton Wanderers
+30/04/1960,1 - 0,Leeds United,Nottingham Forest
+30/04/1960,1 - 2,Leicester City,Bolton Wanderers
+30/04/1960,5 - 0,Manchester United,Everton
+30/04/1960,0 - 1,Newcastle United,Manchester City
+30/04/1960,2 - 0,Preston North End,Luton Town
+30/04/1960,4 - 1,Tottenham Hotspur,Blackpool
+30/04/1960,1 - 0,West Bromwich Albion,Arsenal
+30/04/1960,1 - 1,West Ham United,Sheffield Wednesday
+27/04/1960,0 - 1,Birmingham City,Burnley
+27/04/1960,3 - 2,Blackburn Rovers,Leeds United
+23/04/1960,5 - 2,Arsenal,Manchester United
+23/04/1960,0 - 1,Blackburn Rovers,Leicester City
+23/04/1960,1 - 1,Blackpool,Burnley
+23/04/1960,2 - 0,Bolton Wanderers,Chelsea
+23/04/1960,1 - 0,Everton,Leeds United
+23/04/1960,2 - 1,Fulham,West Bromwich Albion
+23/04/1960,3 - 1,Luton Town,West Ham United
+23/04/1960,2 - 1,Manchester City,Preston North End
+23/04/1960,3 - 0,Nottingham Forest,Newcastle United
+23/04/1960,2 - 4,Sheffield Wednesday,Birmingham City
+23/04/1960,1 - 3,Wolverhampton Wanderers,Tottenham Hotspur
+19/04/1960,2 - 1,Leeds United,Preston North End
+19/04/1960,0 - 0,Nottingham Forest,Wolverhampton Wanderers
+19/04/1960,1 - 1,West Bromwich Albion,Birmingham City
+18/04/1960,1 - 7,Birmingham City,West Bromwich Albion
+18/04/1960,0 - 0,Blackpool,Everton
+18/04/1960,3 - 1,Bolton Wanderers,Manchester City
+18/04/1960,3 - 0,Fulham,Arsenal
+18/04/1960,2 - 1,Leicester City,Burnley
+18/04/1960,1 - 1,Luton Town,Blackburn Rovers
+18/04/1960,5 - 3,Manchester United,West Ham United
+18/04/1960,1 - 1,Preston North End,Leeds United
+18/04/1960,2 - 0,Sheffield Wednesday,Newcastle United
+18/04/1960,0 - 1,Tottenham Hotspur,Chelsea
+18/04/1960,3 - 1,Wolverhampton Wanderers,Nottingham Forest
+16/04/1960,3 - 0,Birmingham City,Arsenal
+16/04/1960,3 - 0,Burnley,Luton Town
+16/04/1960,1 - 1,Chelsea,Nottingham Forest
+16/04/1960,1 - 0,Leeds United,Bolton Wanderers
+16/04/1960,3 - 3,Leicester City,Everton
+16/04/1960,1 - 0,Manchester United,Blackburn Rovers
+16/04/1960,1 - 0,Newcastle United,Wolverhampton Wanderers
+16/04/1960,4 - 1,Preston North End,Blackpool
+16/04/1960,0 - 1,Tottenham Hotspur,Manchester City
+16/04/1960,3 - 1,West Bromwich Albion,Sheffield Wednesday
+16/04/1960,1 - 2,West Ham United,Fulham
+15/04/1960,2 - 0,Arsenal,Fulham
+15/04/1960,0 - 2,Blackburn Rovers,Luton Town
+15/04/1960,1 - 0,Burnley,Leicester City
+15/04/1960,1 - 3,Chelsea,Tottenham Hotspur
+15/04/1960,4 - 0,Everton,Blackpool
+15/04/1960,1 - 0,Manchester City,Bolton Wanderers
+15/04/1960,3 - 3,Newcastle United,Sheffield Wednesday
+15/04/1960,2 - 1,West Ham United,Manchester United
+11/04/1960,5 - 0,Wolverhampton Wanderers,West Ham United
+09/04/1960,1 - 4,Arsenal,Chelsea
+09/04/1960,1 - 1,Blackburn Rovers,Newcastle United
+09/04/1960,0 - 1,Blackpool,Birmingham City
+09/04/1960,2 - 1,Bolton Wanderers,Preston North End
+09/04/1960,2 - 1,Everton,Tottenham Hotspur
+09/04/1960,1 - 1,Fulham,Leicester City
+09/04/1960,2 - 3,Luton Town,Manchester United
+09/04/1960,0 - 1,Manchester City,West Bromwich Albion
+09/04/1960,0 - 1,Nottingham Forest,Burnley
+09/04/1960,1 - 0,Sheffield Wednesday,Leeds United
+06/04/1960,2 - 2,Sheffield Wednesday,Leicester City
+02/04/1960,2 - 2,Birmingham City,Everton
+02/04/1960,3 - 3,Burnley,Sheffield Wednesday
+02/04/1960,3 - 0,Chelsea,Manchester City
+02/04/1960,0 - 3,Leeds United,Wolverhampton Wanderers
+02/04/1960,0 - 1,Leicester City,Nottingham Forest
+02/04/1960,2 - 0,Manchester United,Bolton Wanderers
+02/04/1960,1 - 1,Newcastle United,Blackpool
+02/04/1960,4 - 1,Preston North End,Fulham
+02/04/1960,1 - 1,Tottenham Hotspur,Luton Town
+02/04/1960,2 - 0,West Bromwich Albion,Blackburn Rovers
+02/04/1960,0 - 0,West Ham United,Arsenal
+30/03/1960,1 - 0,Blackburn Rovers,Chelsea
+30/03/1960,3 - 1,Manchester City,West Ham United
+30/03/1960,4 - 2,Sheffield Wednesday,Manchester United
+30/03/1960,6 - 1,Wolverhampton Wanderers,Burnley
+26/03/1960,1 - 1,Arsenal,Leeds United
+26/03/1960,2 - 0,Blackpool,West Bromwich Albion
+26/03/1960,2 - 1,Bolton Wanderers,Tottenham Hotspur
+26/03/1960,0 - 5,Fulham,Manchester United
+26/03/1960,1 - 1,Luton Town,Birmingham City
+26/03/1960,1 - 1,Nottingham Forest,Preston North End
+25/03/1960,1 - 2,Everton,Newcastle United
+19/03/1960,2 - 5,Birmingham City,Bolton Wanderers
+19/03/1960,3 - 2,Burnley,Arsenal
+19/03/1960,2 - 3,Chelsea,Blackpool
+19/03/1960,4 - 3,Leeds United,Manchester City
+19/03/1960,2 - 1,Leicester City,Wolverhampton Wanderers
+19/03/1960,3 - 1,Manchester United,Nottingham Forest
+19/03/1960,3 - 2,Newcastle United,Luton Town
+19/03/1960,3 - 4,Preston North End,Sheffield Wednesday
+19/03/1960,1 - 1,Tottenham Hotspur,Fulham
+19/03/1960,6 - 2,West Bromwich Albion,Everton
+19/03/1960,2 - 1,West Ham United,Blackburn Rovers
+16/03/1960,3 - 3,Wolverhampton Wanderers,Preston North End
+15/03/1960,1 - 1,Arsenal,Leicester City
+12/03/1960,3 - 2,Blackpool,West Ham United
+12/03/1960,1 - 4,Bolton Wanderers,Newcastle United
+12/03/1960,6 - 1,Everton,Chelsea
+12/03/1960,2 - 2,Fulham,Birmingham City
+12/03/1960,0 - 0,Luton Town,West Bromwich Albion
+12/03/1960,1 - 3,Nottingham Forest,Tottenham Hotspur
+09/03/1960,2 - 2,Bolton Wanderers,Luton Town
+09/03/1960,3 - 3,Leeds United,Birmingham City
+09/03/1960,2 - 3,Manchester City,Blackpool
+09/03/1960,3 - 2,West Bromwich Albion,West Ham United
+05/03/1960,4 - 1,Birmingham City,Nottingham Forest
+05/03/1960,1 - 0,Burnley,Blackburn Rovers
+05/03/1960,3 - 0,Chelsea,Luton Town
+05/03/1960,2 - 4,Leeds United,Blackpool
+05/03/1960,5 - 0,Leicester City,Manchester City
+05/03/1960,0 - 2,Manchester United,Wolverhampton Wanderers
+05/03/1960,3 - 1,Newcastle United,Fulham
+05/03/1960,0 - 3,Preston North End,Arsenal
+05/03/1960,4 - 1,Tottenham Hotspur,Sheffield Wednesday
+05/03/1960,1 - 1,West Bromwich Albion,Bolton Wanderers
+05/03/1960,2 - 2,West Ham United,Everton
+01/03/1960,2 - 0,Burnley,Tottenham Hotspur
+01/03/1960,5 - 3,Preston North End,Blackburn Rovers
+27/02/1960,1 - 0,Arsenal,Newcastle United
+27/02/1960,1 - 4,Blackburn Rovers,Tottenham Hotspur
+27/02/1960,0 - 6,Blackpool,Manchester United
+27/02/1960,2 - 1,Bolton Wanderers,Burnley
+27/02/1960,4 - 0,Everton,Preston North End
+27/02/1960,5 - 0,Fulham,Leeds United
+27/02/1960,2 - 0,Luton Town,Leicester City
+27/02/1960,3 - 0,Manchester City,Birmingham City
+27/02/1960,3 - 1,Nottingham Forest,West Ham United
+27/02/1960,1 - 1,Sheffield Wednesday,Chelsea
+27/02/1960,3 - 1,Wolverhampton Wanderers,West Bromwich Albion
+24/02/1960,2 - 2,Chelsea,West Bromwich Albion
+24/02/1960,3 - 1,Leicester City,Manchester United
+24/02/1960,1 - 0,Sheffield Wednesday,Bolton Wanderers
+23/02/1960,3 - 2,Wolverhampton Wanderers,Luton Town
+20/02/1960,2 - 1,Arsenal,Everton
+20/02/1960,2 - 2,Nottingham Forest,Fulham
+20/02/1960,3 - 5,West Ham United,Newcastle United
+13/02/1960,2 - 1,Blackburn Rovers,Manchester City
+13/02/1960,2 - 1,Blackpool,Arsenal
+13/02/1960,1 - 1,Bolton Wanderers,Nottingham Forest
+13/02/1960,4 - 2,Chelsea,Fulham
+13/02/1960,0 - 2,Everton,Wolverhampton Wanderers
+13/02/1960,0 - 1,Luton Town,Sheffield Wednesday
+13/02/1960,1 - 1,Manchester United,Preston North End
+13/02/1960,2 - 1,Newcastle United,Leeds United
+13/02/1960,1 - 2,Tottenham Hotspur,Leicester City
+06/02/1960,5 - 2,Arsenal,Blackburn Rovers
+06/02/1960,2 - 1,Burnley,Newcastle United
+06/02/1960,1 - 1,Fulham,Bolton Wanderers
+06/02/1960,1 - 4,Leeds United,West Bromwich Albion
+06/02/1960,1 - 3,Leicester City,Birmingham City
+06/02/1960,0 - 0,Manchester United,Manchester City
+06/02/1960,2 - 0,Nottingham Forest,Luton Town
+06/02/1960,1 - 1,Preston North End,Tottenham Hotspur
+06/02/1960,2 - 2,Sheffield Wednesday,Everton
+06/02/1960,4 - 2,West Ham United,Chelsea
+06/02/1960,1 - 1,Wolverhampton Wanderers,Blackpool
+23/01/1960,2 - 1,Birmingham City,Preston North End
+23/01/1960,0 - 1,Blackburn Rovers,Wolverhampton Wanderers
+23/01/1960,0 - 2,Blackpool,Sheffield Wednesday
+23/01/1960,1 - 3,Chelsea,Leeds United
+23/01/1960,6 - 1,Everton,Nottingham Forest
+23/01/1960,4 - 1,Luton Town,Fulham
+23/01/1960,1 - 2,Manchester City,Arsenal
+23/01/1960,0 - 2,Newcastle United,Leicester City
+23/01/1960,2 - 1,Tottenham Hotspur,Manchester United
+23/01/1960,0 - 0,West Bromwich Albion,Burnley
+23/01/1960,1 - 2,West Ham United,Bolton Wanderers
+16/01/1960,2 - 1,Burnley,Chelsea
+16/01/1960,2 - 0,Fulham,Everton
+16/01/1960,3 - 0,Leeds United,West Ham United
+16/01/1960,0 - 1,Leicester City,West Bromwich Albion
+16/01/1960,2 - 1,Manchester United,Birmingham City
+16/01/1960,0 - 0,Nottingham Forest,Blackpool
+16/01/1960,1 - 2,Preston North End,Newcastle United
+16/01/1960,3 - 0,Sheffield Wednesday,Blackburn Rovers
+16/01/1960,3 - 0,Tottenham Hotspur,Arsenal
+16/01/1960,4 - 2,Wolverhampton Wanderers,Manchester City
+02/01/1960,4 - 4,Arsenal,Wolverhampton Wanderers
+02/01/1960,0 - 1,Birmingham City,Tottenham Hotspur
+02/01/1960,1 - 2,Blackburn Rovers,Nottingham Forest
+02/01/1960,3 - 1,Blackpool,Fulham
+02/01/1960,2 - 2,Chelsea,Leicester City
+02/01/1960,0 - 1,Everton,Bolton Wanderers
+02/01/1960,1 - 1,Leeds United,Luton Town
+02/01/1960,4 - 1,Manchester City,Sheffield Wednesday
+02/01/1960,7 - 3,Newcastle United,Manchester United
+02/01/1960,4 - 0,West Bromwich Albion,Preston North End
+02/01/1960,2 - 5,West Ham United,Burnley
+28/12/1959,1 - 4,Burnley,Manchester United
+28/12/1959,1 - 2,Fulham,Sheffield Wednesday
+28/12/1959,0 - 1,Luton Town,Arsenal
+28/12/1959,4 - 0,Manchester City,Everton
+28/12/1959,1 - 1,Newcastle United,Chelsea
+28/12/1959,1 - 2,Nottingham Forest,West Bromwich Albion
+28/12/1959,1 - 1,Preston North End,Leicester City
+28/12/1959,1 - 4,Tottenham Hotspur,Leeds United
+28/12/1959,3 - 1,West Ham United,Birmingham City
+28/12/1959,0 - 1,Wolverhampton Wanderers,Bolton Wanderers
+26/12/1959,0 - 3,Arsenal,Luton Town
+26/12/1959,2 - 0,Birmingham City,West Ham United
+26/12/1959,1 - 0,Blackpool,Blackburn Rovers
+26/12/1959,2 - 1,Bolton Wanderers,Wolverhampton Wanderers
+26/12/1959,2 - 2,Chelsea,Newcastle United
+26/12/1959,2 - 1,Everton,Manchester City
+26/12/1959,2 - 4,Leeds United,Tottenham Hotspur
+26/12/1959,2 - 2,Leicester City,Preston North End
+26/12/1959,1 - 2,Manchester United,Burnley
+26/12/1959,1 - 1,Sheffield Wednesday,Fulham
+26/12/1959,2 - 3,West Bromwich Albion,Nottingham Forest
+25/12/1959,1 - 0,Blackburn Rovers,Blackpool
+19/12/1959,0 - 3,Bolton Wanderers,Blackpool
+19/12/1959,0 - 1,Burnley,Leeds United
+19/12/1959,0 - 1,Fulham,Blackburn Rovers
+19/12/1959,2 - 1,Leicester City,West Ham United
+19/12/1959,2 - 1,Luton Town,Everton
+19/12/1959,2 - 3,Manchester United,West Bromwich Albion
+19/12/1959,1 - 2,Nottingham Forest,Manchester City
+19/12/1959,4 - 5,Preston North End,Chelsea
+19/12/1959,5 - 1,Sheffield Wednesday,Arsenal
+19/12/1959,4 - 0,Tottenham Hotspur,Newcastle United
+19/12/1959,2 - 0,Wolverhampton Wanderers,Birmingham City
+12/12/1959,2 - 4,Arsenal,Burnley
+12/12/1959,6 - 2,Blackburn Rovers,West Ham United
+12/12/1959,3 - 1,Blackpool,Chelsea
+12/12/1959,4 - 1,Bolton Wanderers,Birmingham City
+12/12/1959,2 - 2,Everton,West Bromwich Albion
+12/12/1959,1 - 1,Fulham,Tottenham Hotspur
+12/12/1959,3 - 4,Luton Town,Newcastle United
+12/12/1959,3 - 3,Manchester City,Leeds United
+12/12/1959,1 - 5,Nottingham Forest,Manchester United
+12/12/1959,2 - 2,Sheffield Wednesday,Preston North End
+12/12/1959,0 - 3,Wolverhampton Wanderers,Leicester City
+05/12/1959,4 - 2,Birmingham City,Manchester City
+05/12/1959,4 - 0,Burnley,Bolton Wanderers
+05/12/1959,0 - 4,Chelsea,Sheffield Wednesday
+05/12/1959,1 - 4,Leeds United,Fulham
+05/12/1959,3 - 3,Leicester City,Luton Town
+05/12/1959,3 - 1,Manchester United,Blackpool
+05/12/1959,4 - 1,Newcastle United,Arsenal
+05/12/1959,0 - 0,Preston North End,Everton
+05/12/1959,2 - 1,Tottenham Hotspur,Blackburn Rovers
+05/12/1959,0 - 1,West Bromwich Albion,Wolverhampton Wanderers
+05/12/1959,4 - 1,West Ham United,Nottingham Forest
+28/11/1959,2 - 4,Arsenal,West Bromwich Albion
+28/11/1959,2 - 1,Blackburn Rovers,Birmingham City
+28/11/1959,2 - 2,Blackpool,Tottenham Hotspur
+28/11/1959,3 - 1,Bolton Wanderers,Leicester City
+28/11/1959,2 - 1,Everton,Manchester United
+28/11/1959,1 - 0,Fulham,Burnley
+28/11/1959,1 - 3,Luton Town,Preston North End
+28/11/1959,3 - 4,Manchester City,Newcastle United
+28/11/1959,4 - 1,Nottingham Forest,Leeds United
+28/11/1959,7 - 0,Sheffield Wednesday,West Ham United
+28/11/1959,3 - 1,Wolverhampton Wanderers,Chelsea
+21/11/1959,2 - 1,Birmingham City,Blackpool
+21/11/1959,8 - 0,Burnley,Nottingham Forest
+21/11/1959,1 - 3,Chelsea,Arsenal
+21/11/1959,1 - 3,Leeds United,Sheffield Wednesday
+21/11/1959,0 - 1,Leicester City,Fulham
+21/11/1959,4 - 1,Manchester United,Luton Town
+21/11/1959,3 - 1,Newcastle United,Blackburn Rovers
+21/11/1959,1 - 0,Preston North End,Bolton Wanderers
+21/11/1959,3 - 0,Tottenham Hotspur,Everton
+21/11/1959,2 - 0,West Bromwich Albion,Manchester City
+21/11/1959,3 - 2,West Ham United,Wolverhampton Wanderers
+14/11/1959,1 - 3,Arsenal,West Ham United
+14/11/1959,3 - 2,Blackburn Rovers,West Bromwich Albion
+14/11/1959,2 - 0,Blackpool,Newcastle United
+14/11/1959,1 - 1,Bolton Wanderers,Manchester United
+14/11/1959,4 - 0,Everton,Birmingham City
+14/11/1959,1 - 2,Fulham,Preston North End
+14/11/1959,1 - 0,Luton Town,Tottenham Hotspur
+14/11/1959,1 - 1,Manchester City,Chelsea
+14/11/1959,1 - 0,Nottingham Forest,Leicester City
+14/11/1959,1 - 1,Sheffield Wednesday,Burnley
+14/11/1959,4 - 2,Wolverhampton Wanderers,Leeds United
+07/11/1959,1 - 1,Birmingham City,Luton Town
+07/11/1959,4 - 1,Burnley,Wolverhampton Wanderers
+07/11/1959,3 - 1,Chelsea,Blackburn Rovers
+07/11/1959,3 - 2,Leeds United,Arsenal
+07/11/1959,2 - 0,Leicester City,Sheffield Wednesday
+07/11/1959,3 - 3,Manchester United,Fulham
+07/11/1959,8 - 2,Newcastle United,Everton
+07/11/1959,1 - 0,Preston North End,Nottingham Forest
+07/11/1959,0 - 2,Tottenham Hotspur,Bolton Wanderers
+07/11/1959,2 - 1,West Bromwich Albion,Blackpool
+07/11/1959,4 - 1,West Ham United,Manchester City
+31/10/1959,3 - 0,Arsenal,Birmingham City
+31/10/1959,1 - 1,Blackburn Rovers,Manchester United
+31/10/1959,0 - 2,Blackpool,Preston North End
+31/10/1959,1 - 1,Bolton Wanderers,Leeds United
+31/10/1959,6 - 1,Everton,Leicester City
+31/10/1959,1 - 0,Fulham,West Ham United
+31/10/1959,1 - 1,Luton Town,Burnley
+31/10/1959,1 - 2,Manchester City,Tottenham Hotspur
+31/10/1959,3 - 1,Nottingham Forest,Chelsea
+31/10/1959,2 - 0,Sheffield Wednesday,West Bromwich Albion
+31/10/1959,2 - 0,Wolverhampton Wanderers,Newcastle United
+24/10/1959,2 - 4,Birmingham City,Fulham
+24/10/1959,4 - 3,Burnley,Manchester City
+24/10/1959,1 - 0,Chelsea,Everton
+24/10/1959,0 - 1,Leeds United,Blackburn Rovers
+24/10/1959,2 - 2,Leicester City,Arsenal
+24/10/1959,3 - 1,Manchester United,Sheffield Wednesday
+24/10/1959,0 - 2,Newcastle United,Bolton Wanderers
+24/10/1959,4 - 3,Preston North End,Wolverhampton Wanderers
+24/10/1959,2 - 1,Tottenham Hotspur,Nottingham Forest
+24/10/1959,4 - 0,West Bromwich Albion,Luton Town
+24/10/1959,1 - 0,West Ham United,Blackpool
+17/10/1959,0 - 3,Arsenal,Preston North End
+17/10/1959,3 - 2,Blackburn Rovers,Burnley
+17/10/1959,3 - 3,Blackpool,Leeds United
+17/10/1959,0 - 0,Bolton Wanderers,West Bromwich Albion
+17/10/1959,0 - 1,Everton,West Ham United
+17/10/1959,4 - 3,Fulham,Newcastle United
+17/10/1959,1 - 2,Luton Town,Chelsea
+17/10/1959,3 - 2,Manchester City,Leicester City
+17/10/1959,0 - 2,Nottingham Forest,Birmingham City
+17/10/1959,2 - 1,Sheffield Wednesday,Tottenham Hotspur
+17/10/1959,3 - 2,Wolverhampton Wanderers,Manchester United
+10/10/1959,0 - 0,Birmingham City,Sheffield Wednesday
+10/10/1959,1 - 4,Burnley,Blackpool
+10/10/1959,0 - 2,Chelsea,Bolton Wanderers
+10/10/1959,3 - 3,Leeds United,Everton
+10/10/1959,2 - 3,Leicester City,Blackburn Rovers
+10/10/1959,4 - 2,Manchester United,Arsenal
+10/10/1959,2 - 1,Newcastle United,Nottingham Forest
+10/10/1959,1 - 5,Preston North End,Manchester City
+10/10/1959,5 - 1,Tottenham Hotspur,Wolverhampton Wanderers
+10/10/1959,2 - 4,West Bromwich Albion,Fulham
+10/10/1959,3 - 1,West Ham United,Luton Town
+03/10/1959,2 - 0,Birmingham City,Leeds United
+03/10/1959,1 - 4,Blackburn Rovers,Preston North End
+03/10/1959,1 - 3,Blackpool,Manchester City
+03/10/1959,1 - 0,Bolton Wanderers,Sheffield Wednesday
+03/10/1959,3 - 1,Everton,Arsenal
+03/10/1959,3 - 1,Fulham,Nottingham Forest
+03/10/1959,1 - 5,Luton Town,Wolverhampton Wanderers
+03/10/1959,4 - 1,Manchester United,Leicester City
+03/10/1959,0 - 0,Newcastle United,West Ham United
+03/10/1959,1 - 1,Tottenham Hotspur,Burnley
+03/10/1959,1 - 3,West Bromwich Albion,Chelsea
+26/09/1959,2 - 1,Arsenal,Blackpool
+26/09/1959,3 - 1,Burnley,Birmingham City
+26/09/1959,1 - 3,Fulham,Chelsea
+26/09/1959,2 - 3,Leeds United,Newcastle United
+26/09/1959,1 - 1,Leicester City,Tottenham Hotspur
+26/09/1959,2 - 1,Manchester City,Blackburn Rovers
+26/09/1959,2 - 0,Nottingham Forest,Bolton Wanderers
+26/09/1959,4 - 0,Preston North End,Manchester United
+26/09/1959,2 - 0,Sheffield Wednesday,Luton Town
+26/09/1959,4 - 1,West Ham United,West Bromwich Albion
+26/09/1959,2 - 0,Wolverhampton Wanderers,Everton
+21/09/1959,3 - 1,Blackburn Rovers,Everton
+19/09/1959,3 - 4,Birmingham City,Leicester City
+19/09/1959,1 - 1,Blackburn Rovers,Arsenal
+19/09/1959,3 - 1,Blackpool,Wolverhampton Wanderers
+19/09/1959,3 - 2,Bolton Wanderers,Fulham
+19/09/1959,2 - 4,Chelsea,West Ham United
+19/09/1959,2 - 1,Everton,Sheffield Wednesday
+19/09/1959,1 - 0,Luton Town,Nottingham Forest
+19/09/1959,3 - 0,Manchester City,Manchester United
+19/09/1959,1 - 3,Newcastle United,Burnley
+19/09/1959,5 - 1,Tottenham Hotspur,Preston North End
+19/09/1959,3 - 0,West Bromwich Albion,Leeds United
+16/09/1959,4 - 2,Chelsea,Birmingham City
+16/09/1959,2 - 0,Everton,Blackburn Rovers
+16/09/1959,2 - 2,Leeds United,Manchester United
+16/09/1959,1 - 2,Manchester City,Luton Town
+16/09/1959,0 - 0,Newcastle United,West Bromwich Albion
+16/09/1959,0 - 1,Sheffield Wednesday,Nottingham Forest
+16/09/1959,9 - 0,Wolverhampton Wanderers,Fulham
+15/09/1959,2 - 1,Arsenal,Bolton Wanderers
+15/09/1959,1 - 0,Preston North End,Burnley
+14/09/1959,3 - 3,Blackpool,Leicester City
+14/09/1959,1 - 2,West Ham United,Tottenham Hotspur
+12/09/1959,3 - 1,Arsenal,Manchester City
+12/09/1959,5 - 1,Bolton Wanderers,West Ham United
+12/09/1959,2 - 1,Burnley,West Bromwich Albion
+12/09/1959,4 - 2,Fulham,Luton Town
+12/09/1959,2 - 1,Leeds United,Chelsea
+12/09/1959,0 - 2,Leicester City,Newcastle United
+12/09/1959,1 - 5,Manchester United,Tottenham Hotspur
+12/09/1959,1 - 1,Nottingham Forest,Everton
+12/09/1959,3 - 2,Preston North End,Birmingham City
+12/09/1959,5 - 0,Sheffield Wednesday,Blackpool
+12/09/1959,3 - 1,Wolverhampton Wanderers,Blackburn Rovers
+09/09/1959,1 - 1,Birmingham City,Chelsea
+09/09/1959,0 - 1,Bolton Wanderers,Arsenal
+09/09/1959,3 - 1,Fulham,Wolverhampton Wanderers
+09/09/1959,1 - 1,Leicester City,Blackpool
+09/09/1959,1 - 2,Luton Town,Manchester City
+09/09/1959,6 - 0,Manchester United,Leeds United
+09/09/1959,2 - 1,Nottingham Forest,Sheffield Wednesday
+09/09/1959,2 - 2,Tottenham Hotspur,West Ham United
+09/09/1959,2 - 2,West Bromwich Albion,Newcastle United
+08/09/1959,2 - 1,Burnley,Preston North End
+05/09/1959,1 - 1,Arsenal,Tottenham Hotspur
+05/09/1959,1 - 1,Birmingham City,Manchester United
+05/09/1959,3 - 1,Blackburn Rovers,Sheffield Wednesday
+05/09/1959,0 - 1,Blackpool,Nottingham Forest
+05/09/1959,4 - 1,Chelsea,Burnley
+05/09/1959,0 - 0,Everton,Fulham
+05/09/1959,0 - 0,Luton Town,Bolton Wanderers
+05/09/1959,4 - 6,Manchester City,Wolverhampton Wanderers
+05/09/1959,1 - 2,Newcastle United,Preston North End
+05/09/1959,5 - 0,West Bromwich Albion,Leicester City
+05/09/1959,1 - 2,West Ham United,Leeds United
+02/09/1959,3 - 6,Chelsea,Manchester United
+02/09/1959,1 - 2,Everton,Burnley
+02/09/1959,1 - 1,Leeds United,Leicester City
+02/09/1959,3 - 1,Manchester City,Fulham
+02/09/1959,1 - 0,Newcastle United,Birmingham City
+02/09/1959,2 - 2,Sheffield Wednesday,Wolverhampton Wanderers
+02/09/1959,1 - 2,West Bromwich Albion,Tottenham Hotspur
+01/09/1959,1 - 1,Arsenal,Nottingham Forest
+31/08/1959,1 - 0,Blackburn Rovers,Bolton Wanderers
+31/08/1959,0 - 0,Blackpool,Luton Town
+31/08/1959,2 - 1,West Ham United,Preston North End
+29/08/1959,2 - 1,Bolton Wanderers,Everton
+29/08/1959,1 - 3,Burnley,West Ham United
+29/08/1959,1 - 0,Fulham,Blackpool
+29/08/1959,3 - 1,Leicester City,Chelsea
+29/08/1959,0 - 1,Luton Town,Leeds United
+29/08/1959,3 - 2,Manchester United,Newcastle United
+29/08/1959,2 - 2,Nottingham Forest,Blackburn Rovers
+29/08/1959,1 - 1,Preston North End,West Bromwich Albion
+29/08/1959,1 - 0,Sheffield Wednesday,Manchester City
+29/08/1959,0 - 0,Tottenham Hotspur,Birmingham City
+29/08/1959,3 - 3,Wolverhampton Wanderers,Arsenal
+26/08/1959,4 - 3,Birmingham City,Newcastle United
+26/08/1959,0 - 3,Bolton Wanderers,Blackburn Rovers
+26/08/1959,5 - 2,Fulham,Manchester City
+26/08/1959,3 - 2,Leicester City,Leeds United
+26/08/1959,0 - 1,Luton Town,Blackpool
+26/08/1959,0 - 1,Manchester United,Chelsea
+26/08/1959,0 - 3,Nottingham Forest,Arsenal
+26/08/1959,2 - 2,Tottenham Hotspur,West Bromwich Albion
+26/08/1959,3 - 1,Wolverhampton Wanderers,Sheffield Wednesday
+25/08/1959,5 - 2,Burnley,Everton
+25/08/1959,1 - 1,Preston North End,West Ham United
+22/08/1959,0 - 1,Arsenal,Sheffield Wednesday
+22/08/1959,0 - 1,Birmingham City,Wolverhampton Wanderers
+22/08/1959,4 - 0,Blackburn Rovers,Fulham
+22/08/1959,3 - 2,Blackpool,Bolton Wanderers
+22/08/1959,4 - 4,Chelsea,Preston North End
+22/08/1959,2 - 2,Everton,Luton Town
+22/08/1959,2 - 3,Leeds United,Burnley
+22/08/1959,2 - 1,Manchester City,Nottingham Forest
+22/08/1959,1 - 5,Newcastle United,Tottenham Hotspur
+22/08/1959,3 - 2,West Bromwich Albion,Manchester United
+22/08/1959,3 - 0,West Ham United,Leicester City

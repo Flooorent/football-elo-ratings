@@ -1,0 +1,381 @@
+date,score,home_team,away_team
+23/05/2004,3 - 4,Athletic Club,Atlético Madrid
+23/05/2004,1 - 2,Celta de Vigo,Mallorca
+23/05/2004,2 - 0,Espanyol,Real Murcia
+23/05/2004,1 - 4,Real Madrid,Real Sociedad
+23/05/2004,3 - 0,Real Valladolid,Villarreal
+23/05/2004,2 - 1,Real Zaragoza,Barcelona
+23/05/2004,1 - 0,Sevilla,Osasuna
+23/05/2004,0 - 1,Valencia,Albacete
+23/05/2004,2 - 3,Málaga,Real Betis
+23/05/2004,0 - 1,Racing Santander,Deportivo La Coruña
+16/05/2004,2 - 1,Real Murcia,Real Madrid
+16/05/2004,1 - 0,Barcelona,Racing Santander
+16/05/2004,1 - 2,Atlético Madrid,Real Zaragoza
+16/05/2004,1 - 4,Albacete,Sevilla
+16/05/2004,4 - 2,Mallorca,Espanyol
+16/05/2004,1 - 2,Osasuna,Athletic Club
+16/05/2004,1 - 1,Real Sociedad,Málaga
+15/05/2004,3 - 0,Deportivo La Coruña,Celta de Vigo
+15/05/2004,1 - 0,Real Betis,Real Valladolid
+14/05/2004,2 - 1,Villarreal,Valencia
+09/05/2004,2 - 2,Racing Santander,Atlético Madrid
+09/05/2004,0 - 2,Sevilla,Valencia
+09/05/2004,1 - 1,Athletic Club,Albacete
+09/05/2004,2 - 0,Espanyol,Deportivo La Coruña
+09/05/2004,1 - 0,Málaga,Real Murcia
+09/05/2004,2 - 2,Real Valladolid,Real Sociedad
+09/05/2004,1 - 0,Real Zaragoza,Osasuna
+09/05/2004,1 - 0,Villarreal,Real Betis
+08/05/2004,2 - 3,Real Madrid,Mallorca
+08/05/2004,1 - 0,Celta de Vigo,Barcelona
+02/05/2004,4 - 1,Barcelona,Espanyol
+02/05/2004,2 - 0,Valencia,Real Betis
+02/05/2004,1 - 2,Osasuna,Racing Santander
+02/05/2004,3 - 1,Albacete,Real Zaragoza
+02/05/2004,2 - 1,Mallorca,Málaga
+02/05/2004,2 - 1,Real Murcia,Real Valladolid
+02/05/2004,2 - 2,Real Sociedad,Villarreal
+02/05/2004,2 - 0,Sevilla,Athletic Club
+01/05/2004,2 - 0,Deportivo La Coruña,Real Madrid
+01/05/2004,3 - 2,Atlético Madrid,Celta de Vigo
+25/04/2004,1 - 1,Athletic Club,Valencia
+25/04/2004,1 - 2,Real Madrid,Barcelona
+25/04/2004,1 - 0,Celta de Vigo,Osasuna
+25/04/2004,0 - 2,Racing Santander,Albacete
+25/04/2004,2 - 1,Real Betis,Real Sociedad
+25/04/2004,1 - 3,Real Valladolid,Mallorca
+25/04/2004,4 - 4,Real Zaragoza,Sevilla
+25/04/2004,1 - 0,Villarreal,Real Murcia
+24/04/2004,1 - 1,Málaga,Deportivo La Coruña
+24/04/2004,3 - 1,Espanyol,Atlético Madrid
+18/04/2004,3 - 0,Barcelona,Málaga
+18/04/2004,2 - 2,Valencia,Real Sociedad
+18/04/2004,0 - 2,Albacete,Celta de Vigo
+18/04/2004,1 - 2,Mallorca,Villarreal
+18/04/2004,1 - 3,Osasuna,Espanyol
+18/04/2004,0 - 1,Real Murcia,Real Betis
+18/04/2004,5 - 2,Sevilla,Racing Santander
+17/04/2004,1 - 2,Atlético Madrid,Real Madrid
+17/04/2004,4 - 0,Athletic Club,Real Zaragoza
+17/04/2004,1 - 1,Deportivo La Coruña,Real Valladolid
+14/04/2004,1 - 1,Real Betis,Barcelona
+11/04/2004,0 - 3,Real Madrid,Osasuna
+11/04/2004,0 - 1,Real Zaragoza,Valencia
+11/04/2004,1 - 1,Espanyol,Albacete
+11/04/2004,1 - 2,Racing Santander,Athletic Club
+11/04/2004,0 - 2,Real Betis,Mallorca
+11/04/2004,2 - 0,Real Sociedad,Real Murcia
+11/04/2004,0 - 2,Villarreal,Deportivo La Coruña
+10/04/2004,0 - 0,Celta de Vigo,Sevilla
+10/04/2004,3 - 1,Málaga,Atlético Madrid
+10/04/2004,1 - 3,Real Valladolid,Barcelona
+04/04/2004,2 - 0,Valencia,Real Murcia
+04/04/2004,2 - 1,Atlético Madrid,Real Valladolid
+04/04/2004,0 - 0,Athletic Club,Celta de Vigo
+04/04/2004,2 - 2,Deportivo La Coruña,Real Betis
+04/04/2004,1 - 1,Mallorca,Real Sociedad
+04/04/2004,1 - 1,Osasuna,Málaga
+04/04/2004,2 - 2,Real Zaragoza,Racing Santander
+03/04/2004,0 - 0,Barcelona,Villarreal
+03/04/2004,1 - 2,Albacete,Real Madrid
+03/04/2004,1 - 0,Sevilla,Espanyol
+28/03/2004,5 - 1,Real Madrid,Sevilla
+28/03/2004,0 - 2,Celta de Vigo,Real Zaragoza
+28/03/2004,1 - 1,Málaga,Albacete
+28/03/2004,0 - 3,Racing Santander,Valencia
+28/03/2004,2 - 0,Real Murcia,Mallorca
+28/03/2004,1 - 1,Real Valladolid,Osasuna
+28/03/2004,0 - 0,Villarreal,Atlético Madrid
+27/03/2004,2 - 1,Espanyol,Athletic Club
+27/03/2004,1 - 2,Real Sociedad,Deportivo La Coruña
+21/03/2004,1 - 0,Barcelona,Real Sociedad
+21/03/2004,5 - 1,Valencia,Mallorca
+21/03/2004,2 - 0,Albacete,Real Valladolid
+21/03/2004,2 - 1,Osasuna,Villarreal
+21/03/2004,4 - 4,Racing Santander,Celta de Vigo
+21/03/2004,1 - 1,Real Zaragoza,Espanyol
+21/03/2004,0 - 1,Sevilla,Málaga
+20/03/2004,2 - 1,Atlético Madrid,Real Betis
+20/03/2004,1 - 0,Deportivo La Coruña,Real Murcia
+20/03/2004,4 - 2,Athletic Club,Real Madrid
+14/03/2004,0 - 2,Celta de Vigo,Valencia
+14/03/2004,0 - 2,Real Murcia,Barcelona
+14/03/2004,0 - 1,Espanyol,Racing Santander
+14/03/2004,2 - 1,Málaga,Athletic Club
+14/03/2004,4 - 2,Mallorca,Deportivo La Coruña
+14/03/2004,1 - 1,Real Betis,Osasuna
+14/03/2004,2 - 0,Real Valladolid,Sevilla
+14/03/2004,2 - 1,Villarreal,Albacete
+13/03/2004,2 - 1,Real Sociedad,Atlético Madrid
+13/03/2004,1 - 1,Real Madrid,Real Zaragoza
+07/03/2004,1 - 1,Atlético Madrid,Real Murcia
+07/03/2004,2 - 0,Sevilla,Villarreal
+07/03/2004,1 - 0,Albacete,Real Betis
+07/03/2004,1 - 4,Athletic Club,Real Valladolid
+07/03/2004,3 - 2,Barcelona,Mallorca
+07/03/2004,1 - 0,Real Zaragoza,Málaga
+06/03/2004,3 - 0,Valencia,Deportivo La Coruña
+06/03/2004,1 - 5,Celta de Vigo,Espanyol
+06/03/2004,1 - 1,Osasuna,Real Sociedad
+06/03/2004,1 - 1,Racing Santander,Real Madrid
+29/02/2004,2 - 3,Deportivo La Coruña,Barcelona
+29/02/2004,4 - 2,Real Madrid,Celta de Vigo
+29/02/2004,2 - 1,Espanyol,Valencia
+29/02/2004,1 - 0,Málaga,Racing Santander
+29/02/2004,0 - 1,Mallorca,Atlético Madrid
+29/02/2004,0 - 1,Real Murcia,Osasuna
+29/02/2004,0 - 1,Real Sociedad,Albacete
+29/02/2004,0 - 1,Villarreal,Athletic Club
+28/02/2004,1 - 1,Real Betis,Sevilla
+28/02/2004,1 - 2,Real Valladolid,Real Zaragoza
+22/02/2004,1 - 1,Athletic Club,Real Betis
+22/02/2004,1 - 0,Albacete,Real Murcia
+22/02/2004,1 - 1,Osasuna,Mallorca
+22/02/2004,1 - 0,Racing Santander,Real Valladolid
+22/02/2004,4 - 1,Real Zaragoza,Villarreal
+21/02/2004,0 - 2,Celta de Vigo,Málaga
+21/02/2004,1 - 0,Sevilla,Real Sociedad
+21/02/2004,0 - 1,Valencia,Barcelona
+21/02/2004,2 - 4,Espanyol,Real Madrid
+21/02/2004,0 - 0,Atlético Madrid,Deportivo La Coruña
+15/02/2004,1 - 1,Real Madrid,Valencia
+15/02/2004,3 - 1,Barcelona,Atlético Madrid
+15/02/2004,2 - 0,Deportivo La Coruña,Osasuna
+15/02/2004,5 - 2,Málaga,Espanyol
+15/02/2004,0 - 0,Mallorca,Albacete
+15/02/2004,2 - 1,Real Betis,Real Zaragoza
+15/02/2004,0 - 2,Real Valladolid,Celta de Vigo
+15/02/2004,6 - 3,Villarreal,Racing Santander
+14/02/2004,1 - 1,Real Sociedad,Athletic Club
+14/02/2004,1 - 3,Real Murcia,Sevilla
+08/02/2004,2 - 1,Real Zaragoza,Real Sociedad
+08/02/2004,1 - 2,Osasuna,Barcelona
+08/02/2004,0 - 2,Albacete,Deportivo La Coruña
+08/02/2004,2 - 1,Athletic Club,Real Murcia
+08/02/2004,2 - 1,Celta de Vigo,Villarreal
+08/02/2004,2 - 0,Espanyol,Real Valladolid
+08/02/2004,1 - 2,Racing Santander,Real Betis
+08/02/2004,3 - 0,Sevilla,Mallorca
+07/02/2004,2 - 1,Real Madrid,Málaga
+07/02/2004,3 - 0,Valencia,Atlético Madrid
+01/02/2004,1 - 0,Deportivo La Coruña,Sevilla
+01/02/2004,5 - 0,Barcelona,Albacete
+01/02/2004,1 - 3,Mallorca,Athletic Club
+01/02/2004,1 - 0,Real Murcia,Real Zaragoza
+01/02/2004,1 - 0,Real Sociedad,Racing Santander
+01/02/2004,2 - 3,Real Valladolid,Real Madrid
+01/02/2004,0 - 1,Villarreal,Espanyol
+31/01/2004,1 - 0,Real Betis,Celta de Vigo
+31/01/2004,1 - 1,Atlético Madrid,Osasuna
+31/01/2004,1 - 6,Málaga,Valencia
+25/01/2004,1 - 0,Athletic Club,Deportivo La Coruña
+25/01/2004,0 - 1,Sevilla,Barcelona
+25/01/2004,2 - 5,Celta de Vigo,Real Sociedad
+25/01/2004,1 - 2,Espanyol,Real Betis
+25/01/2004,2 - 3,Málaga,Real Valladolid
+25/01/2004,3 - 2,Racing Santander,Real Murcia
+25/01/2004,1 - 3,Real Zaragoza,Mallorca
+25/01/2004,0 - 1,Valencia,Osasuna
+24/01/2004,1 - 1,Albacete,Atlético Madrid
+24/01/2004,2 - 1,Real Madrid,Villarreal
+18/01/2004,1 - 1,Real Betis,Real Madrid
+18/01/2004,2 - 1,Atlético Madrid,Sevilla
+18/01/2004,4 - 1,Deportivo La Coruña,Real Zaragoza
+18/01/2004,1 - 1,Mallorca,Racing Santander
+18/01/2004,1 - 1,Osasuna,Albacete
+18/01/2004,3 - 1,Real Sociedad,Espanyol
+18/01/2004,2 - 0,Villarreal,Málaga
+17/01/2004,1 - 1,Barcelona,Athletic Club
+17/01/2004,2 - 2,Real Murcia,Celta de Vigo
+17/01/2004,0 - 0,Real Valladolid,Valencia
+11/01/2004,3 - 0,Atlético Madrid,Athletic Club
+11/01/2004,3 - 0,Barcelona,Real Zaragoza
+11/01/2004,1 - 1,Deportivo La Coruña,Racing Santander
+11/01/2004,1 - 1,Osasuna,Sevilla
+11/01/2004,3 - 0,Real Betis,Málaga
+11/01/2004,0 - 1,Real Murcia,Espanyol
+11/01/2004,3 - 1,Villarreal,Real Valladolid
+10/01/2004,1 - 0,Real Sociedad,Real Madrid
+10/01/2004,0 - 1,Albacete,Valencia
+10/01/2004,2 - 4,Mallorca,Celta de Vigo
+04/01/2004,4 - 2,Valencia,Villarreal
+04/01/2004,3 - 0,Racing Santander,Barcelona
+04/01/2004,1 - 1,Athletic Club,Osasuna
+04/01/2004,2 - 0,Espanyol,Mallorca
+04/01/2004,1 - 2,Málaga,Real Sociedad
+04/01/2004,0 - 0,Real Valladolid,Real Betis
+04/01/2004,2 - 0,Sevilla,Albacete
+03/01/2004,0 - 5,Celta de Vigo,Deportivo La Coruña
+03/01/2004,0 - 0,Real Zaragoza,Atlético Madrid
+03/01/2004,1 - 0,Real Madrid,Real Murcia
+21/12/2003,1 - 1,Barcelona,Celta de Vigo
+21/12/2003,1 - 3,Mallorca,Real Madrid
+21/12/2003,1 - 1,Albacete,Athletic Club
+21/12/2003,2 - 1,Deportivo La Coruña,Espanyol
+21/12/2003,0 - 1,Osasuna,Real Zaragoza
+21/12/2003,1 - 3,Real Betis,Villarreal
+21/12/2003,1 - 2,Real Murcia,Málaga
+20/12/2003,1 - 0,Valencia,Sevilla
+20/12/2003,2 - 2,Atlético Madrid,Racing Santander
+20/12/2003,1 - 3,Real Sociedad,Real Valladolid
+14/12/2003,2 - 1,Athletic Club,Sevilla
+14/12/2003,2 - 1,Real Madrid,Deportivo La Coruña
+14/12/2003,3 - 1,Málaga,Mallorca
+14/12/2003,0 - 0,Racing Santander,Osasuna
+14/12/2003,0 - 1,Real Betis,Valencia
+14/12/2003,0 - 0,Real Valladolid,Real Murcia
+14/12/2003,0 - 1,Real Zaragoza,Albacete
+13/12/2003,2 - 2,Celta de Vigo,Atlético Madrid
+13/12/2003,2 - 0,Villarreal,Real Sociedad
+13/12/2003,1 - 3,Espanyol,Barcelona
+07/12/2003,2 - 1,Valencia,Athletic Club
+07/12/2003,2 - 0,Atlético Madrid,Espanyol
+07/12/2003,4 - 0,Albacete,Racing Santander
+07/12/2003,1 - 0,Mallorca,Real Valladolid
+07/12/2003,1 - 1,Real Murcia,Villarreal
+07/12/2003,3 - 2,Sevilla,Real Zaragoza
+06/12/2003,1 - 2,Barcelona,Real Madrid
+06/12/2003,1 - 0,Deportivo La Coruña,Málaga
+06/12/2003,3 - 2,Osasuna,Celta de Vigo
+06/12/2003,0 - 4,Real Sociedad,Real Betis
+04/12/2003,0 - 4,Racing Santander,Sevilla
+04/12/2003,2 - 2,Real Zaragoza,Athletic Club
+03/12/2003,2 - 0,Real Madrid,Atlético Madrid
+03/12/2003,2 - 2,Celta de Vigo,Albacete
+03/12/2003,0 - 1,Espanyol,Osasuna
+03/12/2003,5 - 1,Málaga,Barcelona
+03/12/2003,1 - 1,Real Betis,Real Murcia
+03/12/2003,1 - 1,Real Valladolid,Deportivo La Coruña
+03/12/2003,0 - 2,Villarreal,Mallorca
+02/12/2003,0 - 0,Real Sociedad,Valencia
+30/11/2003,0 - 1,Deportivo La Coruña,Villarreal
+30/11/2003,0 - 0,Barcelona,Real Valladolid
+30/11/2003,2 - 1,Albacete,Espanyol
+30/11/2003,1 - 2,Athletic Club,Racing Santander
+30/11/2003,2 - 1,Mallorca,Real Betis
+30/11/2003,0 - 1,Sevilla,Celta de Vigo
+29/11/2003,2 - 0,Atlético Madrid,Málaga
+29/11/2003,3 - 2,Valencia,Real Zaragoza
+29/11/2003,1 - 1,Osasuna,Real Madrid
+29/11/2003,2 - 2,Real Murcia,Real Sociedad
+23/11/2003,2 - 2,Real Murcia,Valencia
+23/11/2003,2 - 1,Real Madrid,Albacete
+23/11/2003,0 - 2,Celta de Vigo,Athletic Club
+23/11/2003,1 - 0,Espanyol,Sevilla
+23/11/2003,0 - 0,Málaga,Osasuna
+23/11/2003,1 - 2,Racing Santander,Real Zaragoza
+23/11/2003,3 - 1,Real Valladolid,Atlético Madrid
+22/11/2003,2 - 1,Villarreal,Barcelona
+22/11/2003,0 - 0,Real Betis,Deportivo La Coruña
+22/11/2003,0 - 1,Real Sociedad,Mallorca
+09/11/2003,4 - 1,Sevilla,Real Madrid
+09/11/2003,2 - 1,Barcelona,Real Betis
+09/11/2003,0 - 1,Albacete,Málaga
+09/11/2003,1 - 0,Atlético Madrid,Villarreal
+09/11/2003,4 - 1,Mallorca,Real Murcia
+09/11/2003,1 - 1,Osasuna,Real Valladolid
+09/11/2003,1 - 2,Valencia,Racing Santander
+08/11/2003,2 - 1,Deportivo La Coruña,Real Sociedad
+08/11/2003,1 - 0,Athletic Club,Espanyol
+08/11/2003,1 - 1,Real Zaragoza,Celta de Vigo
+02/11/2003,0 - 5,Mallorca,Valencia
+02/11/2003,3 - 3,Real Sociedad,Barcelona
+02/11/2003,0 - 2,Espanyol,Real Zaragoza
+02/11/2003,2 - 0,Málaga,Sevilla
+02/11/2003,1 - 2,Real Betis,Atlético Madrid
+02/11/2003,2 - 0,Real Valladolid,Albacete
+02/11/2003,1 - 0,Villarreal,Osasuna
+01/11/2003,3 - 0,Real Madrid,Athletic Club
+01/11/2003,0 - 1,Celta de Vigo,Racing Santander
+01/11/2003,0 - 0,Real Murcia,Deportivo La Coruña
+30/10/2003,4 - 0,Atlético Madrid,Real Sociedad
+29/10/2003,2 - 0,Albacete,Villarreal
+29/10/2003,2 - 1,Athletic Club,Málaga
+29/10/2003,3 - 0,Barcelona,Real Murcia
+29/10/2003,0 - 2,Deportivo La Coruña,Mallorca
+29/10/2003,2 - 0,Osasuna,Real Betis
+29/10/2003,0 - 1,Racing Santander,Espanyol
+29/10/2003,1 - 1,Sevilla,Real Valladolid
+29/10/2003,2 - 2,Valencia,Celta de Vigo
+28/10/2003,0 - 0,Real Zaragoza,Real Madrid
+26/10/2003,1 - 3,Real Murcia,Atlético Madrid
+26/10/2003,1 - 3,Mallorca,Barcelona
+26/10/2003,0 - 4,Espanyol,Celta de Vigo
+26/10/2003,3 - 2,Real Betis,Albacete
+26/10/2003,1 - 0,Real Sociedad,Osasuna
+26/10/2003,2 - 0,Real Valladolid,Athletic Club
+26/10/2003,3 - 3,Villarreal,Sevilla
+25/10/2003,2 - 1,Deportivo La Coruña,Valencia
+25/10/2003,3 - 1,Real Madrid,Racing Santander
+25/10/2003,2 - 1,Málaga,Real Zaragoza
+19/10/2003,2 - 2,Sevilla,Real Betis
+19/10/2003,2 - 1,Atlético Madrid,Mallorca
+19/10/2003,2 - 1,Osasuna,Real Murcia
+19/10/2003,2 - 0,Athletic Club,Villarreal
+19/10/2003,4 - 2,Racing Santander,Málaga
+19/10/2003,1 - 0,Real Zaragoza,Real Valladolid
+19/10/2003,4 - 0,Valencia,Espanyol
+18/10/2003,3 - 1,Albacete,Real Sociedad
+18/10/2003,0 - 2,Barcelona,Deportivo La Coruña
+18/10/2003,0 - 2,Celta de Vigo,Real Madrid
+05/10/2003,0 - 1,Barcelona,Valencia
+05/10/2003,2 - 1,Real Madrid,Espanyol
+05/10/2003,2 - 1,Málaga,Celta de Vigo
+05/10/2003,1 - 1,Mallorca,Osasuna
+05/10/2003,1 - 0,Real Murcia,Albacete
+05/10/2003,1 - 1,Real Sociedad,Sevilla
+05/10/2003,0 - 4,Real Valladolid,Racing Santander
+04/10/2003,1 - 1,Real Betis,Athletic Club
+04/10/2003,5 - 1,Deportivo La Coruña,Atlético Madrid
+04/10/2003,1 - 1,Villarreal,Real Zaragoza
+28/09/2003,0 - 0,Atlético Madrid,Barcelona
+28/09/2003,1 - 0,Sevilla,Real Murcia
+28/09/2003,2 - 0,Albacete,Mallorca
+28/09/2003,1 - 2,Espanyol,Málaga
+28/09/2003,0 - 2,Racing Santander,Villarreal
+28/09/2003,0 - 1,Real Zaragoza,Real Betis
+27/09/2003,2 - 0,Valencia,Real Madrid
+27/09/2003,1 - 0,Athletic Club,Real Sociedad
+27/09/2003,3 - 2,Celta de Vigo,Real Valladolid
+27/09/2003,3 - 2,Osasuna,Deportivo La Coruña
+21/09/2003,1 - 3,Málaga,Real Madrid
+21/09/2003,2 - 2,Real Murcia,Athletic Club
+21/09/2003,0 - 0,Real Betis,Racing Santander
+21/09/2003,3 - 0,Real Sociedad,Real Zaragoza
+21/09/2003,3 - 0,Deportivo La Coruña,Albacete
+21/09/2003,1 - 1,Mallorca,Sevilla
+21/09/2003,3 - 1,Real Valladolid,Espanyol
+21/09/2003,1 - 1,Villarreal,Celta de Vigo
+20/09/2003,0 - 3,Atlético Madrid,Valencia
+20/09/2003,1 - 1,Barcelona,Osasuna
+14/09/2003,1 - 2,Albacete,Barcelona
+14/09/2003,4 - 0,Athletic Club,Mallorca
+14/09/2003,1 - 2,Espanyol,Villarreal
+14/09/2003,3 - 0,Real Zaragoza,Real Murcia
+14/09/2003,1 - 0,Valencia,Málaga
+14/09/2003,1 - 0,Osasuna,Atlético Madrid
+13/09/2003,0 - 2,Celta de Vigo,Real Betis
+13/09/2003,0 - 1,Racing Santander,Real Sociedad
+13/09/2003,1 - 2,Sevilla,Deportivo La Coruña
+13/09/2003,7 - 2,Real Madrid,Real Valladolid
+03/09/2003,1 - 0,Atlético Madrid,Albacete
+03/09/2003,2 - 0,Deportivo La Coruña,Athletic Club
+03/09/2003,2 - 0,Mallorca,Real Zaragoza
+03/09/2003,2 - 2,Real Betis,Espanyol
+03/09/2003,1 - 1,Real Murcia,Racing Santander
+03/09/2003,1 - 0,Real Valladolid,Málaga
+02/09/2003,1 - 1,Barcelona,Sevilla
+02/09/2003,1 - 1,Real Sociedad,Celta de Vigo
+02/09/2003,0 - 1,Osasuna,Valencia
+02/09/2003,1 - 1,Villarreal,Real Madrid
+31/08/2003,0 - 1,Real Zaragoza,Deportivo La Coruña
+31/08/2003,1 - 0,Sevilla,Atlético Madrid
+31/08/2003,1 - 1,Celta de Vigo,Real Murcia
+31/08/2003,2 - 1,Racing Santander,Mallorca
+30/08/2003,0 - 1,Athletic Club,Barcelona
+30/08/2003,1 - 1,Valencia,Real Valladolid
+30/08/2003,0 - 2,Albacete,Osasuna
+30/08/2003,0 - 0,Málaga,Villarreal
+30/08/2003,1 - 1,Espanyol,Real Sociedad
+30/08/2003,2 - 1,Real Madrid,Real Betis

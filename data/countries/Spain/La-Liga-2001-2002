@@ -1,0 +1,381 @@
+date,score,home_team,away_team
+11/05/2002,1 - 2,Espanyol,Málaga
+11/05/2002,2 - 1,Mallorca,Real Valladolid
+11/05/2002,0 - 1,Osasuna,Deportivo Alavés
+11/05/2002,1 - 0,Rayo Vallecano,Celta de Vigo
+11/05/2002,1 - 1,Real Sociedad,Las Palmas
+11/05/2002,1 - 1,Real Zaragoza,Barcelona
+11/05/2002,1 - 0,Sevilla,Villarreal
+11/05/2002,2 - 3,Tenerife,Athletic Club
+11/05/2002,2 - 0,Valencia,Real Betis
+10/05/2002,3 - 0,Deportivo La Coruña,Real Madrid
+05/05/2002,1 - 1,Athletic Club,Osasuna
+05/05/2002,2 - 0,Barcelona,Espanyol
+05/05/2002,1 - 2,Celta de Vigo,Sevilla
+05/05/2002,0 - 1,Deportivo Alavés,Rayo Vallecano
+05/05/2002,0 - 1,Las Palmas,Tenerife
+05/05/2002,0 - 2,Málaga,Valencia
+05/05/2002,0 - 3,Real Betis,Deportivo La Coruña
+05/05/2002,0 - 0,Real Madrid,Mallorca
+05/05/2002,1 - 3,Real Valladolid,Real Sociedad
+05/05/2002,2 - 1,Villarreal,Real Zaragoza
+28/04/2002,2 - 2,Deportivo La Coruña,Málaga
+28/04/2002,1 - 3,Mallorca,Real Betis
+28/04/2002,3 - 2,Osasuna,Las Palmas
+28/04/2002,4 - 2,Rayo Vallecano,Athletic Club
+28/04/2002,0 - 1,Real Zaragoza,Celta de Vigo
+28/04/2002,2 - 0,Sevilla,Deportivo Alavés
+28/04/2002,1 - 5,Tenerife,Real Valladolid
+27/04/2002,4 - 1,Barcelona,Villarreal
+27/04/2002,3 - 0,Real Sociedad,Real Madrid
+27/04/2002,2 - 1,Valencia,Espanyol
+21/04/2002,0 - 1,Athletic Club,Sevilla
+21/04/2002,2 - 1,Deportivo Alavés,Real Zaragoza
+21/04/2002,3 - 1,Espanyol,Villarreal
+21/04/2002,0 - 0,Málaga,Mallorca
+21/04/2002,3 - 0,Real Betis,Real Sociedad
+21/04/2002,1 - 0,Real Valladolid,Osasuna
+21/04/2002,1 - 0,Valencia,Deportivo La Coruña
+20/04/2002,2 - 1,Celta de Vigo,Barcelona
+20/04/2002,0 - 2,Las Palmas,Rayo Vallecano
+20/04/2002,4 - 1,Real Madrid,Tenerife
+14/04/2002,3 - 2,Barcelona,Deportivo Alavés
+14/04/2002,3 - 1,Deportivo La Coruña,Espanyol
+14/04/2002,3 - 1,Osasuna,Real Madrid
+14/04/2002,1 - 0,Rayo Vallecano,Real Valladolid
+14/04/2002,2 - 1,Real Sociedad,Málaga
+14/04/2002,2 - 2,Real Zaragoza,Athletic Club
+14/04/2002,1 - 1,Sevilla,Las Palmas
+14/04/2002,2 - 1,Tenerife,Real Betis
+14/04/2002,2 - 1,Villarreal,Celta de Vigo
+13/04/2002,1 - 1,Mallorca,Valencia
+07/04/2002,2 - 1,Deportivo Alavés,Villarreal
+07/04/2002,2 - 0,Espanyol,Celta de Vigo
+07/04/2002,2 - 0,Málaga,Tenerife
+07/04/2002,0 - 0,Real Betis,Osasuna
+07/04/2002,1 - 1,Real Valladolid,Sevilla
+07/04/2002,4 - 0,Valencia,Real Sociedad
+06/04/2002,0 - 2,Athletic Club,Barcelona
+06/04/2002,5 - 0,Deportivo La Coruña,Mallorca
+06/04/2002,1 - 1,Las Palmas,Real Zaragoza
+06/04/2002,3 - 1,Real Madrid,Rayo Vallecano
+31/03/2002,2 - 1,Mallorca,Espanyol
+31/03/2002,0 - 2,Osasuna,Málaga
+31/03/2002,0 - 0,Rayo Vallecano,Real Betis
+31/03/2002,0 - 0,Real Zaragoza,Real Valladolid
+31/03/2002,5 - 2,Villarreal,Athletic Club
+30/03/2002,1 - 1,Barcelona,Las Palmas
+30/03/2002,3 - 1,Celta de Vigo,Deportivo Alavés
+30/03/2002,1 - 1,Real Sociedad,Deportivo La Coruña
+30/03/2002,0 - 1,Sevilla,Real Madrid
+30/03/2002,0 - 1,Tenerife,Valencia
+24/03/2002,1 - 6,Athletic Club,Celta de Vigo
+24/03/2002,3 - 1,Deportivo La Coruña,Tenerife
+24/03/2002,1 - 2,Espanyol,Deportivo Alavés
+24/03/2002,0 - 2,Mallorca,Real Sociedad
+24/03/2002,3 - 1,Real Madrid,Real Zaragoza
+24/03/2002,1 - 2,Real Valladolid,Barcelona
+24/03/2002,2 - 1,Valencia,Osasuna
+23/03/2002,3 - 2,Las Palmas,Villarreal
+23/03/2002,0 - 0,Málaga,Rayo Vallecano
+23/03/2002,0 - 0,Real Betis,Sevilla
+17/03/2002,3 - 2,Celta de Vigo,Las Palmas
+17/03/2002,2 - 3,Deportivo Alavés,Athletic Club
+17/03/2002,2 - 1,Rayo Vallecano,Valencia
+17/03/2002,1 - 0,Real Sociedad,Espanyol
+17/03/2002,1 - 1,Real Zaragoza,Real Betis
+17/03/2002,0 - 2,Sevilla,Málaga
+17/03/2002,0 - 0,Tenerife,Mallorca
+17/03/2002,2 - 2,Villarreal,Real Valladolid
+16/03/2002,1 - 1,Barcelona,Real Madrid
+16/03/2002,1 - 3,Osasuna,Deportivo La Coruña
+10/03/2002,2 - 0,Espanyol,Athletic Club
+10/03/2002,2 - 1,Málaga,Real Zaragoza
+10/03/2002,4 - 2,Mallorca,Osasuna
+10/03/2002,0 - 2,Real Sociedad,Tenerife
+10/03/2002,2 - 4,Real Valladolid,Celta de Vigo
+10/03/2002,2 - 0,Valencia,Sevilla
+09/03/2002,1 - 1,Deportivo La Coruña,Rayo Vallecano
+09/03/2002,2 - 1,Las Palmas,Deportivo Alavés
+09/03/2002,2 - 1,Real Betis,Barcelona
+09/03/2002,3 - 0,Real Madrid,Villarreal
+03/03/2002,3 - 1,Athletic Club,Las Palmas
+03/03/2002,5 - 1,Barcelona,Málaga
+03/03/2002,3 - 1,Deportivo Alavés,Real Valladolid
+03/03/2002,1 - 1,Osasuna,Real Sociedad
+03/03/2002,0 - 2,Rayo Vallecano,Mallorca
+03/03/2002,0 - 1,Real Zaragoza,Valencia
+03/03/2002,1 - 1,Tenerife,Espanyol
+02/03/2002,0 - 1,Celta de Vigo,Real Madrid
+02/03/2002,0 - 1,Sevilla,Deportivo La Coruña
+02/03/2002,1 - 1,Villarreal,Real Betis
+24/02/2002,3 - 1,Espanyol,Las Palmas
+24/02/2002,2 - 1,Málaga,Villarreal
+24/02/2002,0 - 4,Mallorca,Sevilla
+24/02/2002,4 - 1,Real Betis,Celta de Vigo
+24/02/2002,2 - 2,Real Sociedad,Rayo Vallecano
+24/02/2002,2 - 0,Real Valladolid,Athletic Club
+24/02/2002,3 - 1,Tenerife,Osasuna
+23/02/2002,1 - 0,Deportivo La Coruña,Real Zaragoza
+23/02/2002,3 - 1,Real Madrid,Deportivo Alavés
+23/02/2002,2 - 0,Valencia,Barcelona
+17/02/2002,0 - 0,Celta de Vigo,Málaga
+17/02/2002,0 - 1,Deportivo Alavés,Real Betis
+17/02/2002,1 - 1,Las Palmas,Real Valladolid
+17/02/2002,1 - 1,Osasuna,Espanyol
+17/02/2002,2 - 0,Rayo Vallecano,Tenerife
+17/02/2002,1 - 0,Real Zaragoza,Mallorca
+17/02/2002,0 - 1,Sevilla,Real Sociedad
+16/02/2002,2 - 1,Athletic Club,Real Madrid
+16/02/2002,3 - 2,Barcelona,Deportivo La Coruña
+16/02/2002,1 - 1,Villarreal,Valencia
+10/02/2002,0 - 0,Deportivo La Coruña,Villarreal
+10/02/2002,1 - 0,Espanyol,Real Valladolid
+10/02/2002,1 - 0,Málaga,Deportivo Alavés
+10/02/2002,1 - 0,Osasuna,Rayo Vallecano
+10/02/2002,1 - 1,Real Betis,Athletic Club
+10/02/2002,7 - 0,Real Madrid,Las Palmas
+10/02/2002,3 - 1,Real Sociedad,Real Zaragoza
+10/02/2002,1 - 1,Tenerife,Sevilla
+09/02/2002,0 - 0,Mallorca,Barcelona
+09/02/2002,0 - 0,Valencia,Celta de Vigo
+06/02/2002,3 - 2,Athletic Club,Málaga
+06/02/2002,2 - 0,Barcelona,Real Sociedad
+06/02/2002,1 - 2,Deportivo Alavés,Valencia
+06/02/2002,0 - 0,Las Palmas,Real Betis
+06/02/2002,2 - 2,Rayo Vallecano,Espanyol
+06/02/2002,2 - 1,Real Valladolid,Real Madrid
+06/02/2002,1 - 1,Real Zaragoza,Tenerife
+06/02/2002,0 - 0,Sevilla,Osasuna
+06/02/2002,2 - 1,Villarreal,Mallorca
+05/02/2002,0 - 2,Celta de Vigo,Deportivo La Coruña
+03/02/2002,2 - 1,Espanyol,Real Madrid
+03/02/2002,1 - 1,Málaga,Las Palmas
+03/02/2002,0 - 0,Osasuna,Real Zaragoza
+03/02/2002,2 - 0,Real Betis,Real Valladolid
+03/02/2002,2 - 1,Valencia,Athletic Club
+02/02/2002,0 - 1,Deportivo La Coruña,Deportivo Alavés
+02/02/2002,0 - 1,Mallorca,Celta de Vigo
+02/02/2002,2 - 1,Rayo Vallecano,Sevilla
+02/02/2002,2 - 1,Real Sociedad,Villarreal
+02/02/2002,0 - 6,Tenerife,Barcelona
+27/01/2002,1 - 1,Athletic Club,Deportivo La Coruña
+27/01/2002,0 - 1,Barcelona,Osasuna
+27/01/2002,0 - 4,Deportivo Alavés,Mallorca
+27/01/2002,1 - 1,Real Madrid,Real Betis
+27/01/2002,0 - 0,Real Valladolid,Málaga
+27/01/2002,3 - 2,Real Zaragoza,Rayo Vallecano
+27/01/2002,3 - 0,Sevilla,Espanyol
+27/01/2002,2 - 1,Villarreal,Tenerife
+26/01/2002,3 - 1,Celta de Vigo,Real Sociedad
+26/01/2002,0 - 1,Las Palmas,Valencia
+23/01/2002,2 - 0,Rayo Vallecano,Deportivo Alavés
+20/01/2002,1 - 0,Deportivo La Coruña,Las Palmas
+20/01/2002,1 - 1,Espanyol,Real Betis
+20/01/2002,3 - 0,Mallorca,Athletic Club
+20/01/2002,2 - 2,Osasuna,Villarreal
+20/01/2002,2 - 1,Rayo Vallecano,Barcelona
+20/01/2002,4 - 2,Sevilla,Real Zaragoza
+20/01/2002,1 - 1,Tenerife,Celta de Vigo
+20/01/2002,1 - 2,Valencia,Real Valladolid
+19/01/2002,1 - 1,Málaga,Real Madrid
+19/01/2002,1 - 2,Real Sociedad,Deportivo Alavés
+13/01/2002,3 - 1,Barcelona,Sevilla
+13/01/2002,1 - 1,Celta de Vigo,Osasuna
+13/01/2002,1 - 0,Deportivo Alavés,Tenerife
+13/01/2002,3 - 1,Las Palmas,Mallorca
+13/01/2002,1 - 1,Real Betis,Málaga
+13/01/2002,1 - 0,Real Madrid,Valencia
+13/01/2002,3 - 0,Real Valladolid,Deportivo La Coruña
+13/01/2002,0 - 0,Real Zaragoza,Espanyol
+12/01/2002,2 - 1,Athletic Club,Real Sociedad
+12/01/2002,1 - 1,Villarreal,Rayo Vallecano
+06/01/2002,1 - 2,Athletic Club,Tenerife
+06/01/2002,2 - 0,Barcelona,Real Zaragoza
+06/01/2002,0 - 2,Deportivo Alavés,Osasuna
+06/01/2002,2 - 0,Málaga,Espanyol
+06/01/2002,1 - 3,Real Betis,Valencia
+06/01/2002,2 - 1,Real Valladolid,Mallorca
+05/01/2002,2 - 2,Celta de Vigo,Rayo Vallecano
+05/01/2002,0 - 0,Las Palmas,Real Sociedad
+05/01/2002,3 - 1,Real Madrid,Deportivo La Coruña
+05/01/2002,0 - 2,Villarreal,Sevilla
+23/12/2001,1 - 1,Mallorca,Real Madrid
+23/12/2001,0 - 1,Osasuna,Athletic Club
+23/12/2001,3 - 2,Real Zaragoza,Villarreal
+22/12/2001,2 - 0,Deportivo La Coruña,Real Betis
+22/12/2001,2 - 0,Espanyol,Barcelona
+22/12/2001,6 - 0,Real Sociedad,Real Valladolid
+22/12/2001,0 - 1,Sevilla,Celta de Vigo
+22/12/2001,1 - 3,Tenerife,Las Palmas
+22/12/2001,2 - 1,Valencia,Málaga
+16/12/2001,1 - 1,Athletic Club,Rayo Vallecano
+16/12/2001,2 - 0,Celta de Vigo,Real Zaragoza
+16/12/2001,0 - 1,Deportivo Alavés,Sevilla
+16/12/2001,1 - 1,Málaga,Deportivo La Coruña
+16/12/2001,1 - 0,Real Betis,Mallorca
+16/12/2001,0 - 0,Real Valladolid,Tenerife
+16/12/2001,0 - 1,Villarreal,Barcelona
+15/12/2001,2 - 3,Espanyol,Valencia
+15/12/2001,1 - 1,Las Palmas,Osasuna
+15/12/2001,3 - 1,Real Madrid,Real Sociedad
+09/12/2001,2 - 2,Barcelona,Celta de Vigo
+09/12/2001,1 - 0,Deportivo La Coruña,Valencia
+09/12/2001,1 - 1,Mallorca,Málaga
+09/12/2001,1 - 0,Osasuna,Real Valladolid
+09/12/2001,0 - 0,Rayo Vallecano,Las Palmas
+09/12/2001,0 - 0,Real Sociedad,Real Betis
+09/12/2001,0 - 2,Real Zaragoza,Deportivo Alavés
+09/12/2001,1 - 1,Villarreal,Espanyol
+08/12/2001,3 - 3,Sevilla,Athletic Club
+08/12/2001,0 - 2,Tenerife,Real Madrid
+02/12/2001,2 - 1,Athletic Club,Real Zaragoza
+02/12/2001,3 - 1,Celta de Vigo,Villarreal
+02/12/2001,1 - 0,Las Palmas,Sevilla
+02/12/2001,1 - 0,Málaga,Real Sociedad
+02/12/2001,1 - 0,Real Betis,Tenerife
+02/12/2001,3 - 1,Real Valladolid,Rayo Vallecano
+01/12/2001,2 - 0,Deportivo Alavés,Barcelona
+01/12/2001,1 - 0,Espanyol,Deportivo La Coruña
+01/12/2001,2 - 1,Real Madrid,Osasuna
+01/12/2001,1 - 1,Valencia,Mallorca
+25/11/2001,4 - 1,Celta de Vigo,Espanyol
+25/11/2001,4 - 1,Mallorca,Deportivo La Coruña
+25/11/2001,1 - 2,Osasuna,Real Betis
+25/11/2001,0 - 3,Rayo Vallecano,Real Madrid
+25/11/2001,2 - 0,Real Sociedad,Valencia
+25/11/2001,2 - 1,Real Zaragoza,Las Palmas
+25/11/2001,4 - 0,Sevilla,Real Valladolid
+25/11/2001,1 - 0,Tenerife,Málaga
+25/11/2001,1 - 0,Villarreal,Deportivo Alavés
+24/11/2001,1 - 2,Barcelona,Athletic Club
+18/11/2001,0 - 0,Athletic Club,Villarreal
+18/11/2001,1 - 0,Deportivo Alavés,Celta de Vigo
+18/11/2001,2 - 1,Espanyol,Mallorca
+18/11/2001,2 - 1,Málaga,Osasuna
+18/11/2001,2 - 0,Real Betis,Rayo Vallecano
+18/11/2001,2 - 0,Real Valladolid,Real Zaragoza
+18/11/2001,0 - 0,Valencia,Tenerife
+17/11/2001,3 - 1,Deportivo La Coruña,Real Sociedad
+17/11/2001,0 - 0,Las Palmas,Barcelona
+17/11/2001,2 - 1,Real Madrid,Sevilla
+11/11/2001,4 - 0,Barcelona,Real Valladolid
+11/11/2001,2 - 3,Celta de Vigo,Athletic Club
+11/11/2001,2 - 1,Deportivo Alavés,Espanyol
+11/11/2001,0 - 0,Osasuna,Valencia
+11/11/2001,3 - 0,Rayo Vallecano,Málaga
+11/11/2001,1 - 2,Real Sociedad,Mallorca
+11/11/2001,2 - 1,Real Zaragoza,Real Madrid
+11/11/2001,3 - 1,Tenerife,Deportivo La Coruña
+11/11/2001,2 - 0,Villarreal,Las Palmas
+10/11/2001,0 - 0,Sevilla,Real Betis
+04/11/2001,5 - 1,Deportivo La Coruña,Osasuna
+04/11/2001,1 - 2,Espanyol,Real Sociedad
+04/11/2001,4 - 2,Las Palmas,Celta de Vigo
+04/11/2001,1 - 3,Málaga,Sevilla
+04/11/2001,2 - 0,Mallorca,Tenerife
+04/11/2001,0 - 1,Real Betis,Real Zaragoza
+04/11/2001,2 - 0,Real Madrid,Barcelona
+04/11/2001,1 - 0,Real Valladolid,Villarreal
+04/11/2001,2 - 1,Valencia,Rayo Vallecano
+03/11/2001,2 - 1,Athletic Club,Deportivo Alavés
+28/10/2001,1 - 1,Athletic Club,Espanyol
+28/10/2001,1 - 1,Celta de Vigo,Real Valladolid
+28/10/2001,1 - 0,Deportivo Alavés,Las Palmas
+28/10/2001,0 - 2,Real Zaragoza,Málaga
+28/10/2001,1 - 1,Sevilla,Valencia
+27/10/2001,3 - 0,Barcelona,Real Betis
+27/10/2001,4 - 0,Osasuna,Mallorca
+27/10/2001,2 - 1,Rayo Vallecano,Deportivo La Coruña
+27/10/2001,0 - 1,Tenerife,Real Sociedad
+27/10/2001,2 - 3,Villarreal,Real Madrid
+21/10/2001,2 - 0,Espanyol,Tenerife
+21/10/2001,3 - 0,Mallorca,Rayo Vallecano
+21/10/2001,1 - 1,Real Madrid,Celta de Vigo
+21/10/2001,1 - 3,Real Valladolid,Deportivo Alavés
+21/10/2001,2 - 0,Valencia,Real Zaragoza
+20/10/2001,1 - 0,Deportivo La Coruña,Sevilla
+20/10/2001,1 - 1,Las Palmas,Athletic Club
+20/10/2001,1 - 1,Málaga,Barcelona
+20/10/2001,1 - 1,Real Betis,Villarreal
+20/10/2001,2 - 1,Real Sociedad,Osasuna
+14/10/2001,1 - 4,Athletic Club,Real Valladolid
+14/10/2001,2 - 2,Barcelona,Valencia
+14/10/2001,3 - 1,Celta de Vigo,Real Betis
+14/10/2001,2 - 0,Las Palmas,Espanyol
+14/10/2001,0 - 2,Osasuna,Tenerife
+14/10/2001,2 - 1,Rayo Vallecano,Real Sociedad
+14/10/2001,1 - 2,Villarreal,Málaga
+13/10/2001,0 - 0,Deportivo Alavés,Real Madrid
+13/10/2001,1 - 2,Real Zaragoza,Deportivo La Coruña
+13/10/2001,2 - 2,Sevilla,Mallorca
+07/10/2001,1 - 1,Espanyol,Osasuna
+07/10/2001,2 - 2,Málaga,Celta de Vigo
+07/10/2001,0 - 1,Mallorca,Real Zaragoza
+07/10/2001,1 - 0,Real Betis,Deportivo Alavés
+07/10/2001,3 - 3,Real Sociedad,Sevilla
+07/10/2001,1 - 0,Real Valladolid,Las Palmas
+07/10/2001,3 - 1,Tenerife,Rayo Vallecano
+07/10/2001,1 - 0,Valencia,Villarreal
+06/10/2001,2 - 1,Deportivo La Coruña,Barcelona
+06/10/2001,2 - 0,Real Madrid,Athletic Club
+04/10/2001,1 - 1,Celta de Vigo,Valencia
+03/10/2001,0 - 0,Athletic Club,Real Betis
+03/10/2001,3 - 0,Barcelona,Mallorca
+03/10/2001,1 - 0,Deportivo Alavés,Málaga
+03/10/2001,4 - 2,Las Palmas,Real Madrid
+03/10/2001,0 - 1,Rayo Vallecano,Osasuna
+03/10/2001,0 - 1,Real Valladolid,Espanyol
+03/10/2001,3 - 2,Real Zaragoza,Real Sociedad
+03/10/2001,2 - 0,Sevilla,Tenerife
+03/10/2001,1 - 1,Villarreal,Deportivo La Coruña
+30/09/2001,2 - 2,Deportivo La Coruña,Celta de Vigo
+30/09/2001,0 - 1,Mallorca,Villarreal
+30/09/2001,1 - 0,Osasuna,Sevilla
+30/09/2001,1 - 0,Real Betis,Las Palmas
+30/09/2001,0 - 0,Tenerife,Real Zaragoza
+30/09/2001,0 - 0,Valencia,Deportivo Alavés
+29/09/2001,3 - 1,Espanyol,Rayo Vallecano
+29/09/2001,1 - 2,Málaga,Athletic Club
+29/09/2001,2 - 2,Real Madrid,Real Valladolid
+29/09/2001,0 - 2,Real Sociedad,Barcelona
+23/09/2001,2 - 2,Athletic Club,Valencia
+23/09/2001,2 - 0,Celta de Vigo,Mallorca
+23/09/2001,0 - 2,Real Valladolid,Real Betis
+23/09/2001,0 - 1,Real Zaragoza,Osasuna
+23/09/2001,2 - 1,Sevilla,Rayo Vallecano
+22/09/2001,2 - 0,Barcelona,Tenerife
+22/09/2001,2 - 3,Deportivo Alavés,Deportivo La Coruña
+22/09/2001,0 - 0,Las Palmas,Málaga
+22/09/2001,5 - 1,Real Madrid,Espanyol
+22/09/2001,1 - 0,Villarreal,Real Sociedad
+16/09/2001,2 - 3,Espanyol,Sevilla
+16/09/2001,1 - 2,Málaga,Real Valladolid
+16/09/2001,1 - 2,Rayo Vallecano,Real Zaragoza
+16/09/2001,0 - 0,Real Sociedad,Celta de Vigo
+16/09/2001,2 - 0,Tenerife,Villarreal
+16/09/2001,1 - 0,Valencia,Las Palmas
+15/09/2001,1 - 2,Deportivo La Coruña,Athletic Club
+15/09/2001,0 - 0,Mallorca,Deportivo Alavés
+15/09/2001,0 - 0,Osasuna,Barcelona
+15/09/2001,3 - 1,Real Betis,Real Madrid
+09/09/2001,1 - 1,Barcelona,Rayo Vallecano
+09/09/2001,3 - 0,Celta de Vigo,Tenerife
+09/09/2001,2 - 0,Deportivo Alavés,Real Sociedad
+09/09/2001,2 - 0,Real Betis,Espanyol
+09/09/2001,1 - 1,Real Valladolid,Valencia
+09/09/2001,1 - 1,Real Zaragoza,Sevilla
+08/09/2001,0 - 1,Athletic Club,Mallorca
+08/09/2001,0 - 1,Las Palmas,Deportivo La Coruña
+08/09/2001,1 - 1,Real Madrid,Málaga
+08/09/2001,3 - 0,Villarreal,Osasuna
+26/08/2001,4 - 0,Deportivo La Coruña,Real Valladolid
+26/08/2001,2 - 1,Espanyol,Real Zaragoza
+26/08/2001,3 - 2,Málaga,Real Betis
+26/08/2001,0 - 3,Mallorca,Las Palmas
+26/08/2001,0 - 3,Osasuna,Celta de Vigo
+26/08/2001,1 - 2,Rayo Vallecano,Villarreal
+26/08/2001,1 - 3,Real Sociedad,Athletic Club
+26/08/2001,1 - 2,Sevilla,Barcelona
+26/08/2001,0 - 2,Tenerife,Deportivo Alavés
+25/08/2001,1 - 0,Valencia,Real Madrid

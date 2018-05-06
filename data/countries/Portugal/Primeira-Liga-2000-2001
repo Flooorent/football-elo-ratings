@@ -1,0 +1,307 @@
+date,score,home_team,away_team
+27/05/2001,2 - 1,Alverca,Campomaiorense
+27/05/2001,3 - 3,Beira-Mar,Estrela Amadora
+27/05/2001,4 - 4,Desportivo Aves,Benfica
+27/05/2001,3 - 1,Gil Vicente,Paços de Ferreira
+27/05/2001,4 - 0,Porto,Boavista
+27/05/2001,2 - 0,Salgueiros,Belenenses
+27/05/2001,3 - 5,Sporting Braga,União de Leiria
+27/05/2001,1 - 0,Sporting CP,Marítimo
+27/05/2001,1 - 0,Vitória Guimarães,Farense
+21/05/2001,2 - 3,Estrela Amadora,Porto
+20/05/2001,1 - 3,Belenenses,Gil Vicente
+20/05/2001,1 - 1,Benfica,Salgueiros
+20/05/2001,1 - 0,Campomaiorense,Sporting CP
+20/05/2001,1 - 0,Farense,Sporting Braga
+20/05/2001,2 - 2,Paços de Ferreira,Alverca
+20/05/2001,1 - 0,União de Leiria,Beira-Mar
+19/05/2001,1 - 0,Marítimo,Vitória Guimarães
+18/05/2001,3 - 0,Boavista,Desportivo Aves
+13/05/2001,0 - 3,Alverca,Belenenses
+13/05/2001,3 - 0,Beira-Mar,Sporting Braga
+13/05/2001,3 - 2,Desportivo Aves,Estrela Amadora
+13/05/2001,1 - 2,Farense,Marítimo
+13/05/2001,3 - 0,Gil Vicente,Benfica
+13/05/2001,1 - 5,Salgueiros,Boavista
+13/05/2001,3 - 0,Vitória Guimarães,Campomaiorense
+12/05/2001,3 - 0,Porto,União de Leiria
+11/05/2001,1 - 3,Sporting CP,Paços de Ferreira
+06/05/2001,0 - 3,Beira-Mar,Porto
+06/05/2001,1 - 1,Belenenses,Sporting CP
+06/05/2001,1 - 0,Campomaiorense,Farense
+06/05/2001,1 - 0,Estrela Amadora,Salgueiros
+06/05/2001,0 - 1,Paços de Ferreira,Vitória Guimarães
+06/05/2001,1 - 1,União de Leiria,Desportivo Aves
+05/05/2001,2 - 0,Boavista,Gil Vicente
+04/05/2001,0 - 2,Benfica,Alverca
+04/05/2001,2 - 1,Sporting Braga,Marítimo
+29/04/2001,2 - 3,Desportivo Aves,Beira-Mar
+29/04/2001,2 - 4,Farense,Paços de Ferreira
+29/04/2001,0 - 0,Gil Vicente,Estrela Amadora
+29/04/2001,3 - 0,Marítimo,Campomaiorense
+29/04/2001,3 - 2,Porto,Sporting Braga
+29/04/2001,1 - 4,Salgueiros,União de Leiria
+29/04/2001,3 - 0,Sporting CP,Benfica
+28/04/2001,1 - 2,Alverca,Boavista
+28/04/2001,1 - 1,Vitória Guimarães,Belenenses
+23/04/2001,4 - 2,Belenenses,Farense
+22/04/2001,3 - 2,Beira-Mar,Salgueiros
+22/04/2001,1 - 0,Benfica,Vitória Guimarães
+22/04/2001,1 - 2,Estrela Amadora,Alverca
+22/04/2001,2 - 1,Paços de Ferreira,Marítimo
+22/04/2001,4 - 0,Porto,Desportivo Aves
+22/04/2001,1 - 0,União de Leiria,Gil Vicente
+21/04/2001,1 - 0,Boavista,Sporting CP
+20/04/2001,4 - 0,Sporting Braga,Campomaiorense
+18/04/2001,0 - 1,Marítimo,Porto
+15/04/2001,1 - 2,Vitória Guimarães,Boavista
+14/04/2001,0 - 1,Alverca,União de Leiria
+14/04/2001,2 - 1,Campomaiorense,Paços de Ferreira
+14/04/2001,2 - 1,Desportivo Aves,Sporting Braga
+14/04/2001,3 - 0,Gil Vicente,Beira-Mar
+14/04/2001,1 - 2,Marítimo,Belenenses
+14/04/2001,0 - 1,Salgueiros,Porto
+14/04/2001,1 - 0,Sporting CP,Estrela Amadora
+13/04/2001,2 - 2,Farense,Benfica
+09/04/2001,2 - 0,Porto,Gil Vicente
+08/04/2001,0 - 0,Beira-Mar,Alverca
+08/04/2001,1 - 1,Belenenses,Campomaiorense
+08/04/2001,3 - 0,Benfica,Marítimo
+08/04/2001,1 - 0,Boavista,Farense
+08/04/2001,0 - 3,Desportivo Aves,Salgueiros
+08/04/2001,0 - 2,Estrela Amadora,Vitória Guimarães
+07/04/2001,2 - 0,União de Leiria,Sporting CP
+06/04/2001,2 - 2,Sporting Braga,Paços de Ferreira
+02/04/2001,2 - 1,Sporting CP,Beira-Mar
+01/04/2001,1 - 3,Alverca,Porto
+01/04/2001,2 - 0,Farense,Estrela Amadora
+01/04/2001,1 - 0,Gil Vicente,Desportivo Aves
+01/04/2001,2 - 2,Paços de Ferreira,Belenenses
+01/04/2001,0 - 1,Vitória Guimarães,União de Leiria
+31/03/2001,1 - 1,Campomaiorense,Benfica
+31/03/2001,1 - 1,Marítimo,Boavista
+31/03/2001,3 - 4,Salgueiros,Sporting Braga
+19/03/2001,2 - 2,Porto,Sporting CP
+18/03/2001,3 - 2,Beira-Mar,Vitória Guimarães
+18/03/2001,2 - 3,Benfica,Paços de Ferreira
+18/03/2001,0 - 0,Desportivo Aves,Alverca
+18/03/2001,0 - 1,Salgueiros,Gil Vicente
+18/03/2001,2 - 0,União de Leiria,Farense
+17/03/2001,0 - 1,Estrela Amadora,Marítimo
+17/03/2001,2 - 0,Sporting Braga,Belenenses
+16/03/2001,3 - 1,Boavista,Campomaiorense
+12/03/2001,2 - 2,Vitória Guimarães,Porto
+11/03/2001,0 - 3,Alverca,Salgueiros
+11/03/2001,4 - 1,Campomaiorense,Estrela Amadora
+11/03/2001,1 - 2,Farense,Beira-Mar
+11/03/2001,1 - 1,Gil Vicente,Sporting Braga
+11/03/2001,2 - 1,Marítimo,União de Leiria
+11/03/2001,2 - 0,Sporting CP,Desportivo Aves
+10/03/2001,1 - 0,Belenenses,Benfica
+09/03/2001,0 - 2,Paços de Ferreira,Boavista
+04/03/2001,2 - 0,Beira-Mar,Marítimo
+04/03/2001,0 - 3,Desportivo Aves,Vitória Guimarães
+04/03/2001,1 - 1,Estrela Amadora,Paços de Ferreira
+04/03/2001,1 - 2,Gil Vicente,Alverca
+04/03/2001,2 - 0,Porto,Farense
+04/03/2001,3 - 1,Sporting Braga,Benfica
+04/03/2001,4 - 1,União de Leiria,Campomaiorense
+03/03/2001,2 - 5,Salgueiros,Sporting CP
+02/03/2001,2 - 0,Boavista,Belenenses
+26/02/2001,1 - 2,Vitória Guimarães,Salgueiros
+25/02/2001,4 - 1,Alverca,Sporting Braga
+25/02/2001,0 - 0,Benfica,Boavista
+25/02/2001,0 - 2,Campomaiorense,Beira-Mar
+25/02/2001,1 - 0,Farense,Desportivo Aves
+25/02/2001,0 - 0,Paços de Ferreira,União de Leiria
+24/02/2001,3 - 1,Sporting CP,Gil Vicente
+23/02/2001,0 - 3,Belenenses,Estrela Amadora
+18/02/2001,1 - 0,Beira-Mar,Paços de Ferreira
+18/02/2001,1 - 1,Desportivo Aves,Marítimo
+18/02/2001,4 - 1,Gil Vicente,Vitória Guimarães
+18/02/2001,3 - 1,Porto,Campomaiorense
+18/02/2001,0 - 0,Salgueiros,Farense
+18/02/2001,1 - 1,União de Leiria,Belenenses
+17/02/2001,3 - 1,Alverca,Sporting CP
+17/02/2001,1 - 0,Sporting Braga,Boavista
+16/02/2001,1 - 2,Estrela Amadora,Benfica
+05/02/2001,1 - 0,Paços de Ferreira,Porto
+04/02/2001,0 - 1,Belenenses,Beira-Mar
+04/02/2001,3 - 2,Benfica,União de Leiria
+04/02/2001,0 - 0,Campomaiorense,Desportivo Aves
+04/02/2001,1 - 1,Farense,Gil Vicente
+04/02/2001,0 - 1,Marítimo,Salgueiros
+04/02/2001,1 - 2,Sporting CP,Sporting Braga
+03/02/2001,2 - 2,Vitória Guimarães,Alverca
+02/02/2001,1 - 0,Boavista,Estrela Amadora
+28/01/2001,0 - 1,Alverca,Farense
+28/01/2001,1 - 3,Beira-Mar,Benfica
+28/01/2001,1 - 1,Desportivo Aves,Paços de Ferreira
+28/01/2001,2 - 0,Gil Vicente,Marítimo
+28/01/2001,0 - 0,Salgueiros,Campomaiorense
+28/01/2001,0 - 0,União de Leiria,Boavista
+27/01/2001,0 - 0,Porto,Belenenses
+27/01/2001,3 - 1,Sporting CP,Vitória Guimarães
+26/01/2001,1 - 1,Sporting Braga,Estrela Amadora
+22/01/2001,2 - 1,Marítimo,Alverca
+21/01/2001,5 - 0,Belenenses,Desportivo Aves
+21/01/2001,2 - 1,Benfica,Porto
+21/01/2001,1 - 0,Campomaiorense,Gil Vicente
+21/01/2001,2 - 1,Farense,Sporting CP
+21/01/2001,1 - 1,Paços de Ferreira,Salgueiros
+20/01/2001,1 - 0,Boavista,Beira-Mar
+20/01/2001,0 - 0,Vitória Guimarães,Sporting Braga
+19/01/2001,1 - 2,Estrela Amadora,União de Leiria
+13/01/2001,5 - 1,Benfica,Desportivo Aves
+13/01/2001,1 - 0,Boavista,Porto
+13/01/2001,0 - 4,Campomaiorense,Alverca
+13/01/2001,1 - 1,Estrela Amadora,Beira-Mar
+13/01/2001,1 - 1,Farense,Vitória Guimarães
+13/01/2001,2 - 0,Paços de Ferreira,Gil Vicente
+13/01/2001,0 - 0,União de Leiria,Sporting Braga
+12/01/2001,0 - 2,Marítimo,Sporting CP
+11/01/2001,2 - 0,Belenenses,Salgueiros
+08/01/2001,1 - 1,Vitória Guimarães,Marítimo
+07/01/2001,3 - 1,Beira-Mar,União de Leiria
+07/01/2001,1 - 2,Desportivo Aves,Boavista
+07/01/2001,2 - 1,Gil Vicente,Belenenses
+07/01/2001,1 - 2,Salgueiros,Benfica
+07/01/2001,3 - 0,Sporting Braga,Farense
+06/01/2001,2 - 0,Alverca,Paços de Ferreira
+06/01/2001,2 - 1,Porto,Estrela Amadora
+06/01/2001,2 - 1,Sporting CP,Campomaiorense
+17/12/2000,0 - 0,Benfica,Gil Vicente
+17/12/2000,5 - 0,Boavista,Salgueiros
+17/12/2000,0 - 0,Estrela Amadora,Desportivo Aves
+17/12/2000,1 - 1,Marítimo,Farense
+17/12/2000,0 - 0,Paços de Ferreira,Sporting CP
+17/12/2000,3 - 3,Sporting Braga,Beira-Mar
+16/12/2000,1 - 0,Belenenses,Alverca
+16/12/2000,3 - 1,União de Leiria,Porto
+15/12/2000,0 - 1,Campomaiorense,Vitória Guimarães
+11/12/2000,2 - 0,Porto,Beira-Mar
+10/12/2000,2 - 1,Alverca,Benfica
+10/12/2000,1 - 1,Desportivo Aves,União de Leiria
+10/12/2000,1 - 3,Farense,Campomaiorense
+10/12/2000,2 - 0,Marítimo,Sporting Braga
+10/12/2000,1 - 0,Salgueiros,Estrela Amadora
+09/12/2000,2 - 1,Sporting CP,Belenenses
+09/12/2000,0 - 1,Vitória Guimarães,Paços de Ferreira
+08/12/2000,0 - 2,Gil Vicente,Boavista
+03/12/2000,3 - 0,Benfica,Sporting CP
+03/12/2000,5 - 1,Boavista,Alverca
+03/12/2000,2 - 2,Campomaiorense,Marítimo
+03/12/2000,2 - 1,Estrela Amadora,Gil Vicente
+03/12/2000,1 - 1,Paços de Ferreira,Farense
+03/12/2000,2 - 1,União de Leiria,Salgueiros
+02/12/2000,1 - 0,Beira-Mar,Desportivo Aves
+02/12/2000,2 - 1,Sporting Braga,Porto
+01/12/2000,1 - 0,Belenenses,Vitória Guimarães
+19/11/2000,3 - 1,Alverca,Estrela Amadora
+19/11/2000,1 - 1,Campomaiorense,Sporting Braga
+19/11/2000,0 - 1,Desportivo Aves,Porto
+19/11/2000,2 - 0,Gil Vicente,União de Leiria
+19/11/2000,1 - 1,Marítimo,Paços de Ferreira
+19/11/2000,0 - 1,Salgueiros,Beira-Mar
+19/11/2000,0 - 0,Sporting CP,Boavista
+18/11/2000,0 - 4,Vitória Guimarães,Benfica
+17/11/2000,3 - 1,Farense,Belenenses
+14/11/2000,4 - 1,Boavista,Vitória Guimarães
+13/11/2000,5 - 1,Porto,Salgueiros
+12/11/2000,1 - 0,Beira-Mar,Gil Vicente
+12/11/2000,2 - 1,Benfica,Farense
+12/11/2000,0 - 1,Paços de Ferreira,Campomaiorense
+12/11/2000,2 - 0,Sporting Braga,Desportivo Aves
+12/11/2000,2 - 0,União de Leiria,Alverca
+11/11/2000,1 - 0,Belenenses,Marítimo
+11/11/2000,1 - 2,Estrela Amadora,Sporting CP
+06/11/2000,4 - 0,Vitória Guimarães,Estrela Amadora
+05/11/2000,0 - 1,Alverca,Beira-Mar
+05/11/2000,0 - 1,Campomaiorense,Belenenses
+05/11/2000,3 - 0,Marítimo,Benfica
+05/11/2000,4 - 2,Paços de Ferreira,Sporting Braga
+05/11/2000,2 - 1,Salgueiros,Desportivo Aves
+04/11/2000,2 - 2,Farense,Boavista
+04/11/2000,2 - 2,Gil Vicente,Porto
+03/11/2000,4 - 0,Sporting CP,União de Leiria
+30/10/2000,3 - 1,Boavista,Marítimo
+30/10/2000,6 - 0,Porto,Alverca
+29/10/2000,0 - 1,Beira-Mar,Sporting CP
+29/10/2000,0 - 0,Belenenses,Paços de Ferreira
+29/10/2000,2 - 0,Benfica,Campomaiorense
+29/10/2000,1 - 0,Desportivo Aves,Gil Vicente
+29/10/2000,1 - 2,Estrela Amadora,Farense
+29/10/2000,1 - 1,União de Leiria,Vitória Guimarães
+27/10/2000,2 - 0,Sporting Braga,Salgueiros
+22/10/2000,5 - 1,Alverca,Desportivo Aves
+22/10/2000,2 - 1,Belenenses,Sporting Braga
+22/10/2000,1 - 1,Farense,União de Leiria
+22/10/2000,0 - 2,Gil Vicente,Salgueiros
+22/10/2000,2 - 0,Marítimo,Estrela Amadora
+22/10/2000,1 - 1,Vitória Guimarães,Beira-Mar
+21/10/2000,0 - 0,Paços de Ferreira,Benfica
+21/10/2000,0 - 1,Sporting CP,Porto
+20/10/2000,0 - 0,Campomaiorense,Boavista
+15/10/2000,0 - 2,Beira-Mar,Farense
+15/10/2000,1 - 0,Benfica,Belenenses
+15/10/2000,4 - 0,Estrela Amadora,Campomaiorense
+15/10/2000,2 - 0,Porto,Vitória Guimarães
+15/10/2000,3 - 1,Salgueiros,Alverca
+14/10/2000,3 - 4,Desportivo Aves,Sporting CP
+14/10/2000,3 - 1,Sporting Braga,Gil Vicente
+14/10/2000,1 - 0,União de Leiria,Marítimo
+13/10/2000,1 - 0,Boavista,Paços de Ferreira
+02/10/2000,2 - 2,Belenenses,Boavista
+02/10/2000,2 - 2,Benfica,Sporting Braga
+02/10/2000,1 - 3,Farense,Porto
+01/10/2000,2 - 0,Alverca,Gil Vicente
+01/10/2000,1 - 1,Campomaiorense,União de Leiria
+01/10/2000,2 - 1,Marítimo,Beira-Mar
+01/10/2000,4 - 1,Paços de Ferreira,Estrela Amadora
+01/10/2000,2 - 0,Sporting CP,Salgueiros
+30/09/2000,2 - 2,Vitória Guimarães,Desportivo Aves
+24/09/2000,0 - 0,Beira-Mar,Campomaiorense
+24/09/2000,3 - 1,Desportivo Aves,Farense
+24/09/2000,0 - 2,Estrela Amadora,Belenenses
+24/09/2000,1 - 0,Porto,Marítimo
+24/09/2000,1 - 1,Sporting Braga,Alverca
+24/09/2000,1 - 4,União de Leiria,Paços de Ferreira
+23/09/2000,1 - 0,Boavista,Benfica
+23/09/2000,0 - 2,Gil Vicente,Sporting CP
+22/09/2000,2 - 1,Salgueiros,Vitória Guimarães
+18/09/2000,2 - 1,Benfica,Estrela Amadora
+18/09/2000,1 - 2,Boavista,Sporting Braga
+18/09/2000,0 - 5,Campomaiorense,Porto
+17/09/2000,1 - 1,Belenenses,União de Leiria
+17/09/2000,2 - 1,Farense,Salgueiros
+17/09/2000,2 - 1,Marítimo,Desportivo Aves
+17/09/2000,3 - 2,Paços de Ferreira,Beira-Mar
+16/09/2000,1 - 1,Sporting CP,Alverca
+15/09/2000,3 - 1,Vitória Guimarães,Gil Vicente
+11/09/2000,1 - 3,Alverca,Vitória Guimarães
+10/09/2000,2 - 2,Beira-Mar,Belenenses
+10/09/2000,2 - 2,Desportivo Aves,Campomaiorense
+10/09/2000,0 - 0,Estrela Amadora,Boavista
+10/09/2000,0 - 0,Gil Vicente,Farense
+10/09/2000,1 - 0,Salgueiros,Marítimo
+09/09/2000,2 - 1,Porto,Paços de Ferreira
+09/09/2000,1 - 1,União de Leiria,Benfica
+08/09/2000,3 - 2,Sporting Braga,Sporting CP
+02/09/2000,1 - 0,Marítimo,Gil Vicente
+28/08/2000,4 - 0,Boavista,União de Leiria
+27/08/2000,2 - 0,Belenenses,Porto
+27/08/2000,4 - 1,Benfica,Beira-Mar
+27/08/2000,2 - 0,Farense,Alverca
+27/08/2000,2 - 0,Paços de Ferreira,Desportivo Aves
+26/08/2000,2 - 3,Campomaiorense,Salgueiros
+26/08/2000,1 - 4,Vitória Guimarães,Sporting CP
+25/08/2000,0 - 1,Estrela Amadora,Sporting Braga
+20/08/2000,0 - 0,Alverca,Marítimo
+20/08/2000,0 - 1,Desportivo Aves,Belenenses
+20/08/2000,1 - 1,Gil Vicente,Campomaiorense
+20/08/2000,1 - 0,Salgueiros,Paços de Ferreira
+20/08/2000,1 - 0,Sporting CP,Farense
+20/08/2000,2 - 0,União de Leiria,Estrela Amadora
+19/08/2000,2 - 0,Porto,Benfica
+19/08/2000,1 - 0,Sporting Braga,Vitória Guimarães
+18/08/2000,2 - 4,Beira-Mar,Boavista

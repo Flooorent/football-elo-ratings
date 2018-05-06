@@ -1,0 +1,313 @@
+date,score,home_team,away_team
+28/05/2017,3 - 0, [PS] Utrecht,AZ
+25/05/2017,3 - 0,AZ,Utrecht
+20/05/2017,4 - 1,AZ,Groningen
+20/05/2017,2 - 1,Utrecht,Heerenveen
+17/05/2017,1 - 4,Groningen,AZ
+17/05/2017,1 - 3,Heerenveen,Utrecht
+14/05/2017,4 - 1,ADO Den Haag,Excelsior
+14/05/2017,2 - 3,AZ,Utrecht
+14/05/2017,3 - 1,Feyenoord,Heracles
+14/05/2017,1 - 3,Go Ahead Eagles,Sparta Rotterdam
+14/05/2017,0 - 2,Heerenveen,NEC
+14/05/2017,4 - 1,PSV,PEC Zwolle
+14/05/2017,3 - 5,Twente,Groningen
+14/05/2017,3 - 0,Vitesse,Roda JC
+14/05/2017,1 - 3,Willem II,Ajax
+07/05/2017,4 - 0,Ajax,Go Ahead Eagles
+07/05/2017,3 - 0,Excelsior,Feyenoord
+07/05/2017,1 - 1,Groningen,PSV
+07/05/2017,4 - 0,Heracles,ADO Den Haag
+07/05/2017,2 - 1,NEC,AZ
+07/05/2017,2 - 1,PEC Zwolle,Heerenveen
+07/05/2017,1 - 0,Roda JC,Willem II
+07/05/2017,1 - 0,Sparta Rotterdam,Twente
+07/05/2017,1 - 0,Utrecht,Vitesse
+23/04/2017,1 - 0,PSV,Ajax
+23/04/2017,0 - 1,Sparta Rotterdam,ADO Den Haag
+23/04/2017,0 - 2,Vitesse,Feyenoord
+23/04/2017,1 - 0,Utrecht,Roda JC
+22/04/2017,2 - 3,Go Ahead Eagles,Groningen
+22/04/2017,2 - 1,AZ,Twente
+22/04/2017,1 - 2,PEC Zwolle,Heracles
+22/04/2017,0 - 1,NEC,Excelsior
+21/04/2017,1 - 0,Heerenveen,Willem II
+16/04/2017,5 - 1,Ajax,Heerenveen
+16/04/2017,2 - 0,Feyenoord,Utrecht
+16/04/2017,5 - 1,Groningen,PEC Zwolle
+16/04/2017,2 - 0,Willem II,Go Ahead Eagles
+15/04/2017,3 - 0,Twente,NEC
+15/04/2017,1 - 1,ADO Den Haag,PSV
+15/04/2017,1 - 0,Excelsior,Vitesse
+15/04/2017,3 - 1,Roda JC,Sparta Rotterdam
+14/04/2017,1 - 2,Heracles,AZ
+09/04/2017,5 - 0,PSV,Willem II
+09/04/2017,2 - 2,PEC Zwolle,Feyenoord
+09/04/2017,3 - 0,Utrecht,Twente
+09/04/2017,1 - 1,AZ,Roda JC
+08/04/2017,1 - 4,Go Ahead Eagles,Heracles
+08/04/2017,4 - 3,ADO Den Haag,Groningen
+08/04/2017,1 - 5,NEC,Ajax
+08/04/2017,4 - 2,Vitesse,Heerenveen
+07/04/2017,2 - 3,Sparta Rotterdam,Excelsior
+06/04/2017,2 - 2,Twente,PSV
+06/04/2017,2 - 1,Roda JC,PEC Zwolle
+05/04/2017,4 - 1,Ajax,AZ
+05/04/2017,8 - 0,Feyenoord,Go Ahead Eagles
+05/04/2017,1 - 2,Willem II,ADO Den Haag
+05/04/2017,2 - 0,Groningen,NEC
+05/04/2017,0 - 1,Heracles,Vitesse
+04/04/2017,3 - 0,Heerenveen,Sparta Rotterdam
+04/04/2017,1 - 3,Excelsior,Utrecht
+02/04/2017,1 - 2,Twente,Go Ahead Eagles
+02/04/2017,4 - 1,ADO Den Haag,Roda JC
+02/04/2017,2 - 1,Ajax,Feyenoord
+02/04/2017,2 - 1,Vitesse,NEC
+01/04/2017,4 - 1,Heracles,Heerenveen
+01/04/2017,2 - 0,Utrecht,Willem II
+01/04/2017,0 - 2,Sparta Rotterdam,PSV
+01/04/2017,0 - 0,AZ,Groningen
+01/04/2017,1 - 1,PEC Zwolle,Excelsior
+19/03/2017,4 - 0,AZ,ADO Den Haag
+19/03/2017,1 - 1,Excelsior,Ajax
+19/03/2017,1 - 3,Go Ahead Eagles,PEC Zwolle
+19/03/2017,1 - 2,Heerenveen,Feyenoord
+18/03/2017,3 - 1,Sparta Rotterdam,Heracles
+18/03/2017,0 - 3,NEC,Utrecht
+18/03/2017,1 - 0,PSV,Vitesse
+18/03/2017,1 - 1,Groningen,Willem II
+17/03/2017,0 - 3,Roda JC,Twente
+12/03/2017,3 - 0,Ajax,Twente
+12/03/2017,5 - 2,Feyenoord,AZ
+12/03/2017,3 - 1,Roda JC,Groningen
+12/03/2017,2 - 0,Willem II,PEC Zwolle
+11/03/2017,4 - 1,Excelsior,Heerenveen
+11/03/2017,1 - 3,Go Ahead Eagles,PSV
+11/03/2017,2 - 1,Heracles,Utrecht
+11/03/2017,1 - 0,ADO Den Haag,NEC
+10/03/2017,5 - 0,Vitesse,Sparta Rotterdam
+05/03/2017,3 - 1,NEC,Heracles
+05/03/2017,1 - 1,Groningen,Ajax
+05/03/2017,1 - 1,Utrecht,ADO Den Haag
+05/03/2017,1 - 1,AZ,Excelsior
+05/03/2017,1 - 0,Sparta Rotterdam,Feyenoord
+04/03/2017,3 - 1,PEC Zwolle,Vitesse
+04/03/2017,4 - 0,PSV,Roda JC
+04/03/2017,2 - 1,Twente,Willem II
+03/03/2017,2 - 2,Heerenveen,Go Ahead Eagles
+26/02/2017,4 - 1,Ajax,Heracles
+26/02/2017,1 - 1,AZ,PEC Zwolle
+26/02/2017,2 - 1,Feyenoord,PSV
+26/02/2017,1 - 3,Go Ahead Eagles,Vitesse
+25/02/2017,3 - 0,Heerenveen,Roda JC
+25/02/2017,0 - 2,Excelsior,Willem II
+25/02/2017,0 - 1,NEC,Sparta Rotterdam
+25/02/2017,2 - 3,Groningen,Utrecht
+24/02/2017,1 - 1,ADO Den Haag,Twente
+19/02/2017,0 - 1,ADO Den Haag,Feyenoord
+19/02/2017,2 - 2,Sparta Rotterdam,Groningen
+19/02/2017,0 - 1,Vitesse,Ajax
+19/02/2017,1 - 1,Willem II,AZ
+18/02/2017,3 - 1,Utrecht,PEC Zwolle
+18/02/2017,4 - 0,Heracles,Excelsior
+18/02/2017,3 - 1,PSV,NEC
+18/02/2017,1 - 0,Twente,Heerenveen
+17/02/2017,1 - 0,Roda JC,Go Ahead Eagles
+12/02/2017,3 - 0,PSV,Utrecht
+12/02/2017,2 - 0,Ajax,Sparta Rotterdam
+12/02/2017,1 - 2,Heerenveen,AZ
+12/02/2017,1 - 1,Excelsior,Twente
+11/02/2017,0 - 2,Vitesse,Willem II
+11/02/2017,2 - 0,Feyenoord,Groningen
+11/02/2017,3 - 1,Go Ahead Eagles,ADO Den Haag
+11/02/2017,2 - 2,Heracles,Roda JC
+10/02/2017,2 - 0,PEC Zwolle,NEC
+05/02/2017,1 - 0,Utrecht,Heerenveen
+05/02/2017,2 - 3,Sparta Rotterdam,PEC Zwolle
+05/02/2017,0 - 2,Twente,Feyenoord
+05/02/2017,0 - 2,Roda JC,Ajax
+04/02/2017,1 - 1,Groningen,Excelsior
+04/02/2017,2 - 4,AZ,PSV
+04/02/2017,1 - 3,Willem II,Heracles
+04/02/2017,1 - 2,NEC,Go Ahead Eagles
+03/02/2017,0 - 2,ADO Den Haag,Vitesse
+29/01/2017,4 - 0,Feyenoord,NEC
+29/01/2017,3 - 0,Ajax,ADO Den Haag
+29/01/2017,1 - 2,PEC Zwolle,Twente
+29/01/2017,2 - 1,Vitesse,AZ
+29/01/2017,0 - 0,Heerenveen,Groningen
+28/01/2017,1 - 2,Heracles,PSV
+28/01/2017,4 - 0,Roda JC,Excelsior
+28/01/2017,0 - 1,Go Ahead Eagles,Utrecht
+27/01/2017,3 - 2,Willem II,Sparta Rotterdam
+22/01/2017,4 - 3,PSV,Heerenveen
+22/01/2017,1 - 1,Excelsior,Go Ahead Eagles
+22/01/2017,2 - 0,NEC,Roda JC
+22/01/2017,0 - 1,Utrecht,Ajax
+21/01/2017,1 - 1,Groningen,Vitesse
+21/01/2017,1 - 2,ADO Den Haag,PEC Zwolle
+21/01/2017,1 - 0,Feyenoord,Willem II
+21/01/2017,1 - 1,AZ,Sparta Rotterdam
+20/01/2017,1 - 0,Twente,Heracles
+15/01/2017,0 - 1,Willem II,NEC
+15/01/2017,1 - 3,PEC Zwolle,Ajax
+15/01/2017,3 - 1,Vitesse,Twente
+15/01/2017,0 - 2,Roda JC,Feyenoord
+14/01/2017,1 - 2,Sparta Rotterdam,Utrecht
+14/01/2017,1 - 4,Heracles,Groningen
+14/01/2017,2 - 0,PSV,Excelsior
+14/01/2017,2 - 0,Heerenveen,ADO Den Haag
+13/01/2017,1 - 3,Go Ahead Eagles,AZ
+18/12/2016,1 - 1,Ajax,PSV
+18/12/2016,1 - 0,ADO Den Haag,Sparta Rotterdam
+18/12/2016,1 - 1,Groningen,Go Ahead Eagles
+18/12/2016,3 - 0,Heracles,PEC Zwolle
+18/12/2016,2 - 2,Excelsior,NEC
+17/12/2016,1 - 2,Twente,AZ
+17/12/2016,3 - 1,Feyenoord,Vitesse
+17/12/2016,0 - 0,Roda JC,Utrecht
+16/12/2016,2 - 1,Willem II,Heerenveen
+11/12/2016,1 - 0,Twente,Ajax
+11/12/2016,0 - 4,AZ,Feyenoord
+11/12/2016,2 - 0,Utrecht,Heracles
+11/12/2016,0 - 1,Sparta Rotterdam,Vitesse
+10/12/2016,0 - 0,PEC Zwolle,Willem II
+10/12/2016,2 - 1,Heerenveen,Excelsior
+10/12/2016,1 - 0,PSV,Go Ahead Eagles
+10/12/2016,3 - 0,NEC,ADO Den Haag
+09/12/2016,2 - 0,Groningen,Roda JC
+04/12/2016,2 - 0,Ajax,Groningen
+04/12/2016,6 - 1,Feyenoord,Sparta Rotterdam
+04/12/2016,0 - 0,Willem II,Twente
+04/12/2016,0 - 2,ADO Den Haag,Utrecht
+03/12/2016,3 - 1,Vitesse,PEC Zwolle
+03/12/2016,3 - 3,Excelsior,AZ
+03/12/2016,0 - 0,Roda JC,PSV
+03/12/2016,1 - 3,Go Ahead Eagles,Heerenveen
+02/12/2016,2 - 0,Heracles,NEC
+27/11/2016,3 - 3,Utrecht,Feyenoord
+27/11/2016,5 - 1,AZ,Heracles
+27/11/2016,0 - 1,Heerenveen,Ajax
+27/11/2016,2 - 2,Sparta Rotterdam,Roda JC
+26/11/2016,3 - 2,NEC,Twente
+26/11/2016,0 - 4,PEC Zwolle,Groningen
+26/11/2016,3 - 1,PSV,ADO Den Haag
+26/11/2016,2 - 2,Vitesse,Excelsior
+25/11/2016,0 - 1,Go Ahead Eagles,Willem II
+20/11/2016,3 - 0,Feyenoord,PEC Zwolle
+20/11/2016,5 - 0,Ajax,NEC
+20/11/2016,1 - 1,Twente,Utrecht
+20/11/2016,1 - 1,Roda JC,AZ
+19/11/2016,3 - 2,Excelsior,Sparta Rotterdam
+19/11/2016,2 - 1,Groningen,ADO Den Haag
+19/11/2016,0 - 0,Willem II,PSV
+19/11/2016,1 - 1,Heerenveen,Vitesse
+19/11/2016,2 - 1,Heracles,Go Ahead Eagles
+06/11/2016,1 - 0,Go Ahead Eagles,Feyenoord
+06/11/2016,2 - 2,AZ,Ajax
+06/11/2016,1 - 2,Vitesse,Heracles
+06/11/2016,2 - 1,Utrecht,Excelsior
+05/11/2016,0 - 0,PEC Zwolle,Roda JC
+05/11/2016,1 - 1,NEC,Groningen
+05/11/2016,1 - 1,PSV,Twente
+05/11/2016,1 - 0,ADO Den Haag,Willem II
+04/11/2016,3 - 1,Sparta Rotterdam,Heerenveen
+30/10/2016,0 - 1,ADO Den Haag,AZ
+30/10/2016,2 - 2,Feyenoord,Heerenveen
+30/10/2016,1 - 1,Utrecht,NEC
+30/10/2016,3 - 1,PEC Zwolle,Go Ahead Eagles
+29/10/2016,1 - 0,Ajax,Excelsior
+29/10/2016,2 - 2,Heracles,Sparta Rotterdam
+29/10/2016,0 - 2,Vitesse,PSV
+29/10/2016,2 - 1,Willem II,Groningen
+28/10/2016,0 - 0,Twente,Roda JC
+23/10/2016,3 - 1,Heerenveen,Heracles
+23/10/2016,1 - 1,Feyenoord,Ajax
+23/10/2016,2 - 0,Groningen,AZ
+23/10/2016,1 - 1,NEC,Vitesse
+22/10/2016,0 - 1,Willem II,Utrecht
+22/10/2016,1 - 0,PSV,Sparta Rotterdam
+22/10/2016,1 - 1,Roda JC,ADO Den Haag
+22/10/2016,0 - 2,Go Ahead Eagles,Twente
+21/10/2016,0 - 2,Excelsior,PEC Zwolle
+16/10/2016,0 - 2,ADO Den Haag,Ajax
+16/10/2016,0 - 1,Excelsior,Roda JC
+16/10/2016,1 - 2,NEC,Feyenoord
+16/10/2016,2 - 2,Twente,PEC Zwolle
+15/10/2016,2 - 2,AZ,Vitesse
+15/10/2016,0 - 3,Groningen,Heerenveen
+15/10/2016,1 - 1,PSV,Heracles
+15/10/2016,2 - 2,Sparta Rotterdam,Willem II
+15/10/2016,3 - 0,Utrecht,Go Ahead Eagles
+02/10/2016,1 - 1,Sparta Rotterdam,AZ
+02/10/2016,1 - 1,Heracles,Twente
+02/10/2016,0 - 2,Willem II,Feyenoord
+02/10/2016,3 - 2,Ajax,Utrecht
+01/10/2016,3 - 0,Go Ahead Eagles,Excelsior
+01/10/2016,1 - 1,Heerenveen,PSV
+01/10/2016,0 - 1,Roda JC,NEC
+01/10/2016,2 - 1,Vitesse,Groningen
+30/09/2016,2 - 1,PEC Zwolle,ADO Den Haag
+25/09/2016,5 - 0,Feyenoord,Roda JC
+25/09/2016,2 - 1,Twente,Vitesse
+25/09/2016,2 - 0,Utrecht,Sparta Rotterdam
+25/09/2016,0 - 0,NEC,Willem II
+24/09/2016,2 - 2,AZ,Go Ahead Eagles
+24/09/2016,1 - 3,Excelsior,PSV
+24/09/2016,5 - 1,Ajax,PEC Zwolle
+24/09/2016,0 - 3,ADO Den Haag,Heerenveen
+24/09/2016,0 - 0,Groningen,Heracles
+18/09/2016,0 - 2,Heracles,Ajax
+18/09/2016,0 - 2,PEC Zwolle,AZ
+18/09/2016,0 - 1,PSV,Feyenoord
+18/09/2016,2 - 0,Sparta Rotterdam,NEC
+17/09/2016,1 - 1,Willem II,Excelsior
+17/09/2016,0 - 3,Roda JC,Heerenveen
+17/09/2016,2 - 0,Vitesse,Go Ahead Eagles
+17/09/2016,4 - 1,Twente,ADO Den Haag
+16/09/2016,1 - 5,Utrecht,Groningen
+11/09/2016,1 - 0,Ajax,Vitesse
+11/09/2016,2 - 0,Go Ahead Eagles,Roda JC
+11/09/2016,1 - 1,Groningen,Sparta Rotterdam
+11/09/2016,3 - 1,Feyenoord,ADO Den Haag
+10/09/2016,3 - 1,Excelsior,Heracles
+10/09/2016,3 - 1,Heerenveen,Twente
+10/09/2016,0 - 4,NEC,PSV
+10/09/2016,2 - 0,AZ,Willem II
+10/09/2016,1 - 1,PEC Zwolle,Utrecht
+28/08/2016,2 - 0,AZ,NEC
+28/08/2016,1 - 1,ADO Den Haag,Heracles
+28/08/2016,0 - 3,Go Ahead Eagles,Ajax
+28/08/2016,0 - 0,PSV,Groningen
+27/08/2016,3 - 1,Twente,Sparta Rotterdam
+27/08/2016,4 - 1,Feyenoord,Excelsior
+27/08/2016,1 - 0,Heerenveen,PEC Zwolle
+27/08/2016,0 - 0,Willem II,Roda JC
+26/08/2016,1 - 1,Vitesse,Utrecht
+21/08/2016,0 - 1,Heracles,Feyenoord
+21/08/2016,1 - 0,Sparta Rotterdam,Go Ahead Eagles
+21/08/2016,1 - 2,Utrecht,AZ
+21/08/2016,3 - 4,Groningen,Twente
+20/08/2016,2 - 1,NEC,Heerenveen
+20/08/2016,1 - 2,Ajax,Willem II
+20/08/2016,0 - 4,PEC Zwolle,PSV
+20/08/2016,0 - 1,Roda JC,Vitesse
+19/08/2016,1 - 2,Excelsior,ADO Den Haag
+14/08/2016,1 - 0,PSV,AZ
+14/08/2016,2 - 0,Feyenoord,Twente
+14/08/2016,2 - 2,Go Ahead Eagles,NEC
+14/08/2016,3 - 1,Heracles,Willem II
+13/08/2016,0 - 3,PEC Zwolle,Sparta Rotterdam
+13/08/2016,2 - 2,Ajax,Roda JC
+13/08/2016,1 - 2,Vitesse,ADO Den Haag
+13/08/2016,2 - 0,Excelsior,Groningen
+12/08/2016,2 - 2,Heerenveen,Utrecht
+07/08/2016,1 - 1,Roda JC,Heracles
+07/08/2016,2 - 2,AZ,Heerenveen
+07/08/2016,1 - 3,Sparta Rotterdam,Ajax
+07/08/2016,0 - 5,Groningen,Feyenoord
+06/08/2016,1 - 4,Willem II,Vitesse
+06/08/2016,1 - 2,Twente,Excelsior
+06/08/2016,1 - 2,Utrecht,PSV
+06/08/2016,3 - 0,ADO Den Haag,Go Ahead Eagles
+05/08/2016,1 - 1,NEC,PEC Zwolle

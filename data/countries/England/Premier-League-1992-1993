@@ -1,0 +1,463 @@
+date,score,home_team,away_team
+11/05/1993,1 - 3,Arsenal,Tottenham Hotspur
+11/05/1993,3 - 1,Queens Park Rangers,Sheffield Wednesday
+09/05/1993,2 - 1,Queens Park Rangers,Aston Villa
+09/05/1993,1 - 2,Wimbledon,Manchester United
+08/05/1993,3 - 0,Arsenal,Crystal Palace
+08/05/1993,1 - 0,Blackburn Rovers,Sheffield Wednesday
+08/05/1993,3 - 3,Coventry City,Leeds United
+08/05/1993,2 - 1,Ipswich Town,Nottingham Forest
+08/05/1993,6 - 2,Liverpool,Tottenham Hotspur
+08/05/1993,2 - 5,Manchester City,Everton
+08/05/1993,3 - 3,Middlesbrough,Norwich City
+08/05/1993,4 - 3,Oldham Athletic,Southampton
+08/05/1993,4 - 2,Sheffield United,Chelsea
+06/05/1993,1 - 0,Sheffield Wednesday,Arsenal
+05/05/1993,0 - 0,Manchester City,Crystal Palace
+05/05/1993,3 - 2,Oldham Athletic,Liverpool
+05/05/1993,1 - 2,Tottenham Hotspur,Blackburn Rovers
+04/05/1993,0 - 0,Arsenal,Queens Park Rangers
+04/05/1993,0 - 2,Everton,Sheffield United
+04/05/1993,1 - 1,Sheffield Wednesday,Leeds United
+03/05/1993,3 - 1,Manchester United,Blackburn Rovers
+02/05/1993,0 - 1,Aston Villa,Oldham Athletic
+01/05/1993,2 - 1,Chelsea,Coventry City
+01/05/1993,3 - 1,Crystal Palace,Ipswich Town
+01/05/1993,0 - 0,Everton,Arsenal
+01/05/1993,1 - 1,Leeds United,Queens Park Rangers
+01/05/1993,1 - 0,Norwich City,Liverpool
+01/05/1993,0 - 2,Nottingham Forest,Sheffield United
+01/05/1993,2 - 3,Sheffield Wednesday,Middlesbrough
+01/05/1993,0 - 1,Southampton,Manchester City
+01/05/1993,1 - 1,Tottenham Hotspur,Wimbledon
+21/04/1993,1 - 1,Arsenal,Nottingham Forest
+21/04/1993,3 - 0,Blackburn Rovers,Aston Villa
+21/04/1993,0 - 2,Crystal Palace,Manchester United
+21/04/1993,2 - 0,Liverpool,Leeds United
+21/04/1993,1 - 1,Manchester City,Wimbledon
+21/04/1993,1 - 1,Sheffield Wednesday,Sheffield United
+20/04/1993,3 - 0,Middlesbrough,Tottenham Hotspur
+19/04/1993,3 - 1,Ipswich Town,Norwich City
+18/04/1993,3 - 1,Aston Villa,Manchester City
+17/04/1993,0 - 0,Leeds United,Crystal Palace
+17/04/1993,4 - 0,Liverpool,Coventry City
+17/04/1993,3 - 0,Manchester United,Chelsea
+17/04/1993,1 - 3,Sheffield United,Blackburn Rovers
+17/04/1993,0 - 0,Southampton,Everton
+17/04/1993,4 - 1,Tottenham Hotspur,Oldham Athletic
+17/04/1993,1 - 0,Wimbledon,Nottingham Forest
+14/04/1993,4 - 2,Norwich City,Leeds United
+13/04/1993,1 - 1,Oldham Athletic,Sheffield United
+12/04/1993,0 - 1,Arsenal,Aston Villa
+12/04/1993,2 - 1,Blackburn Rovers,Ipswich Town
+12/04/1993,4 - 2,Chelsea,Wimbledon
+12/04/1993,0 - 1,Coventry City,Manchester United
+12/04/1993,4 - 1,Crystal Palace,Middlesbrough
+12/04/1993,3 - 5,Everton,Queens Park Rangers
+12/04/1993,1 - 1,Manchester City,Liverpool
+12/04/1993,2 - 1,Nottingham Forest,Tottenham Hotspur
+12/04/1993,5 - 2,Sheffield Wednesday,Southampton
+10/04/1993,0 - 0,Aston Villa,Coventry City
+10/04/1993,1 - 2,Ipswich Town,Arsenal
+10/04/1993,5 - 2,Leeds United,Blackburn Rovers
+10/04/1993,1 - 0,Liverpool,Oldham Athletic
+10/04/1993,2 - 1,Manchester United,Sheffield Wednesday
+10/04/1993,1 - 2,Middlesbrough,Everton
+10/04/1993,4 - 3,Queens Park Rangers,Nottingham Forest
+10/04/1993,1 - 0,Southampton,Chelsea
+09/04/1993,1 - 1,Sheffield United,Manchester City
+09/04/1993,5 - 1,Tottenham Hotspur,Norwich City
+09/04/1993,4 - 0,Wimbledon,Crystal Palace
+07/04/1993,1 - 3,Nottingham Forest,Blackburn Rovers
+07/04/1993,1 - 1,Oldham Athletic,Sheffield Wednesday
+06/04/1993,1 - 1,Ipswich Town,Chelsea
+06/04/1993,1 - 0,Middlesbrough,Arsenal
+06/04/1993,2 - 1,Sheffield United,Leeds United
+05/04/1993,1 - 3,Norwich City,Manchester United
+04/04/1993,0 - 1,Nottingham Forest,Aston Villa
+03/04/1993,4 - 1,Blackburn Rovers,Liverpool
+03/04/1993,4 - 0,Chelsea,Middlesbrough
+03/04/1993,2 - 0,Coventry City,Southampton
+03/04/1993,1 - 1,Crystal Palace,Queens Park Rangers
+03/04/1993,3 - 1,Manchester City,Ipswich Town
+03/04/1993,6 - 2,Oldham Athletic,Wimbledon
+24/03/1993,1 - 3,Coventry City,Sheffield United
+24/03/1993,3 - 0,Everton,Ipswich Town
+24/03/1993,1 - 1,Leeds United,Chelsea
+24/03/1993,0 - 0,Manchester United,Arsenal
+24/03/1993,1 - 0,Norwich City,Aston Villa
+24/03/1993,0 - 3,Queens Park Rangers,Blackburn Rovers
+24/03/1993,1 - 1,Sheffield Wednesday,Wimbledon
+24/03/1993,1 - 2,Southampton,Nottingham Forest
+24/03/1993,3 - 1,Tottenham Hotspur,Manchester City
+23/03/1993,1 - 1,Crystal Palace,Liverpool
+22/03/1993,2 - 3,Middlesbrough,Oldham Athletic
+21/03/1993,1 - 1,Nottingham Forest,Leeds United
+20/03/1993,4 - 3,Arsenal,Southampton
+20/03/1993,2 - 0,Aston Villa,Sheffield Wednesday
+20/03/1993,1 - 1,Blackburn Rovers,Middlesbrough
+20/03/1993,1 - 1,Chelsea,Tottenham Hotspur
+20/03/1993,0 - 0,Ipswich Town,Coventry City
+20/03/1993,1 - 0,Liverpool,Everton
+20/03/1993,1 - 1,Manchester City,Manchester United
+20/03/1993,2 - 2,Oldham Athletic,Queens Park Rangers
+20/03/1993,0 - 1,Sheffield United,Crystal Palace
+20/03/1993,3 - 0,Wimbledon,Norwich City
+17/03/1993,0 - 3,Nottingham Forest,Norwich City
+15/03/1993,1 - 1,Crystal Palace,Chelsea
+14/03/1993,1 - 1,Manchester United,Aston Villa
+13/03/1993,0 - 2,Coventry City,Arsenal
+13/03/1993,3 - 0,Everton,Nottingham Forest
+13/03/1993,1 - 0,Leeds United,Manchester City
+13/03/1993,1 - 2,Middlesbrough,Liverpool
+13/03/1993,1 - 0,Norwich City,Oldham Athletic
+13/03/1993,1 - 2,Queens Park Rangers,Wimbledon
+13/03/1993,4 - 3,Southampton,Ipswich Town
+10/03/1993,0 - 0,Aston Villa,Tottenham Hotspur
+10/03/1993,2 - 1,Chelsea,Everton
+10/03/1993,0 - 1,Ipswich Town,Sheffield Wednesday
+10/03/1993,1 - 0,Liverpool,Queens Park Rangers
+10/03/1993,1 - 0,Manchester City,Coventry City
+10/03/1993,0 - 1,Sheffield United,Norwich City
+09/03/1993,0 - 0,Blackburn Rovers,Southampton
+09/03/1993,1 - 0,Oldham Athletic,Manchester United
+09/03/1993,2 - 0,Wimbledon,Middlesbrough
+07/03/1993,0 - 1,Coventry City,Everton
+06/03/1993,1 - 2,Liverpool,Manchester United
+06/03/1993,3 - 1,Queens Park Rangers,Norwich City
+06/03/1993,1 - 2,Wimbledon,Southampton
+03/03/1993,1 - 0,Coventry City,Sheffield Wednesday
+03/03/1993,2 - 1,Everton,Blackburn Rovers
+03/03/1993,1 - 1,Norwich City,Arsenal
+03/03/1993,1 - 1,Nottingham Forest,Crystal Palace
+02/03/1993,0 - 1,Ipswich Town,Middlesbrough
+02/03/1993,6 - 0,Sheffield United,Tottenham Hotspur
+01/03/1993,1 - 0,Chelsea,Arsenal
+28/02/1993,0 - 0,Norwich City,Blackburn Rovers
+27/02/1993,1 - 0,Aston Villa,Wimbledon
+27/02/1993,0 - 0,Crystal Palace,Coventry City
+27/02/1993,2 - 2,Everton,Oldham Athletic
+27/02/1993,1 - 0,Leeds United,Ipswich Town
+27/02/1993,3 - 0,Manchester United,Middlesbrough
+27/02/1993,0 - 2,Nottingham Forest,Manchester City
+27/02/1993,1 - 1,Sheffield Wednesday,Liverpool
+27/02/1993,3 - 2,Southampton,Sheffield United
+27/02/1993,3 - 2,Tottenham Hotspur,Queens Park Rangers
+24/02/1993,0 - 0,Arsenal,Leeds United
+24/02/1993,1 - 0,Nottingham Forest,Queens Park Rangers
+23/02/1993,1 - 2,Manchester City,Sheffield Wednesday
+22/02/1993,2 - 0,Sheffield United,Oldham Athletic
+21/02/1993,2 - 0,Blackburn Rovers,Chelsea
+20/02/1993,2 - 1,Aston Villa,Everton
+20/02/1993,0 - 0,Liverpool,Ipswich Town
+20/02/1993,2 - 1,Manchester United,Southampton
+20/02/1993,1 - 2,Middlesbrough,Nottingham Forest
+20/02/1993,2 - 1,Norwich City,Manchester City
+20/02/1993,0 - 1,Oldham Athletic,Arsenal
+20/02/1993,2 - 0,Queens Park Rangers,Coventry City
+20/02/1993,2 - 1,Sheffield Wednesday,Crystal Palace
+20/02/1993,4 - 0,Tottenham Hotspur,Leeds United
+20/02/1993,2 - 0,Wimbledon,Sheffield United
+13/02/1993,0 - 1,Chelsea,Aston Villa
+13/02/1993,2 - 0,Leeds United,Oldham Athletic
+13/02/1993,2 - 1,Southampton,Liverpool
+10/02/1993,0 - 1,Arsenal,Wimbledon
+10/02/1993,0 - 0,Chelsea,Liverpool
+10/02/1993,1 - 0,Crystal Palace,Aston Villa
+10/02/1993,1 - 2,Everton,Tottenham Hotspur
+10/02/1993,3 - 0,Southampton,Norwich City
+09/02/1993,1 - 1,Ipswich Town,Queens Park Rangers
+09/02/1993,2 - 0,Sheffield United,Middlesbrough
+08/02/1993,0 - 0,Leeds United,Manchester United
+07/02/1993,4 - 2,Tottenham Hotspur,Southampton
+06/02/1993,2 - 0,Aston Villa,Ipswich Town
+06/02/1993,0 - 0,Liverpool,Nottingham Forest
+06/02/1993,2 - 1,Manchester United,Sheffield United
+06/02/1993,0 - 2,Middlesbrough,Coventry City
+06/02/1993,3 - 1,Oldham Athletic,Chelsea
+06/02/1993,1 - 1,Queens Park Rangers,Manchester City
+06/02/1993,3 - 1,Sheffield Wednesday,Everton
+06/02/1993,1 - 0,Wimbledon,Leeds United
+02/02/1993,1 - 2,Blackburn Rovers,Crystal Palace
+30/01/1993,0 - 1,Arsenal,Liverpool
+30/01/1993,0 - 2,Chelsea,Sheffield Wednesday
+30/01/1993,0 - 2,Coventry City,Wimbledon
+30/01/1993,1 - 3,Crystal Palace,Tottenham Hotspur
+30/01/1993,0 - 1,Everton,Norwich City
+30/01/1993,2 - 1,Ipswich Town,Manchester United
+30/01/1993,3 - 0,Leeds United,Middlesbrough
+30/01/1993,3 - 2,Manchester City,Blackburn Rovers
+30/01/1993,2 - 0,Nottingham Forest,Oldham Athletic
+30/01/1993,1 - 2,Sheffield United,Queens Park Rangers
+30/01/1993,2 - 0,Southampton,Aston Villa
+27/01/1993,3 - 1,Aston Villa,Sheffield United
+27/01/1993,2 - 0,Manchester United,Nottingham Forest
+27/01/1993,4 - 2,Norwich City,Crystal Palace
+27/01/1993,1 - 1,Queens Park Rangers,Chelsea
+27/01/1993,0 - 2,Tottenham Hotspur,Ipswich Town
+26/01/1993,2 - 5,Blackburn Rovers,Coventry City
+26/01/1993,2 - 1,Middlesbrough,Southampton
+26/01/1993,0 - 1,Oldham Athletic,Manchester City
+26/01/1993,1 - 3,Wimbledon,Everton
+23/01/1993,3 - 0,Coventry City,Oldham Athletic
+18/01/1993,1 - 3,Queens Park Rangers,Manchester United
+17/01/1993,5 - 1,Aston Villa,Middlesbrough
+16/01/1993,2 - 0,Everton,Leeds United
+16/01/1993,0 - 1,Manchester City,Arsenal
+16/01/1993,1 - 1,Norwich City,Coventry City
+16/01/1993,3 - 0,Nottingham Forest,Chelsea
+16/01/1993,0 - 1,Oldham Athletic,Blackburn Rovers
+16/01/1993,3 - 0,Sheffield United,Ipswich Town
+16/01/1993,1 - 0,Southampton,Crystal Palace
+16/01/1993,0 - 2,Tottenham Hotspur,Sheffield Wednesday
+16/01/1993,2 - 0,Wimbledon,Liverpool
+10/01/1993,1 - 0,Sheffield Wednesday,Norwich City
+09/01/1993,1 - 1,Arsenal,Sheffield United
+09/01/1993,0 - 0,Blackburn Rovers,Wimbledon
+09/01/1993,2 - 4,Chelsea,Manchester City
+09/01/1993,0 - 1,Coventry City,Nottingham Forest
+09/01/1993,0 - 2,Crystal Palace,Everton
+09/01/1993,1 - 2,Ipswich Town,Oldham Athletic
+09/01/1993,2 - 1,Leeds United,Southampton
+09/01/1993,1 - 2,Liverpool,Aston Villa
+09/01/1993,4 - 1,Manchester United,Tottenham Hotspur
+09/01/1993,0 - 1,Middlesbrough,Queens Park Rangers
+28/12/1992,1 - 0,Aston Villa,Arsenal
+28/12/1992,2 - 1,Ipswich Town,Blackburn Rovers
+28/12/1992,0 - 0,Leeds United,Norwich City
+28/12/1992,1 - 1,Liverpool,Manchester City
+28/12/1992,5 - 0,Manchester United,Coventry City
+28/12/1992,0 - 1,Middlesbrough,Crystal Palace
+28/12/1992,4 - 2,Queens Park Rangers,Everton
+28/12/1992,1 - 2,Southampton,Sheffield Wednesday
+28/12/1992,2 - 1,Tottenham Hotspur,Nottingham Forest
+28/12/1992,0 - 0,Wimbledon,Chelsea
+26/12/1992,0 - 0,Arsenal,Ipswich Town
+26/12/1992,3 - 1,Blackburn Rovers,Leeds United
+26/12/1992,1 - 1,Chelsea,Southampton
+26/12/1992,3 - 0,Coventry City,Aston Villa
+26/12/1992,2 - 0,Crystal Palace,Wimbledon
+26/12/1992,2 - 2,Everton,Middlesbrough
+26/12/1992,2 - 0,Manchester City,Sheffield United
+26/12/1992,0 - 0,Norwich City,Tottenham Hotspur
+26/12/1992,3 - 3,Sheffield Wednesday,Manchester United
+21/12/1992,0 - 2,Norwich City,Ipswich Town
+20/12/1992,1 - 0,Crystal Palace,Leeds United
+20/12/1992,1 - 1,Nottingham Forest,Wimbledon
+19/12/1992,1 - 1,Arsenal,Middlesbrough
+19/12/1992,1 - 0,Blackburn Rovers,Sheffield United
+19/12/1992,1 - 1,Chelsea,Manchester United
+19/12/1992,5 - 1,Coventry City,Liverpool
+19/12/1992,2 - 1,Everton,Southampton
+19/12/1992,1 - 1,Manchester City,Aston Villa
+19/12/1992,2 - 1,Oldham Athletic,Tottenham Hotspur
+19/12/1992,1 - 0,Sheffield Wednesday,Queens Park Rangers
+13/12/1992,2 - 1,Liverpool,Blackburn Rovers
+12/12/1992,2 - 1,Aston Villa,Nottingham Forest
+12/12/1992,3 - 1,Ipswich Town,Manchester City
+12/12/1992,3 - 1,Leeds United,Sheffield Wednesday
+12/12/1992,1 - 0,Manchester United,Norwich City
+12/12/1992,1 - 3,Queens Park Rangers,Crystal Palace
+12/12/1992,1 - 0,Sheffield United,Everton
+12/12/1992,2 - 2,Southampton,Coventry City
+12/12/1992,1 - 0,Tottenham Hotspur,Arsenal
+12/12/1992,5 - 2,Wimbledon,Oldham Athletic
+11/12/1992,0 - 0,Middlesbrough,Chelsea
+07/12/1992,2 - 1,Everton,Liverpool
+06/12/1992,2 - 1,Manchester United,Manchester City
+05/12/1992,2 - 2,Coventry City,Ipswich Town
+05/12/1992,2 - 0,Crystal Palace,Sheffield United
+05/12/1992,1 - 2,Leeds United,Nottingham Forest
+05/12/1992,3 - 2,Middlesbrough,Blackburn Rovers
+05/12/1992,2 - 1,Norwich City,Wimbledon
+05/12/1992,3 - 2,Queens Park Rangers,Oldham Athletic
+05/12/1992,1 - 2,Sheffield Wednesday,Aston Villa
+05/12/1992,2 - 0,Southampton,Arsenal
+05/12/1992,1 - 2,Tottenham Hotspur,Chelsea
+29/11/1992,1 - 0,Chelsea,Leeds United
+28/11/1992,0 - 1,Arsenal,Manchester United
+28/11/1992,2 - 3,Aston Villa,Norwich City
+28/11/1992,1 - 0,Blackburn Rovers,Queens Park Rangers
+28/11/1992,1 - 0,Ipswich Town,Everton
+28/11/1992,5 - 0,Liverpool,Crystal Palace
+28/11/1992,0 - 1,Manchester City,Tottenham Hotspur
+28/11/1992,1 - 2,Nottingham Forest,Southampton
+28/11/1992,4 - 1,Oldham Athletic,Middlesbrough
+28/11/1992,1 - 1,Sheffield United,Coventry City
+28/11/1992,1 - 1,Wimbledon,Sheffield Wednesday
+23/11/1992,0 - 1,Queens Park Rangers,Liverpool
+22/11/1992,1 - 1,Southampton,Blackburn Rovers
+21/11/1992,2 - 3,Coventry City,Manchester City
+21/11/1992,1 - 1,Crystal Palace,Nottingham Forest
+21/11/1992,0 - 1,Everton,Chelsea
+21/11/1992,3 - 0,Leeds United,Arsenal
+21/11/1992,3 - 0,Manchester United,Oldham Athletic
+21/11/1992,2 - 0,Middlesbrough,Wimbledon
+21/11/1992,2 - 1,Norwich City,Sheffield United
+21/11/1992,1 - 1,Sheffield Wednesday,Ipswich Town
+21/11/1992,0 - 0,Tottenham Hotspur,Aston Villa
+09/11/1992,2 - 3,Oldham Athletic,Norwich City
+08/11/1992,1 - 1,Sheffield United,Sheffield Wednesday
+07/11/1992,3 - 0,Arsenal,Coventry City
+07/11/1992,1 - 0,Aston Villa,Manchester United
+07/11/1992,0 - 2,Blackburn Rovers,Tottenham Hotspur
+07/11/1992,3 - 1,Chelsea,Crystal Palace
+07/11/1992,0 - 0,Ipswich Town,Southampton
+07/11/1992,4 - 1,Liverpool,Middlesbrough
+07/11/1992,4 - 0,Manchester City,Leeds United
+07/11/1992,0 - 1,Nottingham Forest,Everton
+07/11/1992,0 - 2,Wimbledon,Queens Park Rangers
+02/11/1992,1 - 2,Crystal Palace,Arsenal
+01/11/1992,2 - 0,Aston Villa,Queens Park Rangers
+31/10/1992,1 - 2,Chelsea,Sheffield United
+31/10/1992,1 - 3,Everton,Manchester City
+31/10/1992,2 - 2,Leeds United,Coventry City
+31/10/1992,0 - 1,Manchester United,Wimbledon
+31/10/1992,1 - 1,Norwich City,Middlesbrough
+31/10/1992,0 - 1,Nottingham Forest,Ipswich Town
+31/10/1992,0 - 0,Sheffield Wednesday,Blackburn Rovers
+31/10/1992,1 - 0,Southampton,Oldham Athletic
+31/10/1992,2 - 0,Tottenham Hotspur,Liverpool
+25/10/1992,4 - 1,Liverpool,Norwich City
+25/10/1992,1 - 1,Wimbledon,Tottenham Hotspur
+24/10/1992,2 - 0,Arsenal,Everton
+24/10/1992,0 - 0,Blackburn Rovers,Manchester United
+24/10/1992,1 - 2,Coventry City,Chelsea
+24/10/1992,2 - 2,Ipswich Town,Crystal Palace
+24/10/1992,1 - 0,Manchester City,Southampton
+24/10/1992,1 - 1,Middlesbrough,Sheffield Wednesday
+24/10/1992,1 - 1,Oldham Athletic,Aston Villa
+24/10/1992,2 - 1,Queens Park Rangers,Leeds United
+24/10/1992,0 - 0,Sheffield United,Nottingham Forest
+21/10/1992,1 - 0,Nottingham Forest,Middlesbrough
+19/10/1992,0 - 0,Aston Villa,Blackburn Rovers
+18/10/1992,2 - 2,Manchester United,Liverpool
+17/10/1992,2 - 1,Chelsea,Ipswich Town
+17/10/1992,0 - 0,Crystal Palace,Manchester City
+17/10/1992,1 - 1,Everton,Coventry City
+17/10/1992,3 - 1,Leeds United,Sheffield United
+17/10/1992,2 - 1,Norwich City,Queens Park Rangers
+17/10/1992,0 - 1,Nottingham Forest,Arsenal
+17/10/1992,2 - 1,Sheffield Wednesday,Oldham Athletic
+17/10/1992,2 - 2,Southampton,Wimbledon
+17/10/1992,2 - 2,Tottenham Hotspur,Middlesbrough
+04/10/1992,1 - 0,Oldham Athletic,Everton
+03/10/1992,2 - 1,Arsenal,Chelsea
+03/10/1992,7 - 1,Blackburn Rovers,Norwich City
+03/10/1992,2 - 2,Coventry City,Crystal Palace
+03/10/1992,4 - 2,Ipswich Town,Leeds United
+03/10/1992,1 - 0,Liverpool,Sheffield Wednesday
+03/10/1992,2 - 2,Manchester City,Nottingham Forest
+03/10/1992,1 - 1,Middlesbrough,Manchester United
+03/10/1992,4 - 1,Queens Park Rangers,Tottenham Hotspur
+03/10/1992,2 - 0,Sheffield United,Southampton
+03/10/1992,2 - 3,Wimbledon,Aston Villa
+28/09/1992,1 - 0,Arsenal,Manchester City
+27/09/1992,2 - 0,Sheffield Wednesday,Tottenham Hotspur
+26/09/1992,2 - 0,Blackburn Rovers,Oldham Athletic
+26/09/1992,0 - 0,Chelsea,Nottingham Forest
+26/09/1992,1 - 1,Coventry City,Norwich City
+26/09/1992,1 - 2,Crystal Palace,Southampton
+26/09/1992,0 - 0,Ipswich Town,Sheffield United
+26/09/1992,2 - 0,Leeds United,Everton
+26/09/1992,2 - 3,Liverpool,Wimbledon
+26/09/1992,0 - 0,Manchester United,Queens Park Rangers
+26/09/1992,2 - 3,Middlesbrough,Aston Villa
+21/09/1992,1 - 1,Nottingham Forest,Coventry City
+20/09/1992,0 - 1,Manchester City,Chelsea
+19/09/1992,4 - 2,Aston Villa,Liverpool
+19/09/1992,0 - 2,Everton,Crystal Palace
+19/09/1992,1 - 0,Norwich City,Sheffield Wednesday
+19/09/1992,4 - 2,Oldham Athletic,Ipswich Town
+19/09/1992,3 - 3,Queens Park Rangers,Middlesbrough
+19/09/1992,1 - 1,Sheffield United,Arsenal
+19/09/1992,1 - 1,Southampton,Leeds United
+19/09/1992,1 - 1,Tottenham Hotspur,Manchester United
+19/09/1992,1 - 1,Wimbledon,Blackburn Rovers
+15/09/1992,2 - 3,Blackburn Rovers,Everton
+14/09/1992,1 - 0,Coventry City,Tottenham Hotspur
+13/09/1992,1 - 1,Leeds United,Aston Villa
+12/09/1992,0 - 1,Arsenal,Blackburn Rovers
+12/09/1992,2 - 3,Chelsea,Norwich City
+12/09/1992,2 - 2,Crystal Palace,Oldham Athletic
+12/09/1992,0 - 2,Everton,Manchester United
+12/09/1992,2 - 1,Ipswich Town,Wimbledon
+12/09/1992,0 - 1,Manchester City,Middlesbrough
+12/09/1992,1 - 2,Nottingham Forest,Sheffield Wednesday
+12/09/1992,1 - 0,Sheffield United,Liverpool
+12/09/1992,1 - 2,Southampton,Queens Park Rangers
+06/09/1992,2 - 0,Manchester United,Leeds United
+05/09/1992,3 - 0,Aston Villa,Crystal Palace
+05/09/1992,4 - 1,Blackburn Rovers,Nottingham Forest
+05/09/1992,2 - 1,Liverpool,Chelsea
+05/09/1992,2 - 0,Middlesbrough,Sheffield United
+05/09/1992,1 - 0,Norwich City,Southampton
+05/09/1992,0 - 1,Oldham Athletic,Coventry City
+05/09/1992,0 - 0,Queens Park Rangers,Ipswich Town
+05/09/1992,0 - 3,Sheffield Wednesday,Manchester City
+05/09/1992,2 - 1,Tottenham Hotspur,Everton
+05/09/1992,3 - 2,Wimbledon,Arsenal
+02/09/1992,1 - 3,Aston Villa,Chelsea
+02/09/1992,1 - 0,Manchester United,Crystal Palace
+02/09/1992,0 - 0,Queens Park Rangers,Arsenal
+02/09/1992,1 - 2,Sheffield Wednesday,Coventry City
+02/09/1992,2 - 0,Tottenham Hotspur,Sheffield United
+01/09/1992,1 - 1,Liverpool,Southampton
+01/09/1992,2 - 2,Middlesbrough,Ipswich Town
+01/09/1992,2 - 2,Oldham Athletic,Leeds United
+01/09/1992,0 - 1,Wimbledon,Manchester City
+31/08/1992,3 - 1,Norwich City,Nottingham Forest
+30/08/1992,1 - 1,Ipswich Town,Tottenham Hotspur
+29/08/1992,2 - 1,Arsenal,Sheffield Wednesday
+29/08/1992,1 - 0,Chelsea,Queens Park Rangers
+29/08/1992,0 - 2,Coventry City,Blackburn Rovers
+29/08/1992,1 - 2,Crystal Palace,Norwich City
+29/08/1992,0 - 0,Everton,Wimbledon
+29/08/1992,2 - 2,Leeds United,Liverpool
+29/08/1992,3 - 3,Manchester City,Oldham Athletic
+29/08/1992,0 - 2,Nottingham Forest,Manchester United
+29/08/1992,0 - 2,Sheffield United,Aston Villa
+29/08/1992,2 - 1,Southampton,Middlesbrough
+26/08/1992,2 - 0,Arsenal,Oldham Athletic
+26/08/1992,0 - 0,Chelsea,Blackburn Rovers
+26/08/1992,0 - 1,Coventry City,Queens Park Rangers
+26/08/1992,3 - 1,Manchester City,Norwich City
+25/08/1992,1 - 1,Crystal Palace,Sheffield Wednesday
+25/08/1992,1 - 0,Everton,Aston Villa
+25/08/1992,2 - 2,Ipswich Town,Liverpool
+25/08/1992,5 - 0,Leeds United,Tottenham Hotspur
+25/08/1992,2 - 2,Sheffield United,Wimbledon
+24/08/1992,0 - 1,Southampton,Manchester United
+23/08/1992,0 - 2,Liverpool,Arsenal
+22/08/1992,1 - 1,Aston Villa,Southampton
+22/08/1992,1 - 0,Blackburn Rovers,Manchester City
+22/08/1992,1 - 1,Manchester United,Ipswich Town
+22/08/1992,4 - 1,Middlesbrough,Leeds United
+22/08/1992,1 - 1,Norwich City,Everton
+22/08/1992,5 - 3,Oldham Athletic,Nottingham Forest
+22/08/1992,3 - 2,Queens Park Rangers,Sheffield United
+22/08/1992,3 - 3,Sheffield Wednesday,Chelsea
+22/08/1992,2 - 2,Tottenham Hotspur,Crystal Palace
+22/08/1992,1 - 2,Wimbledon,Coventry City
+19/08/1992,1 - 1,Aston Villa,Leeds United
+19/08/1992,2 - 1,Liverpool,Sheffield United
+19/08/1992,0 - 3,Manchester United,Everton
+19/08/1992,2 - 0,Middlesbrough,Manchester City
+19/08/1992,2 - 1,Norwich City,Chelsea
+19/08/1992,1 - 1,Oldham Athletic,Crystal Palace
+19/08/1992,3 - 1,Queens Park Rangers,Southampton
+19/08/1992,2 - 0,Sheffield Wednesday,Nottingham Forest
+19/08/1992,0 - 2,Tottenham Hotspur,Coventry City
+18/08/1992,1 - 0,Blackburn Rovers,Arsenal
+18/08/1992,0 - 1,Wimbledon,Ipswich Town
+17/08/1992,1 - 1,Manchester City,Queens Park Rangers
+16/08/1992,1 - 0,Nottingham Forest,Liverpool
+15/08/1992,2 - 4,Arsenal,Norwich City
+15/08/1992,1 - 1,Chelsea,Oldham Athletic
+15/08/1992,2 - 1,Coventry City,Middlesbrough
+15/08/1992,3 - 3,Crystal Palace,Blackburn Rovers
+15/08/1992,1 - 1,Everton,Sheffield Wednesday
+15/08/1992,1 - 1,Ipswich Town,Aston Villa
+15/08/1992,2 - 1,Leeds United,Wimbledon
+15/08/1992,2 - 1,Sheffield United,Manchester United
+15/08/1992,0 - 0,Southampton,Tottenham Hotspur

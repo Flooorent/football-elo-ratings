@@ -1,0 +1,307 @@
+date,score,home_team,away_team
+09/05/1998,1 - 1,Auxerre,Lens
+09/05/1998,2 - 1,Bastia,Nantes
+09/05/1998,1 - 3,Cannes,Guingamp
+09/05/1998,2 - 1,Châteauroux,PSG
+09/05/1998,1 - 1,Le Havre,Olympique Marseille
+09/05/1998,1 - 0,Metz,Olympique Lyonnais
+09/05/1998,5 - 2,Monaco,Bordeaux
+09/05/1998,1 - 0,Rennes,Toulouse
+09/05/1998,3 - 0,Strasbourg,Montpellier
+25/04/1998,1 - 0,Bordeaux,Châteauroux
+25/04/1998,1 - 2,Guingamp,Le Havre
+25/04/1998,5 - 1,Lens,Bastia
+25/04/1998,1 - 1,Montpellier,Auxerre
+25/04/1998,1 - 1,Nantes,Rennes
+25/04/1998,2 - 0,Olympique Lyonnais,Cannes
+25/04/1998,0 - 0,Olympique Marseille,Strasbourg
+25/04/1998,1 - 2,PSG,Monaco
+25/04/1998,0 - 1,Toulouse,Metz
+18/04/1998,2 - 1,Auxerre,Olympique Marseille
+18/04/1998,2 - 1,Bastia,Montpellier
+18/04/1998,2 - 3,Châteauroux,Olympique Lyonnais
+18/04/1998,0 - 1,Monaco,Toulouse
+18/04/1998,0 - 1,PSG,Bordeaux
+18/04/1998,1 - 2,Rennes,Guingamp
+18/04/1998,0 - 1,Strasbourg,Le Havre
+17/04/1998,0 - 2,Cannes,Lens
+17/04/1998,3 - 2,Metz,Nantes
+08/04/1998,0 - 1,Guingamp,Metz
+08/04/1998,0 - 0,Olympique Marseille,PSG
+07/04/1998,2 - 2,Le Havre,Auxerre
+07/04/1998,3 - 0,Lens,Rennes
+07/04/1998,1 - 0,Montpellier,Cannes
+07/04/1998,1 - 1,Nantes,Monaco
+07/04/1998,1 - 1,Olympique Lyonnais,Bordeaux
+07/04/1998,1 - 1,Strasbourg,Bastia
+07/04/1998,1 - 1,Toulouse,Châteauroux
+29/03/1998,3 - 3,Cannes,Olympique Marseille
+29/03/1998,0 - 2,Metz,Lens
+28/03/1998,1 - 2,Auxerre,Strasbourg
+28/03/1998,2 - 0,Bastia,Le Havre
+28/03/1998,3 - 1,Bordeaux,Toulouse
+28/03/1998,1 - 2,Châteauroux,Nantes
+28/03/1998,1 - 0,Monaco,Guingamp
+28/03/1998,3 - 0,PSG,Olympique Lyonnais
+28/03/1998,2 - 0,Rennes,Montpellier
+15/03/1998,3 - 0,Lens,PSG
+15/03/1998,1 - 0,Olympique Marseille,Bastia
+13/03/1998,3 - 1,Auxerre,Monaco
+13/03/1998,0 - 0,Guingamp,Châteauroux
+13/03/1998,2 - 0,Le Havre,Cannes
+13/03/1998,0 - 1,Montpellier,Metz
+13/03/1998,1 - 2,Nantes,Bordeaux
+13/03/1998,3 - 1,Strasbourg,Rennes
+13/03/1998,0 - 2,Toulouse,Olympique Lyonnais
+07/03/1998,1 - 2,Bastia,Auxerre
+07/03/1998,4 - 2,Bordeaux,Guingamp
+07/03/1998,1 - 0,Cannes,Strasbourg
+07/03/1998,0 - 1,Châteauroux,Montpellier
+07/03/1998,3 - 2,Metz,Olympique Marseille
+07/03/1998,0 - 1,Monaco,Lens
+07/03/1998,0 - 0,Olympique Lyonnais,Nantes
+07/03/1998,1 - 1,PSG,Toulouse
+07/03/1998,2 - 2,Rennes,Le Havre
+21/02/1998,1 - 1,Auxerre,Cannes
+21/02/1998,0 - 0,Guingamp,PSG
+21/02/1998,2 - 1,Le Havre,Metz
+21/02/1998,1 - 0,Lens,Bordeaux
+21/02/1998,1 - 1,Montpellier,Olympique Lyonnais
+21/02/1998,0 - 1,Nantes,Toulouse
+21/02/1998,0 - 1,Olympique Marseille,Rennes
+20/02/1998,1 - 0,Bastia,Monaco
+20/02/1998,2 - 0,Strasbourg,Châteauroux
+13/02/1998,3 - 1,Bordeaux,Montpellier
+13/02/1998,1 - 1,Cannes,Bastia
+13/02/1998,1 - 0,Metz,Strasbourg
+13/02/1998,2 - 0,Monaco,Le Havre
+13/02/1998,1 - 0,Olympique Lyonnais,Guingamp
+13/02/1998,0 - 1,PSG,Nantes
+13/02/1998,0 - 4,Toulouse,Olympique Marseille
+12/02/1998,2 - 1,Châteauroux,Lens
+12/02/1998,1 - 1,Rennes,Auxerre
+05/02/1998,2 - 3,Cannes,Nantes
+05/02/1998,5 - 0,Le Havre,Châteauroux
+04/02/1998,0 - 0,Auxerre,Metz
+04/02/1998,2 - 0,Guingamp,Toulouse
+04/02/1998,3 - 0,Lens,Olympique Lyonnais
+04/02/1998,2 - 1,Montpellier,PSG
+04/02/1998,1 - 0,Olympique Marseille,Bordeaux
+03/02/1998,0 - 0,Bastia,Rennes
+03/02/1998,0 - 0,Strasbourg,Monaco
+24/01/1998,4 - 4,Bordeaux,Strasbourg
+24/01/1998,0 - 3,Châteauroux,Olympique Marseille
+24/01/1998,0 - 1,Metz,Bastia
+24/01/1998,4 - 0,Monaco,Montpellier
+24/01/1998,2 - 0,Nantes,Guingamp
+24/01/1998,1 - 0,Olympique Lyonnais,Auxerre
+24/01/1998,0 - 2,PSG,Le Havre
+24/01/1998,2 - 0,Rennes,Cannes
+24/01/1998,1 - 2,Toulouse,Lens
+21/01/1998,3 - 1,Auxerre,Toulouse
+21/01/1998,2 - 0,Bastia,PSG
+21/01/1998,0 - 0,Le Havre,Bordeaux
+21/01/1998,1 - 0,Lens,Guingamp
+21/01/1998,2 - 0,Montpellier,Nantes
+21/01/1998,3 - 0,Rennes,Châteauroux
+21/01/1998,1 - 2,Strasbourg,Olympique Lyonnais
+20/01/1998,1 - 1,Cannes,Metz
+20/01/1998,1 - 1,Olympique Marseille,Monaco
+14/01/1998,2 - 2,Cannes,Châteauroux
+14/01/1998,3 - 0,Olympique Marseille,Guingamp
+11/01/1998,1 - 0,Nantes,Lens
+11/01/1998,2 - 1,PSG,Strasbourg
+10/01/1998,2 - 0,Bordeaux,Bastia
+10/01/1998,3 - 2,Châteauroux,Auxerre
+10/01/1998,1 - 2,Guingamp,Montpellier
+10/01/1998,1 - 0,Metz,Rennes
+10/01/1998,0 - 1,Monaco,Cannes
+10/01/1998,2 - 1,Olympique Lyonnais,Olympique Marseille
+10/01/1998,1 - 0,Toulouse,Le Havre
+19/12/1997,4 - 2,Auxerre,Bordeaux
+19/12/1997,0 - 1,Bastia,Olympique Lyonnais
+19/12/1997,1 - 0,Le Havre,Nantes
+19/12/1997,3 - 0,Metz,Monaco
+19/12/1997,1 - 2,Montpellier,Lens
+19/12/1997,1 - 2,Rennes,PSG
+19/12/1997,2 - 0,Strasbourg,Toulouse
+14/12/1997,1 - 0,Monaco,Rennes
+14/12/1997,1 - 1,PSG,Metz
+13/12/1997,0 - 1,Bordeaux,Cannes
+13/12/1997,1 - 1,Châteauroux,Bastia
+13/12/1997,1 - 1,Guingamp,Auxerre
+13/12/1997,0 - 1,Lens,Olympique Marseille
+13/12/1997,2 - 1,Nantes,Strasbourg
+13/12/1997,0 - 1,Olympique Lyonnais,Le Havre
+13/12/1997,1 - 1,Toulouse,Montpellier
+07/12/1997,0 - 0,Bastia,Toulouse
+07/12/1997,0 - 0,Olympique Marseille,Montpellier
+06/12/1997,0 - 1,Le Havre,Lens
+06/12/1997,0 - 0,Rennes,Bordeaux
+06/12/1997,0 - 1,Strasbourg,Guingamp
+05/12/1997,0 - 1,Cannes,PSG
+05/12/1997,2 - 0,Metz,Châteauroux
+05/12/1997,2 - 1,Monaco,Olympique Lyonnais
+04/12/1997,3 - 1,Auxerre,Nantes
+30/11/1997,2 - 2,Bordeaux,Metz
+30/11/1997,1 - 0,PSG,Auxerre
+29/11/1997,0 - 2,Châteauroux,Monaco
+29/11/1997,0 - 0,Guingamp,Bastia
+29/11/1997,3 - 2,Lens,Strasbourg
+29/11/1997,1 - 1,Montpellier,Le Havre
+29/11/1997,1 - 0,Nantes,Olympique Marseille
+29/11/1997,3 - 1,Olympique Lyonnais,Rennes
+29/11/1997,1 - 0,Toulouse,Cannes
+21/11/1997,1 - 0,Bastia,Lens
+21/11/1997,1 - 0,Cannes,Olympique Lyonnais
+21/11/1997,1 - 0,Châteauroux,Bordeaux
+21/11/1997,0 - 0,Le Havre,Guingamp
+21/11/1997,2 - 1,Metz,Toulouse
+21/11/1997,3 - 0,Rennes,Nantes
+20/11/1997,3 - 1,Auxerre,Montpellier
+20/11/1997,3 - 0,Monaco,PSG
+20/11/1997,2 - 0,Strasbourg,Olympique Marseille
+16/11/1997,1 - 0,Guingamp,Rennes
+16/11/1997,1 - 1,Le Havre,Strasbourg
+15/11/1997,0 - 0,Bordeaux,PSG
+15/11/1997,5 - 4,Lens,Cannes
+15/11/1997,1 - 1,Montpellier,Bastia
+15/11/1997,1 - 1,Nantes,Metz
+15/11/1997,4 - 0,Olympique Marseille,Auxerre
+15/11/1997,1 - 3,Toulouse,Monaco
+14/11/1997,2 - 1,Olympique Lyonnais,Châteauroux
+09/11/1997,3 - 2,Monaco,Nantes
+09/11/1997,1 - 2,PSG,Olympique Marseille
+08/11/1997,0 - 0,Auxerre,Le Havre
+08/11/1997,2 - 0,Bastia,Strasbourg
+08/11/1997,0 - 0,Bordeaux,Olympique Lyonnais
+08/11/1997,1 - 0,Cannes,Montpellier
+08/11/1997,2 - 1,Châteauroux,Toulouse
+08/11/1997,2 - 1,Metz,Guingamp
+08/11/1997,2 - 3,Rennes,Lens
+02/11/1997,2 - 0,Montpellier,Rennes
+02/11/1997,2 - 2,Toulouse,Bordeaux
+31/10/1997,1 - 2,Guingamp,Monaco
+31/10/1997,2 - 1,Le Havre,Bastia
+31/10/1997,1 - 1,Lens,Metz
+31/10/1997,3 - 1,Nantes,Châteauroux
+31/10/1997,1 - 0,Olympique Lyonnais,PSG
+31/10/1997,2 - 0,Olympique Marseille,Cannes
+31/10/1997,1 - 1,Strasbourg,Auxerre
+26/10/1997,1 - 1,Bordeaux,Nantes
+26/10/1997,0 - 1,Monaco,Auxerre
+25/10/1997,1 - 1,Bastia,Olympique Marseille
+25/10/1997,1 - 1,Cannes,Le Havre
+25/10/1997,2 - 2,Châteauroux,Guingamp
+25/10/1997,0 - 1,Metz,Montpellier
+25/10/1997,0 - 0,Olympique Lyonnais,Toulouse
+25/10/1997,2 - 0,PSG,Lens
+25/10/1997,3 - 1,Rennes,Strasbourg
+17/10/1997,2 - 0,Auxerre,Bastia
+17/10/1997,1 - 1,Le Havre,Rennes
+17/10/1997,1 - 0,Lens,Monaco
+17/10/1997,1 - 0,Montpellier,Châteauroux
+17/10/1997,3 - 2,Nantes,Olympique Lyonnais
+17/10/1997,2 - 0,Strasbourg,Cannes
+17/10/1997,0 - 2,Toulouse,PSG
+16/10/1997,0 - 1,Guingamp,Bordeaux
+16/10/1997,2 - 0,Olympique Marseille,Metz
+08/10/1997,3 - 0,Bordeaux,Lens
+08/10/1997,2 - 0,Châteauroux,Strasbourg
+08/10/1997,2 - 0,Metz,Le Havre
+08/10/1997,1 - 2,Olympique Lyonnais,Montpellier
+08/10/1997,4 - 2,PSG,Guingamp
+08/10/1997,0 - 2,Rennes,Olympique Marseille
+08/10/1997,1 - 0,Toulouse,Nantes
+07/10/1997,2 - 3,Cannes,Auxerre
+07/10/1997,1 - 0,Monaco,Bastia
+05/10/1997,0 - 0,Nantes,PSG
+05/10/1997,2 - 0,Strasbourg,Metz
+04/10/1997,4 - 0,Auxerre,Rennes
+04/10/1997,5 - 1,Bastia,Cannes
+04/10/1997,0 - 1,Guingamp,Olympique Lyonnais
+04/10/1997,1 - 1,Le Havre,Monaco
+04/10/1997,1 - 0,Lens,Châteauroux
+04/10/1997,0 - 1,Montpellier,Bordeaux
+04/10/1997,2 - 0,Olympique Marseille,Toulouse
+26/09/1997,2 - 1,Châteauroux,Le Havre
+26/09/1997,3 - 0,Metz,Auxerre
+26/09/1997,3 - 2,Monaco,Strasbourg
+26/09/1997,1 - 2,Nantes,Cannes
+26/09/1997,1 - 1,PSG,Montpellier
+26/09/1997,2 - 0,Rennes,Bastia
+26/09/1997,3 - 0,Toulouse,Guingamp
+25/09/1997,2 - 0,Bordeaux,Olympique Marseille
+25/09/1997,1 - 3,Olympique Lyonnais,Lens
+21/09/1997,0 - 0,Bastia,Metz
+21/09/1997,0 - 2,Montpellier,Monaco
+20/09/1997,1 - 2,Auxerre,Olympique Lyonnais
+20/09/1997,1 - 1,Cannes,Rennes
+20/09/1997,1 - 0,Guingamp,Nantes
+20/09/1997,1 - 1,Le Havre,PSG
+20/09/1997,2 - 0,Lens,Toulouse
+20/09/1997,2 - 0,Olympique Marseille,Châteauroux
+20/09/1997,0 - 0,Strasbourg,Bordeaux
+12/09/1997,2 - 1,Bordeaux,Le Havre
+12/09/1997,2 - 0,Metz,Cannes
+12/09/1997,2 - 0,Monaco,Olympique Marseille
+12/09/1997,1 - 1,Nantes,Montpellier
+12/09/1997,3 - 1,Olympique Lyonnais,Strasbourg
+12/09/1997,2 - 0,PSG,Bastia
+12/09/1997,2 - 1,Toulouse,Auxerre
+11/09/1997,1 - 0,Châteauroux,Rennes
+11/09/1997,2 - 1,Guingamp,Lens
+05/09/1997,5 - 0,Auxerre,Châteauroux
+05/09/1997,4 - 1,Bastia,Bordeaux
+05/09/1997,1 - 2,Cannes,Monaco
+05/09/1997,0 - 0,Lens,Nantes
+05/09/1997,2 - 3,Montpellier,Guingamp
+05/09/1997,2 - 2,Rennes,Metz
+05/09/1997,0 - 3,Strasbourg,PSG
+04/09/1997,1 - 1,Le Havre,Toulouse
+04/09/1997,1 - 0,Olympique Marseille,Olympique Lyonnais
+30/08/1997,3 - 2,Bordeaux,Auxerre
+30/08/1997,1 - 2,Châteauroux,Cannes
+30/08/1997,0 - 0,Lens,Montpellier
+30/08/1997,2 - 0,Nantes,Le Havre
+30/08/1997,0 - 2,Olympique Lyonnais,Bastia
+30/08/1997,4 - 1,PSG,Rennes
+30/08/1997,1 - 1,Toulouse,Strasbourg
+29/08/1997,1 - 1,Guingamp,Olympique Marseille
+29/08/1997,1 - 2,Monaco,Metz
+22/08/1997,1 - 0,Auxerre,Guingamp
+22/08/1997,1 - 1,Bastia,Châteauroux
+22/08/1997,1 - 3,Le Havre,Olympique Lyonnais
+22/08/1997,2 - 1,Metz,PSG
+22/08/1997,4 - 0,Montpellier,Toulouse
+22/08/1997,2 - 3,Olympique Marseille,Lens
+22/08/1997,2 - 1,Rennes,Monaco
+21/08/1997,0 - 2,Cannes,Bordeaux
+21/08/1997,1 - 2,Strasbourg,Nantes
+16/08/1997,2 - 2,Bordeaux,Rennes
+16/08/1997,0 - 0,Guingamp,Strasbourg
+16/08/1997,0 - 0,Montpellier,Olympique Marseille
+16/08/1997,0 - 2,Nantes,Auxerre
+16/08/1997,0 - 3,Olympique Lyonnais,Monaco
+16/08/1997,3 - 1,PSG,Cannes
+16/08/1997,1 - 1,Toulouse,Bastia
+15/08/1997,1 - 2,Châteauroux,Metz
+15/08/1997,0 - 0,Lens,Le Havre
+09/08/1997,1 - 0,Bastia,Guingamp
+09/08/1997,0 - 1,Cannes,Toulouse
+09/08/1997,4 - 0,Le Havre,Montpellier
+09/08/1997,4 - 1,Metz,Bordeaux
+09/08/1997,2 - 2,Monaco,Châteauroux
+09/08/1997,1 - 0,Olympique Marseille,Nantes
+09/08/1997,2 - 1,Strasbourg,Lens
+08/08/1997,2 - 3,Auxerre,PSG
+08/08/1997,0 - 3,Rennes,Olympique Lyonnais
+02/08/1997,3 - 1,Guingamp,Cannes
+02/08/1997,3 - 0,Lens,Auxerre
+02/08/1997,1 - 1,Montpellier,Strasbourg
+02/08/1997,0 - 1,Nantes,Bastia
+02/08/1997,0 - 1,Olympique Lyonnais,Metz
+02/08/1997,3 - 1,Olympique Marseille,Le Havre
+02/08/1997,2 - 0,PSG,Châteauroux
+01/08/1997,1 - 0,Bordeaux,Monaco
+01/08/1997,1 - 0,Toulouse,Rennes

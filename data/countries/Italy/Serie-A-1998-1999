@@ -1,0 +1,307 @@
+date,score,home_team,away_team
+23/05/1999,1 - 1,Cagliari,Fiorentina
+23/05/1999,1 - 3,Empoli,Udinese
+23/05/1999,3 - 1,Internazionale,Bologna
+23/05/1999,3 - 2,Juventus,Venezia
+23/05/1999,2 - 1,Lazio,Parma
+23/05/1999,1 - 2,Perugia,Milan
+23/05/1999,1 - 1,Piacenza,Salernitana
+23/05/1999,1 - 0,Sampdoria,Bari 1908
+23/05/1999,1 - 4,Vicenza,Roma
+16/05/1999,0 - 1,Bari 1908,Juventus
+16/05/1999,2 - 2,Bologna,Sampdoria
+16/05/1999,0 - 1,Parma,Piacenza
+16/05/1999,3 - 1,Roma,Cagliari
+16/05/1999,2 - 1,Salernitana,Vicenza
+16/05/1999,1 - 2,Udinese,Perugia
+16/05/1999,3 - 1,Venezia,Internazionale
+15/05/1999,1 - 1,Fiorentina,Lazio
+15/05/1999,4 - 0,Milan,Empoli
+09/05/1999,3 - 1,Cagliari,Salernitana
+09/05/1999,2 - 2,Empoli,Venezia
+09/05/1999,0 - 2,Juventus,Milan
+09/05/1999,2 - 0,Lazio,Bologna
+09/05/1999,0 - 1,Perugia,Bari 1908
+09/05/1999,2 - 0,Piacenza,Roma
+09/05/1999,3 - 2,Sampdoria,Fiorentina
+09/05/1999,2 - 3,Vicenza,Udinese
+08/05/1999,1 - 3,Internazionale,Parma
+03/05/1999,4 - 5,Roma,Internazionale
+02/05/1999,3 - 1,Bari 1908,Piacenza
+02/05/1999,1 - 3,Bologna,Cagliari
+02/05/1999,5 - 1,Fiorentina,Perugia
+02/05/1999,3 - 2,Milan,Sampdoria
+02/05/1999,1 - 0,Parma,Empoli
+02/05/1999,1 - 0,Salernitana,Juventus
+02/05/1999,0 - 3,Udinese,Lazio
+02/05/1999,1 - 2,Venezia,Vicenza
+25/04/1999,2 - 2,Cagliari,Perugia
+25/04/1999,0 - 2,Empoli,Bari 1908
+25/04/1999,1 - 3,Internazionale,Udinese
+25/04/1999,2 - 1,Juventus,Fiorentina
+25/04/1999,0 - 1,Piacenza,Venezia
+25/04/1999,1 - 0,Roma,Parma
+25/04/1999,4 - 0,Salernitana,Bologna
+25/04/1999,0 - 1,Sampdoria,Lazio
+25/04/1999,0 - 2,Vicenza,Milan
+18/04/1999,0 - 0,Bari 1908,Salernitana
+18/04/1999,1 - 2,Empoli,Piacenza
+18/04/1999,1 - 1,Internazionale,Vicenza
+18/04/1999,3 - 2,Perugia,Roma
+18/04/1999,1 - 5,Udinese,Milan
+18/04/1999,1 - 0,Venezia,Cagliari
+17/04/1999,3 - 0,Bologna,Fiorentina
+17/04/1999,1 - 3,Lazio,Juventus
+17/04/1999,1 - 1,Parma,Sampdoria
+11/04/1999,1 - 2,Cagliari,Udinese
+11/04/1999,2 - 2,Fiorentina,Bari 1908
+11/04/1999,2 - 2,Juventus,Bologna
+11/04/1999,2 - 1,Milan,Parma
+11/04/1999,2 - 0,Piacenza,Perugia
+11/04/1999,3 - 1,Roma,Lazio
+11/04/1999,2 - 0,Salernitana,Internazionale
+11/04/1999,2 - 1,Sampdoria,Venezia
+11/04/1999,2 - 0,Vicenza,Empoli
+03/04/1999,1 - 4,Bari 1908,Roma
+03/04/1999,1 - 0,Empoli,Juventus
+03/04/1999,2 - 0,Internazionale,Fiorentina
+03/04/1999,0 - 0,Lazio,Milan
+03/04/1999,1 - 1,Parma,Cagliari
+03/04/1999,0 - 0,Perugia,Bologna
+03/04/1999,4 - 3,Piacenza,Udinese
+03/04/1999,0 - 0,Venezia,Salernitana
+03/04/1999,1 - 0,Vicenza,Sampdoria
+21/03/1999,4 - 2,Bologna,Vicenza
+21/03/1999,5 - 1,Cagliari,Empoli
+21/03/1999,2 - 1,Fiorentina,Piacenza
+21/03/1999,1 - 1,Juventus,Roma
+21/03/1999,2 - 0,Lazio,Venezia
+21/03/1999,2 - 2,Milan,Bari 1908
+21/03/1999,1 - 0,Perugia,Salernitana
+21/03/1999,4 - 0,Sampdoria,Internazionale
+21/03/1999,2 - 1,Udinese,Parma
+14/03/1999,0 - 0,Empoli,Lazio
+14/03/1999,2 - 0,Piacenza,Cagliari
+14/03/1999,2 - 0,Salernitana,Sampdoria
+14/03/1999,4 - 1,Venezia,Fiorentina
+14/03/1999,3 - 0,Vicenza,Perugia
+13/03/1999,2 - 2,Internazionale,Milan
+13/03/1999,2 - 1,Juventus,Udinese
+13/03/1999,2 - 1,Parma,Bari 1908
+13/03/1999,3 - 1,Roma,Bologna
+07/03/1999,1 - 0,Bari 1908,Internazionale
+07/03/1999,2 - 1,Bologna,Venezia
+07/03/1999,1 - 0,Cagliari,Vicenza
+07/03/1999,2 - 1,Fiorentina,Parma
+07/03/1999,6 - 1,Lazio,Salernitana
+07/03/1999,1 - 0,Milan,Piacenza
+07/03/1999,3 - 1,Perugia,Empoli
+07/03/1999,1 - 2,Sampdoria,Juventus
+07/03/1999,2 - 1,Udinese,Roma
+28/02/1999,1 - 1,Bari 1908,Cagliari
+28/02/1999,0 - 1,Empoli,Sampdoria
+28/02/1999,1 - 1,Salernitana,Fiorentina
+28/02/1999,1 - 0,Venezia,Udinese
+28/02/1999,1 - 2,Vicenza,Lazio
+27/02/1999,0 - 0,Internazionale,Juventus
+27/02/1999,3 - 1,Parma,Perugia
+27/02/1999,5 - 0,Piacenza,Bologna
+27/02/1999,1 - 0,Roma,Milan
+21/02/1999,2 - 0,Bologna,Empoli
+21/02/1999,0 - 0,Fiorentina,Roma
+21/02/1999,2 - 0,Juventus,Vicenza
+21/02/1999,1 - 0,Lazio,Internazionale
+21/02/1999,1 - 0,Milan,Cagliari
+21/02/1999,1 - 2,Salernitana,Parma
+21/02/1999,3 - 2,Sampdoria,Piacenza
+21/02/1999,4 - 0,Udinese,Bari 1908
+21/02/1999,2 - 1,Venezia,Perugia
+14/02/1999,0 - 0,Bari 1908,Vicenza
+14/02/1999,0 - 0,Cagliari,Lazio
+14/02/1999,2 - 3,Empoli,Salernitana
+14/02/1999,2 - 1,Milan,Venezia
+14/02/1999,1 - 1,Parma,Bologna
+14/02/1999,2 - 1,Perugia,Internazionale
+14/02/1999,0 - 2,Piacenza,Juventus
+14/02/1999,3 - 1,Roma,Sampdoria
+14/02/1999,1 - 0,Udinese,Fiorentina
+07/02/1999,3 - 1,Bologna,Bari 1908
+07/02/1999,0 - 0,Fiorentina,Milan
+07/02/1999,5 - 1,Internazionale,Empoli
+07/02/1999,2 - 4,Juventus,Parma
+07/02/1999,3 - 0,Lazio,Perugia
+07/02/1999,1 - 2,Salernitana,Udinese
+07/02/1999,0 - 0,Sampdoria,Cagliari
+07/02/1999,3 - 1,Venezia,Roma
+07/02/1999,1 - 0,Vicenza,Piacenza
+31/01/1999,1 - 3,Bari 1908,Lazio
+31/01/1999,1 - 0,Cagliari,Juventus
+31/01/1999,3 - 0,Fiorentina,Vicenza
+31/01/1999,3 - 2,Milan,Salernitana
+31/01/1999,2 - 2,Parma,Venezia
+31/01/1999,2 - 0,Perugia,Sampdoria
+31/01/1999,0 - 0,Piacenza,Internazionale
+31/01/1999,1 - 1,Roma,Empoli
+31/01/1999,2 - 0,Udinese,Bologna
+24/01/1999,2 - 3,Bologna,Milan
+24/01/1999,0 - 3,Empoli,Fiorentina
+24/01/1999,5 - 1,Internazionale,Cagliari
+24/01/1999,2 - 1,Juventus,Perugia
+24/01/1999,4 - 1,Lazio,Piacenza
+24/01/1999,2 - 1,Salernitana,Roma
+24/01/1999,1 - 1,Sampdoria,Udinese
+24/01/1999,2 - 1,Venezia,Bari 1908
+24/01/1999,0 - 0,Vicenza,Parma
+20/01/1999,3 - 2,Venezia,Empoli
+17/01/1999,3 - 1,Bari 1908,Sampdoria
+17/01/1999,2 - 0,Bologna,Internazionale
+17/01/1999,4 - 2,Fiorentina,Cagliari
+17/01/1999,2 - 1,Milan,Perugia
+17/01/1999,1 - 3,Parma,Lazio
+17/01/1999,3 - 0,Roma,Vicenza
+17/01/1999,1 - 1,Salernitana,Piacenza
+17/01/1999,0 - 0,Udinese,Empoli
+17/01/1999,1 - 1,Venezia,Juventus
+10/01/1999,4 - 3,Cagliari,Roma
+10/01/1999,1 - 1,Empoli,Milan
+10/01/1999,6 - 2,Internazionale,Venezia
+10/01/1999,1 - 1,Juventus,Bari 1908
+10/01/1999,2 - 0,Lazio,Fiorentina
+10/01/1999,1 - 3,Perugia,Udinese
+10/01/1999,3 - 6,Piacenza,Parma
+10/01/1999,1 - 1,Sampdoria,Bologna
+10/01/1999,1 - 0,Vicenza,Salernitana
+06/01/1999,2 - 1,Bari 1908,Perugia
+06/01/1999,0 - 1,Bologna,Lazio
+06/01/1999,1 - 0,Fiorentina,Sampdoria
+06/01/1999,1 - 1,Milan,Juventus
+06/01/1999,1 - 0,Parma,Internazionale
+06/01/1999,2 - 2,Roma,Piacenza
+06/01/1999,1 - 3,Salernitana,Cagliari
+06/01/1999,2 - 1,Udinese,Vicenza
+20/12/1998,0 - 1,Cagliari,Bologna
+20/12/1998,3 - 5,Empoli,Parma
+20/12/1998,4 - 1,Internazionale,Roma
+20/12/1998,3 - 0,Juventus,Salernitana
+20/12/1998,3 - 1,Lazio,Udinese
+20/12/1998,2 - 2,Perugia,Fiorentina
+20/12/1998,3 - 2,Piacenza,Bari 1908
+20/12/1998,2 - 2,Sampdoria,Milan
+20/12/1998,0 - 0,Vicenza,Venezia
+13/12/1998,2 - 1,Bari 1908,Empoli
+13/12/1998,1 - 1,Bologna,Salernitana
+13/12/1998,1 - 0,Fiorentina,Juventus
+13/12/1998,5 - 2,Lazio,Sampdoria
+13/12/1998,1 - 0,Milan,Vicenza
+13/12/1998,1 - 1,Parma,Roma
+13/12/1998,2 - 1,Perugia,Cagliari
+13/12/1998,0 - 1,Udinese,Internazionale
+13/12/1998,0 - 0,Venezia,Piacenza
+06/12/1998,0 - 1,Cagliari,Venezia
+06/12/1998,0 - 1,Juventus,Lazio
+06/12/1998,3 - 0,Milan,Udinese
+06/12/1998,0 - 0,Piacenza,Empoli
+06/12/1998,2 - 2,Salernitana,Bari 1908
+06/12/1998,1 - 1,Vicenza,Internazionale
+05/12/1998,1 - 0,Fiorentina,Bologna
+05/12/1998,5 - 1,Roma,Perugia
+05/12/1998,0 - 2,Sampdoria,Parma
+29/11/1998,0 - 0,Bari 1908,Fiorentina
+29/11/1998,3 - 0,Bologna,Juventus
+29/11/1998,1 - 0,Empoli,Vicenza
+29/11/1998,2 - 1,Internazionale,Salernitana
+29/11/1998,3 - 3,Lazio,Roma
+29/11/1998,4 - 0,Parma,Milan
+29/11/1998,2 - 0,Perugia,Piacenza
+29/11/1998,2 - 1,Udinese,Cagliari
+29/11/1998,0 - 0,Venezia,Sampdoria
+22/11/1998,3 - 1,Fiorentina,Internazionale
+22/11/1998,0 - 0,Juventus,Empoli
+22/11/1998,1 - 0,Milan,Lazio
+22/11/1998,1 - 0,Salernitana,Venezia
+22/11/1998,0 - 0,Sampdoria,Vicenza
+22/11/1998,1 - 0,Udinese,Piacenza
+21/11/1998,1 - 1,Bologna,Perugia
+21/11/1998,1 - 0,Cagliari,Parma
+21/11/1998,1 - 1,Roma,Bari 1908
+15/11/1998,0 - 0,Bari 1908,Milan
+15/11/1998,2 - 1,Empoli,Cagliari
+15/11/1998,3 - 0,Internazionale,Sampdoria
+15/11/1998,4 - 1,Parma,Udinese
+15/11/1998,4 - 2,Piacenza,Fiorentina
+15/11/1998,2 - 0,Roma,Juventus
+15/11/1998,2 - 0,Salernitana,Perugia
+15/11/1998,2 - 0,Venezia,Lazio
+15/11/1998,0 - 4,Vicenza,Bologna
+08/11/1998,1 - 1,Bari 1908,Parma
+08/11/1998,1 - 1,Bologna,Roma
+08/11/1998,3 - 2,Cagliari,Piacenza
+08/11/1998,4 - 1,Fiorentina,Venezia
+08/11/1998,4 - 1,Lazio,Empoli
+08/11/1998,2 - 2,Milan,Internazionale
+08/11/1998,3 - 1,Perugia,Vicenza
+08/11/1998,1 - 0,Sampdoria,Salernitana
+08/11/1998,2 - 2,Udinese,Juventus
+01/11/1998,2 - 0,Empoli,Perugia
+01/11/1998,2 - 3,Internazionale,Bari 1908
+01/11/1998,2 - 0,Juventus,Sampdoria
+01/11/1998,1 - 1,Piacenza,Milan
+01/11/1998,1 - 0,Salernitana,Lazio
+01/11/1998,2 - 1,Vicenza,Cagliari
+31/10/1998,2 - 0,Parma,Fiorentina
+31/10/1998,4 - 0,Roma,Udinese
+31/10/1998,0 - 2,Venezia,Bologna
+25/10/1998,3 - 1,Bologna,Piacenza
+25/10/1998,3 - 3,Cagliari,Bari 1908
+25/10/1998,4 - 0,Fiorentina,Salernitana
+25/10/1998,1 - 0,Juventus,Internazionale
+25/10/1998,1 - 1,Lazio,Vicenza
+25/10/1998,3 - 2,Milan,Roma
+25/10/1998,2 - 1,Perugia,Parma
+25/10/1998,3 - 0,Sampdoria,Empoli
+25/10/1998,1 - 1,Udinese,Venezia
+18/10/1998,1 - 1,Bari 1908,Udinese
+18/10/1998,1 - 0,Cagliari,Milan
+18/10/1998,3 - 5,Internazionale,Lazio
+18/10/1998,1 - 0,Perugia,Venezia
+18/10/1998,4 - 1,Piacenza,Sampdoria
+18/10/1998,1 - 1,Vicenza,Juventus
+17/10/1998,0 - 0,Empoli,Bologna
+17/10/1998,2 - 0,Parma,Salernitana
+17/10/1998,2 - 1,Roma,Fiorentina
+04/10/1998,0 - 0,Bologna,Parma
+04/10/1998,1 - 0,Fiorentina,Udinese
+04/10/1998,2 - 0,Internazionale,Perugia
+04/10/1998,1 - 0,Juventus,Piacenza
+04/10/1998,2 - 0,Lazio,Cagliari
+04/10/1998,1 - 1,Salernitana,Empoli
+04/10/1998,2 - 1,Sampdoria,Roma
+04/10/1998,0 - 2,Venezia,Milan
+04/10/1998,1 - 0,Vicenza,Bari 1908
+27/09/1998,5 - 0,Cagliari,Sampdoria
+27/09/1998,1 - 2,Empoli,Internazionale
+27/09/1998,2 - 2,Perugia,Lazio
+27/09/1998,2 - 0,Piacenza,Vicenza
+26/09/1998,0 - 0,Bari 1908,Bologna
+26/09/1998,1 - 3,Milan,Fiorentina
+26/09/1998,1 - 0,Parma,Juventus
+26/09/1998,2 - 0,Roma,Venezia
+26/09/1998,2 - 0,Udinese,Salernitana
+20/09/1998,1 - 3,Bologna,Udinese
+20/09/1998,0 - 0,Empoli,Roma
+20/09/1998,1 - 0,Internazionale,Piacenza
+20/09/1998,1 - 0,Juventus,Cagliari
+20/09/1998,0 - 0,Lazio,Bari 1908
+20/09/1998,1 - 2,Salernitana,Milan
+20/09/1998,1 - 1,Sampdoria,Perugia
+20/09/1998,0 - 0,Venezia,Parma
+20/09/1998,1 - 2,Vicenza,Fiorentina
+13/09/1998,1 - 0,Bari 1908,Venezia
+13/09/1998,2 - 2,Cagliari,Internazionale
+13/09/1998,3 - 4,Perugia,Juventus
+13/09/1998,1 - 1,Piacenza,Lazio
+12/09/1998,2 - 0,Fiorentina,Empoli
+12/09/1998,3 - 0,Milan,Bologna
+12/09/1998,0 - 0,Parma,Vicenza
+12/09/1998,3 - 1,Roma,Salernitana
+12/09/1998,2 - 2,Udinese,Sampdoria

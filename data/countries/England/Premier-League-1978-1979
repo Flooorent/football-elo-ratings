@@ -1,0 +1,463 @@
+date,score,home_team,away_team
+18/05/1979,0 - 1,West Bromwich Albion,Nottingham Forest
+17/05/1979,0 - 3,Leeds United,Liverpool
+16/05/1979,1 - 1,Manchester United,Chelsea
+15/05/1979,1 - 2,Leeds United,Nottingham Forest
+15/05/1979,2 - 3,Manchester City,Aston Villa
+14/05/1979,1 - 1,Chelsea,Arsenal
+14/05/1979,1 - 0,Tottenham Hotspur,West Bromwich Albion
+11/05/1979,0 - 1,Aston Villa,West Bromwich Albion
+11/05/1979,0 - 1,Middlesbrough,Liverpool
+11/05/1979,0 - 4,Queens Park Rangers,Ipswich Town
+09/05/1979,3 - 1,Nottingham Forest,Manchester City
+08/05/1979,1 - 3,Bolton Wanderers,Tottenham Hotspur
+08/05/1979,3 - 0,Liverpool,Aston Villa
+08/05/1979,1 - 0,West Bromwich Albion,Southampton
+07/05/1979,3 - 2,Manchester United,Wolverhampton Wanderers
+07/05/1979,1 - 3,Queens Park Rangers,Birmingham City
+05/05/1979,0 - 0,Birmingham City,Arsenal
+05/05/1979,0 - 0,Bolton Wanderers,Aston Villa
+05/05/1979,2 - 3,Chelsea,Ipswich Town
+05/05/1979,3 - 0,Coventry City,Wolverhampton Wanderers
+05/05/1979,0 - 3,Derby County,Middlesbrough
+05/05/1979,2 - 0,Liverpool,Southampton
+05/05/1979,2 - 0,Manchester City,Bristol City
+05/05/1979,1 - 1,Norwich City,Nottingham Forest
+05/05/1979,1 - 1,Tottenham Hotspur,Everton
+05/05/1979,1 - 0,West Bromwich Albion,Manchester United
+04/05/1979,4 - 3,Leeds United,Queens Park Rangers
+02/05/1979,2 - 2,Aston Villa,Ipswich Town
+02/05/1979,1 - 0,Nottingham Forest,Southampton
+01/05/1979,1 - 4,Bolton Wanderers,Liverpool
+01/05/1979,0 - 2,Everton,West Bromwich Albion
+01/05/1979,3 - 1,Manchester City,Birmingham City
+30/04/1979,1 - 1,Southampton,Manchester United
+30/04/1979,1 - 0,Wolverhampton Wanderers,Nottingham Forest
+28/04/1979,1 - 1,Arsenal,Norwich City
+28/04/1979,2 - 1,Aston Villa,Chelsea
+28/04/1979,0 - 0,Bristol City,Leeds United
+28/04/1979,1 - 0,Everton,Birmingham City
+28/04/1979,2 - 1,Ipswich Town,Tottenham Hotspur
+28/04/1979,0 - 0,Manchester United,Derby County
+28/04/1979,1 - 1,Middlesbrough,West Bromwich Albion
+28/04/1979,0 - 0,Nottingham Forest,Liverpool
+28/04/1979,5 - 1,Queens Park Rangers,Coventry City
+28/04/1979,1 - 0,Southampton,Manchester City
+28/04/1979,1 - 1,Wolverhampton Wanderers,Bolton Wanderers
+25/04/1979,5 - 1,Aston Villa,Arsenal
+25/04/1979,5 - 1,Leeds United,Bolton Wanderers
+25/04/1979,1 - 0,Manchester United,Norwich City
+24/04/1979,1 - 1,Birmingham City,West Bromwich Albion
+24/04/1979,1 - 0,Manchester City,Middlesbrough
+24/04/1979,1 - 1,Southampton,Liverpool
+24/04/1979,4 - 0,Wolverhampton Wanderers,Derby County
+21/04/1979,0 - 2,Birmingham City,Nottingham Forest
+21/04/1979,2 - 3,Bolton Wanderers,Ipswich Town
+21/04/1979,2 - 1,Chelsea,Middlesbrough
+21/04/1979,4 - 0,Coventry City,Southampton
+21/04/1979,2 - 0,Derby County,Arsenal
+21/04/1979,1 - 0,Leeds United,Everton
+21/04/1979,1 - 0,Liverpool,Bristol City
+21/04/1979,3 - 1,Manchester City,Queens Park Rangers
+21/04/1979,1 - 2,Norwich City,Aston Villa
+21/04/1979,1 - 1,Tottenham Hotspur,Manchester United
+21/04/1979,1 - 1,West Bromwich Albion,Wolverhampton Wanderers
+18/04/1979,1 - 1,Nottingham Forest,Manchester United
+17/04/1979,1 - 0,Bristol City,West Bromwich Albion
+17/04/1979,3 - 0,Ipswich Town,Birmingham City
+17/04/1979,2 - 0,Middlesbrough,Manchester City
+16/04/1979,5 - 2,Arsenal,Chelsea
+16/04/1979,3 - 1,Aston Villa,Liverpool
+16/04/1979,1 - 0,Everton,Bolton Wanderers
+16/04/1979,2 - 1,Ipswich Town,Derby County
+16/04/1979,0 - 0,Manchester United,Coventry City
+16/04/1979,0 - 0,Nottingham Forest,Leeds United
+16/04/1979,3 - 3,Southampton,Tottenham Hotspur
+16/04/1979,1 - 0,Wolverhampton Wanderers,Norwich City
+14/04/1979,1 - 1,Birmingham City,Wolverhampton Wanderers
+14/04/1979,0 - 0,Bolton Wanderers,Middlesbrough
+14/04/1979,1 - 2,Chelsea,Southampton
+14/04/1979,3 - 2,Coventry City,Bristol City
+14/04/1979,1 - 2,Derby County,Nottingham Forest
+14/04/1979,1 - 0,Leeds United,Aston Villa
+14/04/1979,2 - 0,Liverpool,Manchester United
+14/04/1979,0 - 0,Manchester City,Everton
+14/04/1979,0 - 1,Norwich City,Ipswich Town
+14/04/1979,1 - 1,Tottenham Hotspur,Queens Park Rangers
+14/04/1979,1 - 1,West Bromwich Albion,Arsenal
+13/04/1979,0 - 0,Queens Park Rangers,Norwich City
+13/04/1979,1 - 1,Southampton,West Bromwich Albion
+11/04/1979,3 - 3,Aston Villa,Derby County
+11/04/1979,1 - 2,Manchester United,Bolton Wanderers
+10/04/1979,1 - 0,Arsenal,Tottenham Hotspur
+10/04/1979,3 - 1,Bristol City,Chelsea
+10/04/1979,3 - 3,Everton,Coventry City
+10/04/1979,1 - 0,Middlesbrough,Leeds United
+10/04/1979,0 - 1,Wolverhampton Wanderers,Liverpool
+07/04/1979,2 - 2,Birmingham City,Southampton
+07/04/1979,2 - 1,Bolton Wanderers,Queens Park Rangers
+07/04/1979,1 - 3,Chelsea,Nottingham Forest
+07/04/1979,1 - 1,Coventry City,Aston Villa
+07/04/1979,0 - 1,Derby County,Bristol City
+07/04/1979,1 - 1,Leeds United,Ipswich Town
+07/04/1979,3 - 0,Liverpool,Arsenal
+07/04/1979,3 - 1,Manchester City,Wolverhampton Wanderers
+07/04/1979,2 - 2,Norwich City,Manchester United
+07/04/1979,1 - 2,Tottenham Hotspur,Middlesbrough
+07/04/1979,1 - 0,West Bromwich Albion,Everton
+04/04/1979,1 - 1,Chelsea,Derby County
+04/04/1979,4 - 0,Nottingham Forest,Aston Villa
+04/04/1979,4 - 0,West Bromwich Albion,Manchester City
+03/04/1979,1 - 1,Arsenal,Coventry City
+03/04/1979,1 - 1,Birmingham City,Ipswich Town
+03/04/1979,3 - 1,Bolton Wanderers,Everton
+03/04/1979,2 - 0,Bristol City,Queens Park Rangers
+03/04/1979,3 - 2,Wolverhampton Wanderers,Tottenham Hotspur
+31/03/1979,2 - 1,Bristol City,Birmingham City
+31/03/1979,2 - 1,Ipswich Town,Manchester City
+31/03/1979,1 - 0,Middlesbrough,Tottenham Hotspur
+31/03/1979,1 - 1,Nottingham Forest,Bolton Wanderers
+31/03/1979,2 - 2,Queens Park Rangers,Derby County
+31/03/1979,2 - 2,Southampton,Leeds United
+30/03/1979,2 - 2,Everton,Norwich City
+28/03/1979,1 - 1,Aston Villa,Coventry City
+28/03/1979,6 - 0,Nottingham Forest,Chelsea
+28/03/1979,0 - 0,Tottenham Hotspur,Southampton
+27/03/1979,1 - 0,Birmingham City,Norwich City
+27/03/1979,2 - 2,Middlesbrough,Manchester United
+27/03/1979,1 - 1,Wolverhampton Wanderers,Manchester City
+26/03/1979,4 - 2,Bolton Wanderers,Arsenal
+26/03/1979,2 - 1,West Bromwich Albion,Derby County
+24/03/1979,1 - 1,Arsenal,Manchester City
+24/03/1979,2 - 3,Aston Villa,Tottenham Hotspur
+24/03/1979,2 - 0,Bolton Wanderers,Southampton
+24/03/1979,1 - 2,Chelsea,Wolverhampton Wanderers
+24/03/1979,0 - 0,Derby County,Everton
+24/03/1979,2 - 0,Liverpool,Ipswich Town
+24/03/1979,4 - 1,Manchester United,Leeds United
+24/03/1979,2 - 1,Middlesbrough,Birmingham City
+24/03/1979,3 - 0,Norwich City,Bristol City
+24/03/1979,3 - 0,Nottingham Forest,Coventry City
+24/03/1979,2 - 1,West Bromwich Albion,Queens Park Rangers
+21/03/1979,3 - 0,Derby County,Bolton Wanderers
+20/03/1979,3 - 1,Aston Villa,Queens Park Rangers
+20/03/1979,4 - 3,Coventry City,Manchester United
+20/03/1979,2 - 0,Liverpool,Wolverhampton Wanderers
+17/03/1979,1 - 1,Bristol City,Middlesbrough
+17/03/1979,1 - 3,Chelsea,Queens Park Rangers
+17/03/1979,2 - 2,Coventry City,Bolton Wanderers
+17/03/1979,2 - 0,Ipswich Town,Arsenal
+17/03/1979,0 - 0,Tottenham Hotspur,Norwich City
+14/03/1979,2 - 1,Nottingham Forest,Norwich City
+14/03/1979,1 - 0,West Bromwich Albion,Chelsea
+13/03/1979,1 - 1,Ipswich Town,Coventry City
+13/03/1979,1 - 1,Liverpool,Everton
+13/03/1979,3 - 1,Middlesbrough,Derby County
+10/03/1979,2 - 0,Arsenal,Bristol City
+10/03/1979,0 - 0,Birmingham City,Coventry City
+10/03/1979,0 - 1,Derby County,Leeds United
+10/03/1979,1 - 1,Everton,Nottingham Forest
+10/03/1979,2 - 0,Middlesbrough,Aston Villa
+10/03/1979,2 - 0,Norwich City,Chelsea
+07/03/1979,3 - 0,Aston Villa,Bolton Wanderers
+07/03/1979,0 - 0,Norwich City,Wolverhampton Wanderers
+06/03/1979,3 - 1,Birmingham City,Queens Park Rangers
+06/03/1979,0 - 0,Coventry City,Liverpool
+06/03/1979,1 - 2,Middlesbrough,Everton
+03/03/1979,1 - 0,Aston Villa,Birmingham City
+03/03/1979,1 - 2,Bristol City,Manchester United
+03/03/1979,0 - 0,Chelsea,Liverpool
+03/03/1979,1 - 3,Coventry City,West Bromwich Albion
+03/03/1979,2 - 1,Everton,Queens Park Rangers
+03/03/1979,1 - 1,Ipswich Town,Nottingham Forest
+03/03/1979,2 - 2,Leeds United,Norwich City
+03/03/1979,2 - 1,Manchester City,Bolton Wanderers
+03/03/1979,2 - 0,Southampton,Arsenal
+03/03/1979,2 - 0,Tottenham Hotspur,Derby County
+03/03/1979,1 - 3,Wolverhampton Wanderers,Middlesbrough
+28/02/1979,0 - 1,Derby County,Ipswich Town
+28/02/1979,2 - 0,Manchester United,Queens Park Rangers
+27/02/1979,2 - 2,Manchester City,Norwich City
+24/02/1979,0 - 1,Arsenal,Wolverhampton Wanderers
+24/02/1979,1 - 0,Birmingham City,Tottenham Hotspur
+24/02/1979,2 - 1,Bolton Wanderers,Chelsea
+24/02/1979,0 - 3,Coventry City,Manchester City
+24/02/1979,0 - 2,Derby County,Liverpool
+24/02/1979,0 - 1,Everton,Ipswich Town
+24/02/1979,1 - 1,Manchester United,Aston Villa
+24/02/1979,1 - 0,Norwich City,Middlesbrough
+24/02/1979,2 - 0,Nottingham Forest,Bristol City
+24/02/1979,0 - 1,Queens Park Rangers,Southampton
+24/02/1979,1 - 2,West Bromwich Albion,Leeds United
+21/02/1979,1 - 3,Chelsea,Coventry City
+21/02/1979,6 - 0,Liverpool,Norwich City
+20/02/1979,2 - 0,Southampton,Bristol City
+17/02/1979,3 - 0,Southampton,Everton
+13/02/1979,1 - 0,Liverpool,Birmingham City
+13/02/1979,1 - 2,Queens Park Rangers,Arsenal
+10/02/1979,0 - 0,Arsenal,Middlesbrough
+10/02/1979,0 - 1,Birmingham City,Leeds United
+10/02/1979,1 - 3,Coventry City,Tottenham Hotspur
+10/02/1979,1 - 1,Derby County,Norwich City
+10/02/1979,4 - 1,Everton,Bristol City
+10/02/1979,0 - 0,Ipswich Town,Southampton
+10/02/1979,0 - 3,Manchester City,Manchester United
+10/02/1979,3 - 3,Queens Park Rangers,Wolverhampton Wanderers
+03/02/1979,3 - 1,Bristol City,Ipswich Town
+03/02/1979,2 - 1,Chelsea,Birmingham City
+03/02/1979,1 - 0,Leeds United,Coventry City
+03/02/1979,2 - 1,Liverpool,West Bromwich Albion
+03/02/1979,0 - 2,Manchester United,Arsenal
+03/02/1979,1 - 3,Middlesbrough,Nottingham Forest
+03/02/1979,0 - 0,Norwich City,Bolton Wanderers
+03/02/1979,1 - 2,Southampton,Derby County
+03/02/1979,0 - 3,Tottenham Hotspur,Manchester City
+03/02/1979,1 - 0,Wolverhampton Wanderers,Everton
+31/01/1979,1 - 1,Everton,Aston Villa
+31/01/1979,1 - 1,Norwich City,Queens Park Rangers
+20/01/1979,3 - 1,Ipswich Town,Wolverhampton Wanderers
+20/01/1979,2 - 3,Manchester City,Chelsea
+20/01/1979,1 - 1,Queens Park Rangers,Middlesbrough
+20/01/1979,1 - 2,Tottenham Hotspur,Leeds United
+17/01/1979,2 - 0,Wolverhampton Wanderers,Southampton
+13/01/1979,2 - 1,Arsenal,Nottingham Forest
+13/01/1979,0 - 0,Bristol City,Tottenham Hotspur
+13/01/1979,1 - 1,Leeds United,Manchester City
+13/01/1979,1 - 1,Norwich City,West Bromwich Albion
+01/01/1979,3 - 1,West Bromwich Albion,Bristol City
+30/12/1978,3 - 1,Arsenal,Birmingham City
+30/12/1978,1 - 1,Bristol City,Manchester City
+30/12/1978,1 - 1,Everton,Tottenham Hotspur
+30/12/1978,5 - 1,Ipswich Town,Chelsea
+30/12/1978,3 - 5,Manchester United,West Bromwich Albion
+30/12/1978,1 - 4,Queens Park Rangers,Leeds United
+30/12/1978,1 - 1,Wolverhampton Wanderers,Coventry City
+26/12/1978,1 - 2,Arsenal,West Bromwich Albion
+26/12/1978,2 - 2,Aston Villa,Leeds United
+26/12/1978,5 - 0,Bristol City,Coventry City
+26/12/1978,1 - 0,Everton,Manchester City
+26/12/1978,1 - 1,Ipswich Town,Norwich City
+26/12/1978,0 - 3,Manchester United,Liverpool
+26/12/1978,1 - 1,Middlesbrough,Bolton Wanderers
+26/12/1978,1 - 1,Nottingham Forest,Derby County
+26/12/1978,2 - 2,Queens Park Rangers,Tottenham Hotspur
+26/12/1978,0 - 0,Southampton,Chelsea
+26/12/1978,2 - 1,Wolverhampton Wanderers,Birmingham City
+23/12/1978,0 - 0,Chelsea,Bristol City
+23/12/1978,3 - 2,Coventry City,Everton
+23/12/1978,0 - 0,Derby County,Aston Villa
+23/12/1978,3 - 1,Leeds United,Middlesbrough
+23/12/1978,0 - 0,Manchester City,Nottingham Forest
+23/12/1978,0 - 5,Tottenham Hotspur,Arsenal
+22/12/1978,3 - 0,Bolton Wanderers,Manchester United
+16/12/1978,2 - 0,Arsenal,Derby County
+16/12/1978,1 - 1,Aston Villa,Norwich City
+16/12/1978,1 - 0,Bristol City,Liverpool
+16/12/1978,1 - 1,Everton,Leeds United
+16/12/1978,3 - 0,Ipswich Town,Bolton Wanderers
+16/12/1978,2 - 0,Manchester United,Tottenham Hotspur
+16/12/1978,7 - 2,Middlesbrough,Chelsea
+16/12/1978,1 - 0,Nottingham Forest,Birmingham City
+16/12/1978,2 - 1,Queens Park Rangers,Manchester City
+16/12/1978,4 - 0,Southampton,Coventry City
+16/12/1978,0 - 3,Wolverhampton Wanderers,West Bromwich Albion
+09/12/1978,1 - 3,Birmingham City,Everton
+09/12/1978,3 - 1,Bolton Wanderers,Wolverhampton Wanderers
+09/12/1978,0 - 1,Chelsea,Aston Villa
+09/12/1978,1 - 0,Coventry City,Queens Park Rangers
+09/12/1978,1 - 3,Derby County,Manchester United
+09/12/1978,1 - 1,Leeds United,Bristol City
+09/12/1978,2 - 0,Liverpool,Nottingham Forest
+09/12/1978,1 - 2,Manchester City,Southampton
+09/12/1978,0 - 0,Norwich City,Arsenal
+09/12/1978,1 - 0,Tottenham Hotspur,Ipswich Town
+09/12/1978,2 - 0,West Bromwich Albion,Middlesbrough
+02/12/1978,1 - 0,Arsenal,Liverpool
+02/12/1978,1 - 0,Bristol City,Derby County
+02/12/1978,2 - 3,Ipswich Town,Leeds United
+02/12/1978,1 - 3,Queens Park Rangers,Bolton Wanderers
+02/12/1978,1 - 0,Southampton,Birmingham City
+25/11/1978,1 - 1,Birmingham City,Bristol City
+25/11/1978,0 - 1,Bolton Wanderers,Nottingham Forest
+25/11/1978,0 - 1,Chelsea,Manchester United
+25/11/1978,1 - 1,Coventry City,Arsenal
+25/11/1978,2 - 1,Derby County,Queens Park Rangers
+25/11/1978,4 - 0,Leeds United,Southampton
+25/11/1978,2 - 0,Liverpool,Middlesbrough
+25/11/1978,1 - 2,Manchester City,Ipswich Town
+25/11/1978,0 - 1,Norwich City,Everton
+25/11/1978,1 - 0,Tottenham Hotspur,Wolverhampton Wanderers
+25/11/1978,1 - 1,West Bromwich Albion,Aston Villa
+22/11/1978,2 - 1,Leeds United,Chelsea
+22/11/1978,0 - 0,Tottenham Hotspur,Liverpool
+21/11/1978,3 - 0,Birmingham City,Bolton Wanderers
+21/11/1978,0 - 1,Bristol City,Wolverhampton Wanderers
+21/11/1978,4 - 2,Coventry City,Derby County
+21/11/1978,3 - 0,Everton,Manchester United
+21/11/1978,2 - 1,Ipswich Town,Middlesbrough
+21/11/1978,2 - 0,Southampton,Aston Villa
+18/11/1978,2 - 2,Arsenal,Everton
+18/11/1978,2 - 0,Aston Villa,Bristol City
+18/11/1978,0 - 1,Bolton Wanderers,West Bromwich Albion
+18/11/1978,1 - 3,Chelsea,Tottenham Hotspur
+18/11/1978,2 - 1,Derby County,Birmingham City
+18/11/1978,1 - 0,Liverpool,Manchester City
+18/11/1978,2 - 0,Manchester United,Ipswich Town
+18/11/1978,2 - 0,Middlesbrough,Southampton
+18/11/1978,1 - 0,Norwich City,Coventry City
+18/11/1978,0 - 0,Nottingham Forest,Queens Park Rangers
+18/11/1978,1 - 1,Wolverhampton Wanderers,Leeds United
+11/11/1978,5 - 1,Birmingham City,Manchester United
+11/11/1978,4 - 1,Bristol City,Bolton Wanderers
+11/11/1978,2 - 1,Coventry City,Middlesbrough
+11/11/1978,3 - 2,Everton,Chelsea
+11/11/1978,0 - 1,Ipswich Town,West Bromwich Albion
+11/11/1978,0 - 1,Leeds United,Arsenal
+11/11/1978,1 - 2,Manchester City,Derby County
+11/11/1978,1 - 3,Queens Park Rangers,Liverpool
+11/11/1978,2 - 2,Southampton,Norwich City
+11/11/1978,1 - 3,Tottenham Hotspur,Nottingham Forest
+11/11/1978,0 - 4,Wolverhampton Wanderers,Aston Villa
+04/11/1978,4 - 1,Arsenal,Ipswich Town
+04/11/1978,1 - 1,Aston Villa,Manchester City
+04/11/1978,0 - 0,Bolton Wanderers,Coventry City
+04/11/1978,4 - 1,Derby County,Wolverhampton Wanderers
+04/11/1978,1 - 1,Liverpool,Leeds United
+04/11/1978,1 - 1,Manchester United,Southampton
+04/11/1978,0 - 0,Middlesbrough,Bristol City
+04/11/1978,2 - 2,Norwich City,Tottenham Hotspur
+04/11/1978,0 - 0,Nottingham Forest,Everton
+04/11/1978,0 - 0,Queens Park Rangers,Chelsea
+04/11/1978,1 - 0,West Bromwich Albion,Birmingham City
+28/10/1978,1 - 3,Bristol City,Arsenal
+28/10/1978,3 - 3,Chelsea,Norwich City
+28/10/1978,2 - 1,Coventry City,Birmingham City
+28/10/1978,1 - 0,Everton,Liverpool
+28/10/1978,2 - 1,Ipswich Town,Queens Park Rangers
+28/10/1978,4 - 0,Leeds United,Derby County
+28/10/1978,2 - 2,Manchester City,West Bromwich Albion
+28/10/1978,0 - 0,Southampton,Nottingham Forest
+28/10/1978,2 - 0,Tottenham Hotspur,Bolton Wanderers
+28/10/1978,2 - 4,Wolverhampton Wanderers,Manchester United
+27/10/1978,0 - 2,Aston Villa,Middlesbrough
+21/10/1978,1 - 0,Arsenal,Southampton
+21/10/1978,0 - 1,Birmingham City,Aston Villa
+21/10/1978,2 - 2,Bolton Wanderers,Manchester City
+21/10/1978,2 - 2,Derby County,Tottenham Hotspur
+21/10/1978,2 - 0,Liverpool,Chelsea
+21/10/1978,1 - 3,Manchester United,Bristol City
+21/10/1978,2 - 0,Middlesbrough,Wolverhampton Wanderers
+21/10/1978,2 - 2,Norwich City,Leeds United
+21/10/1978,1 - 0,Nottingham Forest,Ipswich Town
+21/10/1978,1 - 1,Queens Park Rangers,Everton
+21/10/1978,7 - 1,West Bromwich Albion,Coventry City
+14/10/1978,2 - 2,Aston Villa,Manchester United
+14/10/1978,1 - 3,Bristol City,Nottingham Forest
+14/10/1978,4 - 3,Chelsea,Bolton Wanderers
+14/10/1978,0 - 1,Ipswich Town,Everton
+14/10/1978,1 - 3,Leeds United,West Bromwich Albion
+14/10/1978,5 - 0,Liverpool,Derby County
+14/10/1978,2 - 0,Manchester City,Coventry City
+14/10/1978,2 - 0,Middlesbrough,Norwich City
+14/10/1978,1 - 1,Southampton,Queens Park Rangers
+14/10/1978,1 - 0,Tottenham Hotspur,Birmingham City
+14/10/1978,1 - 0,Wolverhampton Wanderers,Arsenal
+07/10/1978,1 - 1,Arsenal,Aston Villa
+07/10/1978,1 - 2,Birmingham City,Manchester City
+07/10/1978,3 - 1,Bolton Wanderers,Leeds United
+07/10/1978,2 - 2,Coventry City,Ipswich Town
+07/10/1978,1 - 0,Derby County,Chelsea
+07/10/1978,0 - 0,Everton,Southampton
+07/10/1978,3 - 2,Manchester United,Middlesbrough
+07/10/1978,1 - 4,Norwich City,Liverpool
+07/10/1978,3 - 1,Nottingham Forest,Wolverhampton Wanderers
+07/10/1978,1 - 0,Queens Park Rangers,Bristol City
+07/10/1978,0 - 1,West Bromwich Albion,Tottenham Hotspur
+30/09/1978,1 - 2,Aston Villa,Nottingham Forest
+30/09/1978,2 - 2,Bristol City,Everton
+30/09/1978,1 - 3,Chelsea,West Bromwich Albion
+30/09/1978,3 - 0,Leeds United,Birmingham City
+30/09/1978,3 - 0,Liverpool,Bolton Wanderers
+30/09/1978,1 - 0,Manchester United,Manchester City
+30/09/1978,2 - 3,Middlesbrough,Arsenal
+30/09/1978,3 - 0,Norwich City,Derby County
+30/09/1978,1 - 2,Southampton,Ipswich Town
+30/09/1978,1 - 1,Tottenham Hotspur,Coventry City
+30/09/1978,1 - 0,Wolverhampton Wanderers,Queens Park Rangers
+23/09/1978,1 - 1,Arsenal,Manchester United
+23/09/1978,1 - 1,Birmingham City,Chelsea
+23/09/1978,3 - 2,Bolton Wanderers,Norwich City
+23/09/1978,0 - 0,Coventry City,Leeds United
+23/09/1978,2 - 1,Derby County,Southampton
+23/09/1978,2 - 0,Everton,Wolverhampton Wanderers
+23/09/1978,0 - 1,Ipswich Town,Bristol City
+23/09/1978,2 - 0,Manchester City,Tottenham Hotspur
+23/09/1978,2 - 2,Nottingham Forest,Middlesbrough
+23/09/1978,1 - 0,Queens Park Rangers,Aston Villa
+23/09/1978,1 - 1,West Bromwich Albion,Liverpool
+16/09/1978,1 - 0,Arsenal,Bolton Wanderers
+16/09/1978,1 - 1,Aston Villa,Everton
+16/09/1978,3 - 1,Bristol City,Southampton
+16/09/1978,1 - 4,Chelsea,Manchester City
+16/09/1978,3 - 2,Derby County,West Bromwich Albion
+16/09/1978,1 - 2,Leeds United,Tottenham Hotspur
+16/09/1978,1 - 0,Liverpool,Coventry City
+16/09/1978,1 - 1,Manchester United,Nottingham Forest
+16/09/1978,0 - 2,Middlesbrough,Queens Park Rangers
+16/09/1978,4 - 0,Norwich City,Birmingham City
+16/09/1978,1 - 3,Wolverhampton Wanderers,Ipswich Town
+09/09/1978,0 - 3,Birmingham City,Liverpool
+09/09/1978,2 - 1,Bolton Wanderers,Derby County
+09/09/1978,3 - 2,Coventry City,Chelsea
+09/09/1978,2 - 0,Everton,Middlesbrough
+09/09/1978,0 - 2,Ipswich Town,Aston Villa
+09/09/1978,3 - 0,Manchester City,Leeds United
+09/09/1978,2 - 1,Nottingham Forest,Arsenal
+09/09/1978,1 - 1,Queens Park Rangers,Manchester United
+09/09/1978,3 - 2,Southampton,Wolverhampton Wanderers
+09/09/1978,1 - 0,Tottenham Hotspur,Bristol City
+09/09/1978,2 - 2,West Bromwich Albion,Norwich City
+02/09/1978,5 - 1,Arsenal,Queens Park Rangers
+02/09/1978,1 - 1,Aston Villa,Southampton
+02/09/1978,2 - 2,Bolton Wanderers,Birmingham City
+02/09/1978,0 - 3,Chelsea,Leeds United
+02/09/1978,0 - 2,Derby County,Coventry City
+02/09/1978,7 - 0,Liverpool,Tottenham Hotspur
+02/09/1978,1 - 1,Manchester United,Everton
+02/09/1978,0 - 0,Middlesbrough,Ipswich Town
+02/09/1978,1 - 1,Norwich City,Manchester City
+02/09/1978,0 - 0,Nottingham Forest,West Bromwich Albion
+02/09/1978,2 - 0,Wolverhampton Wanderers,Bristol City
+26/08/1978,1 - 1,Birmingham City,Derby County
+26/08/1978,1 - 0,Bristol City,Aston Villa
+26/08/1978,4 - 1,Coventry City,Norwich City
+26/08/1978,1 - 0,Everton,Arsenal
+26/08/1978,3 - 0,Ipswich Town,Manchester United
+26/08/1978,3 - 0,Leeds United,Wolverhampton Wanderers
+26/08/1978,1 - 4,Manchester City,Liverpool
+26/08/1978,0 - 0,Queens Park Rangers,Nottingham Forest
+26/08/1978,2 - 1,Southampton,Middlesbrough
+26/08/1978,2 - 2,Tottenham Hotspur,Chelsea
+26/08/1978,4 - 0,West Bromwich Albion,Bolton Wanderers
+23/08/1978,2 - 3,Leeds United,Manchester United
+23/08/1978,1 - 4,Tottenham Hotspur,Aston Villa
+22/08/1978,1 - 3,Birmingham City,Middlesbrough
+22/08/1978,1 - 1,Bristol City,Norwich City
+22/08/1978,0 - 0,Coventry City,Nottingham Forest
+22/08/1978,2 - 1,Everton,Derby County
+22/08/1978,0 - 3,Ipswich Town,Liverpool
+22/08/1978,1 - 1,Manchester City,Arsenal
+22/08/1978,0 - 1,Queens Park Rangers,West Bromwich Albion
+22/08/1978,2 - 2,Southampton,Bolton Wanderers
+22/08/1978,0 - 1,Wolverhampton Wanderers,Chelsea
+19/08/1978,2 - 2,Arsenal,Leeds United
+19/08/1978,1 - 0,Aston Villa,Wolverhampton Wanderers
+19/08/1978,1 - 2,Bolton Wanderers,Bristol City
+19/08/1978,0 - 1,Chelsea,Everton
+19/08/1978,1 - 1,Derby County,Manchester City
+19/08/1978,2 - 1,Liverpool,Queens Park Rangers
+19/08/1978,1 - 0,Manchester United,Birmingham City
+19/08/1978,1 - 2,Middlesbrough,Coventry City
+19/08/1978,3 - 1,Norwich City,Southampton
+19/08/1978,1 - 1,Nottingham Forest,Tottenham Hotspur
+19/08/1978,2 - 1,West Bromwich Albion,Ipswich Town

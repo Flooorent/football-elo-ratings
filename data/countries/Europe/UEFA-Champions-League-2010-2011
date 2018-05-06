@@ -1,0 +1,214 @@
+date,score,home_team,away_team
+28/05/2011,3 - 1,[N] Barcelona,Manchester United
+04/05/2011,4 - 1,Manchester United,Schalke 04
+03/05/2011,1 - 1,Barcelona,Real Madrid
+27/04/2011,0 - 2,Real Madrid,Barcelona
+26/04/2011,0 - 2,Schalke 04,Manchester United
+13/04/2011,2 - 1,Schalke 04,Internazionale
+13/04/2011,0 - 1,[N] Tottenham Hotspur,Real Madrid
+12/04/2011,2 - 1,Manchester United,Chelsea
+12/04/2011,0 - 1,Shakhtar Donetsk,Barcelona
+06/04/2011,5 - 1,Barcelona,Shakhtar Donetsk
+06/04/2011,0 - 1,Chelsea,Manchester United
+05/04/2011,2 - 5,Internazionale,Schalke 04
+05/04/2011,4 - 0,Real Madrid,Tottenham Hotspur
+16/03/2011,0 - 0,Chelsea,København
+16/03/2011,3 - 0,Real Madrid,Olympique Lyonnais
+15/03/2011,2 - 3,Bayern München,Internazionale
+15/03/2011,2 - 1,Manchester United,Olympique Marseille
+09/03/2011,3 - 1,Schalke 04,Valencia
+09/03/2011,0 - 0,[N] Tottenham Hotspur,Milan
+08/03/2011,3 - 1,Barcelona,Arsenal
+08/03/2011,3 - 0,Shakhtar Donetsk,Roma
+23/02/2011,0 - 1,Internazionale,Bayern München
+23/02/2011,0 - 0,Olympique Marseille,Manchester United
+22/02/2011,0 - 2,København,Chelsea
+22/02/2011,1 - 1,Olympique Lyonnais,Real Madrid
+16/02/2011,2 - 1,Arsenal,Barcelona
+16/02/2011,2 - 3,Roma,Shakhtar Donetsk
+15/02/2011,0 - 1,Milan,Tottenham Hotspur
+15/02/2011,1 - 1,Valencia,Schalke 04
+07/12/2010,3 - 3,Twente,Tottenham Hotspur
+07/12/2010,3 - 0,Werder Bremen,Internazionale
+24/11/2010,1 - 0,Internazionale,Twente
+24/11/2010,3 - 0,[N] Tottenham Hotspur,Werder Bremen
+02/11/2010,3 - 1,[N] Tottenham Hotspur,Internazionale
+02/11/2010,0 - 2,Werder Bremen,Twente
+20/10/2010,4 - 3,Internazionale,Tottenham Hotspur
+20/10/2010,1 - 1,Twente,Werder Bremen
+29/09/2010,4 - 0,Internazionale,Werder Bremen
+29/09/2010,4 - 1,[N] Tottenham Hotspur,Twente
+14/09/2010,2 - 2,Twente,Internazionale
+14/09/2010,2 - 2,Werder Bremen,Tottenham Hotspur
+07/12/2010,1 - 2,Benfica,Schalke 04
+07/12/2010,2 - 2,Olympique Lyonnais,Hapoel Tel Aviv
+24/11/2010,3 - 0,Hapoel Tel Aviv,Benfica
+24/11/2010,3 - 0,Schalke 04,Olympique Lyonnais
+02/11/2010,4 - 3,Benfica,Olympique Lyonnais
+02/11/2010,0 - 0,Hapoel Tel Aviv,Schalke 04
+20/10/2010,2 - 0,Olympique Lyonnais,Benfica
+20/10/2010,3 - 1,Schalke 04,Hapoel Tel Aviv
+29/09/2010,1 - 3,Hapoel Tel Aviv,Olympique Lyonnais
+29/09/2010,2 - 0,Schalke 04,Benfica
+14/09/2010,2 - 0,Benfica,Hapoel Tel Aviv
+14/09/2010,1 - 0,Olympique Lyonnais,Schalke 04
+07/12/2010,1 - 1,Bursaspor,Rangers
+07/12/2010,1 - 1,Manchester United,Valencia
+24/11/2010,0 - 1,Rangers,Manchester United
+24/11/2010,6 - 1,Valencia,Bursaspor
+02/11/2010,0 - 3,Bursaspor,Manchester United
+02/11/2010,3 - 0,Valencia,Rangers
+20/10/2010,1 - 0,Manchester United,Bursaspor
+20/10/2010,1 - 1,Rangers,Valencia
+29/09/2010,1 - 0,Rangers,Bursaspor
+29/09/2010,0 - 1,Valencia,Manchester United
+14/09/2010,0 - 4,Bursaspor,Valencia
+14/09/2010,0 - 0,Manchester United,Rangers
+07/12/2010,2 - 0,Barcelona,Rubin Kazan'
+07/12/2010,3 - 1,København,Panathinaikos
+24/11/2010,0 - 3,Panathinaikos,Barcelona
+24/11/2010,1 - 0,Rubin Kazan',København
+02/11/2010,1 - 1,København,Barcelona
+02/11/2010,0 - 0,Rubin Kazan',Panathinaikos
+20/10/2010,2 - 0,Barcelona,København
+20/10/2010,0 - 0,Panathinaikos,Rubin Kazan'
+29/09/2010,0 - 2,Panathinaikos,København
+29/09/2010,1 - 1,Rubin Kazan',Barcelona
+14/09/2010,5 - 1,Barcelona,Panathinaikos
+14/09/2010,1 - 0,København,Rubin Kazan'
+08/12/2010,3 - 0,Bayern München,Basel
+08/12/2010,1 - 1,CFR Cluj,Roma
+23/11/2010,1 - 0,Basel,CFR Cluj
+23/11/2010,3 - 2,Roma,Bayern München
+03/11/2010,2 - 3,Basel,Roma
+03/11/2010,0 - 4,CFR Cluj,Bayern München
+19/10/2010,3 - 2,Bayern München,CFR Cluj
+19/10/2010,1 - 3,Roma,Basel
+28/09/2010,1 - 2,Basel,Bayern München
+28/09/2010,2 - 1,Roma,CFR Cluj
+15/09/2010,2 - 0,Bayern München,Roma
+15/09/2010,2 - 1,CFR Cluj,Basel
+08/12/2010,1 - 0,Olympique Marseille,Chelsea
+08/12/2010,1 - 2,Žilina,Spartak Moskva
+23/11/2010,2 - 1,Chelsea,Žilina
+23/11/2010,0 - 3,Spartak Moskva,Olympique Marseille
+03/11/2010,4 - 1,Chelsea,Spartak Moskva
+03/11/2010,0 - 7,Žilina,Olympique Marseille
+19/10/2010,1 - 0,Olympique Marseille,Žilina
+19/10/2010,0 - 2,Spartak Moskva,Chelsea
+28/09/2010,2 - 0,Chelsea,Olympique Marseille
+28/09/2010,3 - 0,Spartak Moskva,Žilina
+15/09/2010,0 - 1,Olympique Marseille,Spartak Moskva
+15/09/2010,1 - 4,Žilina,Chelsea
+08/12/2010,0 - 2,Milan,Ajax
+08/12/2010,4 - 0,Real Madrid,Auxerre
+23/11/2010,0 - 4,Ajax,Real Madrid
+23/11/2010,0 - 2,Auxerre,Milan
+03/11/2010,2 - 1,Auxerre,Ajax
+03/11/2010,2 - 2,Milan,Real Madrid
+19/10/2010,2 - 1,Ajax,Auxerre
+19/10/2010,2 - 0,Real Madrid,Milan
+28/09/2010,1 - 1,Ajax,Milan
+28/09/2010,0 - 1,Auxerre,Real Madrid
+15/09/2010,2 - 0,Milan,Auxerre
+15/09/2010,2 - 0,Real Madrid,Ajax
+08/12/2010,3 - 1,Arsenal,Partizan
+08/12/2010,2 - 0,Shakhtar Donetsk,Sporting Braga
+23/11/2010,0 - 3,Partizan,Shakhtar Donetsk
+23/11/2010,2 - 0,Sporting Braga,Arsenal
+03/11/2010,0 - 1,Partizan,Sporting Braga
+03/11/2010,2 - 1,Shakhtar Donetsk,Arsenal
+19/10/2010,5 - 1,Arsenal,Shakhtar Donetsk
+19/10/2010,2 - 0,Sporting Braga,Partizan
+28/09/2010,1 - 3,Partizan,Arsenal
+28/09/2010,0 - 3,Sporting Braga,Shakhtar Donetsk
+15/09/2010,6 - 0,Arsenal,Sporting Braga
+15/09/2010,1 - 0,Shakhtar Donetsk,Partizan
+25/08/2010,2 - 1,Ajax,Dynamo Kyiv
+25/08/2010,2 - 0,Auxerre,Zenit
+25/08/2010,1 - 0,København,Rosenborg
+25/08/2010,4 - 0,[N] Tottenham Hotspur,Young Boys
+25/08/2010,1 - 0,Žilina,Sparta Praha
+24/08/2010,2 - 2,Anderlecht,Partizan [PS] 
+24/08/2010,1 - 1,Hapoel Tel Aviv,Salzburg
+24/08/2010,3 - 1, [ET] Sampdoria,Werder Bremen
+24/08/2010,3 - 4,Sevilla,Sporting Braga
+24/08/2010,0 - 3,Sheriff,Basel
+18/08/2010,1 - 0,Basel,Sheriff
+18/08/2010,2 - 2,Partizan,Anderlecht
+18/08/2010,2 - 3,Salzburg,Hapoel Tel Aviv
+18/08/2010,1 - 0,Sporting Braga,Sevilla
+18/08/2010,3 - 1,Werder Bremen,Sampdoria
+17/08/2010,1 - 1,Dynamo Kyiv,Ajax
+17/08/2010,2 - 1,Rosenborg,København
+17/08/2010,0 - 2,Sparta Praha,Žilina
+17/08/2010,3 - 2,Young Boys,Tottenham Hotspur
+17/08/2010,1 - 0,Zenit,Auxerre
+04/08/2010,2 - 1,Celtic,Sporting Braga
+04/08/2010,3 - 3,PAOK,Ajax
+04/08/2010,3 - 0,Rosenborg,AIK
+04/08/2010,1 - 3,Gent,Dynamo Kyiv
+04/08/2010,4 - 1,Salzburg,Omonia Nicosia
+04/08/2010,0 - 1,Fenerbahçe,Young Boys
+04/08/2010,1 - 1,Dinamo Zagreb,Sheriff [PS] 
+04/08/2010,0 - 1,Lech Poznań,Sparta Praha
+04/08/2010,3 - 1,Basel,Debrecen
+04/08/2010,3 - 1,Žilina,Lovech
+04/08/2010,3 - 2,København,BATE
+04/08/2010,1 - 0,Zenit,Unirea Urziceni
+04/08/2010,1 - 2,HJK,Partizan
+03/08/2010,3 - 0,Anderlecht,The New Saints
+03/08/2010,3 - 1,Hapoel Tel Aviv,Aktobe
+28/07/2010,3 - 0,Sporting Braga,Celtic
+28/07/2010,0 - 1,AIK,Rosenborg
+28/07/2010,1 - 1,Ajax,PAOK
+28/07/2010,3 - 0,Partizan,HJK
+28/07/2010,2 - 2,Young Boys,Fenerbahçe
+28/07/2010,0 - 2,[N] Debrecen,Basel
+28/07/2010,1 - 1,Sheriff,Dinamo Zagreb
+28/07/2010,1 - 0,Aktobe,Hapoel Tel Aviv
+28/07/2010,0 - 0,BATE,København
+27/07/2010,1 - 3,[N] The New Saints,Anderlecht
+27/07/2010,1 - 0,Sparta Praha,Lech Poznań
+27/07/2010,0 - 0,Unirea Urziceni,Zenit
+27/07/2010,3 - 0,Dynamo Kyiv,Gent
+27/07/2010,1 - 1,Lovech,Žilina
+27/07/2010,1 - 1,Omonia Nicosia,Salzburg
+21/07/2010,0 - 1,FH,BATE
+21/07/2010,2 - 0,Rosenborg,Linfield
+21/07/2010,0 - 1,Željezničar,Hapoel Tel Aviv
+21/07/2010,3 - 2,Debrecen,FCI Levadia
+21/07/2010,0 - 1, [PS] Lech Poznań,Keşlə
+21/07/2010,2 - 0,Sparta Praha,Liepājas Metalurgs
+21/07/2010,3 - 0,Žilina,Birkirkara
+21/07/2010,1 - 0, [ET] HJK,Ekranas
+21/07/2010,0 - 0,Jeunesse d'Esch,AIK
+21/07/2010,0 - 1,Pyunik,Partizan
+21/07/2010,1 - 1,Metalurgi Rustavi,Aktobe
+20/07/2010,0 - 4,Rudar,Lovech
+20/07/2010,3 - 0,Koper,Dinamo Zagreb
+20/07/2010,4 - 0,The New Saints,Bohemians
+20/07/2010,1 - 0,Dinamo Tirana,Sheriff
+20/07/2010,1 - 0,HB,Salzburg
+20/07/2010,0 - 2,Renova,Omonia Nicosia
+14/07/2010,0 - 0,Linfield,Rosenborg
+14/07/2010,3 - 1,Partizan,Pyunik
+14/07/2010,3 - 1,Sheriff,Dinamo Tirana
+14/07/2010,1 - 0,Ekranas,HJK
+14/07/2010,2 - 0,Aktobe,Metalurgi Rustavi
+14/07/2010,5 - 1,BATE,FH
+13/07/2010,1 - 0,Bohemians,The New Saints
+13/07/2010,5 - 1,Dinamo Zagreb,Koper
+13/07/2010,5 - 0,Hapoel Tel Aviv,Željezničar
+13/07/2010,1 - 0,AIK,Jeunesse d'Esch
+13/07/2010,1 - 0,Lovech,Rudar
+13/07/2010,3 - 0,Omonia Nicosia,Renova
+13/07/2010,1 - 0,Birkirkara,Žilina
+13/07/2010,1 - 1,FCI Levadia,Debrecen
+13/07/2010,0 - 3,Liepājas Metalurgs,Sparta Praha
+13/07/2010,5 - 0,Salzburg,HB
+13/07/2010,0 - 1,Keşlə,Lech Poznań
+07/07/2010,4 - 1,Rudar,Tre Fiori
+06/07/2010,4 - 3,Birkirkara,FC Santa Coloma
+30/06/2010,0 - 3,Tre Fiori,Rudar
+29/06/2010,0 - 3,FC Santa Coloma,Birkirkara

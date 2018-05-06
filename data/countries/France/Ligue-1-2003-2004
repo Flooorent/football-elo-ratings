@@ -1,0 +1,381 @@
+date,score,home_team,away_team
+23/05/2004,3 - 1,Ajaccio,Metz
+23/05/2004,0 - 1,Bastia,PSG
+23/05/2004,3 - 0,Le Mans,Lens
+23/05/2004,3 - 1,Nantes,Sochaux
+23/05/2004,1 - 1,Nice,Auxerre
+23/05/2004,3 - 0,Olympique Lyonnais,Lille
+23/05/2004,2 - 1,Olympique Marseille,Guingamp
+23/05/2004,4 - 0,Rennes,Montpellier
+23/05/2004,0 - 0,Strasbourg,Toulouse
+21/05/2004,1 - 3,Bordeaux,Monaco
+15/05/2004,2 - 0,Auxerre,Nantes
+15/05/2004,1 - 2,Guingamp,Nice
+15/05/2004,2 - 0,Lens,Ajaccio
+15/05/2004,2 - 0,Lille,Bastia
+15/05/2004,3 - 1,Metz,Bordeaux
+15/05/2004,1 - 4,Monaco,Rennes
+15/05/2004,1 - 2,Montpellier,Strasbourg
+15/05/2004,1 - 0,PSG,Olympique Lyonnais
+15/05/2004,3 - 0,Sochaux,Le Mans
+15/05/2004,2 - 1,Toulouse,Olympique Marseille
+12/05/2004,1 - 0,Ajaccio,Sochaux
+12/05/2004,1 - 1,Le Mans,Lille
+12/05/2004,0 - 0,Nantes,Guingamp
+12/05/2004,1 - 1,Nice,Toulouse
+12/05/2004,1 - 0,Olympique Lyonnais,Bastia
+12/05/2004,1 - 1,Olympique Marseille,Montpellier
+12/05/2004,0 - 0,Rennes,Metz
+12/05/2004,0 - 0,Strasbourg,Monaco
+11/05/2004,3 - 0,Bordeaux,PSG
+11/05/2004,1 - 3,Lens,Auxerre
+09/05/2004,1 - 0,Monaco,Olympique Marseille
+08/05/2004,1 - 1,Auxerre,Ajaccio
+08/05/2004,0 - 0,Bastia,Strasbourg
+08/05/2004,2 - 4,Guingamp,Le Mans
+08/05/2004,2 - 1,Lille,Bordeaux
+08/05/2004,1 - 2,Metz,Olympique Lyonnais
+08/05/2004,2 - 2,Montpellier,Nice
+08/05/2004,1 - 0,PSG,Rennes
+08/05/2004,0 - 3,Sochaux,Lens
+08/05/2004,0 - 1,Toulouse,Nantes
+02/05/2004,1 - 1,Bordeaux,Olympique Lyonnais
+01/05/2004,0 - 0,Ajaccio,Guingamp
+01/05/2004,2 - 1,Le Mans,Auxerre
+01/05/2004,1 - 1,Lens,Toulouse
+01/05/2004,2 - 0,Nantes,Lille
+01/05/2004,0 - 1,Olympique Marseille,Metz
+01/05/2004,4 - 0,Rennes,Bastia
+01/05/2004,3 - 1,Sochaux,Montpellier
+01/05/2004,0 - 0,Strasbourg,PSG
+30/04/2004,1 - 2,Nice,Monaco
+25/04/2004,2 - 1,PSG,Olympique Marseille
+24/04/2004,2 - 1,Auxerre,Sochaux
+24/04/2004,0 - 2,Bastia,Bordeaux
+24/04/2004,1 - 0,Guingamp,Lens
+24/04/2004,0 - 1,Lille,Strasbourg
+24/04/2004,1 - 0,Metz,Nice
+24/04/2004,0 - 1,Monaco,Nantes
+24/04/2004,0 - 3,Montpellier,Le Mans
+24/04/2004,3 - 0,Olympique Lyonnais,Rennes
+24/04/2004,3 - 1,Toulouse,Ajaccio
+18/04/2004,2 - 1,Olympique Marseille,Lille
+18/04/2004,3 - 1,Rennes,Bordeaux
+16/04/2004,1 - 1,Guingamp,Metz
+11/04/2004,0 - 1,Strasbourg,Olympique Lyonnais
+10/04/2004,0 - 0,Ajaccio,Montpellier
+10/04/2004,2 - 1,Auxerre,Metz
+10/04/2004,2 - 1,Le Mans,Toulouse
+10/04/2004,0 - 0,Lens,Monaco
+10/04/2004,1 - 1,Nantes,Bastia
+10/04/2004,1 - 2,Nice,PSG
+10/04/2004,2 - 0,Sochaux,Guingamp
+04/04/2004,2 - 2,Guingamp,Auxerre
+03/04/2004,2 - 1,Bastia,Nice
+03/04/2004,1 - 1,Bordeaux,Strasbourg
+03/04/2004,1 - 0,Lille,Rennes
+03/04/2004,5 - 0,Metz,Le Mans
+03/04/2004,1 - 0,Montpellier,Lens
+03/04/2004,1 - 2,Olympique Lyonnais,Olympique Marseille
+03/04/2004,3 - 2,PSG,Nantes
+03/04/2004,0 - 0,Toulouse,Sochaux
+02/04/2004,3 - 3,Monaco,Ajaccio
+28/03/2004,3 - 2,Auxerre,Toulouse
+28/03/2004,1 - 0,Lens,PSG
+28/03/2004,1 - 1,Olympique Marseille,Bordeaux
+27/03/2004,1 - 0,Ajaccio,Bastia
+27/03/2004,2 - 1,Guingamp,Lille
+27/03/2004,0 - 1,Le Mans,Monaco
+27/03/2004,3 - 2,Nantes,Montpellier
+27/03/2004,0 - 1,Nice,Olympique Lyonnais
+27/03/2004,2 - 0,Sochaux,Metz
+27/03/2004,0 - 3,Strasbourg,Rennes
+21/03/2004,4 - 3,Rennes,Olympique Marseille
+20/03/2004,0 - 0,Bastia,Le Mans
+20/03/2004,1 - 1,Bordeaux,Nice
+20/03/2004,1 - 1,Lille,Lens
+20/03/2004,1 - 0,Metz,Strasbourg
+20/03/2004,1 - 1,Monaco,Sochaux
+20/03/2004,1 - 0,Montpellier,Auxerre
+20/03/2004,1 - 0,Olympique Lyonnais,Nantes
+20/03/2004,1 - 0,PSG,Ajaccio
+19/03/2004,0 - 0,Toulouse,Guingamp
+14/03/2004,0 - 0,Auxerre,Monaco
+14/03/2004,4 - 0,Olympique Marseille,Strasbourg
+14/03/2004,1 - 0,Toulouse,Bordeaux
+13/03/2004,0 - 3,Ajaccio,Lille
+13/03/2004,4 - 3,Guingamp,Montpellier
+13/03/2004,0 - 1,Le Mans,PSG
+13/03/2004,0 - 0,Lens,Bastia
+13/03/2004,2 - 2,Nantes,Metz
+13/03/2004,3 - 1,Nice,Rennes
+13/03/2004,1 - 2,Sochaux,Olympique Lyonnais
+07/03/2004,4 - 1,Bastia,Olympique Marseille
+06/03/2004,2 - 0,Bordeaux,Le Mans
+06/03/2004,1 - 0,Lille,Auxerre
+06/03/2004,0 - 2,Metz,Lens
+06/03/2004,0 - 1,Montpellier,Toulouse
+06/03/2004,1 - 1,PSG,Sochaux
+06/03/2004,0 - 3,Rennes,Nantes
+06/03/2004,2 - 2,Strasbourg,Nice
+05/03/2004,3 - 1,Monaco,Guingamp
+05/03/2004,4 - 0,Olympique Lyonnais,Ajaccio
+29/02/2004,1 - 0,Ajaccio,Bordeaux
+29/02/2004,1 - 1,Auxerre,PSG
+29/02/2004,0 - 0,Nice,Olympique Marseille
+29/02/2004,2 - 1,Sochaux,Bastia
+28/02/2004,2 - 2,Le Mans,Rennes
+28/02/2004,1 - 1,Lens,Olympique Lyonnais
+28/02/2004,0 - 2,Montpellier,Lille
+28/02/2004,1 - 1,Nantes,Strasbourg
+28/02/2004,1 - 1,Toulouse,Monaco
+22/02/2004,1 - 1,Olympique Marseille,Nantes
+21/02/2004,0 - 0,Bastia,Auxerre
+21/02/2004,0 - 0,Bordeaux,Lens
+21/02/2004,1 - 2,Lille,Nice
+21/02/2004,0 - 2,Metz,Toulouse
+21/02/2004,2 - 0,Olympique Lyonnais,Le Mans
+21/02/2004,2 - 0,PSG,Guingamp
+21/02/2004,4 - 1,Rennes,Ajaccio
+21/02/2004,0 - 2,Strasbourg,Sochaux
+20/02/2004,4 - 0,Monaco,Montpellier
+15/02/2004,1 - 2,Auxerre,Olympique Lyonnais
+14/02/2004,0 - 0,Ajaccio,Strasbourg
+14/02/2004,1 - 0,Guingamp,Bastia
+14/02/2004,0 - 0,Le Mans,Olympique Marseille
+14/02/2004,2 - 1,Lens,Rennes
+14/02/2004,0 - 1,Monaco,Lille
+14/02/2004,0 - 1,Montpellier,Metz
+14/02/2004,3 - 1,Nantes,Nice
+14/02/2004,1 - 1,Sochaux,Bordeaux
+14/02/2004,0 - 1,Toulouse,PSG
+08/02/2004,2 - 0,Bordeaux,Nantes
+07/02/2004,1 - 0,Bastia,Toulouse
+07/02/2004,2 - 0,Lille,Sochaux
+07/02/2004,0 - 2,Metz,Monaco
+07/02/2004,4 - 0,Nice,Lens
+07/02/2004,0 - 1,Olympique Lyonnais,Guingamp
+07/02/2004,2 - 1,Olympique Marseille,Ajaccio
+07/02/2004,6 - 1,PSG,Montpellier
+07/02/2004,0 - 2,Rennes,Auxerre
+07/02/2004,3 - 0,Strasbourg,Le Mans
+04/02/2004,0 - 1,Montpellier,Olympique Marseille
+31/01/2004,1 - 1,Ajaccio,Nice
+31/01/2004,5 - 0,Auxerre,Bordeaux
+31/01/2004,0 - 2,Guingamp,Rennes
+31/01/2004,0 - 1,Le Mans,Nantes
+31/01/2004,2 - 1,Lens,Strasbourg
+31/01/2004,0 - 1,Metz,Lille
+31/01/2004,1 - 1,Montpellier,Bastia
+31/01/2004,2 - 1,Sochaux,Olympique Marseille
+31/01/2004,0 - 1,Toulouse,Olympique Lyonnais
+30/01/2004,1 - 1,Monaco,PSG
+28/01/2004,3 - 0,Olympique Lyonnais,Bordeaux
+27/01/2004,1 - 1,Metz,Olympique Marseille
+21/01/2004,1 - 1,Monaco,Nice
+21/01/2004,1 - 3,Montpellier,Sochaux
+18/01/2004,3 - 2,Olympique Marseille,Lens
+17/01/2004,0 - 0,Bastia,Monaco
+17/01/2004,2 - 0,Bordeaux,Guingamp
+17/01/2004,0 - 1,Lille,Toulouse
+17/01/2004,4 - 0,Nantes,Ajaccio
+17/01/2004,0 - 1,Nice,Le Mans
+17/01/2004,3 - 0,Olympique Lyonnais,Montpellier
+17/01/2004,0 - 0,PSG,Metz
+17/01/2004,4 - 0,Rennes,Sochaux
+17/01/2004,0 - 2,Strasbourg,Auxerre
+10/01/2004,2 - 0,Ajaccio,Le Mans
+10/01/2004,2 - 0,Auxerre,Olympique Marseille
+10/01/2004,3 - 2,Guingamp,Strasbourg
+10/01/2004,0 - 0,Lens,Nantes
+10/01/2004,1 - 0,Metz,Bastia
+10/01/2004,1 - 2,Montpellier,Bordeaux
+10/01/2004,1 - 0,PSG,Lille
+10/01/2004,0 - 0,Sochaux,Nice
+10/01/2004,2 - 0,Toulouse,Rennes
+09/01/2004,3 - 0,Monaco,Olympique Lyonnais
+20/12/2003,2 - 0,Ajaccio,Lens
+20/12/2003,0 - 2,Bastia,Lille
+20/12/2003,2 - 0,Bordeaux,Metz
+20/12/2003,2 - 2,Le Mans,Sochaux
+20/12/2003,1 - 0,Nantes,Auxerre
+20/12/2003,2 - 0,Nice,Guingamp
+20/12/2003,1 - 0,Olympique Marseille,Toulouse
+20/12/2003,1 - 0,Rennes,Monaco
+20/12/2003,4 - 2,Strasbourg,Montpellier
+19/12/2003,1 - 1,Olympique Lyonnais,PSG
+14/12/2003,2 - 0,Monaco,Strasbourg
+13/12/2003,2 - 0,Auxerre,Lens
+13/12/2003,0 - 0,Bastia,Olympique Lyonnais
+13/12/2003,1 - 1,Guingamp,Nantes
+13/12/2003,1 - 1,Lille,Le Mans
+13/12/2003,1 - 1,Metz,Rennes
+13/12/2003,2 - 1,PSG,Bordeaux
+13/12/2003,2 - 0,Sochaux,Ajaccio
+13/12/2003,1 - 1,Toulouse,Nice
+07/12/2003,2 - 0,Le Mans,Guingamp
+07/12/2003,2 - 1,Nice,Montpellier
+06/12/2003,1 - 2,Ajaccio,Auxerre
+06/12/2003,2 - 1,Bordeaux,Lille
+06/12/2003,0 - 3,Lens,Sochaux
+06/12/2003,1 - 1,Nantes,Toulouse
+06/12/2003,1 - 1,Rennes,PSG
+06/12/2003,4 - 2,Strasbourg,Bastia
+05/12/2003,2 - 1,Olympique Lyonnais,Metz
+05/12/2003,1 - 2,Olympique Marseille,Monaco
+03/12/2003,1 - 0,Auxerre,Le Mans
+03/12/2003,3 - 2,Bastia,Rennes
+03/12/2003,2 - 0,Guingamp,Ajaccio
+03/12/2003,2 - 0,Lille,Nantes
+03/12/2003,3 - 2,PSG,Strasbourg
+03/12/2003,1 - 2,Toulouse,Lens
+30/11/2003,1 - 1,Bordeaux,Bastia
+30/11/2003,2 - 1,Lens,Guingamp
+30/11/2003,0 - 1,Olympique Marseille,PSG
+30/11/2003,3 - 2,Sochaux,Auxerre
+29/11/2003,2 - 1,Ajaccio,Toulouse
+29/11/2003,4 - 0,Le Mans,Montpellier
+29/11/2003,0 - 1,Nantes,Monaco
+29/11/2003,1 - 1,Nice,Metz
+29/11/2003,3 - 1,Rennes,Olympique Lyonnais
+29/11/2003,2 - 2,Strasbourg,Lille
+23/11/2003,0 - 0,PSG,Nice
+22/11/2003,1 - 3,Bastia,Nantes
+22/11/2003,2 - 1,Bordeaux,Rennes
+22/11/2003,1 - 2,Guingamp,Sochaux
+22/11/2003,0 - 2,Lille,Olympique Marseille
+22/11/2003,0 - 2,Metz,Auxerre
+22/11/2003,2 - 0,Monaco,Lens
+22/11/2003,3 - 1,Montpellier,Ajaccio
+22/11/2003,1 - 1,Toulouse,Le Mans
+21/11/2003,1 - 0,Olympique Lyonnais,Strasbourg
+09/11/2003,0 - 1,Ajaccio,Monaco
+09/11/2003,3 - 0,Auxerre,Guingamp
+09/11/2003,3 - 2,Lens,Montpellier
+09/11/2003,1 - 4,Olympique Marseille,Olympique Lyonnais
+09/11/2003,3 - 1,Sochaux,Toulouse
+09/11/2003,1 - 1,Strasbourg,Bordeaux
+08/11/2003,2 - 0,Le Mans,Metz
+08/11/2003,0 - 1,Nantes,PSG
+08/11/2003,2 - 0,Nice,Bastia
+08/11/2003,2 - 2,Rennes,Lille
+02/11/2003,0 - 1,PSG,Lens
+01/11/2003,1 - 1,Bastia,Ajaccio
+01/11/2003,1 - 0,Bordeaux,Olympique Marseille
+01/11/2003,1 - 3,Lille,Guingamp
+01/11/2003,0 - 1,Metz,Sochaux
+01/11/2003,4 - 2,Monaco,Le Mans
+01/11/2003,4 - 1,Montpellier,Nantes
+01/11/2003,5 - 0,Olympique Lyonnais,Nice
+01/11/2003,1 - 1,Rennes,Strasbourg
+01/11/2003,0 - 3,Toulouse,Auxerre
+26/10/2003,1 - 1,Sochaux,Monaco
+25/10/2003,0 - 0,Ajaccio,PSG
+25/10/2003,0 - 1,Auxerre,Montpellier
+25/10/2003,1 - 0,Guingamp,Toulouse
+25/10/2003,1 - 1,Le Mans,Bastia
+25/10/2003,2 - 1,Lens,Lille
+25/10/2003,0 - 1,Nantes,Olympique Lyonnais
+25/10/2003,0 - 0,Nice,Bordeaux
+25/10/2003,2 - 0,Olympique Marseille,Rennes
+25/10/2003,0 - 2,Strasbourg,Metz
+18/10/2003,3 - 1,Bastia,Lens
+18/10/2003,1 - 2,Bordeaux,Toulouse
+18/10/2003,0 - 0,Lille,Ajaccio
+18/10/2003,1 - 3,Metz,Nantes
+18/10/2003,1 - 1,Monaco,Auxerre
+18/10/2003,2 - 0,Montpellier,Guingamp
+18/10/2003,1 - 1,Olympique Lyonnais,Sochaux
+18/10/2003,5 - 1,PSG,Le Mans
+18/10/2003,0 - 0,Rennes,Nice
+17/10/2003,4 - 1,Strasbourg,Olympique Marseille
+05/10/2003,3 - 1,Olympique Marseille,Bastia
+04/10/2003,2 - 4,Ajaccio,Olympique Lyonnais
+04/10/2003,3 - 0,Auxerre,Lille
+04/10/2003,1 - 2,Guingamp,Monaco
+04/10/2003,0 - 0,Le Mans,Bordeaux
+04/10/2003,0 - 2,Lens,Metz
+04/10/2003,1 - 0,Nantes,Rennes
+04/10/2003,0 - 0,Nice,Strasbourg
+04/10/2003,0 - 1,Sochaux,PSG
+04/10/2003,2 - 2,Toulouse,Montpellier
+28/09/2003,1 - 0,Bordeaux,Ajaccio
+28/09/2003,1 - 0,Strasbourg,Nantes
+27/09/2003,2 - 0,Bastia,Sochaux
+27/09/2003,1 - 1,Lille,Montpellier
+27/09/2003,1 - 1,Metz,Guingamp
+27/09/2003,3 - 0,Monaco,Toulouse
+27/09/2003,4 - 0,Olympique Lyonnais,Lens
+27/09/2003,2 - 1,Olympique Marseille,Nice
+27/09/2003,1 - 0,PSG,Auxerre
+27/09/2003,2 - 0,Rennes,Le Mans
+21/09/2003,0 - 2,Le Mans,Olympique Lyonnais
+21/09/2003,1 - 2,Montpellier,Monaco
+21/09/2003,1 - 0,Nantes,Olympique Marseille
+20/09/2003,1 - 0,Ajaccio,Rennes
+20/09/2003,4 - 1,Auxerre,Bastia
+20/09/2003,0 - 2,Guingamp,PSG
+20/09/2003,1 - 0,Lens,Bordeaux
+20/09/2003,2 - 0,Nice,Lille
+20/09/2003,3 - 0,Sochaux,Strasbourg
+20/09/2003,1 - 0,Toulouse,Metz
+14/09/2003,2 - 1,PSG,Toulouse
+13/09/2003,4 - 2,Bastia,Guingamp
+13/09/2003,1 - 3,Bordeaux,Sochaux
+13/09/2003,1 - 1,Lille,Monaco
+13/09/2003,2 - 1,Metz,Montpellier
+13/09/2003,1 - 0,Nice,Nantes
+13/09/2003,1 - 1,Olympique Lyonnais,Auxerre
+13/09/2003,5 - 0,Olympique Marseille,Le Mans
+13/09/2003,2 - 0,Rennes,Lens
+13/09/2003,3 - 2,Strasbourg,Ajaccio
+31/08/2003,0 - 1,Ajaccio,Olympique Marseille
+31/08/2003,1 - 0,Lens,Nice
+31/08/2003,1 - 0,Monaco,Metz
+30/08/2003,2 - 1,Auxerre,Rennes
+30/08/2003,2 - 0,Guingamp,Olympique Lyonnais
+30/08/2003,0 - 3,Le Mans,Strasbourg
+30/08/2003,3 - 2,Montpellier,PSG
+30/08/2003,0 - 0,Nantes,Bordeaux
+30/08/2003,2 - 1,Sochaux,Lille
+30/08/2003,0 - 2,Toulouse,Bastia
+24/08/2003,2 - 4,PSG,Monaco
+23/08/2003,1 - 0,Bastia,Montpellier
+23/08/2003,2 - 0,Bordeaux,Auxerre
+23/08/2003,1 - 1,Lille,Metz
+23/08/2003,1 - 0,Nantes,Le Mans
+23/08/2003,2 - 2,Nice,Ajaccio
+23/08/2003,0 - 0,Olympique Lyonnais,Toulouse
+23/08/2003,2 - 0,Olympique Marseille,Sochaux
+23/08/2003,0 - 0,Rennes,Guingamp
+23/08/2003,0 - 1,Strasbourg,Lens
+17/08/2003,2 - 1,Lens,Olympique Marseille
+16/08/2003,1 - 3,Ajaccio,Nantes
+16/08/2003,3 - 2,Auxerre,Strasbourg
+16/08/2003,1 - 3,Guingamp,Bordeaux
+16/08/2003,1 - 1,Le Mans,Nice
+16/08/2003,0 - 1,Metz,PSG
+16/08/2003,2 - 0,Monaco,Bastia
+16/08/2003,0 - 2,Montpellier,Olympique Lyonnais
+16/08/2003,1 - 1,Sochaux,Rennes
+16/08/2003,0 - 3,Toulouse,Lille
+09/08/2003,0 - 2,Bastia,Metz
+09/08/2003,0 - 1,Bordeaux,Montpellier
+09/08/2003,0 - 1,Le Mans,Ajaccio
+09/08/2003,1 - 0,Lille,PSG
+09/08/2003,2 - 0,Nantes,Lens
+09/08/2003,1 - 0,Nice,Sochaux
+09/08/2003,3 - 1,Olympique Lyonnais,Monaco
+09/08/2003,1 - 0,Rennes,Toulouse
+09/08/2003,2 - 0,Strasbourg,Guingamp
+08/08/2003,1 - 0,Olympique Marseille,Auxerre
+02/08/2003,1 - 2,Auxerre,Nice
+02/08/2003,0 - 1,Guingamp,Olympique Marseille
+02/08/2003,0 - 0,Lens,Le Mans
+02/08/2003,0 - 1,Metz,Ajaccio
+02/08/2003,2 - 0,Monaco,Bordeaux
+02/08/2003,1 - 1,Montpellier,Rennes
+02/08/2003,0 - 0,PSG,Bastia
+02/08/2003,2 - 1,Sochaux,Nantes
+02/08/2003,1 - 1,Toulouse,Strasbourg
+01/08/2003,1 - 0,Lille,Olympique Lyonnais

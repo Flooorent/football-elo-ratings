@@ -1,0 +1,381 @@
+date,score,home_team,away_team
+20/05/2017,2 - 0,Angers SCO,Montpellier
+20/05/2017,1 - 0,Guingamp,Metz
+20/05/2017,3 - 0,Lille,Nantes
+20/05/2017,1 - 1,Lorient,Bordeaux
+20/05/2017,3 - 1,Nancy,Saint-Étienne
+20/05/2017,3 - 3,Olympique Lyonnais,Nice
+20/05/2017,1 - 0,Olympique Marseille,Bastia
+20/05/2017,1 - 1,PSG,Caen
+20/05/2017,2 - 3,Rennes,Monaco
+20/05/2017,0 - 0,Toulouse,Dijon
+17/05/2017,2 - 0,Monaco,Saint-Étienne
+14/05/2017,2 - 0,[N] Bastia,Lorient
+14/05/2017,1 - 1,Bordeaux,Olympique Marseille
+14/05/2017,0 - 1,Caen,Rennes
+14/05/2017,2 - 0,Dijon,Nancy
+14/05/2017,1 - 1,Metz,Toulouse
+14/05/2017,4 - 0,Monaco,Lille
+14/05/2017,1 - 3,Montpellier,Olympique Lyonnais
+14/05/2017,4 - 1,Nantes,Guingamp
+14/05/2017,0 - 2,Nice,Angers SCO
+14/05/2017,0 - 5,Saint-Étienne,PSG
+07/05/2017,2 - 1,Olympique Marseille,Nice
+07/05/2017,3 - 2,Olympique Lyonnais,Nantes
+07/05/2017,1 - 0,Rennes,Montpellier
+06/05/2017,4 - 0,Guingamp,Dijon
+06/05/2017,0 - 2,Lille,Metz
+06/05/2017,1 - 1,Lorient,Angers SCO
+06/05/2017,0 - 3,Nancy,Monaco
+06/05/2017,0 - 1,Toulouse,Caen
+06/05/2017,5 - 0,PSG,Bastia
+05/05/2017,2 - 2,Saint-Étienne,Bordeaux
+30/04/2017,3 - 1,Nice,PSG
+30/04/2017,0 - 0,Dijon,Bordeaux
+30/04/2017,1 - 5,Caen,Olympique Marseille
+29/04/2017,1 - 0,[N] Bastia,Rennes
+29/04/2017,0 - 2,Guingamp,Saint-Étienne
+29/04/2017,2 - 1,Metz,Nancy
+29/04/2017,0 - 3,Montpellier,Lille
+29/04/2017,1 - 0,Nantes,Lorient
+29/04/2017,3 - 1,Monaco,Toulouse
+28/04/2017,1 - 2,Angers SCO,Olympique Lyonnais
+23/04/2017,1 - 2,Olympique Lyonnais,Monaco
+23/04/2017,1 - 1,Saint-Étienne,Rennes
+23/04/2017,1 - 1,Toulouse,Nice
+22/04/2017,2 - 0,Bordeaux,Bastia
+22/04/2017,0 - 2,Caen,Nantes
+22/04/2017,3 - 2,Dijon,Angers SCO
+22/04/2017,3 - 0,Lille,Guingamp
+22/04/2017,5 - 1,Lorient,Metz
+22/04/2017,2 - 0,PSG,Montpellier
+21/04/2017,0 - 0,Nancy,Olympique Marseille
+18/04/2017,2 - 3,Metz,PSG
+16/04/2017,4 - 0,Olympique Marseille,Saint-Étienne
+16/04/2017,0 - 0,Bastia,Olympique Lyonnais
+16/04/2017,0 - 1,Nantes,Bordeaux
+15/04/2017,2 - 1,Monaco,Dijon
+15/04/2017,2 - 1,Guingamp,Toulouse
+15/04/2017,2 - 2,Metz,Caen
+15/04/2017,2 - 0,Montpellier,Lorient
+15/04/2017,2 - 0,Rennes,Lille
+15/04/2017,3 - 1,Nice,Nancy
+14/04/2017,0 - 2,Angers SCO,PSG
+09/04/2017,4 - 0,PSG,Guingamp
+09/04/2017,1 - 1,Saint-Étienne,Nantes
+09/04/2017,0 - 0,Toulouse,Olympique Marseille
+08/04/2017,3 - 0,Bordeaux,Metz
+08/04/2017,0 - 2,Caen,Montpellier
+08/04/2017,1 - 2,Dijon,Bastia
+08/04/2017,3 - 0,Nancy,Rennes
+08/04/2017,1 - 4,Olympique Lyonnais,Lorient
+08/04/2017,0 - 1,Angers SCO,Monaco
+07/04/2017,1 - 2,Lille,Nice
+05/04/2017,0 - 3,Metz,Olympique Lyonnais
+02/04/2017,2 - 1,Nice,Bordeaux
+02/04/2017,1 - 0,Lorient,Caen
+02/04/2017,0 - 1,Montpellier,Toulouse
+02/04/2017,2 - 1,Nantes,Angers SCO
+02/04/2017,1 - 1,Rennes,Olympique Lyonnais
+01/04/2017,0 - 1,Bastia,Lille
+01/04/2017,1 - 1,Olympique Marseille,Dijon
+31/03/2017,1 - 0,Guingamp,Nancy
+19/03/2017,2 - 1,PSG,Olympique Lyonnais
+19/03/2017,0 - 1,Dijon,Saint-Étienne
+19/03/2017,0 - 3,Caen,Monaco
+18/03/2017,3 - 0,Angers SCO,Guingamp
+18/03/2017,5 - 1,Bordeaux,Montpellier
+18/03/2017,2 - 3,Nancy,Lorient
+18/03/2017,0 - 0,Toulouse,Rennes
+18/03/2017,1 - 1,Nantes,Nice
+17/03/2017,0 - 0,Lille,Olympique Marseille
+17/03/2017,1 - 0,Metz,Bastia
+12/03/2017,1 - 2,Lorient,PSG
+12/03/2017,4 - 0,Olympique Lyonnais,Toulouse
+12/03/2017,2 - 2,Saint-Étienne,Metz
+11/03/2017,5 - 0,Guingamp,Bastia
+11/03/2017,2 - 3,Montpellier,Nantes
+11/03/2017,1 - 2,Nancy,Lille
+11/03/2017,1 - 1,Rennes,Dijon
+11/03/2017,2 - 1,Monaco,Bordeaux
+10/03/2017,3 - 0,Olympique Marseille,Angers SCO
+10/03/2017,2 - 2,Nice,Caen
+05/03/2017,4 - 0,Monaco,Nantes
+05/03/2017,1 - 1,Toulouse,Lille
+05/03/2017,1 - 4,Lorient,Olympique Marseille
+04/03/2017,0 - 0,Bastia,Saint-Étienne
+04/03/2017,2 - 3,Caen,Angers SCO
+04/03/2017,0 - 1,Dijon,Nice
+04/03/2017,1 - 1,Metz,Rennes
+04/03/2017,1 - 1,Montpellier,Guingamp
+04/03/2017,1 - 0,PSG,Nancy
+03/03/2017,1 - 1,Bordeaux,Olympique Lyonnais
+01/03/2017,2 - 2,Bastia,Nantes
+26/02/2017,1 - 5,Olympique Marseille,PSG
+26/02/2017,5 - 0,Olympique Lyonnais,Metz
+26/02/2017,0 - 1,Saint-Étienne,Caen
+25/02/2017,3 - 0,Angers SCO,Bastia
+25/02/2017,2 - 3,Lille,Bordeaux
+25/02/2017,0 - 0,Nancy,Toulouse
+25/02/2017,1 - 0,Rennes,Lorient
+25/02/2017,1 - 2,Guingamp,Monaco
+24/02/2017,2 - 1,Nice,Montpellier
+24/02/2017,3 - 1,Nantes,Dijon
+21/02/2017,1 - 0,Caen,Nancy
+19/02/2017,0 - 0,PSG,Toulouse
+19/02/2017,2 - 1,Montpellier,Saint-Étienne
+19/02/2017,4 - 2,Olympique Lyonnais,Dijon
+19/02/2017,3 - 0,Bordeaux,Guingamp
+18/02/2017,1 - 0,Angers SCO,Nancy
+18/02/2017,0 - 1,Caen,Lille
+18/02/2017,0 - 1,Lorient,Nice
+18/02/2017,1 - 1,Metz,Nantes
+18/02/2017,2 - 0,Olympique Marseille,Rennes
+17/02/2017,1 - 1,Bastia,Monaco
+12/02/2017,3 - 2,Nantes,Olympique Marseille
+12/02/2017,4 - 0,Saint-Étienne,Lorient
+12/02/2017,2 - 2,Rennes,Nice
+11/02/2017,2 - 0,Dijon,Caen
+11/02/2017,1 - 2,Lille,Angers SCO
+11/02/2017,5 - 0,Monaco,Metz
+11/02/2017,0 - 3,Nancy,Montpellier
+11/02/2017,4 - 1,Toulouse,Bastia
+11/02/2017,2 - 1,Guingamp,Olympique Lyonnais
+10/02/2017,0 - 3,Bordeaux,PSG
+08/02/2017,2 - 0,Olympique Marseille,Guingamp
+08/02/2017,0 - 0,Angers SCO,Rennes
+08/02/2017,1 - 1,Lorient,Toulouse
+08/02/2017,2 - 1,Metz,Dijon
+08/02/2017,1 - 0,Nice,Saint-Étienne
+08/02/2017,4 - 0,Olympique Lyonnais,Nancy
+07/02/2017,2 - 1,PSG,Lille
+07/02/2017,0 - 4,Caen,Bordeaux
+07/02/2017,1 - 2,Montpellier,Monaco
+05/02/2017,2 - 0,Saint-Étienne,Olympique Lyonnais
+05/02/2017,0 - 2,Nantes,Nancy
+05/02/2017,4 - 0,Toulouse,Angers SCO
+04/02/2017,1 - 1,Bordeaux,Rennes
+04/02/2017,1 - 3,Dijon,PSG
+04/02/2017,0 - 1,Guingamp,Caen
+04/02/2017,0 - 1,Lille,Lorient
+04/02/2017,2 - 1,Montpellier,Bastia
+04/02/2017,3 - 0,Monaco,Nice
+03/02/2017,1 - 0,Metz,Olympique Marseille
+29/01/2017,1 - 1,PSG,Monaco
+29/01/2017,0 - 3,Toulouse,Saint-Étienne
+29/01/2017,3 - 1,Nice,Guingamp
+28/01/2017,2 - 1,Angers SCO,Metz
+28/01/2017,1 - 1,Bastia,Caen
+28/01/2017,2 - 3,Lorient,Dijon
+28/01/2017,0 - 2,Nancy,Bordeaux
+28/01/2017,1 - 1,Rennes,Nantes
+28/01/2017,1 - 2,Olympique Lyonnais,Lille
+27/01/2017,5 - 1,Olympique Marseille,Montpellier
+22/01/2017,3 - 1,Olympique Lyonnais,Olympique Marseille
+22/01/2017,2 - 1,Saint-Étienne,Angers SCO
+22/01/2017,4 - 0,Monaco,Lorient
+21/01/2017,1 - 0,Bordeaux,Toulouse
+21/01/2017,0 - 0,Dijon,Lille
+21/01/2017,1 - 1,Guingamp,Rennes
+21/01/2017,2 - 0,Metz,Montpellier
+21/01/2017,0 - 2,Nantes,PSG
+20/01/2017,1 - 1,Bastia,Nice
+18/01/2017,1 - 0,Nantes,Caen
+15/01/2017,1 - 4,Olympique Marseille,Monaco
+15/01/2017,3 - 2,Caen,Olympique Lyonnais
+15/01/2017,0 - 0,Nice,Metz
+14/01/2017,1 - 1,Angers SCO,Bordeaux
+14/01/2017,3 - 1,Lorient,Guingamp
+14/01/2017,1 - 1,Montpellier,Dijon
+14/01/2017,1 - 0,Nancy,Bastia
+14/01/2017,0 - 1,Toulouse,Nantes
+14/01/2017,0 - 1,Rennes,PSG
+13/01/2017,1 - 1,Lille,Saint-Étienne
+21/12/2016,1 - 2,Bastia,Olympique Marseille
+21/12/2016,0 - 0,Bordeaux,Nice
+21/12/2016,2 - 0,Dijon,Toulouse
+21/12/2016,1 - 1,Lille,Rennes
+21/12/2016,2 - 2,Metz,Guingamp
+21/12/2016,2 - 1,Monaco,Caen
+21/12/2016,1 - 0,Nantes,Montpellier
+21/12/2016,2 - 0,Olympique Lyonnais,Angers SCO
+21/12/2016,5 - 0,PSG,Lorient
+21/12/2016,0 - 0,Saint-Étienne,Nancy
+18/12/2016,1 - 3,Monaco,Olympique Lyonnais
+18/12/2016,2 - 0,Olympique Marseille,Lille
+18/12/2016,2 - 1,Nice,Dijon
+18/12/2016,3 - 0,Caen,Metz
+17/12/2016,2 - 1,Lorient,Saint-Étienne
+17/12/2016,4 - 0,Montpellier,Bordeaux
+17/12/2016,1 - 2,Rennes,Bastia
+17/12/2016,1 - 1,Toulouse,Nancy
+17/12/2016,2 - 1,Guingamp,PSG
+16/12/2016,0 - 2,Angers SCO,Nantes
+11/12/2016,2 - 2,PSG,Nice
+11/12/2016,1 - 0,Saint-Étienne,Guingamp
+11/12/2016,1 - 0,Olympique Lyonnais,Rennes
+10/12/2016,2 - 0,Bastia,Metz
+10/12/2016,2 - 1,Lille,Montpellier
+10/12/2016,2 - 0,Nancy,Angers SCO
+10/12/2016,3 - 2,Toulouse,Lorient
+10/12/2016,0 - 4,Bordeaux,Monaco
+10/12/2016,1 - 2,Dijon,Olympique Marseille
+04/12/2016,3 - 0,Nice,Toulouse
+04/12/2016,3 - 0,Olympique Marseille,Nancy
+04/12/2016,2 - 0,Rennes,Saint-Étienne
+03/12/2016,2 - 2,Angers SCO,Lorient
+03/12/2016,0 - 1,Bordeaux,Lille
+03/12/2016,2 - 0,Guingamp,Nantes
+03/12/2016,5 - 0,Monaco,Bastia
+03/12/2016,3 - 0,Montpellier,PSG
+02/12/2016,3 - 3,Caen,Dijon
+30/11/2016,2 - 0,PSG,Angers SCO
+30/11/2016,1 - 1,Bastia,Bordeaux
+30/11/2016,0 - 1,Guingamp,Nice
+30/11/2016,4 - 0,Nancy,Metz
+30/11/2016,0 - 6,Nantes,Olympique Lyonnais
+30/11/2016,0 - 0,Saint-Étienne,Olympique Marseille
+30/11/2016,1 - 0,Toulouse,Montpellier
+29/11/2016,1 - 1,Dijon,Monaco
+29/11/2016,4 - 2,Lille,Caen
+29/11/2016,2 - 1,Lorient,Rennes
+27/11/2016,1 - 2,Olympique Lyonnais,PSG
+27/11/2016,1 - 1,Nice,Bastia
+27/11/2016,1 - 2,Angers SCO,Saint-Étienne
+26/11/2016,3 - 2,Bordeaux,Dijon
+26/11/2016,1 - 1,Caen,Guingamp
+26/11/2016,3 - 3,Metz,Lorient
+26/11/2016,0 - 0,Montpellier,Nancy
+26/11/2016,0 - 0,Nantes,Lille
+26/11/2016,4 - 0,Monaco,Olympique Marseille
+25/11/2016,1 - 0,Rennes,Toulouse
+20/11/2016,0 - 1,Saint-Étienne,Nice
+20/11/2016,1 - 0,Olympique Marseille,Caen
+20/11/2016,1 - 1,Guingamp,Bordeaux
+19/11/2016,1 - 1,Bastia,Montpellier
+19/11/2016,1 - 0,Nancy,Dijon
+19/11/2016,1 - 1,Rennes,Angers SCO
+19/11/2016,1 - 2,Toulouse,Metz
+19/11/2016,2 - 0,PSG,Nantes
+18/11/2016,0 - 1,Lille,Olympique Lyonnais
+18/11/2016,0 - 3,Lorient,Monaco
+06/11/2016,4 - 0,PSG,Rennes
+06/11/2016,0 - 0,Metz,Saint-Étienne
+06/11/2016,1 - 0,Caen,Nice
+05/11/2016,1 - 0,Angers SCO,Lille
+05/11/2016,2 - 1,Bordeaux,Lorient
+05/11/2016,3 - 3,Dijon,Guingamp
+05/11/2016,1 - 1,Nantes,Toulouse
+05/11/2016,2 - 1,Olympique Lyonnais,Bastia
+05/11/2016,6 - 0,Monaco,Nancy
+04/11/2016,3 - 1,Montpellier,Olympique Marseille
+30/10/2016,0 - 0,Olympique Marseille,Bordeaux
+30/10/2016,1 - 0,Rennes,Metz
+30/10/2016,4 - 1,Nice,Nantes
+29/10/2016,0 - 0,Bastia,Dijon
+29/10/2016,1 - 0,Guingamp,Angers SCO
+29/10/2016,2 - 2,Lorient,Montpellier
+29/10/2016,2 - 0,Nancy,Caen
+29/10/2016,1 - 1,Saint-Étienne,Monaco
+29/10/2016,1 - 2,Toulouse,Olympique Lyonnais
+28/10/2016,0 - 1,Lille,PSG
+23/10/2016,0 - 0,PSG,Olympique Marseille
+23/10/2016,2 - 4,Metz,Nice
+23/10/2016,0 - 2,Caen,Saint-Étienne
+22/10/2016,0 - 0,Angers SCO,Toulouse
+22/10/2016,1 - 1,Bordeaux,Nancy
+22/10/2016,1 - 0,Dijon,Lorient
+22/10/2016,2 - 1,Lille,Bastia
+22/10/2016,1 - 2,Nantes,Rennes
+22/10/2016,1 - 3,Olympique Lyonnais,Guingamp
+21/10/2016,6 - 2,Monaco,Montpellier
+16/10/2016,1 - 0,Olympique Marseille,Metz
+16/10/2016,1 - 1,Saint-Étienne,Dijon
+16/10/2016,1 - 1,Rennes,Bordeaux
+15/10/2016,1 - 2,Bastia,Angers SCO
+15/10/2016,1 - 0,Guingamp,Lille
+15/10/2016,1 - 2,Lorient,Nantes
+15/10/2016,3 - 2,Montpellier,Caen
+15/10/2016,1 - 2,Nancy,PSG
+14/10/2016,2 - 0,Nice,Olympique Lyonnais
+14/10/2016,3 - 1,Toulouse,Monaco
+02/10/2016,2 - 0,Olympique Lyonnais,Saint-Étienne
+02/10/2016,2 - 1,Nice,Lorient
+02/10/2016,1 - 1,Angers SCO,Olympique Marseille
+01/10/2016,1 - 0,Caen,Toulouse
+01/10/2016,3 - 3,Dijon,Montpellier
+01/10/2016,1 - 0,Lille,Nancy
+01/10/2016,0 - 7,Metz,Monaco
+01/10/2016,1 - 0,Nantes,Bastia
+01/10/2016,2 - 0,PSG,Bordeaux
+30/09/2016,1 - 0,Rennes,Guingamp
+25/09/2016,2 - 1,Olympique Marseille,Nantes
+25/09/2016,0 - 1,Nancy,Nice
+25/09/2016,3 - 1,Saint-Étienne,Lille
+24/09/2016,1 - 0,Bastia,Guingamp
+24/09/2016,0 - 0,Bordeaux,Caen
+24/09/2016,3 - 0,Dijon,Rennes
+24/09/2016,2 - 1,Monaco,Angers SCO
+24/09/2016,0 - 1,Montpellier,Metz
+24/09/2016,1 - 0,Lorient,Olympique Lyonnais
+23/09/2016,2 - 0,Toulouse,PSG
+21/09/2016,3 - 2,Rennes,Olympique Marseille
+21/09/2016,2 - 1,Angers SCO,Caen
+21/09/2016,0 - 0,Bastia,Nancy
+21/09/2016,1 - 0,Guingamp,Lorient
+21/09/2016,0 - 3,Metz,Bordeaux
+21/09/2016,0 - 0,Nantes,Saint-Étienne
+21/09/2016,4 - 0,Nice,Monaco
+21/09/2016,5 - 1,Olympique Lyonnais,Montpellier
+20/09/2016,3 - 0,PSG,Dijon
+20/09/2016,1 - 2,Lille,Toulouse
+18/09/2016,0 - 0,Olympique Marseille,Olympique Lyonnais
+18/09/2016,1 - 0,Saint-Étienne,Bastia
+18/09/2016,1 - 1,Montpellier,Nice
+17/09/2016,0 - 1,Bordeaux,Angers SCO
+17/09/2016,0 - 0,Dijon,Metz
+17/09/2016,1 - 0,Lorient,Lille
+17/09/2016,1 - 1,Nancy,Nantes
+17/09/2016,2 - 1,Toulouse,Guingamp
+17/09/2016,3 - 0,Monaco,Rennes
+16/09/2016,0 - 6,Caen,PSG
+11/09/2016,3 - 2,Nice,Olympique Marseille
+11/09/2016,2 - 0,Rennes,Caen
+11/09/2016,0 - 3,Nantes,Metz
+10/09/2016,3 - 1,Angers SCO,Dijon
+10/09/2016,2 - 1,Bastia,Toulouse
+10/09/2016,1 - 1,Guingamp,Montpellier
+10/09/2016,1 - 4,Lille,Monaco
+10/09/2016,0 - 2,Lorient,Nancy
+10/09/2016,1 - 3,Olympique Lyonnais,Bordeaux
+09/09/2016,1 - 1,PSG,Saint-Étienne
+28/08/2016,3 - 1,Monaco,PSG
+28/08/2016,0 - 0,Saint-Étienne,Toulouse
+28/08/2016,1 - 0,Bordeaux,Nantes
+27/08/2016,2 - 0,Caen,Bastia
+27/08/2016,2 - 0,Metz,Angers SCO
+27/08/2016,1 - 1,Montpellier,Rennes
+27/08/2016,0 - 2,Nancy,Guingamp
+27/08/2016,1 - 1,Nice,Lille
+27/08/2016,4 - 2,Dijon,Olympique Lyonnais
+26/08/2016,2 - 0,Olympique Marseille,Lorient
+21/08/2016,3 - 0,PSG,Metz
+21/08/2016,3 - 1,Saint-Étienne,Montpellier
+21/08/2016,2 - 1,Guingamp,Olympique Marseille
+20/08/2016,0 - 1,Angers SCO,Nice
+20/08/2016,1 - 0,Lille,Dijon
+20/08/2016,0 - 3,Lorient,Bastia
+20/08/2016,2 - 0,Rennes,Nancy
+20/08/2016,4 - 1,Toulouse,Bordeaux
+20/08/2016,0 - 1,Nantes,Monaco
+19/08/2016,2 - 0,Olympique Lyonnais,Caen
+14/08/2016,0 - 0,Olympique Marseille,Toulouse
+14/08/2016,1 - 0,Nice,Rennes
+14/08/2016,0 - 3,Nancy,Olympique Lyonnais
+13/08/2016,3 - 2,Caen,Lorient
+13/08/2016,0 - 1,Dijon,Nantes
+13/08/2016,3 - 2,Metz,Lille
+13/08/2016,1 - 0,Montpellier,Angers SCO
+13/08/2016,3 - 2,Bordeaux,Saint-Étienne
+12/08/2016,2 - 2,Monaco,Guingamp
+12/08/2016,0 - 1,Bastia,PSG

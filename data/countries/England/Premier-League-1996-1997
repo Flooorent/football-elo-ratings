@@ -1,0 +1,381 @@
+date,score,home_team,away_team
+11/05/1997,1 - 0,Aston Villa,Southampton
+11/05/1997,2 - 4,Blackburn Rovers,Leicester City
+11/05/1997,1 - 3,Derby County,Arsenal
+11/05/1997,1 - 2,Everton,Chelsea
+11/05/1997,1 - 1,Leeds United,Middlesbrough
+11/05/1997,2 - 0,Manchester United,West Ham United
+11/05/1997,5 - 0,Newcastle United,Nottingham Forest
+11/05/1997,1 - 1,Sheffield Wednesday,Liverpool
+11/05/1997,1 - 2,Tottenham Hotspur,Coventry City
+11/05/1997,1 - 0,Wimbledon,Sunderland
+08/05/1997,0 - 0,Blackburn Rovers,Middlesbrough
+08/05/1997,0 - 0,Manchester United,Newcastle United
+07/05/1997,1 - 0,Leicester City,Sheffield Wednesday
+06/05/1997,0 - 0,West Ham United,Newcastle United
+06/05/1997,2 - 1,Wimbledon,Liverpool
+05/05/1997,3 - 3,Manchester United,Middlesbrough
+03/05/1997,0 - 1,Arsenal,Newcastle United
+03/05/1997,0 - 0,Chelsea,Leeds United
+03/05/1997,1 - 2,Coventry City,Derby County
+03/05/1997,2 - 2,Leicester City,Manchester United
+03/05/1997,2 - 1,Liverpool,Tottenham Hotspur
+03/05/1997,3 - 2,Middlesbrough,Aston Villa
+03/05/1997,1 - 1,Nottingham Forest,Wimbledon
+03/05/1997,2 - 0,Southampton,Blackburn Rovers
+03/05/1997,3 - 0,Sunderland,Everton
+03/05/1997,5 - 1,West Ham United,Sheffield Wednesday
+24/04/1997,1 - 0,Tottenham Hotspur,Middlesbrough
+23/04/1997,0 - 0,Derby County,Nottingham Forest
+23/04/1997,0 - 1,Leicester City,West Ham United
+22/04/1997,4 - 1,Blackburn Rovers,Sheffield Wednesday
+22/04/1997,0 - 0,Leeds United,Aston Villa
+22/04/1997,0 - 1,Sunderland,Southampton
+22/04/1997,0 - 1,Wimbledon,Chelsea
+21/04/1997,1 - 1,Coventry City,Arsenal
+19/04/1997,1 - 1,Arsenal,Blackburn Rovers
+19/04/1997,1 - 1,Aston Villa,Tottenham Hotspur
+19/04/1997,2 - 1,Chelsea,Leicester City
+19/04/1997,1 - 3,Liverpool,Manchester United
+19/04/1997,0 - 1,Middlesbrough,Sunderland
+19/04/1997,3 - 1,Newcastle United,Derby County
+19/04/1997,1 - 1,Nottingham Forest,Leeds United
+19/04/1997,3 - 1,Sheffield Wednesday,Wimbledon
+19/04/1997,2 - 2,Southampton,Coventry City
+19/04/1997,2 - 2,West Ham United,Everton
+16/04/1997,1 - 1,Everton,Liverpool
+16/04/1997,3 - 1,Newcastle United,Chelsea
+16/04/1997,2 - 0,Wimbledon,Leeds United
+13/04/1997,1 - 1,Sheffield Wednesday,Newcastle United
+13/04/1997,1 - 2,Sunderland,Liverpool
+12/04/1997,2 - 0,Arsenal,Leicester City
+12/04/1997,2 - 3,Blackburn Rovers,Manchester United
+12/04/1997,2 - 1,Derby County,Aston Villa
+12/04/1997,1 - 0,Everton,Tottenham Hotspur
+12/04/1997,2 - 0,Southampton,West Ham United
+09/04/1997,3 - 1,Coventry City,Chelsea
+09/04/1997,1 - 1,Derby County,Southampton
+09/04/1997,1 - 1,Everton,Leicester City
+09/04/1997,2 - 1,Sheffield Wednesday,Tottenham Hotspur
+09/04/1997,0 - 0,West Ham United,Middlesbrough
+09/04/1997,0 - 2,Wimbledon,Aston Villa
+07/04/1997,0 - 0,Leeds United,Blackburn Rovers
+06/04/1997,1 - 2,Liverpool,Coventry City
+05/04/1997,3 - 1,Aston Villa,Everton
+05/04/1997,0 - 3,Chelsea,Arsenal
+05/04/1997,2 - 3,Manchester United,Derby County
+05/04/1997,1 - 1,Newcastle United,Sunderland
+05/04/1997,1 - 3,Nottingham Forest,Southampton
+05/04/1997,1 - 0,Tottenham Hotspur,Wimbledon
+24/03/1997,1 - 2,Arsenal,Liverpool
+24/03/1997,1 - 1,Middlesbrough,Nottingham Forest
+23/03/1997,1 - 1,Wimbledon,Newcastle United
+22/03/1997,0 - 2,Blackburn Rovers,Aston Villa
+22/03/1997,1 - 3,Coventry City,West Ham United
+22/03/1997,4 - 2,Derby County,Tottenham Hotspur
+22/03/1997,0 - 2,Everton,Manchester United
+22/03/1997,1 - 0,Middlesbrough,Chelsea
+22/03/1997,2 - 2,Sheffield Wednesday,Leeds United
+22/03/1997,2 - 2,Southampton,Leicester City
+22/03/1997,1 - 1,Sunderland,Nottingham Forest
+19/03/1997,1 - 0,Chelsea,Southampton
+19/03/1997,1 - 1,Leicester City,Tottenham Hotspur
+19/03/1997,2 - 1,Middlesbrough,Blackburn Rovers
+18/03/1997,1 - 1,Wimbledon,West Ham United
+16/03/1997,6 - 2,Chelsea,Sunderland
+15/03/1997,0 - 0,Aston Villa,West Ham United
+15/03/1997,3 - 1,Blackburn Rovers,Wimbledon
+15/03/1997,1 - 0,Everton,Derby County
+15/03/1997,1 - 3,Leicester City,Middlesbrough
+15/03/1997,2 - 0,Manchester United,Sheffield Wednesday
+15/03/1997,4 - 0,Newcastle United,Coventry City
+15/03/1997,1 - 1,Nottingham Forest,Liverpool
+15/03/1997,0 - 2,Southampton,Arsenal
+15/03/1997,1 - 0,Tottenham Hotspur,Leeds United
+12/03/1997,0 - 0,Leeds United,Southampton
+12/03/1997,2 - 1,Sheffield Wednesday,Sunderland
+12/03/1997,3 - 2,West Ham United,Chelsea
+11/03/1997,1 - 1,Blackburn Rovers,Nottingham Forest
+10/03/1997,4 - 3,Liverpool,Newcastle United
+08/03/1997,2 - 0,Arsenal,Nottingham Forest
+08/03/1997,0 - 0,Coventry City,Leicester City
+08/03/1997,1 - 0,Leeds United,Everton
+08/03/1997,2 - 1,Sunderland,Manchester United
+05/03/1997,1 - 1,Chelsea,Blackburn Rovers
+05/03/1997,1 - 0,Leicester City,Aston Villa
+05/03/1997,6 - 1,Middlesbrough,Derby County
+05/03/1997,0 - 3,Nottingham Forest,Sheffield Wednesday
+05/03/1997,2 - 2,Southampton,Everton
+04/03/1997,0 - 4,Sunderland,Tottenham Hotspur
+03/03/1997,1 - 1,Coventry City,Wimbledon
+02/03/1997,1 - 0,Aston Villa,Liverpool
+01/03/1997,1 - 0,Blackburn Rovers,Sunderland
+01/03/1997,3 - 2,Derby County,Chelsea
+01/03/1997,0 - 2,Everton,Arsenal
+01/03/1997,1 - 0,Leeds United,West Ham United
+01/03/1997,3 - 1,Manchester United,Coventry City
+01/03/1997,0 - 1,Newcastle United,Southampton
+01/03/1997,3 - 1,Sheffield Wednesday,Middlesbrough
+01/03/1997,0 - 1,Tottenham Hotspur,Nottingham Forest
+01/03/1997,1 - 3,Wimbledon,Leicester City
+26/02/1997,0 - 0,Southampton,Wimbledon
+24/02/1997,4 - 3,West Ham United,Tottenham Hotspur
+23/02/1997,0 - 1,Arsenal,Wimbledon
+22/02/1997,1 - 1,Chelsea,Manchester United
+22/02/1997,0 - 0,Coventry City,Everton
+22/02/1997,4 - 2,Leicester City,Derby County
+22/02/1997,0 - 0,Liverpool,Blackburn Rovers
+22/02/1997,0 - 1,Middlesbrough,Newcastle United
+22/02/1997,0 - 0,Nottingham Forest,Aston Villa
+22/02/1997,2 - 3,Southampton,Sheffield Wednesday
+22/02/1997,0 - 1,Sunderland,Leeds United
+19/02/1997,1 - 2,Arsenal,Manchester United
+19/02/1997,2 - 1,Aston Villa,Coventry City
+19/02/1997,2 - 2,Derby County,Sheffield Wednesday
+19/02/1997,4 - 0,Liverpool,Leeds United
+15/02/1997,1 - 0,Derby County,West Ham United
+15/02/1997,0 - 0,Tottenham Hotspur,Arsenal
+02/02/1997,4 - 3,Newcastle United,Leicester City
+01/02/1997,1 - 0,Aston Villa,Sunderland
+01/02/1997,2 - 1,Blackburn Rovers,West Ham United
+01/02/1997,0 - 1,Derby County,Liverpool
+01/02/1997,2 - 0,Everton,Nottingham Forest
+01/02/1997,0 - 0,Leeds United,Arsenal
+01/02/1997,2 - 1,Manchester United,Southampton
+01/02/1997,0 - 0,Sheffield Wednesday,Coventry City
+01/02/1997,1 - 2,Tottenham Hotspur,Chelsea
+01/02/1997,1 - 1,Wimbledon,Middlesbrough
+29/01/1997,0 - 1,Aston Villa,Sheffield Wednesday
+29/01/1997,0 - 0,Leeds United,Derby County
+29/01/1997,1 - 1,Leicester City,Sunderland
+29/01/1997,2 - 1,Manchester United,Wimbledon
+29/01/1997,4 - 1,Newcastle United,Everton
+29/01/1997,0 - 1,Nottingham Forest,Coventry City
+29/01/1997,2 - 1,Tottenham Hotspur,Blackburn Rovers
+29/01/1997,1 - 2,West Ham United,Arsenal
+20/01/1997,0 - 2,West Ham United,Leeds United
+19/01/1997,3 - 1,Arsenal,Everton
+19/01/1997,2 - 1,Nottingham Forest,Tottenham Hotspur
+18/01/1997,3 - 1,Chelsea,Derby County
+18/01/1997,0 - 2,Coventry City,Manchester United
+18/01/1997,1 - 0,Leicester City,Wimbledon
+18/01/1997,3 - 0,Liverpool,Aston Villa
+18/01/1997,4 - 2,Middlesbrough,Sheffield Wednesday
+18/01/1997,2 - 2,Southampton,Newcastle United
+18/01/1997,0 - 0,Sunderland,Blackburn Rovers
+12/01/1997,1 - 2,Tottenham Hotspur,Manchester United
+11/01/1997,2 - 2,Aston Villa,Newcastle United
+11/01/1997,4 - 0,Blackburn Rovers,Coventry City
+11/01/1997,3 - 0,Leeds United,Leicester City
+11/01/1997,0 - 0,Liverpool,West Ham United
+11/01/1997,0 - 1,Middlesbrough,Southampton
+11/01/1997,2 - 0,Nottingham Forest,Chelsea
+11/01/1997,2 - 1,Sheffield Wednesday,Everton
+11/01/1997,1 - 0,Sunderland,Arsenal
+11/01/1997,1 - 1,Wimbledon,Derby County
+01/01/1997,2 - 0,Arsenal,Middlesbrough
+01/01/1997,1 - 0,Chelsea,Liverpool
+01/01/1997,2 - 2,Coventry City,Sunderland
+01/01/1997,0 - 2,Everton,Blackburn Rovers
+01/01/1997,0 - 0,Manchester United,Aston Villa
+01/01/1997,3 - 0,Newcastle United,Leeds United
+01/01/1997,0 - 1,West Ham United,Nottingham Forest
+29/12/1996,0 - 1,Southampton,Liverpool
+28/12/1996,2 - 2,Arsenal,Aston Villa
+28/12/1996,2 - 2,Chelsea,Sheffield Wednesday
+28/12/1996,3 - 0,Coventry City,Middlesbrough
+28/12/1996,0 - 0,Derby County,Blackburn Rovers
+28/12/1996,1 - 3,Everton,Wimbledon
+28/12/1996,2 - 2,Leicester City,Nottingham Forest
+28/12/1996,1 - 0,Manchester United,Leeds United
+28/12/1996,7 - 1,Newcastle United,Tottenham Hotspur
+28/12/1996,2 - 0,West Ham United,Sunderland
+26/12/1996,0 - 2,Aston Villa,Chelsea
+26/12/1996,1 - 0,Blackburn Rovers,Newcastle United
+26/12/1996,1 - 3,Leeds United,Coventry City
+26/12/1996,1 - 1,Liverpool,Leicester City
+26/12/1996,4 - 2,Middlesbrough,Everton
+26/12/1996,0 - 4,Nottingham Forest,Manchester United
+26/12/1996,0 - 0,Sheffield Wednesday,Arsenal
+26/12/1996,2 - 0,Sunderland,Derby County
+26/12/1996,3 - 1,Tottenham Hotspur,Southampton
+23/12/1996,1 - 1,Newcastle United,Liverpool
+22/12/1996,5 - 0,Aston Villa,Wimbledon
+21/12/1996,3 - 1,Chelsea,West Ham United
+21/12/1996,0 - 0,Everton,Leeds United
+21/12/1996,0 - 2,Leicester City,Coventry City
+21/12/1996,5 - 0,Manchester United,Sunderland
+21/12/1996,2 - 1,Nottingham Forest,Arsenal
+21/12/1996,3 - 1,Southampton,Derby County
+21/12/1996,1 - 1,Tottenham Hotspur,Sheffield Wednesday
+18/12/1996,1 - 1,Sheffield Wednesday,Manchester United
+17/12/1996,2 - 1,Coventry City,Newcastle United
+17/12/1996,4 - 2,Liverpool,Nottingham Forest
+16/12/1996,0 - 1,Derby County,Everton
+15/12/1996,3 - 0,Sunderland,Chelsea
+14/12/1996,0 - 0,Leeds United,Tottenham Hotspur
+14/12/1996,5 - 1,Liverpool,Middlesbrough
+14/12/1996,1 - 0,Wimbledon,Blackburn Rovers
+09/12/1996,0 - 0,Nottingham Forest,Newcastle United
+08/12/1996,2 - 2,West Ham United,Manchester United
+07/12/1996,2 - 2,Arsenal,Derby County
+07/12/1996,2 - 2,Chelsea,Everton
+07/12/1996,1 - 2,Coventry City,Tottenham Hotspur
+07/12/1996,1 - 1,Leicester City,Blackburn Rovers
+07/12/1996,0 - 1,Liverpool,Sheffield Wednesday
+07/12/1996,0 - 0,Middlesbrough,Leeds United
+07/12/1996,0 - 1,Southampton,Aston Villa
+07/12/1996,1 - 3,Sunderland,Wimbledon
+04/12/1996,3 - 1,Arsenal,Southampton
+04/12/1996,0 - 2,West Ham United,Aston Villa
+03/12/1996,0 - 2,Middlesbrough,Leicester City
+02/12/1996,0 - 2,Tottenham Hotspur,Liverpool
+01/12/1996,2 - 0,Leeds United,Chelsea
+30/11/1996,1 - 0,Aston Villa,Middlesbrough
+30/11/1996,2 - 1,Blackburn Rovers,Southampton
+30/11/1996,2 - 1,Derby County,Coventry City
+30/11/1996,1 - 3,Everton,Sunderland
+30/11/1996,3 - 1,Manchester United,Leicester City
+30/11/1996,1 - 2,Newcastle United,Arsenal
+30/11/1996,0 - 0,Sheffield Wednesday,West Ham United
+30/11/1996,1 - 0,Wimbledon,Nottingham Forest
+25/11/1996,2 - 2,Nottingham Forest,Blackburn Rovers
+24/11/1996,3 - 1,Arsenal,Tottenham Hotspur
+23/11/1996,1 - 1,Chelsea,Newcastle United
+23/11/1996,1 - 2,Coventry City,Aston Villa
+23/11/1996,1 - 2,Leicester City,Everton
+23/11/1996,1 - 1,Liverpool,Wimbledon
+23/11/1996,2 - 2,Middlesbrough,Manchester United
+23/11/1996,0 - 2,Southampton,Leeds United
+23/11/1996,1 - 1,Sunderland,Sheffield Wednesday
+23/11/1996,1 - 1,West Ham United,Derby County
+20/11/1996,1 - 1,Liverpool,Everton
+18/11/1996,2 - 0,Sheffield Wednesday,Nottingham Forest
+17/11/1996,2 - 1,Derby County,Middlesbrough
+16/11/1996,1 - 3,Aston Villa,Leicester City
+16/11/1996,1 - 1,Blackburn Rovers,Chelsea
+16/11/1996,7 - 1,Everton,Southampton
+16/11/1996,0 - 2,Leeds United,Liverpool
+16/11/1996,1 - 0,Manchester United,Arsenal
+16/11/1996,1 - 1,Newcastle United,West Ham United
+16/11/1996,2 - 0,Tottenham Hotspur,Sunderland
+16/11/1996,2 - 2,Wimbledon,Coventry City
+04/11/1996,1 - 1,Everton,Coventry City
+03/11/1996,3 - 0,Blackburn Rovers,Liverpool
+03/11/1996,3 - 1,Newcastle United,Middlesbrough
+02/11/1996,2 - 0,Aston Villa,Nottingham Forest
+02/11/1996,2 - 0,Derby County,Leicester City
+02/11/1996,3 - 0,Leeds United,Sunderland
+02/11/1996,1 - 2,Manchester United,Chelsea
+02/11/1996,1 - 1,Sheffield Wednesday,Southampton
+02/11/1996,1 - 0,Tottenham Hotspur,West Ham United
+02/11/1996,2 - 2,Wimbledon,Arsenal
+28/10/1996,0 - 1,Nottingham Forest,Everton
+27/10/1996,2 - 1,Liverpool,Derby County
+26/10/1996,3 - 0,Arsenal,Leeds United
+26/10/1996,3 - 1,Chelsea,Tottenham Hotspur
+26/10/1996,0 - 0,Coventry City,Sheffield Wednesday
+26/10/1996,2 - 0,Leicester City,Newcastle United
+26/10/1996,0 - 0,Middlesbrough,Wimbledon
+26/10/1996,6 - 3,Southampton,Manchester United
+26/10/1996,1 - 0,Sunderland,Aston Villa
+26/10/1996,2 - 1,West Ham United,Blackburn Rovers
+20/10/1996,5 - 0,Newcastle United,Manchester United
+19/10/1996,0 - 0,Arsenal,Coventry City
+19/10/1996,2 - 0,Aston Villa,Leeds United
+19/10/1996,2 - 4,Chelsea,Wimbledon
+19/10/1996,0 - 3,Middlesbrough,Tottenham Hotspur
+19/10/1996,1 - 1,Nottingham Forest,Derby County
+19/10/1996,1 - 1,Sheffield Wednesday,Blackburn Rovers
+19/10/1996,3 - 0,Southampton,Sunderland
+19/10/1996,1 - 0,West Ham United,Leicester City
+14/10/1996,2 - 2,Sunderland,Middlesbrough
+13/10/1996,1 - 1,Coventry City,Southampton
+12/10/1996,0 - 2,Blackburn Rovers,Arsenal
+12/10/1996,0 - 1,Derby County,Newcastle United
+12/10/1996,2 - 1,Everton,West Ham United
+12/10/1996,2 - 0,Leeds United,Nottingham Forest
+12/10/1996,1 - 3,Leicester City,Chelsea
+12/10/1996,1 - 0,Manchester United,Liverpool
+12/10/1996,1 - 0,Tottenham Hotspur,Aston Villa
+12/10/1996,4 - 2,Wimbledon,Sheffield Wednesday
+30/09/1996,4 - 3,Newcastle United,Aston Villa
+29/09/1996,2 - 0,Manchester United,Tottenham Hotspur
+29/09/1996,1 - 2,West Ham United,Liverpool
+28/09/1996,2 - 0,Arsenal,Sunderland
+28/09/1996,1 - 1,Chelsea,Nottingham Forest
+28/09/1996,0 - 0,Coventry City,Blackburn Rovers
+28/09/1996,0 - 2,Derby County,Wimbledon
+28/09/1996,2 - 0,Everton,Sheffield Wednesday
+28/09/1996,1 - 0,Leicester City,Leeds United
+28/09/1996,4 - 0,Southampton,Middlesbrough
+23/09/1996,3 - 1,Wimbledon,Southampton
+22/09/1996,1 - 2,Tottenham Hotspur,Leicester City
+21/09/1996,0 - 0,Aston Villa,Manchester United
+21/09/1996,1 - 1,Blackburn Rovers,Everton
+21/09/1996,0 - 1,Leeds United,Newcastle United
+21/09/1996,5 - 1,Liverpool,Chelsea
+21/09/1996,0 - 2,Middlesbrough,Arsenal
+21/09/1996,0 - 2,Nottingham Forest,West Ham United
+21/09/1996,0 - 0,Sheffield Wednesday,Derby County
+21/09/1996,1 - 0,Sunderland,Coventry City
+16/09/1996,4 - 1,Arsenal,Sheffield Wednesday
+15/09/1996,1 - 1,Chelsea,Aston Villa
+15/09/1996,0 - 3,Leicester City,Liverpool
+14/09/1996,2 - 1,Coventry City,Leeds United
+14/09/1996,1 - 0,Derby County,Sunderland
+14/09/1996,1 - 2,Everton,Middlesbrough
+14/09/1996,4 - 1,Manchester United,Nottingham Forest
+14/09/1996,2 - 1,Newcastle United,Blackburn Rovers
+14/09/1996,0 - 1,Southampton,Tottenham Hotspur
+14/09/1996,0 - 2,West Ham United,Wimbledon
+09/09/1996,1 - 2,Blackburn Rovers,Derby County
+08/09/1996,0 - 0,Sunderland,West Ham United
+07/09/1996,2 - 2,Aston Villa,Arsenal
+07/09/1996,0 - 4,Leeds United,Manchester United
+07/09/1996,2 - 1,Liverpool,Southampton
+07/09/1996,4 - 0,Middlesbrough,Coventry City
+07/09/1996,0 - 0,Nottingham Forest,Leicester City
+07/09/1996,0 - 2,Sheffield Wednesday,Chelsea
+07/09/1996,1 - 2,Tottenham Hotspur,Newcastle United
+07/09/1996,4 - 0,Wimbledon,Everton
+04/09/1996,3 - 3,Arsenal,Chelsea
+04/09/1996,0 - 1,Blackburn Rovers,Leeds United
+04/09/1996,0 - 1,Coventry City,Liverpool
+04/09/1996,1 - 1,Derby County,Manchester United
+04/09/1996,0 - 1,Everton,Aston Villa
+04/09/1996,4 - 1,Middlesbrough,West Ham United
+04/09/1996,2 - 2,Southampton,Nottingham Forest
+04/09/1996,1 - 2,Sunderland,Newcastle United
+04/09/1996,1 - 0,Wimbledon,Tottenham Hotspur
+02/09/1996,2 - 1,Sheffield Wednesday,Leicester City
+26/08/1996,1 - 0,Leeds United,Wimbledon
+25/08/1996,2 - 2,Manchester United,Blackburn Rovers
+24/08/1996,2 - 0,Aston Villa,Derby County
+24/08/1996,2 - 0,Chelsea,Coventry City
+24/08/1996,0 - 2,Leicester City,Arsenal
+24/08/1996,0 - 0,Liverpool,Sunderland
+24/08/1996,1 - 2,Newcastle United,Sheffield Wednesday
+24/08/1996,1 - 1,Nottingham Forest,Middlesbrough
+24/08/1996,0 - 0,Tottenham Hotspur,Everton
+24/08/1996,2 - 1,West Ham United,Southampton
+21/08/1996,1 - 0,Aston Villa,Blackburn Rovers
+21/08/1996,1 - 0,Chelsea,Middlesbrough
+21/08/1996,2 - 1,Leicester City,Southampton
+21/08/1996,2 - 2,Manchester United,Everton
+21/08/1996,2 - 0,Newcastle United,Wimbledon
+21/08/1996,1 - 4,Nottingham Forest,Sunderland
+21/08/1996,1 - 1,Tottenham Hotspur,Derby County
+21/08/1996,1 - 1,West Ham United,Coventry City
+20/08/1996,0 - 2,Leeds United,Sheffield Wednesday
+19/08/1996,2 - 0,Liverpool,Arsenal
+18/08/1996,0 - 0,Southampton,Chelsea
+17/08/1996,2 - 0,Arsenal,West Ham United
+17/08/1996,0 - 2,Blackburn Rovers,Tottenham Hotspur
+17/08/1996,0 - 3,Coventry City,Nottingham Forest
+17/08/1996,3 - 3,Derby County,Leeds United
+17/08/1996,2 - 0,Everton,Newcastle United
+17/08/1996,3 - 3,Middlesbrough,Liverpool
+17/08/1996,2 - 1,Sheffield Wednesday,Aston Villa
+17/08/1996,0 - 0,Sunderland,Leicester City
+17/08/1996,0 - 3,Wimbledon,Manchester United

@@ -1,0 +1,381 @@
+date,score,home_team,away_team
+13/05/2012,1 - 1,Espanyol,Sevilla
+13/05/2012,0 - 2,Getafe,Real Zaragoza
+13/05/2012,3 - 0,Levante,Athletic Club
+13/05/2012,1 - 0,Málaga,Sporting Gijón
+13/05/2012,2 - 4,Racing Santander,Osasuna
+13/05/2012,1 - 0,Rayo Vallecano,Granada
+13/05/2012,4 - 1,Real Madrid,Mallorca
+13/05/2012,0 - 1,Villarreal,Atlético Madrid
+12/05/2012,2 - 2,Real Betis,Barcelona
+12/05/2012,1 - 0,Real Sociedad,Valencia
+05/05/2012,0 - 0,Athletic Club,Getafe
+05/05/2012,2 - 1,Atlético Madrid,Málaga
+05/05/2012,4 - 0,Barcelona,Espanyol
+05/05/2012,1 - 2,Granada,Real Madrid
+05/05/2012,1 - 0,Mallorca,Levante
+05/05/2012,1 - 0,Osasuna,Real Sociedad
+05/05/2012,2 - 1,Real Zaragoza,Racing Santander
+05/05/2012,5 - 2,Sevilla,Rayo Vallecano
+05/05/2012,2 - 1,Sporting Gijón,Real Betis
+05/05/2012,1 - 0,Valencia,Villarreal
+02/05/2012,0 - 3,Athletic Club,Real Madrid
+02/05/2012,4 - 0,Valencia,Osasuna
+02/05/2012,4 - 1,Barcelona,Málaga
+02/05/2012,1 - 0,Mallorca,Rayo Vallecano
+02/05/2012,1 - 0,Real Zaragoza,Levante
+02/05/2012,1 - 2,Sevilla,Real Betis
+02/05/2012,1 - 1,Atlético Madrid,Real Sociedad
+01/05/2012,2 - 3,Sporting Gijón,Villarreal
+01/05/2012,2 - 1,Granada,Espanyol
+01/05/2012,1 - 1,Getafe,Racing Santander
+29/04/2012,0 - 7,Rayo Vallecano,Barcelona
+29/04/2012,2 - 2,Real Betis,Atlético Madrid
+29/04/2012,1 - 0,Málaga,Valencia
+29/04/2012,2 - 0,Real Zaragoza,Athletic Club
+29/04/2012,3 - 0,Real Madrid,Sevilla
+28/04/2012,1 - 1,Villarreal,Osasuna
+28/04/2012,0 - 3,Espanyol,Sporting Gijón
+28/04/2012,1 - 3,Getafe,Mallorca
+28/04/2012,3 - 1,Levante,Granada
+28/04/2012,3 - 0,Real Sociedad,Racing Santander
+23/04/2012,1 - 1,Osasuna,Málaga
+22/04/2012,4 - 0,Valencia,Real Betis
+22/04/2012,3 - 1,Atlético Madrid,Espanyol
+22/04/2012,0 - 1,Racing Santander,Athletic Club
+22/04/2012,1 - 0,Granada,Getafe
+22/04/2012,1 - 1,Real Sociedad,Villarreal
+21/04/2012,1 - 1,Sevilla,Levante
+21/04/2012,1 - 2,Barcelona,Real Madrid
+21/04/2012,1 - 0,Mallorca,Real Zaragoza
+21/04/2012,2 - 1,Sporting Gijón,Rayo Vallecano
+16/04/2012,5 - 1,Getafe,Sevilla
+15/04/2012,0 - 1,Rayo Vallecano,Atlético Madrid
+15/04/2012,1 - 0,Athletic Club,Mallorca
+15/04/2012,1 - 1,Málaga,Real Sociedad
+15/04/2012,1 - 0,Real Betis,Osasuna
+15/04/2012,1 - 0,Real Zaragoza,Granada
+15/04/2012,1 - 1,Villarreal,Racing Santander
+15/04/2012,4 - 0,Espanyol,Valencia
+14/04/2012,1 - 2,Levante,Barcelona
+14/04/2012,3 - 1,Real Madrid,Sporting Gijón
+12/04/2012,3 - 0,Sevilla,Real Zaragoza
+12/04/2012,0 - 3,Racing Santander,Mallorca
+12/04/2012,2 - 1,Villarreal,Málaga
+11/04/2012,1 - 4,Atlético Madrid,Real Madrid
+11/04/2012,2 - 2,Granada,Athletic Club
+11/04/2012,3 - 2,Sporting Gijón,Levante
+11/04/2012,4 - 1,Valencia,Rayo Vallecano
+10/04/2012,4 - 0,Barcelona,Getafe
+10/04/2012,2 - 0,Osasuna,Espanyol
+10/04/2012,1 - 1,Real Sociedad,Real Betis
+09/04/2012,3 - 0,Málaga,Racing Santander
+08/04/2012,0 - 0,Real Madrid,Valencia
+08/04/2012,1 - 0,Athletic Club,Sevilla
+08/04/2012,0 - 0,Mallorca,Granada
+08/04/2012,2 - 0,Levante,Atlético Madrid
+07/04/2012,3 - 1,Real Betis,Villarreal
+07/04/2012,1 - 4,Real Zaragoza,Barcelona
+07/04/2012,2 - 2,Espanyol,Real Sociedad
+07/04/2012,2 - 0,Getafe,Sporting Gijón
+07/04/2012,6 - 0,Rayo Vallecano,Osasuna
+02/04/2012,3 - 1,Sevilla,Mallorca
+01/04/2012,4 - 0,Real Sociedad,Rayo Vallecano
+01/04/2012,0 - 0,Villarreal,Espanyol
+01/04/2012,1 - 1,Valencia,Levante
+01/04/2012,3 - 0,Atlético Madrid,Getafe
+31/03/2012,2 - 0,Barcelona,Athletic Club
+31/03/2012,0 - 2,Málaga,Real Betis
+31/03/2012,1 - 5,Osasuna,Real Madrid
+31/03/2012,0 - 1,Racing Santander,Granada
+31/03/2012,1 - 2,Sporting Gijón,Real Zaragoza
+26/03/2012,0 - 3,Granada,Sevilla
+25/03/2012,0 - 2,Rayo Vallecano,Villarreal
+25/03/2012,1 - 1,Real Betis,Racing Santander
+25/03/2012,1 - 1,Athletic Club,Sporting Gijón
+25/03/2012,1 - 2,Espanyol,Málaga
+25/03/2012,0 - 2,Levante,Osasuna
+25/03/2012,1 - 0,Real Zaragoza,Atlético Madrid
+24/03/2012,3 - 1,Getafe,Valencia
+24/03/2012,5 - 1,Real Madrid,Real Sociedad
+24/03/2012,0 - 2,Mallorca,Barcelona
+22/03/2012,4 - 2,Málaga,Rayo Vallecano
+22/03/2012,0 - 3,Racing Santander,Sevilla
+22/03/2012,1 - 1,Real Betis,Espanyol
+21/03/2012,1 - 1,Villarreal,Real Madrid
+21/03/2012,2 - 1,Atlético Madrid,Athletic Club
+21/03/2012,1 - 3,Real Sociedad,Levante
+21/03/2012,2 - 3,Sporting Gijón,Mallorca
+21/03/2012,1 - 2,Valencia,Real Zaragoza
+20/03/2012,5 - 3,Barcelona,Granada
+20/03/2012,0 - 0,Osasuna,Getafe
+19/03/2012,3 - 1,Espanyol,Racing Santander
+18/03/2012,1 - 1,Real Madrid,Málaga
+18/03/2012,0 - 3,Athletic Club,Valencia
+18/03/2012,2 - 1,Mallorca,Atlético Madrid
+18/03/2012,1 - 0,Levante,Villarreal
+17/03/2012,3 - 0,Rayo Vallecano,Real Betis
+17/03/2012,0 - 2,Sevilla,Barcelona
+17/03/2012,1 - 0,Getafe,Real Sociedad
+17/03/2012,2 - 1,Granada,Sporting Gijón
+17/03/2012,1 - 1,Real Zaragoza,Osasuna
+12/03/2012,1 - 2,Villarreal,Getafe
+11/03/2012,2 - 1,Osasuna,Athletic Club
+11/03/2012,0 - 2,Racing Santander,Barcelona
+11/03/2012,2 - 2,Valencia,Mallorca
+11/03/2012,2 - 0,Atlético Madrid,Granada
+11/03/2012,5 - 1,Espanyol,Rayo Vallecano
+10/03/2012,2 - 3,Real Betis,Real Madrid
+10/03/2012,1 - 0,Sporting Gijón,Sevilla
+10/03/2012,1 - 0,Málaga,Levante
+10/03/2012,3 - 0,Real Sociedad,Real Zaragoza
+05/03/2012,3 - 1,Levante,Real Betis
+04/03/2012,5 - 0,Real Madrid,Espanyol
+04/03/2012,0 - 1,Granada,Valencia
+04/03/2012,2 - 0,Athletic Club,Real Sociedad
+04/03/2012,2 - 1,Real Zaragoza,Villarreal
+03/03/2012,1 - 1,Sevilla,Atlético Madrid
+03/03/2012,3 - 1,Barcelona,Sporting Gijón
+03/03/2012,1 - 3,Getafe,Málaga
+03/03/2012,1 - 1,Mallorca,Osasuna
+03/03/2012,4 - 2,Rayo Vallecano,Racing Santander
+26/02/2012,1 - 2,Atlético Madrid,Barcelona
+26/02/2012,2 - 1,Osasuna,Granada
+26/02/2012,1 - 0,Real Sociedad,Mallorca
+26/02/2012,1 - 2,Valencia,Sevilla
+26/02/2012,0 - 1,Rayo Vallecano,Real Madrid
+26/02/2012,2 - 2,Villarreal,Athletic Club
+25/02/2012,1 - 2,Espanyol,Levante
+25/02/2012,5 - 1,Málaga,Real Zaragoza
+25/02/2012,1 - 1,Racing Santander,Sporting Gijón
+25/02/2012,1 - 1,Real Betis,Getafe
+20/02/2012,0 - 2,Real Zaragoza,Real Betis
+19/02/2012,5 - 1,Barcelona,Valencia
+19/02/2012,3 - 5,Levante,Rayo Vallecano
+19/02/2012,4 - 0,Mallorca,Villarreal
+19/02/2012,1 - 1,Sporting Gijón,Atlético Madrid
+19/02/2012,3 - 0,Athletic Club,Málaga
+19/02/2012,4 - 1,Granada,Real Sociedad
+18/02/2012,2 - 0,Sevilla,Osasuna
+18/02/2012,4 - 0,Real Madrid,Racing Santander
+18/02/2012,1 - 1,Getafe,Espanyol
+13/02/2012,2 - 0,Real Sociedad,Sevilla
+12/02/2012,4 - 2,Real Madrid,Levante
+12/02/2012,3 - 1,Villarreal,Granada
+12/02/2012,4 - 0,Valencia,Sporting Gijón
+12/02/2012,3 - 1,Málaga,Mallorca
+12/02/2012,2 - 0,Rayo Vallecano,Getafe
+12/02/2012,0 - 2,Espanyol,Real Zaragoza
+11/02/2012,2 - 1,Real Betis,Athletic Club
+11/02/2012,3 - 2,Osasuna,Barcelona
+11/02/2012,0 - 0,Racing Santander,Atlético Madrid
+06/02/2012,2 - 1,Granada,Málaga
+05/02/2012,0 - 0,Atlético Madrid,Valencia
+05/02/2012,1 - 2,Real Zaragoza,Rayo Vallecano
+05/02/2012,1 - 2,Sevilla,Villarreal
+05/02/2012,1 - 1,Sporting Gijón,Osasuna
+04/02/2012,2 - 1,Barcelona,Real Sociedad
+04/02/2012,0 - 1,Getafe,Real Madrid
+04/02/2012,3 - 3,Athletic Club,Espanyol
+04/02/2012,1 - 1,Levante,Racing Santander
+04/02/2012,1 - 0,Mallorca,Real Betis
+30/01/2012,0 - 1,Osasuna,Atlético Madrid
+29/01/2012,2 - 1,Málaga,Sevilla
+29/01/2012,2 - 2,Racing Santander,Valencia
+29/01/2012,1 - 2,Levante,Getafe
+29/01/2012,5 - 1,Real Sociedad,Sporting Gijón
+29/01/2012,1 - 2,Real Betis,Granada
+28/01/2012,0 - 0,Villarreal,Barcelona
+28/01/2012,3 - 1,Real Madrid,Real Zaragoza
+28/01/2012,1 - 0,Espanyol,Mallorca
+28/01/2012,2 - 3,Rayo Vallecano,Athletic Club
+23/01/2012,3 - 0,Villarreal,Sporting Gijón
+22/01/2012,4 - 1,Real Madrid,Athletic Club
+22/01/2012,0 - 0,Levante,Real Zaragoza
+22/01/2012,1 - 4,Málaga,Barcelona
+22/01/2012,0 - 1,Rayo Vallecano,Mallorca
+22/01/2012,1 - 1,Osasuna,Valencia
+21/01/2012,1 - 1,Real Betis,Sevilla
+21/01/2012,0 - 4,Real Sociedad,Atlético Madrid
+21/01/2012,3 - 0,Espanyol,Granada
+21/01/2012,1 - 2,Racing Santander,Getafe
+15/01/2012,4 - 2,Barcelona,Real Betis
+15/01/2012,2 - 1,Sporting Gijón,Málaga
+15/01/2012,3 - 0,Athletic Club,Levante
+15/01/2012,0 - 2,Osasuna,Racing Santander
+15/01/2012,3 - 0,Atlético Madrid,Villarreal
+14/01/2012,0 - 1,Valencia,Real Sociedad
+14/01/2012,1 - 2,Mallorca,Real Madrid
+14/01/2012,1 - 2,Granada,Rayo Vallecano
+14/01/2012,1 - 1,Real Zaragoza,Getafe
+14/01/2012,0 - 0,Sevilla,Espanyol
+08/01/2012,1 - 1,Espanyol,Barcelona
+08/01/2012,2 - 0,Real Betis,Sporting Gijón
+08/01/2012,2 - 2,Villarreal,Valencia
+08/01/2012,0 - 0,Getafe,Athletic Club
+08/01/2012,2 - 1,Rayo Vallecano,Sevilla
+07/01/2012,0 - 0,Málaga,Atlético Madrid
+07/01/2012,5 - 1,Real Madrid,Granada
+07/01/2012,0 - 0,Levante,Mallorca
+07/01/2012,1 - 0,Racing Santander,Real Zaragoza
+07/01/2012,0 - 0,Real Sociedad,Osasuna
+18/12/2011,2 - 0,Valencia,Málaga
+18/12/2011,0 - 0,Racing Santander,Real Sociedad
+18/12/2011,2 - 1,Osasuna,Villarreal
+18/12/2011,2 - 1,Granada,Levante
+18/12/2011,0 - 2,Atlético Madrid,Real Betis
+17/12/2011,2 - 6,Sevilla,Real Madrid
+17/12/2011,2 - 1,Athletic Club,Real Zaragoza
+17/12/2011,1 - 2,Mallorca,Getafe
+17/12/2011,1 - 2,Sporting Gijón,Espanyol
+11/12/2011,4 - 2,Espanyol,Atlético Madrid
+11/12/2011,1 - 1,Athletic Club,Racing Santander
+11/12/2011,1 - 1,Málaga,Osasuna
+11/12/2011,0 - 1,Real Zaragoza,Mallorca
+11/12/2011,1 - 0,Getafe,Granada
+11/12/2011,1 - 1,Villarreal,Real Sociedad
+11/12/2011,1 - 3,Rayo Vallecano,Sporting Gijón
+10/12/2011,1 - 3,Real Madrid,Barcelona
+10/12/2011,2 - 1,Real Betis,Valencia
+10/12/2011,1 - 0,Levante,Sevilla
+07/12/2011,2 - 2,Granada,Mallorca
+05/12/2011,3 - 0,Sevilla,Getafe
+04/12/2011,1 - 0,Granada,Real Zaragoza
+04/12/2011,1 - 1,Mallorca,Athletic Club
+04/12/2011,2 - 1,Osasuna,Real Betis
+04/12/2011,3 - 2,Real Sociedad,Málaga
+04/12/2011,3 - 1,Atlético Madrid,Rayo Vallecano
+03/12/2011,2 - 1,Valencia,Espanyol
+03/12/2011,5 - 0,Barcelona,Levante
+03/12/2011,1 - 0,Racing Santander,Villarreal
+03/12/2011,0 - 3,Sporting Gijón,Real Madrid
+29/11/2011,4 - 0,Barcelona,Rayo Vallecano
+28/11/2011,2 - 1,Málaga,Villarreal
+27/11/2011,0 - 1,Real Zaragoza,Sevilla
+27/11/2011,0 - 1,Athletic Club,Granada
+27/11/2011,1 - 2,Espanyol,Osasuna
+27/11/2011,2 - 1,Mallorca,Racing Santander
+27/11/2011,4 - 0,Levante,Sporting Gijón
+27/11/2011,2 - 3,Real Betis,Real Sociedad
+26/11/2011,1 - 0,Getafe,Barcelona
+26/11/2011,4 - 1,Real Madrid,Atlético Madrid
+26/11/2011,1 - 2,Rayo Vallecano,Valencia
+21/11/2011,1 - 3,Racing Santander,Málaga
+20/11/2011,3 - 2,Atlético Madrid,Levante
+20/11/2011,1 - 2,Sevilla,Athletic Club
+20/11/2011,0 - 0,Osasuna,Rayo Vallecano
+20/11/2011,2 - 1,Sporting Gijón,Getafe
+20/11/2011,0 - 0,Real Sociedad,Espanyol
+19/11/2011,2 - 3,Valencia,Real Madrid
+19/11/2011,4 - 0,Barcelona,Real Zaragoza
+19/11/2011,1 - 0,Villarreal,Real Betis
+06/11/2011,3 - 2,Getafe,Atlético Madrid
+06/11/2011,2 - 2,Athletic Club,Barcelona
+06/11/2011,0 - 0,Espanyol,Villarreal
+06/11/2011,4 - 0,Rayo Vallecano,Real Sociedad
+06/11/2011,0 - 0,Granada,Racing Santander
+06/11/2011,2 - 2,Real Zaragoza,Sporting Gijón
+06/11/2011,7 - 1,Real Madrid,Osasuna
+05/11/2011,0 - 2,Levante,Valencia
+05/11/2011,0 - 0,Real Betis,Málaga
+05/11/2011,0 - 0,Mallorca,Sevilla
+31/10/2011,1 - 2,Sevilla,Granada
+30/10/2011,2 - 1,Málaga,Espanyol
+30/10/2011,3 - 1,Atlético Madrid,Real Zaragoza
+30/10/2011,1 - 0,Racing Santander,Real Betis
+30/10/2011,2 - 0,Osasuna,Levante
+30/10/2011,1 - 1,Sporting Gijón,Athletic Club
+29/10/2011,0 - 1,Real Sociedad,Real Madrid
+29/10/2011,5 - 0,Barcelona,Mallorca
+29/10/2011,3 - 1,Valencia,Getafe
+29/10/2011,2 - 0,Villarreal,Rayo Vallecano
+27/10/2011,3 - 0,Athletic Club,Atlético Madrid
+27/10/2011,1 - 0,Espanyol,Real Betis
+26/10/2011,1 - 2,Mallorca,Sporting Gijón
+26/10/2011,3 - 0,Real Madrid,Villarreal
+26/10/2011,2 - 2,Getafe,Osasuna
+26/10/2011,3 - 2,Levante,Real Sociedad
+26/10/2011,2 - 0,Rayo Vallecano,Málaga
+26/10/2011,0 - 1,Real Zaragoza,Valencia
+25/10/2011,2 - 2,Sevilla,Racing Santander
+25/10/2011,0 - 1,Granada,Barcelona
+23/10/2011,0 - 3,Villarreal,Levante
+23/10/2011,1 - 1,Valencia,Athletic Club
+23/10/2011,1 - 1,Atlético Madrid,Mallorca
+23/10/2011,3 - 0,Osasuna,Real Zaragoza
+23/10/2011,0 - 0,Real Sociedad,Getafe
+23/10/2011,0 - 2,Real Betis,Rayo Vallecano
+22/10/2011,0 - 0,Barcelona,Sevilla
+22/10/2011,0 - 4,Málaga,Real Madrid
+22/10/2011,0 - 1,Racing Santander,Espanyol
+22/10/2011,2 - 0,Sporting Gijón,Granada
+17/10/2011,3 - 1,Athletic Club,Osasuna
+16/10/2011,2 - 1,Sevilla,Sporting Gijón
+16/10/2011,3 - 0,Levante,Málaga
+16/10/2011,2 - 0,Real Zaragoza,Real Sociedad
+16/10/2011,0 - 1,Rayo Vallecano,Espanyol
+15/10/2011,0 - 0,Granada,Atlético Madrid
+15/10/2011,3 - 0,Barcelona,Racing Santander
+15/10/2011,0 - 0,Getafe,Villarreal
+15/10/2011,1 - 1,Mallorca,Valencia
+15/10/2011,4 - 1,Real Madrid,Real Betis
+02/10/2011,0 - 4,Espanyol,Real Madrid
+02/10/2011,0 - 1,Sporting Gijón,Barcelona
+02/10/2011,0 - 0,Atlético Madrid,Sevilla
+02/10/2011,0 - 1,Real Betis,Levante
+02/10/2011,1 - 2,Real Sociedad,Athletic Club
+01/10/2011,3 - 2,Málaga,Getafe
+01/10/2011,1 - 0,Valencia,Granada
+01/10/2011,2 - 2,Osasuna,Mallorca
+01/10/2011,1 - 1,Racing Santander,Rayo Vallecano
+01/10/2011,2 - 2,Villarreal,Real Zaragoza
+26/09/2011,1 - 0,Getafe,Real Betis
+25/09/2011,0 - 0,Real Zaragoza,Málaga
+25/09/2011,0 - 0,Sporting Gijón,Racing Santander
+25/09/2011,1 - 1,Granada,Osasuna
+25/09/2011,3 - 1,Levante,Espanyol
+25/09/2011,2 - 1,Mallorca,Real Sociedad
+24/09/2011,5 - 0,Barcelona,Atlético Madrid
+24/09/2011,6 - 2,Real Madrid,Rayo Vallecano
+24/09/2011,1 - 1,Athletic Club,Villarreal
+24/09/2011,1 - 0,Sevilla,Valencia
+22/09/2011,4 - 3,Real Betis,Real Zaragoza
+22/09/2011,1 - 0,Espanyol,Getafe
+21/09/2011,2 - 2,Valencia,Barcelona
+21/09/2011,4 - 0,Atlético Madrid,Sporting Gijón
+21/09/2011,1 - 0,Málaga,Athletic Club
+21/09/2011,0 - 0,Racing Santander,Real Madrid
+21/09/2011,1 - 2,Rayo Vallecano,Levante
+20/09/2011,2 - 0,Villarreal,Mallorca
+20/09/2011,0 - 0,Osasuna,Sevilla
+20/09/2011,1 - 0,Real Sociedad,Granada
+18/09/2011,2 - 3,Athletic Club,Real Betis
+18/09/2011,1 - 0,Levante,Real Madrid
+18/09/2011,4 - 0,Atlético Madrid,Racing Santander
+18/09/2011,2 - 1,Real Zaragoza,Espanyol
+18/09/2011,0 - 1,Getafe,Rayo Vallecano
+17/09/2011,1 - 0,Sevilla,Real Sociedad
+17/09/2011,8 - 0,Barcelona,Osasuna
+17/09/2011,1 - 0,Granada,Villarreal
+17/09/2011,0 - 1,Mallorca,Málaga
+17/09/2011,0 - 1,Sporting Gijón,Valencia
+12/09/2011,4 - 0,Málaga,Granada
+11/09/2011,2 - 1,Espanyol,Athletic Club
+11/09/2011,2 - 1,Osasuna,Sporting Gijón
+11/09/2011,0 - 0,Rayo Vallecano,Real Zaragoza
+11/09/2011,0 - 0,Racing Santander,Levante
+11/09/2011,1 - 0,Real Betis,Mallorca
+10/09/2011,1 - 0,Valencia,Atlético Madrid
+10/09/2011,4 - 2,Real Madrid,Getafe
+10/09/2011,2 - 2,Real Sociedad,Barcelona
+10/09/2011,2 - 2,Villarreal,Sevilla
+29/08/2011,5 - 0,Barcelona,Villarreal
+28/08/2011,2 - 1,Sevilla,Málaga
+28/08/2011,0 - 6,Real Zaragoza,Real Madrid
+28/08/2011,1 - 1,Getafe,Levante
+28/08/2011,1 - 0,Mallorca,Espanyol
+28/08/2011,1 - 1,Athletic Club,Rayo Vallecano
+28/08/2011,0 - 0,Atlético Madrid,Osasuna
+27/08/2011,0 - 1,Granada,Real Betis
+27/08/2011,4 - 3,Valencia,Racing Santander
+27/08/2011,1 - 2,Sporting Gijón,Real Sociedad

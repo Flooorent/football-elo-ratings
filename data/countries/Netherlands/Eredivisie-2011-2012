@@ -1,0 +1,313 @@
+date,score,home_team,away_team
+20/05/2012,2 - 1,Vitesse,RKC Waalwijk
+17/05/2012,1 - 3,RKC Waalwijk,Vitesse
+13/05/2012,0 - 1,Twente,RKC Waalwijk
+13/05/2012,2 - 0,Vitesse,NEC
+10/05/2012,1 - 1,RKC Waalwijk,Twente
+10/05/2012,3 - 2,NEC,Vitesse
+06/05/2012,3 - 5,ADO Den Haag,De Graafschap
+06/05/2012,1 - 0,AZ,Groningen
+06/05/2012,1 - 3,Excelsior,PSV
+06/05/2012,2 - 3,Heerenveen,Feyenoord
+06/05/2012,1 - 2,Heracles,NEC
+06/05/2012,3 - 2,NAC Breda,RKC Waalwijk
+06/05/2012,1 - 3,Roda JC,Utrecht
+06/05/2012,1 - 3,Vitesse,Ajax
+06/05/2012,4 - 2,VVV,Twente
+02/05/2012,2 - 0,Ajax,VVV
+02/05/2012,2 - 2,De Graafschap,Excelsior
+02/05/2012,4 - 1,Feyenoord,Heracles
+02/05/2012,1 - 1,Groningen,NAC Breda
+02/05/2012,1 - 1,NEC,AZ
+02/05/2012,5 - 0,PSV,ADO Den Haag
+02/05/2012,5 - 2,RKC Waalwijk,Roda JC
+02/05/2012,3 - 4,Twente,Heerenveen
+02/05/2012,2 - 2,Utrecht,Vitesse
+29/04/2012,1 - 1,NEC,RKC Waalwijk
+29/04/2012,1 - 0,Feyenoord,AZ
+29/04/2012,1 - 2,Twente,Ajax
+29/04/2012,1 - 3,Roda JC,PSV
+28/04/2012,2 - 1,VVV,ADO Den Haag
+28/04/2012,1 - 3,Utrecht,NAC Breda
+28/04/2012,3 - 2,Vitesse,Excelsior
+28/04/2012,2 - 4,Heracles,Heerenveen
+27/04/2012,1 - 1,Groningen,De Graafschap
+22/04/2012,2 - 0,Ajax,Groningen
+22/04/2012,2 - 1,AZ,VVV
+22/04/2012,2 - 1,PSV,NEC
+22/04/2012,1 - 2,ADO Den Haag,Feyenoord
+21/04/2012,0 - 1,Excelsior,Twente
+21/04/2012,2 - 3,De Graafschap,Heracles
+21/04/2012,0 - 2,RKC Waalwijk,Utrecht
+21/04/2012,1 - 1,Heerenveen,Vitesse
+20/04/2012,0 - 3,NAC Breda,Roda JC
+15/04/2012,1 - 1,Heracles,RKC Waalwijk
+15/04/2012,3 - 1,Ajax,De Graafschap
+15/04/2012,4 - 2,Utrecht,VVV
+15/04/2012,1 - 0,Vitesse,ADO Den Haag
+15/04/2012,0 - 1,Groningen,Roda JC
+14/04/2012,2 - 2,Twente,NAC Breda
+14/04/2012,3 - 0,Feyenoord,Excelsior
+14/04/2012,2 - 4,NEC,Heerenveen
+14/04/2012,3 - 2,PSV,AZ
+12/04/2012,3 - 0,ADO Den Haag,Groningen
+12/04/2012,1 - 3,VVV,Vitesse
+12/04/2012,3 - 0,De Graafschap,Utrecht
+11/04/2012,0 - 5,Heerenveen,Ajax
+11/04/2012,1 - 2,NAC Breda,Heracles
+11/04/2012,2 - 1,RKC Waalwijk,PSV
+11/04/2012,0 - 0,Roda JC,Feyenoord
+11/04/2012,2 - 2,AZ,Twente
+10/04/2012,0 - 2,Excelsior,NEC
+01/04/2012,2 - 2,Vitesse,AZ
+01/04/2012,6 - 0,Ajax,Heracles
+01/04/2012,1 - 0,RKC Waalwijk,ADO Den Haag
+01/04/2012,2 - 0,NEC,De Graafschap
+31/03/2012,3 - 1,Feyenoord,NAC Breda
+31/03/2012,2 - 0,PSV,VVV
+31/03/2012,2 - 0,Twente,Roda JC
+31/03/2012,1 - 3,Groningen,Heerenveen
+30/03/2012,3 - 2,Utrecht,Excelsior
+25/03/2012,2 - 0,Ajax,PSV
+25/03/2012,0 - 3,De Graafschap,Feyenoord
+25/03/2012,3 - 1,Heracles,Utrecht
+25/03/2012,1 - 0,AZ,RKC Waalwijk
+24/03/2012,1 - 1,ADO Den Haag,Twente
+24/03/2012,4 - 1,Heerenveen,VVV
+24/03/2012,1 - 1,NAC Breda,NEC
+24/03/2012,3 - 1,Roda JC,Vitesse
+23/03/2012,0 - 1,Excelsior,Groningen
+21/03/2012,1 - 2,De Graafschap,Twente
+18/03/2012,0 - 0,AZ,NAC Breda
+18/03/2012,5 - 1,PSV,Heerenveen
+18/03/2012,0 - 2,Twente,Feyenoord
+18/03/2012,3 - 1,Utrecht,Groningen
+18/03/2012,0 - 2,ADO Den Haag,Ajax
+17/03/2012,0 - 2,VVV,NEC
+17/03/2012,2 - 1,Excelsior,Roda JC
+17/03/2012,1 - 0,RKC Waalwijk,De Graafschap
+16/03/2012,2 - 0,Vitesse,Heracles
+11/03/2012,0 - 2,De Graafschap,AZ
+11/03/2012,3 - 0,Ajax,RKC Waalwijk
+11/03/2012,1 - 1,Feyenoord,Utrecht
+11/03/2012,3 - 1,NEC,Twente
+11/03/2012,3 - 1,NAC Breda,PSV
+10/03/2012,4 - 2,Heerenveen,Excelsior
+10/03/2012,0 - 2,Heracles,ADO Den Haag
+10/03/2012,1 - 3,Groningen,Vitesse
+09/03/2012,3 - 1,Roda JC,VVV
+04/03/2012,2 - 6,PSV,Twente
+04/03/2012,4 - 1,Ajax,Roda JC
+04/03/2012,1 - 0,Feyenoord,Groningen
+04/03/2012,0 - 0,Utrecht,NEC
+04/03/2012,2 - 0,Vitesse,De Graafschap
+03/03/2012,3 - 1,AZ,Heracles
+03/03/2012,1 - 0,RKC Waalwijk,Excelsior
+03/03/2012,2 - 1,VVV,NAC Breda
+03/03/2012,0 - 0,ADO Den Haag,Heerenveen
+26/02/2012,3 - 3,AZ,Heerenveen
+26/02/2012,3 - 2,PSV,Feyenoord
+26/02/2012,1 - 0,Twente,Utrecht
+26/02/2012,1 - 4,Excelsior,Ajax
+25/02/2012,4 - 0,NEC,Groningen
+25/02/2012,0 - 2,Roda JC,De Graafschap
+25/02/2012,3 - 1,VVV,Heracles
+25/02/2012,4 - 0,NAC Breda,ADO Den Haag
+24/02/2012,1 - 0,RKC Waalwijk,Vitesse
+19/02/2012,1 - 4,Vitesse,Twente
+19/02/2012,4 - 1,Ajax,NEC
+19/02/2012,3 - 0,Utrecht,AZ
+19/02/2012,3 - 0,Groningen,PSV
+18/02/2012,2 - 1,Heracles,Roda JC
+18/02/2012,1 - 1,ADO Den Haag,Excelsior
+18/02/2012,1 - 4,De Graafschap,VVV
+18/02/2012,1 - 1,Feyenoord,RKC Waalwijk
+17/02/2012,1 - 0,Heerenveen,NAC Breda
+12/02/2012,3 - 1,Feyenoord,Vitesse
+12/02/2012,4 - 1,PSV,De Graafschap
+12/02/2012,0 - 1,RKC Waalwijk,Heerenveen
+12/02/2012,1 - 1,Utrecht,ADO Den Haag
+11/02/2012,0 - 2,NAC Breda,Ajax
+11/02/2012,1 - 0,Roda JC,NEC
+11/02/2012,2 - 0,VVV,Groningen
+11/02/2012,2 - 0,AZ,Excelsior
+10/02/2012,2 - 3,Twente,Heracles
+08/02/2012,0 - 6,ADO Den Haag,AZ
+05/02/2012,0 - 3,Groningen,RKC Waalwijk
+05/02/2012,1 - 1,Heracles,PSV
+05/02/2012,0 - 2,NEC,Feyenoord
+05/02/2012,0 - 2,Ajax,Utrecht
+04/02/2012,1 - 0,Vitesse,NAC Breda
+04/02/2012,3 - 1,Excelsior,VVV
+03/02/2012,4 - 3,Heerenveen,Roda JC
+29/01/2012,2 - 0,NEC,ADO Den Haag
+29/01/2012,4 - 0,RKC Waalwijk,VVV
+29/01/2012,4 - 1,Twente,Groningen
+29/01/2012,4 - 2,Feyenoord,Ajax
+28/01/2012,2 - 0,Roda JC,AZ
+28/01/2012,3 - 0,Heracles,Excelsior
+28/01/2012,1 - 1,NAC Breda,De Graafschap
+28/01/2012,2 - 0,Heerenveen,Utrecht
+27/01/2012,3 - 1,PSV,Vitesse
+22/01/2012,1 - 1,Utrecht,PSV
+22/01/2012,1 - 1,AZ,Ajax
+22/01/2012,2 - 1,Groningen,Heracles
+22/01/2012,2 - 1,VVV,Feyenoord
+22/01/2012,0 - 1,Vitesse,NEC
+21/01/2012,5 - 0,Twente,RKC Waalwijk
+21/01/2012,3 - 0,Excelsior,NAC Breda
+21/01/2012,0 - 2,De Graafschap,Heerenveen
+20/01/2012,3 - 3,ADO Den Haag,Roda JC
+18/12/2011,1 - 5,Heerenveen,PSV
+18/12/2011,3 - 2,Feyenoord,Twente
+18/12/2011,2 - 1,NAC Breda,AZ
+18/12/2011,4 - 0,Ajax,ADO Den Haag
+17/12/2011,1 - 0,Groningen,Utrecht
+17/12/2011,2 - 0,NEC,VVV
+17/12/2011,7 - 0,Roda JC,Excelsior
+17/12/2011,0 - 1,Heracles,Vitesse
+16/12/2011,1 - 3,De Graafschap,RKC Waalwijk
+11/12/2011,0 - 0,Vitesse,Groningen
+11/12/2011,0 - 1,RKC Waalwijk,Ajax
+11/12/2011,2 - 2,Utrecht,Feyenoord
+11/12/2011,2 - 0,VVV,Roda JC
+10/12/2011,1 - 0,PSV,NAC Breda
+10/12/2011,4 - 0,AZ,De Graafschap
+10/12/2011,0 - 5,Excelsior,Heerenveen
+10/12/2011,2 - 0,Twente,NEC
+09/12/2011,2 - 0,ADO Den Haag,Heracles
+07/12/2011,0 - 0,Excelsior,AZ
+04/12/2011,5 - 1,Heerenveen,AZ
+04/12/2011,2 - 6,Utrecht,Twente
+04/12/2011,4 - 0,Vitesse,RKC Waalwijk
+04/12/2011,2 - 0,Feyenoord,PSV
+03/12/2011,4 - 1,Ajax,Excelsior
+03/12/2011,3 - 0,ADO Den Haag,NAC Breda
+03/12/2011,1 - 2,De Graafschap,Roda JC
+03/12/2011,3 - 3,Groningen,NEC
+02/12/2011,7 - 0,Heracles,VVV
+27/11/2011,0 - 0,Twente,Vitesse
+27/11/2011,0 - 3,NEC,Ajax
+27/11/2011,1 - 1,Excelsior,ADO Den Haag
+27/11/2011,1 - 2,RKC Waalwijk,Feyenoord
+26/11/2011,6 - 1,PSV,Groningen
+26/11/2011,3 - 1,Roda JC,Heracles
+26/11/2011,1 - 2,VVV,De Graafschap
+26/11/2011,2 - 2,NAC Breda,Heerenveen
+25/11/2011,2 - 0,AZ,Utrecht
+20/11/2011,2 - 1,Groningen,VVV
+20/11/2011,2 - 2,ADO Den Haag,Utrecht
+20/11/2011,0 - 4,Vitesse,Feyenoord
+19/11/2011,2 - 2,Ajax,NAC Breda
+19/11/2011,1 - 1,Heerenveen,RKC Waalwijk
+19/11/2011,1 - 1,Heracles,Twente
+19/11/2011,1 - 2,NEC,Roda JC
+19/11/2011,1 - 3,De Graafschap,PSV
+06/11/2011,4 - 1,PSV,Heracles
+06/11/2011,3 - 0,AZ,ADO Den Haag
+06/11/2011,4 - 0,Twente,De Graafschap
+06/11/2011,6 - 4,Utrecht,Ajax
+05/11/2011,0 - 1,Feyenoord,NEC
+05/11/2011,1 - 1,RKC Waalwijk,Groningen
+05/11/2011,1 - 2,Roda JC,Heerenveen
+05/11/2011,1 - 0,NAC Breda,Vitesse
+04/11/2011,0 - 0,VVV,Excelsior
+30/10/2011,0 - 1,Heracles,AZ
+30/10/2011,6 - 0,Groningen,Feyenoord
+30/10/2011,3 - 1,NEC,Utrecht
+30/10/2011,0 - 1,De Graafschap,Vitesse
+29/10/2011,2 - 2,Twente,PSV
+29/10/2011,1 - 0,Excelsior,RKC Waalwijk
+29/10/2011,4 - 0,Heerenveen,ADO Den Haag
+29/10/2011,0 - 4,Roda JC,Ajax
+28/10/2011,3 - 1,NAC Breda,VVV
+23/10/2011,1 - 1,Vitesse,PSV
+23/10/2011,1 - 0,AZ,Roda JC
+23/10/2011,1 - 1,Groningen,Twente
+23/10/2011,1 - 1,Ajax,Feyenoord
+22/10/2011,1 - 4,Utrecht,Heerenveen
+22/10/2011,1 - 0,ADO Den Haag,NEC
+22/10/2011,0 - 2,Excelsior,Heracles
+22/10/2011,4 - 1,VVV,RKC Waalwijk
+21/10/2011,3 - 1,De Graafschap,NAC Breda
+16/10/2011,2 - 0,NAC Breda,Excelsior
+16/10/2011,4 - 0,Feyenoord,VVV
+16/10/2011,4 - 1,Roda JC,ADO Den Haag
+16/10/2011,0 - 1,NEC,Vitesse
+15/10/2011,1 - 0,PSV,Utrecht
+15/10/2011,1 - 1,Heerenveen,De Graafschap
+15/10/2011,2 - 1,Heracles,Groningen
+15/10/2011,0 - 4,RKC Waalwijk,Twente
+15/10/2011,2 - 2,Ajax,AZ
+02/10/2011,0 - 2,NEC,PSV
+02/10/2011,0 - 3,Feyenoord,ADO Den Haag
+02/10/2011,1 - 0,Groningen,Ajax
+02/10/2011,2 - 2,Twente,Excelsior
+02/10/2011,1 - 3,VVV,AZ
+01/10/2011,4 - 3,Roda JC,NAC Breda
+01/10/2011,1 - 1,Vitesse,Heerenveen
+01/10/2011,3 - 0,Utrecht,RKC Waalwijk
+30/09/2011,2 - 0,Heracles,De Graafschap
+25/09/2011,0 - 2,Excelsior,Vitesse
+25/09/2011,2 - 3,De Graafschap,Groningen
+25/09/2011,2 - 0,RKC Waalwijk,NEC
+25/09/2011,2 - 1,AZ,Feyenoord
+24/09/2011,1 - 1,Ajax,Twente
+24/09/2011,2 - 0,ADO Den Haag,VVV
+24/09/2011,1 - 1,Heerenveen,Heracles
+24/09/2011,1 - 0,NAC Breda,Utrecht
+24/09/2011,7 - 1,PSV,Roda JC
+18/09/2011,2 - 2,Utrecht,Heracles
+18/09/2011,1 - 2,RKC Waalwijk,AZ
+18/09/2011,5 - 2,Twente,ADO Den Haag
+18/09/2011,2 - 2,PSV,Ajax
+17/09/2011,4 - 0,Feyenoord,De Graafschap
+17/09/2011,5 - 0,Vitesse,Roda JC
+17/09/2011,0 - 3,VVV,Heerenveen
+17/09/2011,2 - 0,Groningen,Excelsior
+16/09/2011,1 - 2,NEC,NAC Breda
+11/09/2011,2 - 3,Excelsior,Utrecht
+11/09/2011,1 - 3,NAC Breda,Feyenoord
+11/09/2011,3 - 3,VVV,PSV
+11/09/2011,3 - 0,Heerenveen,Groningen
+10/09/2011,2 - 3,Heracles,Ajax
+10/09/2011,0 - 1,ADO Den Haag,RKC Waalwijk
+10/09/2011,4 - 0,AZ,Vitesse
+10/09/2011,1 - 0,De Graafschap,NEC
+10/09/2011,2 - 1,Roda JC,Twente
+28/08/2011,6 - 1,PSV,Excelsior
+28/08/2011,2 - 2,Feyenoord,Heerenveen
+28/08/2011,0 - 3,Groningen,AZ
+28/08/2011,0 - 3,De Graafschap,ADO Den Haag
+27/08/2011,3 - 1,Utrecht,Roda JC
+27/08/2011,2 - 1,NEC,Heracles
+27/08/2011,4 - 1,Twente,VVV
+27/08/2011,2 - 1,RKC Waalwijk,NAC Breda
+26/08/2011,4 - 1,Ajax,Vitesse
+21/08/2011,0 - 3,ADO Den Haag,PSV
+21/08/2011,4 - 0,AZ,NEC
+21/08/2011,2 - 2,VVV,Ajax
+21/08/2011,1 - 1,Heracles,Feyenoord
+20/08/2011,2 - 2,NAC Breda,Groningen
+20/08/2011,1 - 1,Excelsior,De Graafschap
+20/08/2011,1 - 5,Heerenveen,Twente
+20/08/2011,2 - 1,Vitesse,Utrecht
+19/08/2011,0 - 2,Roda JC,RKC Waalwijk
+15/08/2011,2 - 0,NEC,Excelsior
+14/08/2011,4 - 2,Groningen,ADO Den Haag
+14/08/2011,5 - 1,Ajax,Heerenveen
+14/08/2011,2 - 2,Utrecht,De Graafschap
+14/08/2011,2 - 1,Heracles,NAC Breda
+13/08/2011,3 - 0,Feyenoord,Roda JC
+13/08/2011,1 - 0,PSV,RKC Waalwijk
+13/08/2011,4 - 0,Vitesse,VVV
+13/08/2011,2 - 0,Twente,AZ
+07/08/2011,0 - 1,NAC Breda,Twente
+07/08/2011,0 - 0,ADO Den Haag,Vitesse
+07/08/2011,1 - 4,De Graafschap,Ajax
+07/08/2011,3 - 1,AZ,PSV
+06/08/2011,0 - 0,VVV,Utrecht
+06/08/2011,2 - 2,Heerenveen,NEC
+06/08/2011,2 - 2,RKC Waalwijk,Heracles
+06/08/2011,2 - 1,Roda JC,Groningen
+05/08/2011,0 - 2,Excelsior,Feyenoord

@@ -1,0 +1,463 @@
+date,score,home_team,away_team
+28/05/1985,2 - 0,Luton Town,Everton
+26/05/1985,4 - 1,Coventry City,Everton
+23/05/1985,1 - 0,Coventry City,Luton Town
+23/05/1985,1 - 0,Everton,Liverpool
+20/05/1985,0 - 3,West Ham United,Liverpool
+17/05/1985,0 - 1,Ipswich Town,West Ham United
+17/05/1985,4 - 3,Liverpool,Watford
+17/05/1985,0 - 1,Stoke City,Coventry City
+17/05/1985,1 - 0,Tottenham Hotspur,Nottingham Forest
+14/05/1985,1 - 2,Chelsea,Norwich City
+14/05/1985,0 - 0,Ipswich Town,Coventry City
+14/05/1985,1 - 1,Southampton,Liverpool
+14/05/1985,2 - 0,Tottenham Hotspur,Sheffield Wednesday
+14/05/1985,5 - 1,West Ham United,Stoke City
+13/05/1985,5 - 1,Watford,Manchester United
+11/05/1985,2 - 1,Liverpool,Aston Villa
+11/05/1985,4 - 0,Luton Town,Leicester City
+11/05/1985,0 - 0,Norwich City,Newcastle United
+11/05/1985,1 - 0,Nottingham Forest,Everton
+11/05/1985,1 - 3,Queens Park Rangers,Manchester United
+11/05/1985,2 - 1,Sheffield Wednesday,West Ham United
+11/05/1985,2 - 1,Southampton,Coventry City
+11/05/1985,0 - 1,Stoke City,Chelsea
+11/05/1985,1 - 2,Sunderland,Ipswich Town
+11/05/1985,1 - 5,Tottenham Hotspur,Watford
+11/05/1985,2 - 2,West Bromwich Albion,Arsenal
+08/05/1985,2 - 0,Chelsea,Luton Town
+08/05/1985,3 - 0,Everton,West Ham United
+07/05/1985,0 - 2,Watford,West Bromwich Albion
+06/05/1985,1 - 0,Arsenal,Southampton
+06/05/1985,0 - 1,Aston Villa,Luton Town
+06/05/1985,2 - 1,Chelsea,Sheffield Wednesday
+06/05/1985,0 - 2,Coventry City,Liverpool
+06/05/1985,2 - 0,Everton,Queens Park Rangers
+06/05/1985,5 - 1,Ipswich Town,Stoke City
+06/05/1985,2 - 0,Leicester City,Sunderland
+06/05/1985,2 - 0,Manchester United,Nottingham Forest
+06/05/1985,2 - 3,Newcastle United,Tottenham Hotspur
+06/05/1985,1 - 0,West Ham United,Norwich City
+04/05/1985,4 - 3,Liverpool,Chelsea
+04/05/1985,3 - 1,Luton Town,Arsenal
+04/05/1985,0 - 1,Norwich City,Manchester United
+04/05/1985,1 - 1,Nottingham Forest,Watford
+04/05/1985,4 - 3,Queens Park Rangers,Leicester City
+04/05/1985,0 - 1,Sheffield Wednesday,Everton
+04/05/1985,3 - 0,Southampton,Ipswich Town
+04/05/1985,0 - 1,Stoke City,Newcastle United
+04/05/1985,0 - 4,Sunderland,Aston Villa
+04/05/1985,4 - 2,Tottenham Hotspur,Coventry City
+04/05/1985,5 - 1,West Bromwich Albion,West Ham United
+27/04/1985,1 - 0,Arsenal,Sheffield Wednesday
+27/04/1985,5 - 2,Aston Villa,Queens Park Rangers
+27/04/1985,1 - 1,Chelsea,Tottenham Hotspur
+27/04/1985,2 - 1,Coventry City,West Bromwich Albion
+27/04/1985,3 - 0,Everton,Norwich City
+27/04/1985,0 - 0,Ipswich Town,Liverpool
+27/04/1985,1 - 0,Leicester City,Nottingham Forest
+27/04/1985,2 - 2,Manchester United,Sunderland
+27/04/1985,2 - 1,Newcastle United,Southampton
+27/04/1985,2 - 0,Watford,Stoke City
+27/04/1985,0 - 0,West Ham United,Luton Town
+24/04/1985,1 - 1,Aston Villa,Watford
+24/04/1985,1 - 2,Luton Town,Nottingham Forest
+24/04/1985,0 - 0,Manchester United,Southampton
+24/04/1985,2 - 3,Stoke City,Norwich City
+24/04/1985,1 - 0,West Bromwich Albion,Sunderland
+23/04/1985,2 - 0,Ipswich Town,Leicester City
+23/04/1985,3 - 1,Sheffield Wednesday,Queens Park Rangers
+21/04/1985,2 - 1,Luton Town,Manchester United
+20/04/1985,3 - 1,Liverpool,Newcastle United
+20/04/1985,1 - 3,Norwich City,Leicester City
+20/04/1985,2 - 0,Nottingham Forest,Coventry City
+20/04/1985,1 - 0,Queens Park Rangers,Arsenal
+20/04/1985,2 - 0,Southampton,Aston Villa
+20/04/1985,0 - 2,Stoke City,Everton
+20/04/1985,0 - 1,Sunderland,West Ham United
+20/04/1985,2 - 3,Tottenham Hotspur,Ipswich Town
+20/04/1985,0 - 1,West Bromwich Albion,Chelsea
+17/04/1985,0 - 1,Newcastle United,Coventry City
+17/04/1985,0 - 2,Tottenham Hotspur,Arsenal
+16/04/1985,3 - 1,Chelsea,Aston Villa
+16/04/1985,4 - 1,Everton,West Bromwich Albion
+16/04/1985,3 - 1,Luton Town,Norwich City
+16/04/1985,0 - 0,Sunderland,Sheffield Wednesday
+16/04/1985,3 - 1,Watford,Ipswich Town
+13/04/1985,1 - 1,Arsenal,Nottingham Forest
+13/04/1985,0 - 1,Coventry City,Sunderland
+13/04/1985,1 - 2,Ipswich Town,Sheffield Wednesday
+13/04/1985,1 - 2,Leicester City,Tottenham Hotspur
+13/04/1985,1 - 0,Newcastle United,Queens Park Rangers
+13/04/1985,2 - 0,Watford,Norwich City
+13/04/1985,1 - 1,West Ham United,Chelsea
+10/04/1985,2 - 0,Nottingham Forest,Chelsea
+09/04/1985,1 - 0,Sheffield Wednesday,Manchester United
+09/04/1985,3 - 1,Southampton,Leicester City
+08/04/1985,0 - 2,Norwich City,Ipswich Town
+08/04/1985,4 - 2,Queens Park Rangers,West Ham United
+08/04/1985,0 - 4,Stoke City,Luton Town
+08/04/1985,0 - 0,Sunderland,Newcastle United
+08/04/1985,1 - 0,West Bromwich Albion,Aston Villa
+06/04/1985,2 - 0,Arsenal,Norwich City
+06/04/1985,3 - 0,Aston Villa,Sheffield Wednesday
+06/04/1985,1 - 0,Chelsea,Queens Park Rangers
+06/04/1985,4 - 1,Everton,Sunderland
+06/04/1985,1 - 0,Ipswich Town,Nottingham Forest
+06/04/1985,0 - 1,Leicester City,Liverpool
+06/04/1985,5 - 0,Manchester United,Stoke City
+06/04/1985,1 - 0,Newcastle United,West Bromwich Albion
+06/04/1985,1 - 1,Watford,Southampton
+06/04/1985,1 - 1,West Ham United,Tottenham Hotspur
+03/04/1985,2 - 1,Manchester United,Leicester City
+03/04/1985,1 - 1,Norwich City,Sheffield Wednesday
+03/04/1985,0 - 3,Sunderland,Liverpool
+03/04/1985,1 - 2,Tottenham Hotspur,Everton
+03/04/1985,1 - 2,West Bromwich Albion,Ipswich Town
+02/04/1985,1 - 0,Southampton,Luton Town
+02/04/1985,5 - 0,Watford,West Ham United
+31/03/1985,0 - 1,Liverpool,Manchester United
+30/03/1985,3 - 1,Luton Town,Ipswich Town
+30/03/1985,2 - 1,Norwich City,Coventry City
+30/03/1985,1 - 2,Nottingham Forest,West Ham United
+30/03/1985,2 - 0,Queens Park Rangers,Watford
+30/03/1985,4 - 2,Sheffield Wednesday,Newcastle United
+30/03/1985,1 - 2,Southampton,Everton
+30/03/1985,2 - 0,Stoke City,Arsenal
+30/03/1985,0 - 2,Sunderland,Chelsea
+30/03/1985,0 - 2,Tottenham Hotspur,Aston Villa
+30/03/1985,2 - 0,West Bromwich Albion,Leicester City
+27/03/1985,2 - 0,Aston Villa,Stoke City
+23/03/1985,3 - 1,Coventry City,Watford
+23/03/1985,2 - 0,Everton,Arsenal
+23/03/1985,1 - 1,Ipswich Town,Newcastle United
+23/03/1985,1 - 0,Leicester City,West Ham United
+23/03/1985,2 - 0,Luton Town,Queens Park Rangers
+23/03/1985,4 - 0,Manchester United,Aston Villa
+23/03/1985,1 - 4,Stoke City,Nottingham Forest
+23/03/1985,5 - 1,Tottenham Hotspur,Southampton
+23/03/1985,0 - 5,West Bromwich Albion,Liverpool
+20/03/1985,1 - 4,Newcastle United,Leicester City
+20/03/1985,0 - 0,Nottingham Forest,Sheffield Wednesday
+19/03/1985,1 - 1,Arsenal,Ipswich Town
+19/03/1985,3 - 0,Watford,Luton Town
+16/03/1985,2 - 0,Arsenal,Leicester City
+16/03/1985,1 - 1,Aston Villa,Everton
+16/03/1985,0 - 1,Liverpool,Tottenham Hotspur
+16/03/1985,1 - 3,Norwich City,Sunderland
+16/03/1985,1 - 2,Nottingham Forest,West Bromwich Albion
+16/03/1985,3 - 0,Queens Park Rangers,Ipswich Town
+16/03/1985,1 - 1,Sheffield Wednesday,Luton Town
+16/03/1985,0 - 0,Southampton,Stoke City
+16/03/1985,1 - 3,Watford,Chelsea
+15/03/1985,2 - 2,West Ham United,Manchester United
+13/03/1985,0 - 0,Aston Villa,Arsenal
+12/03/1985,0 - 0,Stoke City,West Bromwich Albion
+12/03/1985,1 - 1,Sunderland,Watford
+12/03/1985,1 - 2,Tottenham Hotspur,Manchester United
+09/03/1985,0 - 2,Chelsea,Southampton
+09/03/1985,3 - 0,Coventry City,Queens Park Rangers
+09/03/1985,3 - 1,Leicester City,Sheffield Wednesday
+09/03/1985,2 - 2,Norwich City,Aston Villa
+09/03/1985,0 - 0,Nottingham Forest,Newcastle United
+09/03/1985,0 - 0,Sunderland,Arsenal
+02/03/1985,2 - 1,Arsenal,West Ham United
+02/03/1985,0 - 1,Aston Villa,Leicester City
+02/03/1985,2 - 0,Ipswich Town,Chelsea
+02/03/1985,1 - 0,Liverpool,Nottingham Forest
+02/03/1985,2 - 1,Luton Town,Sunderland
+02/03/1985,1 - 1,Manchester United,Everton
+02/03/1985,3 - 1,Newcastle United,Watford
+02/03/1985,2 - 2,Queens Park Rangers,Norwich City
+02/03/1985,1 - 0,Sheffield Wednesday,Coventry City
+02/03/1985,4 - 3,Southampton,West Bromwich Albion
+02/03/1985,0 - 1,Stoke City,Tottenham Hotspur
+24/02/1985,1 - 1,Sheffield Wednesday,Watford
+23/02/1985,0 - 1,Arsenal,Manchester United
+23/02/1985,1 - 0,Coventry City,Chelsea
+23/02/1985,1 - 2,Leicester City,Everton
+23/02/1985,2 - 0,Liverpool,Stoke City
+23/02/1985,1 - 0,Newcastle United,Luton Town
+23/02/1985,2 - 0,Nottingham Forest,Southampton
+23/02/1985,1 - 0,Queens Park Rangers,Sunderland
+23/02/1985,0 - 1,West Bromwich Albion,Tottenham Hotspur
+23/02/1985,1 - 2,West Ham United,Aston Villa
+16/02/1985,1 - 0,Chelsea,Newcastle United
+12/02/1985,3 - 0,Liverpool,Arsenal
+09/02/1985,1 - 1,Newcastle United,Manchester United
+09/02/1985,2 - 0,Nottingham Forest,Queens Park Rangers
+02/02/1985,2 - 1,Arsenal,Coventry City
+02/02/1985,2 - 1,Aston Villa,Ipswich Town
+02/02/1985,4 - 0,Everton,Watford
+02/02/1985,1 - 1,Leicester City,Chelsea
+02/02/1985,2 - 2,Luton Town,Tottenham Hotspur
+02/02/1985,2 - 0,Manchester United,West Bromwich Albion
+02/02/1985,0 - 1,Norwich City,Nottingham Forest
+02/02/1985,0 - 4,Queens Park Rangers,Southampton
+02/02/1985,1 - 1,Sheffield Wednesday,Liverpool
+02/02/1985,1 - 0,Sunderland,Stoke City
+02/02/1985,1 - 1,West Ham United,Newcastle United
+29/01/1985,1 - 0,Southampton,Sunderland
+26/01/1985,0 - 0,West Bromwich Albion,Queens Park Rangers
+19/01/1985,1 - 1,Chelsea,Arsenal
+19/01/1985,0 - 3,Coventry City,Aston Villa
+19/01/1985,4 - 0,Liverpool,Norwich City
+12/01/1985,4 - 0,Everton,Newcastle United
+12/01/1985,0 - 0,Leicester City,Stoke City
+12/01/1985,0 - 1,Manchester United,Coventry City
+12/01/1985,1 - 0,Norwich City,Southampton
+12/01/1985,2 - 2,Queens Park Rangers,Tottenham Hotspur
+12/01/1985,2 - 0,Sheffield Wednesday,West Bromwich Albion
+01/01/1985,1 - 2,Arsenal,Tottenham Hotspur
+01/01/1985,3 - 1,Aston Villa,West Bromwich Albion
+01/01/1985,1 - 0,Chelsea,Nottingham Forest
+01/01/1985,4 - 0,Coventry City,Stoke City
+01/01/1985,2 - 1,Everton,Luton Town
+01/01/1985,2 - 0,Ipswich Town,Norwich City
+01/01/1985,1 - 2,Leicester City,Southampton
+01/01/1985,1 - 2,Manchester United,Sheffield Wednesday
+01/01/1985,3 - 1,Newcastle United,Sunderland
+01/01/1985,1 - 1,Watford,Liverpool
+01/01/1985,1 - 3,West Ham United,Queens Park Rangers
+29/12/1984,1 - 3,Chelsea,Manchester United
+29/12/1984,1 - 2,Coventry City,West Ham United
+29/12/1984,0 - 2,Ipswich Town,Everton
+29/12/1984,1 - 0,Liverpool,Luton Town
+29/12/1984,1 - 3,Newcastle United,Arsenal
+29/12/1984,3 - 2,Nottingham Forest,Aston Villa
+29/12/1984,0 - 3,Southampton,Sheffield Wednesday
+29/12/1984,0 - 2,Stoke City,Queens Park Rangers
+29/12/1984,2 - 0,Tottenham Hotspur,Sunderland
+29/12/1984,4 - 1,Watford,Leicester City
+29/12/1984,0 - 1,West Bromwich Albion,Norwich City
+26/12/1984,1 - 2,Liverpool,Leicester City
+26/12/1984,2 - 0,Luton Town,Coventry City
+26/12/1984,1 - 0,Norwich City,Arsenal
+26/12/1984,2 - 0,Nottingham Forest,Ipswich Town
+26/12/1984,2 - 2,Queens Park Rangers,Chelsea
+26/12/1984,1 - 1,Sheffield Wednesday,Aston Villa
+26/12/1984,1 - 2,Southampton,Watford
+26/12/1984,2 - 1,Stoke City,Manchester United
+26/12/1984,1 - 2,Sunderland,Everton
+26/12/1984,2 - 2,Tottenham Hotspur,West Ham United
+26/12/1984,2 - 1,West Bromwich Albion,Newcastle United
+23/12/1984,5 - 1,Leicester City,Coventry City
+23/12/1984,0 - 2,Sunderland,Nottingham Forest
+22/12/1984,1 - 1,Arsenal,Watford
+22/12/1984,4 - 0,Aston Villa,Newcastle United
+22/12/1984,3 - 4,Everton,Chelsea
+22/12/1984,3 - 0,Manchester United,Ipswich Town
+22/12/1984,1 - 2,Norwich City,Tottenham Hotspur
+22/12/1984,2 - 1,Sheffield Wednesday,Stoke City
+22/12/1984,2 - 3,West Ham United,Southampton
+21/12/1984,0 - 2,Queens Park Rangers,Liverpool
+18/12/1984,1 - 2,Luton Town,West Bromwich Albion
+15/12/1984,4 - 0,Arsenal,West Bromwich Albion
+15/12/1984,0 - 0,Aston Villa,Liverpool
+15/12/1984,1 - 1,Chelsea,Stoke City
+15/12/1984,2 - 1,Coventry City,Southampton
+15/12/1984,5 - 0,Everton,Nottingham Forest
+15/12/1984,0 - 2,Ipswich Town,Sunderland
+15/12/1984,2 - 2,Leicester City,Luton Town
+15/12/1984,3 - 0,Manchester United,Queens Park Rangers
+15/12/1984,1 - 1,Newcastle United,Norwich City
+15/12/1984,1 - 2,Watford,Tottenham Hotspur
+15/12/1984,0 - 0,West Ham United,Sheffield Wednesday
+08/12/1984,1 - 0,Luton Town,Aston Villa
+08/12/1984,1 - 0,Norwich City,West Ham United
+08/12/1984,3 - 2,Nottingham Forest,Manchester United
+08/12/1984,0 - 0,Queens Park Rangers,Everton
+08/12/1984,1 - 1,Sheffield Wednesday,Chelsea
+08/12/1984,1 - 0,Southampton,Arsenal
+08/12/1984,0 - 2,Stoke City,Ipswich Town
+08/12/1984,0 - 4,Sunderland,Leicester City
+08/12/1984,3 - 1,Tottenham Hotspur,Newcastle United
+08/12/1984,2 - 1,West Bromwich Albion,Watford
+04/12/1984,3 - 1,Liverpool,Coventry City
+04/12/1984,2 - 0,Queens Park Rangers,Stoke City
+01/12/1984,3 - 1,Arsenal,Luton Town
+01/12/1984,1 - 0,Aston Villa,Sunderland
+01/12/1984,3 - 1,Chelsea,Liverpool
+01/12/1984,1 - 1,Coventry City,Tottenham Hotspur
+01/12/1984,1 - 1,Everton,Sheffield Wednesday
+01/12/1984,0 - 1,Ipswich Town,Southampton
+01/12/1984,4 - 0,Leicester City,Queens Park Rangers
+01/12/1984,2 - 0,Manchester United,Norwich City
+01/12/1984,2 - 1,Newcastle United,Stoke City
+01/12/1984,2 - 0,Watford,Nottingham Forest
+01/12/1984,0 - 2,West Ham United,West Bromwich Albion
+25/11/1984,2 - 1,Nottingham Forest,Leicester City
+25/11/1984,2 - 1,Sheffield Wednesday,Arsenal
+24/11/1984,2 - 0,Liverpool,Ipswich Town
+24/11/1984,2 - 2,Luton Town,West Ham United
+24/11/1984,4 - 2,Norwich City,Everton
+24/11/1984,2 - 0,Queens Park Rangers,Aston Villa
+24/11/1984,1 - 0,Southampton,Newcastle United
+24/11/1984,1 - 3,Stoke City,Watford
+24/11/1984,3 - 2,Sunderland,Manchester United
+24/11/1984,1 - 1,Tottenham Hotspur,Chelsea
+24/11/1984,5 - 2,West Bromwich Albion,Coventry City
+18/11/1984,0 - 2,Newcastle United,Liverpool
+17/11/1984,1 - 0,Arsenal,Queens Park Rangers
+17/11/1984,2 - 2,Aston Villa,Southampton
+17/11/1984,3 - 1,Chelsea,West Bromwich Albion
+17/11/1984,1 - 3,Coventry City,Nottingham Forest
+17/11/1984,4 - 0,Everton,Stoke City
+17/11/1984,0 - 3,Ipswich Town,Tottenham Hotspur
+17/11/1984,2 - 0,Leicester City,Norwich City
+17/11/1984,2 - 0,Manchester United,Luton Town
+17/11/1984,1 - 0,Watford,Sheffield Wednesday
+17/11/1984,1 - 0,West Ham United,Sunderland
+10/11/1984,1 - 1,Arsenal,Aston Villa
+10/11/1984,1 - 0,Coventry City,Ipswich Town
+10/11/1984,2 - 3,Leicester City,Manchester United
+10/11/1984,1 - 1,Liverpool,Southampton
+10/11/1984,2 - 1,Newcastle United,Chelsea
+10/11/1984,3 - 0,Norwich City,Luton Town
+10/11/1984,1 - 2,Nottingham Forest,Tottenham Hotspur
+10/11/1984,0 - 0,Queens Park Rangers,Sheffield Wednesday
+10/11/1984,3 - 1,Watford,Sunderland
+10/11/1984,2 - 0,West Bromwich Albion,Stoke City
+10/11/1984,0 - 1,West Ham United,Everton
+03/11/1984,0 - 0,Aston Villa,West Ham United
+03/11/1984,6 - 2,Chelsea,Coventry City
+03/11/1984,3 - 0,Everton,Leicester City
+03/11/1984,3 - 3,Ipswich Town,Watford
+03/11/1984,2 - 2,Luton Town,Newcastle United
+03/11/1984,1 - 2,Sheffield Wednesday,Norwich City
+03/11/1984,1 - 0,Southampton,Nottingham Forest
+03/11/1984,0 - 1,Stoke City,Liverpool
+03/11/1984,3 - 0,Sunderland,Queens Park Rangers
+03/11/1984,2 - 3,Tottenham Hotspur,West Bromwich Albion
+02/11/1984,4 - 2,Manchester United,Arsenal
+28/10/1984,0 - 2,Nottingham Forest,Liverpool
+27/10/1984,2 - 0,Chelsea,Ipswich Town
+27/10/1984,1 - 0,Coventry City,Sheffield Wednesday
+27/10/1984,5 - 0,Everton,Manchester United
+27/10/1984,5 - 0,Leicester City,Aston Villa
+27/10/1984,2 - 0,Norwich City,Queens Park Rangers
+27/10/1984,3 - 0,Sunderland,Luton Town
+27/10/1984,4 - 0,Tottenham Hotspur,Stoke City
+27/10/1984,3 - 3,Watford,Newcastle United
+27/10/1984,0 - 0,West Bromwich Albion,Southampton
+27/10/1984,3 - 1,West Ham United,Arsenal
+20/10/1984,3 - 2,Arsenal,Sunderland
+20/10/1984,2 - 2,Aston Villa,Norwich City
+20/10/1984,2 - 0,Ipswich Town,West Bromwich Albion
+20/10/1984,0 - 1,Liverpool,Everton
+20/10/1984,3 - 2,Luton Town,Watford
+20/10/1984,1 - 0,Manchester United,Tottenham Hotspur
+20/10/1984,1 - 1,Newcastle United,Nottingham Forest
+20/10/1984,2 - 1,Queens Park Rangers,Coventry City
+20/10/1984,5 - 0,Sheffield Wednesday,Leicester City
+20/10/1984,1 - 0,Southampton,Chelsea
+20/10/1984,2 - 4,Stoke City,West Ham United
+13/10/1984,2 - 3,Chelsea,Watford
+13/10/1984,1 - 1,Coventry City,Newcastle United
+13/10/1984,2 - 1,Everton,Aston Villa
+13/10/1984,1 - 1,Ipswich Town,Queens Park Rangers
+13/10/1984,1 - 4,Leicester City,Arsenal
+13/10/1984,1 - 2,Luton Town,Sheffield Wednesday
+13/10/1984,5 - 1,Manchester United,West Ham United
+13/10/1984,1 - 3,Stoke City,Southampton
+13/10/1984,2 - 1,Sunderland,Norwich City
+13/10/1984,4 - 1,West Bromwich Albion,Nottingham Forest
+12/10/1984,1 - 0,Tottenham Hotspur,Liverpool
+06/10/1984,1 - 0,Arsenal,Everton
+06/10/1984,3 - 0,Aston Villa,Manchester United
+06/10/1984,0 - 0,Liverpool,West Bromwich Albion
+06/10/1984,3 - 0,Newcastle United,Ipswich Town
+06/10/1984,0 - 0,Norwich City,Chelsea
+06/10/1984,1 - 1,Nottingham Forest,Stoke City
+06/10/1984,2 - 3,Queens Park Rangers,Luton Town
+06/10/1984,2 - 2,Sheffield Wednesday,Sunderland
+06/10/1984,1 - 0,Southampton,Tottenham Hotspur
+06/10/1984,0 - 1,Watford,Coventry City
+06/10/1984,3 - 1,West Ham United,Leicester City
+29/09/1984,3 - 0,Chelsea,Leicester City
+29/09/1984,1 - 2,Coventry City,Arsenal
+29/09/1984,3 - 0,Ipswich Town,Aston Villa
+29/09/1984,0 - 2,Liverpool,Sheffield Wednesday
+29/09/1984,1 - 1,Newcastle United,West Ham United
+29/09/1984,3 - 1,Nottingham Forest,Norwich City
+29/09/1984,1 - 1,Southampton,Queens Park Rangers
+29/09/1984,2 - 2,Stoke City,Sunderland
+29/09/1984,4 - 2,Tottenham Hotspur,Luton Town
+29/09/1984,4 - 5,Watford,Everton
+29/09/1984,1 - 2,West Bromwich Albion,Manchester United
+22/09/1984,4 - 0,Arsenal,Stoke City
+22/09/1984,0 - 1,Aston Villa,Tottenham Hotspur
+22/09/1984,2 - 2,Everton,Southampton
+22/09/1984,2 - 1,Leicester City,West Bromwich Albion
+22/09/1984,0 - 0,Luton Town,Chelsea
+22/09/1984,1 - 1,Manchester United,Liverpool
+22/09/1984,3 - 2,Norwich City,Watford
+22/09/1984,5 - 5,Queens Park Rangers,Newcastle United
+22/09/1984,2 - 2,Sheffield Wednesday,Ipswich Town
+22/09/1984,0 - 0,Sunderland,Coventry City
+22/09/1984,0 - 0,West Ham United,Nottingham Forest
+19/09/1984,0 - 0,Norwich City,Stoke City
+16/09/1984,3 - 1,Nottingham Forest,Luton Town
+15/09/1984,3 - 0,Chelsea,West Ham United
+15/09/1984,0 - 3,Coventry City,Manchester United
+15/09/1984,2 - 1,Ipswich Town,Arsenal
+15/09/1984,1 - 1,Liverpool,Sunderland
+15/09/1984,2 - 3,Newcastle United,Everton
+15/09/1984,2 - 1,Southampton,Norwich City
+15/09/1984,2 - 2,Stoke City,Leicester City
+15/09/1984,5 - 0,Tottenham Hotspur,Queens Park Rangers
+15/09/1984,3 - 3,Watford,Aston Villa
+15/09/1984,2 - 2,West Bromwich Albion,Sheffield Wednesday
+08/09/1984,3 - 1,Arsenal,Liverpool
+08/09/1984,4 - 2,Aston Villa,Chelsea
+08/09/1984,2 - 1,Everton,Coventry City
+08/09/1984,2 - 1,Leicester City,Ipswich Town
+08/09/1984,1 - 1,Luton Town,Southampton
+08/09/1984,5 - 0,Manchester United,Newcastle United
+08/09/1984,3 - 0,Queens Park Rangers,Nottingham Forest
+08/09/1984,2 - 1,Sheffield Wednesday,Tottenham Hotspur
+08/09/1984,1 - 1,Sunderland,West Bromwich Albion
+08/09/1984,2 - 0,West Ham United,Watford
+05/09/1984,0 - 5,Aston Villa,Nottingham Forest
+05/09/1984,1 - 1,Leicester City,Watford
+05/09/1984,1 - 1,Manchester United,Chelsea
+05/09/1984,2 - 1,Norwich City,West Bromwich Albion
+04/09/1984,2 - 0,Arsenal,Newcastle United
+04/09/1984,1 - 1,Everton,Ipswich Town
+04/09/1984,1 - 2,Luton Town,Liverpool
+04/09/1984,2 - 1,Sheffield Wednesday,Southampton
+04/09/1984,1 - 0,Sunderland,Tottenham Hotspur
+04/09/1984,3 - 1,West Ham United,Coventry City
+01/09/1984,2 - 0,Coventry City,Leicester City
+01/09/1984,1 - 1,Ipswich Town,Manchester United
+01/09/1984,1 - 1,Liverpool,Queens Park Rangers
+01/09/1984,3 - 0,Newcastle United,Aston Villa
+01/09/1984,3 - 1,Nottingham Forest,Sunderland
+01/09/1984,2 - 3,Southampton,West Ham United
+01/09/1984,2 - 1,Stoke City,Sheffield Wednesday
+01/09/1984,3 - 1,Tottenham Hotspur,Norwich City
+01/09/1984,3 - 4,Watford,Arsenal
+01/09/1984,4 - 0,West Bromwich Albion,Luton Town
+31/08/1984,0 - 1,Chelsea,Everton
+29/08/1984,2 - 0,Nottingham Forest,Arsenal
+28/08/1984,0 - 0,Coventry City,Norwich City
+28/08/1984,1 - 1,Ipswich Town,Luton Town
+28/08/1984,0 - 0,Southampton,Manchester United
+28/08/1984,1 - 1,Watford,Queens Park Rangers
+27/08/1984,1 - 0,Chelsea,Sunderland
+27/08/1984,3 - 0,Liverpool,West Ham United
+27/08/1984,2 - 1,Newcastle United,Sheffield Wednesday
+27/08/1984,1 - 3,Stoke City,Aston Villa
+27/08/1984,2 - 2,Tottenham Hotspur,Leicester City
+27/08/1984,2 - 1,West Bromwich Albion,Everton
+25/08/1984,1 - 1,Arsenal,Chelsea
+25/08/1984,1 - 0,Aston Villa,Coventry City
+25/08/1984,1 - 4,Everton,Tottenham Hotspur
+25/08/1984,2 - 3,Leicester City,Newcastle United
+25/08/1984,2 - 0,Luton Town,Stoke City
+25/08/1984,1 - 1,Manchester United,Watford
+25/08/1984,3 - 3,Norwich City,Liverpool
+25/08/1984,3 - 1,Queens Park Rangers,West Bromwich Albion
+25/08/1984,3 - 1,Sheffield Wednesday,Nottingham Forest
+25/08/1984,3 - 1,Sunderland,Southampton
+25/08/1984,0 - 0,West Ham United,Ipswich Town

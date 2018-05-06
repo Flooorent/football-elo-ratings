@@ -1,0 +1,381 @@
+date,score,home_team,away_team
+20/05/2018,document.write(timestamp_to_time(1526841900));18:45 GMT,Cagliari,Atalanta
+20/05/2018,document.write(timestamp_to_time(1526841900));18:45 GMT,Chievo,Benevento
+20/05/2018,document.write(timestamp_to_time(1526841900));18:45 GMT,Genoa,Torino
+20/05/2018,document.write(timestamp_to_time(1526841900));18:45 GMT,Juventus,Hellas Verona
+20/05/2018,document.write(timestamp_to_time(1526841900));18:45 GMT,Lazio,Internazionale
+20/05/2018,document.write(timestamp_to_time(1526841900));18:45 GMT,Milan,Fiorentina
+20/05/2018,document.write(timestamp_to_time(1526841900));18:45 GMT,Napoli,Crotone
+20/05/2018,document.write(timestamp_to_time(1526841900));18:45 GMT,Sassuolo,Roma
+20/05/2018,document.write(timestamp_to_time(1526841900));18:45 GMT,SPAL,Sampdoria
+20/05/2018,document.write(timestamp_to_time(1526841900));18:45 GMT,Udinese,Bologna
+13/05/2018,document.write(timestamp_to_time(1526237100));18:45 GMT,Roma,Juventus
+13/05/2018,document.write(timestamp_to_time(1526237100));18:45 GMT,Sampdoria,Napoli
+13/05/2018,document.write(timestamp_to_time(1526227200));16:00 GMT,Atalanta,Milan
+13/05/2018,document.write(timestamp_to_time(1526216400));13:00 GMT,Bologna,Chievo
+13/05/2018,document.write(timestamp_to_time(1526216400));13:00 GMT,Crotone,Lazio
+13/05/2018,document.write(timestamp_to_time(1526216400));13:00 GMT,Fiorentina,Cagliari
+13/05/2018,document.write(timestamp_to_time(1526216400));13:00 GMT,Hellas Verona,Udinese
+13/05/2018,document.write(timestamp_to_time(1526216400));13:00 GMT,Torino,SPAL
+12/05/2018,document.write(timestamp_to_time(1526150700));18:45 GMT,Internazionale,Sassuolo
+12/05/2018,document.write(timestamp_to_time(1526140800));16:00 GMT,Benevento,Genoa
+06/05/2018,document.write(timestamp_to_time(1525632300));18:45 GMT,Cagliari,Roma
+06/05/2018,document.write(timestamp_to_time(1525622400));16:00 GMT,Sassuolo,Sampdoria
+06/05/2018,document.write(timestamp_to_time(1525611600));13:00 GMT,Chievo,Crotone
+06/05/2018,document.write(timestamp_to_time(1525611600));13:00 GMT,Genoa,Fiorentina
+06/05/2018,document.write(timestamp_to_time(1525611600));13:00 GMT,Lazio,Atalanta
+06/05/2018,document.write(timestamp_to_time(1525611600));13:00 GMT,Napoli,Torino
+06/05/2018,document.write(timestamp_to_time(1525611600));13:00 GMT,SPAL,Benevento
+06/05/2018,document.write(timestamp_to_time(1525602600));10:30 GMT,Udinese,Internazionale
+05/05/2018,document.write(timestamp_to_time(1525545900));18:45 GMT,Juventus,Bologna
+05/05/2018,document.write(timestamp_to_time(1525536000));16:00 GMT,Milan,Hellas Verona
+29/04/2018,0 - 1,Torino,Lazio
+29/04/2018,3 - 0,Fiorentina,Napoli
+29/04/2018,3 - 1,Atalanta,Genoa
+29/04/2018,3 - 3,Benevento,Udinese
+29/04/2018,1 - 2,Bologna,Milan
+29/04/2018,1 - 3,Hellas Verona,SPAL
+29/04/2018,4 - 1,Sampdoria,Cagliari
+29/04/2018,4 - 1,Crotone,Sassuolo
+28/04/2018,2 - 3,Internazionale,Juventus
+28/04/2018,4 - 1,Roma,Chievo
+23/04/2018,3 - 1,Genoa,Hellas Verona
+22/04/2018,0 - 1,Juventus,Napoli
+22/04/2018,2 - 1,Atalanta,Torino
+22/04/2018,1 - 2,Chievo,Internazionale
+22/04/2018,4 - 0,Lazio,Sampdoria
+22/04/2018,1 - 2,Udinese,Crotone
+22/04/2018,0 - 0,Cagliari,Bologna
+21/04/2018,0 - 1,Milan,Benevento
+21/04/2018,1 - 0,Sassuolo,Fiorentina
+21/04/2018,0 - 3,SPAL,Roma
+18/04/2018,1 - 1,Crotone,Juventus
+18/04/2018,3 - 4,Fiorentina,Lazio
+18/04/2018,0 - 1,Hellas Verona,Sassuolo
+18/04/2018,4 - 2,Napoli,Udinese
+18/04/2018,2 - 1,Roma,Genoa
+18/04/2018,1 - 0,Sampdoria,Bologna
+18/04/2018,0 - 0,SPAL,Chievo
+18/04/2018,1 - 1,Torino,Milan
+18/04/2018,0 - 3,Benevento,Atalanta
+17/04/2018,4 - 0,Internazionale,Cagliari
+15/04/2018,0 - 0,Lazio,Roma
+15/04/2018,3 - 0,Juventus,Sampdoria
+15/04/2018,2 - 0,Bologna,Hellas Verona
+15/04/2018,0 - 0,Milan,Napoli
+15/04/2018,2 - 2,Sassuolo,Benevento
+15/04/2018,0 - 0,Fiorentina,SPAL
+14/04/2018,0 - 0,Atalanta,Internazionale
+14/04/2018,0 - 0,Chievo,Torino
+14/04/2018,1 - 0,Genoa,Crotone
+14/04/2018,2 - 1,Cagliari,Udinese
+08/04/2018,1 - 1,Milan,Sassuolo
+08/04/2018,1 - 2,Udinese,Lazio
+08/04/2018,1 - 0,Crotone,Bologna
+08/04/2018,1 - 0,Hellas Verona,Cagliari
+08/04/2018,2 - 1,Napoli,Chievo
+08/04/2018,1 - 0,Torino,Internazionale
+07/04/2018,0 - 0,Sampdoria,Genoa
+07/04/2018,0 - 2,Roma,Fiorentina
+07/04/2018,1 - 1,SPAL,Atalanta
+07/04/2018,2 - 4,Benevento,Juventus
+04/04/2018,1 - 1,Chievo,Sassuolo
+04/04/2018,0 - 0,Milan,Internazionale
+04/04/2018,4 - 1,Torino,Crotone
+04/04/2018,3 - 0,Benevento,Hellas Verona
+03/04/2018,1 - 2,Atalanta,Sampdoria
+03/04/2018,2 - 1,Genoa,Cagliari
+03/04/2018,0 - 2,Udinese,Fiorentina
+31/03/2018,3 - 1,Juventus,Milan
+31/03/2018,2 - 1,Chievo,Sampdoria
+31/03/2018,1 - 1,Sassuolo,Napoli
+31/03/2018,2 - 0,Atalanta,Udinese
+31/03/2018,0 - 4,Cagliari,Torino
+31/03/2018,2 - 0,Fiorentina,Crotone
+31/03/2018,1 - 1,Genoa,SPAL
+31/03/2018,3 - 0,Internazionale,Hellas Verona
+31/03/2018,6 - 2,Lazio,Benevento
+31/03/2018,1 - 1,Bologna,Roma
+18/03/2018,1 - 1,Lazio,Bologna
+18/03/2018,1 - 0,Napoli,Genoa
+18/03/2018,1 - 2,Benevento,Cagliari
+18/03/2018,0 - 2,Crotone,Roma
+18/03/2018,0 - 5,Hellas Verona,Atalanta
+18/03/2018,3 - 2,Milan,Chievo
+18/03/2018,1 - 2,Torino,Fiorentina
+18/03/2018,0 - 5,Sampdoria,Internazionale
+17/03/2018,0 - 0,SPAL,Juventus
+17/03/2018,1 - 2,Udinese,Sassuolo
+14/03/2018,2 - 0,Juventus,Atalanta
+11/03/2018,0 - 0,Internazionale,Napoli
+11/03/2018,0 - 1,Genoa,Milan
+11/03/2018,0 - 1,Bologna,Atalanta
+11/03/2018,2 - 2,Cagliari,Lazio
+11/03/2018,4 - 1,Crotone,Sampdoria
+11/03/2018,2 - 0,Juventus,Udinese
+11/03/2018,1 - 1,Sassuolo,SPAL
+11/03/2018,1 - 0,Fiorentina,Benevento
+10/03/2018,1 - 0,Hellas Verona,Chievo
+09/03/2018,3 - 0,Roma,Torino
+03/03/2018,2 - 4,Napoli,Roma
+03/03/2018,0 - 1,Lazio,Juventus
+03/03/2018,1 - 0,SPAL,Bologna
+26/02/2018,0 - 5,Cagliari,Napoli
+25/02/2018,0 - 2,Roma,Milan
+25/02/2018,1 - 0,Fiorentina,Chievo
+25/02/2018,2 - 1,Hellas Verona,Torino
+25/02/2018,2 - 1,Sampdoria,Udinese
+25/02/2018,0 - 3,Sassuolo,Lazio
+25/02/2018,2 - 3,Crotone,SPAL
+24/02/2018,2 - 0,Internazionale,Benevento
+24/02/2018,2 - 0,Bologna,Genoa
+19/02/2018,2 - 0,Lazio,Hellas Verona
+18/02/2018,1 - 0,Milan,Sampdoria
+18/02/2018,1 - 1,Atalanta,Fiorentina
+18/02/2018,3 - 2,Benevento,Crotone
+18/02/2018,2 - 1,Bologna,Sassuolo
+18/02/2018,1 - 0,Napoli,SPAL
+18/02/2018,0 - 1,Torino,Juventus
+17/02/2018,2 - 0,Genoa,Internazionale
+17/02/2018,2 - 1,Chievo,Cagliari
+17/02/2018,0 - 2,Udinese,Roma
+11/02/2018,5 - 2,Roma,Benevento
+11/02/2018,0 - 1,Chievo,Genoa
+11/02/2018,2 - 1,Internazionale,Bologna
+11/02/2018,2 - 0,Sampdoria,Hellas Verona
+11/02/2018,2 - 0,Torino,Udinese
+11/02/2018,0 - 0,Sassuolo,Cagliari
+10/02/2018,4 - 1,Napoli,Lazio
+10/02/2018,1 - 1,Crotone,Atalanta
+10/02/2018,0 - 4,SPAL,Milan
+09/02/2018,0 - 2,Fiorentina,Juventus
+05/02/2018,1 - 2,Lazio,Genoa
+04/02/2018,0 - 2,Benevento,Napoli
+04/02/2018,1 - 0,Atalanta,Chievo
+04/02/2018,1 - 2,Bologna,Fiorentina
+04/02/2018,2 - 0,Cagliari,SPAL
+04/02/2018,7 - 0,Juventus,Sassuolo
+04/02/2018,1 - 1,Udinese,Milan
+04/02/2018,0 - 1,Hellas Verona,Roma
+03/02/2018,1 - 1,Internazionale,Crotone
+03/02/2018,1 - 1,Sampdoria,Torino
+28/01/2018,0 - 1,Roma,Sampdoria
+28/01/2018,2 - 1,Milan,Lazio
+28/01/2018,1 - 1,Crotone,Cagliari
+28/01/2018,1 - 4,Fiorentina,Hellas Verona
+28/01/2018,0 - 1,Genoa,Udinese
+28/01/2018,3 - 1,Napoli,Bologna
+28/01/2018,3 - 0,Torino,Benevento
+28/01/2018,1 - 1,SPAL,Internazionale
+27/01/2018,0 - 2,Chievo,Juventus
+27/01/2018,0 - 3,Sassuolo,Atalanta
+24/01/2018,1 - 1,Sampdoria,Roma
+24/01/2018,3 - 0,Lazio,Udinese
+22/01/2018,1 - 0,Juventus,Genoa
+21/01/2018,1 - 1,Internazionale,Roma
+21/01/2018,1 - 2,Cagliari,Milan
+21/01/2018,3 - 0,Bologna,Benevento
+21/01/2018,0 - 3,Hellas Verona,Crotone
+21/01/2018,5 - 1,Lazio,Chievo
+21/01/2018,3 - 1,Sampdoria,Fiorentina
+21/01/2018,1 - 1,Sassuolo,Torino
+21/01/2018,1 - 1,Udinese,SPAL
+21/01/2018,0 - 1,Atalanta,Napoli
+06/01/2018,0 - 1,Cagliari,Juventus
+06/01/2018,1 - 2,Roma,Atalanta
+06/01/2018,3 - 2,Benevento,Sampdoria
+06/01/2018,1 - 0,Genoa,Sassuolo
+06/01/2018,1 - 0,Milan,Crotone
+06/01/2018,2 - 0,Napoli,Hellas Verona
+06/01/2018,2 - 5,SPAL,Lazio
+06/01/2018,3 - 0,Torino,Bologna
+05/01/2018,1 - 1,Fiorentina,Internazionale
+05/01/2018,1 - 1,Chievo,Udinese
+30/12/2017,1 - 3,Hellas Verona,Juventus
+30/12/2017,0 - 0,Internazionale,Lazio
+30/12/2017,1 - 2,Atalanta,Cagliari
+30/12/2017,1 - 0,Benevento,Chievo
+30/12/2017,1 - 2,Bologna,Udinese
+30/12/2017,1 - 1,Roma,Sassuolo
+30/12/2017,2 - 0,Sampdoria,SPAL
+30/12/2017,0 - 0,Torino,Genoa
+30/12/2017,1 - 1,Fiorentina,Milan
+29/12/2017,0 - 1,Crotone,Napoli
+23/12/2017,1 - 0,Juventus,Roma
+23/12/2017,0 - 2,Milan,Atalanta
+23/12/2017,1 - 0,Genoa,Benevento
+23/12/2017,3 - 2,Napoli,Sampdoria
+23/12/2017,1 - 0,Sassuolo,Internazionale
+23/12/2017,2 - 2,SPAL,Torino
+23/12/2017,4 - 0,Udinese,Hellas Verona
+23/12/2017,4 - 0,Lazio,Crotone
+22/12/2017,0 - 1,Cagliari,Fiorentina
+22/12/2017,2 - 3,Chievo,Bologna
+17/12/2017,3 - 3,Atalanta,Lazio
+17/12/2017,1 - 2,Benevento,SPAL
+17/12/2017,0 - 3,Bologna,Juventus
+17/12/2017,1 - 0,Crotone,Chievo
+17/12/2017,0 - 0,Fiorentina,Genoa
+17/12/2017,0 - 1,Sampdoria,Sassuolo
+17/12/2017,3 - 0,Hellas Verona,Milan
+16/12/2017,1 - 0,Roma,Cagliari
+16/12/2017,1 - 3,Torino,Napoli
+16/12/2017,1 - 3,Internazionale,Udinese
+12/12/2017,1 - 2,Genoa,Atalanta
+11/12/2017,1 - 3,Lazio,Torino
+10/12/2017,2 - 1,Milan,Bologna
+10/12/2017,2 - 1,Sassuolo,Crotone
+10/12/2017,0 - 0,Napoli,Fiorentina
+10/12/2017,2 - 2,SPAL,Hellas Verona
+10/12/2017,2 - 0,Udinese,Benevento
+10/12/2017,0 - 0,Chievo,Roma
+09/12/2017,0 - 0,Juventus,Internazionale
+09/12/2017,2 - 2,Cagliari,Sampdoria
+04/12/2017,0 - 1,Hellas Verona,Genoa
+04/12/2017,0 - 3,Crotone,Udinese
+03/12/2017,1 - 2,Sampdoria,Lazio
+03/12/2017,1 - 1,Bologna,Cagliari
+03/12/2017,3 - 0,Fiorentina,Sassuolo
+03/12/2017,5 - 0,Internazionale,Chievo
+03/12/2017,2 - 2,Benevento,Milan
+02/12/2017,1 - 1,Torino,Atalanta
+01/12/2017,0 - 1,Napoli,Juventus
+01/12/2017,3 - 1,Roma,SPAL
+27/11/2017,1 - 0,Atalanta,Benevento
+26/11/2017,3 - 0,Juventus,Crotone
+26/11/2017,1 - 1,Lazio,Fiorentina
+26/11/2017,1 - 1,Genoa,Roma
+26/11/2017,0 - 0,Milan,Torino
+26/11/2017,0 - 1,Udinese,Napoli
+25/11/2017,1 - 3,Cagliari,Internazionale
+25/11/2017,2 - 1,Chievo,SPAL
+25/11/2017,0 - 2,Sassuolo,Hellas Verona
+25/11/2017,3 - 0,Bologna,Sampdoria
+20/11/2017,2 - 3,Hellas Verona,Bologna
+19/11/2017,2 - 0,Internazionale,Atalanta
+19/11/2017,1 - 2,Benevento,Sassuolo
+19/11/2017,3 - 2,Sampdoria,Juventus
+19/11/2017,1 - 1,SPAL,Fiorentina
+19/11/2017,1 - 1,Torino,Chievo
+19/11/2017,0 - 1,Udinese,Cagliari
+19/11/2017,0 - 1,Crotone,Genoa
+18/11/2017,2 - 1,Napoli,Milan
+18/11/2017,2 - 1,Roma,Lazio
+05/11/2017,0 - 2,Sassuolo,Milan
+05/11/2017,1 - 1,Atalanta,SPAL
+05/11/2017,2 - 1,Cagliari,Hellas Verona
+05/11/2017,0 - 0,Chievo,Napoli
+05/11/2017,2 - 4,Fiorentina,Roma
+05/11/2017,2 - 1,Juventus,Benevento
+05/11/2017,1 - 1,Internazionale,Torino
+04/11/2017,0 - 2,Genoa,Sampdoria
+04/11/2017,2 - 3,Bologna,Crotone
+30/10/2017,1 - 2,Hellas Verona,Internazionale
+29/10/2017,2 - 1,Torino,Cagliari
+29/10/2017,2 - 1,Crotone,Fiorentina
+29/10/2017,3 - 1,Napoli,Sassuolo
+29/10/2017,4 - 1,Sampdoria,Chievo
+29/10/2017,1 - 0,SPAL,Genoa
+29/10/2017,2 - 1,Udinese,Atalanta
+29/10/2017,1 - 5,Benevento,Lazio
+28/10/2017,1 - 0,Roma,Bologna
+28/10/2017,0 - 2,Milan,Juventus
+25/10/2017,1 - 2,Bologna,Lazio
+25/10/2017,2 - 1,Cagliari,Benevento
+25/10/2017,1 - 4,Chievo,Milan
+25/10/2017,3 - 0,Fiorentina,Torino
+25/10/2017,2 - 3,Genoa,Napoli
+25/10/2017,4 - 1,Juventus,SPAL
+25/10/2017,1 - 0,Roma,Crotone
+25/10/2017,0 - 1,Sassuolo,Udinese
+25/10/2017,3 - 0,Atalanta,Hellas Verona
+24/10/2017,3 - 2,Internazionale,Sampdoria
+22/10/2017,3 - 0,Lazio,Cagliari
+22/10/2017,2 - 6,Udinese,Juventus
+22/10/2017,1 - 0,Atalanta,Bologna
+22/10/2017,0 - 3,Benevento,Fiorentina
+22/10/2017,0 - 0,Milan,Genoa
+22/10/2017,0 - 1,SPAL,Sassuolo
+22/10/2017,0 - 1,Torino,Roma
+22/10/2017,3 - 2,Chievo,Hellas Verona
+21/10/2017,0 - 0,Napoli,Internazionale
+21/10/2017,5 - 0,Sampdoria,Crotone
+16/10/2017,1 - 0,Hellas Verona,Benevento
+15/10/2017,3 - 2,Internazionale,Milan
+15/10/2017,2 - 1,Bologna,SPAL
+15/10/2017,2 - 3,Cagliari,Genoa
+15/10/2017,2 - 2,Crotone,Torino
+15/10/2017,3 - 1,Sampdoria,Atalanta
+15/10/2017,0 - 0,Sassuolo,Chievo
+15/10/2017,2 - 1,Fiorentina,Udinese
+14/10/2017,0 - 1,Roma,Napoli
+14/10/2017,1 - 2,Juventus,Lazio
+01/10/2017,2 - 2,Atalanta,Juventus
+01/10/2017,0 - 2,Milan,Roma
+01/10/2017,1 - 2,Benevento,Internazionale
+01/10/2017,2 - 1,Chievo,Fiorentina
+01/10/2017,6 - 1,Lazio,Sassuolo
+01/10/2017,1 - 1,SPAL,Crotone
+01/10/2017,2 - 2,Torino,Hellas Verona
+01/10/2017,3 - 0,Napoli,Cagliari
+30/09/2017,0 - 1,Genoa,Bologna
+30/09/2017,4 - 0,Udinese,Sampdoria
+24/09/2017,1 - 1,Fiorentina,Atalanta
+24/09/2017,0 - 1,Sassuolo,Bologna
+24/09/2017,0 - 2,Cagliari,Chievo
+24/09/2017,2 - 0,Crotone,Benevento
+24/09/2017,0 - 3,Hellas Verona,Lazio
+24/09/2017,1 - 0,Internazionale,Genoa
+24/09/2017,2 - 0,Sampdoria,Milan
+23/09/2017,4 - 0,Juventus,Torino
+23/09/2017,2 - 3,SPAL,Napoli
+23/09/2017,3 - 1,Roma,Udinese
+20/09/2017,5 - 1,Atalanta,Crotone
+20/09/2017,0 - 1,Cagliari,Sassuolo
+20/09/2017,1 - 1,Genoa,Chievo
+20/09/2017,0 - 0,Hellas Verona,Sampdoria
+20/09/2017,1 - 0,Juventus,Fiorentina
+20/09/2017,1 - 4,Lazio,Napoli
+20/09/2017,2 - 0,Milan,SPAL
+20/09/2017,2 - 3,Udinese,Torino
+20/09/2017,0 - 4,Benevento,Roma
+19/09/2017,1 - 1,Bologna,Internazionale
+17/09/2017,2 - 3,Genoa,Lazio
+17/09/2017,1 - 1,Chievo,Atalanta
+17/09/2017,2 - 1,Milan,Udinese
+17/09/2017,6 - 0,Napoli,Benevento
+17/09/2017,0 - 2,SPAL,Cagliari
+17/09/2017,2 - 2,Torino,Sampdoria
+17/09/2017,1 - 3,Sassuolo,Juventus
+16/09/2017,3 - 0,Roma,Hellas Verona
+16/09/2017,2 - 1,Fiorentina,Bologna
+16/09/2017,0 - 2,Crotone,Internazionale
+10/09/2017,0 - 3,Bologna,Napoli
+10/09/2017,0 - 1,Benevento,Torino
+10/09/2017,4 - 1,Lazio,Milan
+10/09/2017,2 - 1,Atalanta,Sassuolo
+10/09/2017,1 - 0,Cagliari,Crotone
+10/09/2017,0 - 5,Hellas Verona,Fiorentina
+10/09/2017,1 - 0,Udinese,Genoa
+10/09/2017,2 - 0,Internazionale,SPAL
+09/09/2017,3 - 0,Juventus,Chievo
+27/08/2017,1 - 2,Chievo,Lazio
+27/08/2017,0 - 0,Crotone,Hellas Verona
+27/08/2017,1 - 2,Fiorentina,Sampdoria
+27/08/2017,2 - 1,Milan,Cagliari
+27/08/2017,3 - 1,Napoli,Atalanta
+27/08/2017,3 - 2,[N] SPAL,Udinese
+27/08/2017,3 - 0,Torino,Sassuolo
+26/08/2017,1 - 3,Roma,Internazionale
+26/08/2017,0 - 1,Benevento,Bologna
+26/08/2017,2 - 4,Genoa,Juventus
+20/08/2017,1 - 1,Bologna,Torino
+20/08/2017,0 - 3,Crotone,Milan
+20/08/2017,3 - 0,Internazionale,Fiorentina
+20/08/2017,0 - 0,Lazio,SPAL
+20/08/2017,2 - 1,Sampdoria,Benevento
+20/08/2017,0 - 0,Sassuolo,Genoa
+20/08/2017,1 - 2,Udinese,Chievo
+20/08/2017,0 - 1,Atalanta,Roma
+19/08/2017,1 - 3,Hellas Verona,Napoli
+19/08/2017,3 - 0,Juventus,Cagliari

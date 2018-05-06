@@ -1,0 +1,297 @@
+date,score,home_team,away_team
+19/05/2017,2 - 0,Beitar Tel Aviv Ramla,Hapoel Bnei Lod
+19/05/2017,0 - 2,Maccabi Ahi Nazareth,Maccabi Netanya
+18/05/2017,2 - 0,[N] Hapoel Katamon,Hapoel Acre
+18/05/2017,1 - 0,Hapoel Petah Tikva,Hapoel Ramat Gan
+15/05/2017,1 - 1,Hapoel Acre,Hapoel Petah Tikva
+15/05/2017,0 - 4,Hapoel Ramat Gan,Beitar Tel Aviv Ramla
+15/05/2017,0 - 2,Maccabi Netanya,Hapoel Katamon
+12/05/2017,1 - 1,Hapoel Bnei Lod,Maccabi Ahi Nazareth
+08/05/2017,5 - 0,Beitar Tel Aviv Ramla,Hapoel Acre
+08/05/2017,1 - 1,Hapoel Petah Tikva,Maccabi Netanya
+08/05/2017,1 - 5,Hapoel Ramat Gan,Hapoel Bnei Lod
+05/05/2017,6 - 1,[N] Hapoel Katamon,Maccabi Ahi Nazareth
+28/04/2017,0 - 0,Hapoel Acre,Hapoel Ramat Gan
+28/04/2017,1 - 1,Hapoel Bnei Lod,Hapoel Katamon
+28/04/2017,4 - 3,Maccabi Ahi Nazareth,Hapoel Petah Tikva
+28/04/2017,2 - 1,Maccabi Netanya,Beitar Tel Aviv Ramla
+24/04/2017,4 - 0,Beitar Tel Aviv Ramla,Maccabi Ahi Nazareth
+24/04/2017,1 - 0,Hapoel Acre,Hapoel Bnei Lod
+24/04/2017,3 - 5,Hapoel Ramat Gan,Maccabi Netanya
+21/04/2017,6 - 3,Hapoel Petah Tikva,Hapoel Katamon
+18/04/2017,0 - 1,[N] Hapoel Katamon,Beitar Tel Aviv Ramla
+14/04/2017,3 - 2,Hapoel Bnei Lod,Hapoel Petah Tikva
+14/04/2017,2 - 2,Maccabi Ahi Nazareth,Hapoel Ramat Gan
+14/04/2017,3 - 2,Maccabi Netanya,Hapoel Acre
+07/04/2017,1 - 2,Beitar Tel Aviv Ramla,Hapoel Petah Tikva
+07/04/2017,4 - 0,Hapoel Acre,Maccabi Ahi Nazareth
+07/04/2017,1 - 1,Hapoel Ramat Gan,Hapoel Katamon
+07/04/2017,2 - 0,Maccabi Netanya,Hapoel Bnei Lod
+19/05/2017,1 - 1,Hapoel Jerusalem,Hapoel Afula
+19/05/2017,0 - 2,[N] Hapoel Nazareth Illit,Hapoel Rishon LeZion
+19/05/2017,2 - 0,[N] Hapoel Ramat HaSharon,Maccabi Herzliya
+19/05/2017,2 - 0,Ironi Nesher,Maccabi Sha'arayim
+12/05/2017,1 - 2,Hapoel Afula,Hapoel Nazareth Illit
+12/05/2017,0 - 2,Hapoel Rishon LeZion,Hapoel Ramat HaSharon
+12/05/2017,0 - 2,Maccabi Herzliya,Ironi Nesher
+12/05/2017,2 - 1,Maccabi Sha'arayim,Hapoel Jerusalem
+05/05/2017,1 - 1,[N] Hapoel Nazareth Illit,Hapoel Jerusalem
+05/05/2017,4 - 1,Hapoel Ramat HaSharon,Hapoel Afula
+05/05/2017,0 - 0,Ironi Nesher,Hapoel Rishon LeZion
+05/05/2017,3 - 2,Maccabi Herzliya,Maccabi Sha'arayim
+28/04/2017,0 - 0,Hapoel Afula,Ironi Nesher
+28/04/2017,1 - 1,Hapoel Jerusalem,Hapoel Ramat HaSharon
+28/04/2017,1 - 2,Hapoel Rishon LeZion,Maccabi Herzliya
+28/04/2017,4 - 1,Maccabi Sha'arayim,Hapoel Nazareth Illit
+21/04/2017,0 - 1,Hapoel Ramat HaSharon,Hapoel Nazareth Illit
+21/04/2017,4 - 0,Hapoel Rishon LeZion,Maccabi Sha'arayim
+21/04/2017,0 - 2,Ironi Nesher,Hapoel Jerusalem
+21/04/2017,1 - 1,Maccabi Herzliya,Hapoel Afula
+14/04/2017,6 - 2,Hapoel Afula,Hapoel Rishon LeZion
+14/04/2017,1 - 0,Hapoel Jerusalem,Maccabi Herzliya
+14/04/2017,0 - 0,[N] Hapoel Nazareth Illit,Ironi Nesher
+14/04/2017,1 - 1,Maccabi Sha'arayim,Hapoel Ramat HaSharon
+07/04/2017,3 - 3,Hapoel Afula,Maccabi Sha'arayim
+07/04/2017,1 - 0,Hapoel Rishon LeZion,Hapoel Jerusalem
+07/04/2017,0 - 1,Ironi Nesher,Hapoel Ramat HaSharon
+07/04/2017,2 - 2,Maccabi Herzliya,Hapoel Nazareth Illit
+31/03/2017,0 - 4,Hapoel Acre,Beitar Tel Aviv Ramla
+31/03/2017,1 - 1,Hapoel Afula,Hapoel Jerusalem
+31/03/2017,2 - 0,[N] Hapoel Katamon,Maccabi Ahi Nazareth
+31/03/2017,1 - 1,[N] Hapoel Nazareth Illit,Ironi Nesher
+31/03/2017,1 - 2,Hapoel Petah Tikva,Hapoel Ramat HaSharon
+31/03/2017,3 - 2,Hapoel Ramat Gan,Maccabi Herzliya
+31/03/2017,1 - 1,Hapoel Rishon LeZion,Maccabi Netanya
+31/03/2017,0 - 2,Maccabi Sha'arayim,Hapoel Bnei Lod
+20/03/2017,0 - 1,Hapoel Jerusalem,Hapoel Nazareth Illit
+20/03/2017,0 - 1,Ironi Nesher,Hapoel Ramat Gan
+20/03/2017,0 - 0,Maccabi Herzliya,Maccabi Sha'arayim
+17/03/2017,0 - 2,Beitar Tel Aviv Ramla,Hapoel Petah Tikva
+17/03/2017,1 - 3,Hapoel Bnei Lod,Hapoel Acre
+17/03/2017,2 - 1,Hapoel Ramat HaSharon,Hapoel Rishon LeZion
+17/03/2017,2 - 0,Maccabi Ahi Nazareth,Hapoel Afula
+17/03/2017,4 - 0,Maccabi Netanya,Hapoel Katamon
+13/03/2017,1 - 1,Hapoel Afula,Hapoel Nazareth Illit
+13/03/2017,3 - 1,Hapoel Ramat Gan,Hapoel Jerusalem
+13/03/2017,2 - 1,Maccabi Ahi Nazareth,Maccabi Netanya
+10/03/2017,2 - 0,Hapoel Acre,Maccabi Herzliya
+10/03/2017,1 - 0,[N] Hapoel Katamon,Hapoel Ramat HaSharon
+10/03/2017,2 - 2,Hapoel Petah Tikva,Hapoel Bnei Lod
+10/03/2017,1 - 1,Hapoel Rishon LeZion,Beitar Tel Aviv Ramla
+10/03/2017,0 - 2,Ironi Nesher,Maccabi Sha'arayim
+08/03/2017,1 - 3,[N] Hapoel Nazareth Illit,Hapoel Ramat Gan
+08/03/2017,0 - 0,Maccabi Netanya,Hapoel Afula
+07/03/2017,0 - 1,Beitar Tel Aviv Ramla,Hapoel Katamon
+07/03/2017,3 - 1,Hapoel Bnei Lod,Hapoel Rishon LeZion
+07/03/2017,0 - 0,Hapoel Jerusalem,Maccabi Sha'arayim
+07/03/2017,2 - 1,Hapoel Ramat HaSharon,Maccabi Ahi Nazareth
+07/03/2017,0 - 2,Ironi Nesher,Hapoel Acre
+07/03/2017,2 - 4,Maccabi Herzliya,Hapoel Petah Tikva
+05/03/2017,3 - 1,Hapoel Afula,Hapoel Ramat Gan
+03/03/2017,3 - 0,Hapoel Acre,Hapoel Jerusalem
+03/03/2017,1 - 0,[N] Hapoel Katamon,Hapoel Bnei Lod
+03/03/2017,0 - 0,Hapoel Petah Tikva,Ironi Nesher
+03/03/2017,1 - 1,Hapoel Rishon LeZion,Maccabi Herzliya
+03/03/2017,2 - 2,Maccabi Ahi Nazareth,Beitar Tel Aviv Ramla
+03/03/2017,3 - 1,Maccabi Netanya,Hapoel Ramat HaSharon
+03/03/2017,1 - 0,Maccabi Sha'arayim,Hapoel Nazareth Illit
+27/02/2017,3 - 3,Beitar Tel Aviv Ramla,Maccabi Netanya
+27/02/2017,0 - 2,Hapoel Ramat HaSharon,Hapoel Afula
+27/02/2017,1 - 1,Ironi Nesher,Hapoel Rishon LeZion
+24/02/2017,3 - 1,Hapoel Acre,Hapoel Nazareth Illit
+24/02/2017,1 - 3,Hapoel Bnei Lod,Maccabi Ahi Nazareth
+24/02/2017,1 - 3,Hapoel Jerusalem,Hapoel Petah Tikva
+24/02/2017,1 - 1,Hapoel Ramat Gan,Maccabi Sha'arayim
+24/02/2017,0 - 4,Maccabi Herzliya,Hapoel Katamon
+20/02/2017,0 - 0,Hapoel Acre,Hapoel Ramat Gan
+20/02/2017,0 - 2,Hapoel Ramat HaSharon,Beitar Tel Aviv Ramla
+20/02/2017,1 - 2,Hapoel Rishon LeZion,Hapoel Jerusalem
+17/02/2017,1 - 0,Hapoel Afula,Maccabi Sha'arayim
+17/02/2017,0 - 1,[N] Hapoel Katamon,Ironi Nesher
+17/02/2017,3 - 0,Hapoel Petah Tikva,Hapoel Nazareth Illit
+17/02/2017,0 - 2,Maccabi Ahi Nazareth,Maccabi Herzliya
+17/02/2017,3 - 3,Maccabi Netanya,Hapoel Bnei Lod
+13/02/2017,1 - 1,Beitar Tel Aviv Ramla,Hapoel Afula
+13/02/2017,1 - 2,Hapoel Jerusalem,Hapoel Katamon
+13/02/2017,1 - 0,Hapoel Ramat Gan,Hapoel Petah Tikva
+10/02/2017,0 - 1,Hapoel Bnei Lod,Hapoel Ramat HaSharon
+10/02/2017,1 - 0,[N] Hapoel Nazareth Illit,Hapoel Rishon LeZion
+10/02/2017,0 - 2,Ironi Nesher,Maccabi Ahi Nazareth
+10/02/2017,4 - 4,Maccabi Herzliya,Maccabi Netanya
+10/02/2017,3 - 0,Maccabi Sha'arayim,Hapoel Acre
+06/02/2017,1 - 1,Hapoel Afula,Hapoel Acre
+06/02/2017,0 - 1,[N] Hapoel Katamon,Hapoel Nazareth Illit
+06/02/2017,2 - 3,Hapoel Ramat HaSharon,Maccabi Herzliya
+03/02/2017,1 - 2,Beitar Tel Aviv Ramla,Hapoel Bnei Lod
+03/02/2017,1 - 0,Hapoel Jerusalem,Maccabi Ahi Nazareth
+03/02/2017,1 - 0,Hapoel Petah Tikva,Maccabi Sha'arayim
+03/02/2017,0 - 2,Hapoel Rishon LeZion,Hapoel Ramat Gan
+03/02/2017,1 - 1,Maccabi Netanya,Ironi Nesher
+30/01/2017,0 - 1,Hapoel Jerusalem,Maccabi Netanya
+30/01/2017,3 - 1,Hapoel Ramat Gan,Hapoel Katamon
+30/01/2017,2 - 1,Maccabi Herzliya,Beitar Tel Aviv Ramla
+30/01/2017,0 - 1,Maccabi Sha'arayim,Hapoel Rishon LeZion
+27/01/2017,3 - 0,Hapoel Acre,Hapoel Petah Tikva
+27/01/2017,2 - 2,Hapoel Bnei Lod,Hapoel Afula
+27/01/2017,1 - 1,Hapoel Nazareth Illit,Maccabi Ahi Nazareth
+27/01/2017,0 - 0,Ironi Nesher,Hapoel Ramat HaSharon
+23/01/2017,1 - 2,Hapoel Afula,Hapoel Petah Tikva
+23/01/2017,1 - 1,Hapoel Bnei Lod,Maccabi Herzliya
+23/01/2017,3 - 2,[N] Hapoel Katamon,Maccabi Sha'arayim
+20/01/2017,4 - 0,Beitar Tel Aviv Ramla,Ironi Nesher
+20/01/2017,0 - 0,Hapoel Ramat HaSharon,Hapoel Jerusalem
+20/01/2017,0 - 0,Hapoel Rishon LeZion,Hapoel Acre
+20/01/2017,3 - 2,Maccabi Ahi Nazareth,Hapoel Ramat Gan
+20/01/2017,5 - 2,Maccabi Netanya,Hapoel Nazareth Illit
+16/01/2017,0 - 0,[N] Hapoel Nazareth Illit,Hapoel Ramat HaSharon
+16/01/2017,1 - 1,Hapoel Ramat Gan,Maccabi Netanya
+16/01/2017,2 - 1,Maccabi Sha'arayim,Maccabi Ahi Nazareth
+13/01/2017,0 - 3,Hapoel Acre,Hapoel Katamon
+13/01/2017,0 - 0,Hapoel Jerusalem,Beitar Tel Aviv Ramla
+13/01/2017,0 - 2,Hapoel Petah Tikva,Hapoel Rishon LeZion
+13/01/2017,1 - 2,Ironi Nesher,Hapoel Bnei Lod
+13/01/2017,0 - 2,Maccabi Herzliya,Hapoel Afula
+12/01/2017,1 - 0,Hapoel Ramat HaSharon,Hapoel Ramat Gan
+10/01/2017,2 - 0,Beitar Tel Aviv Ramla,Hapoel Nazareth Illit
+10/01/2017,0 - 2,Hapoel Afula,Hapoel Rishon LeZion
+10/01/2017,1 - 0,Hapoel Bnei Lod,Hapoel Jerusalem
+10/01/2017,2 - 2,[N] Hapoel Katamon,Hapoel Petah Tikva
+10/01/2017,0 - 0,Maccabi Ahi Nazareth,Hapoel Acre
+10/01/2017,1 - 2,Maccabi Herzliya,Ironi Nesher
+10/01/2017,3 - 2,Maccabi Netanya,Maccabi Sha'arayim
+02/01/2017,0 - 2,Hapoel Acre,Maccabi Netanya
+02/01/2017,2 - 0,Hapoel Afula,Ironi Nesher
+02/01/2017,2 - 1,[N] Hapoel Nazareth Illit,Hapoel Bnei Lod
+30/12/2016,0 - 1,Hapoel Jerusalem,Maccabi Herzliya
+30/12/2016,2 - 0,Hapoel Petah Tikva,Maccabi Ahi Nazareth
+30/12/2016,1 - 1,Hapoel Ramat Gan,Beitar Tel Aviv Ramla
+30/12/2016,2 - 0,Hapoel Rishon LeZion,Hapoel Katamon
+30/12/2016,1 - 1,Maccabi Sha'arayim,Hapoel Ramat HaSharon
+26/12/2016,3 - 2,[N] Hapoel Katamon,Hapoel Afula
+26/12/2016,1 - 2,Hapoel Ramat HaSharon,Hapoel Acre
+26/12/2016,0 - 0,Maccabi Herzliya,Hapoel Nazareth Illit
+26/12/2016,2 - 1,Maccabi Netanya,Hapoel Petah Tikva
+23/12/2016,2 - 1,Beitar Tel Aviv Ramla,Maccabi Sha'arayim
+23/12/2016,2 - 1,Hapoel Bnei Lod,Hapoel Ramat Gan
+23/12/2016,1 - 1,Ironi Nesher,Hapoel Jerusalem
+23/12/2016,1 - 1,Maccabi Ahi Nazareth,Hapoel Rishon LeZion
+19/12/2016,1 - 1,Beitar Tel Aviv Ramla,Hapoel Acre
+16/12/2016,0 - 4,Hapoel Bnei Lod,Maccabi Sha'arayim
+16/12/2016,4 - 1,Hapoel Jerusalem,Hapoel Afula
+16/12/2016,1 - 3,Hapoel Ramat HaSharon,Hapoel Petah Tikva
+16/12/2016,3 - 1,Ironi Nesher,Hapoel Nazareth Illit
+16/12/2016,6 - 0,Maccabi Ahi Nazareth,Hapoel Katamon
+16/12/2016,0 - 0,Maccabi Herzliya,Hapoel Ramat Gan
+16/12/2016,1 - 0,Maccabi Netanya,Hapoel Rishon LeZion
+12/12/2016,1 - 1,Hapoel Afula,Maccabi Ahi Nazareth
+12/12/2016,1 - 1,Maccabi Sha'arayim,Maccabi Herzliya
+11/12/2016,2 - 1,Hapoel Petah Tikva,Beitar Tel Aviv Ramla
+09/12/2016,4 - 0,Hapoel Acre,Hapoel Bnei Lod
+09/12/2016,2 - 4,[N] Hapoel Katamon,Maccabi Netanya
+09/12/2016,1 - 0,[N] Hapoel Nazareth Illit,Hapoel Jerusalem
+09/12/2016,2 - 0,Hapoel Ramat Gan,Ironi Nesher
+09/12/2016,0 - 0,Hapoel Rishon LeZion,Hapoel Ramat HaSharon
+05/12/2016,0 - 0,Beitar Tel Aviv Ramla,Hapoel Rishon LeZion
+05/12/2016,2 - 0,Hapoel Jerusalem,Hapoel Ramat Gan
+05/12/2016,0 - 0,Maccabi Sha'arayim,Ironi Nesher
+02/12/2016,2 - 0,Hapoel Bnei Lod,Hapoel Petah Tikva
+02/12/2016,1 - 2,[N] Hapoel Nazareth Illit,Hapoel Afula
+02/12/2016,0 - 1,Hapoel Ramat HaSharon,Hapoel Katamon
+02/12/2016,3 - 4,Maccabi Herzliya,Hapoel Acre
+02/12/2016,2 - 2,Maccabi Netanya,Maccabi Ahi Nazareth
+28/11/2016,2 - 2,[N] Hapoel Petah Tikva,Maccabi Herzliya
+28/11/2016,0 - 2,Hapoel Rishon LeZion,Hapoel Bnei Lod
+28/11/2016,0 - 0,Maccabi Ahi Nazareth,Hapoel Ramat HaSharon
+25/11/2016,2 - 3,Hapoel Acre,Ironi Nesher
+25/11/2016,1 - 1,Hapoel Afula,Maccabi Netanya
+25/11/2016,2 - 3,[N] Hapoel Katamon,Beitar Tel Aviv Ramla
+25/11/2016,1 - 1,Hapoel Ramat Gan,Hapoel Nazareth Illit
+25/11/2016,2 - 0,Maccabi Sha'arayim,Hapoel Jerusalem
+21/11/2016,1 - 2,Hapoel Bnei Lod,Hapoel Katamon
+21/11/2016,1 - 2,Hapoel Ramat Gan,Hapoel Afula
+21/11/2016,1 - 0,Ironi Nesher,Hapoel Petah Tikva
+18/11/2016,2 - 2,Beitar Tel Aviv Ramla,Maccabi Ahi Nazareth
+18/11/2016,0 - 3,Hapoel Jerusalem,Hapoel Acre
+18/11/2016,1 - 0,[N] Hapoel Nazareth Illit,Maccabi Sha'arayim
+18/11/2016,0 - 2,Hapoel Ramat HaSharon,Maccabi Netanya
+18/11/2016,2 - 1,Maccabi Herzliya,Hapoel Rishon LeZion
+14/11/2016,3 - 0,Maccabi Ahi Nazareth,Hapoel Bnei Lod
+14/11/2016,1 - 0,Maccabi Netanya,Beitar Tel Aviv Ramla
+14/11/2016,2 - 4,Hapoel Afula,Hapoel Ramat HaSharon
+14/11/2016,0 - 1,Maccabi Sha'arayim,Hapoel Ramat Gan
+11/11/2016,1 - 1,[N] Hapoel Katamon,Maccabi Herzliya
+11/11/2016,0 - 3,[N] Hapoel Nazareth Illit,Hapoel Acre
+11/11/2016,2 - 0,[N] Hapoel Petah Tikva,Hapoel Jerusalem
+11/11/2016,1 - 0,Hapoel Rishon LeZion,Ironi Nesher
+07/11/2016,1 - 1,Hapoel Jerusalem,Hapoel Rishon LeZion
+07/11/2016,1 - 1,[N] Hapoel Nazareth Illit,Hapoel Petah Tikva
+07/11/2016,1 - 0,Ironi Nesher,Hapoel Katamon
+04/11/2016,3 - 1,Beitar Tel Aviv Ramla,Hapoel Ramat HaSharon
+04/11/2016,1 - 5,Hapoel Bnei Lod,Maccabi Netanya
+04/11/2016,0 - 0,[N] Hapoel Ramat Gan,Hapoel Acre
+04/11/2016,0 - 1,Maccabi Herzliya,Maccabi Ahi Nazareth
+04/11/2016,2 - 2,Maccabi Sha'arayim,Hapoel Afula
+01/11/2016,0 - 0,[N] Hapoel Katamon,Hapoel Jerusalem
+31/10/2016,0 - 4,Hapoel Petah Tikva,Hapoel Ramat Gan
+31/10/2016,0 - 1,Hapoel Ramat HaSharon,Hapoel Bnei Lod
+31/10/2016,2 - 1,Maccabi Netanya,Maccabi Herzliya
+28/10/2016,4 - 0,Hapoel Acre,Maccabi Sha'arayim
+28/10/2016,2 - 5,Hapoel Afula,Beitar Tel Aviv Ramla
+28/10/2016,2 - 1,Hapoel Rishon LeZion,Hapoel Nazareth Illit
+28/10/2016,0 - 0,Maccabi Ahi Nazareth,Ironi Nesher
+24/10/2016,1 - 0,[N] Hapoel Nazareth Illit,Hapoel Katamon
+24/10/2016,3 - 2,Hapoel Ramat Gan,Hapoel Rishon LeZion
+21/10/2016,1 - 1,Hapoel Acre,Hapoel Afula
+21/10/2016,3 - 2,Hapoel Bnei Lod,Beitar Tel Aviv Ramla
+21/10/2016,1 - 1,[N] Ironi Nesher,Maccabi Netanya
+21/10/2016,0 - 1,Maccabi Ahi Nazareth,Hapoel Jerusalem
+21/10/2016,2 - 0,Maccabi Herzliya,Hapoel Ramat HaSharon
+21/10/2016,0 - 2,Maccabi Sha'arayim,Hapoel Petah Tikva
+30/09/2016,2 - 1,Beitar Tel Aviv Ramla,Maccabi Herzliya
+30/09/2016,2 - 2,Hapoel Afula,Hapoel Bnei Lod
+30/09/2016,0 - 1,[N] Hapoel Katamon,Hapoel Ramat Gan
+30/09/2016,1 - 3,Hapoel Petah Tikva,Hapoel Acre
+30/09/2016,1 - 1,Hapoel Ramat HaSharon,Ironi Nesher
+30/09/2016,1 - 0,Hapoel Rishon LeZion,Maccabi Sha'arayim
+30/09/2016,2 - 0,Maccabi Ahi Nazareth,Hapoel Nazareth Illit
+29/09/2016,3 - 0,Maccabi Netanya,Hapoel Jerusalem
+26/09/2016,1 - 0,Hapoel Jerusalem,Hapoel Ramat HaSharon
+26/09/2016,1 - 1,[N] Hapoel Nazareth Illit,Maccabi Netanya
+26/09/2016,1 - 0,[N] Maccabi Herzliya,Hapoel Bnei Lod
+23/09/2016,2 - 0,Hapoel Acre,Hapoel Rishon LeZion
+23/09/2016,1 - 3,Hapoel Petah Tikva,Hapoel Afula
+23/09/2016,3 - 0,Hapoel Ramat Gan,Maccabi Ahi Nazareth
+23/09/2016,1 - 1,[N] Ironi Nesher,Beitar Tel Aviv Ramla
+23/09/2016,0 - 2,Maccabi Sha'arayim,Hapoel Katamon
+19/09/2016,2 - 1,Hapoel Bnei Lod,Ironi Nesher
+19/09/2016,1 - 1,Maccabi Ahi Nazareth,Maccabi Sha'arayim
+19/09/2016,2 - 1,Maccabi Netanya,Hapoel Ramat Gan
+16/09/2016,2 - 0,Beitar Tel Aviv Ramla,Hapoel Jerusalem
+16/09/2016,1 - 1,Hapoel Afula,Maccabi Herzliya
+16/09/2016,1 - 4,[N] Hapoel Katamon,Hapoel Acre
+16/09/2016,4 - 3,Hapoel Ramat HaSharon,Hapoel Nazareth Illit
+16/09/2016,0 - 0,Hapoel Rishon LeZion,Hapoel Petah Tikva
+12/09/2016,1 - 2,Maccabi Sha'arayim,Maccabi Netanya
+12/09/2016,1 - 2,Hapoel Ramat Gan,Hapoel Ramat HaSharon
+12/09/2016,3 - 0,Hapoel Rishon LeZion,Hapoel Afula
+09/09/2016,0 - 0,Hapoel Acre,Maccabi Ahi Nazareth
+09/09/2016,3 - 2,Hapoel Jerusalem,Hapoel Bnei Lod
+09/09/2016,0 - 2,[N] Hapoel Nazareth Illit,Beitar Tel Aviv Ramla
+09/09/2016,1 - 1,Hapoel Petah Tikva,Hapoel Katamon
+09/09/2016,1 - 0,[N] Ironi Nesher,Maccabi Herzliya
+29/08/2016,0 - 0,Hapoel Bnei Lod,Hapoel Nazareth Illit
+29/08/2016,2 - 1,[N] Maccabi Herzliya,Hapoel Jerusalem
+29/08/2016,4 - 0,Maccabi Netanya,Hapoel Acre
+26/08/2016,0 - 2,Beitar Tel Aviv Ramla,Hapoel Ramat Gan
+26/08/2016,2 - 2,[N] Hapoel Katamon,Hapoel Rishon LeZion
+26/08/2016,1 - 1,Hapoel Ramat HaSharon,Maccabi Sha'arayim
+26/08/2016,0 - 0,[N] Ironi Nesher,Hapoel Afula
+26/08/2016,1 - 1,Maccabi Ahi Nazareth,Hapoel Petah Tikva
+22/08/2016,3 - 3,Hapoel Afula,Hapoel Katamon
+22/08/2016,1 - 1,Hapoel Jerusalem,Ironi Nesher
+22/08/2016,1 - 1,[N] Hapoel Nazareth Illit,Maccabi Herzliya
+22/08/2016,0 - 0,Hapoel Petah Tikva,Maccabi Netanya
+19/08/2016,0 - 0,Hapoel Acre,Hapoel Ramat HaSharon
+19/08/2016,3 - 0,[N] Hapoel Ramat Gan,Hapoel Bnei Lod
+19/08/2016,0 - 0,Hapoel Rishon LeZion,Maccabi Ahi Nazareth
+19/08/2016,1 - 1,Maccabi Sha'arayim,Beitar Tel Aviv Ramla

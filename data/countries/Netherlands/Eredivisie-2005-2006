@@ -1,0 +1,307 @@
+date,score,home_team,away_team
+16/04/2006,0 - 2,ADO Den Haag,Sparta Rotterdam
+16/04/2006,2 - 0,Feyenoord,RBC
+16/04/2006,2 - 4,Heerenveen,AZ
+16/04/2006,2 - 6,NAC Breda,PSV
+16/04/2006,2 - 4,RKC Waalwijk,Ajax
+16/04/2006,2 - 1,Roda JC,Heracles
+16/04/2006,1 - 1,Twente,Groningen
+16/04/2006,1 - 4,Utrecht,Willem II
+16/04/2006,1 - 1,Vitesse,NEC
+12/04/2006,2 - 1,Ajax,Vitesse
+12/04/2006,0 - 0,AZ,Twente
+12/04/2006,2 - 1,Groningen,Utrecht
+12/04/2006,4 - 2,Heracles,NAC Breda
+12/04/2006,0 - 3,NEC,Roda JC
+12/04/2006,1 - 1,PSV,Feyenoord
+12/04/2006,1 - 2,RBC,ADO Den Haag
+12/04/2006,3 - 2,Sparta Rotterdam,RKC Waalwijk
+12/04/2006,4 - 3,Willem II,Heerenveen
+09/04/2006,1 - 0,Ajax,AZ
+09/04/2006,1 - 1,PSV,Groningen
+09/04/2006,2 - 0,Twente,ADO Den Haag
+09/04/2006,1 - 0,Vitesse,Utrecht
+09/04/2006,2 - 2,Willem II,Roda JC
+08/04/2006,2 - 1,NAC Breda,NEC
+08/04/2006,0 - 2,RKC Waalwijk,Heracles
+08/04/2006,5 - 0,Sparta Rotterdam,RBC
+07/04/2006,1 - 1,Heerenveen,Feyenoord
+04/04/2006,3 - 2,AZ,NAC Breda
+02/04/2006,4 - 2,Feyenoord,Twente
+02/04/2006,2 - 1,Groningen,Vitesse
+02/04/2006,2 - 1,Roda JC,Ajax
+01/04/2006,1 - 1,ADO Den Haag,Willem II
+01/04/2006,1 - 0,Heracles,Sparta Rotterdam
+01/04/2006,4 - 1,NEC,Heerenveen
+01/04/2006,1 - 2,RBC,PSV
+31/03/2006,3 - 1,Utrecht,RKC Waalwijk
+26/03/2006,1 - 1,Ajax,NAC Breda
+26/03/2006,0 - 2,Feyenoord,ADO Den Haag
+26/03/2006,0 - 1,RKC Waalwijk,AZ
+26/03/2006,1 - 0,Utrecht,Heracles
+25/03/2006,2 - 2,NEC,Groningen
+25/03/2006,5 - 1,Roda JC,RBC
+25/03/2006,1 - 2,Twente,Heerenveen
+25/03/2006,0 - 3,Willem II,PSV
+24/03/2006,3 - 1,Vitesse,Sparta Rotterdam
+19/03/2006,1 - 0,AZ,Feyenoord
+19/03/2006,3 - 2,Groningen,Ajax
+19/03/2006,1 - 1,RBC,Twente
+19/03/2006,0 - 1,Sparta Rotterdam,Utrecht
+18/03/2006,1 - 1,ADO Den Haag,Roda JC
+18/03/2006,2 - 1,Heerenveen,RKC Waalwijk
+18/03/2006,1 - 0,Heracles,Willem II
+18/03/2006,1 - 0,PSV,NEC
+17/03/2006,2 - 2,NAC Breda,Vitesse
+12/03/2006,1 - 1,Feyenoord,RKC Waalwijk
+12/03/2006,2 - 0,Utrecht,Heerenveen
+12/03/2006,5 - 1,Vitesse,RBC
+12/03/2006,1 - 3,Willem II,AZ
+11/03/2006,2 - 1,ADO Den Haag,Groningen
+11/03/2006,0 - 0,Ajax,PSV
+11/03/2006,2 - 0,NEC,Heracles
+11/03/2006,1 - 1,Roda JC,Sparta Rotterdam
+10/03/2006,1 - 0,Twente,NAC Breda
+05/03/2006,6 - 0,Ajax,Sparta Rotterdam
+05/03/2006,3 - 0,Feyenoord,Utrecht
+05/03/2006,3 - 0,RKC Waalwijk,ADO Den Haag
+05/03/2006,2 - 0,Twente,Heracles
+04/03/2006,2 - 1,NAC Breda,RBC
+04/03/2006,4 - 1,PSV,Heerenveen
+04/03/2006,1 - 3,Vitesse,Roda JC
+04/03/2006,5 - 0,Willem II,Groningen
+03/03/2006,0 - 2,NEC,AZ
+26/02/2006,1 - 2,AZ,PSV
+26/02/2006,1 - 1,Groningen,Feyenoord
+26/02/2006,2 - 1,Heerenveen,NAC Breda
+26/02/2006,1 - 3,Heracles,Ajax
+26/02/2006,2 - 1,Utrecht,Roda JC
+25/02/2006,2 - 0,ADO Den Haag,Vitesse
+25/02/2006,3 - 2,Sparta Rotterdam,Willem II
+24/02/2006,2 - 0,RBC,NEC
+24/02/2006,0 - 0,RKC Waalwijk,Twente
+19/02/2006,6 - 0,Ajax,RBC
+19/02/2006,2 - 3,AZ,Utrecht
+19/02/2006,4 - 0,Feyenoord,Sparta Rotterdam
+19/02/2006,1 - 3,Heracles,ADO Den Haag
+19/02/2006,2 - 0,Willem II,NAC Breda
+18/02/2006,1 - 0,Groningen,RKC Waalwijk
+18/02/2006,2 - 1,Roda JC,Heerenveen
+17/02/2006,0 - 3,NEC,Twente
+17/02/2006,1 - 3,Vitesse,PSV
+12/02/2006,1 - 2,ADO Den Haag,Ajax
+12/02/2006,3 - 3,NAC Breda,Feyenoord
+12/02/2006,1 - 2,RBC,Groningen
+12/02/2006,1 - 1,Utrecht,NEC
+11/02/2006,4 - 1,Heerenveen,Vitesse
+11/02/2006,1 - 0,PSV,Heracles
+11/02/2006,1 - 0,RKC Waalwijk,Willem II
+11/02/2006,1 - 0,Twente,Roda JC
+10/02/2006,0 - 1,Sparta Rotterdam,AZ
+08/02/2006,0 - 3,ADO Den Haag,NAC Breda
+08/02/2006,1 - 0,Ajax,Willem II
+08/02/2006,1 - 1,Heracles,Heerenveen
+08/02/2006,1 - 2,NEC,Feyenoord
+08/02/2006,1 - 0,Roda JC,RKC Waalwijk
+08/02/2006,1 - 2,Utrecht,PSV
+08/02/2006,1 - 2,Vitesse,Twente
+07/02/2006,0 - 5,RBC,AZ
+07/02/2006,1 - 0,Sparta Rotterdam,Groningen
+05/02/2006,3 - 2,Feyenoord,Ajax
+05/02/2006,3 - 0,Heerenveen,ADO Den Haag
+05/02/2006,1 - 3,RKC Waalwijk,NEC
+05/02/2006,3 - 0,Twente,Utrecht
+04/02/2006,1 - 1,AZ,Vitesse
+04/02/2006,0 - 0,Groningen,Heracles
+04/02/2006,0 - 0,NAC Breda,Sparta Rotterdam
+04/02/2006,3 - 2,PSV,Roda JC
+03/02/2006,3 - 1,Willem II,RBC
+29/01/2006,0 - 2,ADO Den Haag,PSV
+29/01/2006,1 - 4,Ajax,Utrecht
+29/01/2006,3 - 2,Groningen,NAC Breda
+29/01/2006,0 - 4,Heracles,Feyenoord
+29/01/2006,0 - 1,RKC Waalwijk,Vitesse
+28/01/2006,0 - 2,RBC,Heerenveen
+28/01/2006,1 - 0,Sparta Rotterdam,Twente
+28/01/2006,2 - 2,Willem II,NEC
+27/01/2006,1 - 4,Roda JC,AZ
+22/01/2006,0 - 0,Feyenoord,Roda JC
+22/01/2006,5 - 0,NEC,ADO Den Haag
+22/01/2006,2 - 3,Twente,Ajax
+22/01/2006,2 - 2,Utrecht,NAC Breda
+21/01/2006,1 - 1,AZ,Groningen
+21/01/2006,0 - 0,Heerenveen,Sparta Rotterdam
+21/01/2006,1 - 2,RBC,Heracles
+21/01/2006,2 - 1,Vitesse,Willem II
+20/01/2006,2 - 0,PSV,RKC Waalwijk
+18/01/2006,3 - 1,AZ,ADO Den Haag
+18/01/2006,1 - 3,Sparta Rotterdam,NEC
+15/01/2006,2 - 3,ADO Den Haag,Utrecht
+15/01/2006,1 - 1,Ajax,NEC
+15/01/2006,0 - 1,Sparta Rotterdam,PSV
+15/01/2006,0 - 1,Vitesse,Feyenoord
+15/01/2006,1 - 1,Willem II,Twente
+14/01/2006,0 - 2,Heracles,AZ
+14/01/2006,0 - 4,NAC Breda,Roda JC
+14/01/2006,1 - 1,RKC Waalwijk,RBC
+13/01/2006,2 - 0,Groningen,Heerenveen
+11/01/2006,1 - 2,NAC Breda,RKC Waalwijk
+11/01/2006,1 - 2,Willem II,Heracles
+30/12/2005,4 - 2,Heerenveen,Ajax
+30/12/2005,3 - 1,Heracles,Vitesse
+30/12/2005,1 - 3,Roda JC,Groningen
+29/12/2005,6 - 1,Feyenoord,Willem II
+29/12/2005,1 - 1,PSV,Twente
+29/12/2005,1 - 2,RBC,Utrecht
+27/12/2005,3 - 2,Ajax,Groningen
+27/12/2005,2 - 2,RKC Waalwijk,Heerenveen
+27/12/2005,3 - 1,Roda JC,ADO Den Haag
+27/12/2005,2 - 1,Vitesse,NAC Breda
+26/12/2005,2 - 0,Feyenoord,AZ
+26/12/2005,0 - 2,NEC,PSV
+26/12/2005,4 - 1,Twente,RBC
+26/12/2005,1 - 1,Utrecht,Sparta Rotterdam
+18/12/2005,2 - 1,ADO Den Haag,Feyenoord
+18/12/2005,3 - 0,AZ,RKC Waalwijk
+18/12/2005,3 - 0,Groningen,NEC
+18/12/2005,1 - 1,Heracles,Utrecht
+18/12/2005,0 - 2,NAC Breda,Ajax
+17/12/2005,3 - 1,Heerenveen,Twente
+17/12/2005,4 - 1,PSV,Willem II
+17/12/2005,0 - 2,RBC,Roda JC
+16/12/2005,1 - 0,Sparta Rotterdam,Vitesse
+14/12/2005,0 - 1,Willem II,Utrecht
+11/12/2005,1 - 0,Feyenoord,PSV
+11/12/2005,3 - 2,RKC Waalwijk,Sparta Rotterdam
+11/12/2005,0 - 2,Utrecht,Groningen
+11/12/2005,0 - 2,Vitesse,Ajax
+10/12/2005,3 - 0,ADO Den Haag,RBC
+10/12/2005,3 - 3,Heerenveen,Willem II
+10/12/2005,2 - 1,NAC Breda,Heracles
+10/12/2005,1 - 3,Twente,AZ
+09/12/2005,0 - 1,Roda JC,NEC
+04/12/2005,4 - 1,Ajax,RKC Waalwijk
+04/12/2005,1 - 0,Groningen,Twente
+04/12/2005,1 - 0,NEC,Vitesse
+04/12/2005,2 - 3,Sparta Rotterdam,ADO Den Haag
+03/12/2005,2 - 1,AZ,Heerenveen
+03/12/2005,3 - 0,PSV,NAC Breda
+03/12/2005,2 - 2,RBC,Feyenoord
+02/12/2005,0 - 1,Heracles,Roda JC
+30/11/2005,2 - 2,NAC Breda,Groningen
+30/11/2005,2 - 0,NEC,Willem II
+30/11/2005,1 - 0,Twente,Sparta Rotterdam
+29/11/2005,4 - 2,Vitesse,RKC Waalwijk
+27/11/2005,2 - 0,AZ,Roda JC
+27/11/2005,7 - 1,Feyenoord,Heracles
+27/11/2005,2 - 0,Heerenveen,RBC
+27/11/2005,3 - 0,PSV,ADO Den Haag
+27/11/2005,1 - 0,Utrecht,Ajax
+20/11/2005,0 - 0,Groningen,AZ
+20/11/2005,3 - 0,Heracles,RBC
+20/11/2005,2 - 3,Roda JC,Feyenoord
+20/11/2005,1 - 2,Sparta Rotterdam,Heerenveen
+19/11/2005,0 - 1,ADO Den Haag,NEC
+19/11/2005,2 - 0,Ajax,Twente
+19/11/2005,0 - 1,NAC Breda,Utrecht
+19/11/2005,4 - 4,RKC Waalwijk,PSV
+18/11/2005,3 - 4,Willem II,Vitesse
+06/11/2005,0 - 0,Feyenoord,Vitesse
+06/11/2005,4 - 0,Heerenveen,Groningen
+06/11/2005,1 - 0,NEC,Ajax
+06/11/2005,1 - 1,Utrecht,ADO Den Haag
+05/11/2005,2 - 2,AZ,Heracles
+05/11/2005,3 - 0,PSV,Sparta Rotterdam
+05/11/2005,3 - 3,Roda JC,NAC Breda
+05/11/2005,3 - 1,Twente,Willem II
+04/11/2005,1 - 1,RBC,RKC Waalwijk
+30/10/2005,1 - 0,Groningen,Roda JC
+30/10/2005,0 - 0,NEC,Sparta Rotterdam
+30/10/2005,4 - 1,Utrecht,RBC
+30/10/2005,1 - 3,Willem II,Feyenoord
+29/10/2005,0 - 2,ADO Den Haag,AZ
+29/10/2005,4 - 1,RKC Waalwijk,NAC Breda
+29/10/2005,0 - 1,Twente,PSV
+29/10/2005,5 - 1,Vitesse,Heracles
+28/10/2005,0 - 0,Ajax,Heerenveen
+23/10/2005,5 - 1,AZ,Willem II
+23/10/2005,3 - 1,Groningen,ADO Den Haag
+23/10/2005,1 - 1,Heerenveen,Utrecht
+23/10/2005,1 - 0,PSV,Ajax
+23/10/2005,2 - 1,RKC Waalwijk,Feyenoord
+22/10/2005,1 - 1,NAC Breda,Twente
+22/10/2005,0 - 3,RBC,Vitesse
+22/10/2005,2 - 3,Sparta Rotterdam,Roda JC
+21/10/2005,0 - 2,Heracles,NEC
+16/10/2005,4 - 1,Feyenoord,Groningen
+16/10/2005,3 - 1,NEC,RBC
+16/10/2005,2 - 1,Roda JC,Utrecht
+16/10/2005,3 - 1,Vitesse,ADO Den Haag
+15/10/2005,0 - 0,Ajax,Heracles
+15/10/2005,0 - 3,NAC Breda,Heerenveen
+15/10/2005,3 - 0,PSV,AZ
+15/10/2005,2 - 0,Twente,RKC Waalwijk
+14/10/2005,0 - 0,Willem II,Sparta Rotterdam
+02/10/2005,3 - 2,AZ,NEC
+02/10/2005,2 - 0,Groningen,Willem II
+02/10/2005,2 - 3,Heerenveen,PSV
+02/10/2005,0 - 4,Heracles,Twente
+02/10/2005,1 - 2,Sparta Rotterdam,Ajax
+02/10/2005,3 - 1,Utrecht,Feyenoord
+01/10/2005,2 - 1,ADO Den Haag,RKC Waalwijk
+01/10/2005,3 - 2,Roda JC,Vitesse
+30/09/2005,1 - 2,RBC,NAC Breda
+25/09/2005,2 - 1,NAC Breda,AZ
+25/09/2005,2 - 0,Sparta Rotterdam,Heracles
+25/09/2005,1 - 3,Twente,Feyenoord
+24/09/2005,4 - 1,Ajax,Roda JC
+24/09/2005,2 - 0,PSV,RBC
+24/09/2005,2 - 3,RKC Waalwijk,Utrecht
+24/09/2005,2 - 0,Vitesse,Groningen
+24/09/2005,1 - 0,Willem II,ADO Den Haag
+23/09/2005,2 - 1,Heerenveen,NEC
+21/09/2005,2 - 2,Ajax,ADO Den Haag
+18/09/2005,4 - 2,AZ,Ajax
+18/09/2005,5 - 1,Feyenoord,Heerenveen
+18/09/2005,1 - 0,Groningen,PSV
+18/09/2005,0 - 2,Roda JC,Willem II
+18/09/2005,1 - 0,Utrecht,Vitesse
+17/09/2005,0 - 2,Heracles,RKC Waalwijk
+17/09/2005,1 - 1,NEC,NAC Breda
+17/09/2005,1 - 1,RBC,Sparta Rotterdam
+16/09/2005,0 - 0,ADO Den Haag,Twente
+11/09/2005,3 - 0,Feyenoord,NEC
+11/09/2005,0 - 1,Groningen,Sparta Rotterdam
+11/09/2005,4 - 1,NAC Breda,ADO Den Haag
+11/09/2005,0 - 1,Twente,Vitesse
+10/09/2005,7 - 0,AZ,RBC
+10/09/2005,1 - 2,Heerenveen,Heracles
+10/09/2005,1 - 0,PSV,Utrecht
+10/09/2005,0 - 2,Willem II,Ajax
+09/09/2005,2 - 0,RKC Waalwijk,Roda JC
+28/08/2005,1 - 2,Ajax,Feyenoord
+28/08/2005,2 - 1,Heracles,Groningen
+28/08/2005,1 - 1,RBC,Willem II
+28/08/2005,0 - 3,Roda JC,PSV
+28/08/2005,1 - 3,Utrecht,Twente
+27/08/2005,1 - 3,NEC,RKC Waalwijk
+27/08/2005,1 - 0,Sparta Rotterdam,NAC Breda
+27/08/2005,0 - 5,Vitesse,AZ
+26/08/2005,1 - 0,ADO Den Haag,Heerenveen
+21/08/2005,2 - 1,PSV,Vitesse
+21/08/2005,2 - 1,RKC Waalwijk,Groningen
+21/08/2005,1 - 3,Sparta Rotterdam,Feyenoord
+21/08/2005,1 - 2,Utrecht,AZ
+20/08/2005,1 - 2,ADO Den Haag,Heracles
+20/08/2005,5 - 4,Heerenveen,Roda JC
+20/08/2005,0 - 2,RBC,Ajax
+20/08/2005,0 - 1,Twente,NEC
+19/08/2005,1 - 0,NAC Breda,Willem II
+14/08/2005,2 - 0,Feyenoord,NAC Breda
+14/08/2005,1 - 0,Groningen,RBC
+14/08/2005,0 - 0,NEC,Utrecht
+13/08/2005,1 - 1,Heracles,PSV
+13/08/2005,2 - 0,Roda JC,Twente
+13/08/2005,2 - 2,Vitesse,Heerenveen
+13/08/2005,1 - 2,Willem II,RKC Waalwijk
+12/08/2005,3 - 0,AZ,Sparta Rotterdam

@@ -1,0 +1,307 @@
+date,score,home_team,away_team
+05/05/2002,4 - 1,Boavista,Vitória Setúbal
+05/05/2002,3 - 2,Farense,Gil Vicente
+05/05/2002,3 - 2,Marítimo,Benfica
+05/05/2002,1 - 2,Paços de Ferreira,Porto
+05/05/2002,2 - 1,Salgueiros,Varzim
+05/05/2002,2 - 3,Santa Clara,Belenenses
+05/05/2002,5 - 3,Sporting Braga,Alverca
+05/05/2002,2 - 1,Sporting CP,Beira-Mar
+05/05/2002,2 - 4,Vitória Guimarães,União de Leiria
+29/04/2002,3 - 2,Alverca,Vitória Guimarães
+28/04/2002,0 - 2,Beira-Mar,Paços de Ferreira
+28/04/2002,2 - 1,Benfica,Boavista
+28/04/2002,3 - 2,Gil Vicente,Salgueiros
+28/04/2002,4 - 1,União de Leiria,Farense
+28/04/2002,0 - 1,Varzim,Marítimo
+27/04/2002,5 - 3,Porto,Santa Clara
+27/04/2002,2 - 2,Vitória Setúbal,Sporting CP
+26/04/2002,1 - 1,Belenenses,Sporting Braga
+22/04/2002,4 - 0,Marítimo,Salgueiros
+21/04/2002,2 - 1,Farense,Alverca
+21/04/2002,0 - 0,Gil Vicente,União de Leiria
+21/04/2002,1 - 0,Paços de Ferreira,Vitória Setúbal
+21/04/2002,0 - 0,Santa Clara,Beira-Mar
+21/04/2002,1 - 1,Sporting CP,Benfica
+20/04/2002,1 - 2,Boavista,Varzim
+20/04/2002,0 - 4,Sporting Braga,Porto
+19/04/2002,2 - 1,Vitória Guimarães,Belenenses
+14/04/2002,1 - 4,Alverca,Gil Vicente
+14/04/2002,4 - 2,Beira-Mar,Sporting Braga
+14/04/2002,4 - 0,Belenenses,Farense
+14/04/2002,4 - 0,Benfica,Paços de Ferreira
+14/04/2002,0 - 1,Salgueiros,União de Leiria
+14/04/2002,3 - 2,Vitória Setúbal,Santa Clara
+13/04/2002,3 - 0,Porto,Vitória Guimarães
+13/04/2002,1 - 3,Varzim,Sporting CP
+12/04/2002,0 - 0,Marítimo,Boavista
+08/04/2002,1 - 1,Sporting Braga,Vitória Setúbal
+07/04/2002,3 - 2,Gil Vicente,Belenenses
+07/04/2002,0 - 0,Paços de Ferreira,Varzim
+07/04/2002,4 - 0,Sporting CP,Marítimo
+07/04/2002,2 - 1,União de Leiria,Alverca
+07/04/2002,0 - 0,Vitória Guimarães,Beira-Mar
+06/04/2002,0 - 3,Farense,Porto
+06/04/2002,0 - 0,Santa Clara,Benfica
+05/04/2002,2 - 1,Boavista,Salgueiros
+03/04/2002,2 - 2,Gil Vicente,Alverca
+01/04/2002,1 - 0,Belenenses,União de Leiria
+30/03/2002,2 - 1,Beira-Mar,Farense
+30/03/2002,1 - 1,Benfica,Sporting Braga
+30/03/2002,0 - 0,Boavista,Sporting CP
+30/03/2002,0 - 1,Marítimo,Paços de Ferreira
+30/03/2002,2 - 1,Porto,Gil Vicente
+30/03/2002,2 - 1,Salgueiros,Alverca
+30/03/2002,1 - 0,Varzim,Santa Clara
+30/03/2002,1 - 0,Vitória Setúbal,Vitória Guimarães
+25/03/2002,0 - 1,Alverca,Belenenses
+24/03/2002,2 - 2,Farense,Vitória Setúbal
+24/03/2002,0 - 1,Paços de Ferreira,Boavista
+24/03/2002,0 - 0,Santa Clara,Marítimo
+24/03/2002,2 - 0,Sporting Braga,Varzim
+24/03/2002,1 - 1,União de Leiria,Porto
+23/03/2002,2 - 1,Gil Vicente,Beira-Mar
+23/03/2002,2 - 0,Sporting CP,Salgueiros
+23/03/2002,1 - 4,Vitória Guimarães,Benfica
+18/03/2002,5 - 0,Benfica,Farense
+16/03/2002,2 - 1,Beira-Mar,União de Leiria
+16/03/2002,2 - 0,Boavista,Santa Clara
+16/03/2002,4 - 1,Marítimo,Sporting Braga
+16/03/2002,0 - 0,Porto,Alverca
+16/03/2002,3 - 0,Sporting CP,Paços de Ferreira
+16/03/2002,0 - 0,Varzim,Vitória Guimarães
+16/03/2002,3 - 2,Vitória Setúbal,Gil Vicente
+14/03/2002,1 - 2,Salgueiros,Belenenses
+11/03/2002,1 - 3,Vitória Guimarães,Marítimo
+10/03/2002,2 - 0,Alverca,Beira-Mar
+10/03/2002,1 - 1,Farense,Varzim
+10/03/2002,6 - 0,Paços de Ferreira,Salgueiros
+10/03/2002,0 - 3,Santa Clara,Sporting CP
+10/03/2002,0 - 0,União de Leiria,Vitória Setúbal
+09/03/2002,0 - 2,Gil Vicente,Benfica
+09/03/2002,0 - 2,Sporting Braga,Boavista
+08/03/2002,3 - 0,Belenenses,Porto
+04/03/2002,0 - 3,Beira-Mar,Belenenses
+03/03/2002,0 - 0,Boavista,Vitória Guimarães
+03/03/2002,1 - 0,Marítimo,Farense
+03/03/2002,2 - 1,Paços de Ferreira,Santa Clara
+03/03/2002,0 - 3,Salgueiros,Porto
+03/03/2002,2 - 0,Varzim,Gil Vicente
+03/03/2002,2 - 1,Vitória Setúbal,Alverca
+02/03/2002,0 - 2,Benfica,União de Leiria
+02/03/2002,2 - 2,Sporting CP,Sporting Braga
+25/02/2002,1 - 1,Belenenses,Vitória Setúbal
+25/02/2002,1 - 0,Sporting Braga,Paços de Ferreira
+24/02/2002,1 - 3,Alverca,Benfica
+24/02/2002,1 - 1,Gil Vicente,Marítimo
+24/02/2002,1 - 1,Santa Clara,Salgueiros
+24/02/2002,0 - 1,União de Leiria,Varzim
+23/02/2002,1 - 2,Farense,Boavista
+23/02/2002,2 - 3,Porto,Beira-Mar
+22/02/2002,0 - 1,Vitória Guimarães,Sporting CP
+18/02/2002,3 - 0,Marítimo,União de Leiria
+17/02/2002,2 - 1,Benfica,Belenenses
+17/02/2002,0 - 0,Paços de Ferreira,Vitória Guimarães
+17/02/2002,1 - 1,Salgueiros,Beira-Mar
+17/02/2002,1 - 0,Santa Clara,Sporting Braga
+17/02/2002,1 - 0,Sporting CP,Farense
+17/02/2002,1 - 0,Varzim,Alverca
+16/02/2002,0 - 0,Boavista,Gil Vicente
+16/02/2002,1 - 4,Vitória Setúbal,Porto
+10/02/2002,1 - 1,Farense,Paços de Ferreira
+10/02/2002,1 - 1,Gil Vicente,Sporting CP
+10/02/2002,3 - 2,Porto,Benfica
+09/02/2002,0 - 2,Alverca,Marítimo
+09/02/2002,1 - 0,Beira-Mar,Vitória Setúbal
+09/02/2002,3 - 2,Belenenses,Varzim
+09/02/2002,0 - 0,Sporting Braga,Salgueiros
+09/02/2002,0 - 1,União de Leiria,Boavista
+08/02/2002,1 - 0,Vitória Guimarães,Santa Clara
+03/02/2002,4 - 1,Benfica,Beira-Mar
+03/02/2002,0 - 2,Marítimo,Belenenses
+03/02/2002,2 - 0,Paços de Ferreira,Gil Vicente
+03/02/2002,0 - 2,Salgueiros,Vitória Setúbal
+03/02/2002,2 - 0,Santa Clara,Farense
+03/02/2002,0 - 1,Varzim,Porto
+02/02/2002,0 - 0,Sporting Braga,Vitória Guimarães
+02/02/2002,4 - 1,Sporting CP,União de Leiria
+01/02/2002,2 - 0,Boavista,Alverca
+27/01/2002,4 - 0,Beira-Mar,Varzim
+27/01/2002,0 - 2,Belenenses,Boavista
+27/01/2002,2 - 2,Farense,Sporting Braga
+27/01/2002,1 - 3,Gil Vicente,Santa Clara
+27/01/2002,2 - 1,União de Leiria,Paços de Ferreira
+27/01/2002,1 - 1,Vitória Setúbal,Benfica
+26/01/2002,1 - 3,Alverca,Sporting CP
+26/01/2002,2 - 1,Porto,Marítimo
+26/01/2002,3 - 0,Vitória Guimarães,Salgueiros
+21/01/2002,1 - 0,Sporting Braga,Gil Vicente
+20/01/2002,2 - 0,Boavista,Porto
+20/01/2002,3 - 1,Marítimo,Beira-Mar
+20/01/2002,2 - 2,Paços de Ferreira,Alverca
+20/01/2002,1 - 1,Santa Clara,União de Leiria
+20/01/2002,2 - 0,Sporting CP,Belenenses
+20/01/2002,2 - 1,Varzim,Vitória Setúbal
+19/01/2002,1 - 4,Salgueiros,Benfica
+18/01/2002,3 - 1,Vitória Guimarães,Farense
+14/01/2002,0 - 3,Beira-Mar,Boavista
+13/01/2002,3 - 1,Alverca,Santa Clara
+13/01/2002,1 - 2,Belenenses,Paços de Ferreira
+13/01/2002,3 - 1,União de Leiria,Sporting Braga
+13/01/2002,0 - 1,Vitória Setúbal,Marítimo
+12/01/2002,3 - 2,Benfica,Varzim
+12/01/2002,2 - 1,Farense,Salgueiros
+12/01/2002,2 - 2,Porto,Sporting CP
+11/01/2002,2 - 1,Gil Vicente,Vitória Guimarães
+07/01/2002,1 - 1,Vitória Setúbal,Boavista
+06/01/2002,1 - 1,Belenenses,Santa Clara
+06/01/2002,3 - 1,Gil Vicente,Farense
+06/01/2002,1 - 0,Porto,Paços de Ferreira
+06/01/2002,0 - 0,Varzim,Salgueiros
+05/01/2002,1 - 2,Beira-Mar,Sporting CP
+05/01/2002,1 - 1,Benfica,Marítimo
+05/01/2002,2 - 1,União de Leiria,Vitória Guimarães
+04/01/2002,0 - 3,Alverca,Sporting Braga
+23/12/2001,1 - 0,Boavista,Benfica
+22/12/2001,0 - 1,Farense,União de Leiria
+22/12/2001,1 - 1,Marítimo,Varzim
+22/12/2001,0 - 0,Paços de Ferreira,Beira-Mar
+22/12/2001,3 - 0,Salgueiros,Gil Vicente
+22/12/2001,2 - 1,Santa Clara,Porto
+22/12/2001,2 - 3,Sporting Braga,Belenenses
+22/12/2001,1 - 0,Sporting CP,Vitória Setúbal
+22/12/2001,2 - 0,Vitória Guimarães,Alverca
+15/12/2001,1 - 0,Alverca,Farense
+15/12/2001,0 - 1,Beira-Mar,Santa Clara
+15/12/2001,2 - 1,Belenenses,Vitória Guimarães
+15/12/2001,2 - 2,Benfica,Sporting CP
+15/12/2001,0 - 0,Porto,Sporting Braga
+15/12/2001,2 - 1,Salgueiros,Marítimo
+15/12/2001,2 - 1,União de Leiria,Gil Vicente
+15/12/2001,0 - 2,Varzim,Boavista
+15/12/2001,1 - 3,Vitória Setúbal,Paços de Ferreira
+09/12/2001,0 - 1,Boavista,Marítimo
+09/12/2001,1 - 0,Santa Clara,Vitória Setúbal
+09/12/2001,4 - 0,Sporting CP,Varzim
+09/12/2001,7 - 0,União de Leiria,Salgueiros
+08/12/2001,2 - 1,Paços de Ferreira,Benfica
+08/12/2001,3 - 2,Sporting Braga,Beira-Mar
+08/12/2001,2 - 0,Vitória Guimarães,Porto
+07/12/2001,2 - 2,Farense,Belenenses
+03/12/2001,0 - 0,Vitória Setúbal,Sporting Braga
+02/12/2001,1 - 1,Alverca,União de Leiria
+02/12/2001,0 - 0,Beira-Mar,Vitória Guimarães
+02/12/2001,1 - 0,Belenenses,Gil Vicente
+02/12/2001,2 - 1,Benfica,Santa Clara
+02/12/2001,0 - 3,Varzim,Paços de Ferreira
+01/12/2001,0 - 2,Marítimo,Sporting CP
+01/12/2001,1 - 1,Salgueiros,Boavista
+30/11/2001,2 - 0,Porto,Farense
+26/11/2001,2 - 0,Sporting CP,Boavista
+25/11/2001,1 - 0,Farense,Beira-Mar
+25/11/2001,2 - 5,Gil Vicente,Porto
+25/11/2001,2 - 1,Paços de Ferreira,Marítimo
+25/11/2001,1 - 0,Santa Clara,Varzim
+25/11/2001,3 - 0,União de Leiria,Belenenses
+24/11/2001,1 - 2,Alverca,Salgueiros
+24/11/2001,0 - 1,Sporting Braga,Benfica
+23/11/2001,0 - 0,Vitória Guimarães,Vitória Setúbal
+06/11/2001,5 - 0,Boavista,Paços de Ferreira
+05/11/2001,1 - 5,Salgueiros,Sporting CP
+04/11/2001,2 - 2,Beira-Mar,Gil Vicente
+04/11/2001,1 - 1,Belenenses,Alverca
+04/11/2001,1 - 0,Marítimo,Santa Clara
+04/11/2001,2 - 1,Porto,União de Leiria
+03/11/2001,0 - 0,Benfica,Vitória Guimarães
+03/11/2001,2 - 0,Vitória Setúbal,Farense
+02/11/2001,0 - 0,Varzim,Sporting Braga
+29/10/2001,1 - 0,Belenenses,Salgueiros
+28/10/2001,0 - 1,Alverca,Porto
+28/10/2001,2 - 1,Gil Vicente,Vitória Setúbal
+28/10/2001,4 - 1,União de Leiria,Beira-Mar
+27/10/2001,0 - 6,Paços de Ferreira,Sporting CP
+27/10/2001,1 - 0,Sporting Braga,Marítimo
+27/10/2001,4 - 0,Vitória Guimarães,Varzim
+26/10/2001,0 - 2,Farense,Benfica
+22/10/2001,0 - 0,Sporting CP,Santa Clara
+21/10/2001,6 - 2,Beira-Mar,Alverca
+21/10/2001,3 - 2,Salgueiros,Paços de Ferreira
+21/10/2001,2 - 0,Varzim,Farense
+21/10/2001,1 - 1,Vitória Setúbal,União de Leiria
+20/10/2001,2 - 0,Benfica,Gil Vicente
+20/10/2001,3 - 0,Boavista,Sporting Braga
+20/10/2001,1 - 2,Porto,Belenenses
+19/10/2001,2 - 0,Marítimo,Vitória Guimarães
+15/10/2001,1 - 5,Belenenses,Beira-Mar
+14/10/2001,1 - 1,Alverca,Vitória Setúbal
+14/10/2001,2 - 1,Farense,Marítimo
+14/10/2001,1 - 0,Gil Vicente,Varzim
+13/10/2001,3 - 0,Porto,Salgueiros
+13/10/2001,1 - 1,Santa Clara,Paços de Ferreira
+13/10/2001,2 - 1,Sporting Braga,Sporting CP
+13/10/2001,1 - 1,União de Leiria,Benfica
+12/10/2001,2 - 0,Vitória Guimarães,Boavista
+07/10/2001,0 - 2,Santa Clara,Boavista
+01/10/2001,2 - 1,Marítimo,Gil Vicente
+01/10/2001,5 - 0,Sporting CP,Vitória Guimarães
+30/09/2001,3 - 2,Benfica,Alverca
+30/09/2001,1 - 1,Boavista,Farense
+30/09/2001,2 - 1,Salgueiros,Santa Clara
+30/09/2001,2 - 0,Varzim,União de Leiria
+29/09/2001,2 - 0,Beira-Mar,Porto
+29/09/2001,0 - 0,Paços de Ferreira,Sporting Braga
+28/09/2001,0 - 1,Vitória Setúbal,Belenenses
+23/09/2001,4 - 2,Alverca,Varzim
+23/09/2001,1 - 1,Beira-Mar,Salgueiros
+23/09/2001,1 - 1,Belenenses,Benfica
+23/09/2001,1 - 3,Farense,Sporting CP
+23/09/2001,2 - 0,União de Leiria,Marítimo
+23/09/2001,1 - 1,Vitória Guimarães,Paços de Ferreira
+22/09/2001,0 - 3,Gil Vicente,Boavista
+22/09/2001,3 - 0,Porto,Vitória Setúbal
+21/09/2001,6 - 0,Sporting Braga,Santa Clara
+16/09/2001,5 - 0,Marítimo,Alverca
+16/09/2001,1 - 1,Paços de Ferreira,Farense
+16/09/2001,1 - 0,Salgueiros,Sporting Braga
+16/09/2001,2 - 0,Santa Clara,Vitória Guimarães
+16/09/2001,3 - 1,Sporting CP,Gil Vicente
+16/09/2001,4 - 1,Vitória Setúbal,Beira-Mar
+15/09/2001,0 - 0,Benfica,Porto
+15/09/2001,1 - 0,Boavista,União de Leiria
+14/09/2001,1 - 5,Varzim,Belenenses
+10/09/2001,2 - 1,Vitória Guimarães,Sporting Braga
+09/09/2001,3 - 3,Beira-Mar,Benfica
+09/09/2001,1 - 0,Farense,Santa Clara
+09/09/2001,1 - 1,Gil Vicente,Paços de Ferreira
+09/09/2001,3 - 0,Porto,Varzim
+09/09/2001,3 - 0,Vitória Setúbal,Salgueiros
+08/09/2001,0 - 1,Belenenses,Marítimo
+08/09/2001,1 - 1,União de Leiria,Sporting CP
+07/09/2001,1 - 2,Alverca,Boavista
+02/09/2001,2 - 1,Santa Clara,Alverca
+27/08/2001,1 - 3,Marítimo,Porto
+27/08/2001,1 - 3,Salgueiros,Vitória Guimarães
+26/08/2001,2 - 0,Boavista,Belenenses
+26/08/2001,1 - 2,Paços de Ferreira,União de Leiria
+26/08/2001,4 - 0,Sporting Braga,Farense
+26/08/2001,1 - 1,Varzim,Beira-Mar
+25/08/2001,3 - 2,Benfica,Vitória Setúbal
+25/08/2001,0 - 0,Santa Clara,Gil Vicente
+25/08/2001,0 - 1,Sporting CP,Alverca
+20/08/2001,0 - 1,Farense,Vitória Guimarães
+19/08/2001,1 - 0,Alverca,Paços de Ferreira
+19/08/2001,2 - 0,Beira-Mar,Marítimo
+19/08/2001,2 - 0,Benfica,Salgueiros
+19/08/2001,4 - 1,Porto,Boavista
+19/08/2001,2 - 2,União de Leiria,Santa Clara
+19/08/2001,2 - 0,Vitória Setúbal,Varzim
+18/08/2001,3 - 0,Belenenses,Sporting CP
+18/08/2001,2 - 1,Gil Vicente,Sporting Braga
+13/08/2001,3 - 1,Marítimo,Vitória Setúbal
+12/08/2001,3 - 1,Paços de Ferreira,Belenenses
+12/08/2001,0 - 2,Salgueiros,Farense
+12/08/2001,1 - 0,Sporting CP,Porto
+12/08/2001,0 - 2,Vitória Guimarães,Gil Vicente
+11/08/2001,0 - 0,Sporting Braga,União de Leiria
+11/08/2001,2 - 2,Varzim,Benfica
+10/08/2001,3 - 0,Boavista,Beira-Mar

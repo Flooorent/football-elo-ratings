@@ -1,0 +1,307 @@
+date,score,home_team,away_team
+05/05/2002,2 - 2,De Graafschap,PSV
+05/05/2002,0 - 1,Den Bosch,AZ
+05/05/2002,0 - 0,Fortuna Sittard,Roda JC
+05/05/2002,0 - 0,Heerenveen,Twente
+05/05/2002,0 - 2,NEC,Ajax
+05/05/2002,3 - 2,RKC Waalwijk,Vitesse
+05/05/2002,0 - 0,Sparta Rotterdam,Groningen
+05/05/2002,0 - 0,Utrecht,NAC Breda
+05/05/2002,0 - 0,Willem II,Feyenoord
+28/04/2002,2 - 0,Ajax,Den Bosch
+28/04/2002,5 - 0,AZ,NEC
+28/04/2002,3 - 2,Feyenoord,Heerenveen
+28/04/2002,2 - 0,Groningen,De Graafschap
+28/04/2002,3 - 1,NAC Breda,Fortuna Sittard
+28/04/2002,3 - 0,PSV,Sparta Rotterdam
+28/04/2002,1 - 0,Roda JC,RKC Waalwijk
+28/04/2002,2 - 0,Twente,Utrecht
+28/04/2002,4 - 2,Vitesse,Willem II
+25/04/2002,1 - 0,De Graafschap,Feyenoord
+24/04/2002,2 - 0,Heerenveen,Groningen
+24/04/2002,6 - 0,PSV,Willem II
+24/04/2002,3 - 2,Utrecht,AZ
+21/04/2002,1 - 0,Ajax,Utrecht
+21/04/2002,2 - 1,NEC,Den Bosch
+20/04/2002,0 - 0,Heerenveen,Roda JC
+20/04/2002,4 - 1,RKC Waalwijk,NAC Breda
+20/04/2002,0 - 1,Sparta Rotterdam,Vitesse
+20/04/2002,1 - 1,Twente,PSV
+20/04/2002,2 - 2,Willem II,De Graafschap
+19/04/2002,1 - 2,Fortuna Sittard,Feyenoord
+14/04/2002,0 - 1,Groningen,Vitesse
+14/04/2002,2 - 0,PSV,Feyenoord
+14/04/2002,1 - 2,RKC Waalwijk,Utrecht
+14/04/2002,0 - 4,Sparta Rotterdam,Ajax
+13/04/2002,2 - 2,AZ,Willem II
+13/04/2002,1 - 2,De Graafschap,Heerenveen
+13/04/2002,3 - 1,Den Bosch,Roda JC
+13/04/2002,2 - 0,Fortuna Sittard,Twente
+13/04/2002,1 - 3,NAC Breda,NEC
+07/04/2002,0 - 1,Den Bosch,PSV
+07/04/2002,0 - 0,Feyenoord,NAC Breda
+07/04/2002,2 - 2,Groningen,NEC
+06/04/2002,3 - 1,De Graafschap,RKC Waalwijk
+06/04/2002,0 - 0,Roda JC,AZ
+06/04/2002,0 - 0,Vitesse,Heerenveen
+06/04/2002,3 - 0,Willem II,Fortuna Sittard
+05/04/2002,2 - 0,Twente,Sparta Rotterdam
+03/04/2002,4 - 3,Ajax,Groningen
+01/04/2002,4 - 1,PSV,Heerenveen
+01/04/2002,3 - 1,Utrecht,Den Bosch
+31/03/2002,1 - 1,Feyenoord,RKC Waalwijk
+31/03/2002,3 - 1,Vitesse,Ajax
+30/03/2002,0 - 2,AZ,Twente
+30/03/2002,1 - 0,NAC Breda,De Graafschap
+30/03/2002,3 - 1,NEC,Fortuna Sittard
+30/03/2002,3 - 0,Roda JC,Sparta Rotterdam
+24/03/2002,0 - 0,De Graafschap,Utrecht
+24/03/2002,0 - 2,Groningen,Roda JC
+24/03/2002,1 - 1,PSV,Ajax
+24/03/2002,3 - 1,RKC Waalwijk,Twente
+24/03/2002,0 - 5,Sparta Rotterdam,Feyenoord
+23/03/2002,1 - 2,Den Bosch,Willem II
+23/03/2002,4 - 0,Heerenveen,NEC
+23/03/2002,3 - 3,NAC Breda,Vitesse
+22/03/2002,0 - 1,Fortuna Sittard,AZ
+17/03/2002,2 - 0,Ajax,Heerenveen
+17/03/2002,3 - 0,Feyenoord,Den Bosch
+17/03/2002,2 - 1,RKC Waalwijk,NEC
+17/03/2002,0 - 1,Twente,Groningen
+17/03/2002,3 - 0,Utrecht,Fortuna Sittard
+17/03/2002,0 - 0,Vitesse,PSV
+16/03/2002,2 - 1,AZ,De Graafschap
+16/03/2002,4 - 0,Willem II,Sparta Rotterdam
+15/03/2002,1 - 1,Roda JC,NAC Breda
+13/03/2002,3 - 1,Heerenveen,Fortuna Sittard
+13/03/2002,3 - 1,NEC,De Graafschap
+10/03/2002,4 - 0,Ajax,De Graafschap
+10/03/2002,4 - 1,Feyenoord,AZ
+10/03/2002,3 - 0,NEC,Willem II
+09/03/2002,1 - 2,Den Bosch,NAC Breda
+09/03/2002,0 - 1,Fortuna Sittard,Groningen
+09/03/2002,2 - 0,Heerenveen,RKC Waalwijk
+09/03/2002,4 - 1,PSV,Roda JC
+09/03/2002,2 - 0,Vitesse,Twente
+08/03/2002,4 - 2,Utrecht,Sparta Rotterdam
+04/03/2002,0 - 2,Roda JC,Vitesse
+03/03/2002,1 - 1,Ajax,Feyenoord
+03/03/2002,1 - 1,Groningen,RKC Waalwijk
+03/03/2002,0 - 0,Sparta Rotterdam,Fortuna Sittard
+03/03/2002,2 - 0,Twente,NEC
+02/03/2002,0 - 1,De Graafschap,Den Bosch
+02/03/2002,4 - 2,Willem II,Utrecht
+01/03/2002,3 - 1,NAC Breda,AZ
+27/02/2002,1 - 1,Fortuna Sittard,Ajax
+24/02/2002,1 - 2,Feyenoord,Twente
+24/02/2002,0 - 1,NAC Breda,Ajax
+24/02/2002,4 - 0,PSV,Utrecht
+24/02/2002,3 - 2,RKC Waalwijk,AZ
+23/02/2002,2 - 0,Roda JC,Willem II
+23/02/2002,1 - 1,Vitesse,Den Bosch
+20/02/2002,1 - 4,Den Bosch,Groningen
+20/02/2002,0 - 4,Sparta Rotterdam,AZ
+17/02/2002,0 - 0,AZ,Ajax
+17/02/2002,1 - 2,Twente,NAC Breda
+17/02/2002,2 - 1,Vitesse,Feyenoord
+16/02/2002,2 - 1,De Graafschap,Roda JC
+16/02/2002,3 - 0,Heerenveen,Willem II
+16/02/2002,0 - 4,NEC,PSV
+15/02/2002,1 - 1,Den Bosch,Sparta Rotterdam
+10/02/2002,3 - 1,Ajax,RKC Waalwijk
+10/02/2002,0 - 1,Groningen,Feyenoord
+10/02/2002,1 - 4,Utrecht,NEC
+09/02/2002,0 - 2,AZ,Heerenveen
+09/02/2002,1 - 3,Sparta Rotterdam,De Graafschap
+09/02/2002,1 - 1,Vitesse,Fortuna Sittard
+08/02/2002,4 - 0,Twente,Den Bosch
+06/02/2002,1 - 0,Feyenoord,Fortuna Sittard
+06/02/2002,2 - 2,NAC Breda,Sparta Rotterdam
+06/02/2002,1 - 0,Roda JC,Utrecht
+05/02/2002,2 - 1,RKC Waalwijk,PSV
+03/02/2002,5 - 0,Feyenoord,Roda JC
+03/02/2002,3 - 0,Groningen,NAC Breda
+03/02/2002,0 - 0,Utrecht,Heerenveen
+03/02/2002,1 - 3,Willem II,Ajax
+02/02/2002,0 - 0,AZ,Vitesse
+02/02/2002,1 - 0,Den Bosch,RKC Waalwijk
+02/02/2002,0 - 1,Fortuna Sittard,PSV
+02/02/2002,0 - 0,Twente,De Graafschap
+01/02/2002,1 - 1,NEC,Sparta Rotterdam
+31/01/2002,3 - 1,Willem II,Groningen
+27/01/2002,0 - 1,Den Bosch,Ajax
+27/01/2002,0 - 1,RKC Waalwijk,Willem II
+27/01/2002,2 - 2,Utrecht,Feyenoord
+27/01/2002,2 - 1,Vitesse,NEC
+26/01/2002,3 - 2,AZ,Groningen
+26/01/2002,5 - 0,De Graafschap,Fortuna Sittard
+26/01/2002,3 - 1,PSV,NAC Breda
+26/01/2002,2 - 1,Roda JC,Twente
+25/01/2002,1 - 4,Sparta Rotterdam,Heerenveen
+23/12/2001,1 - 0,NEC,Roda JC
+23/12/2001,3 - 1,Utrecht,Ajax
+22/12/2001,2 - 1,NAC Breda,Heerenveen
+22/12/2001,8 - 0,PSV,Groningen
+22/12/2001,1 - 1,Vitesse,RKC Waalwijk
+22/12/2001,3 - 3,Willem II,Twente
+19/12/2001,5 - 1,Ajax,Vitesse
+19/12/2001,3 - 3,Fortuna Sittard,Utrecht
+19/12/2001,2 - 0,Heerenveen,Den Bosch
+19/12/2001,3 - 2,Twente,Feyenoord
+16/12/2001,0 - 0,Feyenoord,PSV
+16/12/2001,2 - 2,Groningen,Utrecht
+16/12/2001,1 - 0,NEC,Heerenveen
+16/12/2001,1 - 1,RKC Waalwijk,Sparta Rotterdam
+15/12/2001,1 - 1,De Graafschap,Willem II
+15/12/2001,4 - 1,Den Bosch,Vitesse
+15/12/2001,1 - 1,Roda JC,Ajax
+15/12/2001,0 - 0,Twente,AZ
+14/12/2001,2 - 3,Fortuna Sittard,NAC Breda
+09/12/2001,5 - 0,Feyenoord,NEC
+09/12/2001,0 - 0,Groningen,Sparta Rotterdam
+09/12/2001,1 - 0,PSV,Twente
+08/12/2001,1 - 2,AZ,Roda JC
+08/12/2001,0 - 1,NAC Breda,RKC Waalwijk
+08/12/2001,2 - 2,Willem II,Heerenveen
+07/12/2001,1 - 3,Fortuna Sittard,Den Bosch
+07/12/2001,2 - 1,Vitesse,De Graafschap
+04/12/2001,4 - 0,Ajax,Fortuna Sittard
+02/12/2001,0 - 0,Sparta Rotterdam,NEC
+02/12/2001,3 - 1,Utrecht,Vitesse
+02/12/2001,2 - 2,Willem II,NAC Breda
+01/12/2001,1 - 0,Heerenveen,Feyenoord
+01/12/2001,3 - 0,PSV,AZ
+01/12/2001,3 - 0,RKC Waalwijk,Roda JC
+01/12/2001,1 - 1,Twente,Fortuna Sittard
+30/11/2001,1 - 2,De Graafschap,Groningen
+28/11/2001,3 - 2,Ajax,Twente
+28/11/2001,1 - 3,NEC,NAC Breda
+28/11/2001,2 - 3,RKC Waalwijk,Feyenoord
+28/11/2001,1 - 0,Roda JC,Fortuna Sittard
+28/11/2001,3 - 2,Sparta Rotterdam,Willem II
+28/11/2001,3 - 3,Utrecht,PSV
+27/11/2001,3 - 1,Den Bosch,De Graafschap
+27/11/2001,0 - 1,Groningen,AZ
+25/11/2001,1 - 3,Ajax,PSV
+25/11/2001,3 - 1,Feyenoord,Willem II
+25/11/2001,0 - 3,NEC,Utrecht
+24/11/2001,3 - 0,De Graafschap,Sparta Rotterdam
+24/11/2001,1 - 4,Fortuna Sittard,RKC Waalwijk
+24/11/2001,5 - 0,NAC Breda,Groningen
+24/11/2001,0 - 0,Twente,Heerenveen
+24/11/2001,2 - 0,Vitesse,Roda JC
+23/11/2001,3 - 2,AZ,Den Bosch
+18/11/2001,1 - 3,Ajax,NAC Breda
+18/11/2001,4 - 2,Groningen,Fortuna Sittard
+18/11/2001,6 - 0,Utrecht,De Graafschap
+17/11/2001,0 - 1,AZ,RKC Waalwijk
+17/11/2001,1 - 3,Den Bosch,Twente
+17/11/2001,3 - 2,Feyenoord,Vitesse
+17/11/2001,3 - 1,PSV,NEC
+17/11/2001,1 - 1,Willem II,Roda JC
+16/11/2001,3 - 0,Heerenveen,Sparta Rotterdam
+04/11/2001,1 - 1,De Graafschap,Ajax
+04/11/2001,2 - 1,NAC Breda,Feyenoord
+04/11/2001,3 - 1,Roda JC,Groningen
+04/11/2001,1 - 1,Utrecht,Twente
+03/11/2001,1 - 0,Fortuna Sittard,Heerenveen
+03/11/2001,1 - 0,NEC,AZ
+03/11/2001,3 - 3,RKC Waalwijk,Den Bosch
+03/11/2001,2 - 1,Sparta Rotterdam,PSV
+02/11/2001,1 - 1,Willem II,Vitesse
+30/10/2001,2 - 3,Sparta Rotterdam,NAC Breda
+28/10/2001,4 - 1,Ajax,Willem II
+28/10/2001,4 - 0,Feyenoord,Utrecht
+28/10/2001,2 - 0,Groningen,Den Bosch
+27/10/2001,3 - 0,AZ,Fortuna Sittard
+27/10/2001,1 - 0,Heerenveen,De Graafschap
+27/10/2001,2 - 0,PSV,RKC Waalwijk
+27/10/2001,0 - 0,Twente,Vitesse
+26/10/2001,0 - 0,Roda JC,NEC
+24/10/2001,5 - 1,Heerenveen,Ajax
+21/10/2001,1 - 1,Den Bosch,Utrecht
+21/10/2001,1 - 1,Groningen,Heerenveen
+21/10/2001,2 - 0,NEC,Twente
+20/10/2001,1 - 3,AZ,Feyenoord
+20/10/2001,4 - 0,PSV,De Graafschap
+20/10/2001,0 - 3,Sparta Rotterdam,Roda JC
+20/10/2001,1 - 0,Vitesse,NAC Breda
+20/10/2001,3 - 1,Willem II,RKC Waalwijk
+17/10/2001,1 - 1,NAC Breda,Willem II
+17/10/2001,1 - 0,Vitesse,Groningen
+14/10/2001,4 - 2,De Graafschap,Twente
+14/10/2001,1 - 0,Feyenoord,Groningen
+14/10/2001,0 - 0,NAC Breda,Den Bosch
+14/10/2001,1 - 0,NEC,Vitesse
+14/10/2001,3 - 1,Utrecht,Willem II
+13/10/2001,3 - 4,Fortuna Sittard,Sparta Rotterdam
+13/10/2001,2 - 1,Heerenveen,AZ
+13/10/2001,0 - 2,RKC Waalwijk,Ajax
+12/10/2001,0 - 1,Roda JC,PSV
+10/10/2001,5 - 0,Ajax,NEC
+10/10/2001,1 - 2,Heerenveen,Utrecht
+09/10/2001,1 - 1,AZ,PSV
+09/10/2001,2 - 1,NAC Breda,Roda JC
+09/10/2001,2 - 0,RKC Waalwijk,De Graafschap
+09/10/2001,0 - 0,Twente,Willem II
+07/10/2001,1 - 1,Sparta Rotterdam,Den Bosch
+30/09/2001,0 - 0,Den Bosch,Feyenoord
+30/09/2001,1 - 4,Groningen,Ajax
+30/09/2001,0 - 2,Roda JC,Heerenveen
+30/09/2001,1 - 1,Sparta Rotterdam,Twente
+30/09/2001,2 - 1,Utrecht,RKC Waalwijk
+29/09/2001,2 - 2,Fortuna Sittard,NEC
+29/09/2001,0 - 2,PSV,Vitesse
+29/09/2001,2 - 2,Willem II,AZ
+28/09/2001,4 - 2,De Graafschap,NAC Breda
+23/09/2001,3 - 0,Ajax,Sparta Rotterdam
+23/09/2001,1 - 0,AZ,Utrecht
+23/09/2001,0 - 2,De Graafschap,Vitesse
+23/09/2001,1 - 0,NEC,Groningen
+22/09/2001,4 - 1,Heerenveen,PSV
+22/09/2001,1 - 0,RKC Waalwijk,Fortuna Sittard
+21/09/2001,4 - 1,Roda JC,Den Bosch
+16/09/2001,1 - 0,Ajax,AZ
+16/09/2001,2 - 1,Den Bosch,NEC
+16/09/2001,3 - 0,Groningen,Twente
+16/09/2001,2 - 1,RKC Waalwijk,Heerenveen
+16/09/2001,4 - 1,Utrecht,Roda JC
+15/09/2001,2 - 0,Feyenoord,De Graafschap
+15/09/2001,2 - 0,NAC Breda,PSV
+15/09/2001,1 - 1,Vitesse,Sparta Rotterdam
+14/09/2001,1 - 2,Fortuna Sittard,Willem II
+09/09/2001,0 - 0,Sparta Rotterdam,RKC Waalwijk
+09/09/2001,3 - 1,Utrecht,Groningen
+09/09/2001,1 - 1,Willem II,Den Bosch
+08/09/2001,2 - 1,AZ,NAC Breda
+08/09/2001,0 - 3,NEC,Feyenoord
+08/09/2001,3 - 0,PSV,Fortuna Sittard
+08/09/2001,0 - 1,Roda JC,De Graafschap
+08/09/2001,0 - 2,Twente,Ajax
+07/09/2001,1 - 1,Heerenveen,Vitesse
+26/08/2001,4 - 0,Den Bosch,Fortuna Sittard
+26/08/2001,1 - 2,Feyenoord,Ajax
+26/08/2001,4 - 0,RKC Waalwijk,Groningen
+25/08/2001,3 - 0,AZ,Sparta Rotterdam
+25/08/2001,1 - 1,De Graafschap,NEC
+25/08/2001,3 - 0,Twente,Roda JC
+25/08/2001,1 - 0,Vitesse,Utrecht
+25/08/2001,3 - 1,Willem II,PSV
+24/08/2001,5 - 0,Heerenveen,NAC Breda
+22/08/2001,2 - 1,Fortuna Sittard,De Graafschap
+22/08/2001,1 - 0,Groningen,Willem II
+22/08/2001,1 - 0,NEC,RKC Waalwijk
+22/08/2001,3 - 2,PSV,Den Bosch
+22/08/2001,0 - 2,Roda JC,Feyenoord
+22/08/2001,3 - 1,Sparta Rotterdam,Utrecht
+22/08/2001,1 - 0,Vitesse,AZ
+21/08/2001,3 - 3,NAC Breda,Twente
+19/08/2001,1 - 1,Ajax,Roda JC
+19/08/2001,5 - 0,Feyenoord,Sparta Rotterdam
+19/08/2001,0 - 0,Fortuna Sittard,Vitesse
+19/08/2001,3 - 1,Willem II,NEC
+18/08/2001,3 - 0,De Graafschap,AZ
+18/08/2001,0 - 0,Den Bosch,Heerenveen
+18/08/2001,2 - 2,Groningen,PSV
+18/08/2001,1 - 0,NAC Breda,Utrecht
+17/08/2001,1 - 0,Twente,RKC Waalwijk

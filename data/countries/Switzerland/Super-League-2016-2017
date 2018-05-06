@@ -1,0 +1,181 @@
+date,score,home_team,away_team
+02/06/2017,4 - 1,Basel,St. Gallen
+02/06/2017,0 - 1,Lugano,Luzern
+02/06/2017,1 - 1,Sion,Grasshopper
+02/06/2017,1 - 3,Vaduz,Thun
+02/06/2017,2 - 0,Young Boys,Lausanne Sport
+28/05/2017,1 - 3,Grasshopper,Basel
+28/05/2017,1 - 2,Lausanne Sport,Lugano
+28/05/2017,2 - 2,Luzern,Vaduz
+28/05/2017,1 - 1,St. Gallen,Sion
+28/05/2017,0 - 0,Thun,Young Boys
+21/05/2017,2 - 1,Young Boys,Basel
+21/05/2017,2 - 3,Sion,Luzern
+21/05/2017,4 - 1,St. Gallen,Grasshopper
+20/05/2017,2 - 1,Lugano,Vaduz
+20/05/2017,0 - 0,Lausanne Sport,Thun
+18/05/2017,2 - 2,Basel,Sion
+17/05/2017,3 - 1,Thun,Grasshopper
+17/05/2017,0 - 3,Luzern,Lausanne Sport
+17/05/2017,1 - 0,Vaduz,Young Boys
+16/05/2017,3 - 2,Lugano,St. Gallen
+14/05/2017,4 - 1,Young Boys,Luzern
+14/05/2017,3 - 3,Basel,Thun
+14/05/2017,1 - 1,Grasshopper,Lausanne Sport
+13/05/2017,2 - 0,St. Gallen,Vaduz
+13/05/2017,2 - 0,Sion,Lugano
+07/05/2017,0 - 1,Sion,Young Boys
+07/05/2017,0 - 1,Lausanne Sport,St. Gallen
+07/05/2017,2 - 2,Lugano,Basel
+06/05/2017,2 - 4,Vaduz,Grasshopper
+06/05/2017,3 - 1,Thun,Luzern
+30/04/2017,0 - 1,Grasshopper,Lugano
+30/04/2017,0 - 2,St. Gallen,Young Boys
+30/04/2017,2 - 1,Thun,Sion
+29/04/2017,1 - 3,Lausanne Sport,Vaduz
+28/04/2017,1 - 2,Luzern,Basel
+23/04/2017,0 - 1,Sion,Lausanne Sport
+23/04/2017,1 - 2,St. Gallen,Thun
+23/04/2017,1 - 2,Young Boys,Lugano
+22/04/2017,2 - 2,Basel,Vaduz
+22/04/2017,4 - 1,Grasshopper,Luzern
+17/04/2017,2 - 0,Luzern,St. Gallen
+17/04/2017,2 - 1,Lugano,Thun
+17/04/2017,0 - 1,Young Boys,Grasshopper
+15/04/2017,0 - 4,Lausanne Sport,Basel
+15/04/2017,0 - 1,Vaduz,Sion
+09/04/2017,1 - 1,Basel,Young Boys
+09/04/2017,4 - 2,Lugano,Sion
+09/04/2017,0 - 2,Vaduz,Luzern
+08/04/2017,3 - 1,Grasshopper,St. Gallen
+08/04/2017,2 - 4,Thun,Lausanne Sport
+02/04/2017,0 - 0,Lausanne Sport,Grasshopper
+02/04/2017,0 - 2,Luzern,Lugano
+02/04/2017,3 - 2,Young Boys,Vaduz
+01/04/2017,0 - 3,St. Gallen,Basel
+01/04/2017,2 - 1,Sion,Thun
+19/03/2017,0 - 1,Vaduz,Lausanne Sport
+19/03/2017,0 - 2,Lugano,Young Boys
+19/03/2017,2 - 2,Thun,St. Gallen
+18/03/2017,1 - 0,Basel,Grasshopper
+18/03/2017,0 - 0,Luzern,Sion
+12/03/2017,0 - 1,Sion,Basel
+12/03/2017,0 - 0,Lausanne Sport,Young Boys
+12/03/2017,5 - 2,Thun,Lugano
+11/03/2017,1 - 1,St. Gallen,Luzern
+11/03/2017,1 - 2,Grasshopper,Vaduz
+05/03/2017,1 - 1,Luzern,Grasshopper
+05/03/2017,1 - 2,Sion,St. Gallen
+05/03/2017,1 - 1,Vaduz,Basel
+04/03/2017,2 - 1,Lugano,Lausanne Sport
+04/03/2017,3 - 2,Young Boys,Thun
+26/02/2017,0 - 1,St. Gallen,Lugano
+26/02/2017,3 - 1,Basel,Luzern
+26/02/2017,0 - 1,Lausanne Sport,Sion
+25/02/2017,2 - 3,Grasshopper,Young Boys
+25/02/2017,4 - 3,Thun,Vaduz
+19/02/2017,0 - 1,Grasshopper,Sion
+19/02/2017,4 - 3,Basel,Lausanne Sport
+19/02/2017,1 - 1,Vaduz,Lugano
+18/02/2017,2 - 2,Young Boys,St. Gallen
+18/02/2017,1 - 1,Luzern,Thun
+12/02/2017,4 - 1,Luzern,Young Boys
+12/02/2017,4 - 2,Sion,Vaduz
+12/02/2017,2 - 1,St. Gallen,Lausanne Sport
+11/02/2017,3 - 0,Lugano,Grasshopper
+11/02/2017,0 - 2,Thun,Basel
+05/02/2017,3 - 1,Young Boys,Sion
+05/02/2017,4 - 4,Lausanne Sport,Luzern
+05/02/2017,1 - 1,Vaduz,St. Gallen
+04/02/2017,4 - 0,Basel,Lugano
+04/02/2017,0 - 1,Grasshopper,Thun
+11/12/2016,2 - 3,Thun,Young Boys
+11/12/2016,0 - 0,Grasshopper,Lugano
+11/12/2016,3 - 1,Sion,Luzern
+10/12/2016,1 - 0,Basel,St. Gallen
+10/12/2016,1 - 1,Vaduz,Lausanne Sport
+04/12/2016,2 - 1,St. Gallen,Sion
+04/12/2016,1 - 2,Lausanne Sport,Grasshopper
+04/12/2016,1 - 1,Lugano,Thun
+03/12/2016,3 - 1,Young Boys,Basel
+03/12/2016,3 - 0,Luzern,Vaduz
+27/11/2016,1 - 2,Sion,Basel
+27/11/2016,1 - 2,Lausanne Sport,Young Boys
+27/11/2016,5 - 1,Vaduz,Lugano
+26/11/2016,2 - 2,Grasshopper,St. Gallen
+26/11/2016,1 - 2,Thun,Luzern
+20/11/2016,2 - 1,Luzern,Lugano
+20/11/2016,2 - 0,St. Gallen,Lausanne Sport
+20/11/2016,4 - 3,Young Boys,Sion
+19/11/2016,6 - 0,Basel,Vaduz
+19/11/2016,1 - 1,Grasshopper,Thun
+06/11/2016,2 - 2,Luzern,Young Boys
+06/11/2016,2 - 3,Lugano,St. Gallen
+06/11/2016,0 - 0,Vaduz,Grasshopper
+05/11/2016,2 - 1,Basel,Lausanne Sport
+05/11/2016,2 - 3,Thun,Sion
+30/10/2016,0 - 0,St. Gallen,Thun
+30/10/2016,2 - 3,Lausanne Sport,Luzern
+30/10/2016,5 - 0,Young Boys,Vaduz
+29/10/2016,0 - 2,Grasshopper,Basel
+29/10/2016,5 - 1,Sion,Lugano
+23/10/2016,0 - 2,Lausanne Sport,Sion
+23/10/2016,3 - 0,Luzern,St. Gallen
+23/10/2016,4 - 0,Young Boys,Grasshopper
+22/10/2016,2 - 2,Lugano,Basel
+22/10/2016,2 - 3,Vaduz,Thun
+16/10/2016,0 - 0,Lugano,Young Boys
+16/10/2016,4 - 2,Sion,Grasshopper
+16/10/2016,0 - 2,St. Gallen,Vaduz
+15/10/2016,3 - 0,Basel,Luzern
+15/10/2016,1 - 0,Thun,Lausanne Sport
+02/10/2016,3 - 2,Grasshopper,Luzern
+02/10/2016,4 - 1,Lausanne Sport,Lugano
+02/10/2016,2 - 2,Young Boys,St. Gallen
+01/10/2016,1 - 1,Basel,Thun
+01/10/2016,2 - 5,Vaduz,Sion
+25/09/2016,0 - 0,Sion,Young Boys
+25/09/2016,2 - 1,Grasshopper,Vaduz
+25/09/2016,2 - 2,Thun,Lugano
+24/09/2016,1 - 3,St. Gallen,Basel
+24/09/2016,1 - 3,Luzern,Lausanne Sport
+22/09/2016,2 - 0,Lugano,Grasshopper
+21/09/2016,1 - 2,Lausanne Sport,Basel
+21/09/2016,2 - 2,Luzern,Sion
+21/09/2016,0 - 0,Vaduz,Young Boys
+20/09/2016,1 - 2,Thun,St. Gallen
+11/09/2016,0 - 2,St. Gallen,Lugano
+11/09/2016,5 - 0,Lausanne Sport,Vaduz
+11/09/2016,1 - 0,Sion,Thun
+10/09/2016,3 - 1,Basel,Grasshopper
+10/09/2016,2 - 1,Young Boys,Luzern
+28/08/2016,0 - 3,Thun,Basel
+28/08/2016,4 - 1,Grasshopper,Young Boys
+28/08/2016,3 - 0,St. Gallen,Luzern
+27/08/2016,3 - 1,Sion,Vaduz
+27/08/2016,1 - 1,Lugano,Lausanne Sport
+21/08/2016,2 - 0,Vaduz,St. Gallen
+21/08/2016,2 - 1,Grasshopper,Sion
+21/08/2016,3 - 0,Luzern,Thun
+20/08/2016,4 - 1,Basel,Lugano
+20/08/2016,7 - 2,Young Boys,Lausanne Sport
+11/08/2016,1 - 0,Lausanne Sport,St. Gallen
+11/08/2016,2 - 1,Thun,Grasshopper
+10/08/2016,3 - 0,Basel,Young Boys
+10/08/2016,3 - 1,Lugano,Sion
+10/08/2016,1 - 3,Vaduz,Luzern
+07/08/2016,2 - 1,St. Gallen,Grasshopper
+07/08/2016,0 - 2,Lugano,Vaduz
+07/08/2016,2 - 3,Luzern,Basel
+06/08/2016,1 - 3,Sion,Lausanne Sport
+06/08/2016,4 - 1,Young Boys,Thun
+31/07/2016,4 - 3,Luzern,Grasshopper
+31/07/2016,4 - 4,Lausanne Sport,Thun
+31/07/2016,1 - 5,Vaduz,Basel
+30/07/2016,1 - 2,Young Boys,Lugano
+30/07/2016,2 - 1,Sion,St. Gallen
+24/07/2016,3 - 0,Basel,Sion
+24/07/2016,2 - 0,Grasshopper,Lausanne Sport
+24/07/2016,1 - 1,Thun,Vaduz
+23/07/2016,0 - 2,St. Gallen,Young Boys
+23/07/2016,1 - 2,Lugano,Luzern

@@ -1,0 +1,381 @@
+date,score,home_team,away_team
+17/06/2007,1 - 5,Gimnàstic Tarragona,Barcelona
+17/06/2007,1 - 2,Osasuna,Atlético Madrid
+17/06/2007,3 - 1,Real Madrid,Mallorca
+17/06/2007,1 - 1,Recreativo Huelva,Real Zaragoza
+17/06/2007,0 - 1,Sevilla,Villarreal
+17/06/2007,2 - 0,Athletic Club,Levante
+17/06/2007,2 - 1,Celta de Vigo,Getafe
+17/06/2007,1 - 3,Espanyol,Deportivo La Coruña
+17/06/2007,0 - 2,Racing Santander,Real Betis
+17/06/2007,3 - 3,Valencia,Real Sociedad
+10/06/2007,2 - 5,Deportivo La Coruña,Recreativo Huelva
+10/06/2007,0 - 1,Getafe,Gimnàstic Tarragona
+09/06/2007,2 - 3,Atlético Madrid,Celta de Vigo
+09/06/2007,2 - 2,Barcelona,Espanyol
+09/06/2007,4 - 2,Levante,Valencia
+09/06/2007,0 - 0,Mallorca,Sevilla
+09/06/2007,0 - 5,Real Betis,Osasuna
+09/06/2007,0 - 0,Real Sociedad,Racing Santander
+09/06/2007,2 - 2,Real Zaragoza,Real Madrid
+09/06/2007,3 - 1,Villarreal,Athletic Club
+27/05/2007,3 - 1,Sevilla,Real Zaragoza
+27/05/2007,0 - 2,Gimnàstic Tarragona,Atlético Madrid
+27/05/2007,1 - 0,Athletic Club,Mallorca
+27/05/2007,2 - 1,Celta de Vigo,Real Betis
+27/05/2007,2 - 0,Osasuna,Real Sociedad
+27/05/2007,2 - 3,Racing Santander,Levante
+27/05/2007,0 - 1,Recreativo Huelva,Espanyol
+26/05/2007,1 - 0,Barcelona,Getafe
+26/05/2007,3 - 1,Real Madrid,Deportivo La Coruña
+26/05/2007,2 - 3,Valencia,Villarreal
+20/05/2007,0 - 6,Atlético Madrid,Barcelona
+20/05/2007,2 - 3,Recreativo Huelva,Real Madrid
+20/05/2007,1 - 2,Deportivo La Coruña,Sevilla
+20/05/2007,1 - 5,Espanyol,Getafe
+20/05/2007,1 - 4,Levante,Osasuna
+20/05/2007,3 - 1,Real Sociedad,Celta de Vigo
+20/05/2007,2 - 1,Villarreal,Racing Santander
+19/05/2007,4 - 3,Real Zaragoza,Athletic Club
+19/05/2007,0 - 1,Mallorca,Valencia
+19/05/2007,1 - 1,Real Betis,Gimnàstic Tarragona
+13/05/2007,2 - 0,Valencia,Real Zaragoza
+13/05/2007,1 - 1,Barcelona,Real Betis
+13/05/2007,1 - 1,Athletic Club,Deportivo La Coruña
+13/05/2007,1 - 2,Celta de Vigo,Levante
+13/05/2007,1 - 4,Getafe,Atlético Madrid
+13/05/2007,1 - 3,Gimnàstic Tarragona,Real Sociedad
+13/05/2007,1 - 4,Osasuna,Villarreal
+13/05/2007,0 - 2,Racing Santander,Mallorca
+12/05/2007,2 - 1,Sevilla,Recreativo Huelva
+12/05/2007,4 - 3,Real Madrid,Espanyol
+06/05/2007,3 - 2,Real Madrid,Sevilla
+06/05/2007,2 - 1,Espanyol,Atlético Madrid
+06/05/2007,2 - 0,Levante,Gimnàstic Tarragona
+06/05/2007,3 - 1,Mallorca,Osasuna
+06/05/2007,0 - 2,Real Betis,Getafe
+06/05/2007,0 - 0,Real Zaragoza,Racing Santander
+06/05/2007,0 - 0,Recreativo Huelva,Athletic Club
+06/05/2007,1 - 0,Villarreal,Celta de Vigo
+05/05/2007,1 - 2,Deportivo La Coruña,Valencia
+05/05/2007,0 - 2,Real Sociedad,Barcelona
+29/04/2007,1 - 4,Athletic Club,Real Madrid
+29/04/2007,1 - 0,Barcelona,Levante
+29/04/2007,0 - 3,Celta de Vigo,Mallorca
+29/04/2007,1 - 0,Getafe,Real Sociedad
+29/04/2007,0 - 3,Gimnàstic Tarragona,Villarreal
+29/04/2007,2 - 2,Osasuna,Real Zaragoza
+29/04/2007,0 - 0,Racing Santander,Deportivo La Coruña
+29/04/2007,3 - 1,Sevilla,Espanyol
+28/04/2007,2 - 0,Valencia,Recreativo Huelva
+28/04/2007,0 - 0,Atlético Madrid,Real Betis
+22/04/2007,2 - 0,Villarreal,Barcelona
+22/04/2007,4 - 1,Sevilla,Athletic Club
+22/04/2007,1 - 0,Deportivo La Coruña,Osasuna
+22/04/2007,2 - 2,Espanyol,Real Betis
+22/04/2007,1 - 1,Levante,Getafe
+22/04/2007,1 - 0,Mallorca,Gimnàstic Tarragona
+22/04/2007,2 - 0,Real Zaragoza,Celta de Vigo
+22/04/2007,4 - 2,Recreativo Huelva,Racing Santander
+21/04/2007,2 - 1,Real Madrid,Valencia
+21/04/2007,2 - 0,Real Sociedad,Atlético Madrid
+15/04/2007,2 - 0,Valencia,Sevilla
+15/04/2007,1 - 0,Barcelona,Mallorca
+15/04/2007,2 - 1,Athletic Club,Espanyol
+15/04/2007,1 - 0,Atlético Madrid,Levante
+15/04/2007,1 - 0,Celta de Vigo,Deportivo La Coruña
+15/04/2007,3 - 0,Getafe,Villarreal
+15/04/2007,1 - 0,Gimnàstic Tarragona,Real Zaragoza
+15/04/2007,1 - 1,Osasuna,Recreativo Huelva
+14/04/2007,0 - 1,Real Betis,Real Sociedad
+14/04/2007,2 - 1,Racing Santander,Real Madrid
+08/04/2007,0 - 1,Villarreal,Atlético Madrid
+08/04/2007,2 - 0,Real Madrid,Osasuna
+08/04/2007,1 - 0,Deportivo La Coruña,Gimnàstic Tarragona
+08/04/2007,1 - 0,Espanyol,Real Sociedad
+08/04/2007,1 - 1,Levante,Real Betis
+08/04/2007,2 - 0,Mallorca,Getafe
+08/04/2007,4 - 2,Recreativo Huelva,Celta de Vigo
+08/04/2007,0 - 0,Sevilla,Racing Santander
+07/04/2007,1 - 0,Athletic Club,Valencia
+07/04/2007,1 - 0,Real Zaragoza,Barcelona
+01/04/2007,0 - 0,Osasuna,Sevilla
+01/04/2007,1 - 2,Celta de Vigo,Real Madrid
+01/04/2007,1 - 1,Atlético Madrid,Mallorca
+01/04/2007,2 - 2,Getafe,Real Zaragoza
+01/04/2007,1 - 1,Gimnàstic Tarragona,Recreativo Huelva
+01/04/2007,5 - 4,Racing Santander,Athletic Club
+31/03/2007,2 - 1,Barcelona,Deportivo La Coruña
+31/03/2007,1 - 0,Real Sociedad,Levante
+31/03/2007,3 - 2,Valencia,Espanyol
+31/03/2007,3 - 3,Real Betis,Villarreal
+18/03/2007,2 - 0,Sevilla,Celta de Vigo
+18/03/2007,2 - 0,Real Madrid,Gimnàstic Tarragona
+18/03/2007,1 - 0,Deportivo La Coruña,Getafe
+18/03/2007,1 - 1,Espanyol,Levante
+18/03/2007,1 - 0,Real Zaragoza,Atlético Madrid
+18/03/2007,1 - 1,Villarreal,Real Sociedad
+17/03/2007,0 - 3,Athletic Club,Osasuna
+17/03/2007,2 - 0,Mallorca,Real Betis
+17/03/2007,0 - 4,Recreativo Huelva,Barcelona
+17/03/2007,0 - 2,Valencia,Racing Santander
+11/03/2007,1 - 1,Osasuna,Valencia
+11/03/2007,2 - 0,Atlético Madrid,Deportivo La Coruña
+11/03/2007,1 - 1,Celta de Vigo,Athletic Club
+11/03/2007,1 - 1,Getafe,Recreativo Huelva
+11/03/2007,1 - 0,Gimnàstic Tarragona,Sevilla
+11/03/2007,1 - 1,Racing Santander,Espanyol
+11/03/2007,1 - 1,Real Betis,Real Zaragoza
+11/03/2007,3 - 1,Real Sociedad,Mallorca
+10/03/2007,3 - 3,Barcelona,Real Madrid
+10/03/2007,0 - 2,Levante,Villarreal
+04/03/2007,1 - 0,Recreativo Huelva,Atlético Madrid
+04/03/2007,1 - 1,Real Madrid,Getafe
+04/03/2007,0 - 2,Athletic Club,Gimnàstic Tarragona
+04/03/2007,0 - 1,Deportivo La Coruña,Real Betis
+04/03/2007,1 - 1,Espanyol,Villarreal
+04/03/2007,3 - 1,Mallorca,Levante
+04/03/2007,1 - 0,Racing Santander,Osasuna
+04/03/2007,3 - 2,Real Zaragoza,Real Sociedad
+03/03/2007,2 - 1,Sevilla,Barcelona
+03/03/2007,1 - 0,Valencia,Celta de Vigo
+25/02/2007,3 - 0,Barcelona,Athletic Club
+25/02/2007,1 - 1,Gimnàstic Tarragona,Valencia
+25/02/2007,2 - 2,Celta de Vigo,Racing Santander
+25/02/2007,0 - 0,Getafe,Sevilla
+25/02/2007,0 - 0,Levante,Real Zaragoza
+25/02/2007,0 - 2,Osasuna,Espanyol
+25/02/2007,0 - 0,Real Betis,Recreativo Huelva
+25/02/2007,2 - 1,Villarreal,Mallorca
+24/02/2007,1 - 1,Atlético Madrid,Real Madrid
+24/02/2007,0 - 1,Real Sociedad,Deportivo La Coruña
+18/02/2007,3 - 1,Sevilla,Atlético Madrid
+18/02/2007,2 - 1,Valencia,Barcelona
+18/02/2007,2 - 0,Athletic Club,Getafe
+18/02/2007,0 - 0,Deportivo La Coruña,Levante
+18/02/2007,3 - 1,Espanyol,Mallorca
+18/02/2007,0 - 1,Osasuna,Celta de Vigo
+18/02/2007,4 - 1,Racing Santander,Gimnàstic Tarragona
+18/02/2007,1 - 0,Recreativo Huelva,Real Sociedad
+17/02/2007,1 - 0,Real Zaragoza,Villarreal
+17/02/2007,0 - 0,Real Madrid,Real Betis
+11/02/2007,1 - 0,Atlético Madrid,Athletic Club
+11/02/2007,2 - 0,Barcelona,Racing Santander
+11/02/2007,0 - 2,Celta de Vigo,Espanyol
+11/02/2007,3 - 0,Getafe,Valencia
+11/02/2007,2 - 3,Gimnàstic Tarragona,Osasuna
+11/02/2007,2 - 1,Levante,Recreativo Huelva
+11/02/2007,2 - 1,Mallorca,Real Zaragoza
+11/02/2007,0 - 2,Villarreal,Deportivo La Coruña
+10/02/2007,0 - 0,Real Betis,Sevilla
+10/02/2007,1 - 2,Real Sociedad,Real Madrid
+04/02/2007,0 - 0,Osasuna,Barcelona
+04/02/2007,0 - 1,Real Madrid,Levante
+04/02/2007,1 - 2,Athletic Club,Real Betis
+04/02/2007,1 - 1,Celta de Vigo,Gimnàstic Tarragona
+04/02/2007,1 - 0,Racing Santander,Getafe
+04/02/2007,2 - 1,Recreativo Huelva,Villarreal
+04/02/2007,0 - 0,Sevilla,Real Sociedad
+03/02/2007,3 - 1,Valencia,Atlético Madrid
+03/02/2007,1 - 0,Deportivo La Coruña,Mallorca
+03/02/2007,1 - 2,Espanyol,Real Zaragoza
+28/01/2007,2 - 1,Real Betis,Valencia
+28/01/2007,3 - 1,Barcelona,Celta de Vigo
+28/01/2007,2 - 0,Getafe,Osasuna
+28/01/2007,4 - 0,Gimnàstic Tarragona,Espanyol
+28/01/2007,2 - 4,Levante,Sevilla
+28/01/2007,2 - 1,Mallorca,Recreativo Huelva
+28/01/2007,0 - 2,Real Sociedad,Athletic Club
+28/01/2007,1 - 1,Real Zaragoza,Deportivo La Coruña
+27/01/2007,1 - 0,Villarreal,Real Madrid
+27/01/2007,1 - 1,Atlético Madrid,Racing Santander
+24/01/2007,1 - 1,Real Betis,Barcelona
+21/01/2007,0 - 1,Mallorca,Real Madrid
+21/01/2007,3 - 0,Barcelona,Gimnàstic Tarragona
+21/01/2007,0 - 0,Deportivo La Coruña,Espanyol
+21/01/2007,1 - 0,Getafe,Celta de Vigo
+21/01/2007,0 - 0,Levante,Athletic Club
+21/01/2007,1 - 1,Real Betis,Racing Santander
+21/01/2007,0 - 1,Real Sociedad,Valencia
+21/01/2007,0 - 0,Real Zaragoza,Recreativo Huelva
+20/01/2007,0 - 0,Villarreal,Sevilla
+20/01/2007,1 - 0,Atlético Madrid,Osasuna
+14/01/2007,1 - 0,Real Madrid,Real Zaragoza
+14/01/2007,1 - 3,Celta de Vigo,Atlético Madrid
+14/01/2007,0 - 1,Athletic Club,Villarreal
+14/01/2007,1 - 3,Gimnàstic Tarragona,Getafe
+14/01/2007,5 - 1,Osasuna,Real Betis
+14/01/2007,1 - 0,Racing Santander,Real Sociedad
+14/01/2007,1 - 1,Recreativo Huelva,Deportivo La Coruña
+14/01/2007,1 - 2,Sevilla,Mallorca
+13/01/2007,3 - 1,Espanyol,Barcelona
+13/01/2007,3 - 0,Valencia,Levante
+07/01/2007,0 - 1,Villarreal,Valencia
+07/01/2007,2 - 0,Deportivo La Coruña,Real Madrid
+07/01/2007,0 - 1,Espanyol,Recreativo Huelva
+07/01/2007,1 - 1,Getafe,Barcelona
+07/01/2007,2 - 0,Levante,Racing Santander
+07/01/2007,1 - 3,Mallorca,Athletic Club
+07/01/2007,1 - 0,Real Betis,Celta de Vigo
+06/01/2007,2 - 1,Real Zaragoza,Sevilla
+06/01/2007,0 - 0,Atlético Madrid,Gimnàstic Tarragona
+06/01/2007,2 - 1,Real Sociedad,Osasuna
+21/12/2006,1 - 1,Barcelona,Atlético Madrid
+20/12/2006,0 - 3,Real Madrid,Recreativo Huelva
+20/12/2006,4 - 0,Sevilla,Deportivo La Coruña
+20/12/2006,0 - 0,Celta de Vigo,Real Sociedad
+20/12/2006,0 - 1,Getafe,Espanyol
+20/12/2006,0 - 1,Gimnàstic Tarragona,Real Betis
+20/12/2006,2 - 1,Osasuna,Levante
+20/12/2006,2 - 1,Racing Santander,Villarreal
+19/12/2006,0 - 0,Athletic Club,Real Zaragoza
+19/12/2006,3 - 1,Valencia,Mallorca
+17/12/2006,1 - 0,Atlético Madrid,Getafe
+17/12/2006,0 - 1,Espanyol,Real Madrid
+17/12/2006,1 - 1,Levante,Celta de Vigo
+17/12/2006,3 - 2,Real Sociedad,Gimnàstic Tarragona
+17/12/2006,1 - 3,Recreativo Huelva,Sevilla
+17/12/2006,1 - 4,Villarreal,Osasuna
+16/12/2006,0 - 1,Real Zaragoza,Valencia
+16/12/2006,0 - 2,Deportivo La Coruña,Athletic Club
+16/12/2006,1 - 2,Mallorca,Racing Santander
+10/12/2006,4 - 0,Valencia,Deportivo La Coruña
+10/12/2006,1 - 2,Atlético Madrid,Espanyol
+10/12/2006,4 - 2,Athletic Club,Recreativo Huelva
+10/12/2006,1 - 1,Celta de Vigo,Villarreal
+10/12/2006,1 - 1,Getafe,Real Betis
+10/12/2006,2 - 1,Gimnàstic Tarragona,Levante
+10/12/2006,3 - 0,Osasuna,Mallorca
+10/12/2006,0 - 2,Racing Santander,Real Zaragoza
+09/12/2006,2 - 1,Sevilla,Real Madrid
+09/12/2006,1 - 0,Barcelona,Real Sociedad
+03/12/2006,1 - 2,Real Zaragoza,Osasuna
+03/12/2006,2 - 1,Real Madrid,Athletic Club
+03/12/2006,0 - 0,Deportivo La Coruña,Racing Santander
+03/12/2006,2 - 1,Espanyol,Sevilla
+03/12/2006,2 - 2,Mallorca,Celta de Vigo
+03/12/2006,0 - 0,Real Sociedad,Getafe
+03/12/2006,2 - 0,Villarreal,Gimnàstic Tarragona
+02/12/2006,0 - 1,Real Betis,Atlético Madrid
+02/12/2006,1 - 1,Levante,Barcelona
+02/12/2006,2 - 0,Recreativo Huelva,Valencia
+26/11/2006,1 - 3,Athletic Club,Sevilla
+26/11/2006,0 - 1,Valencia,Real Madrid
+26/11/2006,1 - 1,Celta de Vigo,Real Zaragoza
+26/11/2006,0 - 0,Getafe,Levante
+26/11/2006,2 - 3,Gimnàstic Tarragona,Mallorca
+26/11/2006,4 - 1,Osasuna,Deportivo La Coruña
+26/11/2006,4 - 3,Racing Santander,Recreativo Huelva
+26/11/2006,1 - 1,Real Betis,Espanyol
+25/11/2006,1 - 1,Atlético Madrid,Real Sociedad
+25/11/2006,4 - 0,Barcelona,Villarreal
+19/11/2006,0 - 1,Deportivo La Coruña,Celta de Vigo
+19/11/2006,1 - 4,Mallorca,Barcelona
+19/11/2006,3 - 2,Espanyol,Athletic Club
+19/11/2006,0 - 3,Levante,Atlético Madrid
+19/11/2006,0 - 0,Real Sociedad,Real Betis
+19/11/2006,3 - 0,Real Zaragoza,Gimnàstic Tarragona
+19/11/2006,2 - 0,Recreativo Huelva,Osasuna
+19/11/2006,1 - 0,Villarreal,Getafe
+18/11/2006,3 - 0,Sevilla,Valencia
+18/11/2006,3 - 1,Real Madrid,Racing Santander
+12/11/2006,3 - 1,Barcelona,Real Zaragoza
+12/11/2006,1 - 4,Osasuna,Real Madrid
+12/11/2006,1 - 2,Celta de Vigo,Recreativo Huelva
+12/11/2006,1 - 0,Getafe,Mallorca
+12/11/2006,0 - 0,Gimnàstic Tarragona,Deportivo La Coruña
+12/11/2006,0 - 0,Racing Santander,Sevilla
+12/11/2006,2 - 1,Real Betis,Levante
+12/11/2006,1 - 1,Real Sociedad,Espanyol
+11/11/2006,1 - 1,Valencia,Athletic Club
+11/11/2006,3 - 1,Atlético Madrid,Villarreal
+05/11/2006,1 - 1,Espanyol,Valencia
+05/11/2006,1 - 2,Real Madrid,Celta de Vigo
+05/11/2006,0 - 0,Athletic Club,Racing Santander
+05/11/2006,3 - 1,Real Zaragoza,Getafe
+05/11/2006,2 - 1,Recreativo Huelva,Gimnàstic Tarragona
+05/11/2006,2 - 0,Sevilla,Osasuna
+05/11/2006,3 - 2,Villarreal,Real Betis
+04/11/2006,1 - 1,Deportivo La Coruña,Barcelona
+04/11/2006,2 - 0,Levante,Real Sociedad
+04/11/2006,0 - 0,Mallorca,Atlético Madrid
+29/10/2006,0 - 1,Atlético Madrid,Real Zaragoza
+29/10/2006,1 - 1,Osasuna,Athletic Club
+29/10/2006,1 - 2,Celta de Vigo,Sevilla
+29/10/2006,2 - 0,Getafe,Deportivo La Coruña
+29/10/2006,0 - 0,Levante,Espanyol
+29/10/2006,0 - 1,Real Betis,Mallorca
+29/10/2006,0 - 1,Real Sociedad,Villarreal
+28/10/2006,1 - 3,Gimnàstic Tarragona,Real Madrid
+28/10/2006,3 - 0,Barcelona,Recreativo Huelva
+28/10/2006,1 - 0,Racing Santander,Valencia
+22/10/2006,2 - 0,Real Madrid,Barcelona
+22/10/2006,0 - 1,Athletic Club,Celta de Vigo
+22/10/2006,2 - 2,Espanyol,Racing Santander
+22/10/2006,0 - 0,Mallorca,Real Sociedad
+22/10/2006,1 - 2,Recreativo Huelva,Getafe
+22/10/2006,2 - 1,Sevilla,Gimnàstic Tarragona
+22/10/2006,1 - 0,Valencia,Osasuna
+21/10/2006,1 - 0,Deportivo La Coruña,Atlético Madrid
+21/10/2006,2 - 1,Real Zaragoza,Real Betis
+21/10/2006,1 - 1,Villarreal,Levante
+15/10/2006,1 - 1,Real Betis,Deportivo La Coruña
+15/10/2006,3 - 1,Barcelona,Sevilla
+15/10/2006,3 - 2,Celta de Vigo,Valencia
+15/10/2006,2 - 3,Gimnàstic Tarragona,Athletic Club
+15/10/2006,0 - 1,Levante,Mallorca
+15/10/2006,0 - 1,Osasuna,Racing Santander
+15/10/2006,1 - 3,Real Sociedad,Real Zaragoza
+15/10/2006,0 - 0,Villarreal,Espanyol
+14/10/2006,2 - 1,Atlético Madrid,Recreativo Huelva
+14/10/2006,1 - 0,Getafe,Real Madrid
+01/10/2006,4 - 0,Valencia,Gimnàstic Tarragona
+01/10/2006,2 - 0,Deportivo La Coruña,Real Sociedad
+01/10/2006,0 - 0,Espanyol,Osasuna
+01/10/2006,1 - 2,Mallorca,Villarreal
+01/10/2006,1 - 1,Racing Santander,Celta de Vigo
+01/10/2006,1 - 1,Real Madrid,Atlético Madrid
+01/10/2006,2 - 2,Real Zaragoza,Levante
+01/10/2006,2 - 0,Recreativo Huelva,Real Betis
+01/10/2006,1 - 0,Sevilla,Getafe
+30/09/2006,1 - 3,Athletic Club,Barcelona
+24/09/2006,1 - 1,Barcelona,Valencia
+24/09/2006,0 - 2,Celta de Vigo,Osasuna
+24/09/2006,0 - 0,Getafe,Athletic Club
+24/09/2006,2 - 2,Gimnàstic Tarragona,Racing Santander
+24/09/2006,2 - 0,Levante,Deportivo La Coruña
+24/09/2006,1 - 0,Mallorca,Espanyol
+24/09/2006,2 - 3,Real Sociedad,Recreativo Huelva
+24/09/2006,3 - 2,Villarreal,Real Zaragoza
+24/09/2006,2 - 1,Atlético Madrid,Sevilla
+23/09/2006,0 - 1,Real Betis,Real Madrid
+17/09/2006,2 - 0,Real Madrid,Real Sociedad
+17/09/2006,1 - 4,Athletic Club,Atlético Madrid
+17/09/2006,2 - 1,Espanyol,Celta de Vigo
+17/09/2006,2 - 0,Osasuna,Gimnàstic Tarragona
+17/09/2006,0 - 3,Racing Santander,Barcelona
+17/09/2006,2 - 0,Real Zaragoza,Mallorca
+17/09/2006,0 - 1,Recreativo Huelva,Levante
+17/09/2006,2 - 0,Valencia,Getafe
+17/09/2006,3 - 2,Sevilla,Real Betis
+16/09/2006,2 - 0,Deportivo La Coruña,Villarreal
+10/09/2006,3 - 0,Real Zaragoza,Espanyol
+10/09/2006,1 - 0,Getafe,Racing Santander
+10/09/2006,1 - 2,Gimnàstic Tarragona,Celta de Vigo
+10/09/2006,1 - 4,Levante,Real Madrid
+10/09/2006,0 - 0,Mallorca,Deportivo La Coruña
+10/09/2006,3 - 0,Real Betis,Athletic Club
+10/09/2006,1 - 3,Real Sociedad,Sevilla
+10/09/2006,0 - 1,Villarreal,Recreativo Huelva
+09/09/2006,0 - 1,Atlético Madrid,Valencia
+09/09/2006,3 - 0,Barcelona,Osasuna
+29/08/2006,4 - 0,Sevilla,Levante
+28/08/2006,2 - 3,Celta de Vigo,Barcelona
+27/08/2006,1 - 1,Athletic Club,Real Sociedad
+27/08/2006,3 - 2,Deportivo La Coruña,Real Zaragoza
+27/08/2006,0 - 1,Espanyol,Gimnàstic Tarragona
+27/08/2006,0 - 2,Osasuna,Getafe
+27/08/2006,0 - 1,Racing Santander,Atlético Madrid
+27/08/2006,0 - 0,Real Madrid,Villarreal
+27/08/2006,1 - 1,Recreativo Huelva,Mallorca
+26/08/2006,2 - 1,Valencia,Real Betis

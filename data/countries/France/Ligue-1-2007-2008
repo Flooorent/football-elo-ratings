@@ -1,0 +1,381 @@
+date,score,home_team,away_team
+17/05/2008,1 - 3,Auxerre,Olympique Lyonnais
+17/05/2008,2 - 2,Lens,Bordeaux
+17/05/2008,1 - 1,Lorient,Lille
+17/05/2008,4 - 3,Metz,Le Mans
+17/05/2008,2 - 3,Nancy,Rennes
+17/05/2008,3 - 1,Nice,Caen
+17/05/2008,4 - 3,Olympique Marseille,Strasbourg
+17/05/2008,4 - 0,Saint-Étienne,Monaco
+17/05/2008,1 - 2,Sochaux,PSG
+17/05/2008,2 - 1,Toulouse,Valenciennes
+10/05/2008,2 - 0,Bordeaux,Sochaux
+10/05/2008,0 - 0,Le Mans,Olympique Marseille
+10/05/2008,2 - 1,Lille,Lens
+10/05/2008,1 - 2,Metz,Lorient
+10/05/2008,3 - 0,Monaco,Auxerre
+10/05/2008,1 - 0,Olympique Lyonnais,Nancy
+10/05/2008,1 - 1,PSG,Saint-Étienne
+10/05/2008,2 - 1,Rennes,Toulouse
+10/05/2008,1 - 4,Strasbourg,Caen
+10/05/2008,1 - 2,Valenciennes,Nice
+04/05/2008,1 - 2,Olympique Marseille,Bordeaux
+04/05/2008,0 - 0,Saint-Étienne,Lille
+03/05/2008,2 - 0,Auxerre,Valenciennes
+03/05/2008,2 - 2,Caen,Rennes
+03/05/2008,0 - 0,Lens,Monaco
+03/05/2008,0 - 0,Lorient,Le Mans
+03/05/2008,3 - 0,Nancy,Strasbourg
+03/05/2008,0 - 0,Sochaux,Metz
+03/05/2008,1 - 1,Toulouse,PSG
+03/05/2008,0 - 0,Nice,Olympique Lyonnais
+27/04/2008,2 - 3,Monaco,Olympique Marseille
+27/04/2008,1 - 1,Valenciennes,Nancy
+26/04/2008,0 - 0,Bordeaux,Nice
+26/04/2008,3 - 2,Le Mans,Lens
+26/04/2008,3 - 2,Lille,Toulouse
+26/04/2008,0 - 1,Metz,Saint-Étienne
+26/04/2008,2 - 2,Olympique Lyonnais,Caen
+26/04/2008,3 - 0,Rennes,Strasbourg
+26/04/2008,1 - 1,Sochaux,Lorient
+26/04/2008,3 - 1,PSG,Auxerre
+20/04/2008,1 - 3,Olympique Marseille,Lille
+20/04/2008,0 - 1,Toulouse,Bordeaux
+19/04/2008,0 - 0,Auxerre,Metz
+19/04/2008,3 - 0,Caen,PSG
+19/04/2008,1 - 1,Nancy,Le Mans
+19/04/2008,0 - 2,Nice,Monaco
+19/04/2008,1 - 0,Rennes,Valenciennes
+19/04/2008,1 - 0,Saint-Étienne,Lorient
+19/04/2008,1 - 2,Strasbourg,Olympique Lyonnais
+19/04/2008,3 - 2,Lens,Sochaux
+13/04/2008,2 - 3,PSG,Nice
+13/04/2008,2 - 1,Bordeaux,Caen
+12/04/2008,3 - 0,Le Mans,Auxerre
+12/04/2008,2 - 1,Lille,Nancy
+12/04/2008,1 - 0,Lorient,Lens
+12/04/2008,1 - 2,Metz,Olympique Marseille
+12/04/2008,0 - 2,Monaco,Toulouse
+12/04/2008,1 - 1,Sochaux,Saint-Étienne
+12/04/2008,2 - 0,Valenciennes,Strasbourg
+12/04/2008,1 - 1,Olympique Lyonnais,Rennes
+09/04/2008,2 - 0,Saint-Étienne,Lens
+06/04/2008,3 - 1,Olympique Marseille,Olympique Lyonnais
+06/04/2008,1 - 0,Nancy,PSG
+05/04/2008,0 - 1,Auxerre,Sochaux
+05/04/2008,1 - 0,Caen,Valenciennes
+05/04/2008,1 - 1,Lens,Metz
+05/04/2008,0 - 0,Nice,Lille
+05/04/2008,4 - 1,Saint-Étienne,Le Mans
+05/04/2008,0 - 2,Strasbourg,Monaco
+05/04/2008,0 - 0,Toulouse,Lorient
+05/04/2008,0 - 2,Rennes,Bordeaux
+02/04/2008,1 - 0,PSG,Strasbourg
+31/03/2008,1 - 2,Monaco,Rennes
+30/03/2008,1 - 2,Lorient,Olympique Marseille
+30/03/2008,1 - 1,Le Mans,Caen
+30/03/2008,0 - 2,Lille,Auxerre
+30/03/2008,0 - 2,Metz,Toulouse
+30/03/2008,1 - 0,Sochaux,Nice
+30/03/2008,1 - 2,Valenciennes,Olympique Lyonnais
+29/03/2008,2 - 1,Bordeaux,Nancy
+23/03/2008,4 - 2,Olympique Lyonnais,PSG
+23/03/2008,3 - 1,Rennes,Lens
+22/03/2008,1 - 3,Auxerre,Saint-Étienne
+22/03/2008,4 - 1,Caen,Monaco
+22/03/2008,1 - 2,Nice,Lorient
+22/03/2008,0 - 1,Olympique Marseille,Sochaux
+22/03/2008,0 - 1,Strasbourg,Lille
+22/03/2008,1 - 1,Toulouse,Le Mans
+22/03/2008,3 - 1,Valenciennes,Bordeaux
+22/03/2008,2 - 1,Nancy,Metz
+16/03/2008,3 - 3,Lens,Olympique Marseille
+16/03/2008,3 - 0,Bordeaux,Strasbourg
+15/03/2008,1 - 1,Le Mans,Rennes
+15/03/2008,5 - 0,Lille,Caen
+15/03/2008,1 - 1,Lorient,Auxerre
+15/03/2008,1 - 2,Metz,Nice
+15/03/2008,1 - 1,PSG,Valenciennes
+15/03/2008,0 - 0,Saint-Étienne,Toulouse
+15/03/2008,1 - 1,Sochaux,Nancy
+15/03/2008,0 - 3,Monaco,Olympique Lyonnais
+11/03/2008,1 - 2,Lens,Lille
+09/03/2008,4 - 2,Olympique Lyonnais,Bordeaux
+09/03/2008,2 - 0,Olympique Marseille,Saint-Étienne
+08/03/2008,0 - 0,Auxerre,Lens
+08/03/2008,0 - 0,Caen,Lorient
+08/03/2008,2 - 0,Nancy,Monaco
+08/03/2008,0 - 0,Nice,Le Mans
+08/03/2008,2 - 3,Strasbourg,Metz
+08/03/2008,1 - 2,Toulouse,Sochaux
+08/03/2008,0 - 0,Valenciennes,Lille
+08/03/2008,2 - 0,Rennes,PSG
+02/03/2008,3 - 0,Bordeaux,PSG
+02/03/2008,0 - 0,Saint-Étienne,Nice
+01/03/2008,0 - 1,Le Mans,Strasbourg
+01/03/2008,1 - 1,Lens,Toulouse
+01/03/2008,0 - 0,Lorient,Nancy
+01/03/2008,2 - 1,Metz,Caen
+01/03/2008,0 - 0,Monaco,Valenciennes
+01/03/2008,2 - 1,Olympique Marseille,Auxerre
+01/03/2008,0 - 0,Sochaux,Rennes
+01/03/2008,0 - 1,Lille,Olympique Lyonnais
+24/02/2008,0 - 0,Bordeaux,Lille
+24/02/2008,0 - 0,Toulouse,Olympique Marseille
+23/02/2008,2 - 1,Nancy,Lens
+23/02/2008,1 - 2,Nice,Auxerre
+23/02/2008,2 - 0,Olympique Lyonnais,Metz
+23/02/2008,1 - 1,PSG,Monaco
+23/02/2008,2 - 0,Rennes,Lorient
+23/02/2008,0 - 2,Strasbourg,Sochaux
+23/02/2008,1 - 2,Valenciennes,Le Mans
+23/02/2008,1 - 3,Caen,Saint-Étienne
+17/02/2008,2 - 1,Olympique Marseille,PSG
+17/02/2008,0 - 6,Monaco,Bordeaux
+16/02/2008,1 - 0,Auxerre,Toulouse
+16/02/2008,0 - 0,Lens,Nice
+16/02/2008,3 - 1,Lille,Rennes
+16/02/2008,1 - 0,Lorient,Strasbourg
+16/02/2008,2 - 1,Metz,Valenciennes
+16/02/2008,4 - 0,Saint-Étienne,Nancy
+16/02/2008,1 - 1,Sochaux,Caen
+16/02/2008,1 - 0,Le Mans,Olympique Lyonnais
+10/02/2008,0 - 2,Nice,Olympique Marseille
+10/02/2008,1 - 4,Caen,Lens
+09/02/2008,3 - 0,Bordeaux,Metz
+09/02/2008,0 - 0,Monaco,Lille
+09/02/2008,1 - 0,Nancy,Toulouse
+09/02/2008,4 - 1,Olympique Lyonnais,Sochaux
+09/02/2008,1 - 2,Rennes,Auxerre
+09/02/2008,3 - 0,Strasbourg,Saint-Étienne
+09/02/2008,3 - 0,Valenciennes,Lorient
+09/02/2008,0 - 0,PSG,Le Mans
+27/01/2008,1 - 1,Saint-Étienne,Olympique Lyonnais
+27/01/2008,1 - 0,Lorient,Bordeaux
+26/01/2008,0 - 0,Auxerre,Nancy
+26/01/2008,1 - 0,Le Mans,Monaco
+26/01/2008,2 - 2,Lens,Strasbourg
+26/01/2008,1 - 1,Metz,Rennes
+26/01/2008,6 - 1,Olympique Marseille,Caen
+26/01/2008,1 - 0,Sochaux,Valenciennes
+26/01/2008,1 - 1,Toulouse,Nice
+26/01/2008,0 - 0,Lille,PSG
+24/01/2008,1 - 0,Bordeaux,Saint-Étienne
+23/01/2008,1 - 1,Nancy,Olympique Marseille
+23/01/2008,0 - 0,Caen,Auxerre
+23/01/2008,3 - 1,Lille,Le Mans
+23/01/2008,1 - 0,Monaco,Sochaux
+23/01/2008,2 - 0,Olympique Lyonnais,Lorient
+23/01/2008,3 - 0,PSG,Metz
+23/01/2008,1 - 1,Rennes,Nice
+23/01/2008,2 - 0,Strasbourg,Toulouse
+23/01/2008,1 - 2,Valenciennes,Lens
+20/01/2008,3 - 0,Lens,Olympique Lyonnais
+20/01/2008,1 - 0,Nice,Nancy
+19/01/2008,1 - 1,Auxerre,Strasbourg
+19/01/2008,1 - 2,Le Mans,Bordeaux
+19/01/2008,1 - 4,Metz,Monaco
+19/01/2008,3 - 1,Olympique Marseille,Valenciennes
+19/01/2008,2 - 0,Saint-Étienne,Rennes
+19/01/2008,1 - 1,Sochaux,Lille
+19/01/2008,1 - 1,Toulouse,Caen
+19/01/2008,1 - 0,Lorient,PSG
+13/01/2008,3 - 1,Rennes,Olympique Marseille
+13/01/2008,3 - 0,PSG,Lens
+12/01/2008,4 - 1,Bordeaux,Auxerre
+12/01/2008,0 - 0,Caen,Nancy
+12/01/2008,0 - 2,Le Mans,Sochaux
+12/01/2008,1 - 1,Lille,Metz
+12/01/2008,1 - 0,Monaco,Lorient
+12/01/2008,3 - 2,Olympique Lyonnais,Toulouse
+12/01/2008,0 - 1,Strasbourg,Nice
+12/01/2008,2 - 0,Valenciennes,Saint-Étienne
+23/12/2007,0 - 1,Saint-Étienne,PSG
+23/12/2007,0 - 0,Toulouse,Rennes
+22/12/2007,1 - 0,Auxerre,Monaco
+22/12/2007,2 - 0,Caen,Strasbourg
+22/12/2007,2 - 0,Lorient,Metz
+22/12/2007,1 - 0,Nice,Valenciennes
+22/12/2007,1 - 0,Olympique Marseille,Le Mans
+22/12/2007,0 - 1,Sochaux,Bordeaux
+22/12/2007,1 - 1,Nancy,Olympique Lyonnais
+16/12/2007,2 - 2,Bordeaux,Olympique Marseille
+16/12/2007,0 - 0,Strasbourg,Nancy
+15/12/2007,0 - 0,Le Mans,Lorient
+15/12/2007,3 - 0,Lille,Saint-Étienne
+15/12/2007,1 - 2,Metz,Sochaux
+15/12/2007,2 - 0,Monaco,Lens
+15/12/2007,1 - 2,Rennes,Caen
+15/12/2007,3 - 0,Valenciennes,Auxerre
+15/12/2007,0 - 0,Olympique Lyonnais,Nice
+15/12/2007,1 - 2,PSG,Toulouse
+09/12/2007,0 - 1,Auxerre,PSG
+09/12/2007,1 - 1,Nice,Bordeaux
+08/12/2007,1 - 0,Caen,Olympique Lyonnais
+08/12/2007,1 - 3,Lens,Le Mans
+08/12/2007,2 - 1,Lorient,Sochaux
+08/12/2007,0 - 0,Nancy,Valenciennes
+08/12/2007,2 - 0,Saint-Étienne,Metz
+08/12/2007,3 - 0,Strasbourg,Rennes
+08/12/2007,1 - 0,Toulouse,Lille
+08/12/2007,2 - 0,Olympique Marseille,Monaco
+05/12/2007,1 - 1,Toulouse,Nancy
+02/12/2007,5 - 0,Olympique Lyonnais,Strasbourg
+02/12/2007,4 - 3,Bordeaux,Toulouse
+02/12/2007,3 - 0,Valenciennes,Rennes
+01/12/2007,1 - 1,Lille,Olympique Marseille
+01/12/2007,1 - 1,Lorient,Saint-Étienne
+01/12/2007,0 - 1,Metz,Auxerre
+01/12/2007,1 - 1,Monaco,Nice
+01/12/2007,0 - 1,PSG,Caen
+01/12/2007,0 - 2,Sochaux,Lens
+01/12/2007,2 - 1,Le Mans,Nancy
+28/11/2007,1 - 1,Lens,Caen
+25/11/2007,2 - 1,Nice,PSG
+25/11/2007,3 - 0,Auxerre,Le Mans
+24/11/2007,5 - 0,Caen,Bordeaux
+24/11/2007,1 - 1,Lens,Lorient
+24/11/2007,2 - 0,Nancy,Lille
+24/11/2007,3 - 1,Olympique Marseille,Metz
+24/11/2007,1 - 0,Saint-Étienne,Sochaux
+24/11/2007,0 - 0,Strasbourg,Valenciennes
+24/11/2007,0 - 0,Toulouse,Monaco
+24/11/2007,0 - 2,Rennes,Olympique Lyonnais
+11/11/2007,1 - 2,Olympique Lyonnais,Olympique Marseille
+11/11/2007,3 - 0,Bordeaux,Rennes
+11/11/2007,1 - 0,Lorient,Toulouse
+10/11/2007,1 - 1,Lille,Nice
+10/11/2007,1 - 2,Metz,Lens
+10/11/2007,3 - 0,Monaco,Strasbourg
+10/11/2007,0 - 0,PSG,Nancy
+10/11/2007,1 - 1,Sochaux,Auxerre
+10/11/2007,3 - 0,Valenciennes,Caen
+10/11/2007,3 - 2,Le Mans,Saint-Étienne
+04/11/2007,3 - 2,Lens,Saint-Étienne
+04/11/2007,3 - 2,Caen,Le Mans
+04/11/2007,0 - 0,Toulouse,Metz
+03/11/2007,0 - 1,Auxerre,Lille
+03/11/2007,0 - 0,Nice,Sochaux
+03/11/2007,2 - 0,Olympique Lyonnais,Valenciennes
+03/11/2007,0 - 0,Olympique Marseille,Lorient
+03/11/2007,0 - 1,Rennes,Monaco
+03/11/2007,1 - 2,Strasbourg,PSG
+03/11/2007,1 - 0,Nancy,Bordeaux
+28/10/2007,2 - 3,PSG,Olympique Lyonnais
+28/10/2007,1 - 1,Le Mans,Toulouse
+28/10/2007,1 - 2,Lens,Rennes
+27/10/2007,2 - 1,Bordeaux,Valenciennes
+27/10/2007,0 - 3,Lille,Strasbourg
+27/10/2007,0 - 0,Lorient,Nice
+27/10/2007,0 - 0,Monaco,Caen
+27/10/2007,0 - 0,Saint-Étienne,Auxerre
+27/10/2007,2 - 1,Sochaux,Olympique Marseille
+27/10/2007,0 - 0,Metz,Nancy
+21/10/2007,1 - 0,Olympique Marseille,Lens
+21/10/2007,1 - 1,Nancy,Sochaux
+20/10/2007,3 - 1,Olympique Lyonnais,Monaco
+20/10/2007,5 - 3,Auxerre,Lorient
+20/10/2007,1 - 0,Caen,Lille
+20/10/2007,3 - 1,Nice,Metz
+20/10/2007,3 - 0,Rennes,Le Mans
+20/10/2007,1 - 1,Strasbourg,Bordeaux
+20/10/2007,0 - 2,Toulouse,Saint-Étienne
+20/10/2007,0 - 0,Valenciennes,PSG
+07/10/2007,1 - 3,Bordeaux,Olympique Lyonnais
+07/10/2007,0 - 1,Sochaux,Toulouse
+06/10/2007,2 - 0,Le Mans,Nice
+06/10/2007,2 - 0,Lens,Auxerre
+06/10/2007,3 - 0,Lille,Valenciennes
+06/10/2007,0 - 0,Lorient,Caen
+06/10/2007,1 - 2,Metz,Strasbourg
+06/10/2007,1 - 3,PSG,Rennes
+06/10/2007,1 - 0,Saint-Étienne,Olympique Marseille
+05/10/2007,1 - 3,Monaco,Nancy
+30/09/2007,2 - 1,Caen,Toulouse
+29/09/2007,3 - 0,Olympique Lyonnais,Lens
+23/09/2007,1 - 1,Olympique Lyonnais,Lille
+23/09/2007,0 - 2,PSG,Bordeaux
+23/09/2007,0 - 2,Rennes,Sochaux
+22/09/2007,1 - 2,Caen,Metz
+22/09/2007,2 - 0,Nancy,Lorient
+22/09/2007,3 - 0,Nice,Saint-Étienne
+22/09/2007,0 - 1,Strasbourg,Le Mans
+22/09/2007,1 - 1,Toulouse,Lens
+22/09/2007,1 - 0,Valenciennes,Monaco
+22/09/2007,2 - 0,Auxerre,Olympique Marseille
+16/09/2007,0 - 1,Lorient,Rennes
+16/09/2007,1 - 2,Monaco,PSG
+15/09/2007,2 - 0,Auxerre,Nice
+15/09/2007,2 - 0,Le Mans,Valenciennes
+15/09/2007,1 - 0,Lens,Nancy
+15/09/2007,1 - 1,Lille,Bordeaux
+15/09/2007,1 - 5,Metz,Olympique Lyonnais
+15/09/2007,3 - 0,Saint-Étienne,Caen
+15/09/2007,0 - 0,Sochaux,Strasbourg
+15/09/2007,1 - 2,Olympique Marseille,Toulouse
+02/09/2007,1 - 0,Nice,Lens
+02/09/2007,1 - 1,PSG,Olympique Marseille
+01/09/2007,2 - 2,Caen,Sochaux
+01/09/2007,2 - 0,Nancy,Saint-Étienne
+01/09/2007,3 - 2,Olympique Lyonnais,Le Mans
+01/09/2007,2 - 2,Rennes,Lille
+01/09/2007,0 - 0,Strasbourg,Lorient
+01/09/2007,2 - 0,Toulouse,Auxerre
+01/09/2007,0 - 0,Valenciennes,Metz
+01/09/2007,2 - 1,Bordeaux,Monaco
+29/08/2007,1 - 2,Sochaux,Olympique Lyonnais
+29/08/2007,0 - 2,Auxerre,Rennes
+29/08/2007,0 - 2,Le Mans,PSG
+29/08/2007,0 - 1,Lille,Monaco
+29/08/2007,0 - 1,Metz,Bordeaux
+29/08/2007,2 - 0,Saint-Étienne,Strasbourg
+29/08/2007,0 - 2,Olympique Marseille,Nice
+28/08/2007,1 - 3,Lorient,Valenciennes
+26/08/2007,1 - 0,Olympique Lyonnais,Saint-Étienne
+26/08/2007,1 - 1,PSG,Lille
+25/08/2007,2 - 2,Bordeaux,Lorient
+25/08/2007,3 - 1,Monaco,Le Mans
+25/08/2007,4 - 1,Nancy,Auxerre
+25/08/2007,1 - 1,Nice,Toulouse
+25/08/2007,2 - 0,Rennes,Metz
+25/08/2007,2 - 1,Strasbourg,Lens
+25/08/2007,3 - 1,Valenciennes,Sochaux
+25/08/2007,1 - 2,Caen,Olympique Marseille
+19/08/2007,2 - 2,Olympique Marseille,Nancy
+19/08/2007,0 - 0,Lens,Valenciennes
+19/08/2007,1 - 1,Nice,Rennes
+18/08/2007,1 - 0,Auxerre,Caen
+18/08/2007,1 - 1,Le Mans,Lille
+18/08/2007,2 - 1,Lorient,Olympique Lyonnais
+18/08/2007,0 - 0,Metz,PSG
+18/08/2007,0 - 0,Saint-Étienne,Bordeaux
+18/08/2007,1 - 3,Toulouse,Strasbourg
+18/08/2007,0 - 3,Sochaux,Monaco
+16/08/2007,2 - 1,Nancy,Nice
+15/08/2007,1 - 0,Rennes,Saint-Étienne
+15/08/2007,1 - 2,Bordeaux,Le Mans
+15/08/2007,1 - 1,Lille,Sochaux
+15/08/2007,2 - 0,Monaco,Metz
+15/08/2007,1 - 3,PSG,Lorient
+15/08/2007,3 - 0,Strasbourg,Auxerre
+15/08/2007,2 - 1,Valenciennes,Olympique Marseille
+12/08/2007,0 - 0,Lens,PSG
+12/08/2007,1 - 2,Metz,Lille
+11/08/2007,0 - 2,Auxerre,Bordeaux
+11/08/2007,2 - 1,Lorient,Monaco
+11/08/2007,1 - 0,Nancy,Caen
+11/08/2007,1 - 0,Nice,Strasbourg
+11/08/2007,0 - 0,Olympique Marseille,Rennes
+11/08/2007,3 - 1,Saint-Étienne,Valenciennes
+11/08/2007,1 - 3,Sochaux,Le Mans
+11/08/2007,1 - 0,Toulouse,Olympique Lyonnais
+05/08/2007,2 - 0,Olympique Lyonnais,Auxerre
+05/08/2007,1 - 0,Le Mans,Metz
+04/08/2007,1 - 0,Bordeaux,Lens
+04/08/2007,1 - 0,Caen,Nice
+04/08/2007,0 - 0,Lille,Lorient
+04/08/2007,1 - 1,Monaco,Saint-Étienne
+04/08/2007,0 - 0,PSG,Sochaux
+04/08/2007,0 - 2,Rennes,Nancy
+04/08/2007,3 - 1,Valenciennes,Toulouse
+04/08/2007,0 - 0,Strasbourg,Olympique Marseille

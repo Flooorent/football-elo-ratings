@@ -1,0 +1,381 @@
+date,score,home_team,away_team
+15/05/2016,3 - 1,Rayo Vallecano,Levante
+15/05/2016,2 - 1,Real Betis,Getafe
+15/05/2016,2 - 0,Sporting Gijón,Villarreal
+15/05/2016,4 - 2,Espanyol,Eibar
+15/05/2016,4 - 1,Málaga,Las Palmas
+14/05/2016,3 - 1,Athletic Club,Sevilla
+14/05/2016,2 - 0,Atlético Madrid,Celta de Vigo
+14/05/2016,0 - 2,Deportivo La Coruña,Real Madrid
+14/05/2016,0 - 3,Granada,Barcelona
+13/05/2016,0 - 1,Valencia,Real Sociedad
+08/05/2016,5 - 0,Barcelona,Espanyol
+08/05/2016,1 - 0,Celta de Vigo,Málaga
+08/05/2016,1 - 1,Eibar,Real Betis
+08/05/2016,1 - 1,Getafe,Sporting Gijón
+08/05/2016,0 - 0,Las Palmas,Athletic Club
+08/05/2016,2 - 1,Levante,Atlético Madrid
+08/05/2016,3 - 2,Real Madrid,Valencia
+08/05/2016,2 - 1,Real Sociedad,Rayo Vallecano
+08/05/2016,1 - 4,Sevilla,Granada
+08/05/2016,0 - 2,Villarreal,Deportivo La Coruña
+02/05/2016,3 - 1,Málaga,Levante
+01/05/2016,0 - 2,Valencia,Villarreal
+01/05/2016,0 - 2,Deportivo La Coruña,Getafe
+01/05/2016,1 - 0,Espanyol,Sevilla
+01/05/2016,2 - 1,Athletic Club,Celta de Vigo
+30/04/2016,3 - 2,Granada,Las Palmas
+30/04/2016,0 - 2,Real Betis,Barcelona
+30/04/2016,1 - 0,Atlético Madrid,Rayo Vallecano
+30/04/2016,0 - 1,Real Sociedad,Real Madrid
+29/04/2016,2 - 0,Sporting Gijón,Eibar
+25/04/2016,2 - 1,Celta de Vigo,Granada
+24/04/2016,0 - 0,Villarreal,Real Sociedad
+24/04/2016,2 - 2,Getafe,Valencia
+24/04/2016,2 - 0,Sevilla,Real Betis
+24/04/2016,2 - 2,Levante,Athletic Club
+23/04/2016,1 - 1,Eibar,Deportivo La Coruña
+23/04/2016,6 - 0,Barcelona,Sporting Gijón
+23/04/2016,1 - 0,Atlético Madrid,Málaga
+23/04/2016,2 - 3,Rayo Vallecano,Real Madrid
+22/04/2016,4 - 0,Las Palmas,Espanyol
+21/04/2016,5 - 1,Granada,Levante
+21/04/2016,1 - 2,Real Sociedad,Getafe
+20/04/2016,3 - 0,Real Madrid,Villarreal
+20/04/2016,0 - 1,Athletic Club,Atlético Madrid
+20/04/2016,1 - 1,Málaga,Rayo Vallecano
+20/04/2016,2 - 1,Sporting Gijón,Sevilla
+20/04/2016,4 - 0,Valencia,Eibar
+20/04/2016,0 - 8,Deportivo La Coruña,Barcelona
+19/04/2016,1 - 0,Real Betis,Las Palmas
+19/04/2016,1 - 1,Espanyol,Celta de Vigo
+17/04/2016,1 - 2,Barcelona,Valencia
+17/04/2016,3 - 0,Atlético Madrid,Granada
+17/04/2016,2 - 1,Rayo Vallecano,Villarreal
+17/04/2016,1 - 1,Sevilla,Deportivo La Coruña
+17/04/2016,0 - 1,Málaga,Athletic Club
+16/04/2016,1 - 1,Celta de Vigo,Real Betis
+16/04/2016,2 - 1,Eibar,Real Sociedad
+16/04/2016,1 - 1,Las Palmas,Sporting Gijón
+16/04/2016,1 - 5,Getafe,Real Madrid
+15/04/2016,2 - 1,Levante,Espanyol
+11/04/2016,1 - 3,Deportivo La Coruña,Las Palmas
+10/04/2016,1 - 0,Athletic Club,Rayo Vallecano
+10/04/2016,2 - 0,Villarreal,Getafe
+10/04/2016,2 - 1,Valencia,Sevilla
+10/04/2016,0 - 1,Sporting Gijón,Celta de Vigo
+09/04/2016,1 - 0,Real Betis,Levante
+09/04/2016,1 - 0,Real Sociedad,Barcelona
+09/04/2016,1 - 3,Espanyol,Atlético Madrid
+09/04/2016,4 - 0,Real Madrid,Eibar
+08/04/2016,0 - 0,Granada,Málaga
+04/04/2016,0 - 0,Levante,Sporting Gijón
+03/04/2016,1 - 2,Sevilla,Real Sociedad
+03/04/2016,1 - 2,Eibar,Villarreal
+03/04/2016,1 - 1,Málaga,Espanyol
+03/04/2016,1 - 1,Athletic Club,Granada
+02/04/2016,1 - 1,Celta de Vigo,Deportivo La Coruña
+02/04/2016,1 - 2,Barcelona,Real Madrid
+02/04/2016,2 - 1,Las Palmas,Valencia
+02/04/2016,5 - 1,Atlético Madrid,Real Betis
+01/04/2016,2 - 0,Rayo Vallecano,Getafe
+20/03/2016,4 - 0,Real Madrid,Sevilla
+20/03/2016,0 - 2,Valencia,Celta de Vigo
+20/03/2016,2 - 2,Villarreal,Barcelona
+20/03/2016,2 - 1,Espanyol,Athletic Club
+19/03/2016,0 - 1,Real Betis,Málaga
+19/03/2016,2 - 1,Deportivo La Coruña,Levante
+19/03/2016,2 - 2,Granada,Rayo Vallecano
+19/03/2016,0 - 1,Real Sociedad,Las Palmas
+19/03/2016,2 - 1,Sporting Gijón,Atlético Madrid
+18/03/2016,1 - 1,Getafe,Eibar
+14/03/2016,1 - 1,Granada,Espanyol
+13/03/2016,1 - 2,Las Palmas,Real Madrid
+13/03/2016,3 - 1,Athletic Club,Real Betis
+13/03/2016,4 - 2,Sevilla,Villarreal
+13/03/2016,1 - 0,Levante,Valencia
+12/03/2016,1 - 1,Rayo Vallecano,Eibar
+12/03/2016,3 - 0,Atlético Madrid,Deportivo La Coruña
+12/03/2016,1 - 0,Celta de Vigo,Real Sociedad
+12/03/2016,6 - 0,Barcelona,Getafe
+11/03/2016,1 - 0,Málaga,Sporting Gijón
+07/03/2016,2 - 1,Espanyol,Rayo Vallecano
+06/03/2016,1 - 3,Valencia,Atlético Madrid
+06/03/2016,1 - 1,Real Sociedad,Levante
+06/03/2016,0 - 2,Sporting Gijón,Athletic Club
+06/03/2016,0 - 4,Eibar,Barcelona
+06/03/2016,2 - 0,Real Betis,Granada
+05/03/2016,3 - 3,Deportivo La Coruña,Málaga
+05/03/2016,1 - 1,Getafe,Sevilla
+05/03/2016,0 - 1,Villarreal,Las Palmas
+05/03/2016,7 - 1,Real Madrid,Celta de Vigo
+03/03/2016,1 - 5,Rayo Vallecano,Barcelona
+03/03/2016,0 - 3,Espanyol,Real Betis
+03/03/2016,2 - 0,Granada,Sporting Gijón
+02/03/2016,1 - 3,Levante,Real Madrid
+02/03/2016,4 - 1,Athletic Club,Deportivo La Coruña
+02/03/2016,0 - 0,Celta de Vigo,Villarreal
+02/03/2016,1 - 2,Málaga,Valencia
+02/03/2016,1 - 0,Sevilla,Eibar
+01/03/2016,4 - 0,Las Palmas,Getafe
+01/03/2016,3 - 0,Atlético Madrid,Real Sociedad
+28/02/2016,2 - 1,Barcelona,Sevilla
+28/02/2016,0 - 1,Deportivo La Coruña,Granada
+28/02/2016,0 - 3,Valencia,Athletic Club
+28/02/2016,3 - 0,Villarreal,Levante
+27/02/2016,1 - 1,Real Sociedad,Málaga
+27/02/2016,2 - 2,Real Betis,Rayo Vallecano
+27/02/2016,0 - 1,Getafe,Celta de Vigo
+27/02/2016,2 - 4,Sporting Gijón,Espanyol
+27/02/2016,0 - 1,Real Madrid,Atlético Madrid
+26/02/2016,0 - 1,Eibar,Las Palmas
+21/02/2016,0 - 0,Atlético Madrid,Villarreal
+21/02/2016,0 - 1,Athletic Club,Real Sociedad
+21/02/2016,1 - 2,Granada,Valencia
+21/02/2016,1 - 1,Málaga,Real Madrid
+21/02/2016,2 - 2,Rayo Vallecano,Sevilla
+20/02/2016,3 - 2,Celta de Vigo,Eibar
+20/02/2016,1 - 1,Real Betis,Sporting Gijón
+20/02/2016,1 - 0,Espanyol,Deportivo La Coruña
+20/02/2016,1 - 2,Las Palmas,Barcelona
+19/02/2016,3 - 0,Levante,Getafe
+17/02/2016,1 - 3,Sporting Gijón,Barcelona
+14/02/2016,6 - 1,Barcelona,Celta de Vigo
+14/02/2016,2 - 0,Eibar,Levante
+14/02/2016,0 - 1,Getafe,Atlético Madrid
+14/02/2016,2 - 0,Sevilla,Las Palmas
+14/02/2016,3 - 0,Real Sociedad,Granada
+13/02/2016,2 - 2,Deportivo La Coruña,Real Betis
+13/02/2016,2 - 1,Valencia,Espanyol
+13/02/2016,1 - 0,Villarreal,Málaga
+13/02/2016,4 - 2,Real Madrid,Athletic Club
+12/02/2016,2 - 2,Sporting Gijón,Rayo Vallecano
+08/02/2016,0 - 5,Espanyol,Real Sociedad
+07/02/2016,1 - 2,Granada,Real Madrid
+07/02/2016,1 - 1,Celta de Vigo,Sevilla
+07/02/2016,1 - 0,Real Betis,Valencia
+07/02/2016,0 - 2,Levante,Barcelona
+06/02/2016,1 - 1,Sporting Gijón,Deportivo La Coruña
+06/02/2016,0 - 0,Athletic Club,Villarreal
+06/02/2016,2 - 0,Rayo Vallecano,Las Palmas
+06/02/2016,3 - 1,Atlético Madrid,Eibar
+05/02/2016,3 - 0,Málaga,Getafe
+01/02/2016,2 - 2,Deportivo La Coruña,Rayo Vallecano
+31/01/2016,6 - 0,Real Madrid,Espanyol
+31/01/2016,2 - 1,Las Palmas,Celta de Vigo
+31/01/2016,0 - 1,Valencia,Sporting Gijón
+31/01/2016,3 - 1,Sevilla,Levante
+30/01/2016,2 - 1,Real Sociedad,Real Betis
+30/01/2016,1 - 0,Villarreal,Granada
+30/01/2016,1 - 2,Eibar,Málaga
+30/01/2016,0 - 1,Getafe,Athletic Club
+30/01/2016,2 - 1,Barcelona,Atlético Madrid
+25/01/2016,3 - 2,Levante,Las Palmas
+24/01/2016,1 - 1,Real Betis,Real Madrid
+24/01/2016,1 - 1,Deportivo La Coruña,Valencia
+24/01/2016,0 - 0,Atlético Madrid,Sevilla
+24/01/2016,5 - 2,Athletic Club,Eibar
+23/01/2016,3 - 0,Rayo Vallecano,Celta de Vigo
+23/01/2016,3 - 2,Granada,Getafe
+23/01/2016,2 - 2,Espanyol,Villarreal
+23/01/2016,1 - 2,Málaga,Barcelona
+22/01/2016,5 - 1,Sporting Gijón,Real Sociedad
+18/01/2016,5 - 1,Eibar,Granada
+17/01/2016,6 - 0,Barcelona,Athletic Club
+17/01/2016,3 - 1,Getafe,Espanyol
+17/01/2016,0 - 3,Las Palmas,Atlético Madrid
+17/01/2016,5 - 1,Real Madrid,Sporting Gijón
+17/01/2016,2 - 2,Valencia,Rayo Vallecano
+16/01/2016,1 - 1,Real Sociedad,Deportivo La Coruña
+16/01/2016,0 - 0,Villarreal,Real Betis
+16/01/2016,4 - 3,Celta de Vigo,Levante
+16/01/2016,2 - 1,Sevilla,Málaga
+10/01/2016,0 - 2,Celta de Vigo,Atlético Madrid
+10/01/2016,2 - 1,Eibar,Espanyol
+10/01/2016,1 - 1,Las Palmas,Málaga
+10/01/2016,2 - 0,Real Sociedad,Valencia
+10/01/2016,2 - 0,Villarreal,Sporting Gijón
+09/01/2016,2 - 1,Levante,Rayo Vallecano
+09/01/2016,5 - 0,Real Madrid,Deportivo La Coruña
+09/01/2016,1 - 0,Getafe,Real Betis
+09/01/2016,2 - 0,Sevilla,Athletic Club
+09/01/2016,4 - 0,Barcelona,Granada
+04/01/2016,1 - 2,Sporting Gijón,Getafe
+03/01/2016,2 - 2,Valencia,Real Madrid
+03/01/2016,2 - 2,Athletic Club,Las Palmas
+03/01/2016,1 - 2,Deportivo La Coruña,Villarreal
+03/01/2016,2 - 1,Granada,Sevilla
+03/01/2016,0 - 4,Real Betis,Eibar
+03/01/2016,2 - 2,Rayo Vallecano,Real Sociedad
+02/01/2016,2 - 0,Málaga,Celta de Vigo
+02/01/2016,1 - 0,Atlético Madrid,Levante
+02/01/2016,0 - 0,Espanyol,Barcelona
+31/12/2015,1 - 0,Villarreal,Valencia
+30/12/2015,4 - 1,Las Palmas,Granada
+30/12/2015,4 - 0,Barcelona,Real Betis
+30/12/2015,0 - 1,Celta de Vigo,Athletic Club
+30/12/2015,0 - 0,Getafe,Deportivo La Coruña
+30/12/2015,2 - 0,Eibar,Sporting Gijón
+30/12/2015,0 - 2,Rayo Vallecano,Atlético Madrid
+30/12/2015,2 - 0,Sevilla,Espanyol
+30/12/2015,0 - 1,Levante,Málaga
+30/12/2015,3 - 1,Real Madrid,Real Sociedad
+20/12/2015,1 - 0,Málaga,Atlético Madrid
+20/12/2015,2 - 0,Athletic Club,Levante
+20/12/2015,0 - 2,Granada,Celta de Vigo
+20/12/2015,0 - 2,Real Sociedad,Villarreal
+20/12/2015,10 - 2,Real Madrid,Rayo Vallecano
+19/12/2015,2 - 0,Deportivo La Coruña,Eibar
+19/12/2015,0 - 0,Real Betis,Sevilla
+19/12/2015,1 - 0,Espanyol,Las Palmas
+19/12/2015,2 - 2,Valencia,Getafe
+13/12/2015,1 - 0,Villarreal,Real Madrid
+13/12/2015,2 - 1,Atlético Madrid,Athletic Club
+13/12/2015,1 - 1,Eibar,Valencia
+13/12/2015,1 - 2,Rayo Vallecano,Málaga
+12/12/2015,1 - 0,Las Palmas,Real Betis
+12/12/2015,2 - 0,Sevilla,Sporting Gijón
+12/12/2015,1 - 0,Celta de Vigo,Espanyol
+12/12/2015,1 - 2,Levante,Granada
+12/12/2015,2 - 2,Barcelona,Deportivo La Coruña
+11/12/2015,1 - 1,Getafe,Real Sociedad
+07/12/2015,1 - 1,Espanyol,Levante
+06/12/2015,0 - 0,Athletic Club,Málaga
+06/12/2015,3 - 1,Sporting Gijón,Las Palmas
+06/12/2015,2 - 1,Villarreal,Rayo Vallecano
+06/12/2015,2 - 1,Real Sociedad,Eibar
+05/12/2015,1 - 1,Real Betis,Celta de Vigo
+05/12/2015,1 - 1,Deportivo La Coruña,Sevilla
+05/12/2015,1 - 1,Valencia,Barcelona
+05/12/2015,0 - 2,Granada,Atlético Madrid
+05/12/2015,4 - 1,Real Madrid,Getafe
+29/11/2015,1 - 0,Sevilla,Valencia
+29/11/2015,0 - 3,Rayo Vallecano,Athletic Club
+29/11/2015,0 - 2,Eibar,Real Madrid
+29/11/2015,2 - 0,Getafe,Villarreal
+28/11/2015,2 - 1,Celta de Vigo,Sporting Gijón
+28/11/2015,0 - 2,Las Palmas,Deportivo La Coruña
+28/11/2015,2 - 2,Málaga,Granada
+28/11/2015,1 - 0,Atlético Madrid,Espanyol
+28/11/2015,4 - 0,Barcelona,Real Sociedad
+27/11/2015,0 - 1,Levante,Real Betis
+23/11/2015,1 - 1,Getafe,Rayo Vallecano
+22/11/2015,0 - 1,Real Betis,Atlético Madrid
+22/11/2015,2 - 0,Granada,Athletic Club
+22/11/2015,1 - 1,Villarreal,Eibar
+22/11/2015,0 - 3,Sporting Gijón,Levante
+21/11/2015,2 - 0,Deportivo La Coruña,Celta de Vigo
+21/11/2015,1 - 1,Valencia,Las Palmas
+21/11/2015,2 - 0,Espanyol,Málaga
+21/11/2015,0 - 4,Real Madrid,Barcelona
+21/11/2015,2 - 0,Real Sociedad,Sevilla
+08/11/2015,3 - 2,Sevilla,Real Madrid
+08/11/2015,1 - 0,Atlético Madrid,Sporting Gijón
+08/11/2015,3 - 0,Barcelona,Villarreal
+08/11/2015,2 - 1,Athletic Club,Espanyol
+07/11/2015,0 - 1,Málaga,Real Betis
+07/11/2015,3 - 1,Eibar,Getafe
+07/11/2015,2 - 1,Rayo Vallecano,Granada
+07/11/2015,1 - 1,Levante,Deportivo La Coruña
+07/11/2015,1 - 5,Celta de Vigo,Valencia
+06/11/2015,2 - 0,Las Palmas,Real Sociedad
+01/11/2015,1 - 3,Real Betis,Athletic Club
+01/11/2015,1 - 0,Sporting Gijón,Málaga
+01/11/2015,1 - 1,Espanyol,Granada
+01/11/2015,1 - 0,Eibar,Rayo Vallecano
+31/10/2015,2 - 3,Real Sociedad,Celta de Vigo
+31/10/2015,0 - 2,Getafe,Barcelona
+31/10/2015,3 - 0,Valencia,Levante
+31/10/2015,2 - 1,Villarreal,Sevilla
+31/10/2015,3 - 1,Real Madrid,Las Palmas
+30/10/2015,1 - 1,Deportivo La Coruña,Atlético Madrid
+26/10/2015,3 - 0,Athletic Club,Sporting Gijón
+25/10/2015,2 - 1,Atlético Madrid,Valencia
+25/10/2015,3 - 1,Barcelona,Eibar
+25/10/2015,0 - 0,Las Palmas,Villarreal
+25/10/2015,0 - 4,Levante,Real Sociedad
+24/10/2015,2 - 0,Málaga,Deportivo La Coruña
+24/10/2015,5 - 0,Sevilla,Getafe
+24/10/2015,1 - 1,Granada,Real Betis
+24/10/2015,1 - 3,Celta de Vigo,Real Madrid
+23/10/2015,3 - 0,Rayo Vallecano,Espanyol
+19/10/2015,3 - 3,Sporting Gijón,Granada
+18/10/2015,2 - 2,Deportivo La Coruña,Athletic Club
+18/10/2015,4 - 0,Getafe,Las Palmas
+18/10/2015,0 - 2,Real Sociedad,Atlético Madrid
+18/10/2015,1 - 2,Villarreal,Celta de Vigo
+17/10/2015,1 - 3,Real Betis,Espanyol
+17/10/2015,3 - 0,Valencia,Málaga
+17/10/2015,5 - 2,Barcelona,Rayo Vallecano
+17/10/2015,1 - 1,Eibar,Sevilla
+17/10/2015,3 - 0,Real Madrid,Levante
+04/10/2015,1 - 1,Atlético Madrid,Real Madrid
+04/10/2015,1 - 0,Levante,Villarreal
+04/10/2015,3 - 1,Athletic Club,Valencia
+04/10/2015,0 - 2,Rayo Vallecano,Real Betis
+03/10/2015,3 - 1,Málaga,Real Sociedad
+03/10/2015,0 - 2,Las Palmas,Eibar
+03/10/2015,1 - 2,Espanyol,Sporting Gijón
+03/10/2015,1 - 1,Granada,Deportivo La Coruña
+03/10/2015,2 - 1,Sevilla,Barcelona
+02/10/2015,0 - 0,Celta de Vigo,Getafe
+27/09/2015,0 - 0,Real Sociedad,Athletic Club
+27/09/2015,3 - 0,Getafe,Levante
+27/09/2015,3 - 0,Deportivo La Coruña,Espanyol
+27/09/2015,1 - 2,Sporting Gijón,Real Betis
+26/09/2015,1 - 1,Eibar,Celta de Vigo
+26/09/2015,3 - 2,Sevilla,Rayo Vallecano
+26/09/2015,1 - 0,Villarreal,Atlético Madrid
+26/09/2015,0 - 0,Real Madrid,Málaga
+26/09/2015,2 - 1,Barcelona,Las Palmas
+25/09/2015,1 - 0,Valencia,Granada
+24/09/2015,1 - 2,Real Betis,Deportivo La Coruña
+23/09/2015,2 - 0,Las Palmas,Sevilla
+23/09/2015,0 - 1,Málaga,Villarreal
+23/09/2015,1 - 2,Athletic Club,Real Madrid
+23/09/2015,4 - 1,Celta de Vigo,Barcelona
+23/09/2015,2 - 2,Levante,Eibar
+23/09/2015,2 - 1,Rayo Vallecano,Sporting Gijón
+22/09/2015,0 - 3,Granada,Real Sociedad
+22/09/2015,2 - 0,Atlético Madrid,Getafe
+22/09/2015,1 - 0,Espanyol,Valencia
+20/09/2015,4 - 1,Barcelona,Levante
+20/09/2015,0 - 1,Las Palmas,Rayo Vallecano
+20/09/2015,3 - 1,Villarreal,Athletic Club
+20/09/2015,2 - 3,Deportivo La Coruña,Sporting Gijón
+20/09/2015,1 - 2,Sevilla,Celta de Vigo
+19/09/2015,2 - 3,Real Sociedad,Espanyol
+19/09/2015,0 - 2,Eibar,Atlético Madrid
+19/09/2015,0 - 0,Valencia,Real Betis
+19/09/2015,1 - 0,Real Madrid,Granada
+18/09/2015,1 - 0,Getafe,Málaga
+14/09/2015,1 - 3,Rayo Vallecano,Deportivo La Coruña
+13/09/2015,0 - 0,Málaga,Eibar
+13/09/2015,3 - 3,Celta de Vigo,Las Palmas
+13/09/2015,3 - 1,Athletic Club,Getafe
+13/09/2015,1 - 3,Granada,Villarreal
+12/09/2015,1 - 0,Real Betis,Real Sociedad
+12/09/2015,1 - 2,Atlético Madrid,Barcelona
+12/09/2015,0 - 1,Sporting Gijón,Valencia
+12/09/2015,0 - 6,Espanyol,Real Madrid
+11/09/2015,1 - 1,Levante,Sevilla
+30/08/2015,1 - 2,Getafe,Granada
+30/08/2015,0 - 0,Las Palmas,Levante
+30/08/2015,0 - 3,Sevilla,Atlético Madrid
+30/08/2015,1 - 1,Valencia,Deportivo La Coruña
+30/08/2015,2 - 0,Eibar,Athletic Club
+29/08/2015,5 - 0,Real Madrid,Real Betis
+29/08/2015,3 - 0,Celta de Vigo,Rayo Vallecano
+29/08/2015,1 - 0,Barcelona,Málaga
+29/08/2015,0 - 0,Real Sociedad,Sporting Gijón
+28/08/2015,3 - 1,Villarreal,Espanyol
+24/08/2015,1 - 3,Granada,Eibar
+23/08/2015,1 - 1,Real Betis,Villarreal
+23/08/2015,1 - 2,Levante,Celta de Vigo
+23/08/2015,0 - 0,Sporting Gijón,Real Madrid
+23/08/2015,0 - 1,Athletic Club,Barcelona
+22/08/2015,0 - 0,Rayo Vallecano,Valencia
+22/08/2015,1 - 0,Atlético Madrid,Las Palmas
+22/08/2015,0 - 0,Deportivo La Coruña,Real Sociedad
+22/08/2015,1 - 0,Espanyol,Getafe
+21/08/2015,0 - 0,Málaga,Sevilla

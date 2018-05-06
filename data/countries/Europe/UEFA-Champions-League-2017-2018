@@ -1,0 +1,220 @@
+date,score,home_team,away_team
+26/05/2018,document.write(timestamp_to_time(1527360300));18:45 GMT,[N] Real Madrid,Liverpool
+02/05/2018,4 - 2,Roma,Liverpool
+01/05/2018,2 - 2,Real Madrid,Bayern München
+25/04/2018,1 - 2,Bayern München,Real Madrid
+24/04/2018,5 - 2,Liverpool,Roma
+11/04/2018,0 - 0,Bayern München,Sevilla
+11/04/2018,1 - 3,Real Madrid,Juventus
+10/04/2018,1 - 2,Manchester City,Liverpool
+10/04/2018,3 - 0,Roma,Barcelona
+04/04/2018,4 - 1,Barcelona,Roma
+04/04/2018,3 - 0,Liverpool,Manchester City
+03/04/2018,0 - 3,Juventus,Real Madrid
+03/04/2018,1 - 2,Sevilla,Bayern München
+14/03/2018,3 - 0,Barcelona,Chelsea
+14/03/2018,1 - 3,Beşiktaş,Bayern München
+13/03/2018,1 - 2,Manchester United,Sevilla
+13/03/2018,1 - 0,Roma,Shakhtar Donetsk
+07/03/2018,1 - 2,Manchester City,Basel
+07/03/2018,1 - 2,Tottenham Hotspur,Juventus
+06/03/2018,0 - 0,Liverpool,Porto
+06/03/2018,1 - 2,PSG,Real Madrid
+21/02/2018,0 - 0,Sevilla,Manchester United
+21/02/2018,2 - 1,[N] Shakhtar Donetsk,Roma
+20/02/2018,5 - 0,Bayern München,Beşiktaş
+20/02/2018,1 - 1,Chelsea,Barcelona
+14/02/2018,0 - 5,Porto,Liverpool
+14/02/2018,3 - 1,Real Madrid,PSG
+13/02/2018,0 - 4,Basel,Manchester City
+13/02/2018,2 - 2,Juventus,Tottenham Hotspur
+05/12/2017,0 - 2,Benfica,Basel
+05/12/2017,2 - 1,Manchester United,CSKA Moskva
+22/11/2017,1 - 0,Basel,Manchester United
+22/11/2017,2 - 0,CSKA Moskva,Benfica
+31/10/2017,1 - 2,Basel,CSKA Moskva
+31/10/2017,2 - 0,Manchester United,Benfica
+18/10/2017,0 - 1,Benfica,Manchester United
+18/10/2017,0 - 2,CSKA Moskva,Basel
+27/09/2017,5 - 0,Basel,Benfica
+27/09/2017,1 - 4,CSKA Moskva,Manchester United
+12/09/2017,1 - 2,Benfica,CSKA Moskva
+12/09/2017,3 - 0,Manchester United,Basel
+05/12/2017,3 - 1,Bayern München,PSG
+05/12/2017,0 - 1,Celtic,Anderlecht
+22/11/2017,1 - 2,Anderlecht,Bayern München
+22/11/2017,7 - 1,PSG,Celtic
+31/10/2017,1 - 2,Celtic,Bayern München
+31/10/2017,5 - 0,PSG,Anderlecht
+18/10/2017,0 - 4,Anderlecht,PSG
+18/10/2017,3 - 0,Bayern München,Celtic
+27/09/2017,0 - 3,Anderlecht,Celtic
+27/09/2017,3 - 0,PSG,Bayern München
+12/09/2017,3 - 0,Bayern München,Anderlecht
+12/09/2017,0 - 5,Celtic,PSG
+05/12/2017,1 - 1,Chelsea,Atlético Madrid
+05/12/2017,1 - 0,Roma,Qarabağ
+22/11/2017,2 - 0,Atlético Madrid,Roma
+22/11/2017,0 - 4,Qarabağ,Chelsea
+31/10/2017,1 - 1,Atlético Madrid,Qarabağ
+31/10/2017,3 - 0,Roma,Chelsea
+18/10/2017,3 - 3,Chelsea,Roma
+18/10/2017,0 - 0,Qarabağ,Atlético Madrid
+27/09/2017,1 - 2,Atlético Madrid,Chelsea
+27/09/2017,1 - 2,Qarabağ,Roma
+12/09/2017,6 - 0,Chelsea,Qarabağ
+12/09/2017,0 - 0,Roma,Atlético Madrid
+05/12/2017,2 - 0,Barcelona,Sporting CP
+05/12/2017,0 - 2,Olympiakos Piraeus,Juventus
+22/11/2017,0 - 0,Juventus,Barcelona
+22/11/2017,3 - 1,Sporting CP,Olympiakos Piraeus
+31/10/2017,0 - 0,Olympiakos Piraeus,Barcelona
+31/10/2017,1 - 1,Sporting CP,Juventus
+18/10/2017,3 - 1,Barcelona,Olympiakos Piraeus
+18/10/2017,2 - 1,Juventus,Sporting CP
+27/09/2017,2 - 0,Juventus,Olympiakos Piraeus
+27/09/2017,0 - 1,Sporting CP,Barcelona
+12/09/2017,3 - 0,Barcelona,Juventus
+12/09/2017,2 - 3,Olympiakos Piraeus,Sporting CP
+06/12/2017,7 - 0,Liverpool,Spartak Moskva
+06/12/2017,1 - 1,Maribor,Sevilla
+21/11/2017,3 - 3,Sevilla,Liverpool
+21/11/2017,1 - 1,Spartak Moskva,Maribor
+01/11/2017,3 - 0,Liverpool,Maribor
+01/11/2017,2 - 1,Sevilla,Spartak Moskva
+17/10/2017,0 - 7,Maribor,Liverpool
+17/10/2017,5 - 1,Spartak Moskva,Sevilla
+26/09/2017,3 - 0,Sevilla,Maribor
+26/09/2017,1 - 1,Spartak Moskva,Liverpool
+13/09/2017,2 - 2,Liverpool,Sevilla
+13/09/2017,1 - 1,Maribor,Spartak Moskva
+06/12/2017,2 - 1,Feyenoord,Napoli
+06/12/2017,2 - 1,[N] Shakhtar Donetsk,Manchester City
+21/11/2017,1 - 0,Manchester City,Feyenoord
+21/11/2017,3 - 0,Napoli,Shakhtar Donetsk
+01/11/2017,2 - 4,Napoli,Manchester City
+01/11/2017,3 - 1,[N] Shakhtar Donetsk,Feyenoord
+17/10/2017,1 - 2,Feyenoord,Shakhtar Donetsk
+17/10/2017,2 - 1,Manchester City,Napoli
+26/09/2017,2 - 0,Manchester City,Shakhtar Donetsk
+26/09/2017,3 - 1,Napoli,Feyenoord
+13/09/2017,0 - 4,Feyenoord,Manchester City
+13/09/2017,2 - 1,[N] Shakhtar Donetsk,Napoli
+06/12/2017,5 - 2,Porto,Monaco
+06/12/2017,1 - 2,RB Leipzig,Beşiktaş
+21/11/2017,1 - 4,Monaco,RB Leipzig
+21/11/2017,1 - 1,Beşiktaş,Porto
+01/11/2017,3 - 1,Porto,RB Leipzig
+01/11/2017,1 - 1,Beşiktaş,Monaco
+17/10/2017,1 - 2,Monaco,Beşiktaş
+17/10/2017,3 - 2,RB Leipzig,Porto
+26/09/2017,2 - 0,Beşiktaş,RB Leipzig
+26/09/2017,0 - 3,Monaco,Porto
+13/09/2017,1 - 3,Porto,Beşiktaş
+13/09/2017,1 - 1,RB Leipzig,Monaco
+06/12/2017,3 - 2,Real Madrid,Borussia Dortmund
+06/12/2017,3 - 0,Tottenham Hotspur,APOEL
+21/11/2017,0 - 6,APOEL,Real Madrid
+21/11/2017,1 - 2,Borussia Dortmund,Tottenham Hotspur
+01/11/2017,1 - 1,Borussia Dortmund,APOEL
+01/11/2017,3 - 1,Tottenham Hotspur,Real Madrid
+17/10/2017,1 - 1,APOEL,Borussia Dortmund
+17/10/2017,1 - 1,Real Madrid,Tottenham Hotspur
+26/09/2017,0 - 3,APOEL,Tottenham Hotspur
+26/09/2017,1 - 3,Borussia Dortmund,Real Madrid
+13/09/2017,3 - 0,Real Madrid,APOEL
+13/09/2017,3 - 1,Tottenham Hotspur,Borussia Dortmund
+23/08/2017,2 - 0,CSKA Moskva,Young Boys
+23/08/2017,1 - 5,FCSB,Sporting CP
+23/08/2017,2 - 1,København,Qarabağ
+23/08/2017,4 - 2,Liverpool,Hoffenheim
+23/08/2017,0 - 0,Slavia Praha,APOEL
+22/08/2017,1 - 0,Maribor,Hapoel Be'er Sheva
+22/08/2017,0 - 2,Nice,Napoli
+22/08/2017,0 - 1,Rijeka,Olympiakos Piraeus
+22/08/2017,2 - 2,Sevilla,İstanbul Başakşehir
+22/08/2017,4 - 3,Astana,Celtic
+16/08/2017,5 - 0,Celtic,Astana
+16/08/2017,2 - 1,Hapoel Be'er Sheva,Maribor
+16/08/2017,1 - 2,İstanbul Başakşehir,Sevilla
+16/08/2017,2 - 0,Napoli,Nice
+16/08/2017,2 - 1,Olympiakos Piraeus,Rijeka
+15/08/2017,2 - 0,APOEL,Slavia Praha
+15/08/2017,1 - 2,Hoffenheim,Liverpool
+15/08/2017,0 - 0,Sporting CP,FCSB
+15/08/2017,0 - 1,Young Boys,CSKA Moskva
+15/08/2017,1 - 0,Qarabağ,København
+02/08/2017,2 - 2,Ajax,Nice
+02/08/2017,1 - 0,Legia Warszawa,Astana
+02/08/2017,2 - 2,Olympiakos Piraeus,Partizan
+02/08/2017,0 - 0,Rijeka,Salzburg
+02/08/2017,0 - 1,Rosenborg,Celtic
+02/08/2017,0 - 1,FH,Maribor
+02/08/2017,3 - 1,Ludogorets,Hapoel Be'er Sheva
+02/08/2017,1 - 4,Viktoria Plzeň,FCSB
+02/08/2017,2 - 0,Young Boys,Dynamo Kyiv
+02/08/2017,4 - 1,København,Vardar
+02/08/2017,2 - 0,İstanbul Başakşehir,Club Brugge
+02/08/2017,1 - 0, [ET] APOEL,Viitorul
+02/08/2017,2 - 1,BATE,Slavia Praha
+02/08/2017,1 - 0,CSKA Moskva,AEK Athens
+01/08/2017,1 - 2,Sheriff,Qarabağ
+26/07/2017,3 - 3,Club Brugge,İstanbul Başakşehir
+26/07/2017,0 - 0,Celtic,Rosenborg
+26/07/2017,1 - 1,Nice,Ajax
+26/07/2017,1 - 0,Maribor,FH
+26/07/2017,1 - 0,Viitorul,APOEL
+26/07/2017,2 - 0,Hapoel Be'er Sheva,Ludogorets
+26/07/2017,1 - 1,Salzburg,Rijeka
+26/07/2017,3 - 1,Dynamo Kyiv,Young Boys
+26/07/2017,3 - 1,Astana,Legia Warszawa
+25/07/2017,1 - 3,Partizan,Olympiakos Piraeus
+25/07/2017,1 - 0,Vardar,København
+25/07/2017,0 - 2,AEK Athens,CSKA Moskva
+25/07/2017,2 - 2,FCSB,Viktoria Plzeň
+25/07/2017,0 - 0,Qarabağ,Sheriff
+25/07/2017,1 - 0,Slavia Praha,BATE
+19/07/2017,2 - 3,Honvéd,Hapoel Be'er Sheva
+19/07/2017,4 - 0,Celtic,Linfield
+19/07/2017,6 - 0,Legia Warszawa,Mariehamn
+19/07/2017,3 - 0,Salzburg,Hibernians
+19/07/2017,1 - 1,Maribor,Zrinjski
+19/07/2017,4 - 1,Ludogorets,Žalgiris
+19/07/2017,1 - 2,København,Žilina
+19/07/2017,2 - 1,Kukësi,Sheriff
+19/07/2017,1 - 1, [ET] Rosenborg,Dundalk
+19/07/2017,0 - 1,F91 Dudelange,APOEL
+18/07/2017,0 - 0,Budućnost,Partizan
+18/07/2017,1 - 5,The New Saints,Rijeka
+18/07/2017,0 - 2,Víkingur,FH
+18/07/2017,0 - 1,Samtredia,Qarabağ
+18/07/2017,1 - 3,Alashkert,BATE
+18/07/2017,3 - 1,[N] Vardar,Malmö FF
+18/07/2017,1 - 1,Astana,Spartaks Jūrmala
+14/07/2017,0 - 2,Linfield,Celtic
+12/07/2017,1 - 1,FH,Víkingur
+12/07/2017,1 - 1,Dundalk,Rosenborg
+12/07/2017,1 - 3,Žilina,København
+12/07/2017,0 - 3,Mariehamn,Legia Warszawa
+12/07/2017,2 - 1,Žalgiris,Ludogorets
+12/07/2017,1 - 1,BATE,Alashkert
+12/07/2017,1 - 0,APOEL,F91 Dudelange
+12/07/2017,2 - 1,Hapoel Be'er Sheva,Honvéd
+12/07/2017,1 - 1,Malmö FF,Vardar
+12/07/2017,1 - 0,Sheriff,Kukësi
+12/07/2017,1 - 2,Zrinjski,Maribor
+12/07/2017,0 - 1,Spartaks Jūrmala,Astana
+11/07/2017,2 - 0,Partizan,Budućnost
+11/07/2017,2 - 0,Rijeka,The New Saints
+11/07/2017,0 - 3,Hibernians,Salzburg
+11/07/2017,5 - 0,Qarabağ,Samtredia
+04/07/2017,1 - 1,FC Santa Coloma,Alashkert
+04/07/2017,0 - 0,La Fiorita,Linfield
+04/07/2017,1 - 2,Europa,The New Saints [ET] 
+04/07/2017,0 - 1,FCI Tallinn,Hibernians
+04/07/2017,1 - 4,Trepça'89,Víkingur
+28/06/2017,1 - 0,Linfield,La Fiorita
+27/06/2017,2 - 0,Hibernians,FCI Tallinn
+27/06/2017,1 - 2,The New Saints,Europa
+27/06/2017,2 - 1,Víkingur,Trepça'89
+27/06/2017,1 - 0,Alashkert,FC Santa Coloma

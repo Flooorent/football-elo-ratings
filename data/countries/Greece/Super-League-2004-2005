@@ -1,0 +1,241 @@
+date,score,home_team,away_team
+25/05/2005,3 - 0,AEK Athens,Apollon Pontou
+25/05/2005,1 - 1,Ionikos,Xanthi
+25/05/2005,0 - 1,Iraklis,Olympiakos Piraeus
+25/05/2005,3 - 1,Kallithea,Aris
+25/05/2005,1 - 3,Kerkyra,Chalkidona
+25/05/2005,1 - 2,OFI,Panathinaikos
+25/05/2005,2 - 0,Panionios,Ergotelis
+25/05/2005,2 - 4,PAOK,Egaleo
+15/05/2005,2 - 1,Apollon Pontou,PAOK
+15/05/2005,0 - 2,Aris,Iraklis
+15/05/2005,2 - 1,Egaleo,Chalkidona
+15/05/2005,0 - 0,Ionikos,OFI
+15/05/2005,3 - 0,Olympiakos Piraeus,Panionios
+15/05/2005,0 - 0,Panathinaikos,AEK Athens
+15/05/2005,1 - 0,Xanthi,Kallithea
+14/05/2005,1 - 1,Ergotelis,Kerkyra
+08/05/2005,0 - 1,AEK Athens,Ionikos
+08/05/2005,2 - 3,Chalkidona,Apollon Pontou
+08/05/2005,2 - 0,Egaleo,Ergotelis
+08/05/2005,5 - 1,Iraklis,Kallithea
+08/05/2005,1 - 3,Kerkyra,Olympiakos Piraeus
+08/05/2005,1 - 0,OFI,Xanthi
+08/05/2005,1 - 1,Panionios,Aris
+08/05/2005,1 - 1,PAOK,Panathinaikos
+24/04/2005,2 - 0,Aris,Kerkyra
+24/04/2005,1 - 1,Kallithea,Panionios
+24/04/2005,2 - 3,OFI,AEK Athens
+24/04/2005,3 - 1,Olympiakos Piraeus,Egaleo
+24/04/2005,6 - 3,Panathinaikos,Chalkidona
+24/04/2005,1 - 0,Xanthi,Iraklis
+23/04/2005,1 - 0,Apollon Pontou,Ergotelis
+23/04/2005,1 - 1,Ionikos,PAOK
+17/04/2005,2 - 1,AEK Athens,Xanthi
+17/04/2005,0 - 2,Apollon Pontou,Olympiakos Piraeus
+17/04/2005,0 - 1,Chalkidona,Ionikos
+17/04/2005,2 - 1,Egaleo,Aris
+17/04/2005,0 - 1,Kerkyra,Kallithea
+17/04/2005,4 - 1,PAOK,OFI
+16/04/2005,1 - 3,Ergotelis,Panathinaikos
+16/04/2005,1 - 2,Panionios,Iraklis
+10/04/2005,2 - 0,AEK Athens,PAOK
+10/04/2005,0 - 0,Aris,Apollon Pontou
+10/04/2005,1 - 0,Ionikos,Ergotelis
+10/04/2005,0 - 1,OFI,Chalkidona
+10/04/2005,1 - 0,Panathinaikos,Olympiakos Piraeus
+10/04/2005,3 - 0,Xanthi,Panionios
+09/04/2005,5 - 1,Iraklis,Kerkyra
+09/04/2005,1 - 0,Kallithea,Egaleo
+03/04/2005,1 - 2,Apollon Pontou,Kallithea
+03/04/2005,1 - 0,Egaleo,Iraklis
+03/04/2005,0 - 1,Ergotelis,OFI
+03/04/2005,1 - 3,Kerkyra,Panionios
+03/04/2005,2 - 1,Olympiakos Piraeus,Ionikos
+03/04/2005,0 - 0,Panathinaikos,Aris
+02/04/2005,1 - 1,Chalkidona,AEK Athens
+02/04/2005,1 - 0,PAOK,Xanthi
+20/03/2005,3 - 0,AEK Athens,Ergotelis
+20/03/2005,2 - 1,Ionikos,Aris
+20/03/2005,2 - 3,Iraklis,Apollon Pontou
+20/03/2005,1 - 1,OFI,Olympiakos Piraeus
+20/03/2005,0 - 0,Panionios,Egaleo
+20/03/2005,2 - 1,PAOK,Chalkidona
+19/03/2005,0 - 2,Kallithea,Panathinaikos
+19/03/2005,1 - 1,Xanthi,Kerkyra
+13/03/2005,3 - 2,Aris,OFI
+13/03/2005,2 - 1,Chalkidona,Xanthi
+13/03/2005,1 - 0,Egaleo,Kerkyra
+13/03/2005,0 - 1,Ergotelis,PAOK
+13/03/2005,0 - 0,Kallithea,Ionikos
+13/03/2005,1 - 1,Olympiakos Piraeus,AEK Athens
+12/03/2005,3 - 3,Apollon Pontou,Panionios
+12/03/2005,0 - 0,Panathinaikos,Iraklis
+06/03/2005,1 - 0,AEK Athens,Aris
+06/03/2005,2 - 0,Chalkidona,Ergotelis
+06/03/2005,2 - 0,Iraklis,Ionikos
+06/03/2005,0 - 2,Kerkyra,Apollon Pontou
+06/03/2005,0 - 1,Panionios,Panathinaikos
+06/03/2005,1 - 1,PAOK,Olympiakos Piraeus
+06/03/2005,2 - 0,Xanthi,Egaleo
+05/03/2005,1 - 1,OFI,Kallithea
+27/02/2005,1 - 3,Aris,PAOK
+27/02/2005,0 - 2,Ergotelis,Xanthi
+27/02/2005,1 - 0,Iraklis,OFI
+27/02/2005,3 - 0,Olympiakos Piraeus,Chalkidona
+27/02/2005,1 - 0,Panathinaikos,Kerkyra
+26/02/2005,1 - 1,Apollon Pontou,Egaleo
+26/02/2005,0 - 0,Ionikos,Panionios
+26/02/2005,1 - 2,Kallithea,AEK Athens
+20/02/2005,1 - 0,Chalkidona,Aris
+20/02/2005,0 - 1,Egaleo,Panathinaikos
+20/02/2005,2 - 1,Ergotelis,Olympiakos Piraeus
+20/02/2005,2 - 1,Panionios,OFI
+20/02/2005,3 - 1,PAOK,Kallithea
+19/02/2005,2 - 1,AEK Athens,Iraklis
+19/02/2005,2 - 2,Kerkyra,Ionikos
+19/02/2005,4 - 1,Xanthi,Apollon Pontou
+13/02/2005,1 - 1,Ionikos,Egaleo
+13/02/2005,1 - 0,Iraklis,PAOK
+13/02/2005,3 - 1,Kallithea,Chalkidona
+13/02/2005,3 - 1,OFI,Kerkyra
+13/02/2005,1 - 1,Panionios,AEK Athens
+12/02/2005,1 - 1,Aris,Ergotelis
+12/02/2005,0 - 0,Olympiakos Piraeus,Xanthi
+12/02/2005,5 - 1,Panathinaikos,Apollon Pontou
+05/02/2005,0 - 2,Panionios,Olympiakos Piraeus
+30/01/2005,0 - 0,Chalkidona,Iraklis
+30/01/2005,2 - 0,Egaleo,OFI
+30/01/2005,1 - 1,Ergotelis,Kallithea
+30/01/2005,2 - 2,Kerkyra,AEK Athens
+30/01/2005,2 - 1,Olympiakos Piraeus,Aris
+30/01/2005,3 - 1,Xanthi,Panathinaikos
+29/01/2005,1 - 1,Apollon Pontou,Ionikos
+29/01/2005,1 - 0,PAOK,Panionios
+23/01/2005,1 - 0,AEK Athens,Egaleo
+23/01/2005,0 - 0,Ionikos,Panathinaikos
+23/01/2005,2 - 0,Iraklis,Ergotelis
+23/01/2005,1 - 1,Kallithea,Olympiakos Piraeus
+23/01/2005,0 - 1,Kerkyra,PAOK
+23/01/2005,0 - 0,OFI,Apollon Pontou
+22/01/2005,2 - 1,Aris,Xanthi
+22/01/2005,0 - 0,Panionios,Chalkidona
+17/01/2005,2 - 0,Xanthi,Ionikos
+16/01/2005,2 - 2,Aris,Kallithea
+16/01/2005,0 - 0,Chalkidona,Kerkyra
+16/01/2005,0 - 3,Ergotelis,Panionios
+16/01/2005,1 - 0,Olympiakos Piraeus,Iraklis
+16/01/2005,5 - 1,Panathinaikos,OFI
+15/01/2005,2 - 1,Apollon Pontou,AEK Athens
+15/01/2005,2 - 1,Egaleo,PAOK
+09/01/2005,1 - 0,AEK Athens,Panathinaikos
+09/01/2005,0 - 0,Iraklis,Aris
+09/01/2005,0 - 1,Kerkyra,Ergotelis
+09/01/2005,2 - 0,OFI,Ionikos
+09/01/2005,5 - 2,PAOK,Apollon Pontou
+08/01/2005,1 - 1,Chalkidona,Egaleo
+08/01/2005,2 - 3,Kallithea,Xanthi
+29/12/2004,0 - 2,Apollon Pontou,Chalkidona
+29/12/2004,1 - 0,Aris,Panionios
+29/12/2004,2 - 1,Ergotelis,Egaleo
+29/12/2004,2 - 3,Ionikos,AEK Athens
+29/12/2004,2 - 1,Kallithea,Iraklis
+29/12/2004,3 - 0,Olympiakos Piraeus,Kerkyra
+29/12/2004,2 - 1,Panathinaikos,PAOK
+29/12/2004,2 - 1,Xanthi,OFI
+19/12/2004,1 - 1,AEK Athens,OFI
+19/12/2004,0 - 2,Chalkidona,Panathinaikos
+19/12/2004,2 - 2,Egaleo,Olympiakos Piraeus
+19/12/2004,4 - 1,Ergotelis,Apollon Pontou
+19/12/2004,1 - 1,Iraklis,Xanthi
+19/12/2004,1 - 1,Panionios,Kallithea
+19/12/2004,3 - 0,PAOK,Ionikos
+18/12/2004,0 - 0,Kerkyra,Aris
+12/12/2004,0 - 0,Ionikos,Chalkidona
+12/12/2004,1 - 2,Kallithea,Kerkyra
+12/12/2004,2 - 2,OFI,PAOK
+12/12/2004,2 - 0,Olympiakos Piraeus,Apollon Pontou
+12/12/2004,1 - 0,Panathinaikos,Ergotelis
+11/12/2004,0 - 0,Aris,Egaleo
+11/12/2004,0 - 1,Iraklis,Panionios
+11/12/2004,1 - 1,Xanthi,AEK Athens
+05/12/2004,0 - 1,Apollon Pontou,Aris
+05/12/2004,2 - 3,Chalkidona,OFI
+05/12/2004,1 - 2,Egaleo,Kallithea
+05/12/2004,2 - 3,Ergotelis,Ionikos
+05/12/2004,0 - 0,Panionios,Xanthi
+05/12/2004,1 - 1,PAOK,AEK Athens
+04/12/2004,1 - 2,Kerkyra,Iraklis
+04/12/2004,1 - 0,Olympiakos Piraeus,Panathinaikos
+28/11/2004,1 - 0,AEK Athens,Chalkidona
+28/11/2004,1 - 1,Aris,Panathinaikos
+28/11/2004,0 - 4,Ionikos,Olympiakos Piraeus
+28/11/2004,2 - 2,Iraklis,Egaleo
+28/11/2004,1 - 1,Kallithea,Apollon Pontou
+28/11/2004,0 - 2,Xanthi,PAOK
+27/11/2004,5 - 0,OFI,Ergotelis
+27/11/2004,3 - 1,Panionios,Kerkyra
+21/11/2004,1 - 3,Apollon Pontou,Iraklis
+21/11/2004,0 - 2,Aris,Ionikos
+21/11/2004,2 - 0,Chalkidona,PAOK
+21/11/2004,0 - 0,Egaleo,Panionios
+21/11/2004,0 - 1,Ergotelis,AEK Athens
+21/11/2004,3 - 0,Kerkyra,Xanthi
+20/11/2004,3 - 0,Olympiakos Piraeus,OFI
+20/11/2004,1 - 0,Panathinaikos,Kallithea
+07/11/2004,0 - 0,AEK Athens,Olympiakos Piraeus
+07/11/2004,0 - 0,Ionikos,Kallithea
+07/11/2004,0 - 4,Iraklis,Panathinaikos
+07/11/2004,0 - 1,Kerkyra,Egaleo
+07/11/2004,0 - 0,Panionios,Apollon Pontou
+07/11/2004,0 - 2,PAOK,Ergotelis
+06/11/2004,1 - 1,OFI,Aris
+06/11/2004,2 - 0,Xanthi,Chalkidona
+31/10/2004,3 - 0,Apollon Pontou,Kerkyra
+31/10/2004,1 - 1,Aris,AEK Athens
+31/10/2004,1 - 1,Egaleo,Xanthi
+31/10/2004,1 - 1,Ergotelis,Chalkidona
+31/10/2004,1 - 0,Ionikos,Iraklis
+31/10/2004,3 - 1,Kallithea,OFI
+30/10/2004,5 - 1,Olympiakos Piraeus,PAOK
+30/10/2004,4 - 0,Panathinaikos,Panionios
+24/10/2004,4 - 1,AEK Athens,Kallithea
+24/10/2004,1 - 1,Chalkidona,Olympiakos Piraeus
+24/10/2004,0 - 0,Egaleo,Apollon Pontou
+24/10/2004,2 - 0,Kerkyra,Panathinaikos
+24/10/2004,1 - 0,Panionios,Ionikos
+24/10/2004,2 - 2,PAOK,Aris
+23/10/2004,2 - 1,OFI,Iraklis
+23/10/2004,3 - 0,Xanthi,Ergotelis
+17/10/2004,1 - 1,Apollon Pontou,Xanthi
+17/10/2004,1 - 2,Aris,Chalkidona
+17/10/2004,0 - 0,Ionikos,Kerkyra
+17/10/2004,1 - 2,Iraklis,AEK Athens
+17/10/2004,1 - 1,Kallithea,PAOK
+16/10/2004,2 - 0,OFI,Panionios
+16/10/2004,2 - 0,Olympiakos Piraeus,Ergotelis
+16/10/2004,0 - 0,Panathinaikos,Egaleo
+03/10/2004,2 - 0,AEK Athens,Panionios
+03/10/2004,0 - 1,Apollon Pontou,Panathinaikos
+03/10/2004,1 - 0,Egaleo,Ionikos
+03/10/2004,1 - 1,Ergotelis,Aris
+03/10/2004,1 - 0,PAOK,Iraklis
+03/10/2004,2 - 1,Xanthi,Olympiakos Piraeus
+02/10/2004,4 - 2,Chalkidona,Kallithea
+02/10/2004,1 - 1,Kerkyra,OFI
+26/09/2004,2 - 0,AEK Athens,Kerkyra
+26/09/2004,2 - 0,Ionikos,Apollon Pontou
+26/09/2004,3 - 0,Kallithea,Ergotelis
+26/09/2004,0 - 1,OFI,Egaleo
+26/09/2004,2 - 0,Panionios,PAOK
+25/09/2004,0 - 1,Aris,Olympiakos Piraeus
+25/09/2004,1 - 0,Iraklis,Chalkidona
+25/09/2004,3 - 1,Panathinaikos,Xanthi
+19/09/2004,1 - 0,Apollon Pontou,OFI
+19/09/2004,1 - 0,Chalkidona,Panionios
+19/09/2004,1 - 1,Egaleo,AEK Athens
+19/09/2004,2 - 1,Olympiakos Piraeus,Kallithea
+19/09/2004,3 - 0,Panathinaikos,Ionikos
+19/09/2004,1 - 0,PAOK,Kerkyra
+18/09/2004,0 - 1,Ergotelis,Iraklis
+18/09/2004,3 - 1,Xanthi,Aris

@@ -1,0 +1,381 @@
+date,score,home_team,away_team
+20/05/2000,0 - 0,Málaga,Racing Santander
+20/05/2000,1 - 2,Numancia,Real Betis
+20/05/2000,0 - 1,Real Oviedo,Real Sociedad
+19/05/2000,2 - 1,Athletic Club,Deportivo Alavés
+19/05/2000,2 - 2,Barcelona,Celta de Vigo
+19/05/2000,2 - 0,Deportivo La Coruña,Espanyol
+19/05/2000,1 - 2,Mallorca,Atlético Madrid
+19/05/2000,0 - 1,Real Madrid,Real Valladolid
+19/05/2000,2 - 3,Sevilla,Rayo Vallecano
+19/05/2000,2 - 1,Valencia,Real Zaragoza
+14/05/2000,0 - 0,Celta de Vigo,Valencia
+14/05/2000,2 - 2,Deportivo Alavés,Numancia
+14/05/2000,0 - 0,Espanyol,Athletic Club
+14/05/2000,0 - 0,Racing Santander,Deportivo La Coruña
+14/05/2000,1 - 2,Rayo Vallecano,Real Oviedo
+14/05/2000,0 - 2,Real Betis,Real Madrid
+14/05/2000,0 - 0,Real Sociedad,Barcelona
+14/05/2000,2 - 1,Real Valladolid,Mallorca
+14/05/2000,3 - 2,Real Zaragoza,Málaga
+13/05/2000,1 - 1,Atlético Madrid,Sevilla
+07/05/2000,2 - 2,Athletic Club,Racing Santander
+07/05/2000,2 - 2,Deportivo La Coruña,Real Zaragoza
+07/05/2000,0 - 1,Málaga,Celta de Vigo
+07/05/2000,2 - 2,Real Oviedo,Atlético Madrid
+07/05/2000,0 - 3,Real Valladolid,Real Betis
+07/05/2000,0 - 4,Sevilla,Mallorca
+06/05/2000,0 - 2,Barcelona,Rayo Vallecano
+06/05/2000,2 - 0,Numancia,Espanyol
+06/05/2000,0 - 1,Real Madrid,Deportivo Alavés
+06/05/2000,4 - 0,Valencia,Real Sociedad
+30/04/2000,2 - 1,Celta de Vigo,Deportivo La Coruña
+30/04/2000,1 - 0,Deportivo Alavés,Real Valladolid
+30/04/2000,4 - 0,Mallorca,Real Betis
+30/04/2000,1 - 1,Racing Santander,Numancia
+30/04/2000,2 - 2,Real Sociedad,Málaga
+30/04/2000,0 - 0,Real Zaragoza,Athletic Club
+30/04/2000,2 - 3,Sevilla,Real Oviedo
+29/04/2000,0 - 3,Atlético Madrid,Barcelona
+29/04/2000,0 - 2,Espanyol,Real Madrid
+29/04/2000,1 - 3,Rayo Vallecano,Valencia
+23/04/2000,2 - 0,Deportivo La Coruña,Real Sociedad
+23/04/2000,0 - 1,Real Betis,Deportivo Alavés
+23/04/2000,0 - 0,Real Oviedo,Mallorca
+22/04/2000,1 - 0,Athletic Club,Celta de Vigo
+22/04/2000,1 - 0,Barcelona,Sevilla
+22/04/2000,2 - 0,Málaga,Rayo Vallecano
+22/04/2000,1 - 2,Numancia,Real Zaragoza
+22/04/2000,2 - 4,Real Madrid,Racing Santander
+22/04/2000,1 - 0,Real Valladolid,Espanyol
+22/04/2000,2 - 0,Valencia,Atlético Madrid
+16/04/2000,2 - 2,Atlético Madrid,Málaga
+16/04/2000,0 - 0,Celta de Vigo,Numancia
+16/04/2000,3 - 0,Espanyol,Real Betis
+16/04/2000,2 - 0,Mallorca,Deportivo Alavés
+16/04/2000,1 - 1,Racing Santander,Real Valladolid
+16/04/2000,2 - 0,Rayo Vallecano,Deportivo La Coruña
+16/04/2000,4 - 1,Real Sociedad,Athletic Club
+15/04/2000,3 - 0,Real Oviedo,Barcelona
+15/04/2000,0 - 1,Real Zaragoza,Real Madrid
+15/04/2000,1 - 2,Sevilla,Valencia
+09/04/2000,1 - 2,Athletic Club,Rayo Vallecano
+09/04/2000,0 - 3,Barcelona,Mallorca
+09/04/2000,0 - 0,Deportivo Alavés,Espanyol
+09/04/2000,3 - 0,Málaga,Sevilla
+09/04/2000,1 - 2,Numancia,Real Sociedad
+09/04/2000,2 - 2,Real Betis,Racing Santander
+09/04/2000,1 - 0,Real Madrid,Celta de Vigo
+09/04/2000,1 - 1,Real Valladolid,Real Zaragoza
+09/04/2000,6 - 2,Valencia,Real Oviedo
+08/04/2000,4 - 1,Deportivo La Coruña,Atlético Madrid
+02/04/2000,1 - 2,Atlético Madrid,Athletic Club
+02/04/2000,3 - 0,Barcelona,Valencia
+02/04/2000,1 - 1,Celta de Vigo,Real Valladolid
+02/04/2000,1 - 3,Mallorca,Espanyol
+02/04/2000,0 - 0,Racing Santander,Deportivo Alavés
+02/04/2000,0 - 0,Rayo Vallecano,Numancia
+02/04/2000,2 - 2,Real Oviedo,Málaga
+02/04/2000,1 - 0,Real Zaragoza,Real Betis
+02/04/2000,1 - 3,Sevilla,Deportivo La Coruña
+01/04/2000,1 - 1,Real Sociedad,Real Madrid
+26/03/2000,3 - 1,Deportivo La Coruña,Real Oviedo
+26/03/2000,0 - 0,Real Betis,Celta de Vigo
+25/03/2000,1 - 1,Athletic Club,Sevilla
+25/03/2000,0 - 2,Deportivo Alavés,Real Zaragoza
+25/03/2000,1 - 0,Espanyol,Racing Santander
+25/03/2000,1 - 2,Málaga,Barcelona
+25/03/2000,3 - 0,Numancia,Atlético Madrid
+25/03/2000,0 - 0,Real Madrid,Rayo Vallecano
+25/03/2000,2 - 1,Real Valladolid,Real Sociedad
+25/03/2000,1 - 0,Valencia,Mallorca
+19/03/2000,1 - 1,Celta de Vigo,Deportivo Alavés
+19/03/2000,1 - 2,Mallorca,Racing Santander
+19/03/2000,4 - 1,Rayo Vallecano,Real Valladolid
+19/03/2000,1 - 0,Real Oviedo,Athletic Club
+19/03/2000,1 - 0,Real Sociedad,Real Betis
+19/03/2000,1 - 1,Real Zaragoza,Espanyol
+19/03/2000,4 - 0,Sevilla,Numancia
+18/03/2000,1 - 1,Atlético Madrid,Real Madrid
+18/03/2000,2 - 1,Barcelona,Deportivo La Coruña
+18/03/2000,2 - 2,Valencia,Málaga
+12/03/2000,2 - 1,Deportivo Alavés,Real Sociedad
+12/03/2000,2 - 0,Deportivo La Coruña,Valencia
+12/03/2000,3 - 0,Espanyol,Celta de Vigo
+12/03/2000,0 - 0,Málaga,Mallorca
+12/03/2000,1 - 1,Numancia,Real Oviedo
+12/03/2000,1 - 2,Racing Santander,Real Zaragoza
+12/03/2000,1 - 0,Real Valladolid,Atlético Madrid
+11/03/2000,0 - 4,Athletic Club,Barcelona
+11/03/2000,1 - 1,Real Betis,Rayo Vallecano
+11/03/2000,3 - 1,Real Madrid,Sevilla
+05/03/2000,0 - 0,Atlético Madrid,Real Betis
+05/03/2000,2 - 0,Celta de Vigo,Racing Santander
+05/03/2000,1 - 0,Málaga,Deportivo La Coruña
+05/03/2000,1 - 1,Mallorca,Real Zaragoza
+05/03/2000,0 - 1,Rayo Vallecano,Deportivo Alavés
+05/03/2000,1 - 0,Real Sociedad,Espanyol
+05/03/2000,0 - 1,Sevilla,Real Valladolid
+04/03/2000,4 - 0,Barcelona,Numancia
+04/03/2000,1 - 1,Real Oviedo,Real Madrid
+04/03/2000,2 - 0,Valencia,Athletic Club
+27/02/2000,2 - 2,Athletic Club,Málaga
+27/02/2000,2 - 0,Deportivo Alavés,Atlético Madrid
+27/02/2000,2 - 1,Deportivo La Coruña,Mallorca
+27/02/2000,5 - 1,Espanyol,Rayo Vallecano
+27/02/2000,0 - 0,Racing Santander,Real Sociedad
+27/02/2000,1 - 1,Real Betis,Sevilla
+27/02/2000,2 - 1,Real Valladolid,Real Oviedo
+27/02/2000,2 - 1,Real Zaragoza,Celta de Vigo
+26/02/2000,1 - 2,Numancia,Valencia
+26/02/2000,3 - 0,Real Madrid,Barcelona
+20/02/2000,1 - 1,Atlético Madrid,Espanyol
+20/02/2000,4 - 0,Barcelona,Real Valladolid
+20/02/2000,3 - 1,Málaga,Numancia
+20/02/2000,1 - 0,Mallorca,Celta de Vigo
+20/02/2000,1 - 2,Rayo Vallecano,Racing Santander
+20/02/2000,1 - 1,Real Oviedo,Real Betis
+20/02/2000,2 - 1,Real Sociedad,Real Zaragoza
+20/02/2000,2 - 2,Sevilla,Deportivo Alavés
+20/02/2000,1 - 1,Valencia,Real Madrid
+19/02/2000,2 - 0,Deportivo La Coruña,Athletic Club
+15/02/2000,0 - 1,Real Valladolid,Real Madrid
+13/02/2000,4 - 1,Celta de Vigo,Real Sociedad
+13/02/2000,1 - 0,Deportivo Alavés,Real Oviedo
+13/02/2000,2 - 2,Espanyol,Sevilla
+13/02/2000,1 - 0,Numancia,Deportivo La Coruña
+13/02/2000,2 - 1,Racing Santander,Atlético Madrid
+13/02/2000,2 - 1,Real Betis,Barcelona
+13/02/2000,1 - 1,Real Zaragoza,Rayo Vallecano
+12/02/2000,1 - 1,Athletic Club,Mallorca
+12/02/2000,1 - 0,Real Madrid,Málaga
+12/02/2000,0 - 0,Real Valladolid,Valencia
+06/02/2000,2 - 1,Athletic Club,Numancia
+06/02/2000,2 - 2,Atlético Madrid,Real Zaragoza
+06/02/2000,0 - 1,Barcelona,Deportivo Alavés
+06/02/2000,5 - 2,Deportivo La Coruña,Real Madrid
+06/02/2000,0 - 0,Málaga,Real Valladolid
+06/02/2000,2 - 1,Mallorca,Real Sociedad
+06/02/2000,1 - 0,Rayo Vallecano,Celta de Vigo
+06/02/2000,1 - 0,Real Oviedo,Espanyol
+06/02/2000,1 - 0,Sevilla,Racing Santander
+05/02/2000,3 - 1,Valencia,Real Betis
+30/01/2000,0 - 1,Deportivo Alavés,Valencia
+30/01/2000,3 - 1,Numancia,Mallorca
+30/01/2000,3 - 1,Racing Santander,Real Oviedo
+30/01/2000,0 - 0,Real Betis,Málaga
+30/01/2000,3 - 1,Real Madrid,Athletic Club
+30/01/2000,2 - 1,Real Sociedad,Rayo Vallecano
+30/01/2000,4 - 1,Real Valladolid,Deportivo La Coruña
+30/01/2000,2 - 1,Real Zaragoza,Sevilla
+29/01/2000,0 - 1,Celta de Vigo,Atlético Madrid
+29/01/2000,1 - 1,Espanyol,Barcelona
+26/01/2000,2 - 1,Real Madrid,Real Betis
+23/01/2000,1 - 0,Athletic Club,Real Valladolid
+23/01/2000,1 - 1,Atlético Madrid,Real Sociedad
+23/01/2000,1 - 0,Barcelona,Racing Santander
+23/01/2000,0 - 1,Málaga,Deportivo Alavés
+23/01/2000,2 - 1,Mallorca,Rayo Vallecano
+23/01/2000,0 - 0,Numancia,Real Madrid
+23/01/2000,1 - 0,Real Oviedo,Real Zaragoza
+23/01/2000,0 - 1,Sevilla,Celta de Vigo
+23/01/2000,1 - 2,Valencia,Espanyol
+22/01/2000,2 - 0,Deportivo La Coruña,Real Betis
+17/01/2000,2 - 1,Real Madrid,Mallorca
+16/01/2000,5 - 3,Celta de Vigo,Real Oviedo
+16/01/2000,2 - 1,Deportivo Alavés,Deportivo La Coruña
+16/01/2000,0 - 2,Espanyol,Málaga
+16/01/2000,1 - 1,Racing Santander,Valencia
+16/01/2000,2 - 1,Real Betis,Athletic Club
+16/01/2000,1 - 1,Real Sociedad,Sevilla
+16/01/2000,2 - 0,Real Valladolid,Numancia
+16/01/2000,0 - 0,Real Zaragoza,Barcelona
+15/01/2000,1 - 1,Rayo Vallecano,Atlético Madrid
+09/01/2000,1 - 0,Atlético Madrid,Mallorca
+09/01/2000,0 - 2,Celta de Vigo,Barcelona
+09/01/2000,1 - 2,Deportivo Alavés,Athletic Club
+09/01/2000,2 - 3,Racing Santander,Málaga
+09/01/2000,2 - 0,Rayo Vallecano,Sevilla
+09/01/2000,1 - 2,Real Betis,Numancia
+09/01/2000,0 - 0,Real Sociedad,Real Oviedo
+09/01/2000,4 - 2,Real Zaragoza,Valencia
+08/01/2000,0 - 0,Espanyol,Deportivo La Coruña
+05/01/2000,2 - 1,Athletic Club,Espanyol
+05/01/2000,3 - 1,Barcelona,Real Sociedad
+05/01/2000,0 - 3,Deportivo La Coruña,Racing Santander
+05/01/2000,0 - 0,Málaga,Real Zaragoza
+05/01/2000,0 - 0,Mallorca,Real Valladolid
+05/01/2000,0 - 0,Numancia,Deportivo Alavés
+05/01/2000,2 - 0,Real Oviedo,Rayo Vallecano
+05/01/2000,2 - 1,Sevilla,Atlético Madrid
+04/01/2000,1 - 1,Valencia,Celta de Vigo
+22/12/1999,5 - 0,Atlético Madrid,Real Oviedo
+22/12/1999,2 - 4,Celta de Vigo,Málaga
+22/12/1999,3 - 1,Espanyol,Numancia
+22/12/1999,3 - 1,Mallorca,Sevilla
+22/12/1999,2 - 2,Racing Santander,Athletic Club
+22/12/1999,1 - 1,Rayo Vallecano,Barcelona
+22/12/1999,0 - 1,Real Betis,Real Valladolid
+22/12/1999,0 - 0,Real Sociedad,Valencia
+22/12/1999,2 - 1,Real Zaragoza,Deportivo La Coruña
+21/12/1999,1 - 3,Deportivo Alavés,Real Madrid
+19/12/1999,2 - 2,Athletic Club,Real Zaragoza
+19/12/1999,2 - 1,Barcelona,Atlético Madrid
+19/12/1999,0 - 0,Málaga,Real Sociedad
+19/12/1999,2 - 1,Numancia,Racing Santander
+19/12/1999,1 - 0,Real Betis,Mallorca
+19/12/1999,4 - 2,Real Oviedo,Sevilla
+19/12/1999,3 - 1,Valencia,Rayo Vallecano
+18/12/1999,1 - 0,Deportivo La Coruña,Celta de Vigo
+18/12/1999,2 - 1,Real Madrid,Espanyol
+18/12/1999,1 - 1,Real Valladolid,Deportivo Alavés
+12/12/1999,1 - 2,Atlético Madrid,Valencia
+12/12/1999,1 - 1,Celta de Vigo,Athletic Club
+12/12/1999,2 - 0,Deportivo Alavés,Real Betis
+12/12/1999,1 - 1,Espanyol,Real Valladolid
+12/12/1999,1 - 1,Mallorca,Real Oviedo
+12/12/1999,1 - 1,Racing Santander,Real Madrid
+12/12/1999,4 - 1,Rayo Vallecano,Málaga
+12/12/1999,0 - 1,Real Sociedad,Deportivo La Coruña
+12/12/1999,3 - 3,Real Zaragoza,Numancia
+11/12/1999,3 - 2,Sevilla,Barcelona
+08/12/1999,2 - 1,Deportivo Alavés,Racing Santander
+05/12/1999,2 - 2,Deportivo Alavés,Mallorca
+05/12/1999,3 - 2,Deportivo La Coruña,Rayo Vallecano
+05/12/1999,2 - 3,Málaga,Atlético Madrid
+05/12/1999,3 - 1,Numancia,Celta de Vigo
+05/12/1999,2 - 5,Real Betis,Espanyol
+05/12/1999,1 - 0,Real Valladolid,Racing Santander
+04/12/1999,1 - 1,Athletic Club,Real Sociedad
+04/12/1999,3 - 2,Barcelona,Real Oviedo
+04/12/1999,1 - 5,Real Madrid,Real Zaragoza
+04/12/1999,2 - 0,Valencia,Sevilla
+28/11/1999,1 - 3,Atlético Madrid,Deportivo La Coruña
+28/11/1999,1 - 0,Celta de Vigo,Real Madrid
+28/11/1999,2 - 3,Espanyol,Deportivo Alavés
+28/11/1999,3 - 2,Mallorca,Barcelona
+28/11/1999,1 - 1,Racing Santander,Real Betis
+28/11/1999,1 - 2,Rayo Vallecano,Athletic Club
+28/11/1999,0 - 0,Real Oviedo,Valencia
+28/11/1999,2 - 1,Real Sociedad,Numancia
+28/11/1999,1 - 1,Real Zaragoza,Real Valladolid
+27/11/1999,0 - 0,Sevilla,Málaga
+22/11/1999,5 - 2,Deportivo La Coruña,Sevilla
+21/11/1999,1 - 2,Espanyol,Mallorca
+21/11/1999,4 - 0,Málaga,Real Oviedo
+21/11/1999,3 - 1,Numancia,Rayo Vallecano
+21/11/1999,2 - 0,Real Betis,Real Zaragoza
+21/11/1999,1 - 1,Real Madrid,Real Sociedad
+21/11/1999,1 - 3,Real Valladolid,Celta de Vigo
+20/11/1999,4 - 2,Athletic Club,Atlético Madrid
+20/11/1999,3 - 1,Valencia,Barcelona
+07/11/1999,2 - 2,Atlético Madrid,Numancia
+07/11/1999,1 - 2,Barcelona,Málaga
+07/11/1999,5 - 1,Celta de Vigo,Real Betis
+07/11/1999,1 - 0,Mallorca,Valencia
+07/11/1999,2 - 2,Racing Santander,Espanyol
+07/11/1999,0 - 1,Real Oviedo,Deportivo La Coruña
+07/11/1999,3 - 0,Real Sociedad,Real Valladolid
+07/11/1999,2 - 1,Real Zaragoza,Deportivo Alavés
+07/11/1999,0 - 0,Sevilla,Athletic Club
+06/11/1999,2 - 3,Rayo Vallecano,Real Madrid
+31/10/1999,1 - 1,Athletic Club,Real Oviedo
+31/10/1999,1 - 0,Deportivo Alavés,Celta de Vigo
+31/10/1999,1 - 1,Espanyol,Real Zaragoza
+31/10/1999,2 - 0,Numancia,Sevilla
+31/10/1999,1 - 1,Racing Santander,Mallorca
+31/10/1999,1 - 0,Real Betis,Real Sociedad
+31/10/1999,1 - 2,Real Valladolid,Rayo Vallecano
+30/10/1999,2 - 1,Deportivo La Coruña,Barcelona
+30/10/1999,1 - 1,Málaga,Valencia
+30/10/1999,1 - 3,Real Madrid,Atlético Madrid
+24/10/1999,3 - 1,Atlético Madrid,Real Valladolid
+24/10/1999,2 - 1,Celta de Vigo,Espanyol
+24/10/1999,2 - 1,Mallorca,Málaga
+24/10/1999,1 - 3,Rayo Vallecano,Real Betis
+24/10/1999,1 - 0,Real Oviedo,Numancia
+24/10/1999,1 - 1,Real Sociedad,Deportivo Alavés
+24/10/1999,4 - 1,Real Zaragoza,Racing Santander
+23/10/1999,4 - 0,Barcelona,Athletic Club
+23/10/1999,1 - 1,Sevilla,Real Madrid
+23/10/1999,2 - 0,Valencia,Deportivo La Coruña
+17/10/1999,0 - 1,Deportivo Alavés,Rayo Vallecano
+17/10/1999,0 - 0,Espanyol,Real Sociedad
+17/10/1999,2 - 1,Real Betis,Atlético Madrid
+17/10/1999,2 - 1,Real Valladolid,Sevilla
+17/10/1999,3 - 0,Real Zaragoza,Mallorca
+16/10/1999,1 - 0,Athletic Club,Valencia
+16/10/1999,4 - 1,Deportivo La Coruña,Málaga
+16/10/1999,3 - 3,Numancia,Barcelona
+16/10/1999,3 - 0,Racing Santander,Celta de Vigo
+16/10/1999,2 - 2,Real Madrid,Real Oviedo
+13/10/1999,2 - 2,Barcelona,Real Madrid
+13/10/1999,2 - 1,Celta de Vigo,Real Zaragoza
+13/10/1999,2 - 1,Rayo Vallecano,Espanyol
+13/10/1999,1 - 1,Real Oviedo,Real Valladolid
+13/10/1999,2 - 5,Real Sociedad,Racing Santander
+13/10/1999,4 - 0,Valencia,Numancia
+12/10/1999,3 - 4,Málaga,Athletic Club
+12/10/1999,2 - 2,Mallorca,Deportivo La Coruña
+12/10/1999,3 - 0,Sevilla,Real Betis
+11/10/1999,1 - 0,Atlético Madrid,Deportivo Alavés
+03/10/1999,2 - 3,Athletic Club,Deportivo La Coruña
+03/10/1999,1 - 0,Celta de Vigo,Mallorca
+03/10/1999,0 - 0,Deportivo Alavés,Sevilla
+03/10/1999,3 - 1,Espanyol,Atlético Madrid
+03/10/1999,1 - 1,Racing Santander,Rayo Vallecano
+03/10/1999,1 - 0,Real Betis,Real Oviedo
+03/10/1999,2 - 3,Real Madrid,Valencia
+03/10/1999,2 - 0,Real Zaragoza,Real Sociedad
+02/10/1999,1 - 1,Numancia,Málaga
+02/10/1999,0 - 2,Real Valladolid,Barcelona
+26/09/1999,2 - 0,Atlético Madrid,Racing Santander
+26/09/1999,0 - 2,Deportivo La Coruña,Numancia
+26/09/1999,2 - 1,Mallorca,Athletic Club
+26/09/1999,0 - 1,Rayo Vallecano,Real Zaragoza
+26/09/1999,1 - 0,Real Oviedo,Deportivo Alavés
+26/09/1999,1 - 2,Sevilla,Espanyol
+25/09/1999,4 - 1,Barcelona,Real Betis
+25/09/1999,1 - 1,Málaga,Real Madrid
+25/09/1999,0 - 2,Real Sociedad,Celta de Vigo
+25/09/1999,0 - 0,Valencia,Real Valladolid
+19/09/1999,0 - 1,Celta de Vigo,Rayo Vallecano
+19/09/1999,1 - 1,Numancia,Athletic Club
+19/09/1999,2 - 2,Racing Santander,Sevilla
+19/09/1999,2 - 1,Real Sociedad,Mallorca
+19/09/1999,1 - 1,Real Zaragoza,Atlético Madrid
+18/09/1999,2 - 1,Deportivo Alavés,Barcelona
+18/09/1999,2 - 1,Espanyol,Real Oviedo
+18/09/1999,1 - 0,Real Betis,Valencia
+18/09/1999,1 - 1,Real Madrid,Deportivo La Coruña
+18/09/1999,4 - 2,Real Valladolid,Málaga
+12/09/1999,2 - 2,Athletic Club,Real Madrid
+12/09/1999,1 - 2,Atlético Madrid,Celta de Vigo
+12/09/1999,3 - 0,Málaga,Real Betis
+12/09/1999,3 - 0,Mallorca,Numancia
+12/09/1999,2 - 1,Rayo Vallecano,Real Sociedad
+12/09/1999,1 - 2,Real Oviedo,Racing Santander
+12/09/1999,0 - 0,Sevilla,Real Zaragoza
+11/09/1999,3 - 0,Barcelona,Espanyol
+11/09/1999,2 - 0,Deportivo La Coruña,Real Valladolid
+11/09/1999,0 - 2,Valencia,Deportivo Alavés
+29/08/1999,2 - 1,Celta de Vigo,Sevilla
+29/08/1999,2 - 1,Deportivo Alavés,Málaga
+29/08/1999,3 - 2,Espanyol,Valencia
+29/08/1999,1 - 2,Racing Santander,Barcelona
+29/08/1999,2 - 1,Rayo Vallecano,Mallorca
+29/08/1999,0 - 0,Real Betis,Deportivo La Coruña
+29/08/1999,4 - 1,Real Madrid,Numancia
+29/08/1999,1 - 0,Real Valladolid,Athletic Club
+29/08/1999,4 - 0,Real Zaragoza,Real Oviedo
+28/08/1999,4 - 1,Real Sociedad,Atlético Madrid
+22/08/1999,0 - 2,Atlético Madrid,Rayo Vallecano
+22/08/1999,2 - 0,Barcelona,Real Zaragoza
+22/08/1999,4 - 1,Deportivo La Coruña,Deportivo Alavés
+22/08/1999,1 - 0,Málaga,Espanyol
+22/08/1999,1 - 0,Numancia,Real Valladolid
+22/08/1999,1 - 0,Real Oviedo,Celta de Vigo
+22/08/1999,2 - 2,Sevilla,Real Sociedad
+21/08/1999,1 - 0,Athletic Club,Real Betis
+21/08/1999,1 - 2,Mallorca,Real Madrid
+21/08/1999,1 - 2,Valencia,Racing Santander

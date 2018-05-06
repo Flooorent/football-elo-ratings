@@ -1,0 +1,189 @@
+date,score,home_team,away_team
+13/06/1995,0 - 1,Basel,Aarau
+13/06/1995,2 - 3,Lausanne Sport,Neuchâtel Xamax
+13/06/1995,3 - 2,Lugano,Sion
+13/06/1995,0 - 0,Luzern,Grasshopper
+10/06/1995,4 - 1,Aarau,Lausanne Sport
+10/06/1995,0 - 4,Grasshopper,Lugano
+10/06/1995,3 - 3,Neuchâtel Xamax,Luzern
+10/06/1995,1 - 2,Sion,Basel
+05/06/1995,2 - 1,Sion,Lugano
+31/05/1995,1 - 2,Basel,Neuchâtel Xamax
+31/05/1995,1 - 3,Lausanne Sport,Grasshopper
+31/05/1995,0 - 0,Lugano,Aarau
+31/05/1995,3 - 2,Luzern,Sion
+27/05/1995,3 - 0,Aarau,Luzern
+27/05/1995,1 - 0,Grasshopper,Basel
+27/05/1995,5 - 2,Neuchâtel Xamax,Lugano
+27/05/1995,5 - 1,Sion,Lausanne Sport
+20/05/1995,2 - 2,Aarau,Grasshopper
+20/05/1995,2 - 0,Basel,Luzern
+20/05/1995,4 - 0,Lugano,Lausanne Sport
+20/05/1995,2 - 2,Sion,Neuchâtel Xamax
+13/05/1995,3 - 0,Grasshopper,Sion
+13/05/1995,0 - 1,Lausanne Sport,Basel
+13/05/1995,1 - 1,Luzern,Lugano
+13/05/1995,3 - 0,Neuchâtel Xamax,Aarau
+06/05/1995,1 - 2,Basel,Lugano
+06/05/1995,0 - 0,Luzern,Lausanne Sport
+06/05/1995,1 - 2,Neuchâtel Xamax,Grasshopper
+06/05/1995,2 - 0,Sion,Aarau
+03/05/1995,5 - 1,Neuchâtel Xamax,Basel
+29/04/1995,2 - 1,Aarau,Sion
+29/04/1995,2 - 0,Grasshopper,Neuchâtel Xamax
+29/04/1995,0 - 1,Lausanne Sport,Luzern
+29/04/1995,4 - 1,Lugano,Basel
+12/04/1995,1 - 1,Aarau,Neuchâtel Xamax
+12/04/1995,5 - 0,Basel,Lausanne Sport
+12/04/1995,0 - 0,Lugano,Luzern
+12/04/1995,1 - 1,Sion,Grasshopper
+08/04/1995,1 - 0,Grasshopper,Aarau
+08/04/1995,0 - 1,Lausanne Sport,Lugano
+08/04/1995,2 - 1,Luzern,Basel
+08/04/1995,0 - 2,Neuchâtel Xamax,Sion
+01/04/1995,1 - 0,Basel,Grasshopper
+01/04/1995,3 - 1,Lausanne Sport,Sion
+01/04/1995,0 - 0,Lugano,Neuchâtel Xamax
+01/04/1995,1 - 0,Luzern,Aarau
+12/03/1995,3 - 3,Aarau,Lugano
+12/03/1995,4 - 2,Grasshopper,Lausanne Sport
+12/03/1995,2 - 1,Sion,Luzern
+05/03/1995,3 - 1,Basel,Sion
+05/03/1995,0 - 1,Lausanne Sport,Aarau
+05/03/1995,0 - 2,Lugano,Grasshopper
+05/03/1995,1 - 0,Luzern,Neuchâtel Xamax
+26/02/1995,0 - 1,Aarau,Basel
+26/02/1995,4 - 1,Grasshopper,Luzern
+26/02/1995,2 - 1,Neuchâtel Xamax,Lausanne Sport
+04/12/1994,1 - 0,Grasshopper,Aarau
+04/12/1994,1 - 4,Lausanne Sport,Neuchâtel Xamax
+04/12/1994,2 - 1,Luzern,Zürich
+04/12/1994,0 - 0,Sion,Basel
+04/12/1994,1 - 0,St. Gallen,Lugano
+04/12/1994,4 - 1,Young Boys,Servette
+27/11/1994,3 - 0,Aarau,St. Gallen
+27/11/1994,0 - 1,Basel,Young Boys
+27/11/1994,2 - 3,Lugano,Lausanne Sport
+27/11/1994,0 - 2,Neuchâtel Xamax,Grasshopper
+27/11/1994,1 - 0,Servette,Luzern
+27/11/1994,4 - 0,Zürich,Sion
+22/11/1994,2 - 2,Lausanne Sport,Aarau
+20/11/1994,2 - 1,Grasshopper,St. Gallen
+20/11/1994,0 - 1,Luzern,Basel
+20/11/1994,1 - 1,Neuchâtel Xamax,Lugano
+20/11/1994,2 - 0,Servette,Zürich
+20/11/1994,1 - 3,Young Boys,Sion
+09/11/1994,2 - 2,Aarau,Neuchâtel Xamax
+09/11/1994,2 - 1,Basel,Servette
+09/11/1994,1 - 0,Lugano,Grasshopper
+09/11/1994,2 - 0,Sion,Luzern
+09/11/1994,4 - 0,St. Gallen,Lausanne Sport
+09/11/1994,0 - 0,Zürich,Young Boys
+06/11/1994,0 - 2,Basel,Aarau
+06/11/1994,0 - 2,Luzern,Lugano
+06/11/1994,3 - 1,Servette,Grasshopper
+06/11/1994,4 - 2,Sion,Lausanne Sport
+06/11/1994,1 - 1,Young Boys,St. Gallen
+06/11/1994,2 - 0,Zürich,Neuchâtel Xamax
+29/10/1994,3 - 0,Aarau,Servette
+29/10/1994,0 - 3,Grasshopper,Basel
+29/10/1994,4 - 2,Lausanne Sport,Young Boys
+29/10/1994,2 - 2,Lugano,Zürich
+29/10/1994,1 - 1,Neuchâtel Xamax,Luzern
+29/10/1994,0 - 1,St. Gallen,Sion
+26/10/1994,0 - 0,Basel,Neuchâtel Xamax
+26/10/1994,0 - 0,Luzern,Lausanne Sport
+26/10/1994,0 - 0,Servette,Lugano
+26/10/1994,1 - 2,Sion,Grasshopper
+26/10/1994,1 - 0,Young Boys,Aarau
+26/10/1994,1 - 1,Zürich,St. Gallen
+22/10/1994,2 - 1,Aarau,Luzern
+22/10/1994,3 - 1,Lausanne Sport,Servette
+22/10/1994,2 - 1,Sion,Neuchâtel Xamax
+22/10/1994,0 - 3,St. Gallen,Basel
+22/10/1994,0 - 3,Young Boys,Lugano
+22/10/1994,0 - 3,Zürich,Grasshopper
+15/10/1994,0 - 0,Basel,Zürich
+15/10/1994,1 - 1,Grasshopper,Lausanne Sport
+15/10/1994,1 - 1,Lugano,Aarau
+15/10/1994,0 - 0,Luzern,Young Boys
+15/10/1994,3 - 0,Neuchâtel Xamax,St. Gallen
+15/10/1994,1 - 1,Servette,Sion
+05/10/1994,2 - 1,Basel,Lausanne Sport
+05/10/1994,1 - 1,Luzern,Grasshopper
+05/10/1994,0 - 3,Sion,Lugano
+05/10/1994,2 - 1,St. Gallen,Servette
+05/10/1994,4 - 0,Young Boys,Neuchâtel Xamax
+05/10/1994,4 - 0,Zürich,Aarau
+01/10/1994,3 - 0,Aarau,Sion
+01/10/1994,2 - 1,Grasshopper,Young Boys
+01/10/1994,0 - 0,Lausanne Sport,Zürich
+01/10/1994,1 - 1,Lugano,Basel
+01/10/1994,4 - 2,Neuchâtel Xamax,Servette
+01/10/1994,0 - 0,St. Gallen,Luzern
+29/09/1994,2 - 0,Lugano,Luzern
+24/09/1994,4 - 0,Grasshopper,Neuchâtel Xamax
+21/09/1994,5 - 1,Aarau,Grasshopper
+21/09/1994,1 - 2,Basel,Sion
+21/09/1994,0 - 0,Lugano,St. Gallen
+21/09/1994,3 - 0,Neuchâtel Xamax,Lausanne Sport
+21/09/1994,4 - 0,Servette,Young Boys
+21/09/1994,2 - 2,Zürich,Luzern
+17/09/1994,4 - 2,Lausanne Sport,Lugano
+17/09/1994,2 - 1,Luzern,Servette
+17/09/1994,2 - 1,Sion,Zürich
+17/09/1994,2 - 2,St. Gallen,Aarau
+17/09/1994,1 - 0,Young Boys,Basel
+10/09/1994,1 - 1,Aarau,Lausanne Sport
+10/09/1994,4 - 0,Basel,Luzern
+10/09/1994,1 - 1,Lugano,Neuchâtel Xamax
+10/09/1994,2 - 0,Sion,Young Boys
+10/09/1994,1 - 1,St. Gallen,Grasshopper
+10/09/1994,1 - 1,Zürich,Servette
+03/09/1994,1 - 0,Grasshopper,Lugano
+03/09/1994,3 - 0,Lausanne Sport,St. Gallen
+03/09/1994,3 - 2,Luzern,Sion
+03/09/1994,1 - 1,Neuchâtel Xamax,Aarau
+03/09/1994,0 - 0,Servette,Basel
+03/09/1994,4 - 0,Young Boys,Zürich
+31/08/1994,0 - 0,Aarau,Basel
+31/08/1994,1 - 0,Grasshopper,Servette
+31/08/1994,3 - 2,Lausanne Sport,Sion
+31/08/1994,0 - 1,Neuchâtel Xamax,Zürich
+31/08/1994,1 - 1,St. Gallen,Young Boys
+27/08/1994,0 - 2,Basel,Grasshopper
+27/08/1994,0 - 1,Luzern,Neuchâtel Xamax
+27/08/1994,2 - 2,Servette,Aarau
+27/08/1994,1 - 1,Sion,St. Gallen
+27/08/1994,1 - 2,Young Boys,Lausanne Sport
+27/08/1994,1 - 1,Zürich,Lugano
+20/08/1994,2 - 0,Aarau,Young Boys
+20/08/1994,2 - 0,Grasshopper,Sion
+20/08/1994,1 - 2,Lausanne Sport,Luzern
+20/08/1994,0 - 1,Lugano,Servette
+20/08/1994,1 - 0,Neuchâtel Xamax,Basel
+20/08/1994,1 - 1,St. Gallen,Zürich
+13/08/1994,0 - 0,Basel,St. Gallen
+13/08/1994,2 - 1,Grasshopper,Zürich
+13/08/1994,4 - 0,Lugano,Young Boys
+13/08/1994,1 - 0,Luzern,Aarau
+13/08/1994,4 - 2,Neuchâtel Xamax,Sion
+13/08/1994,0 - 0,Servette,Lausanne Sport
+06/08/1994,0 - 0,Aarau,Lugano
+06/08/1994,0 - 0,Lausanne Sport,Grasshopper
+06/08/1994,3 - 2,Sion,Servette
+06/08/1994,4 - 0,St. Gallen,Neuchâtel Xamax
+06/08/1994,1 - 3,Young Boys,Luzern
+06/08/1994,0 - 0,Zürich,Basel
+03/08/1994,3 - 0,Aarau,Zürich
+03/08/1994,6 - 1,Grasshopper,Luzern
+03/08/1994,2 - 1,Lausanne Sport,Basel
+03/08/1994,3 - 0,Lugano,Sion
+03/08/1994,4 - 0,Neuchâtel Xamax,Young Boys
+03/08/1994,1 - 0,Servette,St. Gallen
+30/07/1994,2 - 0,Sion,Aarau
+27/07/1994,0 - 1,Basel,Lugano
+27/07/1994,3 - 0,Luzern,St. Gallen
+27/07/1994,1 - 2,Servette,Neuchâtel Xamax
+27/07/1994,1 - 1,Young Boys,Grasshopper
+27/07/1994,1 - 1,Zürich,Lausanne Sport

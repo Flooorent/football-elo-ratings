@@ -1,0 +1,463 @@
+date,score,home_team,away_team
+05/05/1971,3 - 4,Manchester City,Manchester United
+05/05/1971,0 - 1,Stoke City,Tottenham Hotspur
+04/05/1971,6 - 0,Southampton,Crystal Palace
+03/05/1971,0 - 1,Tottenham Hotspur,Arsenal
+01/05/1971,1 - 0,Arsenal,Stoke City
+01/05/1971,1 - 1,Blackpool,Manchester United
+01/05/1971,2 - 0,Coventry City,Newcastle United
+01/05/1971,2 - 0,Crystal Palace,Everton
+01/05/1971,2 - 0,Derby County,West Bromwich Albion
+01/05/1971,0 - 0,Ipswich Town,Chelsea
+01/05/1971,2 - 0,Leeds United,Nottingham Forest
+01/05/1971,1 - 0,Liverpool,Southampton
+01/05/1971,0 - 1,Manchester City,Tottenham Hotspur
+01/05/1971,0 - 1,West Ham United,Huddersfield Town
+01/05/1971,1 - 0,Wolverhampton Wanderers,Burnley
+28/04/1971,3 - 0,Newcastle United,West Bromwich Albion
+28/04/1971,1 - 1,Tottenham Hotspur,Huddersfield Town
+28/04/1971,0 - 0,Wolverhampton Wanderers,Ipswich Town
+27/04/1971,0 - 0,Coventry City,Derby County
+27/04/1971,0 - 0,Nottingham Forest,Stoke City
+27/04/1971,1 - 2,Southampton,West Ham United
+26/04/1971,3 - 1,Blackpool,Crystal Palace
+26/04/1971,0 - 1,Chelsea,Burnley
+26/04/1971,1 - 0,Leeds United,Arsenal
+26/04/1971,2 - 2,Manchester City,Liverpool
+24/04/1971,1 - 2,Burnley,Derby County
+24/04/1971,2 - 1,Chelsea,Coventry City
+24/04/1971,0 - 0,Everton,Blackpool
+24/04/1971,1 - 2,Huddersfield Town,Wolverhampton Wanderers
+24/04/1971,3 - 2,Manchester United,Ipswich Town
+24/04/1971,1 - 1,Newcastle United,West Ham United
+24/04/1971,0 - 1,Nottingham Forest,Liverpool
+24/04/1971,0 - 3,Southampton,Leeds United
+24/04/1971,2 - 0,Stoke City,Manchester City
+24/04/1971,2 - 0,Tottenham Hotspur,Crystal Palace
+24/04/1971,2 - 2,West Bromwich Albion,Arsenal
+20/04/1971,1 - 0,Arsenal,Burnley
+19/04/1971,0 - 2,Manchester United,Liverpool
+17/04/1971,1 - 0,Arsenal,Newcastle United
+17/04/1971,2 - 3,Blackpool,Nottingham Forest
+17/04/1971,3 - 0,Coventry City,Burnley
+17/04/1971,3 - 5,Crystal Palace,Manchester United
+17/04/1971,3 - 1,Derby County,Everton
+17/04/1971,2 - 0,Ipswich Town,Huddersfield Town
+17/04/1971,1 - 2,Leeds United,West Bromwich Albion
+17/04/1971,0 - 0,Liverpool,Tottenham Hotspur
+17/04/1971,1 - 1,Manchester City,Chelsea
+17/04/1971,1 - 0,West Ham United,Stoke City
+17/04/1971,0 - 1,Wolverhampton Wanderers,Southampton
+13/04/1971,1 - 0,Burnley,West Ham United
+13/04/1971,2 - 1,Coventry City,Manchester United
+13/04/1971,0 - 3,Nottingham Forest,Arsenal
+13/04/1971,1 - 1,Stoke City,Blackpool
+12/04/1971,0 - 0,Blackpool,Tottenham Hotspur
+12/04/1971,1 - 0,Chelsea,Liverpool
+12/04/1971,0 - 0,Derby County,Southampton
+12/04/1971,3 - 0,Everton,Coventry City
+12/04/1971,0 - 0,Huddersfield Town,Leeds United
+12/04/1971,1 - 0,Manchester United,Wolverhampton Wanderers
+12/04/1971,0 - 0,Newcastle United,Manchester City
+12/04/1971,0 - 1,West Bromwich Albion,Ipswich Town
+10/04/1971,1 - 0,Burnley,Blackpool
+10/04/1971,1 - 1,Chelsea,Crystal Palace
+10/04/1971,1 - 2,Everton,Wolverhampton Wanderers
+10/04/1971,1 - 0,Huddersfield Town,Manchester City
+10/04/1971,1 - 2,Manchester United,Derby County
+10/04/1971,1 - 1,Newcastle United,Leeds United
+10/04/1971,1 - 0,Nottingham Forest,West Ham United
+10/04/1971,1 - 2,Southampton,Arsenal
+10/04/1971,0 - 1,Stoke City,Liverpool
+10/04/1971,2 - 0,Tottenham Hotspur,Ipswich Town
+10/04/1971,0 - 0,West Bromwich Albion,Coventry City
+09/04/1971,1 - 3,Manchester City,Nottingham Forest
+09/04/1971,2 - 1,West Ham United,West Bromwich Albion
+07/04/1971,1 - 0,Stoke City,Wolverhampton Wanderers
+07/04/1971,2 - 1,Tottenham Hotspur,Derby County
+06/04/1971,1 - 0,Arsenal,Coventry City
+06/04/1971,0 - 0,Ipswich Town,Everton
+06/04/1971,1 - 1,Liverpool,Newcastle United
+03/04/1971,2 - 0,Arsenal,Chelsea
+03/04/1971,0 - 1,Blackpool,Newcastle United
+03/04/1971,0 - 0,Coventry City,Tottenham Hotspur
+03/04/1971,3 - 2,Crystal Palace,Stoke City
+03/04/1971,3 - 2,Derby County,Huddersfield Town
+03/04/1971,1 - 3,Ipswich Town,Southampton
+03/04/1971,4 - 0,Leeds United,Burnley
+03/04/1971,3 - 0,Manchester City,Everton
+03/04/1971,2 - 1,West Ham United,Manchester United
+03/04/1971,4 - 0,Wolverhampton Wanderers,Nottingham Forest
+02/04/1971,1 - 1,Liverpool,West Bromwich Albion
+31/03/1971,1 - 2,Derby County,Nottingham Forest
+30/03/1971,0 - 1,Everton,West Ham United
+29/03/1971,2 - 1,Liverpool,Ipswich Town
+27/03/1971,2 - 2,Burnley,Ipswich Town
+27/03/1971,3 - 1,Chelsea,Leeds United
+27/03/1971,1 - 0,Huddersfield Town,Coventry City
+27/03/1971,3 - 1,Newcastle United,Derby County
+27/03/1971,3 - 1,Nottingham Forest,Crystal Palace
+27/03/1971,1 - 1,Southampton,Blackpool
+27/03/1971,0 - 0,West Bromwich Albion,Manchester City
+24/03/1971,0 - 3,Crystal Palace,Huddersfield Town
+23/03/1971,1 - 2,Ipswich Town,Tottenham Hotspur
+20/03/1971,1 - 0,Arsenal,Blackpool
+20/03/1971,0 - 0,Burnley,Tottenham Hotspur
+20/03/1971,0 - 0,Chelsea,Huddersfield Town
+20/03/1971,2 - 1,Leeds United,Crystal Palace
+20/03/1971,2 - 0,Liverpool,Derby County
+20/03/1971,1 - 1,Manchester City,Coventry City
+20/03/1971,2 - 2,Newcastle United,Southampton
+20/03/1971,3 - 2,Nottingham Forest,Everton
+20/03/1971,1 - 2,Stoke City,Manchester United
+20/03/1971,2 - 4,West Bromwich Albion,Wolverhampton Wanderers
+20/03/1971,2 - 2,West Ham United,Ipswich Town
+18/03/1971,2 - 1,Newcastle United,Everton
+13/03/1971,1 - 1,Blackpool,Leeds United
+13/03/1971,1 - 0,Coventry City,Liverpool
+13/03/1971,0 - 2,Crystal Palace,Arsenal
+13/03/1971,0 - 0,Derby County,Manchester City
+13/03/1971,2 - 0,Everton,Stoke City
+13/03/1971,0 - 1,Huddersfield Town,Burnley
+13/03/1971,1 - 0,Ipswich Town,Newcastle United
+13/03/1971,2 - 0,Manchester United,Nottingham Forest
+13/03/1971,1 - 0,Southampton,West Bromwich Albion
+13/03/1971,2 - 1,Tottenham Hotspur,Chelsea
+13/03/1971,2 - 0,Wolverhampton Wanderers,West Ham United
+10/03/1971,0 - 1,Tottenham Hotspur,Nottingham Forest
+06/03/1971,0 - 1,Burnley,Southampton
+06/03/1971,2 - 0,Chelsea,Blackpool
+06/03/1971,1 - 0,Leeds United,Derby County
+06/03/1971,0 - 0,Manchester City,Wolverhampton Wanderers
+06/03/1971,1 - 3,Nottingham Forest,Huddersfield Town
+06/03/1971,4 - 3,West Bromwich Albion,Manchester United
+06/03/1971,0 - 0,West Ham United,Crystal Palace
+02/03/1971,0 - 3,Wolverhampton Wanderers,Arsenal
+27/02/1971,1 - 1,Blackpool,West Ham United
+27/02/1971,0 - 2,Crystal Palace,Burnley
+27/02/1971,2 - 0,Derby County,Arsenal
+27/02/1971,3 - 3,Everton,West Bromwich Albion
+27/02/1971,0 - 1,Huddersfield Town,Stoke City
+27/02/1971,1 - 0,Manchester United,Newcastle United
+27/02/1971,0 - 0,Southampton,Chelsea
+27/02/1971,1 - 0,Wolverhampton Wanderers,Liverpool
+26/02/1971,0 - 1,Coventry City,Leeds United
+26/02/1971,2 - 0,Ipswich Town,Manchester City
+24/02/1971,2 - 0,West Ham United,Nottingham Forest
+23/02/1971,1 - 1,Burnley,Stoke City
+23/02/1971,1 - 0,Everton,Manchester United
+23/02/1971,2 - 4,Ipswich Town,Leeds United
+20/02/1971,3 - 2,Arsenal,Ipswich Town
+20/02/1971,0 - 1,Blackpool,Derby County
+20/02/1971,1 - 2,Crystal Palace,Coventry City
+20/02/1971,0 - 0,Everton,Liverpool
+20/02/1971,3 - 0,Leeds United,Wolverhampton Wanderers
+20/02/1971,5 - 1,Manchester United,Southampton
+20/02/1971,1 - 0,Newcastle United,Tottenham Hotspur
+20/02/1971,1 - 0,Nottingham Forest,Burnley
+20/02/1971,1 - 2,Stoke City,Chelsea
+20/02/1971,2 - 1,West Bromwich Albion,Huddersfield Town
+20/02/1971,0 - 0,West Ham United,Manchester City
+17/02/1971,2 - 0,Chelsea,Nottingham Forest
+17/02/1971,1 - 0,Derby County,Crystal Palace
+17/02/1971,2 - 2,Tottenham Hotspur,West Bromwich Albion
+16/02/1971,1 - 0,Liverpool,West Ham United
+16/02/1971,2 - 2,Southampton,Everton
+13/02/1971,2 - 0,Coventry City,Blackpool
+13/02/1971,1 - 1,Huddersfield Town,Newcastle United
+13/02/1971,1 - 0,Wolverhampton Wanderers,Chelsea
+08/02/1971,0 - 1,Coventry City,West Ham United
+06/02/1971,1 - 0,Arsenal,Manchester City
+06/02/1971,0 - 2,Blackpool,Wolverhampton Wanderers
+06/02/1971,1 - 0,Crystal Palace,Ipswich Town
+06/02/1971,2 - 1,Everton,Huddersfield Town
+06/02/1971,0 - 1,Leeds United,Liverpool
+06/02/1971,2 - 1,Manchester United,Tottenham Hotspur
+06/02/1971,0 - 1,Newcastle United,Chelsea
+06/02/1971,2 - 0,Nottingham Forest,Southampton
+06/02/1971,2 - 1,Stoke City,Coventry City
+06/02/1971,1 - 0,West Bromwich Albion,Burnley
+06/02/1971,1 - 4,West Ham United,Derby County
+30/01/1971,1 - 1,Burnley,Newcastle United
+30/01/1971,4 - 1,Chelsea,West Bromwich Albion
+30/01/1971,1 - 2,Huddersfield Town,Manchester United
+30/01/1971,2 - 1,Ipswich Town,Blackpool
+30/01/1971,2 - 0,Liverpool,Arsenal
+30/01/1971,0 - 2,Manchester City,Leeds United
+30/01/1971,2 - 1,Southampton,Stoke City
+30/01/1971,2 - 1,Tottenham Hotspur,Everton
+30/01/1971,2 - 1,Wolverhampton Wanderers,Crystal Palace
+16/01/1971,3 - 3,Blackpool,Manchester City
+16/01/1971,1 - 0,Crystal Palace,Liverpool
+16/01/1971,3 - 0,Everton,Chelsea
+16/01/1971,2 - 1,Huddersfield Town,Arsenal
+16/01/1971,0 - 1,Ipswich Town,Derby County
+16/01/1971,1 - 1,Manchester United,Burnley
+16/01/1971,2 - 1,Nottingham Forest,Newcastle United
+16/01/1971,2 - 0,Stoke City,West Bromwich Albion
+16/01/1971,1 - 3,Tottenham Hotspur,Southampton
+16/01/1971,2 - 3,West Ham United,Leeds United
+16/01/1971,0 - 0,Wolverhampton Wanderers,Coventry City
+13/01/1971,0 - 0,Crystal Palace,Chelsea
+12/01/1971,0 - 0,Liverpool,Manchester City
+09/01/1971,2 - 0,Arsenal,West Ham United
+09/01/1971,2 - 2,Burnley,Everton
+09/01/1971,1 - 2,Chelsea,Manchester United
+09/01/1971,1 - 0,Coventry City,Ipswich Town
+09/01/1971,1 - 2,Derby County,Wolverhampton Wanderers
+09/01/1971,1 - 2,Leeds United,Tottenham Hotspur
+09/01/1971,2 - 2,Liverpool,Blackpool
+09/01/1971,1 - 0,Manchester City,Crystal Palace
+09/01/1971,0 - 2,Newcastle United,Stoke City
+09/01/1971,1 - 0,Southampton,Huddersfield Town
+09/01/1971,0 - 1,West Bromwich Albion,Nottingham Forest
+26/12/1970,0 - 0,Arsenal,Southampton
+26/12/1970,1 - 1,Blackpool,Burnley
+26/12/1970,1 - 1,Coventry City,West Bromwich Albion
+26/12/1970,4 - 4,Derby County,Manchester United
+26/12/1970,3 - 0,Leeds United,Newcastle United
+26/12/1970,0 - 0,Liverpool,Stoke City
+26/12/1970,1 - 1,Manchester City,Huddersfield Town
+26/12/1970,2 - 0,Wolverhampton Wanderers,Everton
+19/12/1970,0 - 4,Burnley,Manchester City
+19/12/1970,2 - 1,Chelsea,West Ham United
+19/12/1970,0 - 1,Everton,Leeds United
+19/12/1970,0 - 0,Huddersfield Town,Liverpool
+19/12/1970,1 - 3,Manchester United,Arsenal
+19/12/1970,2 - 0,Newcastle United,Crystal Palace
+19/12/1970,0 - 1,Nottingham Forest,Ipswich Town
+19/12/1970,3 - 0,Southampton,Coventry City
+19/12/1970,1 - 0,Stoke City,Derby County
+19/12/1970,0 - 0,Tottenham Hotspur,Wolverhampton Wanderers
+19/12/1970,1 - 1,West Bromwich Albion,Blackpool
+12/12/1970,2 - 1,Arsenal,Wolverhampton Wanderers
+12/12/1970,1 - 0,Blackpool,Coventry City
+12/12/1970,0 - 0,Crystal Palace,Derby County
+12/12/1970,4 - 1,Everton,Southampton
+12/12/1970,0 - 0,Leeds United,Ipswich Town
+12/12/1970,1 - 4,Manchester United,Manchester City
+12/12/1970,2 - 0,Newcastle United,Huddersfield Town
+12/12/1970,1 - 1,Nottingham Forest,Chelsea
+12/12/1970,0 - 0,Stoke City,Burnley
+12/12/1970,3 - 1,West Bromwich Albion,Tottenham Hotspur
+12/12/1970,1 - 2,West Ham United,Liverpool
+05/12/1970,1 - 1,Burnley,West Bromwich Albion
+05/12/1970,1 - 0,Chelsea,Newcastle United
+05/12/1970,1 - 0,Coventry City,Stoke City
+05/12/1970,2 - 4,Derby County,West Ham United
+05/12/1970,1 - 1,Huddersfield Town,Everton
+05/12/1970,1 - 2,Ipswich Town,Crystal Palace
+05/12/1970,1 - 1,Liverpool,Leeds United
+05/12/1970,0 - 2,Manchester City,Arsenal
+05/12/1970,4 - 1,Southampton,Nottingham Forest
+05/12/1970,2 - 2,Tottenham Hotspur,Manchester United
+05/12/1970,1 - 0,Wolverhampton Wanderers,Blackpool
+28/11/1970,2 - 0,Arsenal,Liverpool
+28/11/1970,0 - 2,Blackpool,Ipswich Town
+28/11/1970,1 - 1,Crystal Palace,Wolverhampton Wanderers
+28/11/1970,0 - 0,Everton,Tottenham Hotspur
+28/11/1970,1 - 0,Leeds United,Manchester City
+28/11/1970,1 - 1,Manchester United,Huddersfield Town
+28/11/1970,3 - 1,Newcastle United,Burnley
+28/11/1970,2 - 4,Nottingham Forest,Derby County
+28/11/1970,0 - 0,Stoke City,Southampton
+28/11/1970,2 - 2,West Bromwich Albion,Chelsea
+28/11/1970,1 - 2,West Ham United,Coventry City
+21/11/1970,2 - 1,Burnley,Nottingham Forest
+21/11/1970,2 - 1,Chelsea,Stoke City
+21/11/1970,2 - 1,Coventry City,Crystal Palace
+21/11/1970,2 - 0,Derby County,Blackpool
+21/11/1970,2 - 1,Huddersfield Town,West Bromwich Albion
+21/11/1970,0 - 1,Ipswich Town,Arsenal
+21/11/1970,3 - 2,Liverpool,Everton
+21/11/1970,2 - 0,Manchester City,West Ham United
+21/11/1970,1 - 0,Southampton,Manchester United
+21/11/1970,1 - 2,Tottenham Hotspur,Newcastle United
+21/11/1970,2 - 3,Wolverhampton Wanderers,Leeds United
+18/11/1970,4 - 1,Leeds United,Stoke City
+14/11/1970,1 - 1,Arsenal,Crystal Palace
+14/11/1970,2 - 3,Burnley,Huddersfield Town
+14/11/1970,0 - 2,Chelsea,Tottenham Hotspur
+14/11/1970,3 - 1,Leeds United,Blackpool
+14/11/1970,0 - 0,Liverpool,Coventry City
+14/11/1970,1 - 1,Manchester City,Derby County
+14/11/1970,0 - 0,Newcastle United,Ipswich Town
+14/11/1970,1 - 2,Nottingham Forest,Manchester United
+14/11/1970,1 - 1,Stoke City,Everton
+14/11/1970,1 - 0,West Bromwich Albion,Southampton
+14/11/1970,3 - 3,West Ham United,Wolverhampton Wanderers
+07/11/1970,0 - 1,Blackpool,Arsenal
+07/11/1970,2 - 1,Coventry City,Manchester City
+07/11/1970,1 - 1,Crystal Palace,Leeds United
+07/11/1970,0 - 0,Derby County,Liverpool
+07/11/1970,1 - 0,Everton,Nottingham Forest
+07/11/1970,0 - 1,Huddersfield Town,Chelsea
+07/11/1970,2 - 1,Ipswich Town,West Ham United
+07/11/1970,2 - 2,Manchester United,Stoke City
+07/11/1970,2 - 0,Southampton,Newcastle United
+07/11/1970,4 - 0,Tottenham Hotspur,Burnley
+07/11/1970,2 - 1,Wolverhampton Wanderers,West Bromwich Albion
+31/10/1970,2 - 0,Arsenal,Derby County
+31/10/1970,2 - 1,Burnley,Crystal Palace
+31/10/1970,2 - 2,Chelsea,Southampton
+31/10/1970,2 - 0,Leeds United,Coventry City
+31/10/1970,2 - 0,Liverpool,Wolverhampton Wanderers
+31/10/1970,2 - 0,Manchester City,Ipswich Town
+31/10/1970,1 - 0,Newcastle United,Manchester United
+31/10/1970,0 - 1,Nottingham Forest,Tottenham Hotspur
+31/10/1970,3 - 1,Stoke City,Huddersfield Town
+31/10/1970,3 - 0,West Bromwich Albion,Everton
+31/10/1970,2 - 1,West Ham United,Blackpool
+24/10/1970,3 - 4,Blackpool,Chelsea
+24/10/1970,1 - 3,Coventry City,Arsenal
+24/10/1970,1 - 1,Crystal Palace,West Ham United
+24/10/1970,0 - 2,Derby County,Leeds United
+24/10/1970,3 - 1,Everton,Newcastle United
+24/10/1970,0 - 0,Huddersfield Town,Nottingham Forest
+24/10/1970,1 - 0,Ipswich Town,Liverpool
+24/10/1970,2 - 1,Manchester United,West Bromwich Albion
+24/10/1970,2 - 0,Southampton,Burnley
+24/10/1970,3 - 0,Tottenham Hotspur,Stoke City
+24/10/1970,3 - 0,Wolverhampton Wanderers,Manchester City
+17/10/1970,4 - 0,Arsenal,Everton
+17/10/1970,2 - 2,Blackpool,Huddersfield Town
+17/10/1970,2 - 0,Coventry City,Nottingham Forest
+17/10/1970,3 - 0,Crystal Palace,West Bromwich Albion
+17/10/1970,1 - 2,Derby County,Chelsea
+17/10/1970,2 - 0,Ipswich Town,Stoke City
+17/10/1970,2 - 2,Leeds United,Manchester United
+17/10/1970,2 - 0,Liverpool,Burnley
+17/10/1970,1 - 1,Manchester City,Southampton
+17/10/1970,2 - 2,West Ham United,Tottenham Hotspur
+17/10/1970,3 - 2,Wolverhampton Wanderers,Newcastle United
+10/10/1970,0 - 0,Burnley,Coventry City
+10/10/1970,1 - 1,Chelsea,Manchester City
+10/10/1970,1 - 1,Everton,Derby County
+10/10/1970,1 - 0,Huddersfield Town,Ipswich Town
+10/10/1970,0 - 1,Manchester United,Crystal Palace
+10/10/1970,1 - 1,Newcastle United,Arsenal
+10/10/1970,3 - 1,Nottingham Forest,Blackpool
+10/10/1970,1 - 2,Southampton,Wolverhampton Wanderers
+10/10/1970,2 - 1,Stoke City,West Ham United
+10/10/1970,1 - 0,Tottenham Hotspur,Liverpool
+10/10/1970,2 - 2,West Bromwich Albion,Leeds United
+03/10/1970,4 - 0,Arsenal,Nottingham Forest
+03/10/1970,1 - 1,Blackpool,Stoke City
+03/10/1970,3 - 1,Coventry City,Everton
+03/10/1970,3 - 1,Crystal Palace,Southampton
+03/10/1970,1 - 1,Derby County,Tottenham Hotspur
+03/10/1970,2 - 2,Ipswich Town,West Bromwich Albion
+03/10/1970,2 - 0,Leeds United,Huddersfield Town
+03/10/1970,1 - 0,Liverpool,Chelsea
+03/10/1970,1 - 1,Manchester City,Newcastle United
+03/10/1970,3 - 1,West Ham United,Burnley
+03/10/1970,3 - 2,Wolverhampton Wanderers,Manchester United
+26/09/1970,2 - 3,Burnley,Wolverhampton Wanderers
+26/09/1970,2 - 1,Chelsea,Ipswich Town
+26/09/1970,3 - 1,Everton,Crystal Palace
+26/09/1970,1 - 1,Huddersfield Town,West Ham United
+26/09/1970,1 - 1,Manchester United,Blackpool
+26/09/1970,0 - 0,Newcastle United,Coventry City
+26/09/1970,0 - 0,Nottingham Forest,Leeds United
+26/09/1970,1 - 0,Southampton,Liverpool
+26/09/1970,5 - 0,Stoke City,Arsenal
+26/09/1970,2 - 0,Tottenham Hotspur,Manchester City
+26/09/1970,2 - 1,West Bromwich Albion,Derby County
+19/09/1970,6 - 2,Arsenal,West Bromwich Albion
+19/09/1970,0 - 2,Blackpool,Everton
+19/09/1970,0 - 1,Coventry City,Chelsea
+19/09/1970,0 - 3,Crystal Palace,Tottenham Hotspur
+19/09/1970,1 - 0,Derby County,Burnley
+19/09/1970,4 - 0,Ipswich Town,Manchester United
+19/09/1970,1 - 0,Leeds United,Southampton
+19/09/1970,3 - 0,Liverpool,Nottingham Forest
+19/09/1970,4 - 1,Manchester City,Stoke City
+19/09/1970,0 - 2,West Ham United,Newcastle United
+19/09/1970,3 - 1,Wolverhampton Wanderers,Huddersfield Town
+12/09/1970,1 - 2,Burnley,Arsenal
+12/09/1970,2 - 2,Chelsea,Wolverhampton Wanderers
+12/09/1970,2 - 0,Everton,Ipswich Town
+12/09/1970,0 - 2,Huddersfield Town,Crystal Palace
+12/09/1970,2 - 0,Manchester United,Coventry City
+12/09/1970,0 - 0,Newcastle United,Liverpool
+12/09/1970,0 - 1,Nottingham Forest,Manchester City
+12/09/1970,4 - 0,Southampton,Derby County
+12/09/1970,3 - 0,Stoke City,Leeds United
+12/09/1970,3 - 0,Tottenham Hotspur,Blackpool
+12/09/1970,2 - 1,West Bromwich Albion,West Ham United
+05/09/1970,2 - 0,Arsenal,Tottenham Hotspur
+05/09/1970,0 - 3,Blackpool,Southampton
+05/09/1970,0 - 0,Coventry City,Huddersfield Town
+05/09/1970,2 - 0,Crystal Palace,Nottingham Forest
+05/09/1970,1 - 2,Derby County,Newcastle United
+05/09/1970,3 - 0,Ipswich Town,Burnley
+05/09/1970,1 - 0,Leeds United,Chelsea
+05/09/1970,1 - 1,Liverpool,Manchester United
+05/09/1970,4 - 1,Manchester City,West Bromwich Albion
+05/09/1970,1 - 2,West Ham United,Everton
+05/09/1970,1 - 1,Wolverhampton Wanderers,Stoke City
+02/09/1970,1 - 0,Crystal Palace,Blackpool
+02/09/1970,3 - 4,Derby County,Coventry City
+02/09/1970,2 - 0,Manchester United,Everton
+02/09/1970,0 - 0,Stoke City,Nottingham Forest
+02/09/1970,1 - 2,West Bromwich Albion,Newcastle United
+01/09/1970,0 - 0,Arsenal,Leeds United
+01/09/1970,0 - 0,Burnley,Chelsea
+01/09/1970,1 - 1,Huddersfield Town,Tottenham Hotspur
+01/09/1970,2 - 3,Ipswich Town,Wolverhampton Wanderers
+31/08/1970,1 - 1,West Ham United,Southampton
+29/08/1970,0 - 3,Burnley,Leeds United
+29/08/1970,2 - 1,Chelsea,Arsenal
+29/08/1970,0 - 1,Everton,Manchester City
+29/08/1970,0 - 0,Huddersfield Town,Derby County
+29/08/1970,1 - 1,Manchester United,West Ham United
+29/08/1970,1 - 2,Newcastle United,Blackpool
+29/08/1970,4 - 1,Nottingham Forest,Wolverhampton Wanderers
+29/08/1970,1 - 0,Southampton,Ipswich Town
+29/08/1970,0 - 0,Stoke City,Crystal Palace
+29/08/1970,1 - 0,Tottenham Hotspur,Coventry City
+29/08/1970,1 - 1,West Bromwich Albion,Liverpool
+26/08/1970,2 - 2,Chelsea,Everton
+26/08/1970,2 - 0,Derby County,Ipswich Town
+26/08/1970,3 - 0,Leeds United,West Ham United
+26/08/1970,2 - 0,Manchester City,Blackpool
+26/08/1970,1 - 1,Newcastle United,Nottingham Forest
+26/08/1970,5 - 2,West Bromwich Albion,Stoke City
+25/08/1970,1 - 0,Arsenal,Huddersfield Town
+25/08/1970,0 - 2,Burnley,Manchester United
+25/08/1970,0 - 1,Coventry City,Wolverhampton Wanderers
+25/08/1970,1 - 1,Liverpool,Crystal Palace
+25/08/1970,0 - 0,Southampton,Tottenham Hotspur
+22/08/1970,4 - 0,Arsenal,Manchester United
+22/08/1970,3 - 1,Blackpool,West Bromwich Albion
+22/08/1970,1 - 0,Coventry City,Southampton
+22/08/1970,1 - 0,Crystal Palace,Newcastle United
+22/08/1970,2 - 0,Derby County,Stoke City
+22/08/1970,0 - 0,Ipswich Town,Nottingham Forest
+22/08/1970,3 - 2,Leeds United,Everton
+22/08/1970,4 - 0,Liverpool,Huddersfield Town
+22/08/1970,0 - 0,Manchester City,Burnley
+22/08/1970,2 - 2,West Ham United,Chelsea
+22/08/1970,0 - 3,Wolverhampton Wanderers,Tottenham Hotspur
+19/08/1970,0 - 1,Crystal Palace,Manchester City
+19/08/1970,0 - 0,Manchester United,Chelsea
+19/08/1970,3 - 0,Stoke City,Newcastle United
+19/08/1970,0 - 2,Tottenham Hotspur,Leeds United
+19/08/1970,2 - 4,Wolverhampton Wanderers,Derby County
+18/08/1970,1 - 1,Everton,Burnley
+18/08/1970,3 - 1,Huddersfield Town,Southampton
+18/08/1970,0 - 2,Ipswich Town,Coventry City
+18/08/1970,3 - 3,Nottingham Forest,West Bromwich Albion
+17/08/1970,0 - 0,Blackpool,Liverpool
+17/08/1970,0 - 0,West Ham United,Arsenal
+15/08/1970,1 - 2,Burnley,Liverpool
+15/08/1970,2 - 1,Chelsea,Derby County
+15/08/1970,2 - 2,Everton,Arsenal
+15/08/1970,3 - 0,Huddersfield Town,Blackpool
+15/08/1970,0 - 1,Manchester United,Leeds United
+15/08/1970,3 - 2,Newcastle United,Wolverhampton Wanderers
+15/08/1970,2 - 0,Nottingham Forest,Coventry City
+15/08/1970,1 - 1,Southampton,Manchester City
+15/08/1970,0 - 0,Stoke City,Ipswich Town
+15/08/1970,2 - 2,Tottenham Hotspur,West Ham United
+15/08/1970,0 - 0,West Bromwich Albion,Crystal Palace

@@ -1,0 +1,307 @@
+date,score,home_team,away_team
+28/05/2000,0 - 1,Apollon Smirnis,Ethnikos Asteras
+28/05/2000,3 - 1,Aris,OFI
+28/05/2000,2 - 1,Ionikos,Xanthi
+28/05/2000,1 - 4,Kavala,Panathinaikos
+28/05/2000,5 - 1,Olympiakos Piraeus,Panachaiki
+28/05/2000,4 - 0,Paniliakos,Proodeftiki
+28/05/2000,2 - 2,Panionios,Iraklis
+28/05/2000,3 - 5,Trikala,PAOK
+27/05/2000,6 - 1,AEK Athens,Kalamata
+21/05/2000,2 - 1,AEK Athens,Trikala
+21/05/2000,4 - 2,Ethnikos Asteras,Panionios
+21/05/2000,4 - 0,Iraklis,Proodeftiki
+21/05/2000,5 - 2,Kalamata,Aris
+21/05/2000,2 - 0,OFI,Ionikos
+21/05/2000,2 - 0,Panachaiki,Paniliakos
+21/05/2000,5 - 0,Panathinaikos,Apollon Smirnis
+21/05/2000,5 - 0,PAOK,Kavala
+21/05/2000,0 - 1,Xanthi,Olympiakos Piraeus
+14/05/2000,2 - 2,Ionikos,Aris
+14/05/2000,2 - 1,Iraklis,Panachaiki
+14/05/2000,0 - 2,Kavala,AEK Athens
+14/05/2000,2 - 0,Olympiakos Piraeus,OFI
+14/05/2000,2 - 0,Paniliakos,Xanthi
+14/05/2000,0 - 4,Panionios,Panathinaikos
+14/05/2000,1 - 0,Proodeftiki,Ethnikos Asteras
+14/05/2000,0 - 2,Trikala,Kalamata
+13/05/2000,3 - 4,Apollon Smirnis,PAOK
+08/05/2000,3 - 0,AEK Athens,Apollon Smirnis
+08/05/2000,0 - 1,Aris,Olympiakos Piraeus
+08/05/2000,3 - 1,Panathinaikos,Proodeftiki
+08/05/2000,2 - 0,PAOK,Panionios
+07/05/2000,2 - 2,Ethnikos Asteras,Panachaiki
+07/05/2000,2 - 0,Kalamata,Ionikos
+07/05/2000,3 - 2,OFI,Paniliakos
+07/05/2000,3 - 1,Trikala,Kavala
+07/05/2000,3 - 0,Xanthi,Iraklis
+04/05/2000,1 - 0,Proodeftiki,PAOK
+03/05/2000,5 - 2,Apollon Smirnis,Trikala
+03/05/2000,1 - 0,Ethnikos Asteras,Xanthi
+03/05/2000,0 - 3,Iraklis,OFI
+03/05/2000,2 - 0,Olympiakos Piraeus,Ionikos
+03/05/2000,1 - 0,Panachaiki,Panathinaikos
+03/05/2000,1 - 2,Paniliakos,Aris
+03/05/2000,0 - 2,Panionios,AEK Athens
+02/05/2000,0 - 1,Kavala,Kalamata
+23/04/2000,3 - 2,AEK Athens,Proodeftiki
+23/04/2000,0 - 2,Ionikos,Paniliakos
+23/04/2000,0 - 1,Kalamata,Olympiakos Piraeus
+23/04/2000,1 - 3,Kavala,Apollon Smirnis
+23/04/2000,4 - 1,OFI,Ethnikos Asteras
+23/04/2000,1 - 1,PAOK,Panachaiki
+23/04/2000,2 - 3,Trikala,Panionios
+22/04/2000,2 - 1,Aris,Iraklis
+22/04/2000,2 - 1,Panathinaikos,Xanthi
+17/04/2000,3 - 2,Panathinaikos,OFI
+17/04/2000,1 - 2,Xanthi,PAOK
+16/04/2000,1 - 2,Apollon Smirnis,Kalamata
+16/04/2000,1 - 0,Ethnikos Asteras,Aris
+16/04/2000,3 - 2,Iraklis,Ionikos
+16/04/2000,1 - 1,Panachaiki,AEK Athens
+16/04/2000,0 - 3,Paniliakos,Olympiakos Piraeus
+16/04/2000,1 - 1,Panionios,Kavala
+16/04/2000,1 - 0,Proodeftiki,Trikala
+12/04/2000,4 - 1,AEK Athens,Xanthi
+12/04/2000,2 - 1,Apollon Smirnis,Panionios
+12/04/2000,0 - 2,Aris,Panathinaikos
+12/04/2000,3 - 0,Ionikos,Ethnikos Asteras
+12/04/2000,1 - 0,Olympiakos Piraeus,Iraklis
+12/04/2000,2 - 2,PAOK,OFI
+12/04/2000,0 - 1,Trikala,Panachaiki
+11/04/2000,2 - 1,Kalamata,Paniliakos
+11/04/2000,2 - 1,Kavala,Proodeftiki
+03/04/2000,1 - 1,Ethnikos Asteras,Olympiakos Piraeus
+02/04/2000,3 - 1,Iraklis,Paniliakos
+02/04/2000,3 - 2,Panachaiki,Kavala
+02/04/2000,5 - 0,Panathinaikos,Ionikos
+02/04/2000,2 - 0,Panionios,Kalamata
+02/04/2000,3 - 2,PAOK,Aris
+02/04/2000,2 - 0,Proodeftiki,Apollon Smirnis
+02/04/2000,3 - 0,Xanthi,Trikala
+01/04/2000,1 - 2,OFI,AEK Athens
+27/03/2000,1 - 0,Ionikos,PAOK
+26/03/2000,0 - 0,Apollon Smirnis,Panachaiki
+26/03/2000,2 - 2,Kalamata,Iraklis
+26/03/2000,1 - 0,Kavala,Xanthi
+26/03/2000,2 - 2,Olympiakos Piraeus,Panathinaikos
+26/03/2000,2 - 0,Paniliakos,Ethnikos Asteras
+26/03/2000,2 - 1,Panionios,Proodeftiki
+26/03/2000,1 - 1,Trikala,OFI
+25/03/2000,1 - 1,Aris,AEK Athens
+20/03/2000,3 - 1,Ethnikos Asteras,Iraklis
+19/03/2000,5 - 1,AEK Athens,Ionikos
+19/03/2000,3 - 3,Aris,Trikala
+19/03/2000,2 - 2,OFI,Kavala
+19/03/2000,1 - 0,Panachaiki,Panionios
+19/03/2000,3 - 1,Panathinaikos,Paniliakos
+19/03/2000,0 - 2,PAOK,Olympiakos Piraeus
+19/03/2000,2 - 0,Xanthi,Apollon Smirnis
+18/03/2000,1 - 2,Proodeftiki,Kalamata
+13/03/2000,1 - 2,Apollon Smirnis,OFI
+13/03/2000,1 - 0,Kalamata,Ethnikos Asteras
+12/03/2000,5 - 1,Ionikos,Trikala
+12/03/2000,1 - 3,Iraklis,Panathinaikos
+12/03/2000,1 - 0,Kavala,Aris
+12/03/2000,3 - 0,Olympiakos Piraeus,AEK Athens
+12/03/2000,4 - 0,Panionios,Xanthi
+12/03/2000,2 - 2,Proodeftiki,Panachaiki
+11/03/2000,0 - 4,Paniliakos,PAOK
+06/03/2000,2 - 0,Ionikos,Kavala
+05/03/2000,1 - 0,AEK Athens,Paniliakos
+05/03/2000,2 - 1,Aris,Apollon Smirnis
+05/03/2000,0 - 2,OFI,Panionios
+05/03/2000,1 - 2,Panachaiki,Kalamata
+05/03/2000,4 - 0,Panathinaikos,Ethnikos Asteras
+05/03/2000,4 - 0,PAOK,Iraklis
+05/03/2000,2 - 1,Xanthi,Proodeftiki
+04/03/2000,0 - 2,Trikala,Olympiakos Piraeus
+28/02/2000,0 - 0,Kalamata,Panathinaikos
+27/02/2000,0 - 2,Apollon Smirnis,Ionikos
+27/02/2000,1 - 1,Ethnikos Asteras,PAOK
+27/02/2000,3 - 1,Iraklis,AEK Athens
+27/02/2000,5 - 0,Olympiakos Piraeus,Kavala
+27/02/2000,1 - 1,Panachaiki,Xanthi
+27/02/2000,1 - 3,Paniliakos,Trikala
+27/02/2000,1 - 3,Panionios,Aris
+27/02/2000,0 - 0,Proodeftiki,OFI
+21/02/2000,3 - 3,Trikala,Iraklis
+21/02/2000,1 - 0,Xanthi,Kalamata
+20/02/2000,2 - 1,AEK Athens,Ethnikos Asteras
+20/02/2000,2 - 1,Aris,Proodeftiki
+20/02/2000,2 - 0,Ionikos,Panionios
+20/02/2000,2 - 2,OFI,Panachaiki
+20/02/2000,2 - 0,Olympiakos Piraeus,Apollon Smirnis
+20/02/2000,1 - 3,PAOK,Panathinaikos
+19/02/2000,2 - 1,Kavala,Paniliakos
+14/02/2000,1 - 2,Panachaiki,Aris
+13/02/2000,1 - 0,Ethnikos Asteras,Trikala
+13/02/2000,2 - 1,Iraklis,Kavala
+13/02/2000,1 - 1,Kalamata,PAOK
+13/02/2000,1 - 0,Panathinaikos,AEK Athens
+13/02/2000,2 - 1,Paniliakos,Apollon Smirnis
+13/02/2000,0 - 1,Panionios,Olympiakos Piraeus
+13/02/2000,2 - 2,Proodeftiki,Ionikos
+13/02/2000,1 - 1,Xanthi,OFI
+07/02/2000,1 - 0,Apollon Smirnis,Iraklis
+07/02/2000,4 - 0,Olympiakos Piraeus,Proodeftiki
+06/02/2000,2 - 0,AEK Athens,PAOK
+06/02/2000,0 - 0,Ionikos,Panachaiki
+06/02/2000,2 - 0,Kavala,Ethnikos Asteras
+06/02/2000,3 - 2,OFI,Kalamata
+06/02/2000,3 - 0,Paniliakos,Panionios
+06/02/2000,1 - 3,Trikala,Panathinaikos
+05/02/2000,0 - 1,Aris,Xanthi
+31/01/2000,1 - 1,Kalamata,AEK Athens
+30/01/2000,3 - 1,Ethnikos Asteras,Apollon Smirnis
+30/01/2000,1 - 2,Iraklis,Panionios
+30/01/2000,2 - 1,OFI,Aris
+30/01/2000,3 - 0,Panathinaikos,Kavala
+30/01/2000,2 - 0,PAOK,Trikala
+30/01/2000,1 - 1,Proodeftiki,Paniliakos
+30/01/2000,2 - 1,Xanthi,Ionikos
+29/01/2000,0 - 2,Panachaiki,Olympiakos Piraeus
+24/01/2000,0 - 0,Paniliakos,Panachaiki
+23/01/2000,0 - 3,Apollon Smirnis,Panathinaikos
+23/01/2000,6 - 1,Aris,Kalamata
+23/01/2000,1 - 1,Ionikos,OFI
+23/01/2000,1 - 1,Kavala,PAOK
+23/01/2000,3 - 2,Olympiakos Piraeus,Xanthi
+23/01/2000,1 - 0,Panionios,Ethnikos Asteras
+23/01/2000,0 - 1,Proodeftiki,Iraklis
+23/01/2000,0 - 1,Trikala,AEK Athens
+17/01/2000,1 - 1,Aris,Ionikos
+17/01/2000,2 - 1,Panathinaikos,Panionios
+16/01/2000,3 - 0,AEK Athens,Kavala
+16/01/2000,1 - 0,Ethnikos Asteras,Proodeftiki
+16/01/2000,0 - 1,Kalamata,Trikala
+16/01/2000,2 - 1,OFI,Olympiakos Piraeus
+16/01/2000,0 - 1,Panachaiki,Iraklis
+16/01/2000,1 - 1,PAOK,Apollon Smirnis
+16/01/2000,1 - 0,Xanthi,Paniliakos
+09/01/2000,0 - 1,Ionikos,Kalamata
+09/01/2000,3 - 1,Iraklis,Xanthi
+09/01/2000,4 - 1,Kavala,Trikala
+09/01/2000,2 - 0,Olympiakos Piraeus,Aris
+09/01/2000,2 - 0,Panachaiki,Ethnikos Asteras
+09/01/2000,1 - 2,Paniliakos,OFI
+09/01/2000,1 - 1,Panionios,PAOK
+08/01/2000,3 - 2,Apollon Smirnis,AEK Athens
+08/01/2000,1 - 0,Proodeftiki,Panathinaikos
+05/01/2000,2 - 0,Iraklis,Aris
+30/12/1999,2 - 1,Aris,Paniliakos
+29/12/1999,0 - 1,AEK Athens,Panionios
+29/12/1999,1 - 2,Ionikos,Olympiakos Piraeus
+29/12/1999,1 - 1,OFI,Iraklis
+29/12/1999,7 - 1,Panathinaikos,Panachaiki
+29/12/1999,1 - 0,PAOK,Proodeftiki
+29/12/1999,1 - 0,Trikala,Apollon Smirnis
+29/12/1999,0 - 0,Xanthi,Ethnikos Asteras
+28/12/1999,3 - 2,Kalamata,Kavala
+22/12/1999,0 - 2,Apollon Smirnis,Kavala
+22/12/1999,0 - 1,Ethnikos Asteras,OFI
+22/12/1999,4 - 1,Olympiakos Piraeus,Kalamata
+22/12/1999,3 - 0,Paniliakos,Ionikos
+22/12/1999,4 - 1,Panionios,Trikala
+22/12/1999,1 - 4,Proodeftiki,AEK Athens
+22/12/1999,1 - 3,Xanthi,Panathinaikos
+21/12/1999,1 - 2,Panachaiki,PAOK
+13/12/1999,3 - 0,AEK Athens,Panachaiki
+13/12/1999,3 - 4,OFI,Panathinaikos
+12/12/1999,1 - 1,Aris,Ethnikos Asteras
+12/12/1999,1 - 1,Ionikos,Iraklis
+12/12/1999,3 - 7,Kavala,Panionios
+12/12/1999,2 - 1,Olympiakos Piraeus,Paniliakos
+12/12/1999,5 - 0,PAOK,Xanthi
+12/12/1999,0 - 0,Trikala,Proodeftiki
+11/12/1999,1 - 1,Kalamata,Apollon Smirnis
+06/12/1999,1 - 2,Ethnikos Asteras,Ionikos
+05/12/1999,3 - 4,Iraklis,Olympiakos Piraeus
+05/12/1999,2 - 0,OFI,PAOK
+05/12/1999,3 - 0,Panachaiki,Trikala
+05/12/1999,3 - 0,Panathinaikos,Aris
+05/12/1999,3 - 1,Paniliakos,Kalamata
+05/12/1999,3 - 1,Panionios,Apollon Smirnis
+05/12/1999,1 - 1,Proodeftiki,Kavala
+05/12/1999,2 - 2,Xanthi,AEK Athens
+29/11/1999,2 - 2,Ionikos,Panathinaikos
+29/11/1999,5 - 0,Olympiakos Piraeus,Ethnikos Asteras
+28/11/1999,1 - 2,AEK Athens,OFI
+28/11/1999,0 - 2,Apollon Smirnis,Proodeftiki
+28/11/1999,0 - 0,Aris,PAOK
+28/11/1999,1 - 3,Kalamata,Panionios
+28/11/1999,0 - 0,Kavala,Panachaiki
+28/11/1999,4 - 3,Paniliakos,Iraklis
+28/11/1999,2 - 1,Trikala,Xanthi
+21/11/1999,3 - 1,Ethnikos Asteras,Paniliakos
+21/11/1999,2 - 1,Iraklis,Kalamata
+21/11/1999,2 - 0,OFI,Trikala
+21/11/1999,1 - 2,Panachaiki,Apollon Smirnis
+21/11/1999,2 - 0,Panathinaikos,Olympiakos Piraeus
+21/11/1999,3 - 0,PAOK,Ionikos
+21/11/1999,1 - 0,Proodeftiki,Panionios
+20/11/1999,2 - 0,AEK Athens,Aris
+20/11/1999,1 - 0,Xanthi,Kavala
+15/11/1999,0 - 2,AEK Athens,Olympiakos Piraeus
+08/11/1999,4 - 1,Olympiakos Piraeus,PAOK
+08/11/1999,0 - 1,Paniliakos,Panathinaikos
+08/11/1999,0 - 1,Trikala,Aris
+07/11/1999,0 - 0,Apollon Smirnis,Xanthi
+07/11/1999,2 - 0,Iraklis,Ethnikos Asteras
+07/11/1999,2 - 0,Kalamata,Proodeftiki
+07/11/1999,0 - 1,Kavala,OFI
+07/11/1999,2 - 1,Panionios,Panachaiki
+06/11/1999,1 - 1,Ionikos,AEK Athens
+01/11/1999,1 - 0,OFI,Apollon Smirnis
+31/10/1999,1 - 0,Aris,Kavala
+31/10/1999,2 - 0,Ethnikos Asteras,Kalamata
+31/10/1999,2 - 0,Panachaiki,Proodeftiki
+31/10/1999,3 - 0,Panathinaikos,Iraklis
+31/10/1999,0 - 1,PAOK,Paniliakos
+31/10/1999,2 - 2,Trikala,Ionikos
+31/10/1999,5 - 0,Xanthi,Panionios
+25/10/1999,1 - 2,Ethnikos Asteras,Panathinaikos
+25/10/1999,0 - 1,Paniliakos,AEK Athens
+24/10/1999,3 - 3,Apollon Smirnis,Aris
+24/10/1999,3 - 1,Iraklis,PAOK
+24/10/1999,1 - 1,Kalamata,Panachaiki
+24/10/1999,0 - 0,Kavala,Ionikos
+24/10/1999,1 - 4,Panionios,OFI
+24/10/1999,0 - 0,Proodeftiki,Xanthi
+23/10/1999,3 - 1,Olympiakos Piraeus,Trikala
+18/10/1999,3 - 2,AEK Athens,Iraklis
+17/10/1999,1 - 0,Ionikos,Apollon Smirnis
+17/10/1999,4 - 3,OFI,Proodeftiki
+17/10/1999,5 - 0,Panathinaikos,Kalamata
+17/10/1999,2 - 0,PAOK,Ethnikos Asteras
+17/10/1999,1 - 0,Xanthi,Panachaiki
+16/10/1999,5 - 1,Aris,Panionios
+16/10/1999,1 - 1,Trikala,Paniliakos
+15/10/1999,0 - 5,Kavala,Olympiakos Piraeus
+04/10/1999,2 - 0,Panionios,Ionikos
+04/10/1999,0 - 1,Proodeftiki,Aris
+03/10/1999,0 - 1,Apollon Smirnis,Olympiakos Piraeus
+03/10/1999,1 - 3,Ethnikos Asteras,AEK Athens
+03/10/1999,4 - 1,Iraklis,Trikala
+03/10/1999,0 - 0,Kalamata,Xanthi
+03/10/1999,3 - 1,Panachaiki,OFI
+03/10/1999,1 - 1,Panathinaikos,PAOK
+03/10/1999,2 - 0,Paniliakos,Kavala
+27/09/1999,3 - 1,Kavala,Iraklis
+26/09/1999,1 - 2,AEK Athens,Panathinaikos
+26/09/1999,2 - 0,Aris,Panachaiki
+26/09/1999,2 - 0,Ionikos,Proodeftiki
+26/09/1999,2 - 1,OFI,Xanthi
+26/09/1999,4 - 2,PAOK,Kalamata
+26/09/1999,1 - 2,Trikala,Ethnikos Asteras
+25/09/1999,0 - 0,Apollon Smirnis,Paniliakos
+25/09/1999,5 - 0,Olympiakos Piraeus,Panionios
+20/09/1999,1 - 0,Iraklis,Apollon Smirnis
+20/09/1999,1 - 1,Panachaiki,Ionikos
+20/09/1999,2 - 0,Panathinaikos,Trikala
+20/09/1999,4 - 4,PAOK,AEK Athens
+20/09/1999,0 - 0,Xanthi,Aris
+19/09/1999,1 - 0,Ethnikos Asteras,Kavala
+19/09/1999,0 - 0,Kalamata,OFI
+19/09/1999,1 - 2,Panionios,Paniliakos
+19/09/1999,0 - 3,Proodeftiki,Olympiakos Piraeus

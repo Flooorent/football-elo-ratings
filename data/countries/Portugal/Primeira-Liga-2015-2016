@@ -1,0 +1,307 @@
+date,score,home_team,away_team
+15/05/2016,4 - 1,Benfica,Nacional
+15/05/2016,0 - 4,Sporting Braga,Sporting CP
+15/05/2016,2 - 1,Moreirense,Marítimo
+14/05/2016,2 - 1,Belenenses,Estoril
+14/05/2016,2 - 0,Tondela,Académica
+14/05/2016,1 - 2,União Madeira,Rio Ave
+14/05/2016,0 - 0,Vitória Setúbal,Paços de Ferreira
+14/05/2016,2 - 2,Arouca,Vitória Guimarães
+14/05/2016,4 - 0,Porto,Boavista
+09/05/2016,1 - 1,Estoril,Arouca
+08/05/2016,0 - 2,Marítimo,Benfica
+08/05/2016,4 - 1,Vitória Guimarães,Moreirense
+08/05/2016,1 - 0,Boavista,União Madeira
+08/05/2016,2 - 2,Nacional,Belenenses
+07/05/2016,5 - 0,Sporting CP,Vitória Setúbal
+07/05/2016,0 - 0,Académica,Sporting Braga
+07/05/2016,1 - 3,Rio Ave,Porto
+06/05/2016,1 - 4,Paços de Ferreira,Tondela
+01/05/2016,3 - 1,União Madeira,Académica
+01/05/2016,3 - 0,Arouca,Nacional
+01/05/2016,2 - 1,Estoril,Marítimo
+01/05/2016,1 - 1,Moreirense,Boavista
+30/04/2016,1 - 3,Porto,Sporting CP
+30/04/2016,0 - 2,Belenenses,Paços de Ferreira
+30/04/2016,1 - 1,Tondela,Rio Ave
+29/04/2016,3 - 2,Sporting Braga,Vitória Setúbal
+29/04/2016,1 - 0,Benfica,Vitória Guimarães
+24/04/2016,0 - 1,Rio Ave,Benfica
+24/04/2016,1 - 1,Vitória Guimarães,Estoril
+24/04/2016,1 - 2,Marítimo,Arouca
+24/04/2016,0 - 1,Nacional,Moreirense
+24/04/2016,0 - 1,Vitória Setúbal,Tondela
+23/04/2016,1 - 0,Paços de Ferreira,Sporting Braga
+23/04/2016,2 - 0,Sporting CP,União Madeira
+23/04/2016,1 - 2,Académica,Porto
+22/04/2016,1 - 0,Boavista,Belenenses
+18/04/2016,2 - 1,Benfica,Vitória Setúbal
+18/04/2016,3 - 0,Sporting Braga,Tondela
+17/04/2016,4 - 0,Porto,Nacional
+17/04/2016,3 - 0,Marítimo,Vitória Guimarães
+17/04/2016,1 - 1,Belenenses,Académica
+17/04/2016,3 - 4,União Madeira,Paços de Ferreira
+16/04/2016,0 - 1,Moreirense,Sporting CP
+16/04/2016,1 - 0,Estoril,Boavista
+16/04/2016,0 - 0,Arouca,Rio Ave
+11/04/2016,2 - 0,Rio Ave,Vitória Guimarães
+10/04/2016,1 - 1,Sporting Braga,Moreirense
+10/04/2016,1 - 0,Paços de Ferreira,Porto
+10/04/2016,4 - 1,Nacional,Estoril
+10/04/2016,1 - 0,Tondela,União Madeira
+10/04/2016,0 - 1,Vitória Setúbal,Belenenses
+09/04/2016,3 - 1,Sporting CP,Marítimo
+09/04/2016,1 - 2,Académica,Benfica
+08/04/2016,0 - 0,Boavista,Arouca
+04/04/2016,2 - 5,Belenenses,Sporting CP
+04/04/2016,0 - 1,Porto,Tondela
+03/04/2016,0 - 1,Moreirense,Rio Ave
+03/04/2016,1 - 0,Estoril,Paços de Ferreira
+03/04/2016,2 - 2,União Madeira,Vitória Setúbal
+02/04/2016,1 - 1,Vitória Guimarães,Boavista
+02/04/2016,2 - 0,Marítimo,Nacional
+02/04/2016,3 - 2,Arouca,Académica
+01/04/2016,5 - 1,Benfica,Sporting Braga
+20/03/2016,2 - 0,Sporting Braga,União Madeira
+20/03/2016,0 - 1,Boavista,Benfica
+20/03/2016,0 - 3,Académica,Estoril
+20/03/2016,3 - 2,Nacional,Vitória Guimarães
+20/03/2016,0 - 0,Paços de Ferreira,Moreirense
+20/03/2016,2 - 2,Tondela,Belenenses
+19/03/2016,0 - 1,Vitória Setúbal,Porto
+19/03/2016,5 - 1,Sporting CP,Arouca
+18/03/2016,1 - 0,Rio Ave,Marítimo
+14/03/2016,4 - 1,Benfica,Tondela
+13/03/2016,3 - 0,Belenenses,Sporting Braga
+13/03/2016,0 - 1,Vitória Guimarães,Paços de Ferreira
+13/03/2016,1 - 0,Arouca,Vitória Setúbal
+13/03/2016,2 - 2,Moreirense,Académica
+13/03/2016,1 - 0,Nacional,Rio Ave
+12/03/2016,3 - 2,Porto,União Madeira
+12/03/2016,1 - 2,Estoril,Sporting CP
+11/03/2016,0 - 3,Marítimo,Boavista
+07/03/2016,1 - 3,Rio Ave,Estoril
+06/03/2016,3 - 1,Sporting Braga,Porto
+06/03/2016,2 - 0,Académica,Vitória Guimarães
+06/03/2016,0 - 1,Boavista,Nacional
+06/03/2016,0 - 1,Tondela,Arouca
+06/03/2016,0 - 0,União Madeira,Belenenses
+06/03/2016,0 - 1,Vitória Setúbal,Moreirense
+05/03/2016,0 - 1,Sporting CP,Benfica
+04/03/2016,2 - 2,Paços de Ferreira,Marítimo
+29/02/2016,0 - 0,Vitória Guimarães,Sporting CP
+29/02/2016,2 - 0,Benfica,União Madeira
+28/02/2016,1 - 2,Belenenses,Porto
+28/02/2016,1 - 0,Marítimo,Académica
+28/02/2016,1 - 2,Moreirense,Tondela
+27/02/2016,3 - 0,Estoril,Vitória Setúbal
+27/02/2016,0 - 0,Arouca,Sporting Braga
+27/02/2016,1 - 2,Boavista,Rio Ave
+26/02/2016,3 - 0,Nacional,Paços de Ferreira
+22/02/2016,2 - 0,Sporting CP,Boavista
+21/02/2016,3 - 3,Sporting Braga,Vitória Guimarães
+21/02/2016,3 - 2,Porto,Moreirense
+21/02/2016,0 - 2,Belenenses,Arouca
+21/02/2016,3 - 4,Tondela,Marítimo
+21/02/2016,1 - 1,Vitória Setúbal,Nacional
+20/02/2016,0 - 2,Académica,Rio Ave
+20/02/2016,1 - 3,Paços de Ferreira,Benfica
+19/02/2016,1 - 1,União Madeira,Estoril
+15/02/2016,1 - 1,Rio Ave,Paços de Ferreira
+14/02/2016,1 - 3,Marítimo,Sporting Braga
+14/02/2016,0 - 0,Boavista,Académica
+14/02/2016,3 - 0,Arouca,União Madeira
+14/02/2016,2 - 1,Estoril,Tondela
+13/02/2016,2 - 2,Vitória Guimarães,Vitória Setúbal
+13/02/2016,0 - 4,Nacional,Sporting CP
+13/02/2016,2 - 3,Moreirense,Belenenses
+12/02/2016,1 - 2,Benfica,Porto
+08/02/2016,2 - 0,Sporting Braga,Estoril
+08/02/2016,0 - 0,Sporting CP,Rio Ave
+07/02/2016,1 - 2,Porto,Arouca
+07/02/2016,2 - 2,Académica,Nacional
+07/02/2016,0 - 1,Paços de Ferreira,Boavista
+07/02/2016,0 - 1,União Madeira,Moreirense
+06/02/2016,1 - 1,Tondela,Vitória Guimarães
+06/02/2016,1 - 1,Vitória Setúbal,Marítimo
+05/02/2016,0 - 5,Belenenses,Benfica
+01/02/2016,1 - 2,Marítimo,Belenenses
+31/01/2016,1 - 4,Moreirense,Benfica
+31/01/2016,0 - 0,Boavista,Sporting Braga
+31/01/2016,2 - 2,Arouca,Paços de Ferreira
+31/01/2016,3 - 1,Nacional,Tondela
+31/01/2016,2 - 1,Rio Ave,Vitória Setúbal
+30/01/2016,3 - 2,Sporting CP,Académica
+30/01/2016,1 - 3,Estoril,Porto
+29/01/2016,3 - 1,Vitória Guimarães,União Madeira
+25/01/2016,1 - 2,Tondela,Boavista
+24/01/2016,1 - 0,Porto,Marítimo
+24/01/2016,5 - 1,Sporting Braga,Rio Ave
+24/01/2016,3 - 3,Belenenses,Vitória Guimarães
+23/01/2016,1 - 3,Paços de Ferreira,Sporting CP
+23/01/2016,3 - 1,Benfica,Arouca
+23/01/2016,1 - 3,Moreirense,Estoril
+23/01/2016,3 - 0,União Madeira,Nacional
+22/01/2016,2 - 1,Vitória Setúbal,Académica
+18/01/2016,4 - 0,Boavista,Vitória Setúbal
+17/01/2016,1 - 0,Vitória Guimarães,Porto
+17/01/2016,2 - 3,Nacional,Sporting Braga
+17/01/2016,1 - 2,Arouca,Moreirense
+17/01/2016,1 - 2,Rio Ave,Belenenses
+16/01/2016,1 - 2,Estoril,Benfica
+16/01/2016,0 - 1,Marítimo,União Madeira
+16/01/2016,1 - 1,Académica,Paços de Ferreira
+15/01/2016,2 - 2,Sporting CP,Tondela
+11/01/2016,2 - 1,Paços de Ferreira,Vitória Setúbal
+11/01/2016,1 - 4,Nacional,Benfica
+10/01/2016,0 - 5,Boavista,Porto
+10/01/2016,2 - 1,Académica,Tondela
+10/01/2016,2 - 0,Estoril,Belenenses
+10/01/2016,5 - 1,Marítimo,Moreirense
+10/01/2016,1 - 0,Rio Ave,União Madeira
+10/01/2016,3 - 2,Sporting CP,Sporting Braga
+09/01/2016,2 - 2,Vitória Guimarães,Arouca
+06/01/2016,1 - 1,Porto,Rio Ave
+06/01/2016,0 - 6,Vitória Setúbal,Sporting CP
+06/01/2016,6 - 0,Benfica,Marítimo
+06/01/2016,3 - 0,Sporting Braga,Académica
+06/01/2016,2 - 2,Belenenses,Nacional
+06/01/2016,3 - 4,Moreirense,Vitória Guimarães
+06/01/2016,1 - 0,Arouca,Estoril
+06/01/2016,0 - 2,Tondela,Paços de Ferreira
+06/01/2016,1 - 0,União Madeira,Boavista
+03/01/2016,2 - 3,Rio Ave,Tondela
+02/01/2016,2 - 0,Sporting CP,Porto
+02/01/2016,0 - 1,Vitória Guimarães,Benfica
+02/01/2016,2 - 2,Paços de Ferreira,Belenenses
+02/01/2016,1 - 1,Vitória Setúbal,Sporting Braga
+02/01/2016,3 - 1,Académica,União Madeira
+02/01/2016,0 - 3,Boavista,Moreirense
+02/01/2016,1 - 1,Marítimo,Estoril
+02/01/2016,2 - 2,Nacional,Arouca
+21/12/2015,1 - 1,Sporting Braga,Paços de Ferreira
+21/12/2015,1 - 0,Belenenses,Boavista
+20/12/2015,3 - 1,Porto,Académica
+20/12/2015,1 - 0,[N] União Madeira,Sporting CP
+20/12/2015,3 - 1,Benfica,Rio Ave
+20/12/2015,2 - 0,Moreirense,Nacional
+20/12/2015,1 - 3,Tondela,Vitória Setúbal
+19/12/2015,0 - 1,Estoril,Vitória Guimarães
+19/12/2015,4 - 1,Arouca,Marítimo
+15/12/2015,0 - 0,[N] União Madeira,Benfica
+14/12/2015,4 - 3,Académica,Belenenses
+14/12/2015,1 - 2,Nacional,Porto
+13/12/2015,0 - 1,Tondela,Sporting Braga
+13/12/2015,3 - 1,Sporting CP,Moreirense
+12/12/2015,2 - 4,Vitória Setúbal,Benfica
+12/12/2015,3 - 4,Vitória Guimarães,Marítimo
+12/12/2015,6 - 0,Paços de Ferreira,União Madeira
+12/12/2015,3 - 1,Rio Ave,Arouca
+11/12/2015,1 - 1,Boavista,Estoril
+07/12/2015,3 - 1,Vitória Guimarães,Rio Ave
+06/12/2015,0 - 0,Moreirense,Sporting Braga
+06/12/2015,3 - 2,Arouca,Boavista
+06/12/2015,1 - 1,Estoril,Nacional
+06/12/2015,2 - 0,União Madeira,Tondela
+05/12/2015,0 - 1,Marítimo,Sporting CP
+05/12/2015,2 - 1,Porto,Paços de Ferreira
+05/12/2015,0 - 3,Belenenses,Vitória Setúbal
+04/12/2015,3 - 0,Benfica,Académica
+02/12/2015,0 - 4,[N] União Madeira,Porto
+30/11/2015,0 - 2,Sporting Braga,Benfica
+30/11/2015,1 - 0,Sporting CP,Belenenses
+29/11/2015,2 - 0,Paços de Ferreira,Estoril
+29/11/2015,1 - 1,Académica,Arouca
+29/11/2015,0 - 1,Rio Ave,Moreirense
+28/11/2015,0 - 1,[N] Tondela,Porto
+28/11/2015,1 - 2,Boavista,Vitória Guimarães
+28/11/2015,2 - 2,Vitória Setúbal,União Madeira
+27/11/2015,3 - 1,Nacional,Marítimo
+09/11/2015,0 - 1,[N] União Madeira,Sporting Braga
+09/11/2015,2 - 1,Belenenses,Tondela
+08/11/2015,0 - 1,Arouca,Sporting CP
+08/11/2015,2 - 0,Porto,Vitória Setúbal
+08/11/2015,2 - 0,Benfica,Boavista
+08/11/2015,3 - 2,Marítimo,Rio Ave
+08/11/2015,2 - 0,Moreirense,Paços de Ferreira
+07/11/2015,0 - 1,Vitória Guimarães,Nacional
+06/11/2015,1 - 1,Estoril,Académica
+02/11/2015,0 - 1,Paços de Ferreira,Vitória Guimarães
+01/11/2015,0 - 1,Boavista,Marítimo
+01/11/2015,1 - 1,Académica,Moreirense
+01/11/2015,1 - 0,Rio Ave,Nacional
+01/11/2015,0 - 0,Vitória Setúbal,Arouca
+31/10/2015,1 - 0,Sporting CP,Estoril
+31/10/2015,4 - 0,Sporting Braga,Belenenses
+30/10/2015,0 - 4,[N] Tondela,Benfica
+26/10/2015,1 - 0,Belenenses,União Madeira
+25/10/2015,0 - 0,Porto,Sporting Braga
+25/10/2015,0 - 3,Benfica,Sporting CP
+25/10/2015,1 - 1,Arouca,Tondela
+25/10/2015,0 - 2,Moreirense,Vitória Setúbal
+24/10/2015,1 - 1,Vitória Guimarães,Académica
+24/10/2015,2 - 2,Estoril,Rio Ave
+24/10/2015,0 - 2,Marítimo,Paços de Ferreira
+23/10/2015,0 - 0,Nacional,Boavista
+04/10/2015,5 - 1,Sporting CP,Vitória Guimarães
+04/10/2015,4 - 0,Porto,Belenenses
+04/10/2015,0 - 0,Sporting Braga,Arouca
+03/10/2015,1 - 0,Rio Ave,Boavista
+03/10/2015,1 - 0,Académica,Marítimo
+03/10/2015,3 - 1,Paços de Ferreira,Nacional
+03/10/2015,1 - 1,Tondela,Moreirense
+02/10/2015,1 - 0,Vitória Setúbal,Estoril
+28/09/2015,1 - 0,Rio Ave,Académica
+27/09/2015,0 - 1,Vitória Guimarães,Sporting Braga
+27/09/2015,2 - 2,Arouca,Belenenses
+27/09/2015,2 - 1,Estoril,União Madeira
+27/09/2015,1 - 0,Marítimo,Tondela
+27/09/2015,1 - 1,Nacional,Vitória Setúbal
+26/09/2015,0 - 0,Boavista,Sporting CP
+26/09/2015,3 - 0,Benfica,Paços de Ferreira
+25/09/2015,2 - 2,Moreirense,Porto
+21/09/2015,1 - 0,Sporting CP,Nacional
+21/09/2015,5 - 1,Sporting Braga,Marítimo
+21/09/2015,2 - 0,Belenenses,Moreirense
+20/09/2015,1 - 0,Porto,Benfica
+20/09/2015,0 - 2,Académica,Boavista
+20/09/2015,0 - 0,União Madeira,Arouca
+19/09/2015,0 - 3,Paços de Ferreira,Rio Ave
+19/09/2015,0 - 1,Tondela,Estoril
+18/09/2015,2 - 2,Vitória Setúbal,Vitória Guimarães
+14/09/2015,0 - 1,Boavista,Paços de Ferreira
+13/09/2015,1 - 2,Rio Ave,Sporting CP
+13/09/2015,1 - 0,Vitória Guimarães,Tondela
+13/09/2015,5 - 2,Marítimo,Vitória Setúbal
+13/09/2015,0 - 0,Moreirense,União Madeira
+13/09/2015,2 - 0,Nacional,Académica
+12/09/2015,1 - 3,Arouca,Porto
+12/09/2015,1 - 0,Estoril,Sporting Braga
+11/09/2015,6 - 0,Benfica,Belenenses
+31/08/2015,0 - 0,[N] União Madeira,Vitória Guimarães
+31/08/2015,1 - 1,Belenenses,Marítimo
+30/08/2015,1 - 3,Académica,Sporting CP
+30/08/2015,1 - 1,Paços de Ferreira,Arouca
+30/08/2015,4 - 0,Sporting Braga,Boavista
+30/08/2015,1 - 0,Tondela,Nacional
+29/08/2015,3 - 2,Benfica,Moreirense
+29/08/2015,2 - 0,Porto,Estoril
+29/08/2015,2 - 2,Vitória Setúbal,Rio Ave
+24/08/2015,0 - 4,Académica,Vitória Setúbal
+23/08/2015,1 - 0,[N] Arouca,Benfica
+23/08/2015,1 - 0,Boavista,Tondela
+23/08/2015,2 - 0,Estoril,Moreirense
+23/08/2015,1 - 0,Nacional,União Madeira
+23/08/2015,1 - 1,Vitória Guimarães,Belenenses
+22/08/2015,1 - 1,Marítimo,Porto
+22/08/2015,1 - 1,Sporting CP,Paços de Ferreira
+21/08/2015,1 - 0,Rio Ave,Sporting Braga
+17/08/2015,1 - 0,Paços de Ferreira,Académica
+16/08/2015,4 - 0,Benfica,Estoril
+16/08/2015,2 - 1,Sporting Braga,Nacional
+16/08/2015,0 - 2,Moreirense,Arouca
+16/08/2015,2 - 1,União Madeira,Marítimo
+16/08/2015,2 - 2,Vitória Setúbal,Boavista
+15/08/2015,3 - 0,Porto,Vitória Guimarães
+15/08/2015,3 - 3,Belenenses,Rio Ave
+14/08/2015,1 - 2,[N] Tondela,Sporting CP

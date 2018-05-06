@@ -1,0 +1,381 @@
+date,score,home_team,away_team
+22/05/2011,2 - 2,Juventus,Napoli
+22/05/2011,2 - 4,Lecce,Lazio
+22/05/2011,3 - 1,Roma,Sampdoria
+22/05/2011,0 - 0,Udinese,Milan
+22/05/2011,0 - 4,Bologna,Bari 1908
+22/05/2011,2 - 2,Brescia,Fiorentina
+22/05/2011,1 - 1,Cagliari,Parma
+22/05/2011,3 - 2,Genoa,Cesena
+22/05/2011,3 - 1,Internazionale,Catania
+22/05/2011,1 - 3,Palermo,Chievo
+15/05/2011,1 - 1,Napoli,Internazionale
+15/05/2011,0 - 2,Bari 1908,Lecce
+15/05/2011,2 - 1,Catania,Roma
+15/05/2011,1 - 0,Cesena,Brescia
+15/05/2011,0 - 2,Chievo,Udinese
+15/05/2011,1 - 0,Parma,Juventus
+15/05/2011,1 - 2,Sampdoria,Palermo
+15/05/2011,1 - 1,Fiorentina,Bologna
+14/05/2011,4 - 1,Milan,Cagliari
+14/05/2011,4 - 2,Lazio,Genoa
+09/05/2011,2 - 2,Juventus,Chievo
+08/05/2011,2 - 1,Genoa,Sampdoria
+08/05/2011,0 - 0,Bologna,Parma
+08/05/2011,1 - 2,Brescia,Catania
+08/05/2011,0 - 2,Cagliari,Cesena
+08/05/2011,3 - 1,Internazionale,Fiorentina
+08/05/2011,2 - 1,Lecce,Napoli
+08/05/2011,2 - 1,Udinese,Lazio
+07/05/2011,0 - 0,Roma,Milan
+07/05/2011,2 - 1,Palermo,Bari 1908
+02/05/2011,0 - 1,Lazio,Juventus
+01/05/2011,2 - 3,Bari 1908,Roma
+01/05/2011,2 - 0,Catania,Cagliari
+01/05/2011,1 - 0,Chievo,Lecce
+01/05/2011,5 - 2,Fiorentina,Udinese
+01/05/2011,1 - 0,Milan,Bologna
+01/05/2011,3 - 1,Parma,Palermo
+01/05/2011,3 - 3,Sampdoria,Brescia
+30/04/2011,1 - 0,Napoli,Genoa
+30/04/2011,1 - 2,Cesena,Internazionale
+23/04/2011,2 - 2,Juventus,Catania
+23/04/2011,0 - 1,Brescia,Milan
+23/04/2011,0 - 1,Bari 1908,Sampdoria
+23/04/2011,0 - 2,Bologna,Cesena
+23/04/2011,1 - 2,Cagliari,Fiorentina
+23/04/2011,4 - 2,Genoa,Lecce
+23/04/2011,2 - 1,Internazionale,Lazio
+23/04/2011,2 - 1,Palermo,Napoli
+23/04/2011,0 - 2,Udinese,Parma
+23/04/2011,1 - 0,Roma,Chievo
+17/04/2011,1 - 2,Napoli,Udinese
+17/04/2011,1 - 4,Catania,Lazio
+17/04/2011,1 - 0,Cesena,Bari 1908
+17/04/2011,2 - 0,Chievo,Bologna
+17/04/2011,0 - 0,Fiorentina,Juventus
+17/04/2011,3 - 0,Genoa,Brescia
+17/04/2011,3 - 3,Lecce,Cagliari
+16/04/2011,3 - 0,Milan,Sampdoria
+16/04/2011,2 - 0,Parma,Internazionale
+16/04/2011,2 - 3,Roma,Palermo
+10/04/2011,1 - 2,Fiorentina,Milan
+10/04/2011,1 - 1,Bari 1908,Catania
+10/04/2011,0 - 2,Bologna,Napoli
+10/04/2011,1 - 1,Cagliari,Brescia
+10/04/2011,2 - 0,Lazio,Parma
+10/04/2011,2 - 2,Palermo,Cesena
+10/04/2011,1 - 2,Sampdoria,Lecce
+10/04/2011,3 - 2,Juventus,Genoa
+09/04/2011,1 - 2,Udinese,Roma
+09/04/2011,2 - 0,Internazionale,Chievo
+03/04/2011,0 - 2,Roma,Juventus
+03/04/2011,4 - 0,Catania,Palermo
+03/04/2011,2 - 2,Cesena,Fiorentina
+03/04/2011,0 - 0,Chievo,Sampdoria
+03/04/2011,0 - 1,Genoa,Cagliari
+03/04/2011,2 - 0,Lecce,Udinese
+03/04/2011,1 - 2,Parma,Bari 1908
+03/04/2011,4 - 3,Napoli,Lazio
+02/04/2011,3 - 0,Milan,Internazionale
+02/04/2011,3 - 1,Brescia,Bologna
+20/03/2011,2 - 1,Napoli,Cagliari
+20/03/2011,1 - 2,Bari 1908,Chievo
+20/03/2011,1 - 1,Bologna,Genoa
+20/03/2011,1 - 0,Internazionale,Lecce
+20/03/2011,2 - 1,Juventus,Brescia
+20/03/2011,0 - 1,Sampdoria,Parma
+20/03/2011,2 - 0,Udinese,Catania
+20/03/2011,2 - 2,Fiorentina,Roma
+19/03/2011,1 - 0,Palermo,Milan
+19/03/2011,1 - 0,Lazio,Cesena
+13/03/2011,1 - 3,Parma,Napoli
+13/03/2011,0 - 4,Cagliari,Udinese
+13/03/2011,1 - 0,Catania,Sampdoria
+13/03/2011,0 - 1,Chievo,Fiorentina
+13/03/2011,1 - 0,Genoa,Palermo
+13/03/2011,0 - 1,Lecce,Bologna
+13/03/2011,2 - 0,Roma,Lazio
+13/03/2011,1 - 1,Milan,Bari 1908
+12/03/2011,2 - 2,Cesena,Juventus
+11/03/2011,1 - 1,Brescia,Internazionale
+06/03/2011,2 - 0,Lazio,Palermo
+06/03/2011,2 - 2,Bologna,Cagliari
+06/03/2011,0 - 0,Chievo,Parma
+06/03/2011,3 - 0,Fiorentina,Catania
+06/03/2011,5 - 2,Internazionale,Genoa
+06/03/2011,0 - 0,Napoli,Brescia
+06/03/2011,1 - 0,Udinese,Bari 1908
+06/03/2011,2 - 3,Sampdoria,Cesena
+05/03/2011,0 - 1,Juventus,Milan
+04/03/2011,1 - 2,Lecce,Roma
+28/02/2011,3 - 0,Milan,Napoli
+27/02/2011,0 - 2,Sampdoria,Internazionale
+27/02/2011,1 - 1,Bari 1908,Fiorentina
+27/02/2011,2 - 2,Brescia,Lecce
+27/02/2011,1 - 0,Cagliari,Lazio
+27/02/2011,1 - 0,Cesena,Chievo
+27/02/2011,0 - 7,Palermo,Udinese
+27/02/2011,2 - 2,Roma,Parma
+27/02/2011,2 - 1,Catania,Genoa
+26/02/2011,0 - 2,Juventus,Bologna
+23/02/2011,0 - 1,Bologna,Roma
+20/02/2011,1 - 0,Napoli,Catania
+20/02/2011,1 - 2,Chievo,Milan
+20/02/2011,0 - 0,Fiorentina,Sampdoria
+20/02/2011,4 - 3,Genoa,Roma
+20/02/2011,1 - 0,Lazio,Bari 1908
+20/02/2011,2 - 2,Parma,Cesena
+20/02/2011,0 - 0,Udinese,Brescia
+20/02/2011,2 - 0,Lecce,Juventus
+19/02/2011,1 - 0,Internazionale,Cagliari
+19/02/2011,1 - 0,Bologna,Palermo
+16/02/2011,1 - 2,Fiorentina,Internazionale
+16/02/2011,0 - 1,Sampdoria,Genoa
+13/02/2011,1 - 0,Juventus,Internazionale
+13/02/2011,0 - 0,Bari 1908,Genoa
+13/02/2011,0 - 2,Brescia,Lazio
+13/02/2011,4 - 1,Cagliari,Chievo
+13/02/2011,3 - 2,Catania,Lecce
+13/02/2011,0 - 3,Cesena,Udinese
+13/02/2011,3 - 1,Sampdoria,Bologna
+13/02/2011,2 - 4,Palermo,Fiorentina
+12/02/2011,0 - 2,Roma,Napoli
+12/02/2011,4 - 0,Milan,Parma
+06/02/2011,5 - 3,Internazionale,Roma
+06/02/2011,2 - 0,Brescia,Bari 1908
+06/02/2011,1 - 1,Genoa,Milan
+06/02/2011,1 - 1,Lazio,Chievo
+06/02/2011,2 - 4,Lecce,Palermo
+06/02/2011,2 - 0,Napoli,Cesena
+06/02/2011,1 - 1,Parma,Fiorentina
+06/02/2011,1 - 0,Bologna,Catania
+05/02/2011,1 - 3,Cagliari,Juventus
+05/02/2011,2 - 0,Udinese,Sampdoria
+03/02/2011,0 - 3,Bari 1908,Internazionale
+02/02/2011,1 - 1,Cesena,Catania
+02/02/2011,2 - 0,Chievo,Napoli
+02/02/2011,1 - 0,Fiorentina,Genoa
+02/02/2011,2 - 1,Palermo,Juventus
+02/02/2011,0 - 1,Parma,Lecce
+02/02/2011,1 - 1,Roma,Brescia
+02/02/2011,0 - 1,Sampdoria,Cagliari
+02/02/2011,1 - 1,Udinese,Bologna
+01/02/2011,0 - 0,Milan,Lazio
+30/01/2011,1 - 2,Juventus,Udinese
+30/01/2011,2 - 1,Cagliari,Bari 1908
+30/01/2011,3 - 1,Genoa,Parma
+30/01/2011,3 - 2,Internazionale,Palermo
+30/01/2011,1 - 1,Lecce,Cesena
+30/01/2011,4 - 0,Napoli,Sampdoria
+30/01/2011,0 - 3,Brescia,Chievo
+29/01/2011,0 - 2,Catania,Milan
+29/01/2011,2 - 0,Lazio,Fiorentina
+23/01/2011,2 - 0,Milan,Cesena
+23/01/2011,0 - 2,Bari 1908,Napoli
+23/01/2011,3 - 1,Bologna,Lazio
+23/01/2011,0 - 0,Chievo,Genoa
+23/01/2011,1 - 1,Fiorentina,Lecce
+23/01/2011,0 - 0,Sampdoria,Juventus
+23/01/2011,3 - 1,Udinese,Internazionale
+22/01/2011,3 - 0,Roma,Cagliari
+22/01/2011,1 - 0,Palermo,Brescia
+22/01/2011,2 - 0,Parma,Catania
+19/01/2011,3 - 2,Internazionale,Cesena
+16/01/2011,1 - 1,Lecce,Milan
+16/01/2011,2 - 0,Brescia,Parma
+16/01/2011,1 - 1,Catania,Chievo
+16/01/2011,0 - 1,Cesena,Roma
+16/01/2011,2 - 4,Genoa,Udinese
+16/01/2011,2 - 1,Juventus,Bari 1908
+16/01/2011,1 - 0,Lazio,Sampdoria
+16/01/2011,3 - 1,Cagliari,Palermo
+15/01/2011,4 - 1,Internazionale,Bologna
+15/01/2011,0 - 0,Napoli,Fiorentina
+09/01/2011,3 - 0,Napoli,Juventus
+09/01/2011,0 - 2,Bari 1908,Bologna
+09/01/2011,1 - 2,Catania,Internazionale
+09/01/2011,0 - 0,Cesena,Genoa
+09/01/2011,0 - 0,Chievo,Palermo
+09/01/2011,3 - 2,Fiorentina,Brescia
+09/01/2011,1 - 2,Lazio,Lecce
+09/01/2011,4 - 4,Milan,Udinese
+09/01/2011,1 - 2,Parma,Cagliari
+09/01/2011,2 - 1,Sampdoria,Roma
+06/01/2011,3 - 1,Internazionale,Napoli
+06/01/2011,1 - 1,Bologna,Fiorentina
+06/01/2011,1 - 2,Brescia,Cesena
+06/01/2011,0 - 1,Cagliari,Milan
+06/01/2011,0 - 0,Genoa,Lazio
+06/01/2011,0 - 1,Lecce,Bari 1908
+06/01/2011,3 - 0,Palermo,Sampdoria
+06/01/2011,4 - 2,Roma,Catania
+06/01/2011,2 - 0,Udinese,Chievo
+06/01/2011,1 - 4,Juventus,Parma
+19/12/2010,1 - 1,Bari 1908,Palermo
+19/12/2010,1 - 0,Catania,Brescia
+19/12/2010,1 - 1,Chievo,Juventus
+19/12/2010,1 - 0,Napoli,Lecce
+19/12/2010,0 - 0,Parma,Bologna
+19/12/2010,3 - 2,Lazio,Udinese
+18/12/2010,0 - 1,Milan,Roma
+18/12/2010,1 - 0,Cesena,Cagliari
+12/12/2010,2 - 1,Juventus,Lazio
+12/12/2010,1 - 0,Brescia,Sampdoria
+12/12/2010,3 - 0,Cagliari,Catania
+12/12/2010,3 - 2,Lecce,Chievo
+12/12/2010,1 - 0,Roma,Bari 1908
+12/12/2010,0 - 3,Bologna,Milan
+11/12/2010,0 - 1,Genoa,Napoli
+11/12/2010,3 - 1,Palermo,Parma
+11/12/2010,2 - 1,Udinese,Fiorentina
+08/12/2010,2 - 1,Bologna,Chievo
+06/12/2010,1 - 0,Napoli,Palermo
+05/12/2010,1 - 3,Catania,Juventus
+05/12/2010,0 - 2,Cesena,Bologna
+05/12/2010,1 - 0,Fiorentina,Cagliari
+05/12/2010,1 - 3,Lecce,Genoa
+05/12/2010,2 - 1,Parma,Udinese
+05/12/2010,3 - 0,Sampdoria,Bari 1908
+04/12/2010,3 - 0,Milan,Brescia
+04/12/2010,2 - 2,Chievo,Roma
+03/12/2010,3 - 1,Lazio,Internazionale
+28/11/2010,3 - 1,Palermo,Roma
+28/11/2010,1 - 1,Bari 1908,Cesena
+28/11/2010,0 - 0,Brescia,Genoa
+28/11/2010,3 - 2,Cagliari,Lecce
+28/11/2010,1 - 1,Lazio,Catania
+28/11/2010,3 - 1,Udinese,Napoli
+28/11/2010,5 - 2,Internazionale,Parma
+27/11/2010,1 - 1,Juventus,Fiorentina
+27/11/2010,1 - 1,Sampdoria,Milan
+21/11/2010,4 - 1,Napoli,Bologna
+21/11/2010,1 - 2,Brescia,Cagliari
+21/11/2010,1 - 0,Catania,Bari 1908
+21/11/2010,1 - 2,Cesena,Palermo
+21/11/2010,2 - 1,Chievo,Internazionale
+21/11/2010,2 - 3,Lecce,Sampdoria
+21/11/2010,1 - 1,Parma,Lazio
+21/11/2010,0 - 2,Genoa,Juventus
+20/11/2010,1 - 0,Milan,Fiorentina
+20/11/2010,2 - 0,Roma,Udinese
+14/11/2010,0 - 1,Internazionale,Milan
+14/11/2010,0 - 1,Bari 1908,Parma
+14/11/2010,1 - 0,Bologna,Brescia
+14/11/2010,0 - 1,Cagliari,Genoa
+14/11/2010,3 - 1,Palermo,Catania
+14/11/2010,0 - 0,Sampdoria,Chievo
+14/11/2010,4 - 0,Udinese,Lecce
+14/11/2010,2 - 0,Lazio,Napoli
+13/11/2010,1 - 1,Juventus,Roma
+13/11/2010,1 - 0,Fiorentina,Cesena
+11/11/2010,1 - 0,Parma,Sampdoria
+10/11/2010,1 - 1,Brescia,Juventus
+10/11/2010,0 - 1,Cagliari,Napoli
+10/11/2010,1 - 0,Catania,Udinese
+10/11/2010,1 - 0,Cesena,Lazio
+10/11/2010,0 - 0,Chievo,Bari 1908
+10/11/2010,1 - 0,Genoa,Bologna
+10/11/2010,1 - 1,Lecce,Internazionale
+10/11/2010,3 - 1,Milan,Palermo
+10/11/2010,3 - 2,Roma,Fiorentina
+07/11/2010,1 - 0,Palermo,Genoa
+07/11/2010,2 - 3,Bari 1908,Milan
+07/11/2010,3 - 1,Juventus,Cesena
+07/11/2010,0 - 2,Lazio,Roma
+07/11/2010,2 - 0,Napoli,Parma
+07/11/2010,0 - 0,Sampdoria,Catania
+07/11/2010,1 - 1,Udinese,Cagliari
+07/11/2010,1 - 0,Fiorentina,Chievo
+06/11/2010,1 - 1,Internazionale,Brescia
+06/11/2010,2 - 0,Bologna,Lecce
+31/10/2010,0 - 0,Catania,Fiorentina
+31/10/2010,0 - 2,Bari 1908,Udinese
+31/10/2010,0 - 1,Brescia,Napoli
+31/10/2010,2 - 0,Cagliari,Bologna
+31/10/2010,0 - 1,Cesena,Sampdoria
+31/10/2010,0 - 0,Parma,Chievo
+31/10/2010,0 - 1,Palermo,Lazio
+30/10/2010,1 - 2,Milan,Juventus
+30/10/2010,2 - 0,Roma,Lecce
+29/10/2010,0 - 1,Genoa,Internazionale
+25/10/2010,1 - 2,Napoli,Milan
+24/10/2010,1 - 1,Internazionale,Sampdoria
+24/10/2010,0 - 0,Bologna,Juventus
+24/10/2010,2 - 1,Chievo,Cesena
+24/10/2010,1 - 0,Genoa,Catania
+24/10/2010,2 - 1,Lazio,Cagliari
+24/10/2010,2 - 1,Lecce,Brescia
+24/10/2010,2 - 1,Udinese,Palermo
+24/10/2010,0 - 0,Parma,Roma
+23/10/2010,2 - 1,Fiorentina,Bari 1908
+17/10/2010,0 - 2,Bari 1908,Lazio
+17/10/2010,0 - 1,Brescia,Udinese
+17/10/2010,1 - 1,Catania,Napoli
+17/10/2010,1 - 1,Cesena,Parma
+17/10/2010,4 - 0,Juventus,Lecce
+17/10/2010,4 - 1,Palermo,Bologna
+17/10/2010,2 - 1,Sampdoria,Fiorentina
+17/10/2010,0 - 1,Cagliari,Internazionale
+16/10/2010,2 - 1,Roma,Genoa
+16/10/2010,3 - 1,Milan,Chievo
+03/10/2010,0 - 0,Internazionale,Juventus
+03/10/2010,1 - 1,Bologna,Sampdoria
+03/10/2010,0 - 0,Chievo,Cagliari
+03/10/2010,1 - 2,Fiorentina,Palermo
+03/10/2010,2 - 1,Genoa,Bari 1908
+03/10/2010,1 - 0,Lazio,Brescia
+03/10/2010,2 - 0,Napoli,Roma
+03/10/2010,1 - 0,Lecce,Catania
+02/10/2010,0 - 1,Parma,Milan
+02/10/2010,1 - 0,Udinese,Cesena
+26/09/2010,4 - 2,Juventus,Cagliari
+26/09/2010,2 - 1,Bari 1908,Brescia
+26/09/2010,1 - 1,Catania,Bologna
+26/09/2010,0 - 1,Chievo,Lazio
+26/09/2010,2 - 0,Fiorentina,Parma
+26/09/2010,2 - 2,Palermo,Lecce
+26/09/2010,0 - 0,Sampdoria,Udinese
+26/09/2010,1 - 4,Cesena,Napoli
+25/09/2010,1 - 0,Roma,Internazionale
+25/09/2010,1 - 0,Milan,Genoa
+23/09/2010,1 - 3,Juventus,Palermo
+22/09/2010,2 - 1,Bologna,Udinese
+22/09/2010,2 - 1,Brescia,Roma
+22/09/2010,0 - 0,Cagliari,Sampdoria
+22/09/2010,2 - 0,Catania,Cesena
+22/09/2010,1 - 1,Genoa,Fiorentina
+22/09/2010,4 - 0,Internazionale,Bari 1908
+22/09/2010,1 - 1,Lazio,Milan
+22/09/2010,1 - 1,Lecce,Parma
+22/09/2010,1 - 3,Napoli,Chievo
+19/09/2010,1 - 2,Sampdoria,Napoli
+19/09/2010,1 - 0,Cesena,Lecce
+19/09/2010,0 - 1,Chievo,Brescia
+19/09/2010,1 - 2,Palermo,Internazionale
+19/09/2010,1 - 1,Parma,Genoa
+19/09/2010,2 - 2,Roma,Bologna
+19/09/2010,0 - 4,Udinese,Juventus
+19/09/2010,0 - 0,Bari 1908,Cagliari
+18/09/2010,1 - 1,Milan,Catania
+18/09/2010,1 - 2,Fiorentina,Lazio
+12/09/2010,2 - 2,Napoli,Bari 1908
+12/09/2010,2 - 1,Catania,Parma
+12/09/2010,1 - 3,Genoa,Chievo
+12/09/2010,3 - 3,Juventus,Sampdoria
+12/09/2010,3 - 1,Lazio,Bologna
+12/09/2010,1 - 0,Lecce,Fiorentina
+12/09/2010,3 - 2,Brescia,Palermo
+11/09/2010,5 - 1,Cagliari,Roma
+11/09/2010,2 - 0,Cesena,Milan
+11/09/2010,2 - 1,Internazionale,Udinese
+30/08/2010,0 - 0,Bologna,Internazionale
+29/08/2010,2 - 1,Chievo,Catania
+29/08/2010,1 - 1,Fiorentina,Napoli
+29/08/2010,4 - 0,Milan,Lecce
+29/08/2010,0 - 0,Palermo,Cagliari
+29/08/2010,2 - 0,Parma,Brescia
+29/08/2010,2 - 0,Sampdoria,Lazio
+29/08/2010,1 - 0,Bari 1908,Juventus
+28/08/2010,0 - 0,Roma,Cesena
+28/08/2010,0 - 1,Udinese,Genoa

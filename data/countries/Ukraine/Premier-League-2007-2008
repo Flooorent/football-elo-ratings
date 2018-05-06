@@ -1,0 +1,241 @@
+date,score,home_team,away_team
+17/05/2008,0 - 0,Arsenal Kyiv,Kharkiv
+17/05/2008,1 - 1,Chornomorets,Kryvbas
+17/05/2008,0 - 0,Dnipro Dnipropetrovsk,Karpaty
+17/05/2008,0 - 2,Hoverla,Zorya
+17/05/2008,2 - 2,Metalist,Dynamo Kyiv
+17/05/2008,4 - 1,Shakhtar Donetsk,Metalurh Donetsk
+17/05/2008,2 - 2,Tavriya,Metalurh Zaporizhya
+17/05/2008,1 - 1,Vorskla,Naftovyk-Ukrnafta
+11/05/2008,2 - 1,Dynamo Kyiv,Vorskla
+11/05/2008,2 - 0,Karpaty,Chornomorets
+11/05/2008,0 - 3,Kharkiv,Shakhtar Donetsk
+11/05/2008,0 - 0,Kryvbas,Arsenal Kyiv
+11/05/2008,1 - 1,Metalurh Donetsk,Metalist
+11/05/2008,0 - 0,Metalurh Zaporizhya,Dnipro Dnipropetrovsk
+11/05/2008,3 - 2,Naftovyk-Ukrnafta,Hoverla
+11/05/2008,2 - 3,Zorya,Tavriya
+04/05/2008,2 - 0,Arsenal Kyiv,Karpaty
+04/05/2008,0 - 1,Tavriya,Dnipro Dnipropetrovsk
+04/05/2008,1 - 0,Zorya,Naftovyk-Ukrnafta
+03/05/2008,1 - 1,Chornomorets,Metalurh Zaporizhya
+03/05/2008,1 - 0,Shakhtar Donetsk,Kryvbas
+03/05/2008,2 - 0,Vorskla,Metalurh Donetsk
+03/05/2008,1 - 4,Hoverla,Dynamo Kyiv
+02/05/2008,2 - 0,Metalist,Kharkiv
+26/04/2008,0 - 1,Naftovyk-Ukrnafta,Tavriya
+26/04/2008,3 - 0,Dynamo Kyiv,Zorya
+26/04/2008,0 - 3,Kryvbas,Metalist
+26/04/2008,0 - 1,Metalurh Zaporizhya,Arsenal Kyiv
+26/04/2008,0 - 3,Kharkiv,Vorskla
+26/04/2008,2 - 4,Karpaty,Shakhtar Donetsk
+26/04/2008,5 - 0,Metalurh Donetsk,Hoverla
+25/04/2008,1 - 0,Dnipro Dnipropetrovsk,Chornomorets
+22/04/2008,1 - 4,Zorya,Shakhtar Donetsk
+20/04/2008,0 - 3,Hoverla,Kharkiv
+20/04/2008,0 - 3,Naftovyk-Ukrnafta,Dynamo Kyiv
+20/04/2008,3 - 0,Tavriya,Chornomorets
+19/04/2008,1 - 1,Zorya,Metalurh Donetsk
+19/04/2008,4 - 0,Shakhtar Donetsk,Metalurh Zaporizhya
+19/04/2008,2 - 1,Vorskla,Kryvbas
+19/04/2008,4 - 0,Metalist,Karpaty
+18/04/2008,2 - 1,Arsenal Kyiv,Dnipro Dnipropetrovsk
+13/04/2008,0 - 1,Kharkiv,Zorya
+13/04/2008,1 - 1,Kryvbas,Hoverla
+13/04/2008,0 - 2,Metalurh Zaporizhya,Metalist
+12/04/2008,0 - 1,Chornomorets,Arsenal Kyiv
+12/04/2008,3 - 0,Dynamo Kyiv,Tavriya
+12/04/2008,2 - 1,Metalurh Donetsk,Naftovyk-Ukrnafta
+12/04/2008,1 - 3,Dnipro Dnipropetrovsk,Shakhtar Donetsk
+11/04/2008,1 - 2,Karpaty,Vorskla
+06/04/2008,1 - 4,Naftovyk-Ukrnafta,Kharkiv
+06/04/2008,0 - 1,Shakhtar Donetsk,Chornomorets
+06/04/2008,1 - 0,Metalist,Dnipro Dnipropetrovsk
+06/04/2008,2 - 1,Vorskla,Metalurh Zaporizhya
+05/04/2008,3 - 3,Dynamo Kyiv,Metalurh Donetsk
+05/04/2008,1 - 2,Hoverla,Karpaty
+05/04/2008,1 - 2,Zorya,Kryvbas
+04/04/2008,1 - 1,Tavriya,Arsenal Kyiv
+31/03/2008,1 - 0,Dnipro Dnipropetrovsk,Vorskla
+30/03/2008,0 - 1,Kryvbas,Naftovyk-Ukrnafta
+30/03/2008,0 - 1,Kharkiv,Dynamo Kyiv
+30/03/2008,2 - 4,Arsenal Kyiv,Shakhtar Donetsk
+29/03/2008,3 - 0,Karpaty,Zorya
+29/03/2008,0 - 0,Metalurh Zaporizhya,Hoverla
+29/03/2008,1 - 2,Metalurh Donetsk,Tavriya
+29/03/2008,0 - 1,Chornomorets,Metalist
+23/03/2008,3 - 0,Dynamo Kyiv,Kryvbas
+23/03/2008,2 - 0,Vorskla,Chornomorets
+23/03/2008,0 - 0,Metalurh Donetsk,Kharkiv
+23/03/2008,3 - 2,Tavriya,Shakhtar Donetsk
+22/03/2008,1 - 1,Hoverla,Dnipro Dnipropetrovsk
+22/03/2008,0 - 0,Naftovyk-Ukrnafta,Karpaty
+22/03/2008,0 - 1,Zorya,Metalurh Zaporizhya
+21/03/2008,2 - 4,Metalist,Arsenal Kyiv
+16/03/2008,1 - 0,Dnipro Dnipropetrovsk,Zorya
+16/03/2008,1 - 0,Metalurh Zaporizhya,Naftovyk-Ukrnafta
+16/03/2008,3 - 2,Arsenal Kyiv,Vorskla
+15/03/2008,3 - 1,Chornomorets,Hoverla
+15/03/2008,1 - 1,Kryvbas,Metalurh Donetsk
+15/03/2008,4 - 1,Shakhtar Donetsk,Metalist
+15/03/2008,1 - 2,Karpaty,Dynamo Kyiv
+14/03/2008,1 - 1,Kharkiv,Tavriya
+09/03/2008,0 - 0,Kharkiv,Kryvbas
+09/03/2008,1 - 1,Naftovyk-Ukrnafta,Dnipro Dnipropetrovsk
+09/03/2008,0 - 1,Vorskla,Shakhtar Donetsk
+08/03/2008,2 - 1,Dynamo Kyiv,Metalurh Zaporizhya
+08/03/2008,0 - 0,Hoverla,Arsenal Kyiv
+08/03/2008,0 - 0,Tavriya,Metalist
+08/03/2008,0 - 2,Zorya,Chornomorets
+07/03/2008,1 - 0,Metalurh Donetsk,Karpaty
+02/03/2008,1 - 1,Kryvbas,Tavriya
+02/03/2008,0 - 4,Dnipro Dnipropetrovsk,Dynamo Kyiv
+02/03/2008,1 - 0,Karpaty,Kharkiv
+02/03/2008,1 - 0,Metalurh Zaporizhya,Metalurh Donetsk
+01/03/2008,0 - 1,Chornomorets,Naftovyk-Ukrnafta
+01/03/2008,3 - 0,Metalist,Vorskla
+01/03/2008,5 - 0,Shakhtar Donetsk,Hoverla
+29/02/2008,1 - 1,Arsenal Kyiv,Zorya
+02/12/2007,0 - 1,Kharkiv,Metalurh Zaporizhya
+02/12/2007,0 - 1,Kryvbas,Karpaty
+01/12/2007,0 - 3,Metalurh Donetsk,Dnipro Dnipropetrovsk
+01/12/2007,1 - 0,Naftovyk-Ukrnafta,Arsenal Kyiv
+01/12/2007,5 - 2,Dynamo Kyiv,Chornomorets
+01/12/2007,0 - 1,Hoverla,Metalist
+30/11/2007,1 - 0,Tavriya,Vorskla
+25/11/2007,1 - 0,Dnipro Dnipropetrovsk,Kharkiv
+25/11/2007,2 - 1,Metalist,Zorya
+25/11/2007,1 - 1,Metalurh Zaporizhya,Kryvbas
+24/11/2007,0 - 1,Arsenal Kyiv,Dynamo Kyiv
+24/11/2007,4 - 0,Karpaty,Tavriya
+24/11/2007,1 - 1,Shakhtar Donetsk,Naftovyk-Ukrnafta
+24/11/2007,2 - 0,Vorskla,Hoverla
+23/11/2007,1 - 0,Chornomorets,Metalurh Donetsk
+11/11/2007,2 - 1,Dynamo Kyiv,Shakhtar Donetsk
+11/11/2007,0 - 2,Naftovyk-Ukrnafta,Metalist
+10/11/2007,1 - 2,Kryvbas,Dnipro Dnipropetrovsk
+10/11/2007,1 - 3,Karpaty,Metalurh Zaporizhya
+10/11/2007,1 - 2,Metalurh Donetsk,Arsenal Kyiv
+10/11/2007,0 - 0,Zorya,Vorskla
+10/11/2007,4 - 1,Tavriya,Hoverla
+09/11/2007,1 - 1,Kharkiv,Chornomorets
+04/11/2007,0 - 0,Metalurh Zaporizhya,Tavriya
+04/11/2007,3 - 0,Kryvbas,Chornomorets
+04/11/2007,1 - 0,Zorya,Hoverla
+03/11/2007,0 - 1,Dynamo Kyiv,Metalist
+03/11/2007,2 - 0,Kharkiv,Arsenal Kyiv
+03/11/2007,0 - 1,Metalurh Donetsk,Shakhtar Donetsk
+03/11/2007,2 - 0,Naftovyk-Ukrnafta,Vorskla
+02/11/2007,0 - 1,Karpaty,Dnipro Dnipropetrovsk
+28/10/2007,1 - 0,Dnipro Dnipropetrovsk,Metalurh Zaporizhya
+28/10/2007,2 - 0,Tavriya,Zorya
+28/10/2007,2 - 1,Shakhtar Donetsk,Kharkiv
+27/10/2007,1 - 1,Metalist,Metalurh Donetsk
+27/10/2007,0 - 0,Arsenal Kyiv,Kryvbas
+27/10/2007,0 - 1,Vorskla,Dynamo Kyiv
+27/10/2007,0 - 0,Hoverla,Naftovyk-Ukrnafta
+26/10/2007,4 - 0,Chornomorets,Karpaty
+21/10/2007,0 - 2,Kharkiv,Metalist
+21/10/2007,0 - 0,Karpaty,Arsenal Kyiv
+21/10/2007,2 - 1,Dnipro Dnipropetrovsk,Tavriya
+20/10/2007,1 - 0,Kryvbas,Shakhtar Donetsk
+20/10/2007,0 - 0,Naftovyk-Ukrnafta,Zorya
+19/10/2007,1 - 0,Dynamo Kyiv,Hoverla
+19/10/2007,0 - 0,Metalurh Donetsk,Vorskla
+19/10/2007,0 - 2,Metalurh Zaporizhya,Chornomorets
+07/10/2007,1 - 2,Chornomorets,Dnipro Dnipropetrovsk
+07/10/2007,3 - 2,Metalist,Kryvbas
+07/10/2007,3 - 0,Shakhtar Donetsk,Karpaty
+06/10/2007,1 - 2,Zorya,Dynamo Kyiv
+06/10/2007,2 - 1,Arsenal Kyiv,Metalurh Zaporizhya
+06/10/2007,1 - 0,Tavriya,Naftovyk-Ukrnafta
+06/10/2007,1 - 1,Hoverla,Metalurh Donetsk
+05/10/2007,1 - 1,Vorskla,Kharkiv
+30/09/2007,1 - 3,Dnipro Dnipropetrovsk,Arsenal Kyiv
+30/09/2007,0 - 2,Karpaty,Metalist
+30/09/2007,2 - 0,Chornomorets,Tavriya
+29/09/2007,0 - 1,Dynamo Kyiv,Naftovyk-Ukrnafta
+29/09/2007,0 - 2,Kharkiv,Hoverla
+29/09/2007,3 - 0,Kryvbas,Vorskla
+29/09/2007,1 - 3,Metalurh Zaporizhya,Shakhtar Donetsk
+28/09/2007,1 - 0,Metalurh Donetsk,Zorya
+23/09/2007,1 - 2,Arsenal Kyiv,Chornomorets
+23/09/2007,4 - 1,Shakhtar Donetsk,Dnipro Dnipropetrovsk
+23/09/2007,2 - 1,Metalist,Metalurh Zaporizhya
+22/09/2007,1 - 4,Tavriya,Dynamo Kyiv
+22/09/2007,2 - 3,Hoverla,Kryvbas
+22/09/2007,0 - 0,Vorskla,Karpaty
+22/09/2007,2 - 1,Zorya,Kharkiv
+21/09/2007,2 - 2,Naftovyk-Ukrnafta,Metalurh Donetsk
+16/09/2007,3 - 0,Dnipro Dnipropetrovsk,Metalist
+16/09/2007,0 - 1,Arsenal Kyiv,Tavriya
+16/09/2007,1 - 2,Kryvbas,Zorya
+15/09/2007,1 - 2,Chornomorets,Shakhtar Donetsk
+15/09/2007,2 - 0,Karpaty,Hoverla
+15/09/2007,1 - 2,Metalurh Donetsk,Dynamo Kyiv
+15/09/2007,1 - 1,Metalurh Zaporizhya,Vorskla
+14/09/2007,1 - 0,Kharkiv,Naftovyk-Ukrnafta
+02/09/2007,2 - 0,Metalist,Chornomorets
+02/09/2007,2 - 1,Vorskla,Dnipro Dnipropetrovsk
+02/09/2007,0 - 1,Zorya,Karpaty
+01/09/2007,2 - 0,Dynamo Kyiv,Kharkiv
+01/09/2007,1 - 2,Naftovyk-Ukrnafta,Kryvbas
+01/09/2007,4 - 1,Shakhtar Donetsk,Arsenal Kyiv
+01/09/2007,1 - 1,Hoverla,Metalurh Zaporizhya
+31/08/2007,3 - 3,Tavriya,Metalurh Donetsk
+26/08/2007,1 - 1,Arsenal Kyiv,Metalist
+26/08/2007,0 - 0,Dnipro Dnipropetrovsk,Hoverla
+26/08/2007,1 - 0,Chornomorets,Vorskla
+25/08/2007,3 - 0,Metalurh Zaporizhya,Zorya
+25/08/2007,2 - 0,Shakhtar Donetsk,Tavriya
+25/08/2007,1 - 1,Karpaty,Naftovyk-Ukrnafta
+25/08/2007,0 - 1,Kryvbas,Dynamo Kyiv
+24/08/2007,1 - 1,Kharkiv,Metalurh Donetsk
+19/08/2007,7 - 3,Dynamo Kyiv,Karpaty
+19/08/2007,0 - 1,Zorya,Dnipro Dnipropetrovsk
+19/08/2007,1 - 3,Metalist,Shakhtar Donetsk
+18/08/2007,1 - 0,Tavriya,Kharkiv
+18/08/2007,0 - 1,Naftovyk-Ukrnafta,Metalurh Zaporizhya
+18/08/2007,2 - 0,Hoverla,Chornomorets
+18/08/2007,0 - 1,Metalurh Donetsk,Kryvbas
+17/08/2007,2 - 1,Vorskla,Arsenal Kyiv
+12/08/2007,3 - 0,Metalist,Tavriya
+12/08/2007,1 - 1,Kryvbas,Kharkiv
+12/08/2007,0 - 0,Karpaty,Metalurh Donetsk
+11/08/2007,7 - 0,Arsenal Kyiv,Hoverla
+11/08/2007,2 - 0,Dnipro Dnipropetrovsk,Naftovyk-Ukrnafta
+11/08/2007,2 - 1,Shakhtar Donetsk,Vorskla
+11/08/2007,0 - 1,Metalurh Zaporizhya,Dynamo Kyiv
+10/08/2007,1 - 0,Chornomorets,Zorya
+05/08/2007,1 - 3,Dynamo Kyiv,Dnipro Dnipropetrovsk
+05/08/2007,0 - 1,Naftovyk-Ukrnafta,Chornomorets
+05/08/2007,0 - 1,Hoverla,Shakhtar Donetsk
+04/08/2007,1 - 0,Kharkiv,Karpaty
+04/08/2007,1 - 1,Vorskla,Metalist
+04/08/2007,4 - 3,Tavriya,Kryvbas
+04/08/2007,3 - 1,Zorya,Arsenal Kyiv
+03/08/2007,3 - 0,Metalurh Donetsk,Metalurh Zaporizhya
+01/08/2007,0 - 0,Chornomorets,Dynamo Kyiv
+29/07/2007,1 - 0,Metalist,Hoverla
+29/07/2007,4 - 1,Dnipro Dnipropetrovsk,Metalurh Donetsk
+28/07/2007,3 - 0,Arsenal Kyiv,Naftovyk-Ukrnafta
+28/07/2007,3 - 0,Karpaty,Kryvbas
+28/07/2007,0 - 0,Metalurh Zaporizhya,Kharkiv
+28/07/2007,0 - 0,Vorskla,Tavriya
+27/07/2007,3 - 0,Shakhtar Donetsk,Zorya
+25/07/2007,0 - 0,Metalurh Donetsk,Chornomorets
+22/07/2007,2 - 2,Dynamo Kyiv,Arsenal Kyiv
+22/07/2007,0 - 0,Hoverla,Vorskla
+21/07/2007,1 - 2,Kharkiv,Dnipro Dnipropetrovsk
+21/07/2007,0 - 1,Kryvbas,Metalurh Zaporizhya
+21/07/2007,0 - 3,Naftovyk-Ukrnafta,Shakhtar Donetsk
+21/07/2007,3 - 2,Zorya,Metalist
+20/07/2007,2 - 1,Tavriya,Karpaty
+18/07/2007,0 - 1,Chornomorets,Kharkiv
+15/07/2007,1 - 1,Shakhtar Donetsk,Dynamo Kyiv
+15/07/2007,1 - 3,Arsenal Kyiv,Metalurh Donetsk
+14/07/2007,2 - 0,Dnipro Dnipropetrovsk,Kryvbas
+14/07/2007,1 - 1,Vorskla,Zorya
+14/07/2007,1 - 0,Hoverla,Tavriya
+14/07/2007,2 - 0,Metalist,Naftovyk-Ukrnafta
+13/07/2007,1 - 0,Metalurh Zaporizhya,Karpaty

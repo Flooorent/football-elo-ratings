@@ -1,0 +1,482 @@
+date,score,home_team,away_team
+18/05/2011,1 - 0,[N] Porto,Sporting Braga
+05/05/2011,1 - 0,Sporting Braga,Benfica
+05/05/2011,3 - 2,Villarreal,Porto
+28/04/2011,2 - 1,Benfica,Sporting Braga
+28/04/2011,5 - 1,Porto,Villarreal
+14/04/2011,2 - 2,PSV,Benfica
+14/04/2011,0 - 0,Sporting Braga,Dynamo Kyiv
+14/04/2011,1 - 3,Twente,Villarreal
+14/04/2011,2 - 5,Spartak Moskva,Porto
+07/04/2011,4 - 1,Benfica,PSV
+07/04/2011,1 - 1,Dynamo Kyiv,Sporting Braga
+07/04/2011,5 - 1,Porto,Spartak Moskva
+07/04/2011,5 - 1,Villarreal,Twente
+17/03/2011,0 - 0,Liverpool,Sporting Braga
+17/03/2011,2 - 1,Porto,CSKA Moskva
+17/03/2011,0 - 1,Rangers,PSV
+17/03/2011,2 - 1,Villarreal,Bayer Leverkusen
+17/03/2011,1 - 0,Manchester City,Dynamo Kyiv
+17/03/2011,1 - 1,PSG,Benfica
+17/03/2011,3 - 0,Spartak Moskva,Ajax
+17/03/2011,2 - 0,Zenit,Twente
+10/03/2011,0 - 1,Ajax,Spartak Moskva
+10/03/2011,2 - 1,Benfica,PSG
+10/03/2011,2 - 0,Dynamo Kyiv,Manchester City
+10/03/2011,3 - 0,Twente,Zenit
+10/03/2011,2 - 3,Bayer Leverkusen,Villarreal
+10/03/2011,0 - 1,[N] CSKA Moskva,Porto
+10/03/2011,0 - 0,PSV,Rangers
+10/03/2011,1 - 0,Sporting Braga,Liverpool
+24/02/2011,2 - 0,Ajax,Anderlecht
+24/02/2011,4 - 0,Dynamo Kyiv,Beşiktaş
+24/02/2011,3 - 0,Manchester City,Aris
+24/02/2011,0 - 0,PSG,BATE
+24/02/2011,2 - 0,Sporting Braga,Lech Poznań
+24/02/2011,0 - 2,Stuttgart,Benfica
+24/02/2011,2 - 2,Twente,Rubin Kazan'
+24/02/2011,2 - 1,Villarreal,Napoli
+24/02/2011,2 - 0,Bayer Leverkusen,Metalist
+24/02/2011,1 - 0,Liverpool,Sparta Praha
+24/02/2011,3 - 1,PSV,Lille
+24/02/2011,1 - 1,Spartak Moskva,Basel
+24/02/2011,2 - 2,Sporting CP,Rangers
+24/02/2011,3 - 1,Zenit,Young Boys
+23/02/2011,0 - 1,Porto,Sevilla
+22/02/2011,1 - 1,CSKA Moskva,PAOK
+17/02/2011,2 - 3,Basel,Spartak Moskva
+17/02/2011,2 - 2,Lille,PSV
+17/02/2011,0 - 1,PAOK,CSKA Moskva
+17/02/2011,1 - 1,Rangers,Sporting CP
+17/02/2011,1 - 2,Sevilla,Porto
+17/02/2011,0 - 0,Sparta Praha,Liverpool
+17/02/2011,2 - 1,Young Boys,Zenit
+17/02/2011,0 - 3,Anderlecht,Ajax
+17/02/2011,2 - 2,[N] BATE,PSG
+17/02/2011,2 - 1,Benfica,Stuttgart
+17/02/2011,1 - 4,Beşiktaş,Dynamo Kyiv
+17/02/2011,1 - 0,Lech Poznań,Sporting Braga
+17/02/2011,0 - 0,Napoli,Villarreal
+17/02/2011,0 - 4,Metalist,Bayer Leverkusen
+17/02/2011,0 - 2,Rubin Kazan',Twente
+15/02/2011,0 - 0,Aris,Manchester City
+16/12/2010,1 - 1,Juventus,Manchester City
+16/12/2010,0 - 1,Salzburg,Lech Poznań
+01/12/2010,1 - 1,Lech Poznań,Juventus
+01/12/2010,3 - 0,Manchester City,Salzburg
+04/11/2010,0 - 0,Juventus,Salzburg
+04/11/2010,3 - 1,Lech Poznań,Manchester City
+21/10/2010,3 - 1,Manchester City,Lech Poznań
+21/10/2010,1 - 1,Salzburg,Juventus
+30/09/2010,2 - 0,Lech Poznań,Salzburg
+30/09/2010,1 - 1,Manchester City,Juventus
+16/09/2010,3 - 3,Juventus,Lech Poznań
+16/09/2010,0 - 2,Salzburg,Manchester City
+16/12/2010,2 - 0,Aris,Rosenborg
+16/12/2010,1 - 1,Bayer Leverkusen,Atlético Madrid
+01/12/2010,2 - 3,Atlético Madrid,Aris
+01/12/2010,0 - 1,Rosenborg,Bayer Leverkusen
+04/11/2010,1 - 0,Bayer Leverkusen,Aris
+04/11/2010,1 - 2,Rosenborg,Atlético Madrid
+21/10/2010,0 - 0,Aris,Bayer Leverkusen
+21/10/2010,3 - 0,Atlético Madrid,Rosenborg
+30/09/2010,1 - 1,Atlético Madrid,Bayer Leverkusen
+30/09/2010,2 - 1,Rosenborg,Aris
+16/09/2010,1 - 0,Aris,Atlético Madrid
+16/09/2010,4 - 0,Bayer Leverkusen,Rosenborg
+16/12/2010,1 - 0,[N] Levski Sofia,Sporting CP
+16/12/2010,3 - 0,Lille,Gent
+01/12/2010,1 - 0,Gent,Levski Sofia
+01/12/2010,1 - 0,Sporting CP,Lille
+04/11/2010,3 - 1,Gent,Sporting CP
+04/11/2010,2 - 2,[N] Levski Sofia,Lille
+21/10/2010,1 - 0,Lille,Levski Sofia
+21/10/2010,5 - 1,Sporting CP,Gent
+30/09/2010,1 - 1,Gent,Lille
+30/09/2010,5 - 0,Sporting CP,Levski Sofia
+16/09/2010,3 - 2,[N] Levski Sofia,Gent
+16/09/2010,1 - 2,Lille,Sporting CP
+15/12/2010,1 - 2,Club Brugge,Villarreal
+15/12/2010,0 - 1,Dinamo Zagreb,PAOK
+02/12/2010,1 - 1,PAOK,Club Brugge
+02/12/2010,3 - 0,Villarreal,Dinamo Zagreb
+04/11/2010,0 - 2,Club Brugge,Dinamo Zagreb
+04/11/2010,1 - 0,PAOK,Villarreal
+21/10/2010,0 - 0,Dinamo Zagreb,Club Brugge
+21/10/2010,1 - 0,Villarreal,PAOK
+30/09/2010,1 - 0,PAOK,Dinamo Zagreb
+30/09/2010,2 - 1,Villarreal,Club Brugge
+16/09/2010,1 - 1,Club Brugge,PAOK
+16/09/2010,2 - 0,Dinamo Zagreb,Villarreal
+15/12/2010,3 - 0,AZ,BATE
+15/12/2010,0 - 0,Dynamo Kyiv,Sheriff
+02/12/2010,1 - 4,[N] BATE,Dynamo Kyiv
+02/12/2010,1 - 1,Sheriff,AZ
+04/11/2010,3 - 1,[N] BATE,Sheriff
+04/11/2010,2 - 0,Dynamo Kyiv,AZ
+21/10/2010,1 - 2,AZ,Dynamo Kyiv
+21/10/2010,0 - 1,Sheriff,BATE
+30/09/2010,4 - 1,[N] BATE,AZ
+30/09/2010,2 - 0,Sheriff,Dynamo Kyiv
+16/09/2010,2 - 1,AZ,Sheriff
+16/09/2010,2 - 2,Dynamo Kyiv,BATE
+15/12/2010,0 - 1,Lausanne Sport,Palermo
+15/12/2010,1 - 1,Sparta Praha,CSKA Moskva
+02/12/2010,2 - 2,Palermo,Sparta Praha
+02/12/2010,5 - 1,CSKA Moskva,Lausanne Sport
+04/11/2010,3 - 1,CSKA Moskva,Palermo
+04/11/2010,1 - 3,Lausanne Sport,Sparta Praha
+21/10/2010,0 - 3,Palermo,CSKA Moskva
+21/10/2010,3 - 3,Sparta Praha,Lausanne Sport
+30/09/2010,1 - 0,Palermo,Lausanne Sport
+30/09/2010,3 - 0,CSKA Moskva,Sparta Praha
+16/09/2010,0 - 3,Lausanne Sport,CSKA Moskva
+16/09/2010,3 - 2,Sparta Praha,Palermo
+16/12/2010,0 - 3,AEK Athens,Zenit
+16/12/2010,2 - 0,Anderlecht,Hajduk Split
+01/12/2010,1 - 3,Hajduk Split,AEK Athens
+01/12/2010,3 - 1,Zenit,Anderlecht
+04/11/2010,1 - 1,AEK Athens,Anderlecht
+04/11/2010,2 - 3,Hajduk Split,Zenit
+21/10/2010,3 - 0,Anderlecht,AEK Athens
+21/10/2010,2 - 0,Zenit,Hajduk Split
+30/09/2010,1 - 0,Hajduk Split,Anderlecht
+30/09/2010,4 - 2,Zenit,AEK Athens
+16/09/2010,3 - 1,AEK Athens,Hajduk Split
+16/09/2010,1 - 3,Anderlecht,Zenit
+16/12/2010,1 - 0,Getafe,Young Boys
+16/12/2010,5 - 1,Stuttgart,OB
+01/12/2010,4 - 2,Young Boys,Stuttgart
+01/12/2010,1 - 1,OB,Getafe
+04/11/2010,0 - 3,Getafe,Stuttgart
+04/11/2010,2 - 0,OB,Young Boys
+21/10/2010,1 - 0,Stuttgart,Getafe
+21/10/2010,4 - 2,Young Boys,OB
+30/09/2010,1 - 2,OB,Stuttgart
+30/09/2010,2 - 0,Young Boys,Getafe
+16/09/2010,2 - 1,Getafe,OB
+16/09/2010,3 - 0,Stuttgart,Young Boys
+16/12/2010,2 - 0,Debrecen,Sampdoria
+16/12/2010,0 - 0,PSV,Metalist
+01/12/2010,2 - 1,Metalist,Debrecen
+01/12/2010,1 - 2,Sampdoria,PSV
+04/11/2010,3 - 0,PSV,Debrecen
+04/11/2010,0 - 0,Sampdoria,Metalist
+21/10/2010,1 - 2,Debrecen,PSV
+21/10/2010,2 - 1,Metalist,Sampdoria
+30/09/2010,0 - 2,Metalist,PSV
+30/09/2010,1 - 0,Sampdoria,Debrecen
+16/09/2010,0 - 5,Debrecen,Metalist
+16/09/2010,1 - 1,PSV,Sampdoria
+15/12/2010,1 - 1,Karpaty,PSG
+15/12/2010,2 - 2,Sevilla,Borussia Dortmund
+02/12/2010,3 - 0,Borussia Dortmund,Karpaty
+02/12/2010,4 - 2,PSG,Sevilla
+04/11/2010,0 - 0,PSG,Borussia Dortmund
+04/11/2010,4 - 0,Sevilla,Karpaty
+21/10/2010,1 - 1,Borussia Dortmund,PSG
+21/10/2010,0 - 1,Karpaty,Sevilla
+30/09/2010,0 - 1,Borussia Dortmund,Sevilla
+30/09/2010,2 - 0,PSG,Karpaty
+16/09/2010,3 - 4,Karpaty,Borussia Dortmund
+16/09/2010,0 - 1,Sevilla,PSG
+15/12/2010,0 - 0,Liverpool,Utrecht
+15/12/2010,1 - 0,Napoli,FCSB
+02/12/2010,1 - 1,FCSB,Liverpool
+02/12/2010,3 - 3,Utrecht,Napoli
+04/11/2010,3 - 1,FCSB,Utrecht
+04/11/2010,3 - 1,Liverpool,Napoli
+21/10/2010,0 - 0,Napoli,Liverpool
+21/10/2010,1 - 1,Utrecht,FCSB
+30/09/2010,3 - 3,FCSB,Napoli
+30/09/2010,0 - 0,Utrecht,Liverpool
+16/09/2010,4 - 1,Liverpool,FCSB
+16/09/2010,0 - 0,Napoli,Utrecht
+15/12/2010,2 - 0,Beşiktaş,Rapid Wien
+15/12/2010,3 - 1,Porto,CSKA Sofia
+02/12/2010,1 - 2,CSKA Sofia,Beşiktaş
+02/12/2010,1 - 3,Rapid Wien,Porto
+04/11/2010,1 - 1,Porto,Beşiktaş
+04/11/2010,1 - 2,Rapid Wien,CSKA Sofia
+21/10/2010,1 - 3,Beşiktaş,Porto
+21/10/2010,0 - 2,CSKA Sofia,Rapid Wien
+30/09/2010,0 - 1,CSKA Sofia,Porto
+30/09/2010,1 - 2,Rapid Wien,Beşiktaş
+16/09/2010,1 - 0,Beşiktaş,CSKA Sofia
+16/09/2010,3 - 0,Porto,Rapid Wien
+26/08/2010,4 - 2,Porto,Genk
+26/08/2010,2 - 1,Dinamo Zagreb,Győri ETO
+26/08/2010,2 - 3,Aston Villa,Rapid Wien
+26/08/2010,0 - 2,Elfsborg,Napoli
+26/08/2010,1 - 1,Fenerbahçe,PAOK
+26/08/2010,1 - 0,Juventus,Sturm Graz
+26/08/2010,1 - 1,Karpaty,Galatasaray
+26/08/2010,2 - 0,Lille,Vaslui
+26/08/2010,2 - 0,Manchester City,Politehnica Timişoara
+26/08/2010,3 - 2,Maribor,Palermo
+26/08/2010,0 - 1,Motherwell,OB
+26/08/2010,2 - 2,The New Saints,CSKA Sofia
+26/08/2010,4 - 0,Utrecht,Celtic
+26/08/2010,0 - 0,Lech Poznań,Dnipro Dnipropetrovsk
+26/08/2010,1 - 1,[N] AEK Athens,Dundee United
+26/08/2010,2 - 0,Gent,Feyenoord
+26/08/2010,4 - 3,Maccabi Tel Aviv,PSG
+26/08/2010,2 - 2,Stuttgart,Slovan Bratislava
+26/08/2010,1 - 3,Tavriya,Bayer Leverkusen
+26/08/2010,1 - 0,Grasshopper,FCSB [PS] 
+26/08/2010,2 - 1,[N] Levski Sofia,AIK
+26/08/2010,1 - 2,Lovech,Debrecen
+26/08/2010,5 - 0,PSV,Sibir
+26/08/2010,1 - 2,Trabzonspor,Liverpool
+26/08/2010,1 - 1,Unirea Urziceni,Hajduk Split
+26/08/2010,1 - 0,APOEL,Getafe
+26/08/2010,1 - 1,[N] Austria Wien,Aris
+26/08/2010,0 - 3,Brøndby,Sporting CP
+26/08/2010,2 - 2,Metalist,Omonia Nicosia
+26/08/2010,0 - 4,HJK,Beşiktaş
+26/08/2010,2 - 1,Aktobe,AZ
+26/08/2010,2 - 3,Dinamo Minsk,Club Brugge
+26/08/2010,1 - 2,Dnepr Mogilev,Villarreal
+26/08/2010,1 - 1,Lokomotiv Moskva,Lausanne Sport [PS] 
+26/08/2010,1 - 2,Marítimo,BATE
+26/08/2010,0 - 1,Qarabağ,Borussia Dortmund
+24/08/2010,1 - 2,Anorthosis,CSKA Moskva
+19/08/2010,5 - 0,Villarreal,Dnepr Mogilev
+19/08/2010,0 - 2,Sporting CP,Brøndby
+19/08/2010,4 - 0,Borussia Dortmund,Qarabağ
+19/08/2010,1 - 2,Sturm Graz,Juventus
+19/08/2010,2 - 0,AZ,Aktobe
+19/08/2010,0 - 1,Dundee United,AEK Athens
+19/08/2010,1 - 0,Getafe,APOEL
+19/08/2010,0 - 2,Győri ETO,Dinamo Zagreb
+19/08/2010,1 - 0,Napoli,Elfsborg
+19/08/2010,0 - 1,Politehnica Timişoara,Manchester City
+19/08/2010,2 - 0,Celtic,Utrecht
+19/08/2010,1 - 0,Liverpool,Trabzonspor
+19/08/2010,2 - 1,Club Brugge,Dinamo Minsk
+19/08/2010,3 - 0,CSKA Sofia,The New Saints
+19/08/2010,0 - 3,Genk,Porto
+19/08/2010,4 - 1,Hajduk Split,Unirea Urziceni
+19/08/2010,1 - 1,Lausanne Sport,Lokomotiv Moskva
+19/08/2010,3 - 0,Palermo,Maribor
+19/08/2010,1 - 0,PAOK,Fenerbahçe
+19/08/2010,2 - 2,Galatasaray,Karpaty
+19/08/2010,1 - 0,FCSB,Grasshopper
+19/08/2010,1 - 0,Feyenoord,Gent
+19/08/2010,2 - 1,OB,Motherwell
+19/08/2010,0 - 0,AIK,Levski Sofia
+19/08/2010,2 - 0,Debrecen,Lovech
+19/08/2010,0 - 1,Dnipro Dnipropetrovsk,Lech Poznań
+19/08/2010,0 - 1,Omonia Nicosia,Metalist
+19/08/2010,0 - 0,Vaslui,Lille
+19/08/2010,1 - 1,[N] Rapid Wien,Aston Villa
+19/08/2010,0 - 1,Slovan Bratislava,Stuttgart
+19/08/2010,3 - 0,Bayer Leverkusen,Tavriya
+19/08/2010,4 - 0,CSKA Moskva,Anorthosis
+19/08/2010,2 - 0,PSG,Maccabi Tel Aviv
+19/08/2010,3 - 0,BATE,Marítimo
+19/08/2010,1 - 0,Sibir,PSV
+17/08/2010,1 - 0,Aris,Austria Wien
+17/08/2010,2 - 0,Beşiktaş,HJK
+05/08/2010,2 - 1,Sporting CP,Nordsjælland
+05/08/2010,0 - 0,Zrinjski,OB
+05/08/2010,1 - 2,Cliftonville,CSKA Sofia
+05/08/2010,2 - 3,Hibernian,Maribor
+05/08/2010,1 - 0,Juventus,Shamrock Rovers
+05/08/2010,2 - 0,Liverpool,Rabotnički
+05/08/2010,0 - 1,Montpellier,Győri ETO [PS] 
+05/08/2010,3 - 0,Motherwell,Aalesund
+05/08/2010,3 - 0,[N] Austria Wien,Ruch Chorzów
+05/08/2010,1 - 2,Bangor City,Marítimo
+05/08/2010,3 - 0,Hajduk Split,Dinamo Bucureşti
+05/08/2010,1 - 1,Slovan Bratislava,Crvena Zvezda
+05/08/2010,2 - 2,Stuttgart,Molde
+05/08/2010,3 - 0,Beşiktaş,Viktoria Plzeň
+05/08/2010,3 - 2,Genk,Inter Turku
+05/08/2010,1 - 3,Jablonec,APOEL
+05/08/2010,1 - 0,Maccabi Tel Aviv,Olympiakos Piraeus
+05/08/2010,2 - 2,Aris,Jagiellonia Białystok
+05/08/2010,5 - 2,[N] Levski Sofia,Kalmar
+05/08/2010,1 - 3,Luzern,Utrecht
+05/08/2010,1 - 0,Brøndby,Budućnost
+05/08/2010,1 - 1,Lausanne Sport,Randers
+05/08/2010,3 - 3,Politehnica Timişoara,MYPA
+05/08/2010,3 - 1,Anorthosis,Cercle Brugge
+05/08/2010,2 - 1,Apollon,Sibir
+05/08/2010,2 - 0,Dnipro Dnipropetrovsk,Spartak Subotica
+05/08/2010,1 - 0,IFK Göteborg,AZ
+05/08/2010,1 - 1,Dinamo Tbilisi,Sturm Graz
+05/08/2010,1 - 2,Baník Ostrava,Dnepr Mogilev
+05/08/2010,3 - 1,Dinamo Minsk,Maccabi Haifa
+05/08/2010,3 - 2,Qarabağ,Wisła Kraków
+05/08/2010,0 - 1,Zestafoni,Karpaty
+05/08/2010,1 - 5,OFK Beograd,Galatasaray
+05/08/2010,1 - 2,Teteks,Elfsborg
+03/08/2010,3 - 0,[N] Rapid Wien,Beroe
+29/07/2010,1 - 2,Budućnost,Brøndby
+29/07/2010,2 - 0,AZ,IFK Göteborg
+29/07/2010,1 - 2,Jagiellonia Białystok,Aris
+29/07/2010,8 - 2,[N] Marítimo,Bangor City
+29/07/2010,0 - 2,Rabotnički,Liverpool
+29/07/2010,0 - 2,Shamrock Rovers,Juventus
+29/07/2010,1 - 2,Crvena Zvezda,Slovan Bratislava
+29/07/2010,0 - 1,Győri ETO,Montpellier
+29/07/2010,3 - 0,Maribor,Hibernian
+29/07/2010,0 - 1,Nordsjælland,Sporting CP
+29/07/2010,2 - 1,Olympiakos Piraeus,Maccabi Tel Aviv
+29/07/2010,2 - 0,Sturm Graz,Dinamo Tbilisi
+29/07/2010,1 - 1,Viktoria Plzeň,Beşiktaş
+29/07/2010,1 - 0,Cercle Brugge,Anorthosis
+29/07/2010,3 - 1,Dinamo Bucureşti,Hajduk Split
+29/07/2010,2 - 2,Galatasaray,OFK Beograd
+29/07/2010,0 - 1,Wisła Kraków,Qarabağ
+29/07/2010,1 - 0,Maccabi Haifa,Dinamo Minsk
+29/07/2010,1 - 1,Kalmar,Levski Sofia
+29/07/2010,5 - 3,OB,Zrinjski
+29/07/2010,1 - 1,Aalesund,Motherwell
+29/07/2010,1 - 0,APOEL,Jablonec
+29/07/2010,2 - 3,Randers,Lausanne Sport
+29/07/2010,1 - 0,Utrecht,Luzern
+29/07/2010,5 - 0,Elfsborg,Teteks
+29/07/2010,2 - 3,Molde,Stuttgart
+29/07/2010,1 - 0,Karpaty,Zestafoni
+29/07/2010,1 - 1,Beroe,Rapid Wien
+29/07/2010,1 - 0,Dnepr Mogilev,Baník Ostrava
+29/07/2010,1 - 5,Inter Turku,Genk
+29/07/2010,1 - 2,MYPA,Politehnica Timişoara
+29/07/2010,1 - 3,Ruch Chorzów,Austria Wien
+29/07/2010,2 - 1,Spartak Subotica,Dnipro Dnipropetrovsk
+29/07/2010,1 - 0,Sibir,Apollon
+27/07/2010,3 - 0,CSKA Sofia,Cliftonville
+23/07/2010,0 - 5,Sant Julià,MYPA
+22/07/2010,0 - 1,Breidablik,Motherwell
+22/07/2010,1 - 2,Budućnost,Bakı
+22/07/2010,1 - 1,Borac Banja Luka,Lausanne Sport
+22/07/2010,0 - 0,Cibalia,Cliftonville
+22/07/2010,2 - 3,Sporting Fingal,Marítimo
+22/07/2010,2 - 1,Bangor City,Honka
+22/07/2010,2 - 0,Győri ETO,Atyrau
+22/07/2010,2 - 0,Maribor,Videoton
+22/07/2010,6 - 1,Olympiakos Piraeus,Besa Kavajë
+22/07/2010,4 - 2,[N] Rapid Wien,Sūduva
+22/07/2010,2 - 9,Tre Penne,Zrinjski
+22/07/2010,0 - 2,Dundalk,Levski Sofia
+22/07/2010,0 - 0,Ruch Chorzów,Valletta
+22/07/2010,0 - 2,Šibenik,Anorthosis [ET] 
+22/07/2010,0 - 0,Vaduz,Brøndby
+22/07/2010,0 - 4,Víkingur,Beşiktaş
+22/07/2010,5 - 0,Wisła Kraków,Šiauliai
+22/07/2010,5 - 1,Dinamo Bucureşti,Zaria
+22/07/2010,0 - 1,Bnei Yehuda,Shamrock Rovers
+22/07/2010,1 - 1,Tirana,Utrecht
+22/07/2010,3 - 1,APOEL,Tauras
+22/07/2010,0 - 1,Iskra-Stal,Elfsborg
+22/07/2010,1 - 1,Randers,Gorica
+22/07/2010,2 - 1,Dinamo Tbilisi,Gefle
+22/07/2010,0 - 2,Dacia,Kalmar
+22/07/2010,3 - 2,Karpaty,KR
+22/07/2010,0 - 0,Baník Ostrava,WIT Georgia
+22/07/2010,1 - 1,Dnepr Mogilev,Stabæk
+22/07/2010,2 - 1,Jelgava,Molde
+22/07/2010,1 - 1,Qarabağ,Portadown
+22/07/2010,0 - 5,Sillamäe Kalev,Dinamo Minsk
+22/07/2010,0 - 1,Široki Brijeg,Austria Wien
+22/07/2010,1 - 2,TPS,Cercle Brugge
+22/07/2010,2 - 1,Mogren,Maccabi Tel Aviv
+22/07/2010,2 - 0,Spartak Subotica,Differdange 03
+22/07/2010,1 - 0,Dukla,Zestafoni
+22/07/2010,0 - 1,[N] Torpedo BelAZ,OFK Beograd
+22/07/2010,3 - 1,Teteks,Ventspils
+22/07/2010,0 - 0,Mika,Rabotnički
+15/07/2010,0 - 3,KR,Karpaty
+15/07/2010,1 - 1,Shamrock Rovers,Bnei Yehuda
+15/07/2010,1 - 0,Cliftonville,Cibalia
+15/07/2010,3 - 2,[N] Marítimo,Sporting Fingal
+15/07/2010,1 - 0,Motherwell,Breidablik
+15/07/2010,1 - 2,Portadown,Qarabağ
+15/07/2010,0 - 5,Besa Kavajë,Olympiakos Piraeus
+15/07/2010,1 - 1,Videoton,Maribor
+15/07/2010,0 - 2,Sūduva,Rapid Wien
+15/07/2010,3 - 0,Beşiktaş,Víkingur
+15/07/2010,3 - 0,Brøndby,Vaduz
+15/07/2010,2 - 0,Maccabi Tel Aviv,Mogren
+15/07/2010,0 - 2,Šiauliai,Wisła Kraków
+15/07/2010,4 - 0,Utrecht,Tirana
+15/07/2010,4 - 1,Zrinjski,Tre Penne
+15/07/2010,0 - 1,[N] Cercle Brugge,TPS
+15/07/2010,6 - 0,[N] Levski Sofia,Dundalk
+15/07/2010,3 - 3,Differdange 03,Spartak Subotica
+15/07/2010,0 - 0,Kalmar,Dacia
+15/07/2010,1 - 0,Lausanne Sport,Borac Banja Luka
+15/07/2010,0 - 2,Anorthosis,Šibenik
+15/07/2010,1 - 2,Gefle,Dinamo Tbilisi
+15/07/2010,1 - 0,Molde,Jelgava
+15/07/2010,2 - 2,Stabæk,Dnepr Mogilev
+15/07/2010,2 - 2,[N] Austria Wien,Široki Brijeg
+15/07/2010,2 - 1,Bakı,Budućnost
+15/07/2010,5 - 1,Dinamo Minsk,Sillamäe Kalev
+15/07/2010,2 - 1,Elfsborg,Iskra-Stal
+15/07/2010,0 - 3,Gorica,Randers
+15/07/2010,1 - 1,Honka,Bangor City
+15/07/2010,3 - 0,MYPA,Sant Julià
+15/07/2010,0 - 0,Ventspils,Teteks
+15/07/2010,0 - 2,Zaria,Dinamo Bucureşti
+15/07/2010,3 - 0,Zestafoni,Dukla
+15/07/2010,2 - 2,OFK Beograd,Torpedo BelAZ
+15/07/2010,1 - 0,Rabotnički,Mika
+15/07/2010,0 - 3,Tauras,APOEL
+15/07/2010,1 - 1,Valletta,Ruch Chorzów
+15/07/2010,0 - 2,Atyrau,Győri ETO
+15/07/2010,0 - 6,WIT Georgia,Baník Ostrava
+08/07/2010,1 - 3,Fylkir,Torpedo BelAZ
+08/07/2010,0 - 0,Faetano,Zestafoni
+08/07/2010,2 - 2,Glentoran,KR
+08/07/2010,1 - 0,Ruch Chorzów,Shakhter Karagandy
+08/07/2010,3 - 0,Široki Brijeg,Olimpija
+08/07/2010,2 - 1,Dundalk,Grevenmacher
+08/07/2010,0 - 3,EB / Streymur,Kalmar
+08/07/2010,2 - 1,Zrinjski,Tobol
+08/07/2010,0 - 6,Lusitanos,Rabotnički
+08/07/2010,0 - 4,Port Talbot Town,TPS
+08/07/2010,2 - 1,Gefle,NSÍ
+08/07/2010,0 - 0,Zalaegerszegi TE,Tirana [ET] 
+08/07/2010,0 - 0,Dacia,Zeta
+08/07/2010,2 - 1,F91 Dudelange,Randers
+08/07/2010,3 - 1,Győri ETO,Nitra
+08/07/2010,1 - 0,Bnei Yehuda,Ulisses
+08/07/2010,7 - 1,Dnepr Mogilev,Laçi
+08/07/2010,1 - 1,Khazar Lankaran,Zaria
+08/07/2010,5 - 0,MYPA,Trans
+08/07/2010,0 - 1,Skonto,Portadown
+08/07/2010,0 - 0,Flora,Dinamo Tbilisi
+08/07/2010,2 - 0,Mogren,UE Santa Coloma
+08/07/2010,0 - 3,Sliema Wanderers,Šibenik
+08/07/2010,0 - 1,Banants,Anorthosis
+08/07/2010,1 - 1,Metalurg,Qarabağ
+08/07/2010,2 - 2, [ET] Tauras,Llanelli
+01/07/2010,3 - 0,KR,Glentoran
+01/07/2010,1 - 0,Kalmar,EB / Streymur
+01/07/2010,0 - 2,Olimpija,Široki Brijeg
+01/07/2010,2 - 2,Llanelli,Tauras
+01/07/2010,0 - 2,NSÍ,Gefle
+01/07/2010,3 - 3,Grevenmacher,Dundalk
+01/07/2010,1 - 1,Portadown,Skonto
+01/07/2010,3 - 0,Anorthosis,Banants
+01/07/2010,6 - 1,Randers,F91 Dudelange
+01/07/2010,0 - 3,UE Santa Coloma,Mogren
+01/07/2010,0 - 0,Šibenik,Sliema Wanderers
+01/07/2010,2 - 2,Nitra,Győri ETO
+01/07/2010,4 - 1,Qarabağ,Metalurg
+01/07/2010,3 - 1,TPS,Port Talbot Town
+01/07/2010,0 - 0,Zaria,Khazar Lankaran
+01/07/2010,5 - 0,Zestafoni,Faetano
+01/07/2010,0 - 0,Tirana,Zalaegerszegi TE
+01/07/2010,3 - 0,Torpedo BelAZ,Fylkir
+01/07/2010,1 - 1,Zeta,Dacia
+01/07/2010,5 - 0,Rabotnički,Lusitanos
+01/07/2010,1 - 2,Shakhter Karagandy,Ruch Chorzów
+01/07/2010,0 - 2,Trans,MYPA
+01/07/2010,1 - 1,Laçi,Dnepr Mogilev
+01/07/2010,2 - 1,Dinamo Tbilisi,Flora
+01/07/2010,1 - 2,Tobol,Zrinjski
+01/07/2010,0 - 0,[N] Ulisses,Bnei Yehuda

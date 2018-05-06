@@ -1,0 +1,181 @@
+date,score,home_team,away_team
+27/05/2018,document.write(timestamp_to_time(1527435000));15:30 GMT,Admira,St. Pölten
+27/05/2018,document.write(timestamp_to_time(1527435000));15:30 GMT,Austria Wien,Salzburg
+27/05/2018,document.write(timestamp_to_time(1527435000));15:30 GMT,Mattersburg,LASK Linz
+27/05/2018,document.write(timestamp_to_time(1527435000));15:30 GMT,Rheindorf Altach,Sturm Graz
+27/05/2018,document.write(timestamp_to_time(1527435000));15:30 GMT,Wolfsberger AC,Rapid Wien
+20/05/2018,document.write(timestamp_to_time(1526826600));14:30 GMT,LASK Linz,Wolfsberger AC
+20/05/2018,document.write(timestamp_to_time(1526826600));14:30 GMT,Rapid Wien,Rheindorf Altach
+20/05/2018,document.write(timestamp_to_time(1526826600));14:30 GMT,Salzburg,Mattersburg
+20/05/2018,document.write(timestamp_to_time(1526826600));14:30 GMT,St. Pölten,Austria Wien
+20/05/2018,document.write(timestamp_to_time(1526826600));14:30 GMT,Sturm Graz,Admira
+13/05/2018,document.write(timestamp_to_time(1526221800));14:30 GMT,Rapid Wien,Salzburg
+12/05/2018,document.write(timestamp_to_time(1526142600));16:30 GMT,Admira,Mattersburg
+12/05/2018,document.write(timestamp_to_time(1526142600));16:30 GMT,Rheindorf Altach,St. Pölten
+12/05/2018,document.write(timestamp_to_time(1526142600));16:30 GMT,Wolfsberger AC,Austria Wien
+12/05/2018,document.write(timestamp_to_time(1526133600));14:00 GMT,Sturm Graz,LASK Linz
+06/05/2018,document.write(timestamp_to_time(1525617000));14:30 GMT,Salzburg,Sturm Graz
+05/05/2018,document.write(timestamp_to_time(1525537800));16:30 GMT,Austria Wien,Admira
+05/05/2018,document.write(timestamp_to_time(1525537800));16:30 GMT,Mattersburg,Rheindorf Altach
+05/05/2018,document.write(timestamp_to_time(1525537800));16:30 GMT,St. Pölten,Wolfsberger AC
+05/05/2018,document.write(timestamp_to_time(1525528800));14:00 GMT,LASK Linz,Rapid Wien
+29/04/2018,0 - 2,St. Pölten,Salzburg
+29/04/2018,4 - 2,Sturm Graz,Rapid Wien
+28/04/2018,4 - 2,Admira,Wolfsberger AC
+28/04/2018,0 - 2,Rheindorf Altach,LASK Linz
+28/04/2018,2 - 3,Austria Wien,Mattersburg
+22/04/2018,4 - 1,Rapid Wien,Admira
+22/04/2018,3 - 1,Salzburg,Rheindorf Altach
+21/04/2018,1 - 0,LASK Linz,Austria Wien
+21/04/2018,1 - 1,Mattersburg,St. Pölten
+21/04/2018,2 - 1,Wolfsberger AC,Sturm Graz
+15/04/2018,2 - 6,Admira,Salzburg
+15/04/2018,0 - 4,Austria Wien,Rapid Wien
+14/04/2018,2 - 1,Rheindorf Altach,Wolfsberger AC
+14/04/2018,1 - 3,St. Pölten,LASK Linz
+14/04/2018,3 - 0,Sturm Graz,Mattersburg
+08/04/2018,1 - 0,LASK Linz,Salzburg
+07/04/2018,2 - 1,Rapid Wien,St. Pölten
+07/04/2018,1 - 2,Rheindorf Altach,Admira
+07/04/2018,0 - 2,Wolfsberger AC,Mattersburg
+07/04/2018,0 - 2,Sturm Graz,Austria Wien
+01/04/2018,2 - 4,Mattersburg,Rapid Wien
+31/03/2018,2 - 1,Austria Wien,Rheindorf Altach
+31/03/2018,2 - 0,Salzburg,Wolfsberger AC
+31/03/2018,1 - 5,St. Pölten,Sturm Graz
+31/03/2018,0 - 1,Admira,LASK Linz
+18/03/2018,5 - 0,Salzburg,Austria Wien
+17/03/2018,3 - 1,LASK Linz,Mattersburg
+17/03/2018,1 - 2,St. Pölten,Admira
+17/03/2018,1 - 0,Sturm Graz,Rheindorf Altach
+17/03/2018,5 - 1,Rapid Wien,Wolfsberger AC
+11/03/2018,2 - 2,Mattersburg,Salzburg
+10/03/2018,2 - 4,Admira,Sturm Graz
+10/03/2018,4 - 0,Austria Wien,St. Pölten
+10/03/2018,0 - 3,Wolfsberger AC,LASK Linz
+10/03/2018,0 - 0,Rheindorf Altach,Rapid Wien
+04/03/2018,1 - 0,Salzburg,Rapid Wien
+03/03/2018,2 - 0,Austria Wien,Wolfsberger AC
+03/03/2018,3 - 2,Mattersburg,Admira
+03/03/2018,1 - 2,St. Pölten,Rheindorf Altach
+03/03/2018,0 - 2,LASK Linz,Sturm Graz
+25/02/2018,2 - 4,Sturm Graz,Salzburg
+24/02/2018,2 - 0,Rapid Wien,LASK Linz
+24/02/2018,1 - 1,Rheindorf Altach,Mattersburg
+24/02/2018,0 - 1,Wolfsberger AC,St. Pölten
+24/02/2018,2 - 1,Admira,Austria Wien
+18/02/2018,4 - 0,Salzburg,St. Pölten
+17/02/2018,2 - 0,LASK Linz,Rheindorf Altach
+17/02/2018,2 - 1,Mattersburg,Austria Wien
+17/02/2018,1 - 3,Wolfsberger AC,Admira
+17/02/2018,1 - 1,Rapid Wien,Sturm Graz
+11/02/2018,2 - 1,Admira,Rapid Wien
+10/02/2018,1 - 3,Austria Wien,LASK Linz
+10/02/2018,0 - 3,St. Pölten,Mattersburg
+10/02/2018,0 - 1,Sturm Graz,Wolfsberger AC
+10/02/2018,0 - 1,Rheindorf Altach,Salzburg
+04/02/2018,1 - 1,Rapid Wien,Austria Wien
+03/02/2018,2 - 1,LASK Linz,St. Pölten
+03/02/2018,2 - 1,Salzburg,Admira
+03/02/2018,0 - 0,Wolfsberger AC,Rheindorf Altach
+03/02/2018,1 - 0,Mattersburg,Sturm Graz
+17/12/2017,1 - 0,Austria Wien,Sturm Graz
+16/12/2017,3 - 1,Admira,Rheindorf Altach
+16/12/2017,5 - 1,Mattersburg,Wolfsberger AC
+16/12/2017,0 - 5,St. Pölten,Rapid Wien
+16/12/2017,0 - 0,Salzburg,LASK Linz
+10/12/2017,0 - 0,Wolfsberger AC,Salzburg
+10/12/2017,1 - 0,Rheindorf Altach,Austria Wien
+09/12/2017,2 - 1,LASK Linz,Admira
+09/12/2017,3 - 2,Sturm Graz,St. Pölten
+09/12/2017,2 - 2,Rapid Wien,Mattersburg
+03/12/2017,1 - 1,Austria Wien,Salzburg
+02/12/2017,1 - 0,Admira,St. Pölten
+02/12/2017,1 - 0,Mattersburg,LASK Linz
+02/12/2017,1 - 2,Rheindorf Altach,Sturm Graz
+02/12/2017,0 - 0,Wolfsberger AC,Rapid Wien
+29/11/2017,1 - 2,Rapid Wien,Rheindorf Altach
+29/11/2017,2 - 0,LASK Linz,Wolfsberger AC
+29/11/2017,2 - 0,Salzburg,Mattersburg
+29/11/2017,1 - 0,St. Pölten,Austria Wien
+28/11/2017,6 - 1,Sturm Graz,Admira
+26/11/2017,2 - 3,Rapid Wien,Salzburg
+26/11/2017,1 - 2,Wolfsberger AC,Austria Wien
+25/11/2017,2 - 0,Admira,Mattersburg
+25/11/2017,3 - 0,Rheindorf Altach,St. Pölten
+25/11/2017,1 - 0,Sturm Graz,LASK Linz
+19/11/2017,5 - 0,Salzburg,Sturm Graz
+18/11/2017,2 - 3,Austria Wien,Admira
+18/11/2017,1 - 0,Mattersburg,Rheindorf Altach
+18/11/2017,0 - 0,St. Pölten,Wolfsberger AC
+18/11/2017,1 - 2,LASK Linz,Rapid Wien
+05/11/2017,1 - 3,St. Pölten,Salzburg
+05/11/2017,1 - 3,Austria Wien,Mattersburg
+04/11/2017,0 - 0,Admira,Wolfsberger AC
+04/11/2017,2 - 4,Rheindorf Altach,LASK Linz
+04/11/2017,0 - 0,Sturm Graz,Rapid Wien
+29/10/2017,0 - 2,Wolfsberger AC,Sturm Graz
+28/10/2017,2 - 2,LASK Linz,Austria Wien
+28/10/2017,1 - 1,Mattersburg,St. Pölten
+28/10/2017,2 - 0,Salzburg,Rheindorf Altach
+28/10/2017,1 - 0,Rapid Wien,Admira
+22/10/2017,0 - 1,Austria Wien,Rapid Wien
+22/10/2017,1 - 1,Admira,Salzburg
+21/10/2017,3 - 2,Rheindorf Altach,Wolfsberger AC
+21/10/2017,0 - 1,St. Pölten,LASK Linz
+21/10/2017,3 - 2,Sturm Graz,Mattersburg
+15/10/2017,3 - 0,Sturm Graz,Austria Wien
+14/10/2017,1 - 0,Rapid Wien,St. Pölten
+14/10/2017,2 - 2,Rheindorf Altach,Admira
+14/10/2017,2 - 2,Wolfsberger AC,Mattersburg
+14/10/2017,1 - 3,LASK Linz,Salzburg
+01/10/2017,2 - 1,Salzburg,Wolfsberger AC
+01/10/2017,2 - 0,Austria Wien,Rheindorf Altach
+30/09/2017,4 - 2,Admira,LASK Linz
+30/09/2017,0 - 1,Mattersburg,Rapid Wien
+30/09/2017,0 - 3,St. Pölten,Sturm Graz
+24/09/2017,0 - 0,Salzburg,Austria Wien
+23/09/2017,2 - 2,LASK Linz,Mattersburg
+23/09/2017,1 - 1,St. Pölten,Admira
+23/09/2017,0 - 0,Sturm Graz,Rheindorf Altach
+23/09/2017,4 - 2,Rapid Wien,Wolfsberger AC
+17/09/2017,5 - 1,Austria Wien,St. Pölten
+17/09/2017,1 - 2,Mattersburg,Salzburg
+16/09/2017,2 - 1,Admira,Sturm Graz
+16/09/2017,0 - 0,Wolfsberger AC,LASK Linz
+16/09/2017,2 - 2,Rheindorf Altach,Rapid Wien
+10/09/2017,2 - 2,Salzburg,Rapid Wien
+09/09/2017,2 - 2,Austria Wien,Wolfsberger AC
+09/09/2017,0 - 5,Mattersburg,Admira
+09/09/2017,1 - 2,St. Pölten,Rheindorf Altach
+09/09/2017,2 - 1,LASK Linz,Sturm Graz
+27/08/2017,1 - 3,Admira,Austria Wien
+27/08/2017,1 - 0,Rheindorf Altach,Mattersburg
+27/08/2017,1 - 0,Sturm Graz,Salzburg
+26/08/2017,1 - 0,Rapid Wien,LASK Linz
+26/08/2017,2 - 1,Wolfsberger AC,St. Pölten
+20/08/2017,1 - 3,Mattersburg,Austria Wien
+20/08/2017,0 - 0,LASK Linz,Rheindorf Altach
+20/08/2017,5 - 1,Salzburg,St. Pölten
+19/08/2017,2 - 0,Wolfsberger AC,Admira
+19/08/2017,1 - 2,Rapid Wien,Sturm Graz
+13/08/2017,3 - 1,Admira,Rapid Wien
+12/08/2017,2 - 0,Austria Wien,LASK Linz
+12/08/2017,0 - 0,St. Pölten,Mattersburg
+12/08/2017,2 - 1,Sturm Graz,Wolfsberger AC
+12/08/2017,0 - 1,Rheindorf Altach,Salzburg
+06/08/2017,2 - 3,Mattersburg,Sturm Graz
+06/08/2017,2 - 2,Rapid Wien,Austria Wien
+06/08/2017,1 - 0,Wolfsberger AC,Rheindorf Altach
+05/08/2017,5 - 1,Salzburg,Admira
+05/08/2017,2 - 0,LASK Linz,St. Pölten
+30/07/2017,4 - 1,Admira,Rheindorf Altach
+30/07/2017,2 - 3,Austria Wien,Sturm Graz
+29/07/2017,1 - 0,Mattersburg,Wolfsberger AC
+29/07/2017,1 - 4,St. Pölten,Rapid Wien
+29/07/2017,1 - 1,Salzburg,LASK Linz
+23/07/2017,3 - 2,Sturm Graz,St. Pölten
+23/07/2017,3 - 0,Rheindorf Altach,Austria Wien
+22/07/2017,3 - 0,LASK Linz,Admira
+22/07/2017,0 - 2,Wolfsberger AC,Salzburg
+22/07/2017,2 - 2,Rapid Wien,Mattersburg

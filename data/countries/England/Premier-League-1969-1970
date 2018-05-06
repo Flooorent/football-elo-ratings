@@ -1,0 +1,463 @@
+date,score,home_team,away_team
+02/05/1970,1 - 0,Tottenham Hotspur,Arsenal
+22/04/1970,1 - 2,Sheffield Wednesday,Manchester City
+21/04/1970,3 - 2,Ipswich Town,Leeds United
+18/04/1970,2 - 1,Chelsea,Liverpool
+18/04/1970,1 - 3,Leeds United,Manchester City
+15/04/1970,3 - 1,Burnley,Chelsea
+15/04/1970,2 - 2,Manchester United,Sheffield Wednesday
+15/04/1970,1 - 1,Southampton,Derby County
+15/04/1970,3 - 2,Stoke City,West Bromwich Albion
+15/04/1970,0 - 1,Sunderland,Liverpool
+14/04/1970,4 - 0,Newcastle United,Coventry City
+13/04/1970,1 - 2,Stoke City,Chelsea
+13/04/1970,2 - 1,Tottenham Hotspur,Manchester United
+10/04/1970,1 - 0,Nottingham Forest,Ipswich Town
+10/04/1970,0 - 1,Wolverhampton Wanderers,Coventry City
+08/04/1970,7 - 0,Manchester United,West Bromwich Albion
+08/04/1970,0 - 0,Southampton,Manchester City
+08/04/1970,0 - 0,Sunderland,Everton
+07/04/1970,1 - 4,Nottingham Forest,Coventry City
+06/04/1970,1 - 0,Crystal Palace,Manchester City
+04/04/1970,2 - 1,Arsenal,West Ham United
+04/04/1970,1 - 0,Chelsea,Tottenham Hotspur
+04/04/1970,0 - 3,Coventry City,Stoke City
+04/04/1970,2 - 0,Derby County,Wolverhampton Wanderers
+04/04/1970,2 - 0,Ipswich Town,Southampton
+04/04/1970,2 - 1,Leeds United,Burnley
+04/04/1970,0 - 1,Manchester City,Sunderland
+04/04/1970,5 - 1,Newcastle United,Manchester United
+04/04/1970,0 - 1,Sheffield Wednesday,Everton
+04/04/1970,4 - 0,West Bromwich Albion,Nottingham Forest
+03/04/1970,3 - 0,Liverpool,Crystal Palace
+02/04/1970,2 - 2,West Ham United,Leeds United
+01/04/1970,2 - 0,Everton,West Bromwich Albion
+31/03/1970,4 - 0,Coventry City,Southampton
+31/03/1970,2 - 1,Ipswich Town,Arsenal
+31/03/1970,1 - 2,Nottingham Forest,Manchester United
+31/03/1970,3 - 0,West Ham United,Wolverhampton Wanderers
+30/03/1970,2 - 0,Arsenal,Crystal Palace
+30/03/1970,4 - 1,Derby County,Leeds United
+30/03/1970,1 - 1,Manchester United,Coventry City
+30/03/1970,0 - 1,Newcastle United,Burnley
+30/03/1970,0 - 1,Sheffield Wednesday,Tottenham Hotspur
+30/03/1970,0 - 1,Stoke City,Everton
+30/03/1970,3 - 1,West Bromwich Albion,Chelsea
+30/03/1970,0 - 1,Wolverhampton Wanderers,Liverpool
+28/03/1970,2 - 2,Arsenal,Wolverhampton Wanderers
+28/03/1970,1 - 1,Coventry City,Burnley
+28/03/1970,1 - 1,Crystal Palace,Ipswich Town
+28/03/1970,5 - 2,Everton,Chelsea
+28/03/1970,1 - 3,Leeds United,Southampton
+28/03/1970,1 - 2,Manchester United,Manchester City
+28/03/1970,2 - 2,Nottingham Forest,Newcastle United
+28/03/1970,2 - 1,Stoke City,Sheffield Wednesday
+28/03/1970,1 - 1,Sunderland,Derby County
+28/03/1970,1 - 1,West Bromwich Albion,Tottenham Hotspur
+28/03/1970,1 - 0,West Ham United,Liverpool
+27/03/1970,1 - 1,Burnley,Stoke City
+27/03/1970,0 - 1,Manchester City,Derby County
+27/03/1970,1 - 1,Sunderland,Newcastle United
+27/03/1970,4 - 1,Tottenham Hotspur,Nottingham Forest
+25/03/1970,3 - 1,Chelsea,Sheffield Wednesday
+24/03/1970,1 - 1,Burnley,Southampton
+24/03/1970,1 - 1,Coventry City,Sunderland
+24/03/1970,0 - 0,Crystal Palace,West Ham United
+24/03/1970,2 - 0,Liverpool,Ipswich Town
+21/03/1970,2 - 1,Burnley,West Bromwich Albion
+21/03/1970,2 - 1,Chelsea,Manchester United
+21/03/1970,3 - 1,Derby County,Crystal Palace
+21/03/1970,2 - 0,Ipswich Town,Sunderland
+21/03/1970,0 - 2,Liverpool,Everton
+21/03/1970,1 - 5,Manchester City,West Ham United
+21/03/1970,3 - 1,Newcastle United,Stoke City
+21/03/1970,2 - 1,Sheffield Wednesday,Nottingham Forest
+21/03/1970,0 - 2,Southampton,Arsenal
+21/03/1970,1 - 2,Tottenham Hotspur,Coventry City
+21/03/1970,1 - 2,Wolverhampton Wanderers,Leeds United
+18/03/1970,1 - 1,Wolverhampton Wanderers,Crystal Palace
+17/03/1970,1 - 0,Chelsea,Stoke City
+17/03/1970,3 - 3,Manchester United,Burnley
+16/03/1970,3 - 0,Liverpool,Sheffield Wednesday
+14/03/1970,2 - 1,Arsenal,Liverpool
+14/03/1970,1 - 1,Coventry City,Sheffield Wednesday
+14/03/1970,2 - 0,Crystal Palace,Southampton
+14/03/1970,3 - 2,Everton,Tottenham Hotspur
+14/03/1970,1 - 3,Nottingham Forest,Derby County
+14/03/1970,2 - 1,Sunderland,Wolverhampton Wanderers
+14/03/1970,2 - 2,West Bromwich Albion,Newcastle United
+14/03/1970,0 - 0,West Ham United,Ipswich Town
+11/03/1970,0 - 1,Manchester City,Crystal Palace
+11/03/1970,0 - 1,Southampton,Liverpool
+11/03/1970,0 - 1,Tottenham Hotspur,Everton
+10/03/1970,2 - 0,Sheffield Wednesday,West Bromwich Albion
+07/03/1970,1 - 2,Burnley,Everton
+07/03/1970,1 - 1,Chelsea,Nottingham Forest
+07/03/1970,3 - 0,Derby County,West Ham United
+07/03/1970,1 - 1,Ipswich Town,Stoke City
+07/03/1970,0 - 0,Liverpool,Leeds United
+07/03/1970,1 - 1,Southampton,Sunderland
+03/03/1970,2 - 3,Coventry City,Liverpool
+02/03/1970,4 - 1,Newcastle United,West Ham United
+28/02/1970,3 - 1,Arsenal,Sunderland
+28/02/1970,0 - 3,Coventry City,Chelsea
+28/02/1970,2 - 0,Leeds United,Crystal Palace
+28/02/1970,0 - 2,Liverpool,Derby County
+28/02/1970,1 - 0,Manchester City,Ipswich Town
+28/02/1970,1 - 2,Newcastle United,Tottenham Hotspur
+28/02/1970,1 - 1,Nottingham Forest,Everton
+28/02/1970,2 - 0,Sheffield Wednesday,Burnley
+28/02/1970,2 - 2,Stoke City,Manchester United
+28/02/1970,3 - 3,West Bromwich Albion,Wolverhampton Wanderers
+28/02/1970,0 - 0,West Ham United,Southampton
+25/02/1970,0 - 0,Chelsea,Newcastle United
+21/02/1970,5 - 0,Burnley,Nottingham Forest
+21/02/1970,0 - 2,Crystal Palace,Sheffield Wednesday
+21/02/1970,3 - 2,Derby County,Arsenal
+21/02/1970,0 - 0,Everton,Coventry City
+21/02/1970,0 - 1,Sunderland,West Ham United
+21/02/1970,1 - 0,Tottenham Hotspur,Stoke City
+21/02/1970,1 - 3,Wolverhampton Wanderers,Manchester City
+20/02/1970,1 - 0,West Bromwich Albion,Southampton
+18/02/1970,1 - 1,Manchester City,Arsenal
+16/02/1970,0 - 0,Liverpool,Newcastle United
+14/02/1970,1 - 1,Burnley,Derby County
+14/02/1970,2 - 2,Everton,Arsenal
+14/02/1970,1 - 1,Manchester United,Crystal Palace
+14/02/1970,1 - 1,Stoke City,Wolverhampton Wanderers
+14/02/1970,1 - 1,Tottenham Hotspur,Leeds United
+11/02/1970,1 - 2,Crystal Palace,Burnley
+11/02/1970,2 - 2,Derby County,Chelsea
+11/02/1970,2 - 1,Newcastle United,Southampton
+11/02/1970,1 - 2,West Ham United,Coventry City
+10/02/1970,0 - 1,Ipswich Town,Manchester United
+10/02/1970,5 - 1,Leeds United,West Bromwich Albion
+07/02/1970,0 - 0,Arsenal,Stoke City
+07/02/1970,1 - 1,Manchester City,Nottingham Forest
+07/02/1970,4 - 0,Southampton,Sheffield Wednesday
+07/02/1970,2 - 2,Wolverhampton Wanderers,Tottenham Hotspur
+06/02/1970,1 - 0,Newcastle United,West Bromwich Albion
+31/01/1970,3 - 2,Burnley,West Ham United
+31/01/1970,3 - 1,Chelsea,Sunderland
+31/01/1970,2 - 0,Coventry City,Arsenal
+31/01/1970,1 - 0,Everton,Wolverhampton Wanderers
+31/01/1970,1 - 0,Manchester United,Derby County
+31/01/1970,0 - 0,Newcastle United,Crystal Palace
+31/01/1970,1 - 0,Nottingham Forest,Liverpool
+31/01/1970,2 - 2,Sheffield Wednesday,Ipswich Town
+31/01/1970,1 - 1,Stoke City,Leeds United
+31/01/1970,0 - 1,Tottenham Hotspur,Southampton
+31/01/1970,3 - 0,West Bromwich Albion,Manchester City
+28/01/1970,0 - 1,Sheffield Wednesday,Coventry City
+27/01/1970,3 - 1,West Bromwich Albion,Sunderland
+26/01/1970,2 - 2,Manchester United,Leeds United
+24/01/1970,0 - 0,Everton,Newcastle United
+24/01/1970,2 - 1,Nottingham Forest,Sunderland
+24/01/1970,2 - 0,Wolverhampton Wanderers,Ipswich Town
+17/01/1970,0 - 3,Arsenal,Chelsea
+17/01/1970,1 - 1,Crystal Palace,Nottingham Forest
+17/01/1970,1 - 0,Derby County,Sheffield Wednesday
+17/01/1970,0 - 1,Ipswich Town,Burnley
+17/01/1970,3 - 1,Leeds United,Coventry City
+17/01/1970,1 - 1,Liverpool,West Bromwich Albion
+17/01/1970,0 - 1,Manchester City,Stoke City
+17/01/1970,2 - 1,Southampton,Everton
+17/01/1970,2 - 1,Sunderland,Tottenham Hotspur
+17/01/1970,0 - 0,West Ham United,Manchester United
+17/01/1970,1 - 1,Wolverhampton Wanderers,Newcastle United
+10/01/1970,1 - 3,Burnley,Wolverhampton Wanderers
+10/01/1970,2 - 5,Chelsea,Leeds United
+10/01/1970,3 - 0,Coventry City,Manchester City
+10/01/1970,3 - 0,Everton,Ipswich Town
+10/01/1970,2 - 1,Manchester United,Arsenal
+10/01/1970,2 - 3,Sheffield Wednesday,West Ham United
+10/01/1970,0 - 2,Stoke City,Liverpool
+10/01/1970,2 - 1,Tottenham Hotspur,Derby County
+10/01/1970,3 - 2,West Bromwich Albion,Crystal Palace
+06/01/1970,1 - 1,Manchester City,Burnley
+27/12/1969,0 - 0,Arsenal,Newcastle United
+27/12/1969,1 - 5,Crystal Palace,Chelsea
+27/12/1969,2 - 0,Derby County,West Bromwich Albion
+27/12/1969,2 - 0,Ipswich Town,Tottenham Hotspur
+27/12/1969,2 - 1,Leeds United,Everton
+27/12/1969,0 - 0,Southampton,Stoke City
+27/12/1969,1 - 1,Sunderland,Manchester United
+27/12/1969,1 - 1,West Ham United,Nottingham Forest
+26/12/1969,1 - 5,Burnley,Liverpool
+26/12/1969,3 - 1,Chelsea,Southampton
+26/12/1969,3 - 1,Coventry City,Ipswich Town
+26/12/1969,0 - 0,Manchester United,Wolverhampton Wanderers
+26/12/1969,2 - 1,Newcastle United,Leeds United
+26/12/1969,1 - 1,Nottingham Forest,Arsenal
+26/12/1969,2 - 0,Sheffield Wednesday,Sunderland
+26/12/1969,1 - 0,Stoke City,Derby County
+26/12/1969,2 - 0,Tottenham Hotspur,Crystal Palace
+26/12/1969,3 - 1,West Bromwich Albion,West Ham United
+23/12/1969,1 - 0,Everton,Manchester City
+20/12/1969,3 - 1,Chelsea,Manchester City
+20/12/1969,1 - 0,Everton,Derby County
+20/12/1969,4 - 0,Newcastle United,Ipswich Town
+20/12/1969,4 - 2,Nottingham Forest,Wolverhampton Wanderers
+20/12/1969,1 - 1,Sheffield Wednesday,Arsenal
+20/12/1969,1 - 0,Stoke City,Crystal Palace
+20/12/1969,0 - 2,Tottenham Hotspur,West Ham United
+17/12/1969,4 - 1,Leeds United,West Ham United
+13/12/1969,3 - 2,Arsenal,Burnley
+13/12/1969,0 - 3,Crystal Palace,Coventry City
+13/12/1969,2 - 0,Derby County,Newcastle United
+13/12/1969,0 - 1,Ipswich Town,West Bromwich Albion
+13/12/1969,2 - 0,Leeds United,Sheffield Wednesday
+13/12/1969,1 - 4,Liverpool,Manchester United
+13/12/1969,1 - 1,Manchester City,Tottenham Hotspur
+13/12/1969,1 - 2,Southampton,Nottingham Forest
+13/12/1969,0 - 3,Sunderland,Stoke City
+13/12/1969,0 - 1,West Ham United,Everton
+13/12/1969,3 - 0,Wolverhampton Wanderers,Chelsea
+06/12/1969,2 - 2,Arsenal,Southampton
+06/12/1969,3 - 2,Coventry City,Tottenham Hotspur
+06/12/1969,0 - 1,Crystal Palace,Derby County
+06/12/1969,0 - 3,Everton,Liverpool
+06/12/1969,3 - 1,Leeds United,Wolverhampton Wanderers
+06/12/1969,0 - 2,Manchester United,Chelsea
+06/12/1969,2 - 1,Nottingham Forest,Sheffield Wednesday
+06/12/1969,0 - 1,Stoke City,Newcastle United
+06/12/1969,2 - 1,Sunderland,Ipswich Town
+06/12/1969,0 - 1,West Bromwich Albion,Burnley
+06/12/1969,0 - 4,West Ham United,Manchester City
+29/11/1969,1 - 1,Burnley,Manchester United
+29/11/1969,0 - 2,Derby County,Nottingham Forest
+29/11/1969,1 - 0,Ipswich Town,West Ham United
+29/11/1969,0 - 1,Liverpool,Arsenal
+29/11/1969,1 - 2,Manchester City,Leeds United
+29/11/1969,1 - 1,Southampton,Crystal Palace
+29/11/1969,1 - 0,Wolverhampton Wanderers,Sunderland
+22/11/1969,1 - 1,Arsenal,Manchester City
+22/11/1969,1 - 0,Coventry City,Newcastle United
+22/11/1969,2 - 1,Crystal Palace,Wolverhampton Wanderers
+22/11/1969,2 - 1,Everton,Burnley
+22/11/1969,1 - 1,Leeds United,Liverpool
+22/11/1969,3 - 1,Manchester United,Tottenham Hotspur
+22/11/1969,1 - 1,Nottingham Forest,Chelsea
+22/11/1969,3 - 3,Stoke City,Ipswich Town
+22/11/1969,2 - 2,Sunderland,Southampton
+22/11/1969,3 - 0,West Bromwich Albion,Sheffield Wednesday
+22/11/1969,3 - 0,West Ham United,Derby County
+19/11/1969,2 - 0,Leeds United,Sunderland
+18/11/1969,1 - 4,Ipswich Town,Chelsea
+15/11/1969,0 - 0,Burnley,Coventry City
+15/11/1969,1 - 1,Chelsea,Everton
+15/11/1969,3 - 0,Derby County,Sunderland
+15/11/1969,2 - 0,Ipswich Town,Crystal Palace
+15/11/1969,2 - 0,Liverpool,West Ham United
+15/11/1969,4 - 0,Manchester City,Manchester United
+15/11/1969,3 - 1,Newcastle United,Nottingham Forest
+15/11/1969,0 - 2,Sheffield Wednesday,Stoke City
+15/11/1969,1 - 1,Southampton,Leeds United
+15/11/1969,2 - 0,Tottenham Hotspur,West Bromwich Albion
+15/11/1969,2 - 0,Wolverhampton Wanderers,Arsenal
+08/11/1969,4 - 0,Arsenal,Derby County
+08/11/1969,1 - 2,Coventry City,Manchester United
+08/11/1969,4 - 0,Leeds United,Ipswich Town
+08/11/1969,0 - 0,Liverpool,Wolverhampton Wanderers
+08/11/1969,1 - 0,Manchester City,Southampton
+08/11/1969,3 - 0,Newcastle United,Sunderland
+08/11/1969,2 - 2,Nottingham Forest,Tottenham Hotspur
+08/11/1969,1 - 3,Sheffield Wednesday,Chelsea
+08/11/1969,2 - 1,Stoke City,Burnley
+08/11/1969,2 - 0,West Bromwich Albion,Everton
+08/11/1969,2 - 1,West Ham United,Crystal Palace
+01/11/1969,0 - 1,Burnley,Newcastle United
+01/11/1969,1 - 0,Chelsea,Coventry City
+01/11/1969,1 - 5,Crystal Palace,Arsenal
+01/11/1969,4 - 0,Derby County,Liverpool
+01/11/1969,1 - 0,Everton,Nottingham Forest
+01/11/1969,1 - 1,Ipswich Town,Manchester City
+01/11/1969,1 - 1,Manchester United,Stoke City
+01/11/1969,1 - 1,Southampton,West Ham United
+01/11/1969,0 - 0,Sunderland,Leeds United
+01/11/1969,1 - 0,Tottenham Hotspur,Sheffield Wednesday
+01/11/1969,1 - 0,Wolverhampton Wanderers,West Bromwich Albion
+29/10/1969,6 - 1,Leeds United,Nottingham Forest
+25/10/1969,0 - 0,Arsenal,Ipswich Town
+25/10/1969,0 - 1,Coventry City,Everton
+25/10/1969,2 - 0,Leeds United,Derby County
+25/10/1969,4 - 1,Liverpool,Southampton
+25/10/1969,1 - 0,Manchester City,Wolverhampton Wanderers
+25/10/1969,0 - 1,Newcastle United,Chelsea
+25/10/1969,1 - 1,Nottingham Forest,Burnley
+25/10/1969,0 - 0,Sheffield Wednesday,Crystal Palace
+25/10/1969,1 - 1,Stoke City,Tottenham Hotspur
+25/10/1969,2 - 1,West Bromwich Albion,Manchester United
+25/10/1969,1 - 1,West Ham United,Sunderland
+18/10/1969,4 - 2,Burnley,Sheffield Wednesday
+18/10/1969,2 - 0,Chelsea,West Bromwich Albion
+18/10/1969,1 - 1,Crystal Palace,Leeds United
+18/10/1969,0 - 1,Derby County,Manchester City
+18/10/1969,6 - 2,Everton,Stoke City
+18/10/1969,2 - 2,Ipswich Town,Liverpool
+18/10/1969,1 - 1,Manchester United,Nottingham Forest
+18/10/1969,0 - 0,Southampton,Coventry City
+18/10/1969,1 - 1,Sunderland,Arsenal
+18/10/1969,2 - 1,Tottenham Hotspur,Newcastle United
+18/10/1969,1 - 0,Wolverhampton Wanderers,West Ham United
+11/10/1969,4 - 2,Burnley,Crystal Palace
+11/10/1969,2 - 2,Chelsea,Derby County
+11/10/1969,2 - 2,Coventry City,West Ham United
+11/10/1969,3 - 1,Everton,Sunderland
+11/10/1969,2 - 1,Manchester United,Ipswich Town
+11/10/1969,1 - 0,Newcastle United,Liverpool
+11/10/1969,2 - 2,Nottingham Forest,Manchester City
+11/10/1969,1 - 1,Sheffield Wednesday,Southampton
+11/10/1969,0 - 0,Stoke City,Arsenal
+11/10/1969,0 - 1,Tottenham Hotspur,Wolverhampton Wanderers
+11/10/1969,1 - 1,West Bromwich Albion,Leeds United
+08/10/1969,0 - 0,Crystal Palace,Everton
+08/10/1969,1 - 3,Derby County,Coventry City
+08/10/1969,2 - 1,Manchester City,Newcastle United
+08/10/1969,0 - 3,Southampton,Manchester United
+08/10/1969,0 - 1,Sunderland,Burnley
+08/10/1969,2 - 2,Wolverhampton Wanderers,Sheffield Wednesday
+07/10/1969,1 - 1,Arsenal,West Bromwich Albion
+07/10/1969,0 - 0,Liverpool,Tottenham Hotspur
+06/10/1969,3 - 3,West Ham United,Stoke City
+04/10/1969,0 - 1,Arsenal,Coventry City
+04/10/1969,0 - 3,Crystal Palace,Newcastle United
+04/10/1969,2 - 0,Derby County,Manchester United
+04/10/1969,1 - 0,Ipswich Town,Sheffield Wednesday
+04/10/1969,2 - 1,Leeds United,Stoke City
+04/10/1969,1 - 1,Liverpool,Nottingham Forest
+04/10/1969,2 - 1,Manchester City,West Bromwich Albion
+04/10/1969,2 - 2,Southampton,Tottenham Hotspur
+04/10/1969,0 - 0,Sunderland,Chelsea
+04/10/1969,3 - 1,West Ham United,Burnley
+04/10/1969,2 - 3,Wolverhampton Wanderers,Everton
+27/09/1969,0 - 1,Burnley,Ipswich Town
+27/09/1969,3 - 0,Chelsea,Arsenal
+27/09/1969,1 - 2,Coventry City,Leeds United
+27/09/1969,4 - 2,Everton,Southampton
+27/09/1969,5 - 2,Manchester United,West Ham United
+27/09/1969,1 - 1,Newcastle United,Wolverhampton Wanderers
+27/09/1969,0 - 0,Nottingham Forest,Crystal Palace
+27/09/1969,1 - 0,Sheffield Wednesday,Derby County
+27/09/1969,2 - 0,Stoke City,Manchester City
+27/09/1969,0 - 1,Tottenham Hotspur,Sunderland
+27/09/1969,2 - 2,West Bromwich Albion,Liverpool
+20/09/1969,2 - 2,Arsenal,Manchester United
+20/09/1969,1 - 3,Crystal Palace,West Bromwich Albion
+20/09/1969,5 - 0,Derby County,Tottenham Hotspur
+20/09/1969,0 - 3,Ipswich Town,Everton
+20/09/1969,2 - 0,Leeds United,Chelsea
+20/09/1969,3 - 1,Liverpool,Stoke City
+20/09/1969,3 - 1,Manchester City,Coventry City
+20/09/1969,1 - 1,Southampton,Newcastle United
+20/09/1969,2 - 1,Sunderland,Nottingham Forest
+20/09/1969,3 - 0,West Ham United,Sheffield Wednesday
+20/09/1969,1 - 1,Wolverhampton Wanderers,Burnley
+17/09/1969,2 - 0,Chelsea,Burnley
+17/09/1969,1 - 2,Newcastle United,Everton
+17/09/1969,1 - 3,Sheffield Wednesday,Manchester United
+17/09/1969,1 - 3,West Bromwich Albion,Stoke City
+16/09/1969,2 - 3,Arsenal,Tottenham Hotspur
+16/09/1969,3 - 2,Coventry City,Nottingham Forest
+16/09/1969,1 - 1,Ipswich Town,Wolverhampton Wanderers
+13/09/1969,0 - 1,Burnley,Arsenal
+13/09/1969,2 - 2,Chelsea,Wolverhampton Wanderers
+13/09/1969,2 - 2,Coventry City,Crystal Palace
+13/09/1969,2 - 0,Everton,West Ham United
+13/09/1969,1 - 0,Manchester United,Liverpool
+13/09/1969,0 - 1,Newcastle United,Derby County
+13/09/1969,2 - 1,Nottingham Forest,Southampton
+13/09/1969,1 - 2,Sheffield Wednesday,Leeds United
+13/09/1969,4 - 2,Stoke City,Sunderland
+13/09/1969,0 - 3,Tottenham Hotspur,Manchester City
+13/09/1969,2 - 2,West Bromwich Albion,Ipswich Town
+10/09/1969,3 - 0,Derby County,Southampton
+09/09/1969,2 - 0,Liverpool,Sunderland
+06/09/1969,0 - 0,Arsenal,Sheffield Wednesday
+06/09/1969,3 - 1,Crystal Palace,Stoke City
+06/09/1969,2 - 1,Derby County,Everton
+06/09/1969,2 - 0,Ipswich Town,Newcastle United
+06/09/1969,2 - 2,Leeds United,Manchester United
+06/09/1969,2 - 1,Liverpool,Coventry City
+06/09/1969,0 - 0,Manchester City,Chelsea
+06/09/1969,1 - 1,Southampton,Burnley
+06/09/1969,2 - 2,Sunderland,West Bromwich Albion
+06/09/1969,0 - 1,West Ham United,Tottenham Hotspur
+06/09/1969,3 - 3,Wolverhampton Wanderers,Nottingham Forest
+30/08/1969,1 - 1,Burnley,Manchester City
+30/08/1969,1 - 1,Chelsea,Crystal Palace
+30/08/1969,1 - 0,Coventry City,Wolverhampton Wanderers
+30/08/1969,3 - 2,Everton,Leeds United
+30/08/1969,3 - 1,Manchester United,Sunderland
+30/08/1969,3 - 1,Newcastle United,Arsenal
+30/08/1969,1 - 0,Nottingham Forest,West Ham United
+30/08/1969,1 - 1,Sheffield Wednesday,Liverpool
+30/08/1969,2 - 1,Stoke City,Southampton
+30/08/1969,3 - 2,Tottenham Hotspur,Ipswich Town
+30/08/1969,0 - 2,West Bromwich Albion,Derby County
+27/08/1969,1 - 3,Crystal Palace,Liverpool
+27/08/1969,0 - 0,Manchester United,Newcastle United
+27/08/1969,4 - 2,Southampton,Ipswich Town
+27/08/1969,2 - 0,Stoke City,Coventry City
+27/08/1969,0 - 4,Sunderland,Manchester City
+27/08/1969,1 - 1,Tottenham Hotspur,Chelsea
+27/08/1969,1 - 1,Wolverhampton Wanderers,Derby County
+26/08/1969,1 - 1,Burnley,Leeds United
+26/08/1969,2 - 1,Everton,Sheffield Wednesday
+26/08/1969,1 - 0,Nottingham Forest,West Bromwich Albion
+25/08/1969,1 - 1,West Ham United,Arsenal
+23/08/1969,2 - 1,Arsenal,Nottingham Forest
+23/08/1969,0 - 2,Crystal Palace,Tottenham Hotspur
+23/08/1969,0 - 0,Derby County,Stoke City
+23/08/1969,0 - 1,Ipswich Town,Coventry City
+23/08/1969,1 - 1,Leeds United,Newcastle United
+23/08/1969,3 - 3,Liverpool,Burnley
+23/08/1969,1 - 1,Manchester City,Everton
+23/08/1969,2 - 2,Southampton,Chelsea
+23/08/1969,1 - 2,Sunderland,Sheffield Wednesday
+23/08/1969,1 - 3,West Ham United,West Bromwich Albion
+23/08/1969,0 - 0,Wolverhampton Wanderers,Manchester United
+20/08/1969,0 - 0,Chelsea,West Ham United
+20/08/1969,3 - 1,Derby County,Ipswich Town
+20/08/1969,0 - 2,Manchester City,Liverpool
+20/08/1969,1 - 0,Sheffield Wednesday,Newcastle United
+20/08/1969,2 - 3,Southampton,Wolverhampton Wanderers
+20/08/1969,1 - 1,Stoke City,Nottingham Forest
+20/08/1969,0 - 0,Sunderland,Crystal Palace
+20/08/1969,0 - 1,West Bromwich Albion,Coventry City
+19/08/1969,1 - 1,Arsenal,Leeds United
+19/08/1969,0 - 2,Burnley,Tottenham Hotspur
+19/08/1969,3 - 0,Everton,Manchester United
+16/08/1969,3 - 0,Burnley,Sunderland
+16/08/1969,1 - 0,Chelsea,Ipswich Town
+16/08/1969,1 - 1,Coventry City,Derby County
+16/08/1969,2 - 1,Everton,Crystal Palace
+16/08/1969,1 - 4,Manchester United,Southampton
+16/08/1969,1 - 0,Newcastle United,Manchester City
+16/08/1969,1 - 4,Nottingham Forest,Leeds United
+16/08/1969,2 - 3,Sheffield Wednesday,Wolverhampton Wanderers
+16/08/1969,2 - 1,Stoke City,West Ham United
+16/08/1969,0 - 2,Tottenham Hotspur,Liverpool
+16/08/1969,0 - 1,West Bromwich Albion,Arsenal
+13/08/1969,2 - 0,Crystal Palace,Sunderland
+13/08/1969,0 - 0,Leeds United,Arsenal
+13/08/1969,0 - 2,Manchester United,Everton
+13/08/1969,3 - 1,Newcastle United,Sheffield Wednesday
+13/08/1969,4 - 0,Tottenham Hotspur,Burnley
+13/08/1969,2 - 1,Wolverhampton Wanderers,Southampton
+12/08/1969,3 - 1,Coventry City,West Bromwich Albion
+12/08/1969,0 - 1,Ipswich Town,Derby County
+12/08/1969,3 - 2,Liverpool,Manchester City
+12/08/1969,0 - 0,Nottingham Forest,Stoke City
+11/08/1969,2 - 0,West Ham United,Chelsea
+09/08/1969,0 - 1,Arsenal,Everton
+09/08/1969,2 - 2,Crystal Palace,Manchester United
+09/08/1969,0 - 0,Derby County,Burnley
+09/08/1969,0 - 0,Ipswich Town,Nottingham Forest
+09/08/1969,3 - 1,Leeds United,Tottenham Hotspur
+09/08/1969,4 - 1,Liverpool,Chelsea
+09/08/1969,4 - 1,Manchester City,Sheffield Wednesday
+09/08/1969,0 - 2,Southampton,West Bromwich Albion
+09/08/1969,0 - 0,Sunderland,Coventry City
+09/08/1969,1 - 0,West Ham United,Newcastle United
+09/08/1969,3 - 1,Wolverhampton Wanderers,Stoke City

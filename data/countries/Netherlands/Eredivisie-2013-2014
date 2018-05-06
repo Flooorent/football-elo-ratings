@@ -1,0 +1,313 @@
+date,score,home_team,away_team
+18/05/2014,3 - 0,Groningen,AZ
+15/05/2014,0 - 0,AZ,Groningen
+10/05/2014,1 - 0,Heerenveen,AZ
+10/05/2014,1 - 4,Vitesse,Groningen
+07/05/2014,3 - 0,AZ,Heerenveen
+07/05/2014,1 - 0,Groningen,Vitesse
+03/05/2014,2 - 2,Ajax,NEC
+03/05/2014,1 - 1,AZ,Feyenoord
+03/05/2014,1 - 2,Cambuur,ADO Den Haag
+03/05/2014,0 - 1,Go Ahead Eagles,Roda JC
+03/05/2014,3 - 1,Groningen,Heracles
+03/05/2014,2 - 0,PSV,NAC Breda
+03/05/2014,0 - 3,RKC Waalwijk,Heerenveen
+03/05/2014,2 - 2,Twente,PEC Zwolle
+03/05/2014,2 - 1,Utrecht,Vitesse
+27/04/2014,2 - 1,ADO Den Haag,AZ
+27/04/2014,5 - 1,Feyenoord,Cambuur
+27/04/2014,4 - 1,Heerenveen,Utrecht
+27/04/2014,1 - 1,Heracles,Ajax
+27/04/2014,1 - 1,NAC Breda,RKC Waalwijk
+27/04/2014,2 - 5,NEC,Twente
+27/04/2014,1 - 2,PEC Zwolle,PSV
+27/04/2014,1 - 2,Roda JC,Groningen
+27/04/2014,2 - 2,Vitesse,Go Ahead Eagles
+13/04/2014,3 - 2,Ajax,ADO Den Haag
+13/04/2014,0 - 2,PSV,Feyenoord
+13/04/2014,1 - 1,AZ,NEC
+13/04/2014,1 - 1,RKC Waalwijk,PEC Zwolle
+13/04/2014,2 - 1,Utrecht,Heracles
+12/04/2014,3 - 0,Twente,Roda JC
+12/04/2014,4 - 3,Cambuur,Vitesse
+12/04/2014,0 - 2,Go Ahead Eagles,Heerenveen
+11/04/2014,2 - 1,Groningen,NAC Breda
+06/04/2014,2 - 2,Roda JC,AZ
+06/04/2014,2 - 0,Feyenoord,RKC Waalwijk
+06/04/2014,1 - 1,Vitesse,Ajax
+06/04/2014,4 - 1,ADO Den Haag,Utrecht
+05/04/2014,1 - 2,Heracles,Go Ahead Eagles
+05/04/2014,0 - 2,NAC Breda,Twente
+05/04/2014,1 - 1,NEC,Cambuur
+05/04/2014,3 - 0,Heerenveen,PSV
+04/04/2014,0 - 1,PEC Zwolle,Groningen
+02/04/2014,2 - 1,Go Ahead Eagles,NAC Breda
+02/04/2014,1 - 2,Heracles,Feyenoord
+02/04/2014,0 - 2,RKC Waalwijk,Ajax
+02/04/2014,1 - 1,Twente,ADO Den Haag
+02/04/2014,1 - 0,Utrecht,Cambuur
+30/03/2014,1 - 1,ADO Den Haag,PEC Zwolle
+30/03/2014,3 - 0,Ajax,Twente
+30/03/2014,0 - 0,Cambuur,AZ
+30/03/2014,0 - 1,Roda JC,RKC Waalwijk
+30/03/2014,5 - 0,Feyenoord,Go Ahead Eagles
+29/03/2014,2 - 3,PSV,Groningen
+29/03/2014,1 - 2,NEC,Heracles
+29/03/2014,2 - 2,Vitesse,Heerenveen
+28/03/2014,2 - 2,NAC Breda,Utrecht
+23/03/2014,2 - 1,AZ,PEC Zwolle
+22/03/2014,3 - 1,PSV,Roda JC
+22/03/2014,2 - 2,Heerenveen,NEC
+22/03/2014,3 - 1,Groningen,Vitesse
+16/03/2014,0 - 0,NAC Breda,Ajax
+16/03/2014,2 - 0,Feyenoord,Heerenveen
+16/03/2014,2 - 2,NEC,Utrecht
+16/03/2014,2 - 0,PEC Zwolle,Go Ahead Eagles
+16/03/2014,2 - 1,Twente,AZ
+15/03/2014,2 - 1,ADO Den Haag,Groningen
+15/03/2014,2 - 1,Heracles,Roda JC
+15/03/2014,1 - 2,Vitesse,PSV
+14/03/2014,3 - 2,Cambuur,RKC Waalwijk
+09/03/2014,1 - 1,Ajax,Cambuur
+09/03/2014,1 - 0,Go Ahead Eagles,Twente
+09/03/2014,0 - 2,Groningen,Feyenoord
+09/03/2014,1 - 1,RKC Waalwijk,ADO Den Haag
+08/03/2014,1 - 2,NAC Breda,Vitesse
+08/03/2014,1 - 0,PSV,Utrecht
+08/03/2014,3 - 0,Heerenveen,PEC Zwolle
+08/03/2014,4 - 0,AZ,Heracles
+08/03/2014,3 - 1,Roda JC,NEC
+02/03/2014,4 - 0,AZ,RKC Waalwijk
+02/03/2014,1 - 2,Feyenoord,Ajax
+02/03/2014,1 - 1,Groningen,Cambuur
+02/03/2014,1 - 1,Utrecht,Twente
+01/03/2014,3 - 0,Vitesse,Roda JC
+01/03/2014,1 - 1,ADO Den Haag,NAC Breda
+01/03/2014,2 - 3,Go Ahead Eagles,PSV
+01/03/2014,3 - 3,PEC Zwolle,NEC
+28/02/2014,1 - 2,Heracles,Heerenveen
+23/02/2014,2 - 2,Twente,Feyenoord
+23/02/2014,4 - 0,Ajax,AZ
+23/02/2014,3 - 1,Vitesse,RKC Waalwijk
+23/02/2014,1 - 0,Utrecht,Groningen
+22/02/2014,0 - 2,NEC,PSV
+22/02/2014,1 - 0,Cambuur,Roda JC
+22/02/2014,1 - 1,PEC Zwolle,Heracles
+22/02/2014,0 - 0,Heerenveen,NAC Breda
+21/02/2014,3 - 2,ADO Den Haag,Go Ahead Eagles
+16/02/2014,3 - 0,Ajax,Heerenveen
+16/02/2014,1 - 0,Groningen,Go Ahead Eagles
+16/02/2014,1 - 1,NAC Breda,Feyenoord
+16/02/2014,3 - 1,Cambuur,PEC Zwolle
+15/02/2014,1 - 1,AZ,Utrecht
+15/02/2014,1 - 3,RKC Waalwijk,NEC
+15/02/2014,0 - 1,Roda JC,ADO Den Haag
+15/02/2014,2 - 0,Twente,Vitesse
+14/02/2014,2 - 1,PSV,Heracles
+12/02/2014,1 - 1,Groningen,Twente
+09/02/2014,1 - 3,Groningen,Heerenveen
+09/02/2014,1 - 1,PEC Zwolle,Ajax
+09/02/2014,5 - 2,RKC Waalwijk,Utrecht
+09/02/2014,1 - 1,Heracles,Cambuur
+08/02/2014,5 - 1,Feyenoord,NEC
+08/02/2014,2 - 1,Go Ahead Eagles,AZ
+08/02/2014,2 - 0,NAC Breda,Roda JC
+08/02/2014,3 - 2,PSV,Twente
+07/02/2014,0 - 0,Vitesse,ADO Den Haag
+06/02/2014,2 - 1,Ajax,Groningen
+06/02/2014,1 - 2,Utrecht,PEC Zwolle
+05/02/2014,0 - 2,Heerenveen,Twente
+05/02/2014,2 - 2,Go Ahead Eagles,RKC Waalwijk
+05/02/2014,1 - 1,NEC,NAC Breda
+05/02/2014,1 - 2,Cambuur,PSV
+04/02/2014,0 - 2,Vitesse,AZ
+04/02/2014,0 - 3,ADO Den Haag,Heracles
+04/02/2014,1 - 2,Roda JC,Feyenoord
+02/02/2014,2 - 0,RKC Waalwijk,PSV
+02/02/2014,1 - 1,NEC,Go Ahead Eagles
+02/02/2014,3 - 1,Twente,Cambuur
+02/02/2014,1 - 1,Utrecht,Ajax
+01/02/2014,2 - 0,AZ,Groningen
+01/02/2014,1 - 2,Heracles,NAC Breda
+01/02/2014,3 - 1,PEC Zwolle,Roda JC
+01/02/2014,3 - 0,Heerenveen,ADO Den Haag
+31/01/2014,1 - 1,Feyenoord,Vitesse
+26/01/2014,0 - 1,Go Ahead Eagles,Ajax
+26/01/2014,3 - 1,Cambuur,Heerenveen
+26/01/2014,1 - 1,Vitesse,NEC
+25/01/2014,1 - 0,PSV,AZ
+25/01/2014,1 - 2,NAC Breda,PEC Zwolle
+25/01/2014,1 - 0,Roda JC,Utrecht
+25/01/2014,3 - 2,ADO Den Haag,Feyenoord
+24/01/2014,2 - 1,Heracles,RKC Waalwijk
+19/01/2014,1 - 0,Ajax,PSV
+19/01/2014,2 - 0,Cambuur,Go Ahead Eagles
+19/01/2014,2 - 5,Utrecht,Feyenoord
+19/01/2014,3 - 1,NEC,ADO Den Haag
+18/01/2014,2 - 2,Heerenveen,Roda JC
+18/01/2014,1 - 2,PEC Zwolle,Vitesse
+18/01/2014,1 - 1,RKC Waalwijk,Groningen
+18/01/2014,3 - 0,AZ,NAC Breda
+17/01/2014,3 - 1,Twente,Heracles
+22/12/2013,2 - 0,PSV,ADO Den Haag
+22/12/2013,2 - 1,Go Ahead Eagles,Utrecht
+22/12/2013,5 - 2,Groningen,NEC
+22/12/2013,1 - 2,Roda JC,Ajax
+21/12/2013,3 - 0,Feyenoord,PEC Zwolle
+21/12/2013,2 - 2,Heracles,Vitesse
+21/12/2013,1 - 0,NAC Breda,Cambuur
+21/12/2013,1 - 5,AZ,Heerenveen
+20/12/2013,1 - 1,RKC Waalwijk,Twente
+15/12/2013,1 - 5,Utrecht,PSV
+15/12/2013,1 - 0,Feyenoord,Groningen
+15/12/2013,2 - 0,Heracles,AZ
+15/12/2013,3 - 2,Vitesse,NAC Breda
+15/12/2013,1 - 2,Cambuur,Ajax
+14/12/2013,3 - 1,Twente,Go Ahead Eagles
+14/12/2013,1 - 2,ADO Den Haag,RKC Waalwijk
+14/12/2013,4 - 3,NEC,Roda JC
+13/12/2013,1 - 2,PEC Zwolle,Heerenveen
+08/12/2013,1 - 3,Roda JC,Heracles
+08/12/2013,4 - 1,Go Ahead Eagles,PEC Zwolle
+08/12/2013,1 - 2,Groningen,ADO Den Haag
+08/12/2013,1 - 2,Heerenveen,Feyenoord
+07/12/2013,2 - 6,PSV,Vitesse
+07/12/2013,1 - 2,AZ,Twente
+07/12/2013,2 - 2,RKC Waalwijk,Cambuur
+07/12/2013,4 - 0,Ajax,NAC Breda
+06/12/2013,2 - 0,Utrecht,NEC
+04/12/2013,1 - 1,Go Ahead Eagles,Heracles
+04/12/2013,1 - 1,ADO Den Haag,Heerenveen
+01/12/2013,3 - 2,NEC,AZ
+01/12/2013,3 - 1,Feyenoord,PSV
+01/12/2013,3 - 0,Vitesse,Cambuur
+01/12/2013,0 - 4,ADO Den Haag,Ajax
+30/11/2013,1 - 2,Heracles,Utrecht
+30/11/2013,3 - 1,Heerenveen,Go Ahead Eagles
+30/11/2013,2 - 2,NAC Breda,Groningen
+30/11/2013,1 - 1,PEC Zwolle,RKC Waalwijk
+29/11/2013,1 - 2,Roda JC,Twente
+24/11/2013,5 - 2,Twente,NAC Breda
+24/11/2013,0 - 3,Go Ahead Eagles,Vitesse
+24/11/2013,0 - 0,Groningen,PEC Zwolle
+24/11/2013,1 - 0,RKC Waalwijk,Feyenoord
+24/11/2013,3 - 0,Utrecht,ADO Den Haag
+23/11/2013,3 - 0,Ajax,Heracles
+23/11/2013,2 - 2,AZ,Roda JC
+23/11/2013,2 - 1,Cambuur,NEC
+23/11/2013,1 - 1,PSV,Heerenveen
+10/11/2013,2 - 2,Feyenoord,AZ
+10/11/2013,2 - 1,NAC Breda,PSV
+10/11/2013,0 - 3,NEC,Ajax
+10/11/2013,1 - 1,PEC Zwolle,Twente
+09/11/2013,3 - 0,ADO Den Haag,Cambuur
+09/11/2013,0 - 3,Heracles,Groningen
+09/11/2013,3 - 1,Vitesse,Utrecht
+09/11/2013,1 - 4,Roda JC,Go Ahead Eagles
+08/11/2013,5 - 2,Heerenveen,RKC Waalwijk
+03/11/2013,2 - 0,Utrecht,Heerenveen
+03/11/2013,0 - 2,Cambuur,Feyenoord
+03/11/2013,3 - 3,Groningen,Roda JC
+02/11/2013,1 - 1,PSV,PEC Zwolle
+02/11/2013,2 - 0,AZ,ADO Den Haag
+02/11/2013,2 - 2,Twente,NEC
+02/11/2013,0 - 1,Ajax,Vitesse
+01/11/2013,3 - 0,RKC Waalwijk,NAC Breda
+27/10/2013,2 - 2,Vitesse,Groningen
+27/10/2013,1 - 2,Feyenoord,Heracles
+27/10/2013,0 - 2,PEC Zwolle,AZ
+27/10/2013,2 - 1,Roda JC,PSV
+26/10/2013,0 - 0,Ajax,RKC Waalwijk
+26/10/2013,3 - 1,Cambuur,Utrecht
+26/10/2013,5 - 0,NAC Breda,Go Ahead Eagles
+26/10/2013,3 - 2,ADO Den Haag,Twente
+25/10/2013,2 - 1,NEC,Heerenveen
+20/10/2013,3 - 1,AZ,Cambuur
+20/10/2013,1 - 0,Groningen,PSV
+20/10/2013,6 - 1,PEC Zwolle,ADO Den Haag
+20/10/2013,1 - 1,Heracles,NEC
+19/10/2013,2 - 3,Heerenveen,Vitesse
+19/10/2013,1 - 1,Twente,Ajax
+19/10/2013,4 - 2,Utrecht,NAC Breda
+19/10/2013,2 - 2,Go Ahead Eagles,Feyenoord
+19/10/2013,1 - 2,RKC Waalwijk,Roda JC
+06/10/2013,2 - 1,PSV,RKC Waalwijk
+06/10/2013,2 - 1,Groningen,AZ
+06/10/2013,1 - 2,Vitesse,Feyenoord
+06/10/2013,3 - 0,Ajax,Utrecht
+05/10/2013,2 - 1,NAC Breda,Heracles
+05/10/2013,4 - 3,Go Ahead Eagles,NEC
+05/10/2013,0 - 0,Roda JC,PEC Zwolle
+04/10/2013,0 - 1,Cambuur,Twente
+02/10/2013,2 - 1,ADO Den Haag,Vitesse
+29/09/2013,5 - 0,Twente,Groningen
+29/09/2013,4 - 2,Feyenoord,ADO Den Haag
+29/09/2013,2 - 1,Heerenveen,Cambuur
+29/09/2013,2 - 3,NEC,Vitesse
+28/09/2013,6 - 0,Ajax,Go Ahead Eagles
+28/09/2013,0 - 0,PEC Zwolle,NAC Breda
+28/09/2013,3 - 3,Utrecht,Roda JC
+28/09/2013,2 - 1,AZ,PSV
+28/09/2013,1 - 4,RKC Waalwijk,Heracles
+22/09/2013,4 - 0,PSV,Ajax
+22/09/2013,1 - 0,Feyenoord,Utrecht
+22/09/2013,3 - 0,NAC Breda,AZ
+22/09/2013,3 - 0,Vitesse,PEC Zwolle
+21/09/2013,3 - 3,Roda JC,Heerenveen
+21/09/2013,1 - 1,ADO Den Haag,NEC
+21/09/2013,4 - 1,Groningen,RKC Waalwijk
+21/09/2013,0 - 3,Heracles,Twente
+20/09/2013,0 - 0,Go Ahead Eagles,Cambuur
+15/09/2013,2 - 1,Utrecht,RKC Waalwijk
+15/09/2013,3 - 0,AZ,Go Ahead Eagles
+15/09/2013,4 - 2,Heerenveen,Groningen
+15/09/2013,1 - 5,Roda JC,NAC Breda
+15/09/2013,3 - 3,NEC,Feyenoord
+14/09/2013,2 - 2,Twente,PSV
+14/09/2013,2 - 0,Cambuur,Heracles
+14/09/2013,2 - 1,Ajax,PEC Zwolle
+01/09/2013,1 - 1,AZ,Vitesse
+01/09/2013,4 - 0,Feyenoord,Roda JC
+01/09/2013,1 - 1,PEC Zwolle,Utrecht
+01/09/2013,1 - 1,Groningen,Ajax
+31/08/2013,0 - 0,PSV,Cambuur
+31/08/2013,1 - 0,Heracles,ADO Den Haag
+31/08/2013,1 - 4,RKC Waalwijk,Go Ahead Eagles
+31/08/2013,1 - 1,Twente,Heerenveen
+30/08/2013,1 - 1,NAC Breda,NEC
+25/08/2013,2 - 0,Utrecht,AZ
+25/08/2013,3 - 1,Feyenoord,NAC Breda
+25/08/2013,1 - 0,Vitesse,Twente
+25/08/2013,3 - 3,Go Ahead Eagles,Groningen
+24/08/2013,2 - 0,PEC Zwolle,Cambuur
+24/08/2013,0 - 4,ADO Den Haag,Roda JC
+24/08/2013,1 - 1,Heracles,PSV
+24/08/2013,2 - 2,NEC,RKC Waalwijk
+23/08/2013,3 - 3,Heerenveen,Ajax
+18/08/2013,6 - 0,Twente,Utrecht
+18/08/2013,2 - 4,Heerenveen,Heracles
+18/08/2013,1 - 2,NAC Breda,ADO Den Haag
+18/08/2013,2 - 1,Ajax,Feyenoord
+17/08/2013,1 - 5,NEC,PEC Zwolle
+17/08/2013,1 - 1,Roda JC,Vitesse
+17/08/2013,1 - 2,RKC Waalwijk,AZ
+17/08/2013,4 - 1,Cambuur,Groningen
+17/08/2013,3 - 0,PSV,Go Ahead Eagles
+11/08/2013,4 - 2,RKC Waalwijk,Vitesse
+11/08/2013,3 - 2,AZ,Ajax
+11/08/2013,2 - 0,Groningen,Utrecht
+11/08/2013,1 - 4,Feyenoord,Twente
+10/08/2013,5 - 0,PSV,NEC
+10/08/2013,2 - 1,Go Ahead Eagles,ADO Den Haag
+10/08/2013,0 - 2,NAC Breda,Heerenveen
+10/08/2013,1 - 3,Heracles,PEC Zwolle
+09/08/2013,2 - 0,Roda JC,Cambuur
+04/08/2013,2 - 1,PEC Zwolle,Feyenoord
+04/08/2013,1 - 1,Utrecht,Go Ahead Eagles
+04/08/2013,3 - 1,Vitesse,Heracles
+04/08/2013,0 - 0,Cambuur,NAC Breda
+03/08/2013,4 - 2,Heerenveen,AZ
+03/08/2013,1 - 4,NEC,Groningen
+03/08/2013,0 - 0,Twente,RKC Waalwijk
+03/08/2013,2 - 3,ADO Den Haag,PSV
+02/08/2013,3 - 0,Ajax,Roda JC

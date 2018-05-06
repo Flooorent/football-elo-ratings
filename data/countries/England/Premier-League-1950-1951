@@ -1,0 +1,463 @@
+date,score,home_team,away_team
+05/05/1951,6 - 2,Aston Villa,Stoke City
+05/05/1951,1 - 1,Blackpool,Manchester United
+05/05/1951,1 - 2,Charlton Athletic,Derby County
+05/05/1951,4 - 0,Chelsea,Bolton Wanderers
+05/05/1951,1 - 0,Newcastle United,Middlesbrough
+05/05/1951,2 - 1,Portsmouth,Burnley
+05/05/1951,6 - 0,Sheffield Wednesday,Everton
+05/05/1951,0 - 0,Sunderland,Wolverhampton Wanderers
+05/05/1951,3 - 1,Tottenham Hotspur,Liverpool
+02/05/1951,0 - 1,Blackpool,Arsenal
+02/05/1951,1 - 4,Fulham,Portsmouth
+02/05/1951,0 - 1,Wolverhampton Wanderers,Newcastle United
+28/04/1951,2 - 1,Bolton Wanderers,Wolverhampton Wanderers
+28/04/1951,3 - 0,Charlton Athletic,Middlesbrough
+28/04/1951,0 - 1,Derby County,Everton
+28/04/1951,1 - 2,Fulham,Chelsea
+28/04/1951,6 - 0,Manchester United,Huddersfield Town
+28/04/1951,1 - 1,Sunderland,West Bromwich Albion
+28/04/1951,1 - 0,Tottenham Hotspur,Sheffield Wednesday
+25/04/1951,2 - 1,Chelsea,Wolverhampton Wanderers
+25/04/1951,0 - 0,Liverpool,Aston Villa
+21/04/1951,1 - 1,Arsenal,Bolton Wanderers
+21/04/1951,0 - 2,Burnley,Fulham
+21/04/1951,1 - 0,Chelsea,Liverpool
+21/04/1951,1 - 2,Everton,Aston Villa
+21/04/1951,1 - 1,Huddersfield Town,Charlton Athletic
+21/04/1951,1 - 1,Middlesbrough,Tottenham Hotspur
+21/04/1951,0 - 2,Newcastle United,Manchester United
+21/04/1951,2 - 2,Portsmouth,Derby County
+21/04/1951,3 - 1,Sheffield Wednesday,Blackpool
+21/04/1951,2 - 4,Stoke City,Sunderland
+21/04/1951,3 - 2,West Bromwich Albion,Wolverhampton Wanderers
+18/04/1951,2 - 1,Huddersfield Town,Chelsea
+18/04/1951,0 - 1,Newcastle United,Bolton Wanderers
+18/04/1951,4 - 3,Sheffield Wednesday,Derby County
+14/04/1951,3 - 3,Aston Villa,Portsmouth
+14/04/1951,2 - 1,Blackpool,Middlesbrough
+14/04/1951,0 - 1,Bolton Wanderers,Sheffield Wednesday
+14/04/1951,1 - 3,Charlton Athletic,Newcastle United
+14/04/1951,1 - 0,Derby County,Chelsea
+14/04/1951,3 - 2,Fulham,Arsenal
+14/04/1951,1 - 0,Liverpool,Burnley
+14/04/1951,3 - 0,Manchester United,West Bromwich Albion
+14/04/1951,4 - 0,Sunderland,Everton
+14/04/1951,0 - 2,Tottenham Hotspur,Huddersfield Town
+14/04/1951,2 - 3,Wolverhampton Wanderers,Stoke City
+11/04/1951,1 - 2,Middlesbrough,Wolverhampton Wanderers
+11/04/1951,0 - 0,Newcastle United,Portsmouth
+07/04/1951,1 - 2,Arsenal,Liverpool
+07/04/1951,1 - 0,Burnley,Derby County
+07/04/1951,1 - 1,Chelsea,Aston Villa
+07/04/1951,1 - 1,Everton,Wolverhampton Wanderers
+07/04/1951,2 - 1,Huddersfield Town,Blackpool
+07/04/1951,1 - 1,Middlesbrough,Bolton Wanderers
+07/04/1951,0 - 1,Newcastle United,Tottenham Hotspur
+07/04/1951,0 - 0,Portsmouth,Sunderland
+07/04/1951,2 - 2,Sheffield Wednesday,Fulham
+07/04/1951,2 - 0,Stoke City,Manchester United
+07/04/1951,3 - 0,West Bromwich Albion,Charlton Athletic
+04/04/1951,0 - 1,Newcastle United,Aston Villa
+04/04/1951,1 - 3,West Bromwich Albion,Blackpool
+31/03/1951,2 - 1,Aston Villa,Sheffield Wednesday
+31/03/1951,3 - 0,Blackpool,Stoke City
+31/03/1951,0 - 2,Bolton Wanderers,West Bromwich Albion
+31/03/1951,0 - 1,Charlton Athletic,Portsmouth
+31/03/1951,6 - 0,Derby County,Middlesbrough
+31/03/1951,1 - 1,Fulham,Newcastle United
+31/03/1951,1 - 4,Liverpool,Huddersfield Town
+31/03/1951,4 - 1,Manchester United,Chelsea
+31/03/1951,0 - 2,Sunderland,Arsenal
+31/03/1951,3 - 0,Tottenham Hotspur,Everton
+31/03/1951,0 - 1,Wolverhampton Wanderers,Burnley
+27/03/1951,1 - 0,Aston Villa,Wolverhampton Wanderers
+27/03/1951,1 - 2,Huddersfield Town,West Bromwich Albion
+26/03/1951,1 - 2,Bolton Wanderers,Blackpool
+26/03/1951,0 - 2,Chelsea,Burnley
+26/03/1951,2 - 4,Derby County,Manchester United
+26/03/1951,0 - 0,Everton,Sheffield Wednesday
+26/03/1951,1 - 1,Portsmouth,Arsenal
+26/03/1951,2 - 0,Stoke City,Middlesbrough
+26/03/1951,2 - 1,Sunderland,Newcastle United
+26/03/1951,2 - 1,Tottenham Hotspur,Fulham
+26/03/1951,0 - 2,West Bromwich Albion,Huddersfield Town
+26/03/1951,2 - 3,Wolverhampton Wanderers,Aston Villa
+24/03/1951,2 - 1,Arsenal,Wolverhampton Wanderers
+24/03/1951,1 - 2,Burnley,Manchester United
+24/03/1951,2 - 3,Chelsea,Charlton Athletic
+24/03/1951,0 - 2,Everton,Blackpool
+24/03/1951,2 - 0,Huddersfield Town,Derby County
+24/03/1951,2 - 1,Middlesbrough,Aston Villa
+24/03/1951,1 - 1,Newcastle United,Liverpool
+24/03/1951,1 - 1,Portsmouth,Tottenham Hotspur
+24/03/1951,3 - 0,Sheffield Wednesday,Sunderland
+24/03/1951,2 - 1,Stoke City,Bolton Wanderers
+24/03/1951,0 - 0,West Bromwich Albion,Fulham
+23/03/1951,0 - 1,Arsenal,Portsmouth
+23/03/1951,2 - 0,Blackpool,Bolton Wanderers
+23/03/1951,2 - 1,Burnley,Chelsea
+23/03/1951,0 - 1,Fulham,Tottenham Hotspur
+23/03/1951,1 - 0,Liverpool,Charlton Athletic
+23/03/1951,2 - 0,Manchester United,Derby County
+23/03/1951,1 - 0,Middlesbrough,Stoke City
+23/03/1951,2 - 2,Newcastle United,Sunderland
+17/03/1951,3 - 2,Aston Villa,Burnley
+17/03/1951,2 - 2,Blackpool,Newcastle United
+17/03/1951,4 - 0,Bolton Wanderers,Huddersfield Town
+17/03/1951,2 - 0,Charlton Athletic,Stoke City
+17/03/1951,4 - 2,Derby County,Arsenal
+17/03/1951,2 - 0,Fulham,Middlesbrough
+17/03/1951,2 - 1,Liverpool,Sheffield Wednesday
+17/03/1951,3 - 0,Manchester United,Everton
+17/03/1951,1 - 1,Sunderland,Chelsea
+17/03/1951,5 - 0,Tottenham Hotspur,West Bromwich Albion
+17/03/1951,2 - 3,Wolverhampton Wanderers,Portsmouth
+10/03/1951,2 - 1,Arsenal,Aston Villa
+10/03/1951,1 - 1,Burnley,Sunderland
+10/03/1951,0 - 0,Everton,Charlton Athletic
+10/03/1951,1 - 2,Huddersfield Town,Fulham
+10/03/1951,1 - 1,Middlesbrough,Liverpool
+10/03/1951,0 - 0,Portsmouth,Manchester United
+10/03/1951,0 - 0,Stoke City,Tottenham Hotspur
+07/03/1951,3 - 4,Huddersfield Town,Sunderland
+03/03/1951,0 - 1,Aston Villa,Huddersfield Town
+03/03/1951,3 - 0,Blackpool,Portsmouth
+03/03/1951,2 - 0,Bolton Wanderers,Everton
+03/03/1951,0 - 0,Charlton Athletic,Burnley
+03/03/1951,1 - 2,Derby County,Newcastle United
+03/03/1951,2 - 0,Fulham,Stoke City
+03/03/1951,1 - 1,Liverpool,West Bromwich Albion
+03/03/1951,3 - 1,Manchester United,Arsenal
+03/03/1951,2 - 1,Sunderland,Middlesbrough
+03/03/1951,2 - 1,Tottenham Hotspur,Chelsea
+03/03/1951,4 - 0,Wolverhampton Wanderers,Sheffield Wednesday
+28/02/1951,0 - 2,Chelsea,Blackpool
+28/02/1951,1 - 0,Everton,Fulham
+26/02/1951,0 - 4,Sheffield Wednesday,Manchester United
+24/02/1951,2 - 5,Arsenal,Charlton Athletic
+24/02/1951,2 - 0,Burnley,Tottenham Hotspur
+24/02/1951,2 - 1,Portsmouth,Bolton Wanderers
+24/02/1951,2 - 2,Sheffield Wednesday,Chelsea
+24/02/1951,2 - 3,Stoke City,Liverpool
+24/02/1951,1 - 2,West Bromwich Albion,Derby County
+17/02/1951,3 - 1,Blackpool,Derby County
+17/02/1951,2 - 1,Bolton Wanderers,Liverpool
+17/02/1951,3 - 0,Charlton Athletic,Sunderland
+17/02/1951,3 - 0,Everton,Chelsea
+17/02/1951,2 - 3,Huddersfield Town,Middlesbrough
+17/02/1951,2 - 1,Manchester United,Wolverhampton Wanderers
+17/02/1951,2 - 0,Newcastle United,Sheffield Wednesday
+17/02/1951,0 - 0,Stoke City,Burnley
+17/02/1951,3 - 2,Tottenham Hotspur,Aston Villa
+17/02/1951,2 - 0,West Bromwich Albion,Arsenal
+10/02/1951,1 - 1,Bolton Wanderers,Burnley
+10/02/1951,2 - 1,Liverpool,Portsmouth
+03/02/1951,0 - 0,Arsenal,Newcastle United
+03/02/1951,0 - 3,Aston Villa,Blackpool
+03/02/1951,0 - 1,Burnley,West Bromwich Albion
+03/02/1951,1 - 1,Chelsea,Stoke City
+03/02/1951,2 - 2,Derby County,Bolton Wanderers
+03/02/1951,2 - 0,Liverpool,Fulham
+03/02/1951,1 - 0,Manchester United,Middlesbrough
+03/02/1951,6 - 3,Portsmouth,Everton
+03/02/1951,3 - 2,Sheffield Wednesday,Huddersfield Town
+03/02/1951,0 - 0,Sunderland,Tottenham Hotspur
+03/02/1951,2 - 3,Wolverhampton Wanderers,Charlton Athletic
+27/01/1951,1 - 0,Charlton Athletic,Liverpool
+20/01/1951,2 - 2,Blackpool,Sunderland
+20/01/1951,1 - 0,Bolton Wanderers,Aston Villa
+20/01/1951,1 - 2,Charlton Athletic,Manchester United
+20/01/1951,3 - 5,Fulham,Derby County
+20/01/1951,2 - 2,Huddersfield Town,Arsenal
+20/01/1951,0 - 2,Liverpool,Everton
+20/01/1951,2 - 1,Middlesbrough,Sheffield Wednesday
+20/01/1951,2 - 1,Newcastle United,Burnley
+20/01/1951,1 - 2,Stoke City,Portsmouth
+20/01/1951,2 - 1,Tottenham Hotspur,Wolverhampton Wanderers
+20/01/1951,1 - 1,West Bromwich Albion,Chelsea
+13/01/1951,3 - 1,Arsenal,Middlesbrough
+13/01/1951,3 - 0,Aston Villa,Fulham
+13/01/1951,0 - 1,Burnley,Huddersfield Town
+13/01/1951,2 - 1,Charlton Athletic,Sheffield Wednesday
+13/01/1951,3 - 1,Chelsea,Newcastle United
+13/01/1951,1 - 2,Derby County,Liverpool
+13/01/1951,0 - 3,Everton,Stoke City
+13/01/1951,2 - 1,Manchester United,Tottenham Hotspur
+13/01/1951,2 - 2,Portsmouth,West Bromwich Albion
+13/01/1951,1 - 2,Sunderland,Bolton Wanderers
+13/01/1951,1 - 1,Wolverhampton Wanderers,Blackpool
+30/12/1950,1 - 1,Derby County,Stoke City
+30/12/1950,1 - 1,Fulham,Sunderland
+30/12/1950,3 - 3,Middlesbrough,Burnley
+30/12/1950,0 - 2,Sheffield Wednesday,Arsenal
+30/12/1950,1 - 0,Tottenham Hotspur,Charlton Athletic
+30/12/1950,0 - 1,West Bromwich Albion,Everton
+26/12/1950,0 - 0,Aston Villa,Charlton Athletic
+26/12/1950,0 - 1,Bolton Wanderers,Fulham
+26/12/1950,1 - 1,Burnley,Everton
+26/12/1950,1 - 4,Chelsea,Portsmouth
+26/12/1950,1 - 0,Liverpool,Blackpool
+26/12/1950,3 - 5,Manchester United,Sunderland
+26/12/1950,3 - 0,Sheffield Wednesday,West Bromwich Albion
+26/12/1950,1 - 0,Stoke City,Arsenal
+26/12/1950,2 - 1,Tottenham Hotspur,Derby County
+26/12/1950,3 - 1,Wolverhampton Wanderers,Huddersfield Town
+25/12/1950,0 - 3,Arsenal,Stoke City
+25/12/1950,3 - 0,Blackpool,Liverpool
+25/12/1950,2 - 2,Charlton Athletic,Aston Villa
+25/12/1950,1 - 1,Derby County,Tottenham Hotspur
+25/12/1950,1 - 0,Everton,Burnley
+25/12/1950,0 - 1,Fulham,Bolton Wanderers
+25/12/1950,1 - 2,Huddersfield Town,Wolverhampton Wanderers
+25/12/1950,2 - 1,Middlesbrough,Newcastle United
+25/12/1950,1 - 3,Portsmouth,Chelsea
+25/12/1950,2 - 1,Sunderland,Manchester United
+25/12/1950,1 - 3,West Bromwich Albion,Sheffield Wednesday
+23/12/1950,1 - 1,Aston Villa,Derby County
+23/12/1950,1 - 0,Burnley,Sheffield Wednesday
+23/12/1950,2 - 3,Charlton Athletic,Blackpool
+23/12/1950,1 - 1,Chelsea,Middlesbrough
+23/12/1950,3 - 1,Everton,Newcastle United
+23/12/1950,2 - 3,Manchester United,Bolton Wanderers
+23/12/1950,1 - 0,Portsmouth,Huddersfield Town
+23/12/1950,1 - 1,Stoke City,West Bromwich Albion
+23/12/1950,2 - 1,Sunderland,Liverpool
+23/12/1950,1 - 0,Tottenham Hotspur,Arsenal
+23/12/1950,1 - 1,Wolverhampton Wanderers,Fulham
+16/12/1950,0 - 1,Arsenal,Burnley
+16/12/1950,0 - 1,Blackpool,Tottenham Hotspur
+16/12/1950,3 - 0,Bolton Wanderers,Charlton Athletic
+16/12/1950,6 - 5,Derby County,Sunderland
+16/12/1950,2 - 2,Fulham,Manchester United
+16/12/1950,1 - 2,Huddersfield Town,Everton
+16/12/1950,1 - 4,Liverpool,Wolverhampton Wanderers
+16/12/1950,3 - 1,Middlesbrough,Portsmouth
+16/12/1950,3 - 1,Newcastle United,Stoke City
+16/12/1950,2 - 0,West Bromwich Albion,Aston Villa
+09/12/1950,4 - 4,Arsenal,Blackpool
+09/12/1950,2 - 0,Burnley,Bolton Wanderers
+09/12/1950,2 - 0,Chelsea,Fulham
+09/12/1950,1 - 2,Everton,Derby County
+09/12/1950,2 - 3,Huddersfield Town,Manchester United
+09/12/1950,7 - 3,Middlesbrough,Charlton Athletic
+09/12/1950,1 - 1,Newcastle United,Wolverhampton Wanderers
+09/12/1950,1 - 3,Portsmouth,Liverpool
+09/12/1950,1 - 1,Sheffield Wednesday,Tottenham Hotspur
+09/12/1950,1 - 0,Stoke City,Aston Villa
+09/12/1950,3 - 1,West Bromwich Albion,Sunderland
+02/12/1950,3 - 3,Aston Villa,Everton
+02/12/1950,3 - 2,Blackpool,Sheffield Wednesday
+02/12/1950,3 - 0,Bolton Wanderers,Arsenal
+02/12/1950,3 - 2,Charlton Athletic,Huddersfield Town
+02/12/1950,2 - 3,Derby County,Portsmouth
+02/12/1950,4 - 1,Fulham,Burnley
+02/12/1950,1 - 0,Liverpool,Chelsea
+02/12/1950,1 - 2,Manchester United,Newcastle United
+02/12/1950,1 - 1,Sunderland,Stoke City
+02/12/1950,3 - 3,Tottenham Hotspur,Middlesbrough
+02/12/1950,3 - 1,Wolverhampton Wanderers,West Bromwich Albion
+25/11/1950,5 - 1,Arsenal,Fulham
+25/11/1950,1 - 1,Burnley,Liverpool
+25/11/1950,1 - 2,Chelsea,Derby County
+25/11/1950,3 - 1,Everton,Sunderland
+25/11/1950,3 - 2,Huddersfield Town,Tottenham Hotspur
+25/11/1950,4 - 3,Middlesbrough,Blackpool
+25/11/1950,3 - 2,Newcastle United,Charlton Athletic
+25/11/1950,3 - 3,Portsmouth,Aston Villa
+25/11/1950,3 - 4,Sheffield Wednesday,Bolton Wanderers
+25/11/1950,0 - 1,Stoke City,Wolverhampton Wanderers
+25/11/1950,0 - 1,West Bromwich Albion,Manchester United
+18/11/1950,4 - 2,Aston Villa,Chelsea
+18/11/1950,3 - 1,Blackpool,Huddersfield Town
+18/11/1950,0 - 2,Bolton Wanderers,Middlesbrough
+18/11/1950,2 - 3,Charlton Athletic,West Bromwich Albion
+18/11/1950,1 - 1,Derby County,Burnley
+18/11/1950,4 - 2,Fulham,Sheffield Wednesday
+18/11/1950,1 - 3,Liverpool,Arsenal
+18/11/1950,0 - 0,Manchester United,Stoke City
+18/11/1950,0 - 0,Sunderland,Portsmouth
+18/11/1950,7 - 0,Tottenham Hotspur,Newcastle United
+18/11/1950,4 - 0,Wolverhampton Wanderers,Everton
+11/11/1950,5 - 1,Arsenal,Sunderland
+11/11/1950,2 - 0,Burnley,Wolverhampton Wanderers
+11/11/1950,1 - 0,Chelsea,Manchester United
+11/11/1950,1 - 2,Everton,Tottenham Hotspur
+11/11/1950,2 - 2,Huddersfield Town,Liverpool
+11/11/1950,1 - 1,Middlesbrough,Derby County
+11/11/1950,1 - 2,Newcastle United,Fulham
+11/11/1950,3 - 3,Portsmouth,Charlton Athletic
+11/11/1950,3 - 2,Sheffield Wednesday,Aston Villa
+11/11/1950,1 - 0,Stoke City,Blackpool
+11/11/1950,0 - 1,West Bromwich Albion,Bolton Wanderers
+04/11/1950,0 - 1,Aston Villa,Middlesbrough
+04/11/1950,4 - 0,Blackpool,Everton
+04/11/1950,1 - 1,Bolton Wanderers,Stoke City
+04/11/1950,1 - 2,Charlton Athletic,Chelsea
+04/11/1950,3 - 0,Derby County,Huddersfield Town
+04/11/1950,0 - 1,Fulham,West Bromwich Albion
+04/11/1950,2 - 4,Liverpool,Newcastle United
+04/11/1950,1 - 1,Manchester United,Burnley
+04/11/1950,5 - 1,Sunderland,Sheffield Wednesday
+04/11/1950,5 - 1,Tottenham Hotspur,Portsmouth
+04/11/1950,0 - 1,Wolverhampton Wanderers,Arsenal
+28/10/1950,3 - 1,Arsenal,Derby County
+28/10/1950,2 - 0,Burnley,Aston Villa
+28/10/1950,3 - 0,Chelsea,Sunderland
+28/10/1950,1 - 4,Everton,Manchester United
+28/10/1950,0 - 4,Huddersfield Town,Bolton Wanderers
+28/10/1950,1 - 1,Middlesbrough,Fulham
+28/10/1950,4 - 2,Newcastle United,Blackpool
+28/10/1950,1 - 4,Portsmouth,Wolverhampton Wanderers
+28/10/1950,4 - 1,Sheffield Wednesday,Liverpool
+28/10/1950,2 - 0,Stoke City,Charlton Athletic
+28/10/1950,1 - 2,West Bromwich Albion,Tottenham Hotspur
+21/10/1950,1 - 1,Aston Villa,Arsenal
+21/10/1950,2 - 1,Blackpool,West Bromwich Albion
+21/10/1950,0 - 2,Bolton Wanderers,Newcastle United
+21/10/1950,2 - 1,Charlton Athletic,Everton
+21/10/1950,4 - 1,Derby County,Sheffield Wednesday
+21/10/1950,1 - 1,Fulham,Huddersfield Town
+21/10/1950,0 - 0,Liverpool,Middlesbrough
+21/10/1950,0 - 0,Manchester United,Portsmouth
+21/10/1950,1 - 1,Sunderland,Burnley
+21/10/1950,6 - 1,Tottenham Hotspur,Stoke City
+21/10/1950,2 - 1,Wolverhampton Wanderers,Chelsea
+14/10/1950,3 - 0,Arsenal,Manchester United
+14/10/1950,5 - 1,Burnley,Charlton Athletic
+14/10/1950,0 - 2,Chelsea,Tottenham Hotspur
+14/10/1950,1 - 1,Everton,Bolton Wanderers
+14/10/1950,4 - 2,Huddersfield Town,Aston Villa
+14/10/1950,1 - 1,Middlesbrough,Sunderland
+14/10/1950,3 - 1,Newcastle United,Derby County
+14/10/1950,2 - 0,Portsmouth,Blackpool
+14/10/1950,2 - 2,Sheffield Wednesday,Wolverhampton Wanderers
+14/10/1950,1 - 1,Stoke City,Fulham
+14/10/1950,1 - 1,West Bromwich Albion,Liverpool
+07/10/1950,3 - 0,Aston Villa,Newcastle United
+07/10/1950,3 - 2,Blackpool,Chelsea
+07/10/1950,4 - 0,Bolton Wanderers,Portsmouth
+07/10/1950,1 - 3,Charlton Athletic,Arsenal
+07/10/1950,1 - 1,Derby County,West Bromwich Albion
+07/10/1950,1 - 5,Fulham,Everton
+07/10/1950,0 - 0,Liverpool,Stoke City
+07/10/1950,3 - 1,Manchester United,Sheffield Wednesday
+07/10/1950,0 - 0,Sunderland,Huddersfield Town
+07/10/1950,1 - 0,Tottenham Hotspur,Burnley
+07/10/1950,3 - 4,Wolverhampton Wanderers,Middlesbrough
+30/09/1950,3 - 0,Arsenal,West Bromwich Albion
+30/09/1950,2 - 3,Aston Villa,Tottenham Hotspur
+30/09/1950,1 - 1,Burnley,Stoke City
+30/09/1950,2 - 1,Chelsea,Everton
+30/09/1950,4 - 1,Derby County,Blackpool
+30/09/1950,3 - 3,Liverpool,Bolton Wanderers
+30/09/1950,8 - 0,Middlesbrough,Huddersfield Town
+30/09/1950,1 - 0,Portsmouth,Fulham
+30/09/1950,0 - 0,Sheffield Wednesday,Newcastle United
+30/09/1950,4 - 2,Sunderland,Charlton Athletic
+30/09/1950,0 - 0,Wolverhampton Wanderers,Manchester United
+23/09/1950,1 - 1,Blackpool,Aston Villa
+23/09/1950,3 - 0,Bolton Wanderers,Derby County
+23/09/1950,3 - 2,Charlton Athletic,Wolverhampton Wanderers
+23/09/1950,1 - 5,Everton,Portsmouth
+23/09/1950,2 - 1,Fulham,Liverpool
+23/09/1950,3 - 4,Huddersfield Town,Sheffield Wednesday
+23/09/1950,1 - 2,Middlesbrough,Manchester United
+23/09/1950,2 - 1,Newcastle United,Arsenal
+23/09/1950,2 - 1,Stoke City,Chelsea
+23/09/1950,1 - 1,Tottenham Hotspur,Sunderland
+23/09/1950,2 - 1,West Bromwich Albion,Burnley
+16/09/1950,6 - 2,Arsenal,Huddersfield Town
+16/09/1950,0 - 1,Aston Villa,Bolton Wanderers
+16/09/1950,1 - 1,Burnley,Newcastle United
+16/09/1950,1 - 1,Chelsea,West Bromwich Albion
+16/09/1950,3 - 2,Derby County,Fulham
+16/09/1950,1 - 3,Everton,Liverpool
+16/09/1950,3 - 0,Manchester United,Charlton Athletic
+16/09/1950,5 - 1,Portsmouth,Stoke City
+16/09/1950,0 - 1,Sheffield Wednesday,Middlesbrough
+16/09/1950,0 - 2,Sunderland,Blackpool
+16/09/1950,2 - 1,Wolverhampton Wanderers,Tottenham Hotspur
+13/09/1950,1 - 1,Everton,Arsenal
+13/09/1950,2 - 2,Fulham,Blackpool
+13/09/1950,0 - 0,Huddersfield Town,Newcastle United
+13/09/1950,0 - 0,Manchester United,Aston Villa
+13/09/1950,2 - 3,West Bromwich Albion,Middlesbrough
+11/09/1950,1 - 1,Stoke City,Sheffield Wednesday
+09/09/1950,1 - 1,Blackpool,Wolverhampton Wanderers
+09/09/1950,1 - 2,Bolton Wanderers,Sunderland
+09/09/1950,2 - 1,Fulham,Aston Villa
+09/09/1950,3 - 1,Huddersfield Town,Burnley
+09/09/1950,1 - 0,Liverpool,Derby County
+09/09/1950,2 - 1,Middlesbrough,Arsenal
+09/09/1950,3 - 1,Newcastle United,Chelsea
+09/09/1950,1 - 2,Sheffield Wednesday,Charlton Athletic
+09/09/1950,2 - 0,Stoke City,Everton
+09/09/1950,1 - 0,Tottenham Hotspur,Manchester United
+09/09/1950,5 - 0,West Bromwich Albion,Portsmouth
+06/09/1950,2 - 1,Arsenal,Everton
+06/09/1950,5 - 0,Derby County,Charlton Athletic
+06/09/1950,2 - 1,Liverpool,Tottenham Hotspur
+06/09/1950,2 - 1,Middlesbrough,West Bromwich Albion
+06/09/1950,6 - 0,Newcastle United,Huddersfield Town
+06/09/1950,2 - 1,Wolverhampton Wanderers,Sunderland
+04/09/1950,1 - 3,Aston Villa,Manchester United
+04/09/1950,4 - 0,Blackpool,Fulham
+04/09/1950,1 - 0,Bolton Wanderers,Chelsea
+04/09/1950,1 - 1,Burnley,Portsmouth
+04/09/1950,1 - 1,Sheffield Wednesday,Stoke City
+02/09/1950,3 - 0,Arsenal,Sheffield Wednesday
+02/09/1950,1 - 1,Aston Villa,Liverpool
+02/09/1950,3 - 1,Burnley,Middlesbrough
+02/09/1950,1 - 1,Charlton Athletic,Tottenham Hotspur
+02/09/1950,1 - 2,Chelsea,Huddersfield Town
+02/09/1950,0 - 3,Everton,West Bromwich Albion
+02/09/1950,1 - 0,Manchester United,Blackpool
+02/09/1950,0 - 0,Portsmouth,Newcastle United
+02/09/1950,4 - 1,Stoke City,Derby County
+02/09/1950,0 - 1,Sunderland,Fulham
+02/09/1950,7 - 1,Wolverhampton Wanderers,Bolton Wanderers
+30/08/1950,0 - 0,Charlton Athletic,Fulham
+30/08/1950,0 - 1,Chelsea,Arsenal
+30/08/1950,3 - 2,Everton,Middlesbrough
+30/08/1950,1 - 0,Manchester United,Liverpool
+30/08/1950,4 - 1,Portsmouth,Sheffield Wednesday
+30/08/1950,3 - 3,Sunderland,Aston Villa
+30/08/1950,1 - 2,West Bromwich Albion,Newcastle United
+29/08/1950,0 - 0,Burnley,Blackpool
+28/08/1950,0 - 1,Stoke City,Huddersfield Town
+28/08/1950,4 - 2,Tottenham Hotspur,Bolton Wanderers
+28/08/1950,2 - 3,Wolverhampton Wanderers,Derby County
+26/08/1950,2 - 2,Arsenal,Tottenham Hotspur
+26/08/1950,0 - 0,Blackpool,Charlton Athletic
+26/08/1950,1 - 0,Bolton Wanderers,Manchester United
+26/08/1950,4 - 2,Derby County,Aston Villa
+26/08/1950,2 - 1,Fulham,Wolverhampton Wanderers
+26/08/1950,2 - 1,Huddersfield Town,Portsmouth
+26/08/1950,4 - 0,Liverpool,Sunderland
+26/08/1950,3 - 0,Middlesbrough,Chelsea
+26/08/1950,1 - 1,Newcastle United,Everton
+26/08/1950,0 - 1,Sheffield Wednesday,Burnley
+26/08/1950,1 - 1,West Bromwich Albion,Stoke City
+23/08/1950,0 - 0,Arsenal,Chelsea
+23/08/1950,1 - 4,Bolton Wanderers,Tottenham Hotspur
+23/08/1950,1 - 2,Derby County,Wolverhampton Wanderers
+23/08/1950,1 - 3,Fulham,Charlton Athletic
+23/08/1950,3 - 1,Huddersfield Town,Stoke City
+23/08/1950,2 - 1,Liverpool,Manchester United
+23/08/1950,4 - 0,Middlesbrough,Everton
+23/08/1950,1 - 1,Newcastle United,West Bromwich Albion
+21/08/1950,3 - 1,Aston Villa,Sunderland
+21/08/1950,1 - 2,Blackpool,Burnley
+21/08/1950,2 - 1,Sheffield Wednesday,Portsmouth
+19/08/1950,2 - 0,Aston Villa,West Bromwich Albion
+19/08/1950,0 - 1,Burnley,Arsenal
+19/08/1950,4 - 3,Charlton Athletic,Bolton Wanderers
+19/08/1950,4 - 0,Chelsea,Sheffield Wednesday
+19/08/1950,3 - 2,Everton,Huddersfield Town
+19/08/1950,1 - 0,Manchester United,Fulham
+19/08/1950,1 - 1,Portsmouth,Middlesbrough
+19/08/1950,1 - 2,Stoke City,Newcastle United
+19/08/1950,1 - 0,Sunderland,Derby County
+19/08/1950,1 - 4,Tottenham Hotspur,Blackpool
+19/08/1950,2 - 0,Wolverhampton Wanderers,Liverpool

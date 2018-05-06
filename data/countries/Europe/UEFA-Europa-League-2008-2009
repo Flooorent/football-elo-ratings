@@ -1,0 +1,360 @@
+date,score,home_team,away_team
+20/05/2009,1 - 1, [ET] Shakhtar Donetsk,Werder Bremen
+07/05/2009,2 - 3,Hamburger SV,Werder Bremen
+07/05/2009,2 - 1,Shakhtar Donetsk,Dynamo Kyiv
+30/04/2009,0 - 1,Werder Bremen,Hamburger SV
+30/04/2009,1 - 1,Dynamo Kyiv,Shakhtar Donetsk
+16/04/2009,2 - 1,Manchester City,Hamburger SV
+16/04/2009,1 - 2,Olympique Marseille,Shakhtar Donetsk
+16/04/2009,3 - 3,Udinese,Werder Bremen
+16/04/2009,3 - 0,Dynamo Kyiv,PSG
+09/04/2009,3 - 1,Hamburger SV,Manchester City
+09/04/2009,0 - 0,PSG,Dynamo Kyiv
+09/04/2009,3 - 1,Werder Bremen,Udinese
+09/04/2009,2 - 0,Shakhtar Donetsk,Olympique Marseille
+19/03/2009,0 - 1,Sporting Braga,PSG
+19/03/2009,2 - 0,AaB,Manchester City [PS] 
+19/03/2009,2 - 3,Galatasaray,Hamburger SV
+19/03/2009,2 - 0,Shakhtar Donetsk,CSKA Moskva
+19/03/2009,1 - 0,Zenit,Udinese
+19/03/2009,3 - 2,Metalist,Dynamo Kyiv
+18/03/2009,2 - 1,Ajax,Olympique Marseille
+18/03/2009,2 - 2,Saint-Étienne,Werder Bremen
+12/03/2009,2 - 0,Manchester City,AaB
+12/03/2009,2 - 1,Olympique Marseille,Ajax
+12/03/2009,2 - 0,Udinese,Zenit
+12/03/2009,1 - 0,Werder Bremen,Saint-Étienne
+12/03/2009,0 - 0,PSG,Sporting Braga
+12/03/2009,1 - 0,CSKA Moskva,Shakhtar Donetsk
+12/03/2009,1 - 0,Dynamo Kyiv,Metalist
+12/03/2009,1 - 1,Hamburger SV,Galatasaray
+26/02/2009,2 - 2,Valencia,Dynamo Kyiv
+26/02/2009,1 - 3,Deportivo La Coruña,AaB
+26/02/2009,1 - 1,Tottenham Hotspur,Shakhtar Donetsk
+26/02/2009,2 - 1,Saint-Étienne,Olympiakos Piraeus
+26/02/2009,1 - 1,Ajax,Fiorentina
+26/02/2009,2 - 1,Manchester City,København
+26/02/2009,2 - 2,Milan,Werder Bremen
+26/02/2009,1 - 1,Standard Liège,Sporting Braga
+26/02/2009,1 - 2,Stuttgart,Zenit
+26/02/2009,2 - 1,Udinese,Lech Poznań
+26/02/2009,4 - 3,Galatasaray,Bordeaux
+26/02/2009,1 - 3,Wolfsburg,PSG
+26/02/2009,0 - 1,Twente,Olympique Marseille [PS] 
+26/02/2009,1 - 0,Hamburger SV,NEC
+26/02/2009,2 - 0,CSKA Moskva,Aston Villa
+26/02/2009,2 - 0,Metalist,Sampdoria
+19/02/2009,0 - 1,Fiorentina,Ajax
+19/02/2009,0 - 1,Olympique Marseille,Twente
+19/02/2009,2 - 2,København,Manchester City
+19/02/2009,2 - 0,Shakhtar Donetsk,Tottenham Hotspur
+19/02/2009,2 - 2,Lech Poznań,Udinese
+18/02/2009,3 - 0,Sporting Braga,Standard Liège
+18/02/2009,3 - 0,AaB,Deportivo La Coruña
+18/02/2009,0 - 0,Bordeaux,Galatasaray
+18/02/2009,0 - 3,NEC,Hamburger SV
+18/02/2009,2 - 0,PSG,Wolfsburg
+18/02/2009,0 - 1,Sampdoria,Metalist
+18/02/2009,1 - 1,Werder Bremen,Milan
+18/02/2009,1 - 1,Aston Villa,CSKA Moskva
+18/02/2009,1 - 3,Olympiakos Piraeus,Saint-Étienne
+18/02/2009,2 - 1,Zenit,Stuttgart
+18/02/2009,1 - 1,Dynamo Kyiv,Valencia
+18/12/2008,4 - 0,PSG,Twente
+18/12/2008,3 - 1,Racing Santander,Manchester City
+03/12/2008,0 - 0,Manchester City,PSG
+03/12/2008,2 - 1,Twente,Schalke 04
+27/11/2008,2 - 2,PSG,Racing Santander
+27/11/2008,0 - 2,Schalke 04,Manchester City
+06/11/2008,3 - 2,Manchester City,Twente
+06/11/2008,1 - 1,Racing Santander,Schalke 04
+23/10/2008,1 - 0,Twente,Racing Santander
+23/10/2008,3 - 1,Schalke 04,PSG
+18/12/2008,0 - 1,Benfica,Metalist
+18/12/2008,4 - 0,Olympiakos Piraeus,Hertha BSC
+03/12/2008,0 - 1,Hertha BSC,Galatasaray
+03/12/2008,1 - 0,Metalist,Olympiakos Piraeus
+27/11/2008,5 - 1,Olympiakos Piraeus,Benfica
+27/11/2008,0 - 1,Galatasaray,Metalist
+06/11/2008,0 - 2,Benfica,Galatasaray
+06/11/2008,0 - 0,Metalist,Hertha BSC
+23/10/2008,1 - 1,Hertha BSC,Benfica
+23/10/2008,1 - 0,Galatasaray,Olympiakos Piraeus
+18/12/2008,1 - 0,Sampdoria,Sevilla
+18/12/2008,3 - 0,Stuttgart,Standard Liège
+03/12/2008,3 - 0,Sevilla,Partizan
+03/12/2008,3 - 0,Standard Liège,Sampdoria
+27/11/2008,0 - 1,Partizan,Standard Liège
+27/11/2008,1 - 1,Sampdoria,Stuttgart
+06/11/2008,1 - 0,Standard Liège,Sevilla
+06/11/2008,2 - 0,Stuttgart,Partizan
+23/10/2008,1 - 2,Partizan,Sampdoria
+23/10/2008,2 - 0,Sevilla,Stuttgart
+18/12/2008,2 - 0,NEC,Udinese
+18/12/2008,2 - 2,Tottenham Hotspur,Spartak Moskva
+03/12/2008,1 - 2,Spartak Moskva,NEC
+03/12/2008,2 - 1,Udinese,Dinamo Zagreb
+27/11/2008,0 - 1,Dinamo Zagreb,Spartak Moskva
+27/11/2008,0 - 1,NEC,Tottenham Hotspur
+06/11/2008,4 - 0,Tottenham Hotspur,Dinamo Zagreb
+06/11/2008,1 - 2,Spartak Moskva,Udinese
+23/10/2008,3 - 2,Dinamo Zagreb,NEC
+23/10/2008,2 - 0,Udinese,Tottenham Hotspur
+17/12/2008,2 - 2,Milan,Wolfsburg
+17/12/2008,3 - 0,Portsmouth,Heerenveen
+04/12/2008,1 - 2,Heerenveen,Sporting Braga
+04/12/2008,3 - 2,Wolfsburg,Portsmouth
+27/11/2008,2 - 3,Sporting Braga,Wolfsburg
+27/11/2008,2 - 2,Portsmouth,Milan
+06/11/2008,1 - 0,Milan,Sporting Braga
+06/11/2008,5 - 1,Wolfsburg,Heerenveen
+23/10/2008,3 - 0,Sporting Braga,Portsmouth
+23/10/2008,1 - 3,Heerenveen,Milan
+17/12/2008,2 - 2,Ajax,Slavia Praha
+17/12/2008,3 - 1,Hamburger SV,Aston Villa
+04/12/2008,1 - 2,Aston Villa,Žilina
+04/12/2008,0 - 2,Slavia Praha,Hamburger SV
+27/11/2008,0 - 1,Hamburger SV,Ajax
+27/11/2008,0 - 0,Žilina,Slavia Praha
+06/11/2008,1 - 0,Ajax,Žilina
+06/11/2008,0 - 1,Slavia Praha,Aston Villa
+23/10/2008,2 - 1,Aston Villa,Ajax
+23/10/2008,1 - 2,Žilina,Hamburger SV
+17/12/2008,1 - 0,Deportivo La Coruña,Nancy
+17/12/2008,0 - 1,Feyenoord,Lech Poznań
+04/12/2008,1 - 1,Lech Poznań,Deportivo La Coruña
+04/12/2008,3 - 4,Nancy,CSKA Moskva
+27/11/2008,3 - 0,Deportivo La Coruña,Feyenoord
+27/11/2008,2 - 1,CSKA Moskva,Lech Poznań
+06/11/2008,1 - 3,Feyenoord,CSKA Moskva
+06/11/2008,2 - 2,Lech Poznań,Nancy
+23/10/2008,3 - 0,Nancy,Feyenoord
+23/10/2008,3 - 0,CSKA Moskva,Deportivo La Coruña
+17/12/2008,0 - 1,Club Brugge,København
+17/12/2008,2 - 2,Saint-Étienne,Valencia
+04/12/2008,1 - 1,København,Rosenborg
+04/12/2008,1 - 1,Valencia,Club Brugge
+27/11/2008,1 - 1,Club Brugge,Saint-Étienne
+27/11/2008,0 - 4,Rosenborg,Valencia
+06/11/2008,1 - 1,Valencia,København
+06/11/2008,3 - 0,Saint-Étienne,Rosenborg
+23/10/2008,1 - 3,København,Saint-Étienne
+23/10/2008,0 - 0,Rosenborg,Club Brugge
+02/10/2008,2 - 0,Vitória Guimarães,Portsmouth
+02/10/2008,2 - 1,Valencia,Marítimo
+02/10/2008,2 - 0,Benfica,Napoli
+02/10/2008,1 - 1,Aston Villa,Lovech
+02/10/2008,2 - 0, [PS] Deportivo La Coruña,Brann
+02/10/2008,0 - 0,PSG,Kayserispor
+02/10/2008,2 - 0,Club Brugge,Young Boys
+02/10/2008,1 - 1,København,Moskva
+02/10/2008,2 - 1,Manchester City,Omonia Nicosia
+02/10/2008,0 - 2,Motherwell,Nancy
+02/10/2008,5 - 0,Olympiakos Piraeus,Nordsjælland
+02/10/2008,0 - 2, [PS] Udinese,Borussia Dortmund
+02/10/2008,2 - 0,Ajax,Borac Čačak
+02/10/2008,0 - 2,Salzburg,Sevilla
+02/10/2008,0 - 2,Petržalka,Sporting Braga
+02/10/2008,3 - 3,Sparta Praha,Dinamo Zagreb
+02/10/2008,0 - 1,Zürich,Milan
+02/10/2008,5 - 2,Heerenveen,Vitória Setúbal
+02/10/2008,1 - 0,Twente,Rennes
+02/10/2008,2 - 1,Standard Liège,Everton
+02/10/2008,1 - 1,Vaslui,Slavia Praha
+02/10/2008,0 - 0,Dinamo Bucureşti,NEC
+02/10/2008,2 - 1,Galatasaray,Bellinzona
+02/10/2008,4 - 1,Metalist,Beşiktaş
+02/10/2008,1 - 0,Partizan,Politehnica Timişoara
+02/10/2008,2 - 1,Saint-Étienne,Hapoel Tel Aviv
+02/10/2008,3 - 2,Rosenborg,Brøndby
+02/10/2008,0 - 1,Honka,Racing Santander
+02/10/2008,1 - 2,Kalmar,Feyenoord
+02/10/2008,0 - 1,Levski Sofia,Žilina
+02/10/2008,2 - 1, [ET] Lech Poznań,Austria Wien
+02/10/2008,1 - 1,Schalke 04,APOEL
+02/10/2008,2 - 2,Stuttgart,Cherno More
+02/10/2008,1 - 2,Kaunas,Sampdoria
+02/10/2008,1 - 1,Spartak Moskva,Baník Ostrava
+02/10/2008,0 - 2,Unirea Urziceni,Hamburger SV
+02/10/2008,1 - 1,Rapid Bucureşti,Wolfsburg
+02/10/2008,1 - 1,Wisła Kraków,Tottenham Hotspur
+30/09/2008,1 - 0,CSKA Moskva,Slaven Koprivnica
+30/09/2008,0 - 0,St Patrick's Athl.,Hertha BSC
+18/09/2008,0 - 1,Marítimo,Valencia
+18/09/2008,1 - 1,Vitória Setúbal,Heerenveen
+18/09/2008,4 - 0,Sporting Braga,Petržalka
+18/09/2008,2 - 1,Tottenham Hotspur,Wisła Kraków
+18/09/2008,2 - 2,Everton,Standard Liège
+18/09/2008,1 - 4,Borac Čačak,Ajax
+18/09/2008,3 - 2,Napoli,Benfica
+18/09/2008,2 - 1,Rennes,Twente
+18/09/2008,0 - 2,Borussia Dortmund,Udinese
+18/09/2008,1 - 2,Brøndby,Rosenborg
+18/09/2008,0 - 0,Dinamo Zagreb,Sparta Praha
+18/09/2008,3 - 1,Milan,Zürich
+18/09/2008,5 - 0,Sampdoria,Kaunas
+18/09/2008,2 - 0,Sevilla,Salzburg
+18/09/2008,1 - 0,Racing Santander,Honka
+18/09/2008,3 - 4,Bellinzona,Galatasaray
+18/09/2008,1 - 2,Kayserispor,PSG
+18/09/2008,2 - 2,Young Boys,Club Brugge
+18/09/2008,1 - 0,NEC,Dinamo Bucureşti
+18/09/2008,1 - 2,Politehnica Timişoara,Partizan
+18/09/2008,2 - 1,Austria Wien,Lech Poznań
+18/09/2008,1 - 0,Beşiktaş,Metalist
+18/09/2008,1 - 1,Žilina,Levski Sofia
+18/09/2008,0 - 0,Slavia Praha,Vaslui
+18/09/2008,2 - 0,Brann,Deportivo La Coruña
+18/09/2008,0 - 1,Feyenoord,Kalmar
+18/09/2008,0 - 0,Hamburger SV,Unirea Urziceni
+18/09/2008,1 - 0,Nancy,Motherwell
+18/09/2008,1 - 2,Omonia Nicosia,Manchester City
+18/09/2008,2 - 0,Portsmouth,Vitória Guimarães
+18/09/2008,1 - 0,Wolfsburg,Rapid Bucureşti
+18/09/2008,0 - 1,Baník Ostrava,Spartak Moskva
+18/09/2008,1 - 2,Hapoel Tel Aviv,Saint-Étienne
+18/09/2008,1 - 2,Slaven Koprivnica,CSKA Moskva
+18/09/2008,1 - 2,Cherno More,Stuttgart
+18/09/2008,1 - 3,Lovech,Aston Villa
+18/09/2008,1 - 2,Moskva,København
+16/09/2008,1 - 4,APOEL,Schalke 04
+16/09/2008,2 - 0,Hertha BSC,St Patrick's Athl.
+16/09/2008,0 - 2,Nordsjælland,Olympiakos Piraeus
+28/08/2008,1 - 1,Aston Villa,FH
+28/08/2008,5 - 0,Napoli,Vllaznia Shkodër
+28/08/2008,0 - 2,Hajduk Split,Deportivo La Coruña
+28/08/2008,2 - 1,St Patrick's Athl.,Elfsborg
+28/08/2008,1 - 4,Győri ETO,Stuttgart
+28/08/2008,2 - 0,Rennes,Stabæk
+28/08/2008,2 - 1,Bellinzona,Dnipro Dnipropetrovsk
+28/08/2008,2 - 2,Crvena Zvezda,APOEL
+28/08/2008,4 - 0,Beşiktaş,Široki Brijeg
+28/08/2008,2 - 3,Debrecen,Young Boys
+28/08/2008,0 - 0,Grasshopper,Lech Poznań
+28/08/2008,2 - 0,Austria Wien,WIT Georgia
+28/08/2008,2 - 0,Brøndby,Haka
+28/08/2008,1 - 1,Sturm Graz,Zürich [PS] 
+28/08/2008,3 - 1,Vaslui,Liepājas Metalurgs
+28/08/2008,2 - 1,Žilina,Slovan Liberec
+28/08/2008,2 - 0,Cherno More,Maccabi Netanya
+28/08/2008,4 - 0,Kalmar,Gent
+28/08/2008,2 - 4,Lillestrøm,København
+28/08/2008,2 - 2,Omonia Nicosia,AEK Athens
+28/08/2008,5 - 0,Rosenborg,Djurgården
+28/08/2008,1 - 0,Hertha BSC,Interblock
+28/08/2008,0 - 1,Salzburg,Sūduva
+28/08/2008,2 - 0,Slaven Koprivnica,Aris
+28/08/2008,1 - 2,Viking,Honka
+28/08/2008,0 - 2,Zrinjski,Sporting Braga
+28/08/2008,3 - 0,Hapoel Tel Aviv,Vojvodina
+28/08/2008,1 - 2,Ironi Kiryat Shmona,Lovech
+28/08/2008,0 - 1,Midtjylland,Manchester City [PS] 
+28/08/2008,2 - 0,Moskva,Legia Warszawa
+26/08/2008,1 - 1,Lokomotiv Sofia,Borac Čačak
+26/08/2008,2 - 1,Nordsjælland,Queen of the South
+14/08/2008,0 - 0,Deportivo La Coruña,Hajduk Split
+14/08/2008,0 - 2,Interblock,Hertha BSC
+14/08/2008,6 - 0,Lech Poznań,Grasshopper
+14/08/2008,0 - 1,Manchester City,Midtjylland
+14/08/2008,1 - 2,Queen of the South,Nordsjælland
+14/08/2008,1 - 0,Sporting Braga,Zrinjski
+14/08/2008,0 - 1,AEK Athens,Omonia Nicosia
+14/08/2008,1 - 2,Široki Brijeg,Beşiktaş
+14/08/2008,0 - 3,Vllaznia Shkodër,Napoli
+14/08/2008,1 - 1,Zürich,Sturm Graz
+14/08/2008,1 - 1,Maccabi Netanya,Cherno More
+14/08/2008,1 - 0,Aris,Slaven Koprivnica
+14/08/2008,3 - 2,Dnipro Dnipropetrovsk,Bellinzona
+14/08/2008,1 - 4,FH,Aston Villa
+14/08/2008,2 - 1,Gent,Kalmar
+14/08/2008,3 - 1,København,Lillestrøm
+14/08/2008,1 - 2,Slovan Liberec,Žilina
+14/08/2008,4 - 1,Young Boys,Debrecen
+14/08/2008,2 - 2,APOEL,Crvena Zvezda
+14/08/2008,2 - 1,Djurgården,Rosenborg
+14/08/2008,2 - 2,Elfsborg,St Patrick's Athl.
+14/08/2008,0 - 0,Lovech,Ironi Kiryat Shmona
+14/08/2008,2 - 1,Stabæk,Rennes
+14/08/2008,1 - 4,Sūduva,Salzburg
+14/08/2008,2 - 1,Stuttgart,Győri ETO
+14/08/2008,0 - 4,Haka,Brøndby
+14/08/2008,1 - 2,Legia Warszawa,Moskva
+14/08/2008,0 - 0,Honka,Viking
+14/08/2008,0 - 0,Vojvodina,Hapoel Tel Aviv
+14/08/2008,C - C,WIT Georgia,Austria Wien
+14/08/2008,1 - 0,Borac Čačak,Lokomotiv Sofia
+14/08/2008,0 - 2,Liepājas Metalurgs,Vaslui
+31/07/2008,2 - 0,Manchester City,EB / Streymur
+31/07/2008,1 - 0,Interblock,Zeta
+31/07/2008,4 - 1,Lech Poznań,Khazar Lankaran
+31/07/2008,2 - 0,St Patrick's Athl.,Olimps / RFS
+31/07/2008,2 - 0,Austria Wien,Tobol
+31/07/2008,0 - 2,Juvenes / Dogana,Hapoel Tel Aviv
+31/07/2008,0 - 5,Sant Julià,Cherno More
+31/07/2008,3 - 0,Zrinjski,Vaduz
+31/07/2008,3 - 1,Bellinzona,Ararat
+31/07/2008,4 - 0,Slaven Koprivnica,Marsaxlokk
+31/07/2008,1 - 0,Debrecen,Shakhter Karagandy
+31/07/2008,1 - 5,Grevenmacher,FH
+31/07/2008,2 - 1,ÍA,Honka
+31/07/2008,7 - 0,København,Cliftonville
+31/07/2008,1 - 3,Partizani Tirana,Široki Brijeg
+31/07/2008,0 - 0,Vllaznia Shkodër,Koper
+31/07/2008,0 - 1,The New Saints,Sūduva
+31/07/2008,0 - 2,B36,Brøndby
+31/07/2008,1 - 0,Žilina,Partizan Minsk
+31/07/2008,1 - 0,APOEL,Pelister
+31/07/2008,7 - 1,Kalmar,Racing
+31/07/2008,4 - 0,Midtjylland,Bangor City
+31/07/2008,0 - 3,Birkirkara,Hajduk Split
+31/07/2008,1 - 4,Gomel,Legia Warszawa
+31/07/2008,4 - 0,Haka,Cork City
+31/07/2008,0 - 0,Nistru,Hertha BSC
+31/07/2008,2 - 0,Viking,Vėtra
+31/07/2008,2 - 2,Flora,Djurgården
+31/07/2008,0 - 3,Mogren,Ironi Kiryat Shmona
+31/07/2008,2 - 0,Liepājas Metalurgs,Glentoran
+31/07/2008,1 - 2,Milano,Omonia Nicosia
+31/07/2008,3 - 1,Borac Čačak,Dacia
+31/07/2008,0 - 3,Banants,Salzburg
+31/07/2008,1 - 1,Şüvəlan,Vojvodina
+31/07/2008,1 - 0,WIT Georgia,Spartak Trnava
+31/07/2008,1 - 2,Zestafoni,Győri ETO
+29/07/2008,5 - 0,Nordsjælland,TVMK Tallinn
+17/07/2008,3 - 2,FH,Grevenmacher
+17/07/2008,4 - 0,Hajduk Split,Birkirkara
+17/07/2008,0 - 4,Cliftonville,København
+17/07/2008,2 - 2,Cork City,Haka
+17/07/2008,1 - 1,Glentoran,Liepājas Metalurgs
+17/07/2008,0 - 0,Legia Warszawa,Gomel
+17/07/2008,1 - 6,Bangor City,Midtjylland
+17/07/2008,1 - 2,Koper,Vllaznia Shkodër
+17/07/2008,7 - 0,Salzburg,Banants
+17/07/2008,1 - 1,Zeta,Interblock
+17/07/2008,8 - 1,Hertha BSC,Nistru
+17/07/2008,0 - 0,Široki Brijeg,Partizani Tirana
+17/07/2008,2 - 2,Spartak Trnava,WIT Georgia
+17/07/2008,1 - 0,Brøndby,B36
+17/07/2008,0 - 2,EB / Streymur,Manchester City
+17/07/2008,1 - 1,Győri ETO,Zestafoni
+17/07/2008,0 - 4,Marsaxlokk,Slaven Koprivnica
+17/07/2008,1 - 2,Vaduz,Zrinjski
+17/07/2008,4 - 0,Cherno More,Sant Julià
+17/07/2008,0 - 3,Racing,Kalmar
+17/07/2008,1 - 1,Dacia,Borac Čačak
+17/07/2008,0 - 0,Djurgården,Flora
+17/07/2008,2 - 0,Omonia Nicosia,Milano
+17/07/2008,3 - 0,Hapoel Tel Aviv,Juvenes / Dogana
+17/07/2008,1 - 1,Ironi Kiryat Shmona,Mogren
+17/07/2008,0 - 1,Khazar Lankaran,Lech Poznań
+17/07/2008,0 - 0,Pelister,APOEL
+17/07/2008,1 - 0,Sūduva,The New Saints
+17/07/2008,1 - 0,Vėtra,Viking
+17/07/2008,1 - 0,Vojvodina,Şüvəlan
+17/07/2008,3 - 0,Honka,ÍA
+17/07/2008,0 - 3,TVMK Tallinn,Nordsjælland
+17/07/2008,0 - 1,Olimps / RFS,St Patrick's Athl.
+17/07/2008,2 - 2,Partizan Minsk,Žilina
+17/07/2008,0 - 1,Ararat,Bellinzona
+17/07/2008,1 - 0,Tobol,Austria Wien
+17/07/2008,1 - 1,Shakhter Karagandy,Debrecen

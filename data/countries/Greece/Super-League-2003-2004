@@ -1,0 +1,241 @@
+date,score,home_team,away_team
+22/05/2004,1 - 1,Aris,PAOK
+22/05/2004,3 - 1,Chalkidona,Akratitos
+22/05/2004,1 - 3,Kallithea,AEK Athens
+22/05/2004,1 - 2,OFI,Ionikos
+22/05/2004,3 - 1,Olympiakos Piraeus,Egaleo
+22/05/2004,0 - 1,Paniliakos,Panathinaikos
+22/05/2004,3 - 1,Panionios,Proodeftiki
+22/05/2004,0 - 1,Xanthi,Iraklis
+16/05/2004,2 - 2,AEK Athens,OFI
+16/05/2004,1 - 1,Akratitos,Panionios
+16/05/2004,1 - 1,Egaleo,Kallithea
+16/05/2004,1 - 0,Ionikos,Xanthi
+16/05/2004,0 - 0,Iraklis,Paniliakos
+16/05/2004,3 - 0,Olympiakos Piraeus,Aris
+16/05/2004,2 - 1,PAOK,Chalkidona
+16/05/2004,1 - 2,Proodeftiki,Panathinaikos
+02/05/2004,1 - 0,Aris,Egaleo
+02/05/2004,0 - 1,Chalkidona,Olympiakos Piraeus
+02/05/2004,0 - 0,OFI,Kallithea
+02/05/2004,5 - 1,Panathinaikos,Akratitos
+02/05/2004,2 - 2,Paniliakos,Ionikos
+02/05/2004,1 - 0,Panionios,PAOK
+02/05/2004,3 - 2,Proodeftiki,Iraklis
+01/05/2004,1 - 2,Xanthi,AEK Athens
+25/04/2004,1 - 0,Akratitos,Iraklis
+25/04/2004,3 - 0,Aris,Chalkidona
+25/04/2004,1 - 0,Egaleo,OFI
+25/04/2004,2 - 1,Ionikos,Proodeftiki
+25/04/2004,2 - 0,Olympiakos Piraeus,Panionios
+25/04/2004,1 - 2,PAOK,Panathinaikos
+24/04/2004,1 - 0,AEK Athens,Paniliakos
+24/04/2004,3 - 1,Kallithea,Xanthi
+18/04/2004,0 - 1,Chalkidona,Egaleo
+18/04/2004,3 - 0,Iraklis,PAOK
+18/04/2004,2 - 2,Panathinaikos,Olympiakos Piraeus
+18/04/2004,0 - 5,Paniliakos,Kallithea
+18/04/2004,2 - 1,Panionios,Aris
+18/04/2004,1 - 0,Xanthi,OFI
+17/04/2004,3 - 0,Akratitos,Ionikos
+17/04/2004,2 - 4,Proodeftiki,AEK Athens
+04/04/2004,1 - 1,AEK Athens,Akratitos
+04/04/2004,0 - 2,Aris,Panathinaikos
+04/04/2004,3 - 1,Kallithea,Proodeftiki
+04/04/2004,0 - 0,OFI,Paniliakos
+04/04/2004,3 - 0,Olympiakos Piraeus,Iraklis
+04/04/2004,2 - 0,PAOK,Ionikos
+03/04/2004,2 - 2,Chalkidona,Panionios
+03/04/2004,2 - 1,Egaleo,Xanthi
+21/03/2004,1 - 2,Ionikos,Olympiakos Piraeus
+21/03/2004,6 - 0,Iraklis,Aris
+21/03/2004,3 - 0,Panathinaikos,Chalkidona
+21/03/2004,2 - 0,Panionios,Egaleo
+21/03/2004,3 - 2,PAOK,AEK Athens
+21/03/2004,2 - 0,Proodeftiki,OFI
+20/03/2004,0 - 0,Akratitos,Kallithea
+20/03/2004,1 - 0,Paniliakos,Xanthi
+14/03/2004,1 - 1,Aris,Ionikos
+14/03/2004,1 - 0,Chalkidona,Iraklis
+14/03/2004,0 - 1,Kallithea,PAOK
+14/03/2004,0 - 1,Olympiakos Piraeus,AEK Athens
+14/03/2004,0 - 1,Panionios,Panathinaikos
+14/03/2004,2 - 2,Xanthi,Proodeftiki
+13/03/2004,4 - 1,Egaleo,Paniliakos
+13/03/2004,2 - 1,OFI,Akratitos
+29/02/2004,1 - 3,Akratitos,Xanthi
+29/02/2004,0 - 1,Ionikos,Chalkidona
+29/02/2004,2 - 0,Panathinaikos,Egaleo
+29/02/2004,2 - 0,PAOK,OFI
+29/02/2004,2 - 0,Proodeftiki,Paniliakos
+28/02/2004,1 - 0,AEK Athens,Aris
+28/02/2004,0 - 3,Iraklis,Panionios
+28/02/2004,1 - 2,Kallithea,Olympiakos Piraeus
+22/02/2004,2 - 0,Chalkidona,AEK Athens
+22/02/2004,3 - 0,Egaleo,Proodeftiki
+22/02/2004,0 - 1,OFI,Olympiakos Piraeus
+22/02/2004,3 - 0,Panathinaikos,Iraklis
+22/02/2004,0 - 3,Paniliakos,Akratitos
+22/02/2004,0 - 2,Panionios,Ionikos
+21/02/2004,0 - 1,Aris,Kallithea
+21/02/2004,0 - 0,Xanthi,PAOK
+08/02/2004,1 - 0,Akratitos,Proodeftiki
+08/02/2004,1 - 2,Ionikos,Panathinaikos
+08/02/2004,2 - 1,Iraklis,Egaleo
+08/02/2004,2 - 3,Kallithea,Chalkidona
+08/02/2004,4 - 1,Olympiakos Piraeus,Xanthi
+08/02/2004,3 - 0,PAOK,Paniliakos
+07/02/2004,0 - 1,AEK Athens,Panionios
+07/02/2004,3 - 0,OFI,Aris
+01/02/2004,2 - 1,Chalkidona,OFI
+01/02/2004,2 - 1,Egaleo,Akratitos
+01/02/2004,2 - 1,Panathinaikos,AEK Athens
+01/02/2004,1 - 3,Paniliakos,Olympiakos Piraeus
+01/02/2004,0 - 0,Panionios,Kallithea
+01/02/2004,1 - 3,Proodeftiki,PAOK
+01/02/2004,1 - 0,Xanthi,Aris
+31/01/2004,2 - 1,Iraklis,Ionikos
+25/01/2004,4 - 0,AEK Athens,Iraklis
+25/01/2004,1 - 0,Aris,Paniliakos
+25/01/2004,0 - 3,Kallithea,Panathinaikos
+25/01/2004,1 - 1,OFI,Panionios
+25/01/2004,4 - 0,Olympiakos Piraeus,Proodeftiki
+25/01/2004,2 - 1,Xanthi,Chalkidona
+24/01/2004,0 - 0,Ionikos,Egaleo
+24/01/2004,2 - 2,PAOK,Akratitos
+18/01/2004,0 - 5,Akratitos,Olympiakos Piraeus
+18/01/2004,0 - 1,Ionikos,AEK Athens
+18/01/2004,1 - 0,Panathinaikos,OFI
+18/01/2004,0 - 2,Paniliakos,Chalkidona
+18/01/2004,1 - 0,Panionios,Xanthi
+18/01/2004,0 - 0,Proodeftiki,Aris
+17/01/2004,0 - 0,Egaleo,PAOK
+17/01/2004,2 - 0,Iraklis,Kallithea
+11/01/2004,2 - 2,AEK Athens,Egaleo
+11/01/2004,3 - 0,Aris,Akratitos
+11/01/2004,2 - 1,Chalkidona,Proodeftiki
+11/01/2004,1 - 2,Olympiakos Piraeus,PAOK
+11/01/2004,0 - 0,Paniliakos,Panionios
+11/01/2004,0 - 1,Xanthi,Panathinaikos
+10/01/2004,0 - 1,Kallithea,Ionikos
+10/01/2004,2 - 2,OFI,Iraklis
+21/12/2003,1 - 2,Egaleo,Olympiakos Piraeus
+21/12/2003,2 - 0,Ionikos,OFI
+21/12/2003,3 - 0,Iraklis,Xanthi
+21/12/2003,6 - 3,Panathinaikos,Paniliakos
+21/12/2003,3 - 0,PAOK,Aris
+21/12/2003,0 - 3,Proodeftiki,Panionios
+20/12/2003,1 - 1,AEK Athens,Kallithea
+20/12/2003,2 - 4,Akratitos,Chalkidona
+14/12/2003,0 - 3,Aris,Olympiakos Piraeus
+14/12/2003,0 - 2,OFI,AEK Athens
+14/12/2003,3 - 1,Panathinaikos,Proodeftiki
+14/12/2003,1 - 2,Paniliakos,Iraklis
+14/12/2003,6 - 1,Panionios,Akratitos
+14/12/2003,2 - 0,Xanthi,Ionikos
+13/12/2003,1 - 2,Chalkidona,PAOK
+13/12/2003,0 - 1,Kallithea,Egaleo
+07/12/2003,3 - 0,AEK Athens,Xanthi
+07/12/2003,3 - 1,Egaleo,Aris
+07/12/2003,4 - 2,Ionikos,Paniliakos
+07/12/2003,2 - 1,Iraklis,Proodeftiki
+07/12/2003,1 - 2,Kallithea,OFI
+07/12/2003,2 - 0,PAOK,Panionios
+06/12/2003,0 - 0,Akratitos,Panathinaikos
+06/12/2003,1 - 0,Olympiakos Piraeus,Chalkidona
+30/11/2003,2 - 1,Chalkidona,Aris
+30/11/2003,2 - 1,Iraklis,Akratitos
+30/11/2003,3 - 0,Panathinaikos,PAOK
+30/11/2003,1 - 0,Paniliakos,AEK Athens
+30/11/2003,1 - 2,Panionios,Olympiakos Piraeus
+30/11/2003,1 - 1,Proodeftiki,Ionikos
+30/11/2003,1 - 1,Xanthi,Kallithea
+29/11/2003,1 - 1,OFI,Egaleo
+23/11/2003,2 - 1,Aris,Panionios
+23/11/2003,2 - 1,Egaleo,Chalkidona
+23/11/2003,4 - 1,Ionikos,Akratitos
+23/11/2003,2 - 2,Kallithea,Paniliakos
+23/11/2003,1 - 2,OFI,Xanthi
+23/11/2003,2 - 0,PAOK,Iraklis
+22/11/2003,3 - 0,AEK Athens,Proodeftiki
+22/11/2003,1 - 1,Olympiakos Piraeus,Panathinaikos
+09/11/2003,2 - 7,Akratitos,AEK Athens
+09/11/2003,0 - 1,Ionikos,PAOK
+09/11/2003,1 - 3,Iraklis,Olympiakos Piraeus
+09/11/2003,1 - 0,Panathinaikos,Aris
+09/11/2003,1 - 1,Paniliakos,OFI
+09/11/2003,0 - 0,Panionios,Chalkidona
+09/11/2003,1 - 2,Xanthi,Egaleo
+08/11/2003,1 - 1,Proodeftiki,Kallithea
+02/11/2003,0 - 0,Aris,Iraklis
+02/11/2003,0 - 0,Egaleo,Panionios
+02/11/2003,2 - 2,Kallithea,Akratitos
+02/11/2003,1 - 0,OFI,Proodeftiki
+02/11/2003,2 - 2,Olympiakos Piraeus,Ionikos
+02/11/2003,2 - 1,Xanthi,Paniliakos
+01/11/2003,3 - 1,AEK Athens,PAOK
+01/11/2003,0 - 0,Chalkidona,Panathinaikos
+26/10/2003,0 - 1,AEK Athens,Olympiakos Piraeus
+26/10/2003,3 - 0,Panathinaikos,Panionios
+26/10/2003,0 - 0,Paniliakos,Egaleo
+26/10/2003,2 - 1,PAOK,Kallithea
+26/10/2003,1 - 1,Proodeftiki,Xanthi
+25/10/2003,0 - 1,Akratitos,OFI
+25/10/2003,1 - 1,Ionikos,Aris
+25/10/2003,1 - 1,Iraklis,Chalkidona
+19/10/2003,3 - 2,Chalkidona,Ionikos
+19/10/2003,0 - 3,OFI,PAOK
+19/10/2003,4 - 1,Paniliakos,Proodeftiki
+19/10/2003,2 - 1,Panionios,Iraklis
+18/10/2003,1 - 2,Aris,AEK Athens
+18/10/2003,2 - 1,Egaleo,Panathinaikos
+18/10/2003,2 - 0,Olympiakos Piraeus,Kallithea
+18/10/2003,2 - 0,Xanthi,Akratitos
+05/10/2003,1 - 2,AEK Athens,Chalkidona
+05/10/2003,2 - 2,Akratitos,Paniliakos
+05/10/2003,0 - 1,Iraklis,Panathinaikos
+05/10/2003,4 - 0,Kallithea,Aris
+05/10/2003,4 - 1,Olympiakos Piraeus,OFI
+05/10/2003,0 - 1,Proodeftiki,Egaleo
+04/10/2003,0 - 2,Ionikos,Panionios
+04/10/2003,1 - 1,PAOK,Xanthi
+28/09/2003,1 - 2,Aris,OFI
+28/09/2003,1 - 1,Chalkidona,Kallithea
+28/09/2003,2 - 0,Egaleo,Iraklis
+28/09/2003,1 - 4,Paniliakos,PAOK
+28/09/2003,1 - 1,Proodeftiki,Akratitos
+27/09/2003,2 - 0,Panathinaikos,Ionikos
+27/09/2003,2 - 2,Panionios,AEK Athens
+27/09/2003,1 - 3,Xanthi,Olympiakos Piraeus
+21/09/2003,2 - 2,AEK Athens,Panathinaikos
+21/09/2003,0 - 2,Akratitos,Egaleo
+21/09/2003,0 - 1,Ionikos,Iraklis
+21/09/2003,3 - 1,OFI,Chalkidona
+21/09/2003,1 - 0,Olympiakos Piraeus,Paniliakos
+21/09/2003,0 - 0,PAOK,Proodeftiki
+20/09/2003,3 - 2,Aris,Xanthi
+20/09/2003,2 - 2,Kallithea,Panionios
+14/09/2003,1 - 2,Akratitos,PAOK
+14/09/2003,2 - 0,Chalkidona,Xanthi
+14/09/2003,2 - 0,Egaleo,Ionikos
+14/09/2003,0 - 0,Paniliakos,Aris
+14/09/2003,1 - 1,Panionios,OFI
+13/09/2003,2 - 2,Iraklis,AEK Athens
+13/09/2003,3 - 1,Panathinaikos,Kallithea
+13/09/2003,1 - 0,Proodeftiki,Olympiakos Piraeus
+31/08/2003,3 - 0,AEK Athens,Ionikos
+31/08/2003,3 - 0,Aris,Proodeftiki
+31/08/2003,1 - 3,OFI,Panathinaikos
+31/08/2003,7 - 0,Olympiakos Piraeus,Akratitos
+31/08/2003,2 - 0,PAOK,Egaleo
+31/08/2003,0 - 0,Xanthi,Panionios
+30/08/2003,1 - 3,Chalkidona,Paniliakos
+30/08/2003,1 - 1,Kallithea,Iraklis
+24/08/2003,1 - 0,Akratitos,Aris
+24/08/2003,3 - 2,Ionikos,Kallithea
+24/08/2003,4 - 0,Iraklis,OFI
+24/08/2003,1 - 0,Panathinaikos,Xanthi
+24/08/2003,3 - 2,Panionios,Paniliakos
+24/08/2003,0 - 2,PAOK,Olympiakos Piraeus
+24/08/2003,1 - 1,Proodeftiki,Chalkidona
+23/08/2003,0 - 1,Egaleo,AEK Athens

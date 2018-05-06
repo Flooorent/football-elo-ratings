@@ -1,0 +1,353 @@
+date,score,home_team,away_team
+13/05/2012,0 - 2,Anzhi,Zenit
+13/05/2012,1 - 1,Kuban' Krasnodar,Dinamo Moskva
+13/05/2012,0 - 2,Lokomotiv Moskva,Spartak Moskva
+13/05/2012,3 - 1,Rubin Kazan',CSKA Moskva
+08/05/2012,0 - 0,[N] CSKA Moskva,Kuban' Krasnodar
+06/05/2012,3 - 1,Anzhi,Rubin Kazan'
+06/05/2012,2 - 3,Zenit,Spartak Moskva
+06/05/2012,2 - 2,Dinamo Moskva,Lokomotiv Moskva
+02/05/2012,2 - 2,Kuban' Krasnodar,Anzhi
+02/05/2012,0 - 3,Lokomotiv Moskva,CSKA Moskva
+02/05/2012,2 - 2,Rubin Kazan',Zenit
+02/05/2012,1 - 1,Spartak Moskva,Dinamo Moskva
+28/04/2012,2 - 1,Zenit,Dinamo Moskva
+28/04/2012,2 - 1,[N] CSKA Moskva,Spartak Moskva
+28/04/2012,1 - 1,Rubin Kazan',Kuban' Krasnodar
+28/04/2012,3 - 1,Anzhi,Lokomotiv Moskva
+22/04/2012,0 - 0,Lokomotiv Moskva,Rubin Kazan'
+22/04/2012,0 - 3,Spartak Moskva,Anzhi
+21/04/2012,2 - 2,Kuban' Krasnodar,Zenit
+21/04/2012,1 - 0,Dinamo Moskva,CSKA Moskva
+15/04/2012,0 - 1,Anzhi,Dinamo Moskva
+15/04/2012,2 - 0,Spartak Moskva,Rubin Kazan'
+14/04/2012,2 - 0,Zenit,CSKA Moskva
+14/04/2012,1 - 1,Kuban' Krasnodar,Lokomotiv Moskva
+08/04/2012,2 - 0,Spartak Moskva,Kuban' Krasnodar
+07/04/2012,0 - 0,[N] CSKA Moskva,Anzhi
+07/04/2012,0 - 1,Lokomotiv Moskva,Zenit
+07/04/2012,1 - 1,Dinamo Moskva,Rubin Kazan'
+01/04/2012,0 - 2,Lokomotiv Moskva,Dinamo Moskva
+01/04/2012,1 - 0,Rubin Kazan',Anzhi
+31/03/2012,1 - 2,Spartak Moskva,Zenit
+31/03/2012,1 - 1,Kuban' Krasnodar,CSKA Moskva
+25/03/2012,2 - 0,Anzhi,Kuban' Krasnodar
+25/03/2012,1 - 1,Zenit,Rubin Kazan'
+25/03/2012,1 - 3,Dinamo Moskva,Spartak Moskva
+24/03/2012,0 - 2,[N] CSKA Moskva,Lokomotiv Moskva
+19/03/2012,1 - 2,Spartak Moskva,CSKA Moskva
+18/03/2012,1 - 0,Lokomotiv Moskva,Anzhi
+18/03/2012,1 - 0,Kuban' Krasnodar,Rubin Kazan'
+16/03/2012,1 - 5,Dinamo Moskva,Zenit
+12/03/2012,0 - 0,Anzhi,Spartak Moskva
+11/03/2012,1 - 1,Zenit,Kuban' Krasnodar
+11/03/2012,0 - 0,[N] Rubin Kazan',Lokomotiv Moskva
+09/03/2012,1 - 1,[N] CSKA Moskva,Dinamo Moskva
+05/03/2012,1 - 1,Rubin Kazan',Spartak Moskva
+05/03/2012,0 - 1,Dinamo Moskva,Anzhi
+03/03/2012,2 - 0,Lokomotiv Moskva,Kuban' Krasnodar
+03/03/2012,2 - 2,[N] CSKA Moskva,Zenit
+27/11/2011,2 - 1,Anzhi,CSKA Moskva
+27/11/2011,2 - 1,Zenit,Lokomotiv Moskva
+26/11/2011,2 - 0,Rubin Kazan',Dinamo Moskva
+26/11/2011,1 - 1,Kuban' Krasnodar,Spartak Moskva
+20/11/2011,2 - 0,Spartak Moskva,Lokomotiv Moskva
+20/11/2011,2 - 1,Dinamo Moskva,Kuban' Krasnodar
+18/11/2011,1 - 2,[N] CSKA Moskva,Rubin Kazan'
+18/11/2011,0 - 0,Zenit,Anzhi
+13/05/2012,4 - 1,Amkar Perm',Volga
+13/05/2012,1 - 1,Krylya Sovetov,Akhmat Grozny
+13/05/2012,3 - 3,Spartak Nal'chik,Krasnodar
+13/05/2012,2 - 1,Tom' Tomsk,Rostov
+07/05/2012,0 - 2,Krasnodar,Krylya Sovetov
+07/05/2012,1 - 1,Tom' Tomsk,Spartak Nal'chik
+06/05/2012,3 - 1,Akhmat Grozny,Amkar Perm'
+06/05/2012,1 - 0,Rostov,Volga
+03/05/2012,1 - 0,Krylya Sovetov,Tom' Tomsk
+02/05/2012,1 - 3,Volga,Akhmat Grozny
+02/05/2012,2 - 2,Amkar Perm',Krasnodar
+02/05/2012,2 - 2,Spartak Nal'chik,Rostov
+27/04/2012,2 - 1,Krasnodar,Volga
+27/04/2012,1 - 1,Rostov,Akhmat Grozny
+27/04/2012,0 - 0,Spartak Nal'chik,Krylya Sovetov
+27/04/2012,0 - 0,Tom' Tomsk,Amkar Perm'
+22/04/2012,2 - 1,Krylya Sovetov,Rostov
+22/04/2012,0 - 1,Akhmat Grozny,Krasnodar
+21/04/2012,2 - 0,Volga,Tom' Tomsk
+21/04/2012,1 - 0,Amkar Perm',Spartak Nal'chik
+16/04/2012,1 - 1,Rostov,Krasnodar
+15/04/2012,3 - 0,Spartak Nal'chik,Volga
+14/04/2012,2 - 1,Krylya Sovetov,Amkar Perm'
+14/04/2012,3 - 0,Tom' Tomsk,Akhmat Grozny
+08/04/2012,3 - 1,Krasnodar,Tom' Tomsk
+07/04/2012,1 - 0,Amkar Perm',Rostov
+06/04/2012,2 - 0,Akhmat Grozny,Spartak Nal'chik
+06/04/2012,0 - 0,[N] Volga,Krylya Sovetov
+01/04/2012,2 - 0,Amkar Perm',Akhmat Grozny
+31/03/2012,1 - 1,Krylya Sovetov,Krasnodar
+31/03/2012,2 - 0,Volga,Rostov
+30/03/2012,0 - 2,Spartak Nal'chik,Tom' Tomsk
+26/03/2012,1 - 3,Akhmat Grozny,Volga
+25/03/2012,2 - 1,Rostov,Spartak Nal'chik
+24/03/2012,0 - 1,Krasnodar,Amkar Perm'
+24/03/2012,0 - 0,Tom' Tomsk,Krylya Sovetov
+18/03/2012,1 - 0,Krylya Sovetov,Spartak Nal'chik
+18/03/2012,0 - 0,Amkar Perm',Tom' Tomsk
+17/03/2012,1 - 0,Akhmat Grozny,Rostov
+17/03/2012,1 - 2,[N] Volga,Krasnodar
+12/03/2012,1 - 2,Spartak Nal'chik,Amkar Perm'
+12/03/2012,1 - 0,Tom' Tomsk,Volga
+11/03/2012,1 - 0,Rostov,Krylya Sovetov
+10/03/2012,1 - 3,Krasnodar,Akhmat Grozny
+06/03/2012,2 - 1,Amkar Perm',Krylya Sovetov
+05/03/2012,1 - 0,Krasnodar,Rostov
+03/03/2012,1 - 0,[N] Akhmat Grozny,Tom' Tomsk
+03/03/2012,1 - 0,[N] Volga,Spartak Nal'chik
+27/11/2011,1 - 1,Rostov,Amkar Perm'
+27/11/2011,0 - 0,Tom' Tomsk,Krasnodar
+26/11/2011,1 - 0,Krylya Sovetov,Volga
+26/11/2011,3 - 0,Spartak Nal'chik,Akhmat Grozny
+20/11/2011,3 - 1,Rostov,Tom' Tomsk
+19/11/2011,3 - 2,Krasnodar,Spartak Nal'chik
+19/11/2011,0 - 0,Akhmat Grozny,Krylya Sovetov
+19/11/2011,1 - 2,Volga,Amkar Perm'
+06/11/2011,1 - 1,Lokomotiv Moskva,CSKA Moskva
+06/11/2011,1 - 0,Volga,Rubin Kazan'
+06/11/2011,1 - 1,Kuban' Krasnodar,Zenit
+06/11/2011,2 - 1,Spartak Nal'chik,Amkar Perm'
+05/11/2011,2 - 0,Akhmat Grozny,Krasnodar
+05/11/2011,1 - 1,Dinamo Moskva,Spartak Moskva
+05/11/2011,3 - 1,Anzhi,Krylya Sovetov
+05/11/2011,2 - 1,Rostov,Tom' Tomsk
+30/10/2011,2 - 1,Krylya Sovetov,Akhmat Grozny
+30/10/2011,0 - 2,Tom' Tomsk,Dinamo Moskva
+29/10/2011,3 - 0,Spartak Moskva,Lokomotiv Moskva
+29/10/2011,0 - 2,Krasnodar,Kuban' Krasnodar
+29/10/2011,2 - 1,Anzhi,Amkar Perm'
+28/10/2011,4 - 0,CSKA Moskva,Spartak Nal'chik
+28/10/2011,1 - 1,Rubin Kazan',Rostov
+27/10/2011,3 - 0,Zenit,Volga
+24/10/2011,0 - 2,Dinamo Moskva,Rubin Kazan'
+24/10/2011,1 - 2,Spartak Nal'chik,Lokomotiv Moskva
+23/10/2011,3 - 5,Anzhi,CSKA Moskva
+23/10/2011,4 - 0,Spartak Moskva,Tom' Tomsk
+23/10/2011,1 - 3,Rostov,Zenit
+22/10/2011,1 - 1,Kuban' Krasnodar,Krylya Sovetov
+22/10/2011,1 - 0,Akhmat Grozny,Amkar Perm'
+22/10/2011,0 - 2,Volga,Krasnodar
+16/10/2011,3 - 0,Lokomotiv Moskva,Tom' Tomsk
+16/10/2011,3 - 0,Rubin Kazan',Spartak Moskva
+16/10/2011,1 - 1,Spartak Nal'chik,Anzhi
+16/10/2011,3 - 1,Amkar Perm',Kuban' Krasnodar
+15/10/2011,0 - 0,Krylya Sovetov,Volga
+15/10/2011,0 - 0,Zenit,Dinamo Moskva
+15/10/2011,2 - 0,Krasnodar,Rostov
+15/10/2011,2 - 2,CSKA Moskva,Akhmat Grozny
+02/10/2011,0 - 1,Anzhi,Lokomotiv Moskva
+02/10/2011,0 - 0,Kuban' Krasnodar,CSKA Moskva
+02/10/2011,2 - 2,Spartak Moskva,Zenit
+02/10/2011,0 - 2,Tom' Tomsk,Rubin Kazan'
+01/10/2011,2 - 1,Dinamo Moskva,Krasnodar
+01/10/2011,0 - 0,Volga,Amkar Perm'
+01/10/2011,1 - 0,Rostov,Krylya Sovetov
+01/10/2011,0 - 1,Akhmat Grozny,Spartak Nal'chik
+26/09/2011,2 - 2,Anzhi,Akhmat Grozny
+25/09/2011,1 - 0,Krylya Sovetov,Dinamo Moskva
+25/09/2011,1 - 1,Lokomotiv Moskva,Rubin Kazan'
+25/09/2011,0 - 1,Amkar Perm',Rostov
+25/09/2011,2 - 4,Krasnodar,Spartak Moskva
+25/09/2011,0 - 1,Spartak Nal'chik,Kuban' Krasnodar
+24/09/2011,3 - 1,CSKA Moskva,Volga
+24/09/2011,4 - 0,Zenit,Tom' Tomsk
+18/09/2011,1 - 0,Kuban' Krasnodar,Anzhi
+18/09/2011,0 - 4,Akhmat Grozny,Lokomotiv Moskva
+18/09/2011,3 - 0,Spartak Moskva,Krylya Sovetov
+18/09/2011,2 - 3,Rubin Kazan',Zenit
+18/09/2011,3 - 0,Dinamo Moskva,Amkar Perm'
+18/09/2011,1 - 1,Rostov,CSKA Moskva
+17/09/2011,1 - 0,Volga,Spartak Nal'chik
+17/09/2011,0 - 4,Tom' Tomsk,Krasnodar
+12/09/2011,1 - 2,Akhmat Grozny,Kuban' Krasnodar
+11/09/2011,2 - 1,Anzhi,Volga
+11/09/2011,2 - 0,Krylya Sovetov,Tom' Tomsk
+11/09/2011,0 - 1,Spartak Nal'chik,Rostov
+11/09/2011,0 - 1,Amkar Perm',Spartak Moskva
+10/09/2011,3 - 1,Krasnodar,Rubin Kazan'
+10/09/2011,4 - 2,Lokomotiv Moskva,Zenit
+10/09/2011,0 - 4,CSKA Moskva,Dinamo Moskva
+28/08/2011,0 - 1,Kuban' Krasnodar,Lokomotiv Moskva
+28/08/2011,2 - 2,Spartak Moskva,CSKA Moskva
+28/08/2011,1 - 0,Rubin Kazan',Krylya Sovetov
+28/08/2011,5 - 0,Zenit,Krasnodar
+28/08/2011,2 - 0,Dinamo Moskva,Spartak Nal'chik
+27/08/2011,1 - 1,Rostov,Anzhi
+27/08/2011,3 - 1,Volga,Akhmat Grozny
+27/08/2011,0 - 0,Tom' Tomsk,Amkar Perm'
+21/08/2011,2 - 1,Anzhi,Dinamo Moskva
+21/08/2011,1 - 0,Lokomotiv Moskva,Krasnodar
+21/08/2011,5 - 0,Kuban' Krasnodar,Volga
+21/08/2011,1 - 1,Spartak Nal'chik,Spartak Moskva
+20/08/2011,1 - 1,Akhmat Grozny,Rostov
+20/08/2011,2 - 5,Krylya Sovetov,Zenit
+20/08/2011,3 - 0,CSKA Moskva,Tom' Tomsk
+20/08/2011,1 - 1,Amkar Perm',Rubin Kazan'
+14/08/2011,1 - 2,Krasnodar,Krylya Sovetov
+14/08/2011,3 - 0,Spartak Moskva,Anzhi
+14/08/2011,1 - 1,Zenit,Amkar Perm'
+14/08/2011,0 - 0,Volga,Lokomotiv Moskva
+13/08/2011,1 - 2,Rostov,Kuban' Krasnodar
+13/08/2011,1 - 1,Rubin Kazan',CSKA Moskva
+13/08/2011,6 - 2,Dinamo Moskva,Akhmat Grozny
+13/08/2011,0 - 2,Tom' Tomsk,Spartak Nal'chik
+07/08/2011,0 - 0,Lokomotiv Moskva,Krylya Sovetov
+07/08/2011,2 - 4,Akhmat Grozny,Spartak Moskva
+07/08/2011,0 - 1,Spartak Nal'chik,Rubin Kazan'
+07/08/2011,0 - 2,Amkar Perm',Krasnodar
+06/08/2011,3 - 1,Kuban' Krasnodar,Dinamo Moskva
+06/08/2011,0 - 1,Volga,Rostov
+06/08/2011,2 - 0,Anzhi,Tom' Tomsk
+06/08/2011,0 - 2,CSKA Moskva,Zenit
+01/08/2011,1 - 1,Krylya Sovetov,Amkar Perm'
+31/07/2011,0 - 3,Rostov,Lokomotiv Moskva
+31/07/2011,1 - 1,Krasnodar,CSKA Moskva
+31/07/2011,2 - 0,Dinamo Moskva,Volga
+31/07/2011,1 - 0,Zenit,Spartak Nal'chik
+30/07/2011,1 - 1,Spartak Moskva,Kuban' Krasnodar
+30/07/2011,0 - 3,Rubin Kazan',Anzhi
+30/07/2011,0 - 1,Tom' Tomsk,Akhmat Grozny
+25/07/2011,2 - 1,CSKA Moskva,Krylya Sovetov
+24/07/2011,0 - 1,Anzhi,Zenit
+24/07/2011,0 - 2,Rostov,Dinamo Moskva
+24/07/2011,2 - 2,Spartak Nal'chik,Krasnodar
+24/07/2011,4 - 0,Lokomotiv Moskva,Amkar Perm'
+24/07/2011,0 - 2,Volga,Spartak Moskva
+23/07/2011,1 - 3,Kuban' Krasnodar,Tom' Tomsk
+22/07/2011,0 - 1,Akhmat Grozny,Rubin Kazan'
+21/07/2011,0 - 2,Volga,CSKA Moskva
+26/06/2011,4 - 1,Dinamo Moskva,Lokomotiv Moskva
+26/06/2011,2 - 2,Krasnodar,Anzhi
+26/06/2011,3 - 2,Spartak Moskva,Rostov
+26/06/2011,0 - 2,Krylya Sovetov,Spartak Nal'chik
+26/06/2011,0 - 2,Rubin Kazan',Kuban' Krasnodar
+26/06/2011,0 - 0,Zenit,Akhmat Grozny
+26/06/2011,0 - 2,Amkar Perm',CSKA Moskva
+26/06/2011,0 - 3,Tom' Tomsk,Volga
+22/06/2011,0 - 2,Krasnodar,Akhmat Grozny
+22/06/2011,1 - 0,Zenit,Kuban' Krasnodar
+22/06/2011,3 - 1,CSKA Moskva,Lokomotiv Moskva
+22/06/2011,0 - 3,Krylya Sovetov,Anzhi
+22/06/2011,2 - 0,Rubin Kazan',Volga
+22/06/2011,0 - 2,Spartak Moskva,Dinamo Moskva
+22/06/2011,1 - 0,Amkar Perm',Spartak Nal'chik
+22/06/2011,1 - 1,Tom' Tomsk,Rostov
+18/06/2011,0 - 2,Lokomotiv Moskva,Spartak Moskva
+18/06/2011,1 - 3,Rostov,Rubin Kazan'
+18/06/2011,0 - 1,Kuban' Krasnodar,Krasnodar
+18/06/2011,2 - 0,Akhmat Grozny,Krylya Sovetov
+18/06/2011,0 - 2,Spartak Nal'chik,CSKA Moskva
+18/06/2011,0 - 2,Volga,Zenit
+18/06/2011,0 - 0,Amkar Perm',Anzhi
+18/06/2011,3 - 0,Dinamo Moskva,Tom' Tomsk
+14/06/2011,4 - 2,Krasnodar,Volga
+14/06/2011,3 - 0,Rubin Kazan',Dinamo Moskva
+14/06/2011,3 - 0,CSKA Moskva,Anzhi
+14/06/2011,1 - 0,Krylya Sovetov,Kuban' Krasnodar
+14/06/2011,3 - 1,Lokomotiv Moskva,Spartak Nal'chik
+14/06/2011,4 - 0,Zenit,Rostov
+14/06/2011,1 - 0,Amkar Perm',Akhmat Grozny
+14/06/2011,1 - 1,Tom' Tomsk,Spartak Moskva
+10/06/2011,1 - 3,Rostov,Krasnodar
+10/06/2011,0 - 0,Spartak Moskva,Rubin Kazan'
+10/06/2011,1 - 1,Dinamo Moskva,Zenit
+10/06/2011,2 - 0,Volga,Krylya Sovetov
+10/06/2011,2 - 4,Akhmat Grozny,CSKA Moskva
+10/06/2011,3 - 2,Kuban' Krasnodar,Amkar Perm'
+10/06/2011,2 - 0,Anzhi,Spartak Nal'chik
+10/06/2011,2 - 2,Tom' Tomsk,Lokomotiv Moskva
+30/05/2011,1 - 0,Amkar Perm',Volga
+29/05/2011,0 - 1,Krasnodar,Dinamo Moskva
+29/05/2011,1 - 1,CSKA Moskva,Kuban' Krasnodar
+29/05/2011,2 - 2,Krylya Sovetov,Rostov
+29/05/2011,3 - 0,Zenit,Spartak Moskva
+27/05/2011,1 - 2,Lokomotiv Moskva,Anzhi
+27/05/2011,4 - 1,Rubin Kazan',Tom' Tomsk
+27/05/2011,2 - 2,Spartak Nal'chik,Akhmat Grozny
+25/05/2011,0 - 3,Krylya Sovetov,CSKA Moskva
+21/05/2011,4 - 0,Spartak Moskva,Krasnodar
+21/05/2011,1 - 0,Dinamo Moskva,Krylya Sovetov
+21/05/2011,3 - 0,Rostov,Amkar Perm'
+21/05/2011,2 - 1,Tom' Tomsk,Zenit
+20/05/2011,0 - 0,Rubin Kazan',Lokomotiv Moskva
+20/05/2011,1 - 1,Kuban' Krasnodar,Spartak Nal'chik
+20/05/2011,1 - 0,Akhmat Grozny,Anzhi
+15/05/2011,2 - 1,CSKA Moskva,Rostov
+15/05/2011,0 - 1,Krylya Sovetov,Spartak Moskva
+15/05/2011,2 - 2,Zenit,Rubin Kazan'
+15/05/2011,0 - 0,Amkar Perm',Dinamo Moskva
+14/05/2011,4 - 0,Lokomotiv Moskva,Akhmat Grozny
+14/05/2011,0 - 0,Anzhi,Kuban' Krasnodar
+14/05/2011,2 - 2,Krasnodar,Tom' Tomsk
+14/05/2011,1 - 1,Spartak Nal'chik,Volga
+08/05/2011,1 - 1,Zenit,Lokomotiv Moskva
+08/05/2011,2 - 1,Rubin Kazan',Krasnodar
+08/05/2011,1 - 2,Spartak Moskva,Amkar Perm'
+08/05/2011,2 - 2,Dinamo Moskva,CSKA Moskva
+07/05/2011,0 - 0,Rostov,Spartak Nal'chik
+07/05/2011,1 - 2,Volga,Anzhi
+07/05/2011,2 - 1,Kuban' Krasnodar,Akhmat Grozny
+07/05/2011,1 - 1,Tom' Tomsk,Krylya Sovetov
+02/05/2011,2 - 3,Spartak Nal'chik,Dinamo Moskva
+01/05/2011,2 - 2,Krylya Sovetov,Rubin Kazan'
+01/05/2011,0 - 0,Krasnodar,Zenit
+01/05/2011,1 - 0,Anzhi,Rostov
+01/05/2011,1 - 2,Amkar Perm',Tom' Tomsk
+30/04/2011,2 - 1,Lokomotiv Moskva,Kuban' Krasnodar
+30/04/2011,1 - 0,[N] Akhmat Grozny,Volga
+30/04/2011,0 - 1,[N] CSKA Moskva,Spartak Moskva
+25/04/2011,2 - 2,Dinamo Moskva,Anzhi
+24/04/2011,1 - 0,Spartak Moskva,Spartak Nal'chik
+24/04/2011,3 - 0,Zenit,Krylya Sovetov
+24/04/2011,1 - 1,Rubin Kazan',Amkar Perm'
+24/04/2011,1 - 1,Tom' Tomsk,CSKA Moskva
+23/04/2011,1 - 4,Krasnodar,Lokomotiv Moskva
+23/04/2011,1 - 0,Rostov,Akhmat Grozny
+23/04/2011,0 - 1,Volga,Kuban' Krasnodar
+18/04/2011,1 - 2,Spartak Nal'chik,Tom' Tomsk
+17/04/2011,2 - 1,Anzhi,Spartak Moskva
+17/04/2011,2 - 0,CSKA Moskva,Rubin Kazan'
+17/04/2011,1 - 0,Lokomotiv Moskva,Volga
+17/04/2011,1 - 3,Amkar Perm',Zenit
+16/04/2011,0 - 0,[N] Akhmat Grozny,Dinamo Moskva
+16/04/2011,2 - 0,Kuban' Krasnodar,Rostov
+16/04/2011,0 - 0,Krylya Sovetov,Krasnodar
+11/04/2011,0 - 0,Tom' Tomsk,Anzhi
+10/04/2011,0 - 0,Spartak Moskva,Akhmat Grozny
+10/04/2011,0 - 3,Zenit,CSKA Moskva
+10/04/2011,0 - 0,Rubin Kazan',Spartak Nal'chik
+10/04/2011,1 - 3,Rostov,Volga
+09/04/2011,1 - 0,Dinamo Moskva,Kuban' Krasnodar
+09/04/2011,1 - 0,Krasnodar,Amkar Perm'
+09/04/2011,1 - 0,Krylya Sovetov,Lokomotiv Moskva
+04/04/2011,2 - 0,[N] Akhmat Grozny,Tom' Tomsk
+03/04/2011,1 - 1,[N] CSKA Moskva,Krasnodar
+03/04/2011,1 - 0,Anzhi,Rubin Kazan'
+03/04/2011,2 - 2,Spartak Nal'chik,Zenit
+02/04/2011,3 - 1,Kuban' Krasnodar,Spartak Moskva
+02/04/2011,1 - 1,[N] Lokomotiv Moskva,Rostov
+02/04/2011,3 - 0,Volga,Dinamo Moskva
+02/04/2011,1 - 1,Amkar Perm',Krylya Sovetov
+21/03/2011,1 - 0,Spartak Moskva,Volga
+21/03/2011,2 - 0,Zenit,Anzhi
+20/03/2011,2 - 0,Rubin Kazan',Akhmat Grozny
+20/03/2011,1 - 0,Amkar Perm',Lokomotiv Moskva
+20/03/2011,0 - 1,Tom' Tomsk,Kuban' Krasnodar
+19/03/2011,3 - 1,Dinamo Moskva,Rostov
+19/03/2011,2 - 0,Krasnodar,Spartak Nal'chik
+14/03/2011,4 - 0,Rostov,Spartak Moskva
+14/03/2011,2 - 0,Volga,Tom' Tomsk
+13/03/2011,0 - 1,[N] Akhmat Grozny,Zenit
+13/03/2011,2 - 0,[N] CSKA Moskva,Amkar Perm'
+13/03/2011,0 - 2,Kuban' Krasnodar,Rubin Kazan'
+12/03/2011,3 - 2,[N] Lokomotiv Moskva,Dinamo Moskva
+12/03/2011,1 - 0,[N] Spartak Nal'chik,Krylya Sovetov
+12/03/2011,0 - 0,Anzhi,Krasnodar

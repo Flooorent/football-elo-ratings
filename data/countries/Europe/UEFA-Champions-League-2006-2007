@@ -1,0 +1,208 @@
+date,score,home_team,away_team
+23/05/2007,2 - 1,[N] Milan,Liverpool
+02/05/2007,3 - 0,Milan,Manchester United
+01/05/2007,1 - 0, [PS] Liverpool,Chelsea
+25/04/2007,1 - 0,Chelsea,Liverpool
+24/04/2007,3 - 2,Manchester United,Milan
+11/04/2007,0 - 2,Bayern München,Milan
+11/04/2007,1 - 0,Liverpool,PSV
+10/04/2007,7 - 1,Manchester United,Roma
+10/04/2007,1 - 2,Valencia,Chelsea
+04/04/2007,1 - 1,Chelsea,Valencia
+04/04/2007,2 - 1,Roma,Manchester United
+03/04/2007,2 - 2,Milan,Bayern München
+03/04/2007,0 - 3,PSV,Liverpool
+07/03/2007,1 - 1,Arsenal,PSV
+07/03/2007,2 - 1,Bayern München,Real Madrid
+07/03/2007,1 - 0,Manchester United,Lille
+07/03/2007,0 - 0, [ET] Milan,Celtic
+06/03/2007,2 - 1,Chelsea,Porto
+06/03/2007,0 - 1,Liverpool,Barcelona
+06/03/2007,0 - 2,Olympique Lyonnais,Roma
+06/03/2007,0 - 0,Valencia,Internazionale
+21/02/2007,1 - 2,Barcelona,Liverpool
+21/02/2007,2 - 2,Internazionale,Valencia
+21/02/2007,1 - 1,Porto,Chelsea
+21/02/2007,0 - 0,Roma,Olympique Lyonnais
+20/02/2007,0 - 0,Celtic,Milan
+20/02/2007,0 - 1,[N] Lille,Manchester United
+20/02/2007,1 - 0,PSV,Arsenal
+20/02/2007,3 - 2,Real Madrid,Bayern München
+05/12/2006,2 - 0,Barcelona,Werder Bremen
+05/12/2006,2 - 0,Chelsea,Levski Sofia
+22/11/2006,0 - 2,Levski Sofia,Barcelona
+22/11/2006,1 - 0,Werder Bremen,Chelsea
+31/10/2006,2 - 2,Barcelona,Chelsea
+31/10/2006,0 - 3,Levski Sofia,Werder Bremen
+18/10/2006,1 - 0,Chelsea,Barcelona
+18/10/2006,2 - 0,Werder Bremen,Levski Sofia
+27/09/2006,1 - 3,Levski Sofia,Chelsea
+27/09/2006,1 - 1,Werder Bremen,Barcelona
+12/09/2006,5 - 0,Barcelona,Levski Sofia
+12/09/2006,2 - 0,Chelsea,Werder Bremen
+05/12/2006,1 - 1,Bayern München,Internazionale
+05/12/2006,1 - 3,Sporting CP,Spartak Moskva
+22/11/2006,1 - 0,Internazionale,Sporting CP
+22/11/2006,2 - 2,Spartak Moskva,Bayern München
+31/10/2006,0 - 0,Bayern München,Sporting CP
+31/10/2006,0 - 1,Spartak Moskva,Internazionale
+18/10/2006,2 - 1,Internazionale,Spartak Moskva
+18/10/2006,0 - 1,Sporting CP,Bayern München
+27/09/2006,0 - 2,Internazionale,Bayern München
+27/09/2006,1 - 1,Spartak Moskva,Sporting CP
+12/09/2006,4 - 0,Bayern München,Spartak Moskva
+12/09/2006,1 - 0,Sporting CP,Internazionale
+05/12/2006,3 - 2,Galatasaray,Liverpool
+05/12/2006,1 - 3,PSV,Bordeaux
+22/11/2006,3 - 1,Bordeaux,Galatasaray
+22/11/2006,2 - 0,Liverpool,PSV
+31/10/2006,3 - 0,Liverpool,Bordeaux
+31/10/2006,2 - 0,PSV,Galatasaray
+18/10/2006,0 - 1,Bordeaux,Liverpool
+18/10/2006,1 - 2,Galatasaray,PSV
+27/09/2006,0 - 1,Bordeaux,PSV
+27/09/2006,3 - 2,Liverpool,Galatasaray
+12/09/2006,0 - 0,Galatasaray,Bordeaux
+12/09/2006,0 - 0,PSV,Liverpool
+05/12/2006,1 - 1,Olympiakos Piraeus,Shakhtar Donetsk
+05/12/2006,1 - 0,Roma,Valencia
+22/11/2006,1 - 0,Shakhtar Donetsk,Roma
+22/11/2006,2 - 0,Valencia,Olympiakos Piraeus
+31/10/2006,1 - 1,Roma,Olympiakos Piraeus
+31/10/2006,2 - 2,Shakhtar Donetsk,Valencia
+18/10/2006,0 - 1,Olympiakos Piraeus,Roma
+18/10/2006,2 - 0,Valencia,Shakhtar Donetsk
+27/09/2006,2 - 2,Shakhtar Donetsk,Olympiakos Piraeus
+27/09/2006,2 - 1,Valencia,Roma
+12/09/2006,2 - 4,Olympiakos Piraeus,Valencia
+12/09/2006,4 - 0,Roma,Shakhtar Donetsk
+06/12/2006,2 - 2,[N] Dynamo Kyiv,Real Madrid
+06/12/2006,1 - 1,Olympique Lyonnais,FCSB
+21/11/2006,1 - 1,FCSB,Dynamo Kyiv
+21/11/2006,2 - 2,Real Madrid,Olympique Lyonnais
+01/11/2006,1 - 0,Olympique Lyonnais,Dynamo Kyiv
+01/11/2006,1 - 0,Real Madrid,FCSB
+17/10/2006,0 - 3,[N] Dynamo Kyiv,Olympique Lyonnais
+17/10/2006,1 - 4,FCSB,Real Madrid
+26/09/2006,0 - 3,FCSB,Olympique Lyonnais
+26/09/2006,5 - 1,Real Madrid,Dynamo Kyiv
+13/09/2006,1 - 4,[N] Dynamo Kyiv,FCSB
+13/09/2006,2 - 0,Olympique Lyonnais,Real Madrid
+06/12/2006,3 - 1,København,Celtic
+06/12/2006,3 - 1,Manchester United,Benfica
+21/11/2006,3 - 1,Benfica,København
+21/11/2006,1 - 0,Celtic,Manchester United
+01/11/2006,3 - 0,Benfica,Celtic
+01/11/2006,1 - 0,København,Manchester United
+17/10/2006,3 - 0,Celtic,Benfica
+17/10/2006,3 - 0,Manchester United,København
+26/09/2006,0 - 1,Benfica,Manchester United
+26/09/2006,1 - 0,Celtic,København
+13/09/2006,0 - 0,København,Benfica
+13/09/2006,3 - 2,Manchester United,Celtic
+06/12/2006,3 - 2,Hamburger SV,CSKA Moskva
+06/12/2006,0 - 0,Porto,Arsenal
+21/11/2006,3 - 1,Arsenal,Hamburger SV
+21/11/2006,0 - 2,[N] CSKA Moskva,Porto
+01/11/2006,0 - 0,Arsenal,CSKA Moskva
+01/11/2006,1 - 3,Hamburger SV,Porto
+17/10/2006,4 - 1,Porto,Hamburger SV
+17/10/2006,1 - 0,[N] CSKA Moskva,Arsenal
+26/09/2006,2 - 0,Arsenal,Porto
+26/09/2006,1 - 0,[N] CSKA Moskva,Hamburger SV
+13/09/2006,1 - 2,Hamburger SV,Arsenal
+13/09/2006,0 - 0,Porto,CSKA Moskva
+06/12/2006,2 - 2,Anderlecht,AEK Athens
+06/12/2006,0 - 2,Milan,Lille
+21/11/2006,1 - 0,AEK Athens,Milan
+21/11/2006,2 - 2,[N] Lille,Anderlecht
+01/11/2006,1 - 0,AEK Athens,Lille
+01/11/2006,4 - 1,Milan,Anderlecht
+17/10/2006,0 - 1,Anderlecht,Milan
+17/10/2006,3 - 1,[N] Lille,AEK Athens
+26/09/2006,1 - 1,AEK Athens,Anderlecht
+26/09/2006,0 - 0,[N] Lille,Milan
+13/09/2006,1 - 1,Anderlecht,Lille
+13/09/2006,3 - 0,Milan,AEK Athens
+23/08/2006,2 - 1,Arsenal,Dinamo Zagreb
+23/08/2006,2 - 2,Chievo,Levski Sofia
+23/08/2006,3 - 0,AEK Athens,Hearts
+23/08/2006,0 - 2,Ajax,København
+23/08/2006,2 - 1,[N] FCSB,Standard Liège
+23/08/2006,2 - 3,[N] Legia Warszawa,Shakhtar Donetsk
+23/08/2006,0 - 2,Ružomberok,CSKA Moskva
+23/08/2006,2 - 2,Fenerbahçe,Dynamo Kyiv
+23/08/2006,0 - 1,Rabotnički,Lille
+23/08/2006,1 - 1,[N] Mladá Boleslav,Galatasaray
+23/08/2006,2 - 1,Spartak Moskva,Slovan Liberec
+22/08/2006,3 - 0,Valencia,Salzburg
+22/08/2006,3 - 0,Benfica,Austria Wien
+22/08/2006,1 - 2,Crvena Zvezda,Milan
+22/08/2006,1 - 1,Osasuna,Hamburger SV
+22/08/2006,1 - 1,Maccabi Haifa,Liverpool
+09/08/2006,1 - 2,Hearts,AEK Athens
+09/08/2006,2 - 1,Liverpool,Maccabi Haifa
+09/08/2006,1 - 0,Milan,Crvena Zvezda
+09/08/2006,1 - 0,Salzburg,Valencia
+09/08/2006,0 - 0,Hamburger SV,Osasuna
+09/08/2006,1 - 2,København,Ajax
+09/08/2006,2 - 2,Standard Liège,FCSB
+09/08/2006,0 - 0,Slovan Liberec,Spartak Moskva
+09/08/2006,5 - 2,Galatasaray,Mladá Boleslav
+09/08/2006,2 - 0,Levski Sofia,Chievo
+09/08/2006,1 - 0,Shakhtar Donetsk,Legia Warszawa
+09/08/2006,3 - 0,[N] CSKA Moskva,Ružomberok
+09/08/2006,3 - 1,Dynamo Kyiv,Fenerbahçe
+09/08/2006,3 - 0,[N] Lille,Rabotnički
+08/08/2006,0 - 3,Dinamo Zagreb,Arsenal
+08/08/2006,1 - 1,Austria Wien,Benfica
+02/08/2006,2 - 2,Vålerenga,Mladá Boleslav
+02/08/2006,5 - 2,Dinamo Zagreb,Ekranas
+02/08/2006,2 - 0,[N] Legia Warszawa,FH
+02/08/2006,0 - 0,Široki Brijeg,Hearts
+02/08/2006,3 - 0,Crvena Zvezda,Cork City
+02/08/2006,2 - 0,Salzburg,Zürich
+02/08/2006,3 - 0,[N] FCSB,Gorica
+02/08/2006,4 - 1,Rabotnički,Debrecen
+02/08/2006,3 - 1,Ružomberok,Djurgården
+02/08/2006,2 - 2,MYPA,København
+02/08/2006,4 - 0,Dynamo Kyiv,Liepājas Metalurgs
+02/08/2006,0 - 0,Spartak Moskva,Sheriff
+02/08/2006,0 - 2,Sioni,Levski Sofia
+01/08/2006,0 - 5,B36,Fenerbahçe
+26/07/2006,0 - 2,Gorica,FCSB
+26/07/2006,0 - 1,Cork City,Crvena Zvezda
+26/07/2006,1 - 1,Debrecen,Rabotnički
+26/07/2006,3 - 0,Hearts,Široki Brijeg
+26/07/2006,2 - 0,København,MYPA
+26/07/2006,3 - 1,Mladá Boleslav,Vålerenga
+26/07/2006,2 - 1,Zürich,Salzburg
+26/07/2006,1 - 0,Djurgården,Ružomberok
+26/07/2006,4 - 0,Fenerbahçe,B36
+26/07/2006,0 - 1,FH,Legia Warszawa
+26/07/2006,2 - 0,[N] Levski Sofia,Sioni
+26/07/2006,1 - 4,Liepājas Metalurgs,Dynamo Kyiv
+26/07/2006,1 - 1,Sheriff,Spartak Moskva
+25/07/2006,1 - 4,Ekranas,Dinamo Zagreb
+19/07/2006,1 - 1,Apollon,Cork City
+19/07/2006,1 - 0,Široki Brijeg,Shakhtyor
+19/07/2006,2 - 2,Gorica,Linfield
+19/07/2006,0 - 1,The New Saints,MYPA
+19/07/2006,1 - 1,FH,TVMK Tallinn
+19/07/2006,2 - 2,B36,Birkirkara
+19/07/2006,1 - 1,Aktobe,Liepājas Metalurgs
+18/07/2006,0 - 0,Rabotnički,F91 Dudelange
+18/07/2006,2 - 0,[N] Sheriff,Pyunik
+18/07/2006,1 - 0,Bakı,Sioni
+18/07/2006,3 - 0,Ekranas,Elbasani
+12/07/2006,1 - 0,Liepājas Metalurgs,Aktobe
+12/07/2006,0 - 1,Shakhtyor,Široki Brijeg
+12/07/2006,1 - 0,Cork City,Apollon
+12/07/2006,1 - 0,MYPA,The New Saints
+11/07/2006,0 - 1,F91 Dudelange,Rabotnički
+11/07/2006,0 - 0,Pyunik,Sheriff
+11/07/2006,2 - 0,Sioni,Bakı
+11/07/2006,0 - 3,Birkirkara,B36
+11/07/2006,1 - 3,Linfield,Gorica
+11/07/2006,2 - 3,TVMK Tallinn,FH
+11/07/2006,1 - 0,Elbasani,Ekranas

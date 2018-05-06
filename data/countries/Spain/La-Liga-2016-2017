@@ -1,0 +1,381 @@
+date,score,home_team,away_team
+21/05/2017,4 - 2,Barcelona,Eibar
+21/05/2017,0 - 2,Málaga,Real Madrid
+21/05/2017,3 - 1,Atlético Madrid,Athletic Club
+21/05/2017,2 - 2,Celta de Vigo,Real Sociedad
+21/05/2017,1 - 3,Valencia,Villarreal
+20/05/2017,5 - 0,Sevilla,Osasuna
+20/05/2017,3 - 0,Deportivo La Coruña,Las Palmas
+20/05/2017,1 - 1,Leganés,Deportivo Alavés
+20/05/2017,2 - 2,Sporting Gijón,Real Betis
+19/05/2017,1 - 2,Granada,Espanyol
+17/05/2017,1 - 4,Celta de Vigo,Real Madrid
+14/05/2017,1 - 1,Athletic Club,Leganés
+14/05/2017,0 - 1,Eibar,Sporting Gijón
+14/05/2017,1 - 4,Las Palmas,Barcelona
+14/05/2017,1 - 1,Real Betis,Atlético Madrid
+14/05/2017,4 - 1,Real Madrid,Sevilla
+14/05/2017,2 - 2,Real Sociedad,Málaga
+14/05/2017,0 - 0,Villarreal,Deportivo La Coruña
+14/05/2017,3 - 1,Deportivo Alavés,Celta de Vigo
+13/05/2017,2 - 1,Osasuna,Granada
+13/05/2017,0 - 1,Espanyol,Valencia
+08/05/2017,4 - 0,Leganés,Real Betis
+07/05/2017,3 - 0,Málaga,Celta de Vigo
+07/05/2017,1 - 2,Deportivo La Coruña,Espanyol
+07/05/2017,4 - 1,Valencia,Osasuna
+07/05/2017,1 - 0,Deportivo Alavés,Athletic Club
+06/05/2017,0 - 4,Granada,Real Madrid
+06/05/2017,4 - 1,Barcelona,Villarreal
+06/05/2017,1 - 0,Atlético Madrid,Eibar
+06/05/2017,1 - 0,Sporting Gijón,Las Palmas
+05/05/2017,1 - 1,Sevilla,Real Sociedad
+01/05/2017,4 - 2,Málaga,Sevilla
+30/04/2017,0 - 3,Celta de Vigo,Athletic Club
+30/04/2017,2 - 0,Eibar,Leganés
+30/04/2017,1 - 4,Real Betis,Deportivo Alavés
+30/04/2017,2 - 2,Osasuna,Deportivo La Coruña
+29/04/2017,0 - 3,Espanyol,Barcelona
+29/04/2017,0 - 5,Las Palmas,Atlético Madrid
+29/04/2017,2 - 1,Real Madrid,Valencia
+29/04/2017,2 - 1,Real Sociedad,Granada
+28/04/2017,3 - 1,Villarreal,Sporting Gijón
+27/04/2017,2 - 1,Athletic Club,Real Betis
+27/04/2017,2 - 1,Sevilla,Celta de Vigo
+27/04/2017,0 - 0,Deportivo Alavés,Eibar
+26/04/2017,2 - 6,Deportivo La Coruña,Real Madrid
+26/04/2017,3 - 0,Leganés,Las Palmas
+26/04/2017,2 - 3,Valencia,Real Sociedad
+26/04/2017,7 - 1,Barcelona,Osasuna
+25/04/2017,0 - 1,Atlético Madrid,Villarreal
+25/04/2017,0 - 2,Granada,Málaga
+25/04/2017,1 - 1,Sporting Gijón,Espanyol
+24/04/2017,0 - 1,Eibar,Athletic Club
+23/04/2017,2 - 3,Real Madrid,Barcelona
+23/04/2017,1 - 1,Las Palmas,Deportivo Alavés
+23/04/2017,0 - 1,Celta de Vigo,Real Betis
+23/04/2017,1 - 0,Real Sociedad,Deportivo La Coruña
+22/04/2017,0 - 1,Espanyol,Atlético Madrid
+22/04/2017,2 - 2,Osasuna,Sporting Gijón
+22/04/2017,2 - 1,Villarreal,Leganés
+22/04/2017,2 - 0,Málaga,Valencia
+21/04/2017,2 - 0,Sevilla,Granada
+17/04/2017,2 - 1,Deportivo Alavés,Villarreal
+16/04/2017,0 - 3,Granada,Celta de Vigo
+16/04/2017,2 - 0,Real Betis,Eibar
+16/04/2017,0 - 0,Valencia,Sevilla
+16/04/2017,0 - 1,Leganés,Espanyol
+15/04/2017,3 - 2,Barcelona,Real Sociedad
+15/04/2017,3 - 0,Atlético Madrid,Osasuna
+15/04/2017,2 - 3,Sporting Gijón,Real Madrid
+15/04/2017,2 - 0,Deportivo La Coruña,Málaga
+14/04/2017,5 - 1,Athletic Club,Las Palmas
+10/04/2017,3 - 1,Real Sociedad,Sporting Gijón
+09/04/2017,4 - 1,Las Palmas,Real Betis
+09/04/2017,2 - 1,Osasuna,Leganés
+09/04/2017,0 - 2,Celta de Vigo,Eibar
+09/04/2017,1 - 3,Granada,Valencia
+08/04/2017,2 - 0,Málaga,Barcelona
+08/04/2017,4 - 2,Sevilla,Deportivo La Coruña
+08/04/2017,1 - 1,Real Madrid,Atlético Madrid
+08/04/2017,1 - 0,Espanyol,Deportivo Alavés
+07/04/2017,3 - 1,Villarreal,Athletic Club
+06/04/2017,3 - 2,Valencia,Celta de Vigo
+06/04/2017,3 - 1,Eibar,Las Palmas
+05/04/2017,2 - 4,Leganés,Real Madrid
+05/04/2017,0 - 1,Deportivo Alavés,Osasuna
+05/04/2017,0 - 0,Deportivo La Coruña,Granada
+05/04/2017,0 - 1,Sporting Gijón,Málaga
+05/04/2017,3 - 0,Barcelona,Sevilla
+04/04/2017,1 - 0,Atlético Madrid,Real Sociedad
+04/04/2017,0 - 1,Real Betis,Villarreal
+04/04/2017,2 - 0,Athletic Club,Espanyol
+03/04/2017,3 - 1,Celta de Vigo,Las Palmas
+02/04/2017,1 - 4,Granada,Barcelona
+02/04/2017,3 - 0,Valencia,Deportivo La Coruña
+02/04/2017,3 - 0,Real Madrid,Deportivo Alavés
+02/04/2017,0 - 0,Sevilla,Sporting Gijón
+01/04/2017,0 - 2,Málaga,Atlético Madrid
+01/04/2017,1 - 1,Real Sociedad,Leganés
+01/04/2017,1 - 2,Osasuna,Athletic Club
+01/04/2017,2 - 3,Villarreal,Eibar
+31/03/2017,2 - 1,Espanyol,Real Betis
+19/03/2017,4 - 2,Barcelona,Valencia
+19/03/2017,0 - 1,Deportivo La Coruña,Celta de Vigo
+19/03/2017,3 - 1,Sporting Gijón,Granada
+19/03/2017,3 - 1,Atlético Madrid,Sevilla
+19/03/2017,0 - 0,Leganés,Málaga
+18/03/2017,2 - 0,Real Betis,Osasuna
+18/03/2017,1 - 0,Deportivo Alavés,Real Sociedad
+18/03/2017,1 - 2,Athletic Club,Real Madrid
+18/03/2017,1 - 1,Eibar,Espanyol
+17/03/2017,1 - 0,Las Palmas,Villarreal
+13/03/2017,1 - 1,Osasuna,Eibar
+12/03/2017,2 - 1,Real Madrid,Real Betis
+12/03/2017,0 - 1,Celta de Vigo,Villarreal
+12/03/2017,2 - 1,Deportivo La Coruña,Barcelona
+12/03/2017,0 - 2,Real Sociedad,Athletic Club
+11/03/2017,0 - 1,Granada,Atlético Madrid
+11/03/2017,1 - 2,Málaga,Deportivo Alavés
+11/03/2017,1 - 1,Sevilla,Leganés
+11/03/2017,1 - 1,Valencia,Sporting Gijón
+10/03/2017,4 - 3,Espanyol,Las Palmas
+08/03/2017,1 - 1,Deportivo La Coruña,Real Betis
+06/03/2017,1 - 1,Deportivo Alavés,Sevilla
+05/03/2017,1 - 0,Athletic Club,Málaga
+05/03/2017,5 - 2,Las Palmas,Osasuna
+05/03/2017,3 - 0,Atlético Madrid,Valencia
+05/03/2017,0 - 1,Sporting Gijón,Deportivo La Coruña
+04/03/2017,5 - 0,Barcelona,Celta de Vigo
+04/03/2017,2 - 0,Villarreal,Espanyol
+04/03/2017,1 - 4,Eibar,Real Madrid
+04/03/2017,1 - 0,Leganés,Granada
+03/03/2017,2 - 3,Real Betis,Real Sociedad
+02/03/2017,1 - 0,Sevilla,Athletic Club
+02/03/2017,1 - 1,Deportivo La Coruña,Atlético Madrid
+01/03/2017,2 - 2,Celta de Vigo,Espanyol
+01/03/2017,2 - 1,Granada,Deportivo Alavés
+01/03/2017,3 - 3,Real Madrid,Las Palmas
+01/03/2017,6 - 1,Barcelona,Sporting Gijón
+01/03/2017,1 - 4,Osasuna,Villarreal
+28/02/2017,1 - 2,Málaga,Real Betis
+28/02/2017,1 - 0,Valencia,Leganés
+28/02/2017,2 - 2,Real Sociedad,Eibar
+26/02/2017,2 - 3,Villarreal,Real Madrid
+26/02/2017,3 - 1,Athletic Club,Granada
+26/02/2017,1 - 1,Sporting Gijón,Celta de Vigo
+26/02/2017,1 - 2,Atlético Madrid,Barcelona
+26/02/2017,3 - 0,Espanyol,Osasuna
+25/02/2017,3 - 0,Eibar,Málaga
+25/02/2017,4 - 0,Leganés,Deportivo La Coruña
+25/02/2017,1 - 2,Real Betis,Sevilla
+25/02/2017,2 - 1,Deportivo Alavés,Valencia
+24/02/2017,0 - 1,Las Palmas,Real Sociedad
+22/02/2017,2 - 1,Valencia,Real Madrid
+20/02/2017,2 - 1,Málaga,Las Palmas
+19/02/2017,2 - 1,Barcelona,Leganés
+19/02/2017,3 - 0,Celta de Vigo,Osasuna
+19/02/2017,2 - 0,Valencia,Athletic Club
+19/02/2017,0 - 1,Real Sociedad,Villarreal
+18/02/2017,2 - 0,Sevilla,Eibar
+18/02/2017,0 - 1,Deportivo La Coruña,Deportivo Alavés
+18/02/2017,2 - 0,Real Madrid,Espanyol
+18/02/2017,1 - 4,Sporting Gijón,Atlético Madrid
+17/02/2017,4 - 1,Granada,Real Betis
+13/02/2017,4 - 0,Eibar,Granada
+12/02/2017,3 - 2,Atlético Madrid,Celta de Vigo
+12/02/2017,0 - 1,Las Palmas,Sevilla
+12/02/2017,0 - 2,Leganés,Sporting Gijón
+12/02/2017,1 - 1,Villarreal,Málaga
+11/02/2017,1 - 3,Osasuna,Real Madrid
+11/02/2017,2 - 1,Athletic Club,Deportivo La Coruña
+11/02/2017,0 - 6,Deportivo Alavés,Barcelona
+11/02/2017,0 - 0,Real Betis,Valencia
+10/02/2017,1 - 2,Espanyol,Real Sociedad
+06/02/2017,1 - 0,Granada,Las Palmas
+05/02/2017,3 - 2,Real Sociedad,Osasuna
+05/02/2017,2 - 4,Sporting Gijón,Deportivo Alavés
+05/02/2017,0 - 0,Sevilla,Villarreal
+04/02/2017,0 - 4,Valencia,Eibar
+04/02/2017,2 - 0,Atlético Madrid,Leganés
+04/02/2017,3 - 0,Barcelona,Athletic Club
+04/02/2017,0 - 1,Málaga,Espanyol
+30/01/2017,3 - 1,Las Palmas,Valencia
+29/01/2017,3 - 0,Real Madrid,Real Sociedad
+29/01/2017,2 - 1,Athletic Club,Sporting Gijón
+29/01/2017,3 - 1,Espanyol,Sevilla
+29/01/2017,1 - 1,Real Betis,Barcelona
+28/01/2017,0 - 2,Leganés,Celta de Vigo
+28/01/2017,3 - 1,Eibar,Deportivo La Coruña
+28/01/2017,0 - 0,Deportivo Alavés,Atlético Madrid
+28/01/2017,2 - 0,Villarreal,Granada
+27/01/2017,1 - 1,Osasuna,Málaga
+22/01/2017,0 - 4,Eibar,Barcelona
+22/01/2017,0 - 0,Real Betis,Sporting Gijón
+22/01/2017,1 - 0,Real Sociedad,Celta de Vigo
+22/01/2017,2 - 2,Athletic Club,Atlético Madrid
+22/01/2017,3 - 4,Osasuna,Sevilla
+21/01/2017,0 - 2,Villarreal,Valencia
+21/01/2017,2 - 2,Deportivo Alavés,Leganés
+21/01/2017,2 - 1,Real Madrid,Málaga
+21/01/2017,3 - 1,Espanyol,Granada
+20/01/2017,1 - 1,Las Palmas,Deportivo La Coruña
+16/01/2017,0 - 2,Málaga,Real Sociedad
+15/01/2017,2 - 1,Sevilla,Real Madrid
+15/01/2017,1 - 1,Granada,Osasuna
+15/01/2017,2 - 3,Sporting Gijón,Eibar
+15/01/2017,1 - 0,Celta de Vigo,Deportivo Alavés
+15/01/2017,2 - 1,Valencia,Espanyol
+14/01/2017,0 - 0,Deportivo La Coruña,Villarreal
+14/01/2017,1 - 0,Atlético Madrid,Real Betis
+14/01/2017,5 - 0,Barcelona,Las Palmas
+14/01/2017,0 - 0,Leganés,Athletic Club
+09/01/2017,3 - 3,Osasuna,Valencia
+08/01/2017,1 - 1,Villarreal,Barcelona
+08/01/2017,3 - 1,Celta de Vigo,Málaga
+08/01/2017,2 - 0,Real Betis,Leganés
+08/01/2017,0 - 0,Athletic Club,Deportivo Alavés
+07/01/2017,0 - 4,Real Sociedad,Sevilla
+07/01/2017,1 - 0,Las Palmas,Sporting Gijón
+07/01/2017,0 - 2,Eibar,Atlético Madrid
+07/01/2017,5 - 0,Real Madrid,Granada
+06/01/2017,1 - 1,Espanyol,Deportivo La Coruña
+19/12/2016,2 - 1,Athletic Club,Celta de Vigo
+18/12/2016,4 - 1,Barcelona,Espanyol
+18/12/2016,2 - 0,Deportivo La Coruña,Osasuna
+18/12/2016,1 - 1,Leganés,Eibar
+17/12/2016,4 - 1,Sevilla,Málaga
+17/12/2016,0 - 2,Granada,Real Sociedad
+17/12/2016,1 - 0,Atlético Madrid,Las Palmas
+17/12/2016,1 - 3,Sporting Gijón,Villarreal
+16/12/2016,1 - 0,Deportivo Alavés,Real Betis
+12/12/2016,3 - 0,Villarreal,Atlético Madrid
+11/12/2016,1 - 0,Real Betis,Athletic Club
+11/12/2016,2 - 1,Espanyol,Sporting Gijón
+11/12/2016,0 - 3,Celta de Vigo,Sevilla
+11/12/2016,0 - 0,Eibar,Deportivo Alavés
+10/12/2016,3 - 2,Real Madrid,Deportivo La Coruña
+10/12/2016,1 - 1,Las Palmas,Leganés
+10/12/2016,3 - 2,Real Sociedad,Valencia
+10/12/2016,0 - 3,Osasuna,Barcelona
+09/12/2016,1 - 1,Málaga,Granada
+05/12/2016,5 - 1,Deportivo La Coruña,Real Sociedad
+04/12/2016,2 - 2,Valencia,Málaga
+04/12/2016,1 - 1,Deportivo Alavés,Las Palmas
+04/12/2016,3 - 1,Sporting Gijón,Osasuna
+04/12/2016,3 - 1,Athletic Club,Eibar
+04/12/2016,3 - 3,Real Betis,Celta de Vigo
+03/12/2016,0 - 0,Atlético Madrid,Espanyol
+03/12/2016,0 - 0,Leganés,Villarreal
+03/12/2016,1 - 1,Barcelona,Real Madrid
+03/12/2016,2 - 1,Granada,Sevilla
+28/11/2016,3 - 1,Las Palmas,Athletic Club
+27/11/2016,1 - 1,Real Sociedad,Barcelona
+27/11/2016,3 - 1,Celta de Vigo,Granada
+27/11/2016,0 - 3,Osasuna,Atlético Madrid
+27/11/2016,0 - 2,Villarreal,Deportivo Alavés
+26/11/2016,2 - 1,Sevilla,Valencia
+26/11/2016,3 - 0,Espanyol,Leganés
+26/11/2016,2 - 1,Real Madrid,Sporting Gijón
+26/11/2016,4 - 3,Málaga,Deportivo La Coruña
+25/11/2016,3 - 1,Eibar,Real Betis
+21/11/2016,2 - 0,Leganés,Osasuna
+20/11/2016,1 - 0,Athletic Club,Villarreal
+20/11/2016,1 - 3,Sporting Gijón,Real Sociedad
+20/11/2016,1 - 1,Valencia,Granada
+20/11/2016,0 - 1,Deportivo Alavés,Espanyol
+19/11/2016,0 - 3,Atlético Madrid,Real Madrid
+19/11/2016,1 - 0,Eibar,Celta de Vigo
+19/11/2016,0 - 0,Barcelona,Málaga
+19/11/2016,2 - 3,Deportivo La Coruña,Sevilla
+18/11/2016,2 - 0,Real Betis,Las Palmas
+06/11/2016,1 - 2,Sevilla,Barcelona
+06/11/2016,2 - 0,Villarreal,Real Betis
+06/11/2016,2 - 1,Celta de Vigo,Valencia
+06/11/2016,0 - 0,Espanyol,Athletic Club
+06/11/2016,3 - 0,Real Madrid,Leganés
+05/11/2016,1 - 0,Las Palmas,Eibar
+05/11/2016,0 - 1,Osasuna,Deportivo Alavés
+05/11/2016,2 - 0,Real Sociedad,Atlético Madrid
+05/11/2016,1 - 1,Granada,Deportivo La Coruña
+04/11/2016,3 - 2,Málaga,Sporting Gijón
+31/10/2016,1 - 1,Deportivo La Coruña,Valencia
+30/10/2016,3 - 3,Las Palmas,Celta de Vigo
+30/10/2016,0 - 1,Real Betis,Espanyol
+30/10/2016,1 - 1,Athletic Club,Osasuna
+30/10/2016,2 - 1,Eibar,Villarreal
+29/10/2016,1 - 0,Barcelona,Granada
+29/10/2016,4 - 2,Atlético Madrid,Málaga
+29/10/2016,1 - 4,Deportivo Alavés,Real Madrid
+29/10/2016,1 - 1,Sporting Gijón,Sevilla
+28/10/2016,0 - 2,Leganés,Real Sociedad
+23/10/2016,2 - 1,Real Madrid,Athletic Club
+23/10/2016,4 - 0,Málaga,Leganés
+23/10/2016,2 - 1,Villarreal,Las Palmas
+23/10/2016,1 - 0,Sevilla,Atlético Madrid
+23/10/2016,4 - 1,Celta de Vigo,Deportivo La Coruña
+22/10/2016,0 - 0,Granada,Sporting Gijón
+22/10/2016,3 - 0,Real Sociedad,Deportivo Alavés
+22/10/2016,2 - 3,Valencia,Barcelona
+22/10/2016,3 - 3,Espanyol,Eibar
+21/10/2016,1 - 2,Osasuna,Real Betis
+17/10/2016,2 - 3,Eibar,Osasuna
+16/10/2016,5 - 0,Villarreal,Celta de Vigo
+16/10/2016,1 - 2,Sporting Gijón,Valencia
+16/10/2016,3 - 2,Athletic Club,Real Sociedad
+16/10/2016,1 - 1,Deportivo Alavés,Málaga
+15/10/2016,1 - 6,Real Betis,Real Madrid
+15/10/2016,7 - 1,Atlético Madrid,Granada
+15/10/2016,4 - 0,Barcelona,Deportivo La Coruña
+15/10/2016,2 - 3,Leganés,Sevilla
+14/10/2016,0 - 0,Las Palmas,Espanyol
+02/10/2016,4 - 3,Celta de Vigo,Barcelona
+02/10/2016,0 - 0,Espanyol,Villarreal
+02/10/2016,2 - 1,Málaga,Athletic Club
+02/10/2016,1 - 1,Real Madrid,Eibar
+02/10/2016,0 - 2,Valencia,Atlético Madrid
+01/10/2016,2 - 1,Deportivo La Coruña,Sporting Gijón
+01/10/2016,2 - 2,Osasuna,Las Palmas
+01/10/2016,2 - 1,Sevilla,Deportivo Alavés
+01/10/2016,0 - 1,Granada,Leganés
+30/09/2016,1 - 0,Real Sociedad,Real Betis
+26/09/2016,3 - 1,Deportivo Alavés,Granada
+25/09/2016,0 - 2,Espanyol,Celta de Vigo
+25/09/2016,3 - 1,Villarreal,Osasuna
+25/09/2016,1 - 0,Atlético Madrid,Deportivo La Coruña
+25/09/2016,1 - 2,Leganés,Valencia
+24/09/2016,2 - 2,Las Palmas,Real Madrid
+24/09/2016,3 - 1,Athletic Club,Sevilla
+24/09/2016,0 - 5,Sporting Gijón,Barcelona
+24/09/2016,2 - 0,Eibar,Real Sociedad
+23/09/2016,1 - 0,Real Betis,Málaga
+22/09/2016,2 - 1,Valencia,Deportivo Alavés
+22/09/2016,1 - 2,Deportivo La Coruña,Leganés
+22/09/2016,1 - 2,Osasuna,Espanyol
+21/09/2016,1 - 1,Barcelona,Atlético Madrid
+21/09/2016,1 - 2,Granada,Athletic Club
+21/09/2016,4 - 1,Real Sociedad,Las Palmas
+21/09/2016,2 - 1,Celta de Vigo,Sporting Gijón
+21/09/2016,1 - 1,Real Madrid,Villarreal
+20/09/2016,1 - 0,Sevilla,Real Betis
+20/09/2016,2 - 1,Málaga,Eibar
+19/09/2016,0 - 0,Deportivo Alavés,Deportivo La Coruña
+18/09/2016,0 - 2,Espanyol,Real Madrid
+18/09/2016,2 - 1,Villarreal,Real Sociedad
+18/09/2016,2 - 1,Athletic Club,Valencia
+18/09/2016,0 - 0,Osasuna,Celta de Vigo
+17/09/2016,1 - 0,Las Palmas,Málaga
+17/09/2016,1 - 1,Eibar,Sevilla
+17/09/2016,5 - 0,Atlético Madrid,Sporting Gijón
+17/09/2016,1 - 5,Leganés,Barcelona
+16/09/2016,2 - 2,Real Betis,Granada
+11/09/2016,0 - 1,Deportivo La Coruña,Athletic Club
+11/09/2016,1 - 2,Granada,Eibar
+11/09/2016,2 - 3,Valencia,Real Betis
+11/09/2016,2 - 1,Sporting Gijón,Leganés
+10/09/2016,1 - 2,Barcelona,Deportivo Alavés
+10/09/2016,0 - 2,Málaga,Villarreal
+10/09/2016,2 - 1,Sevilla,Las Palmas
+10/09/2016,5 - 2,Real Madrid,Osasuna
+10/09/2016,0 - 4,Celta de Vigo,Atlético Madrid
+09/09/2016,1 - 1,Real Sociedad,Espanyol
+28/08/2016,0 - 0,Villarreal,Sevilla
+28/08/2016,0 - 1,Athletic Club,Barcelona
+28/08/2016,0 - 0,Deportivo Alavés,Sporting Gijón
+28/08/2016,5 - 1,Las Palmas,Granada
+27/08/2016,0 - 0,Leganés,Atlético Madrid
+27/08/2016,2 - 1,Real Madrid,Celta de Vigo
+27/08/2016,1 - 0,Eibar,Valencia
+27/08/2016,0 - 2,Osasuna,Real Sociedad
+26/08/2016,2 - 2,Espanyol,Málaga
+26/08/2016,0 - 0,Real Betis,Deportivo La Coruña
+22/08/2016,2 - 4,Valencia,Las Palmas
+22/08/2016,0 - 1,Celta de Vigo,Leganés
+21/08/2016,1 - 1,Atlético Madrid,Deportivo Alavés
+21/08/2016,0 - 3,Real Sociedad,Real Madrid
+21/08/2016,2 - 1,Sporting Gijón,Athletic Club
+20/08/2016,6 - 4,Sevilla,Espanyol
+20/08/2016,1 - 1,Granada,Villarreal
+20/08/2016,6 - 2,Barcelona,Real Betis
+19/08/2016,2 - 1,Deportivo La Coruña,Eibar
+19/08/2016,1 - 1,Málaga,Osasuna

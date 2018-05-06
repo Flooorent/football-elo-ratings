@@ -1,0 +1,241 @@
+date,score,home_team,away_team
+16/05/1998,2 - 2,Hap Ashdod,Beitar Tel Aviv
+16/05/1998,1 - 2,Hapoel Kfar Shalem,Hap Taibe
+16/05/1998,0 - 1,Hapoel Ramat Gan,Ironi Bat Yam
+16/05/1998,4 - 1,Hapoel Zafririm Holon,Maccabi Yavne
+16/05/1998,2 - 1,Mac Acco,Bnei Sakhnin
+16/05/1998,4 - 2,Maccabi Jaffa 2000,Sektzia Nes Tziona
+16/05/1998,1 - 1,Maccabi Kfar Kana,Hakoah Ramat Gan
+16/05/1998,3 - 2,Maccabi Netanya,Maccabi Kiryat Ata
+09/05/1998,4 - 0,Beitar Tel Aviv,Hapoel Ramat Gan
+09/05/1998,6 - 3,Bnei Sakhnin,Maccabi Netanya
+09/05/1998,1 - 3,Hakoah Ramat Gan,Maccabi Jaffa 2000
+09/05/1998,3 - 2,Hap Taibe,Maccabi Kfar Kana
+09/05/1998,3 - 2,Ironi Bat Yam,Hapoel Kfar Shalem
+09/05/1998,3 - 3,Maccabi Kiryat Ata,Hap Ashdod
+09/05/1998,3 - 0,Maccabi Yavne,Mac Acco
+09/05/1998,2 - 2,Sektzia Nes Tziona,Hapoel Zafririm Holon
+02/05/1998,1 - 1,Hap Ashdod,Bnei Sakhnin
+02/05/1998,3 - 0,Hapoel Kfar Shalem,Maccabi Kfar Kana
+02/05/1998,2 - 1,Hapoel Ramat Gan,Maccabi Kiryat Ata
+02/05/1998,4 - 0,Hapoel Zafririm Holon,Hakoah Ramat Gan
+02/05/1998,2 - 1,Ironi Bat Yam,Beitar Tel Aviv
+02/05/1998,0 - 4,Mac Acco,Sektzia Nes Tziona
+02/05/1998,3 - 2,Maccabi Jaffa 2000,Hap Taibe
+02/05/1998,2 - 1,Maccabi Netanya,Maccabi Yavne
+25/04/1998,1 - 2,Beitar Tel Aviv,Hapoel Kfar Shalem
+25/04/1998,1 - 0,Bnei Sakhnin,Hapoel Ramat Gan
+25/04/1998,3 - 1,Hakoah Ramat Gan,Mac Acco
+25/04/1998,0 - 0,Hap Taibe,Hapoel Zafririm Holon
+25/04/1998,0 - 2,Maccabi Kfar Kana,Maccabi Jaffa 2000
+25/04/1998,1 - 0,Maccabi Kiryat Ata,Ironi Bat Yam
+25/04/1998,3 - 3,Maccabi Yavne,Hap Ashdod
+25/04/1998,3 - 0,Sektzia Nes Tziona,Maccabi Netanya
+19/04/1998,1 - 0,Beitar Tel Aviv,Maccabi Kiryat Ata
+19/04/1998,2 - 1,Hap Ashdod,Sektzia Nes Tziona
+19/04/1998,0 - 4,Hapoel Kfar Shalem,Maccabi Jaffa 2000
+19/04/1998,2 - 0,Hapoel Ramat Gan,Maccabi Yavne
+19/04/1998,5 - 1,Hapoel Zafririm Holon,Maccabi Kfar Kana
+19/04/1998,0 - 4,Ironi Bat Yam,Bnei Sakhnin
+19/04/1998,3 - 1,Mac Acco,Hap Taibe
+19/04/1998,0 - 0,Maccabi Netanya,Hakoah Ramat Gan
+12/04/1998,2 - 1,Bnei Sakhnin,Beitar Tel Aviv
+12/04/1998,1 - 1,Hakoah Ramat Gan,Hap Ashdod
+12/04/1998,1 - 2,Hap Taibe,Maccabi Netanya
+12/04/1998,0 - 0,Maccabi Jaffa 2000,Hapoel Zafririm Holon
+12/04/1998,1 - 0,Maccabi Kfar Kana,Mac Acco
+12/04/1998,4 - 4,Maccabi Kiryat Ata,Hapoel Kfar Shalem
+12/04/1998,2 - 3,Maccabi Yavne,Ironi Bat Yam
+12/04/1998,4 - 0,Sektzia Nes Tziona,Hapoel Ramat Gan
+05/04/1998,0 - 0,Beitar Tel Aviv,Maccabi Yavne
+05/04/1998,2 - 2,Hap Ashdod,Hap Taibe
+05/04/1998,1 - 2,Hapoel Kfar Shalem,Hapoel Zafririm Holon
+05/04/1998,0 - 1,Hapoel Ramat Gan,Hakoah Ramat Gan
+05/04/1998,0 - 2,Ironi Bat Yam,Sektzia Nes Tziona
+05/04/1998,0 - 0,Mac Acco,Maccabi Jaffa 2000
+05/04/1998,5 - 0,Maccabi Kiryat Ata,Bnei Sakhnin
+05/04/1998,1 - 1,Maccabi Netanya,Maccabi Kfar Kana
+29/03/1998,0 - 1,Bnei Sakhnin,Hapoel Kfar Shalem
+29/03/1998,1 - 2,Hakoah Ramat Gan,Ironi Bat Yam
+29/03/1998,3 - 2,Hap Taibe,Hapoel Ramat Gan
+29/03/1998,4 - 1,Hapoel Zafririm Holon,Mac Acco
+29/03/1998,2 - 1,Maccabi Jaffa 2000,Maccabi Netanya
+29/03/1998,1 - 1,Maccabi Kfar Kana,Hap Ashdod
+29/03/1998,0 - 4,Maccabi Yavne,Maccabi Kiryat Ata
+29/03/1998,2 - 3,Sektzia Nes Tziona,Beitar Tel Aviv
+22/03/1998,2 - 1,Beitar Tel Aviv,Hakoah Ramat Gan
+22/03/1998,5 - 1,Bnei Sakhnin,Maccabi Yavne
+22/03/1998,1 - 3,Hap Ashdod,Maccabi Jaffa 2000
+22/03/1998,2 - 2,Hapoel Kfar Shalem,Mac Acco
+22/03/1998,1 - 1,Hapoel Ramat Gan,Maccabi Kfar Kana
+22/03/1998,0 - 0,Ironi Bat Yam,Hap Taibe
+22/03/1998,1 - 2,Maccabi Kiryat Ata,Sektzia Nes Tziona
+22/03/1998,1 - 2,Maccabi Netanya,Hapoel Zafririm Holon
+15/03/1998,1 - 1,Hakoah Ramat Gan,Maccabi Kiryat Ata
+15/03/1998,0 - 0,Hap Taibe,Beitar Tel Aviv
+15/03/1998,0 - 1,Hapoel Zafririm Holon,Hap Ashdod
+15/03/1998,2 - 1,Mac Acco,Maccabi Netanya
+15/03/1998,2 - 1,Maccabi Jaffa 2000,Hapoel Ramat Gan
+15/03/1998,0 - 1,Maccabi Kfar Kana,Ironi Bat Yam
+15/03/1998,2 - 5,Maccabi Yavne,Hapoel Kfar Shalem
+15/03/1998,3 - 0,Sektzia Nes Tziona,Bnei Sakhnin
+01/03/1998,0 - 0,Beitar Tel Aviv,Maccabi Kfar Kana
+01/03/1998,0 - 2,Bnei Sakhnin,Hakoah Ramat Gan
+01/03/1998,1 - 4,Hap Ashdod,Mac Acco
+01/03/1998,1 - 1,Hapoel Kfar Shalem,Maccabi Netanya
+01/03/1998,1 - 2,Hapoel Ramat Gan,Hapoel Zafririm Holon
+01/03/1998,1 - 2,Ironi Bat Yam,Maccabi Jaffa 2000
+01/03/1998,0 - 1,Maccabi Kiryat Ata,Hap Taibe
+01/03/1998,1 - 8,Maccabi Yavne,Sektzia Nes Tziona
+21/02/1998,1 - 1,Hap Taibe,Bnei Sakhnin
+21/02/1998,2 - 2,Maccabi Kfar Kana,Maccabi Kiryat Ata
+21/02/1998,1 - 1,Sektzia Nes Tziona,Hapoel Kfar Shalem
+20/02/1998,5 - 1,Hakoah Ramat Gan,Maccabi Yavne
+20/02/1998,1 - 0,Hapoel Zafririm Holon,Ironi Bat Yam
+20/02/1998,1 - 1,Mac Acco,Hapoel Ramat Gan
+20/02/1998,2 - 0,Maccabi Jaffa 2000,Beitar Tel Aviv
+20/02/1998,0 - 1,Maccabi Netanya,Hap Ashdod
+14/02/1998,2 - 0,Maccabi Kiryat Ata,Maccabi Jaffa 2000
+14/02/1998,3 - 2,Sektzia Nes Tziona,Hakoah Ramat Gan
+13/02/1998,0 - 0,Beitar Tel Aviv,Hapoel Zafririm Holon
+13/02/1998,2 - 0,Bnei Sakhnin,Maccabi Kfar Kana
+13/02/1998,0 - 2,Hapoel Kfar Shalem,Hap Ashdod
+13/02/1998,1 - 1,Hapoel Ramat Gan,Maccabi Netanya
+13/02/1998,3 - 1,Ironi Bat Yam,Mac Acco
+13/02/1998,2 - 5,Maccabi Yavne,Hap Taibe
+02/02/1998,1 - 2,Hakoah Ramat Gan,Hapoel Kfar Shalem
+02/02/1998,4 - 1,Hap Ashdod,Hapoel Ramat Gan
+02/02/1998,1 - 1,Hap Taibe,Sektzia Nes Tziona
+02/02/1998,1 - 0,Hapoel Zafririm Holon,Maccabi Kiryat Ata
+02/02/1998,1 - 0,Mac Acco,Beitar Tel Aviv
+02/02/1998,1 - 1,Maccabi Jaffa 2000,Bnei Sakhnin
+02/02/1998,1 - 0,Maccabi Kfar Kana,Maccabi Yavne
+02/02/1998,2 - 0,Maccabi Netanya,Ironi Bat Yam
+24/01/1998,1 - 2,Maccabi Kiryat Ata,Mac Acco
+24/01/1998,0 - 0,Sektzia Nes Tziona,Maccabi Kfar Kana
+23/01/1998,0 - 3,Beitar Tel Aviv,Maccabi Netanya
+23/01/1998,0 - 1,Bnei Sakhnin,Hapoel Zafririm Holon
+23/01/1998,1 - 0,Hakoah Ramat Gan,Hap Taibe
+23/01/1998,0 - 4,Hapoel Kfar Shalem,Hapoel Ramat Gan
+23/01/1998,3 - 1,Ironi Bat Yam,Hap Ashdod
+23/01/1998,1 - 7,Maccabi Yavne,Maccabi Jaffa 2000
+10/01/1998,1 - 0,Bnei Sakhnin,Mac Acco
+10/01/1998,1 - 0,Maccabi Kiryat Ata,Maccabi Netanya
+10/01/1998,1 - 3,Maccabi Yavne,Hapoel Zafririm Holon
+10/01/1998,1 - 1,Sektzia Nes Tziona,Maccabi Jaffa 2000
+09/01/1998,3 - 0,Beitar Tel Aviv,Hap Ashdod
+09/01/1998,2 - 0,Hakoah Ramat Gan,Maccabi Kfar Kana
+09/01/1998,2 - 1,Hap Taibe,Hapoel Kfar Shalem
+09/01/1998,5 - 1,Ironi Bat Yam,Hapoel Ramat Gan
+02/01/1998,3 - 1,Hap Ashdod,Maccabi Kiryat Ata
+02/01/1998,2 - 2,Hapoel Kfar Shalem,Ironi Bat Yam
+02/01/1998,1 - 2,Hapoel Ramat Gan,Beitar Tel Aviv
+02/01/1998,2 - 1,Hapoel Zafririm Holon,Sektzia Nes Tziona
+02/01/1998,3 - 1,Mac Acco,Maccabi Yavne
+02/01/1998,1 - 0,Maccabi Jaffa 2000,Hakoah Ramat Gan
+02/01/1998,1 - 0,Maccabi Kfar Kana,Hap Taibe
+02/01/1998,1 - 1,Maccabi Netanya,Bnei Sakhnin
+20/12/1997,0 - 3,Beitar Tel Aviv,Ironi Bat Yam
+20/12/1997,2 - 2,Bnei Sakhnin,Hap Ashdod
+20/12/1997,0 - 2,Hakoah Ramat Gan,Hapoel Zafririm Holon
+20/12/1997,1 - 1,Hap Taibe,Maccabi Jaffa 2000
+20/12/1997,1 - 1,Maccabi Kfar Kana,Hapoel Kfar Shalem
+20/12/1997,1 - 0,Maccabi Kiryat Ata,Hapoel Ramat Gan
+20/12/1997,0 - 1,Maccabi Yavne,Maccabi Netanya
+20/12/1997,0 - 0,Sektzia Nes Tziona,Mac Acco
+13/12/1997,2 - 1,Hap Ashdod,Maccabi Yavne
+13/12/1997,0 - 1,Hapoel Kfar Shalem,Beitar Tel Aviv
+13/12/1997,1 - 1,Hapoel Ramat Gan,Bnei Sakhnin
+13/12/1997,0 - 1,Hapoel Zafririm Holon,Hap Taibe
+13/12/1997,2 - 3,Ironi Bat Yam,Maccabi Kiryat Ata
+13/12/1997,1 - 3,Mac Acco,Hakoah Ramat Gan
+13/12/1997,3 - 1,Maccabi Jaffa 2000,Maccabi Kfar Kana
+13/12/1997,3 - 2,Maccabi Netanya,Sektzia Nes Tziona
+06/12/1997,1 - 1,Bnei Sakhnin,Ironi Bat Yam
+06/12/1997,1 - 1,Hakoah Ramat Gan,Maccabi Netanya
+06/12/1997,1 - 1,Hap Taibe,Mac Acco
+06/12/1997,1 - 0,Maccabi Jaffa 2000,Hapoel Kfar Shalem
+06/12/1997,0 - 1,Maccabi Kfar Kana,Hapoel Zafririm Holon
+06/12/1997,3 - 1,Maccabi Kiryat Ata,Beitar Tel Aviv
+06/12/1997,1 - 2,Maccabi Yavne,Hapoel Ramat Gan
+06/12/1997,0 - 3,Sektzia Nes Tziona,Hap Ashdod
+22/11/1997,1 - 0,Beitar Tel Aviv,Bnei Sakhnin
+22/11/1997,2 - 0,Hap Ashdod,Hakoah Ramat Gan
+22/11/1997,1 - 2,Hapoel Kfar Shalem,Maccabi Kiryat Ata
+22/11/1997,0 - 0,Hapoel Ramat Gan,Sektzia Nes Tziona
+22/11/1997,1 - 1,Hapoel Zafririm Holon,Maccabi Jaffa 2000
+22/11/1997,2 - 0,Ironi Bat Yam,Maccabi Yavne
+22/11/1997,1 - 0,Mac Acco,Maccabi Kfar Kana
+22/11/1997,3 - 1,Maccabi Netanya,Hap Taibe
+15/11/1997,1 - 1,Bnei Sakhnin,Maccabi Kiryat Ata
+15/11/1997,2 - 0,Hakoah Ramat Gan,Hapoel Ramat Gan
+15/11/1997,0 - 1,Hap Taibe,Hap Ashdod
+15/11/1997,5 - 0,Hapoel Zafririm Holon,Hapoel Kfar Shalem
+15/11/1997,1 - 1,Maccabi Jaffa 2000,Mac Acco
+15/11/1997,0 - 1,Maccabi Kfar Kana,Maccabi Netanya
+15/11/1997,0 - 3,Maccabi Yavne,Beitar Tel Aviv
+15/11/1997,1 - 1,Sektzia Nes Tziona,Ironi Bat Yam
+08/11/1997,0 - 1,Beitar Tel Aviv,Sektzia Nes Tziona
+08/11/1997,2 - 0,Hap Ashdod,Maccabi Kfar Kana
+08/11/1997,2 - 1,Hapoel Kfar Shalem,Bnei Sakhnin
+08/11/1997,2 - 0,Hapoel Ramat Gan,Hap Taibe
+08/11/1997,0 - 0,Ironi Bat Yam,Hakoah Ramat Gan
+08/11/1997,0 - 4,Mac Acco,Hapoel Zafririm Holon
+08/11/1997,0 - 0,Maccabi Kiryat Ata,Maccabi Yavne
+08/11/1997,1 - 1,Maccabi Netanya,Maccabi Jaffa 2000
+01/11/1997,1 - 0,Hakoah Ramat Gan,Beitar Tel Aviv
+01/11/1997,2 - 0,Hap Taibe,Ironi Bat Yam
+01/11/1997,1 - 1,Hapoel Zafririm Holon,Maccabi Netanya
+01/11/1997,1 - 1,Mac Acco,Hapoel Kfar Shalem
+01/11/1997,1 - 1,Maccabi Jaffa 2000,Hap Ashdod
+01/11/1997,3 - 0,Maccabi Kfar Kana,Hapoel Ramat Gan
+01/11/1997,0 - 3,Maccabi Yavne,Bnei Sakhnin
+01/11/1997,0 - 0,Sektzia Nes Tziona,Maccabi Kiryat Ata
+25/10/1997,1 - 0,Beitar Tel Aviv,Hap Taibe
+25/10/1997,3 - 2,Bnei Sakhnin,Sektzia Nes Tziona
+25/10/1997,0 - 1,Hap Ashdod,Hapoel Zafririm Holon
+25/10/1997,4 - 1,Hapoel Kfar Shalem,Maccabi Yavne
+25/10/1997,0 - 2,Hapoel Ramat Gan,Maccabi Jaffa 2000
+25/10/1997,0 - 2,Ironi Bat Yam,Maccabi Kfar Kana
+25/10/1997,0 - 1,Maccabi Kiryat Ata,Hakoah Ramat Gan
+25/10/1997,3 - 1,Maccabi Netanya,Mac Acco
+27/09/1997,1 - 2,Hakoah Ramat Gan,Bnei Sakhnin
+27/09/1997,0 - 4,Hap Taibe,Maccabi Kiryat Ata
+27/09/1997,2 - 2,Hapoel Zafririm Holon,Hapoel Ramat Gan
+27/09/1997,1 - 1,Mac Acco,Hap Ashdod
+27/09/1997,4 - 2,Maccabi Jaffa 2000,Ironi Bat Yam
+27/09/1997,2 - 2,Maccabi Kfar Kana,Beitar Tel Aviv
+27/09/1997,0 - 0,Maccabi Netanya,Hapoel Kfar Shalem
+27/09/1997,0 - 0,Sektzia Nes Tziona,Maccabi Yavne
+20/09/1997,0 - 5,Beitar Tel Aviv,Maccabi Jaffa 2000
+20/09/1997,0 - 0,Bnei Sakhnin,Hap Taibe
+20/09/1997,6 - 1,Hap Ashdod,Maccabi Netanya
+20/09/1997,5 - 2,Hapoel Kfar Shalem,Sektzia Nes Tziona
+20/09/1997,3 - 1,Hapoel Ramat Gan,Mac Acco
+20/09/1997,1 - 1,Ironi Bat Yam,Hapoel Zafririm Holon
+20/09/1997,2 - 4,Maccabi Kiryat Ata,Maccabi Kfar Kana
+20/09/1997,0 - 4,Maccabi Yavne,Hakoah Ramat Gan
+13/09/1997,1 - 0,Hakoah Ramat Gan,Sektzia Nes Tziona
+13/09/1997,3 - 1,Hap Ashdod,Hapoel Kfar Shalem
+13/09/1997,4 - 1,Hap Taibe,Maccabi Yavne
+13/09/1997,2 - 1,Hapoel Zafririm Holon,Beitar Tel Aviv
+13/09/1997,0 - 0,Mac Acco,Ironi Bat Yam
+13/09/1997,1 - 0,Maccabi Jaffa 2000,Maccabi Kiryat Ata
+13/09/1997,2 - 1,Maccabi Kfar Kana,Bnei Sakhnin
+13/09/1997,2 - 2,Maccabi Netanya,Hapoel Ramat Gan
+06/09/1997,2 - 0,Beitar Tel Aviv,Mac Acco
+06/09/1997,2 - 3,Bnei Sakhnin,Maccabi Jaffa 2000
+06/09/1997,1 - 1,Hapoel Kfar Shalem,Hakoah Ramat Gan
+06/09/1997,0 - 3,Hapoel Ramat Gan,Hap Ashdod
+06/09/1997,2 - 3,Ironi Bat Yam,Maccabi Netanya
+06/09/1997,2 - 3,Maccabi Kiryat Ata,Hapoel Zafririm Holon
+06/09/1997,0 - 0,Maccabi Yavne,Maccabi Kfar Kana
+06/09/1997,0 - 2,Sektzia Nes Tziona,Hap Taibe
+30/08/1997,4 - 0,Hap Ashdod,Ironi Bat Yam
+30/08/1997,0 - 0,Hap Taibe,Hakoah Ramat Gan
+30/08/1997,1 - 1,Hapoel Ramat Gan,Hapoel Kfar Shalem
+30/08/1997,2 - 0,Hapoel Zafririm Holon,Bnei Sakhnin
+30/08/1997,2 - 0,Mac Acco,Maccabi Kiryat Ata
+30/08/1997,3 - 0,Maccabi Jaffa 2000,Maccabi Yavne
+30/08/1997,2 - 1,Maccabi Kfar Kana,Sektzia Nes Tziona
+30/08/1997,1 - 1,Maccabi Netanya,Beitar Tel Aviv

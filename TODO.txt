@@ -1,0 +1,5 @@
+- pour les matchs de coupes d'Europe, récupérer les pays lors du scraping
+- prendre en compte les divisions inférieures
+- il peut y avoir deux clubs avec le même nom dans un même pays ou même dans deux pays différents
+- prendre en compte le fait qu'il y a plus de chance de gagner lorsqu'on joue à domicile
+- 

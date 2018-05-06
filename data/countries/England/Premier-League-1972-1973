@@ -1,0 +1,463 @@
+date,score,home_team,away_team
+09/05/1973,6 - 1,Leeds United,Arsenal
+04/05/1973,3 - 0,Derby County,Wolverhampton Wanderers
+02/05/1973,3 - 2,Sheffield United,Tottenham Hotspur
+30/04/1973,2 - 1,Birmingham City,Leeds United
+30/04/1973,3 - 0,Derby County,Ipswich Town
+30/04/1973,2 - 2,Tottenham Hotspur,Wolverhampton Wanderers
+28/04/1973,3 - 2,Birmingham City,West Bromwich Albion
+28/04/1973,1 - 0,Chelsea,Manchester United
+28/04/1973,3 - 1,Derby County,Everton
+28/04/1973,1 - 1,Ipswich Town,Sheffield United
+28/04/1973,0 - 0,Liverpool,Leicester City
+28/04/1973,2 - 3,Manchester City,Crystal Palace
+28/04/1973,3 - 1,Southampton,Leeds United
+28/04/1973,2 - 0,Stoke City,Norwich City
+28/04/1973,3 - 2,Tottenham Hotspur,Newcastle United
+28/04/1973,1 - 2,West Ham United,Arsenal
+28/04/1973,3 - 0,Wolverhampton Wanderers,Coventry City
+25/04/1973,0 - 0,Newcastle United,Everton
+25/04/1973,1 - 2,West Bromwich Albion,Manchester City
+24/04/1973,1 - 1,Leicester City,Ipswich Town
+24/04/1973,2 - 1,Norwich City,Crystal Palace
+24/04/1973,2 - 0,Stoke City,Wolverhampton Wanderers
+23/04/1973,0 - 0,Birmingham City,West Ham United
+23/04/1973,2 - 0,Chelsea,Coventry City
+23/04/1973,2 - 0,Liverpool,Leeds United
+23/04/1973,1 - 2,Manchester United,Sheffield United
+23/04/1973,2 - 2,Southampton,Arsenal
+23/04/1973,3 - 0,Wolverhampton Wanderers,Norwich City
+21/04/1973,3 - 1,Birmingham City,Stoke City
+21/04/1973,2 - 1,Chelsea,Southampton
+21/04/1973,1 - 1,Derby County,West Ham United
+21/04/1973,0 - 0,Everton,Arsenal
+21/04/1973,2 - 1,Ipswich Town,Wolverhampton Wanderers
+21/04/1973,4 - 0,Leeds United,Crystal Palace
+21/04/1973,0 - 0,Manchester United,Manchester City
+21/04/1973,2 - 1,Newcastle United,Liverpool
+21/04/1973,3 - 1,Sheffield United,Coventry City
+21/04/1973,1 - 1,Tottenham Hotspur,Leicester City
+21/04/1973,0 - 1,West Bromwich Albion,Norwich City
+20/04/1973,0 - 1,Crystal Palace,Leicester City
+20/04/1973,4 - 3,West Ham United,Southampton
+18/04/1973,0 - 1,Leeds United,Manchester United
+18/04/1973,2 - 0,Manchester City,Newcastle United
+18/04/1973,1 - 0,Tottenham Hotspur,Derby County
+17/04/1973,1 - 2,Coventry City,Liverpool
+17/04/1973,1 - 0,Everton,Chelsea
+14/04/1973,1 - 1,Arsenal,Tottenham Hotspur
+14/04/1973,0 - 2,Coventry City,Derby County
+14/04/1973,1 - 1,Crystal Palace,Ipswich Town
+14/04/1973,0 - 1,Leicester City,Birmingham City
+14/04/1973,1 - 0,Liverpool,West Bromwich Albion
+14/04/1973,3 - 1,Manchester City,Sheffield United
+14/04/1973,1 - 0,Norwich City,Chelsea
+14/04/1973,1 - 1,Southampton,Newcastle United
+14/04/1973,2 - 2,Stoke City,Manchester United
+14/04/1973,1 - 1,West Ham United,Leeds United
+14/04/1973,4 - 2,Wolverhampton Wanderers,Everton
+11/04/1973,2 - 0,Manchester United,Crystal Palace
+11/04/1973,4 - 1,West Bromwich Albion,Everton
+07/04/1973,2 - 1,Birmingham City,Liverpool
+07/04/1973,1 - 3,Chelsea,Stoke City
+07/04/1973,2 - 0,Everton,Coventry City
+07/04/1973,1 - 1,Ipswich Town,Manchester City
+07/04/1973,1 - 0,Manchester United,Norwich City
+07/04/1973,1 - 2,Newcastle United,West Ham United
+07/04/1973,2 - 0,Sheffield United,Crystal Palace
+07/04/1973,1 - 2,Tottenham Hotspur,Southampton
+07/04/1973,1 - 0,West Bromwich Albion,Leicester City
+04/04/1973,1 - 0,Stoke City,Ipswich Town
+03/04/1973,0 - 1,Chelsea,Tottenham Hotspur
+03/04/1973,2 - 2,Everton,Norwich City
+02/04/1973,0 - 1,Coventry City,Leeds United
+31/03/1973,0 - 1,Arsenal,Derby County
+31/03/1973,2 - 1,Coventry City,Ipswich Town
+31/03/1973,2 - 0,Crystal Palace,Chelsea
+31/03/1973,0 - 0,Leicester City,Newcastle United
+31/03/1973,1 - 1,Liverpool,Tottenham Hotspur
+31/03/1973,1 - 0,Manchester City,Leeds United
+31/03/1973,1 - 2,Norwich City,Birmingham City
+31/03/1973,0 - 2,Southampton,Manchester United
+31/03/1973,2 - 0,Stoke City,West Bromwich Albion
+31/03/1973,2 - 0,West Ham United,Everton
+31/03/1973,1 - 1,Wolverhampton Wanderers,Sheffield United
+28/03/1973,1 - 1,West Bromwich Albion,Leeds United
+27/03/1973,0 - 1,Manchester City,Chelsea
+26/03/1973,1 - 0,Arsenal,Crystal Palace
+26/03/1973,2 - 1,Stoke City,Coventry City
+24/03/1973,3 - 0,Birmingham City,Coventry City
+24/03/1973,1 - 3,Crystal Palace,West Ham United
+24/03/1973,0 - 1,Ipswich Town,Everton
+24/03/1973,0 - 0,Leeds United,Wolverhampton Wanderers
+24/03/1973,2 - 0,Leicester City,Stoke City
+24/03/1973,3 - 1,Liverpool,Norwich City
+24/03/1973,1 - 2,Manchester City,Arsenal
+24/03/1973,1 - 1,Newcastle United,Chelsea
+24/03/1973,3 - 1,Sheffield United,Derby County
+24/03/1973,1 - 1,Tottenham Hotspur,Manchester United
+24/03/1973,1 - 1,West Bromwich Albion,Southampton
+20/03/1973,2 - 0,Wolverhampton Wanderers,West Bromwich Albion
+17/03/1973,2 - 1,Everton,Sheffield United
+17/03/1973,2 - 0,Ipswich Town,West Bromwich Albion
+17/03/1973,2 - 1,Manchester United,Newcastle United
+17/03/1973,1 - 1,Norwich City,Leicester City
+17/03/1973,2 - 0,Southampton,Birmingham City
+17/03/1973,0 - 1,Stoke City,Liverpool
+17/03/1973,2 - 1,West Ham United,Manchester City
+14/03/1973,1 - 1,Stoke City,Tottenham Hotspur
+13/03/1973,0 - 1,Crystal Palace,Sheffield United
+10/03/1973,3 - 1,Birmingham City,Manchester United
+10/03/1973,1 - 1,Crystal Palace,Wolverhampton Wanderers
+10/03/1973,1 - 2,Ipswich Town,Arsenal
+10/03/1973,2 - 1,Leeds United,Everton
+10/03/1973,0 - 0,Leicester City,Derby County
+10/03/1973,3 - 2,Liverpool,Southampton
+10/03/1973,1 - 2,Manchester City,Coventry City
+10/03/1973,1 - 0,Newcastle United,Stoke City
+10/03/1973,0 - 0,Sheffield United,West Ham United
+10/03/1973,3 - 0,Tottenham Hotspur,Norwich City
+10/03/1973,1 - 1,West Bromwich Albion,Chelsea
+07/03/1973,1 - 1,Norwich City,Coventry City
+06/03/1973,0 - 2,Chelsea,Wolverhampton Wanderers
+06/03/1973,0 - 0,Crystal Palace,Birmingham City
+06/03/1973,1 - 1,Southampton,Manchester City
+03/03/1973,3 - 2,Arsenal,Sheffield United
+03/03/1973,0 - 0,Chelsea,Birmingham City
+03/03/1973,2 - 3,Derby County,Leeds United
+03/03/1973,0 - 2,Everton,Liverpool
+03/03/1973,2 - 1,Manchester United,West Bromwich Albion
+03/03/1973,0 - 0,Southampton,Leicester City
+03/03/1973,5 - 1,Wolverhampton Wanderers,Manchester City
+02/03/1973,2 - 0,Coventry City,Crystal Palace
+02/03/1973,0 - 1,West Ham United,Ipswich Town
+28/02/1973,2 - 0,Newcastle United,Derby County
+28/02/1973,1 - 0,West Bromwich Albion,Arsenal
+27/02/1973,0 - 1,Birmingham City,Wolverhampton Wanderers
+24/02/1973,0 - 0,Leicester City,Sheffield United
+24/02/1973,2 - 1,Liverpool,Ipswich Town
+24/02/1973,0 - 1,Norwich City,Newcastle United
+24/02/1973,2 - 0,Stoke City,West Ham United
+24/02/1973,3 - 0,Tottenham Hotspur,Everton
+17/02/1973,1 - 0,Arsenal,Leicester City
+17/02/1973,0 - 1,Coventry City,Tottenham Hotspur
+17/02/1973,3 - 2,Crystal Palace,Stoke City
+17/02/1973,4 - 0,Derby County,Southampton
+17/02/1973,4 - 1,Ipswich Town,Manchester United
+17/02/1973,1 - 1,Leeds United,Chelsea
+17/02/1973,1 - 1,Manchester City,Liverpool
+17/02/1973,0 - 1,Sheffield United,Birmingham City
+17/02/1973,2 - 1,West Ham United,West Bromwich Albion
+17/02/1973,1 - 1,Wolverhampton Wanderers,Newcastle United
+14/02/1973,0 - 3,Derby County,Stoke City
+10/02/1973,2 - 0,Birmingham City,Derby County
+10/02/1973,4 - 2,Chelsea,Sheffield United
+10/02/1973,2 - 0,Leicester City,Leeds United
+10/02/1973,0 - 2,Liverpool,Arsenal
+10/02/1973,2 - 1,Manchester United,Wolverhampton Wanderers
+10/02/1973,1 - 1,Newcastle United,Coventry City
+10/02/1973,0 - 1,Norwich City,West Ham United
+10/02/1973,0 - 0,Southampton,Everton
+10/02/1973,2 - 3,Tottenham Hotspur,Manchester City
+10/02/1973,0 - 4,West Bromwich Albion,Crystal Palace
+27/01/1973,2 - 2,Arsenal,Newcastle United
+27/01/1973,1 - 1,Coventry City,Manchester United
+27/01/1973,0 - 0,Crystal Palace,Tottenham Hotspur
+27/01/1973,2 - 0,Derby County,West Bromwich Albion
+27/01/1973,0 - 1,Everton,Leicester City
+27/01/1973,2 - 2,Ipswich Town,Southampton
+27/01/1973,1 - 0,Leeds United,Stoke City
+27/01/1973,1 - 0,Manchester City,Birmingham City
+27/01/1973,2 - 0,Sheffield United,Norwich City
+27/01/1973,3 - 1,West Ham United,Chelsea
+27/01/1973,2 - 1,Wolverhampton Wanderers,Liverpool
+24/01/1973,0 - 0,Manchester United,Everton
+20/01/1973,0 - 1,Chelsea,Arsenal
+20/01/1973,1 - 1,Leicester City,Manchester City
+20/01/1973,1 - 1,Liverpool,Derby County
+20/01/1973,2 - 2,Manchester United,West Ham United
+20/01/1973,2 - 0,Newcastle United,Crystal Palace
+20/01/1973,1 - 2,Norwich City,Leeds United
+20/01/1973,1 - 1,Southampton,Sheffield United
+20/01/1973,0 - 1,Tottenham Hotspur,Ipswich Town
+06/01/1973,3 - 1,Arsenal,Manchester United
+06/01/1973,3 - 2,Coventry City,Leicester City
+06/01/1973,1 - 0,Derby County,Norwich City
+06/01/1973,2 - 0,Everton,Stoke City
+06/01/1973,1 - 0,Ipswich Town,Newcastle United
+06/01/1973,2 - 1,Leeds United,Tottenham Hotspur
+06/01/1973,3 - 0,Sheffield United,West Bromwich Albion
+06/01/1973,0 - 1,West Ham United,Liverpool
+06/01/1973,0 - 1,Wolverhampton Wanderers,Southampton
+01/01/1973,2 - 2,Newcastle United,Leicester City
+30/12/1972,1 - 2,Birmingham City,Ipswich Town
+30/12/1972,1 - 1,Chelsea,Derby County
+30/12/1972,2 - 1,Leicester City,West Ham United
+30/12/1972,1 - 0,Liverpool,Crystal Palace
+30/12/1972,4 - 1,Newcastle United,Sheffield United
+30/12/1972,1 - 1,Norwich City,Manchester City
+30/12/1972,2 - 1,Southampton,Coventry City
+30/12/1972,0 - 0,Stoke City,Arsenal
+26/12/1972,2 - 0,Arsenal,Norwich City
+26/12/1972,0 - 0,Coventry City,West Bromwich Albion
+26/12/1972,3 - 0,Crystal Palace,Southampton
+26/12/1972,3 - 1,Derby County,Manchester United
+26/12/1972,1 - 1,Everton,Birmingham City
+26/12/1972,3 - 0,Ipswich Town,Chelsea
+26/12/1972,1 - 0,Leeds United,Newcastle United
+26/12/1972,1 - 1,Manchester City,Stoke City
+26/12/1972,0 - 3,Sheffield United,Liverpool
+26/12/1972,2 - 2,West Ham United,Tottenham Hotspur
+26/12/1972,2 - 0,Wolverhampton Wanderers,Leicester City
+23/12/1972,1 - 1,Birmingham City,Arsenal
+23/12/1972,1 - 1,Chelsea,Everton
+23/12/1972,2 - 1,Leicester City,Crystal Palace
+23/12/1972,2 - 0,Liverpool,Coventry City
+23/12/1972,1 - 1,Manchester United,Leeds United
+23/12/1972,2 - 1,Newcastle United,Manchester City
+23/12/1972,1 - 1,Norwich City,Wolverhampton Wanderers
+23/12/1972,0 - 0,Southampton,West Ham United
+23/12/1972,4 - 0,Stoke City,Derby County
+23/12/1972,2 - 0,Tottenham Hotspur,Sheffield United
+23/12/1972,2 - 0,West Bromwich Albion,Ipswich Town
+16/12/1972,2 - 1,Arsenal,West Bromwich Albion
+16/12/1972,3 - 1,Coventry City,Norwich City
+16/12/1972,5 - 0,Crystal Palace,Manchester United
+16/12/1972,1 - 1,Derby County,Newcastle United
+16/12/1972,3 - 1,Everton,Tottenham Hotspur
+16/12/1972,1 - 1,Ipswich Town,Liverpool
+16/12/1972,4 - 0,Leeds United,Birmingham City
+16/12/1972,2 - 1,Manchester City,Southampton
+16/12/1972,2 - 0,Sheffield United,Leicester City
+16/12/1972,3 - 2,West Ham United,Stoke City
+16/12/1972,1 - 0,Wolverhampton Wanderers,Chelsea
+09/12/1972,1 - 1,Birmingham City,Leicester City
+09/12/1972,3 - 1,Chelsea,Norwich City
+09/12/1972,2 - 0,Derby County,Coventry City
+09/12/1972,0 - 1,Everton,Wolverhampton Wanderers
+09/12/1972,2 - 1,Ipswich Town,Crystal Palace
+09/12/1972,1 - 0,Leeds United,West Ham United
+09/12/1972,0 - 2,Manchester United,Stoke City
+09/12/1972,0 - 0,Newcastle United,Southampton
+09/12/1972,1 - 1,Sheffield United,Manchester City
+09/12/1972,1 - 2,Tottenham Hotspur,Arsenal
+09/12/1972,1 - 1,West Bromwich Albion,Liverpool
+05/12/1972,2 - 0,Ipswich Town,Coventry City
+02/12/1972,2 - 1,Arsenal,Leeds United
+02/12/1972,1 - 0,Coventry City,Everton
+02/12/1972,3 - 1,Leicester City,West Bromwich Albion
+02/12/1972,4 - 3,Liverpool,Birmingham City
+02/12/1972,1 - 1,Manchester City,Ipswich Town
+02/12/1972,0 - 2,Norwich City,Manchester United
+02/12/1972,1 - 1,Southampton,Tottenham Hotspur
+02/12/1972,1 - 1,Stoke City,Chelsea
+02/12/1972,1 - 1,West Ham United,Newcastle United
+02/12/1972,1 - 2,Wolverhampton Wanderers,Derby County
+25/11/1972,4 - 1,Birmingham City,Norwich City
+25/11/1972,0 - 0,Chelsea,Crystal Palace
+25/11/1972,5 - 0,Derby County,Arsenal
+25/11/1972,1 - 2,Everton,West Ham United
+25/11/1972,3 - 0,Leeds United,Manchester City
+25/11/1972,2 - 1,Manchester United,Southampton
+25/11/1972,1 - 2,Sheffield United,Wolverhampton Wanderers
+25/11/1972,1 - 2,Tottenham Hotspur,Liverpool
+25/11/1972,2 - 1,West Bromwich Albion,Stoke City
+18/11/1972,1 - 0,Arsenal,Everton
+18/11/1972,3 - 0,Coventry City,Sheffield United
+18/11/1972,2 - 2,Crystal Palace,Leeds United
+18/11/1972,0 - 1,Leicester City,Tottenham Hotspur
+18/11/1972,3 - 2,Liverpool,Newcastle United
+18/11/1972,3 - 0,Manchester City,Manchester United
+18/11/1972,2 - 0,Norwich City,West Bromwich Albion
+18/11/1972,3 - 1,Southampton,Chelsea
+18/11/1972,1 - 2,Stoke City,Birmingham City
+18/11/1972,1 - 2,West Ham United,Derby County
+18/11/1972,0 - 1,Wolverhampton Wanderers,Ipswich Town
+11/11/1972,1 - 1,Chelsea,Leicester City
+11/11/1972,3 - 1,Coventry City,West Ham United
+11/11/1972,2 - 2,Derby County,Crystal Palace
+11/11/1972,2 - 3,Everton,Manchester City
+11/11/1972,2 - 1,Leeds United,Sheffield United
+11/11/1972,2 - 0,Manchester United,Liverpool
+11/11/1972,3 - 0,Newcastle United,Birmingham City
+11/11/1972,0 - 0,Norwich City,Ipswich Town
+11/11/1972,3 - 3,Stoke City,Southampton
+11/11/1972,1 - 1,Tottenham Hotspur,West Bromwich Albion
+11/11/1972,1 - 3,Wolverhampton Wanderers,Arsenal
+04/11/1972,0 - 2,Arsenal,Coventry City
+04/11/1972,0 - 0,Birmingham City,Tottenham Hotspur
+04/11/1972,1 - 0,Crystal Palace,Everton
+04/11/1972,2 - 2,Ipswich Town,Leeds United
+04/11/1972,2 - 2,Leicester City,Manchester United
+04/11/1972,3 - 1,Liverpool,Chelsea
+04/11/1972,4 - 0,Manchester City,Derby County
+04/11/1972,0 - 0,Sheffield United,Stoke City
+04/11/1972,1 - 0,Southampton,Norwich City
+04/11/1972,2 - 3,West Bromwich Albion,Newcastle United
+04/11/1972,2 - 2,West Ham United,Wolverhampton Wanderers
+28/10/1972,0 - 0,Arsenal,Manchester City
+28/10/1972,1 - 1,Chelsea,Newcastle United
+28/10/1972,0 - 0,Coventry City,Birmingham City
+28/10/1972,2 - 1,Derby County,Sheffield United
+28/10/1972,2 - 2,Everton,Ipswich Town
+28/10/1972,1 - 4,Manchester United,Tottenham Hotspur
+28/10/1972,1 - 1,Norwich City,Liverpool
+28/10/1972,2 - 1,Southampton,West Bromwich Albion
+28/10/1972,1 - 0,Stoke City,Leicester City
+28/10/1972,4 - 0,West Ham United,Crystal Palace
+28/10/1972,0 - 2,Wolverhampton Wanderers,Leeds United
+21/10/1972,1 - 1,Birmingham City,Southampton
+21/10/1972,2 - 3,Crystal Palace,Arsenal
+21/10/1972,3 - 1,Ipswich Town,Derby County
+21/10/1972,1 - 1,Leeds United,Coventry City
+21/10/1972,1 - 2,Leicester City,Norwich City
+21/10/1972,2 - 1,Liverpool,Stoke City
+21/10/1972,4 - 3,Manchester City,West Ham United
+21/10/1972,2 - 1,Newcastle United,Manchester United
+21/10/1972,0 - 1,Sheffield United,Everton
+21/10/1972,0 - 1,Tottenham Hotspur,Chelsea
+21/10/1972,1 - 0,West Bromwich Albion,Wolverhampton Wanderers
+14/10/1972,1 - 0,Arsenal,Ipswich Town
+14/10/1972,3 - 1,Chelsea,West Bromwich Albion
+14/10/1972,3 - 2,Coventry City,Manchester City
+14/10/1972,2 - 1,Derby County,Leicester City
+14/10/1972,1 - 2,Everton,Leeds United
+14/10/1972,1 - 0,Manchester United,Birmingham City
+14/10/1972,2 - 1,Norwich City,Tottenham Hotspur
+14/10/1972,1 - 1,Southampton,Liverpool
+14/10/1972,2 - 0,Stoke City,Newcastle United
+14/10/1972,3 - 1,West Ham United,Sheffield United
+14/10/1972,1 - 1,Wolverhampton Wanderers,Crystal Palace
+07/10/1972,2 - 2,Birmingham City,Chelsea
+07/10/1972,0 - 1,Crystal Palace,Coventry City
+07/10/1972,1 - 1,Ipswich Town,West Ham United
+07/10/1972,5 - 0,Leeds United,Derby County
+07/10/1972,1 - 0,Leicester City,Southampton
+07/10/1972,1 - 0,Liverpool,Everton
+07/10/1972,1 - 1,Manchester City,Wolverhampton Wanderers
+07/10/1972,3 - 1,Newcastle United,Norwich City
+07/10/1972,1 - 0,Sheffield United,Arsenal
+07/10/1972,4 - 3,Tottenham Hotspur,Stoke City
+07/10/1972,2 - 2,West Bromwich Albion,Manchester United
+30/09/1972,1 - 0,Arsenal,Southampton
+30/09/1972,1 - 3,Coventry City,Chelsea
+30/09/1972,0 - 2,Crystal Palace,Norwich City
+30/09/1972,2 - 1,Derby County,Tottenham Hotspur
+30/09/1972,3 - 1,Everton,Newcastle United
+30/09/1972,0 - 2,Ipswich Town,Leicester City
+30/09/1972,1 - 2,Leeds United,Liverpool
+30/09/1972,2 - 1,Manchester City,West Bromwich Albion
+30/09/1972,1 - 0,Sheffield United,Manchester United
+30/09/1972,2 - 0,West Ham United,Birmingham City
+30/09/1972,5 - 3,Wolverhampton Wanderers,Stoke City
+26/09/1972,2 - 0,Arsenal,Birmingham City
+23/09/1972,2 - 1,Birmingham City,Everton
+23/09/1972,2 - 0,Chelsea,Ipswich Town
+23/09/1972,1 - 1,Leicester City,Wolverhampton Wanderers
+23/09/1972,5 - 0,Liverpool,Sheffield United
+23/09/1972,3 - 0,Manchester United,Derby County
+23/09/1972,3 - 2,Newcastle United,Leeds United
+23/09/1972,3 - 2,Norwich City,Arsenal
+23/09/1972,2 - 0,Southampton,Crystal Palace
+23/09/1972,5 - 1,Stoke City,Manchester City
+23/09/1972,1 - 0,Tottenham Hotspur,West Ham United
+23/09/1972,1 - 0,West Bromwich Albion,Coventry City
+16/09/1972,0 - 0,Arsenal,Liverpool
+16/09/1972,0 - 3,Coventry City,Newcastle United
+16/09/1972,0 - 2,Crystal Palace,West Bromwich Albion
+16/09/1972,1 - 0,Derby County,Birmingham City
+16/09/1972,0 - 1,Everton,Southampton
+16/09/1972,2 - 0,Ipswich Town,Stoke City
+16/09/1972,3 - 1,Leeds United,Leicester City
+16/09/1972,2 - 1,Manchester City,Tottenham Hotspur
+16/09/1972,2 - 1,Sheffield United,Chelsea
+16/09/1972,4 - 0,West Ham United,Norwich City
+16/09/1972,2 - 0,Wolverhampton Wanderers,Manchester United
+09/09/1972,4 - 1,Birmingham City,Manchester City
+09/09/1972,1 - 3,Chelsea,West Ham United
+09/09/1972,1 - 2,Leicester City,Everton
+09/09/1972,4 - 2,Liverpool,Wolverhampton Wanderers
+09/09/1972,0 - 1,Manchester United,Coventry City
+09/09/1972,2 - 1,Newcastle United,Arsenal
+09/09/1972,1 - 1,Norwich City,Sheffield United
+09/09/1972,1 - 2,Southampton,Ipswich Town
+09/09/1972,2 - 2,Stoke City,Leeds United
+09/09/1972,2 - 1,Tottenham Hotspur,Crystal Palace
+09/09/1972,2 - 1,West Bromwich Albion,Derby County
+02/09/1972,1 - 1,Arsenal,Chelsea
+02/09/1972,2 - 1,Coventry City,Stoke City
+02/09/1972,2 - 1,Crystal Palace,Newcastle United
+02/09/1972,2 - 1,Derby County,Liverpool
+02/09/1972,1 - 0,Everton,West Bromwich Albion
+02/09/1972,1 - 1,Ipswich Town,Tottenham Hotspur
+02/09/1972,2 - 0,Leeds United,Norwich City
+02/09/1972,1 - 0,Manchester City,Leicester City
+02/09/1972,3 - 1,Sheffield United,Southampton
+02/09/1972,2 - 2,West Ham United,Manchester United
+02/09/1972,3 - 2,Wolverhampton Wanderers,Birmingham City
+30/08/1972,1 - 0,Leeds United,Southampton
+30/08/1972,3 - 2,Leicester City,Liverpool
+30/08/1972,0 - 0,Manchester United,Chelsea
+30/08/1972,0 - 1,Newcastle United,Tottenham Hotspur
+30/08/1972,2 - 0,Norwich City,Stoke City
+30/08/1972,2 - 2,West Bromwich Albion,Birmingham City
+29/08/1972,1 - 0,Arsenal,West Ham United
+29/08/1972,0 - 1,Coventry City,Wolverhampton Wanderers
+29/08/1972,1 - 0,Crystal Palace,Manchester City
+29/08/1972,1 - 0,Everton,Derby County
+29/08/1972,0 - 0,Sheffield United,Ipswich Town
+26/08/1972,1 - 1,Birmingham City,Crystal Palace
+26/08/1972,2 - 1,Chelsea,Manchester City
+26/08/1972,0 - 0,Leicester City,Coventry City
+26/08/1972,3 - 2,Liverpool,West Ham United
+26/08/1972,0 - 0,Manchester United,Arsenal
+26/08/1972,1 - 2,Newcastle United,Ipswich Town
+26/08/1972,1 - 0,Norwich City,Derby County
+26/08/1972,1 - 1,Southampton,Wolverhampton Wanderers
+26/08/1972,1 - 1,Stoke City,Everton
+26/08/1972,0 - 0,Tottenham Hotspur,Leeds United
+26/08/1972,0 - 2,West Bromwich Albion,Sheffield United
+23/08/1972,1 - 2,Chelsea,Liverpool
+23/08/1972,1 - 0,Derby County,Manchester City
+23/08/1972,3 - 3,Leeds United,Ipswich Town
+23/08/1972,1 - 1,Manchester United,Leicester City
+23/08/1972,1 - 1,Newcastle United,West Bromwich Albion
+23/08/1972,0 - 0,Norwich City,Southampton
+23/08/1972,2 - 2,Stoke City,Sheffield United
+23/08/1972,2 - 0,Tottenham Hotspur,Birmingham City
+22/08/1972,1 - 1,Coventry City,Arsenal
+22/08/1972,1 - 1,Everton,Crystal Palace
+22/08/1972,3 - 0,Wolverhampton Wanderers,West Ham United
+19/08/1972,2 - 0,Arsenal,Stoke City
+19/08/1972,1 - 1,Coventry City,Southampton
+19/08/1972,1 - 1,Crystal Palace,Liverpool
+19/08/1972,1 - 2,Derby County,Chelsea
+19/08/1972,2 - 0,Everton,Manchester United
+19/08/1972,2 - 0,Ipswich Town,Birmingham City
+19/08/1972,2 - 0,Leeds United,West Bromwich Albion
+19/08/1972,3 - 0,Manchester City,Norwich City
+19/08/1972,1 - 2,Sheffield United,Newcastle United
+19/08/1972,5 - 2,West Ham United,Leicester City
+19/08/1972,3 - 2,Wolverhampton Wanderers,Tottenham Hotspur
+16/08/1972,1 - 1,Leicester City,Chelsea
+16/08/1972,0 - 1,Manchester City,Everton
+16/08/1972,0 - 1,West Bromwich Albion,Tottenham Hotspur
+15/08/1972,5 - 2,Arsenal,Wolverhampton Wanderers
+15/08/1972,3 - 2,Birmingham City,Newcastle United
+15/08/1972,0 - 0,Crystal Palace,Derby County
+15/08/1972,1 - 2,Ipswich Town,Norwich City
+15/08/1972,2 - 0,Liverpool,Manchester United
+15/08/1972,0 - 2,Sheffield United,Leeds United
+15/08/1972,1 - 0,Southampton,Stoke City
+14/08/1972,1 - 0,West Ham United,Coventry City
+12/08/1972,1 - 2,Birmingham City,Sheffield United
+12/08/1972,4 - 0,Chelsea,Leeds United
+12/08/1972,0 - 1,Leicester City,Arsenal
+12/08/1972,2 - 0,Liverpool,Manchester City
+12/08/1972,1 - 2,Manchester United,Ipswich Town
+12/08/1972,2 - 1,Newcastle United,Wolverhampton Wanderers
+12/08/1972,1 - 1,Norwich City,Everton
+12/08/1972,1 - 1,Southampton,Derby County
+12/08/1972,2 - 0,Stoke City,Crystal Palace
+12/08/1972,2 - 1,Tottenham Hotspur,Coventry City
+12/08/1972,0 - 0,West Bromwich Albion,West Ham United

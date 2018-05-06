@@ -1,0 +1,381 @@
+date,score,home_team,away_team
+31/05/2015,3 - 0,Fiorentina,Chievo
+31/05/2015,4 - 3,Internazionale,Empoli
+31/05/2015,2 - 4,Napoli,Lazio
+31/05/2015,1 - 2,Roma,Palermo
+31/05/2015,2 - 2,Sampdoria,Parma
+31/05/2015,3 - 1,Sassuolo,Genoa
+31/05/2015,5 - 0,Torino,Cesena
+31/05/2015,4 - 3,Cagliari,Udinese
+30/05/2015,1 - 3,Atalanta,Milan
+30/05/2015,2 - 2,Hellas Verona,Juventus
+25/05/2015,1 - 2,Lazio,Roma
+24/05/2015,3 - 0,Milan,Torino
+24/05/2015,0 - 1,Cesena,Cagliari
+24/05/2015,1 - 1,Chievo,Atalanta
+24/05/2015,2 - 3,Palermo,Fiorentina
+24/05/2015,2 - 2,Parma,Hellas Verona
+24/05/2015,0 - 1,Udinese,Sassuolo
+24/05/2015,1 - 1,Empoli,Sampdoria
+23/05/2015,3 - 2,Genoa,Internazionale
+23/05/2015,3 - 1,Juventus,Napoli
+18/05/2015,3 - 2,Napoli,Cesena
+18/05/2015,3 - 0,Fiorentina,Parma
+17/05/2015,2 - 1,Roma,Udinese
+17/05/2015,1 - 4,Atalanta,Genoa
+17/05/2015,0 - 1,Cagliari,Palermo
+17/05/2015,2 - 1,Hellas Verona,Empoli
+17/05/2015,2 - 0,Torino,Chievo
+17/05/2015,3 - 2,Sassuolo,Milan
+16/05/2015,0 - 1,Sampdoria,Lazio
+16/05/2015,1 - 2,Internazionale,Juventus
+11/05/2015,5 - 1,Genoa,Torino
+10/05/2015,1 - 2,Lazio,Internazionale
+10/05/2015,2 - 3,Empoli,Fiorentina
+10/05/2015,2 - 2,Parma,Napoli
+10/05/2015,2 - 3,Cesena,Sassuolo
+10/05/2015,2 - 3,Palermo,Atalanta
+10/05/2015,1 - 4,Udinese,Sampdoria
+10/05/2015,2 - 2,Chievo,Hellas Verona
+09/05/2015,2 - 1,Milan,Roma
+09/05/2015,1 - 1,Juventus,Cagliari
+06/05/2015,0 - 1,Torino,Empoli
+04/05/2015,4 - 0,Cagliari,Parma
+03/05/2015,3 - 0,Napoli,Milan
+03/05/2015,1 - 1,Atalanta,Lazio
+03/05/2015,3 - 1,Fiorentina,Cesena
+03/05/2015,0 - 1,Hellas Verona,Udinese
+03/05/2015,0 - 0,Internazionale,Chievo
+03/05/2015,2 - 0,Roma,Genoa
+02/05/2015,0 - 0,Sassuolo,Palermo
+02/05/2015,0 - 1,Sampdoria,Juventus
+30/04/2015,4 - 2,Empoli,Napoli
+29/04/2015,2 - 2,Cesena,Atalanta
+29/04/2015,1 - 0,Chievo,Cagliari
+29/04/2015,3 - 2,Juventus,Fiorentina
+29/04/2015,4 - 0,Lazio,Parma
+29/04/2015,1 - 3,Milan,Genoa
+29/04/2015,2 - 2,Palermo,Torino
+29/04/2015,1 - 1,Sampdoria,Hellas Verona
+29/04/2015,0 - 3,Sassuolo,Roma
+28/04/2015,1 - 2,Udinese,Internazionale
+26/04/2015,4 - 2,Napoli,Sampdoria
+26/04/2015,1 - 3,Fiorentina,Cagliari
+26/04/2015,3 - 1,Genoa,Cesena
+26/04/2015,3 - 2,Hellas Verona,Sassuolo
+26/04/2015,1 - 1,Lazio,Chievo
+26/04/2015,1 - 0,Parma,Palermo
+26/04/2015,2 - 1,Torino,Juventus
+26/04/2015,2 - 2,Atalanta,Empoli
+25/04/2015,2 - 1,Internazionale,Roma
+25/04/2015,2 - 1,Udinese,Milan
+20/04/2015,0 - 1,Fiorentina,Hellas Verona
+19/04/2015,0 - 0,Internazionale,Milan
+19/04/2015,0 - 3,Cagliari,Napoli
+19/04/2015,1 - 1,Chievo,Udinese
+19/04/2015,2 - 2,Empoli,Parma
+19/04/2015,2 - 1,Palermo,Genoa
+19/04/2015,1 - 1,Roma,Atalanta
+19/04/2015,1 - 1,Sassuolo,Torino
+18/04/2015,2 - 0,Juventus,Lazio
+18/04/2015,0 - 0,Sampdoria,Cesena
+15/04/2015,2 - 0,Genoa,Parma
+12/04/2015,1 - 1,Milan,Sampdoria
+12/04/2015,2 - 1,Atalanta,Sassuolo
+12/04/2015,4 - 0,Lazio,Empoli
+12/04/2015,3 - 0,Napoli,Fiorentina
+12/04/2015,1 - 1,Torino,Roma
+12/04/2015,1 - 3,Udinese,Palermo
+12/04/2015,0 - 1,Cesena,Chievo
+11/04/2015,0 - 3,Hellas Verona,Internazionale
+11/04/2015,2 - 0,Genoa,Cagliari
+11/04/2015,1 - 0,Parma,Juventus
+08/04/2015,1 - 0,Parma,Udinese
+04/04/2015,2 - 0,Juventus,Empoli
+04/04/2015,2 - 0,Fiorentina,Sampdoria
+04/04/2015,1 - 2,Atalanta,Torino
+04/04/2015,1 - 3,Cagliari,Lazio
+04/04/2015,1 - 1,Genoa,Udinese
+04/04/2015,3 - 3,Hellas Verona,Cesena
+04/04/2015,1 - 1,Internazionale,Parma
+04/04/2015,1 - 2,Palermo,Milan
+04/04/2015,1 - 0,Sassuolo,Chievo
+04/04/2015,1 - 0,Roma,Napoli
+22/03/2015,0 - 1,Cesena,Roma
+22/03/2015,2 - 0,Lazio,Hellas Verona
+22/03/2015,1 - 1,Napoli,Atalanta
+22/03/2015,0 - 2,Parma,Torino
+22/03/2015,1 - 0,Sampdoria,Internazionale
+22/03/2015,2 - 2,Udinese,Fiorentina
+22/03/2015,1 - 0,Juventus,Genoa
+22/03/2015,3 - 1,Empoli,Sassuolo
+21/03/2015,3 - 1,Milan,Cagliari
+21/03/2015,1 - 0,Chievo,Palermo
+16/03/2015,0 - 2,Roma,Sampdoria
+16/03/2015,2 - 1,Fiorentina,Milan
+16/03/2015,0 - 2,Torino,Lazio
+15/03/2015,1 - 1,Internazionale,Cesena
+15/03/2015,2 - 0,Hellas Verona,Napoli
+15/03/2015,0 - 0,Atalanta,Udinese
+15/03/2015,0 - 2,Genoa,Chievo
+15/03/2015,4 - 1,Sassuolo,Parma
+14/03/2015,1 - 1,Cagliari,Empoli
+14/03/2015,0 - 1,Palermo,Juventus
+09/03/2015,1 - 0,Juventus,Sassuolo
+09/03/2015,4 - 0,Lazio,Fiorentina
+08/03/2015,2 - 2,Napoli,Internazionale
+08/03/2015,0 - 0,Chievo,Roma
+08/03/2015,1 - 1,Empoli,Genoa
+08/03/2015,0 - 0,Parma,Atalanta
+08/03/2015,3 - 2,Udinese,Torino
+08/03/2015,0 - 0,Cesena,Palermo
+07/03/2015,2 - 2,Milan,Hellas Verona
+07/03/2015,2 - 0,Sampdoria,Cagliari
+02/03/2015,1 - 1,Roma,Juventus
+01/03/2015,1 - 0,Torino,Napoli
+01/03/2015,0 - 1,Internazionale,Fiorentina
+01/03/2015,1 - 2,Atalanta,Sampdoria
+01/03/2015,1 - 0,Cesena,Udinese
+01/03/2015,0 - 0,Palermo,Empoli
+01/03/2015,0 - 3,Sassuolo,Lazio
+01/03/2015,1 - 2,Cagliari,Hellas Verona
+28/02/2015,0 - 0,Chievo,Milan
+24/02/2015,1 - 1,Sampdoria,Genoa
+23/02/2015,1 - 2,Cagliari,Internazionale
+23/02/2015,2 - 0,Napoli,Sassuolo
+22/02/2015,1 - 1,Fiorentina,Torino
+22/02/2015,3 - 0,Empoli,Chievo
+22/02/2015,1 - 1,Hellas Verona,Roma
+22/02/2015,2 - 1,Lazio,Palermo
+22/02/2015,2 - 0,Milan,Cesena
+20/02/2015,2 - 1,Juventus,Atalanta
+15/02/2015,2 - 2,Cesena,Juventus
+15/02/2015,2 - 1,Chievo,Sampdoria
+15/02/2015,1 - 4,Atalanta,Internazionale
+15/02/2015,5 - 2,Genoa,Hellas Verona
+15/02/2015,0 - 0,Roma,Parma
+15/02/2015,1 - 1,Torino,Cagliari
+15/02/2015,0 - 1,Udinese,Lazio
+15/02/2015,1 - 1,Milan,Empoli
+14/02/2015,3 - 1,Palermo,Napoli
+14/02/2015,1 - 3,Sassuolo,Fiorentina
+11/02/2015,0 - 1,Parma,Chievo
+09/02/2015,0 - 1,Lazio,Genoa
+08/02/2015,3 - 0,Internazionale,Palermo
+08/02/2015,1 - 2,Cagliari,Roma
+08/02/2015,2 - 0,Empoli,Cesena
+08/02/2015,3 - 1,Napoli,Udinese
+08/02/2015,1 - 1,Sampdoria,Sassuolo
+08/02/2015,3 - 2,Fiorentina,Atalanta
+07/02/2015,3 - 1,Juventus,Milan
+07/02/2015,1 - 3,Hellas Verona,Torino
+01/02/2015,3 - 1,Milan,Parma
+01/02/2015,2 - 1,Atalanta,Cagliari
+01/02/2015,2 - 1,Cesena,Lazio
+01/02/2015,1 - 2,Chievo,Napoli
+01/02/2015,2 - 1,Palermo,Hellas Verona
+01/02/2015,5 - 1,Torino,Sampdoria
+01/02/2015,0 - 0,Udinese,Juventus
+01/02/2015,3 - 1,Sassuolo,Internazionale
+31/01/2015,1 - 1,Roma,Empoli
+31/01/2015,1 - 1,Genoa,Fiorentina
+26/01/2015,2 - 1,Napoli,Genoa
+26/01/2015,1 - 2,Empoli,Udinese
+25/01/2015,1 - 1,Fiorentina,Roma
+25/01/2015,1 - 0,Hellas Verona,Atalanta
+25/01/2015,0 - 1,Internazionale,Torino
+25/01/2015,2 - 0,Juventus,Chievo
+25/01/2015,1 - 2,Parma,Cesena
+25/01/2015,1 - 1,Sampdoria,Palermo
+24/01/2015,3 - 1,Lazio,Milan
+24/01/2015,2 - 1,Cagliari,Sassuolo
+18/01/2015,4 - 0,Juventus,Hellas Verona
+18/01/2015,2 - 3,Cesena,Torino
+18/01/2015,1 - 2,Chievo,Fiorentina
+18/01/2015,3 - 3,Genoa,Sassuolo
+18/01/2015,0 - 1,Milan,Atalanta
+18/01/2015,0 - 2,Parma,Sampdoria
+18/01/2015,2 - 2,Udinese,Cagliari
+18/01/2015,0 - 1,Lazio,Napoli
+17/01/2015,1 - 1,Palermo,Roma
+17/01/2015,0 - 0,Empoli,Internazionale
+11/01/2015,1 - 3,Napoli,Juventus
+11/01/2015,1 - 1,Atalanta,Chievo
+11/01/2015,2 - 1,Cagliari,Cesena
+11/01/2015,4 - 3,Fiorentina,Palermo
+11/01/2015,3 - 1,Hellas Verona,Parma
+11/01/2015,2 - 2,Roma,Lazio
+11/01/2015,1 - 0,Sampdoria,Empoli
+11/01/2015,3 - 1,Internazionale,Genoa
+10/01/2015,1 - 1,Torino,Milan
+10/01/2015,1 - 1,Sassuolo,Udinese
+06/01/2015,1 - 1,Juventus,Internazionale
+06/01/2015,1 - 4,Cesena,Napoli
+06/01/2015,0 - 0,Chievo,Torino
+06/01/2015,0 - 0,Empoli,Hellas Verona
+06/01/2015,2 - 2,Genoa,Atalanta
+06/01/2015,1 - 2,Milan,Sassuolo
+06/01/2015,5 - 0,Palermo,Cagliari
+06/01/2015,1 - 0,Parma,Fiorentina
+06/01/2015,0 - 1,Udinese,Roma
+05/01/2015,3 - 0,Lazio,Sampdoria
+21/12/2014,2 - 2,Internazionale,Lazio
+21/12/2014,3 - 3,Atalanta,Palermo
+21/12/2014,1 - 1,Fiorentina,Empoli
+21/12/2014,2 - 2,Sampdoria,Udinese
+21/12/2014,2 - 1,Torino,Genoa
+21/12/2014,0 - 1,Hellas Verona,Chievo
+20/12/2014,0 - 0,Roma,Milan
+20/12/2014,1 - 1,Sassuolo,Cesena
+18/12/2014,2 - 0,Napoli,Parma
+18/12/2014,1 - 3,Cagliari,Juventus
+15/12/2014,0 - 2,Chievo,Internazionale
+15/12/2014,0 - 0,Empoli,Torino
+14/12/2014,2 - 0,Milan,Napoli
+14/12/2014,1 - 4,Cesena,Fiorentina
+14/12/2014,0 - 1,Genoa,Roma
+14/12/2014,0 - 0,Parma,Cagliari
+14/12/2014,1 - 2,Udinese,Hellas Verona
+14/12/2014,1 - 1,Juventus,Sampdoria
+13/12/2014,3 - 0,Lazio,Atalanta
+13/12/2014,2 - 1,Palermo,Sassuolo
+08/12/2014,1 - 3,Hellas Verona,Sampdoria
+08/12/2014,0 - 2,Cagliari,Chievo
+07/12/2014,1 - 2,Internazionale,Udinese
+07/12/2014,3 - 2,Atalanta,Cesena
+07/12/2014,1 - 0,Genoa,Milan
+07/12/2014,1 - 2,Parma,Lazio
+07/12/2014,2 - 2,Napoli,Empoli
+06/12/2014,2 - 2,Torino,Palermo
+06/12/2014,2 - 2,Roma,Sassuolo
+05/12/2014,0 - 0,Fiorentina,Juventus
+01/12/2014,1 - 1,Sampdoria,Napoli
+30/11/2014,4 - 2,Roma,Internazionale
+30/11/2014,2 - 1,Juventus,Torino
+30/11/2014,0 - 4,Cagliari,Fiorentina
+30/11/2014,0 - 3,Cesena,Genoa
+30/11/2014,0 - 0,Empoli,Atalanta
+30/11/2014,2 - 0,Milan,Udinese
+30/11/2014,2 - 1,Palermo,Parma
+29/11/2014,0 - 0,Chievo,Lazio
+29/11/2014,2 - 1,Sassuolo,Hellas Verona
+24/11/2014,1 - 1,Genoa,Palermo
+23/11/2014,1 - 1,Milan,Internazionale
+23/11/2014,1 - 1,Cesena,Sampdoria
+23/11/2014,1 - 2,Hellas Verona,Fiorentina
+23/11/2014,3 - 3,Napoli,Cagliari
+23/11/2014,0 - 2,Parma,Empoli
+23/11/2014,1 - 1,Udinese,Chievo
+23/11/2014,0 - 1,Torino,Sassuolo
+22/11/2014,0 - 3,Lazio,Juventus
+22/11/2014,1 - 2,Atalanta,Roma
+09/11/2014,2 - 2,Internazionale,Hellas Verona
+09/11/2014,3 - 0,Roma,Torino
+09/11/2014,0 - 1,Fiorentina,Napoli
+09/11/2014,2 - 1,Chievo,Cesena
+09/11/2014,2 - 1,Empoli,Lazio
+09/11/2014,7 - 0,Juventus,Parma
+09/11/2014,1 - 1,Palermo,Udinese
+09/11/2014,1 - 1,Cagliari,Genoa
+08/11/2014,2 - 2,Sampdoria,Milan
+08/11/2014,0 - 0,Sassuolo,Atalanta
+03/11/2014,4 - 2,Lazio,Cagliari
+03/11/2014,1 - 1,Cesena,Hellas Verona
+02/11/2014,0 - 2,Milan,Palermo
+02/11/2014,0 - 0,Chievo,Sassuolo
+02/11/2014,3 - 1,Sampdoria,Fiorentina
+02/11/2014,0 - 0,Torino,Atalanta
+02/11/2014,2 - 4,Udinese,Genoa
+01/11/2014,2 - 0,Parma,Internazionale
+01/11/2014,0 - 2,Empoli,Juventus
+01/11/2014,2 - 0,Napoli,Roma
+30/10/2014,1 - 1,Hellas Verona,Lazio
+29/10/2014,1 - 1,Atalanta,Napoli
+29/10/2014,1 - 1,Cagliari,Milan
+29/10/2014,3 - 0,Fiorentina,Udinese
+29/10/2014,1 - 0,Genoa,Juventus
+29/10/2014,1 - 0,Internazionale,Sampdoria
+29/10/2014,1 - 0,Palermo,Chievo
+29/10/2014,2 - 0,Roma,Cesena
+29/10/2014,1 - 0,Torino,Parma
+28/10/2014,3 - 1,Sassuolo,Empoli
+26/10/2014,1 - 1,Milan,Fiorentina
+26/10/2014,0 - 1,Cesena,Internazionale
+26/10/2014,2 - 1,Lazio,Torino
+26/10/2014,6 - 2,Napoli,Hellas Verona
+26/10/2014,1 - 2,Chievo,Genoa
+26/10/2014,2 - 0,Juventus,Palermo
+26/10/2014,2 - 0,Udinese,Atalanta
+25/10/2014,0 - 0,Sampdoria,Roma
+25/10/2014,1 - 3,Parma,Sassuolo
+25/10/2014,0 - 4,Empoli,Cagliari
+20/10/2014,1 - 1,Genoa,Empoli
+19/10/2014,2 - 2,Internazionale,Napoli
+19/10/2014,1 - 0,Atalanta,Parma
+19/10/2014,2 - 2,Cagliari,Sampdoria
+19/10/2014,1 - 3,Hellas Verona,Milan
+19/10/2014,2 - 1,Palermo,Cesena
+19/10/2014,1 - 0,Torino,Udinese
+19/10/2014,0 - 2,Fiorentina,Lazio
+18/10/2014,1 - 1,Sassuolo,Juventus
+18/10/2014,3 - 0,Roma,Chievo
+05/10/2014,3 - 0,Fiorentina,Internazionale
+05/10/2014,2 - 1,Napoli,Torino
+05/10/2014,3 - 2,Juventus,Roma
+05/10/2014,3 - 2,Lazio,Sassuolo
+05/10/2014,1 - 2,Parma,Genoa
+05/10/2014,1 - 0,Sampdoria,Atalanta
+05/10/2014,1 - 1,Udinese,Cesena
+05/10/2014,3 - 0,Empoli,Palermo
+04/10/2014,2 - 0,Milan,Chievo
+04/10/2014,1 - 0,Hellas Verona,Cagliari
+29/09/2014,0 - 4,Palermo,Lazio
+29/09/2014,4 - 2,Udinese,Parma
+28/09/2014,0 - 1,Genoa,Sampdoria
+28/09/2014,1 - 1,Cesena,Milan
+28/09/2014,1 - 1,Chievo,Empoli
+28/09/2014,1 - 4,Internazionale,Cagliari
+28/09/2014,1 - 1,Torino,Fiorentina
+28/09/2014,0 - 1,Sassuolo,Napoli
+27/09/2014,0 - 3,Atalanta,Juventus
+27/09/2014,2 - 0,Roma,Hellas Verona
+25/09/2014,0 - 1,Lazio,Udinese
+24/09/2014,1 - 2,Cagliari,Torino
+24/09/2014,0 - 0,Fiorentina,Sassuolo
+24/09/2014,2 - 2,Hellas Verona,Genoa
+24/09/2014,2 - 0,Internazionale,Atalanta
+24/09/2014,3 - 0,Juventus,Cesena
+24/09/2014,3 - 3,Napoli,Palermo
+24/09/2014,1 - 2,Parma,Roma
+24/09/2014,2 - 1,Sampdoria,Chievo
+23/09/2014,2 - 2,Empoli,Milan
+21/09/2014,1 - 1,Palermo,Internazionale
+21/09/2014,0 - 1,Torino,Hellas Verona
+21/09/2014,0 - 1,Atalanta,Fiorentina
+21/09/2014,1 - 0,Udinese,Napoli
+21/09/2014,1 - 0,Genoa,Lazio
+21/09/2014,2 - 0,Roma,Cagliari
+21/09/2014,0 - 0,Sassuolo,Sampdoria
+21/09/2014,2 - 3,Chievo,Parma
+20/09/2014,0 - 1,Milan,Juventus
+20/09/2014,2 - 2,Cesena,Empoli
+15/09/2014,2 - 1,Hellas Verona,Palermo
+14/09/2014,4 - 5,Parma,Milan
+14/09/2014,1 - 2,Cagliari,Atalanta
+14/09/2014,0 - 0,Fiorentina,Genoa
+14/09/2014,7 - 0,Internazionale,Sassuolo
+14/09/2014,3 - 0,Lazio,Cesena
+14/09/2014,0 - 1,Napoli,Chievo
+14/09/2014,2 - 0,Sampdoria,Torino
+13/09/2014,2 - 0,Juventus,Udinese
+13/09/2014,0 - 1,Empoli,Roma
+31/08/2014,1 - 0,Cesena,Parma
+31/08/2014,1 - 2,Genoa,Napoli
+31/08/2014,1 - 1,Palermo,Sampdoria
+31/08/2014,1 - 1,Sassuolo,Cagliari
+31/08/2014,0 - 0,Torino,Internazionale
+31/08/2014,2 - 0,Udinese,Empoli
+31/08/2014,0 - 0,Atalanta,Hellas Verona
+31/08/2014,3 - 1,Milan,Lazio
+30/08/2014,2 - 0,Roma,Fiorentina
+30/08/2014,0 - 1,Chievo,Juventus

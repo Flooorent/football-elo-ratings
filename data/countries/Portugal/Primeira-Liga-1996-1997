@@ -1,0 +1,307 @@
+date,score,home_team,away_team
+15/06/1997,1 - 0,Belenenses,Benfica
+15/06/1997,2 - 1,Boavista,Sporting CP
+15/06/1997,2 - 1,Espinho,Estrela Amadora
+15/06/1997,1 - 1,Farense,Salgueiros
+15/06/1997,0 - 2,Leça,Vitória Setúbal
+15/06/1997,2 - 0,Marítimo,União de Leiria
+15/06/1997,3 - 0,Porto,Gil Vicente
+15/06/1997,0 - 0,Rio Ave,Chaves
+15/06/1997,0 - 0,Vitória Guimarães,Sporting Braga
+01/06/1997,1 - 1,Chaves,Farense
+01/06/1997,2 - 5,Estrela Amadora,Boavista
+01/06/1997,1 - 0,Gil Vicente,Leça
+01/06/1997,5 - 0,Salgueiros,Espinho
+01/06/1997,3 - 1,Sporting CP,Belenenses
+01/06/1997,1 - 0,União de Leiria,Rio Ave
+01/06/1997,0 - 0,Vitória Setúbal,Marítimo
+31/05/1997,2 - 1,Sporting Braga,Porto
+30/05/1997,0 - 2,Benfica,Vitória Guimarães
+26/05/1997,0 - 0,Sporting CP,Estrela Amadora
+25/05/1997,5 - 0,Boavista,Salgueiros
+25/05/1997,1 - 1,Espinho,Chaves
+25/05/1997,4 - 0,Farense,União de Leiria
+25/05/1997,0 - 0,Leça,Sporting Braga
+25/05/1997,6 - 0,Marítimo,Gil Vicente
+25/05/1997,1 - 0,Rio Ave,Vitória Setúbal
+25/05/1997,1 - 0,Vitória Guimarães,Belenenses
+24/05/1997,3 - 1,Porto,Benfica
+18/05/1997,0 - 0,Belenenses,Estrela Amadora
+18/05/1997,1 - 0,Benfica,Leça
+18/05/1997,2 - 2,Gil Vicente,Rio Ave
+18/05/1997,0 - 0,Sporting Braga,Marítimo
+18/05/1997,2 - 2,União de Leiria,Espinho
+18/05/1997,0 - 1,Vitória Setúbal,Farense
+17/05/1997,2 - 1,Chaves,Boavista
+17/05/1997,0 - 4,Vitória Guimarães,Porto
+16/05/1997,0 - 3,Salgueiros,Sporting CP
+11/05/1997,0 - 3,Espinho,Vitória Setúbal
+11/05/1997,2 - 1,Estrela Amadora,Salgueiros
+11/05/1997,2 - 1,Farense,Gil Vicente
+11/05/1997,1 - 1,Leça,Vitória Guimarães
+11/05/1997,2 - 1,Porto,Belenenses
+11/05/1997,1 - 0,Rio Ave,Sporting Braga
+11/05/1997,2 - 0,Sporting CP,Chaves
+10/05/1997,2 - 0,Marítimo,Benfica
+09/05/1997,3 - 0,Boavista,União de Leiria
+04/05/1997,0 - 0,Belenenses,Salgueiros
+04/05/1997,0 - 0,Benfica,Rio Ave
+04/05/1997,1 - 0,Chaves,Estrela Amadora
+04/05/1997,1 - 0,Gil Vicente,Espinho
+04/05/1997,2 - 1,Porto,Leça
+04/05/1997,2 - 1,Sporting Braga,Farense
+04/05/1997,1 - 0,União de Leiria,Sporting CP
+04/05/1997,2 - 2,Vitória Setúbal,Boavista
+02/05/1997,0 - 1,Vitória Guimarães,Marítimo
+27/04/1997,7 - 0,Boavista,Gil Vicente
+27/04/1997,0 - 1,Espinho,Sporting Braga
+27/04/1997,0 - 1,Estrela Amadora,União de Leiria
+27/04/1997,3 - 2,Leça,Belenenses
+27/04/1997,1 - 1,Rio Ave,Vitória Guimarães
+27/04/1997,1 - 0,Salgueiros,Chaves
+27/04/1997,2 - 1,Sporting CP,Vitória Setúbal
+26/04/1997,1 - 2,Farense,Benfica
+25/04/1997,0 - 2,Marítimo,Porto
+20/04/1997,0 - 0,Belenenses,Chaves
+20/04/1997,2 - 0,Benfica,Espinho
+20/04/1997,1 - 0,Leça,Marítimo
+20/04/1997,2 - 2,Porto,Rio Ave
+20/04/1997,1 - 0,Sporting Braga,Boavista
+20/04/1997,0 - 1,União de Leiria,Salgueiros
+20/04/1997,3 - 2,Vitória Guimarães,Farense
+20/04/1997,1 - 2,Vitória Setúbal,Estrela Amadora
+19/04/1997,0 - 3,Gil Vicente,Sporting CP
+13/04/1997,2 - 0,Chaves,União de Leiria
+13/04/1997,1 - 4,Espinho,Vitória Guimarães
+13/04/1997,2 - 0,Estrela Amadora,Gil Vicente
+13/04/1997,2 - 0,Rio Ave,Leça
+13/04/1997,3 - 2,Salgueiros,Vitória Setúbal
+12/04/1997,1 - 1,Boavista,Benfica
+12/04/1997,1 - 0,Marítimo,Belenenses
+12/04/1997,1 - 0,Sporting CP,Sporting Braga
+11/04/1997,1 - 2,Farense,Porto
+07/04/1997,0 - 4,Vitória Guimarães,Boavista
+06/04/1997,1 - 0,Belenenses,União de Leiria
+06/04/1997,1 - 3,Gil Vicente,Salgueiros
+06/04/1997,0 - 0,Leça,Farense
+06/04/1997,1 - 0,Marítimo,Rio Ave
+06/04/1997,3 - 0,Porto,Espinho
+06/04/1997,1 - 2,Sporting Braga,Estrela Amadora
+06/04/1997,1 - 0,Vitória Setúbal,Chaves
+05/04/1997,1 - 0,Benfica,Sporting CP
+24/03/1997,1 - 1,Estrela Amadora,Benfica
+23/03/1997,0 - 2,Boavista,Porto
+23/03/1997,4 - 1,Chaves,Gil Vicente
+23/03/1997,0 - 2,Espinho,Leça
+23/03/1997,1 - 0,Farense,Marítimo
+23/03/1997,4 - 1,Rio Ave,Belenenses
+23/03/1997,3 - 0,Salgueiros,Sporting Braga
+23/03/1997,0 - 0,União de Leiria,Vitória Setúbal
+22/03/1997,4 - 1,Sporting CP,Vitória Guimarães
+16/03/1997,2 - 1,Belenenses,Vitória Setúbal
+16/03/1997,3 - 4,Benfica,Salgueiros
+16/03/1997,3 - 4,Gil Vicente,União de Leiria
+16/03/1997,1 - 3,Leça,Boavista
+16/03/1997,1 - 0,Marítimo,Espinho
+16/03/1997,0 - 0,Rio Ave,Farense
+16/03/1997,3 - 0,Sporting Braga,Chaves
+16/03/1997,3 - 1,Vitória Guimarães,Estrela Amadora
+15/03/1997,1 - 2,Porto,Sporting CP
+02/03/1997,3 - 1,Boavista,Marítimo
+02/03/1997,1 - 2,Espinho,Rio Ave
+02/03/1997,0 - 2,Farense,Belenenses
+02/03/1997,0 - 0,Salgueiros,Vitória Guimarães
+02/03/1997,1 - 2,União de Leiria,Sporting Braga
+02/03/1997,1 - 0,Vitória Setúbal,Gil Vicente
+01/03/1997,3 - 1,Chaves,Benfica
+01/03/1997,1 - 0,Sporting CP,Leça
+28/02/1997,2 - 2,Estrela Amadora,Porto
+24/02/1997,1 - 2,Marítimo,Sporting CP
+23/02/1997,1 - 1,Belenenses,Gil Vicente
+23/02/1997,1 - 0,Benfica,União de Leiria
+23/02/1997,3 - 1,Farense,Espinho
+23/02/1997,1 - 1,Leça,Estrela Amadora
+23/02/1997,1 - 2,Porto,Salgueiros
+23/02/1997,0 - 0,Rio Ave,Boavista
+23/02/1997,2 - 1,Sporting Braga,Vitória Setúbal
+22/02/1997,4 - 1,Vitória Guimarães,Chaves
+16/02/1997,1 - 1,Boavista,Farense
+16/02/1997,0 - 1,Espinho,Belenenses
+16/02/1997,0 - 0,Estrela Amadora,Marítimo
+16/02/1997,1 - 1,Gil Vicente,Sporting Braga
+16/02/1997,1 - 0,Salgueiros,Leça
+16/02/1997,2 - 3,União de Leiria,Vitória Guimarães
+15/02/1997,2 - 4,Chaves,Porto
+15/02/1997,2 - 0,Sporting CP,Rio Ave
+15/02/1997,0 - 2,Vitória Setúbal,Benfica
+08/02/1997,1 - 2,Belenenses,Sporting Braga
+08/02/1997,1 - 0,Benfica,Gil Vicente
+08/02/1997,0 - 0,Espinho,Boavista
+08/02/1997,0 - 0,Farense,Sporting CP
+08/02/1997,3 - 2,Leça,Chaves
+08/02/1997,3 - 1,Marítimo,Salgueiros
+08/02/1997,2 - 0,Porto,União de Leiria
+08/02/1997,2 - 0,Rio Ave,Estrela Amadora
+08/02/1997,3 - 0,Vitória Guimarães,Vitória Setúbal
+02/02/1997,1 - 1,Boavista,Belenenses
+02/02/1997,2 - 1,Chaves,Marítimo
+02/02/1997,2 - 1,Estrela Amadora,Farense
+02/02/1997,1 - 1,Gil Vicente,Vitória Guimarães
+02/02/1997,1 - 3,Salgueiros,Rio Ave
+02/02/1997,1 - 1,União de Leiria,Leça
+01/02/1997,1 - 1,Sporting Braga,Benfica
+01/02/1997,4 - 0,Sporting CP,Espinho
+31/01/1997,1 - 3,Vitória Setúbal,Porto
+27/01/1997,0 - 3,Gil Vicente,Porto
+26/01/1997,1 - 1,Chaves,Rio Ave
+26/01/1997,2 - 0,Estrela Amadora,Espinho
+26/01/1997,2 - 1,Salgueiros,Farense
+26/01/1997,0 - 2,Sporting Braga,Vitória Guimarães
+26/01/1997,2 - 0,União de Leiria,Marítimo
+26/01/1997,1 - 0,Vitória Setúbal,Leça
+25/01/1997,1 - 2,Benfica,Belenenses
+25/01/1997,3 - 1,Sporting CP,Boavista
+19/01/1997,1 - 1,Espinho,Salgueiros
+19/01/1997,0 - 2,Farense,Chaves
+19/01/1997,1 - 1,Leça,Gil Vicente
+19/01/1997,3 - 2,Marítimo,Vitória Setúbal
+19/01/1997,5 - 0,Porto,Sporting Braga
+19/01/1997,3 - 1,Rio Ave,União de Leiria
+19/01/1997,1 - 0,Vitória Guimarães,Benfica
+18/01/1997,2 - 2,Boavista,Estrela Amadora
+17/01/1997,2 - 2,Belenenses,Sporting CP
+12/01/1997,1 - 1,Belenenses,Vitória Guimarães
+12/01/1997,1 - 0,Chaves,Espinho
+12/01/1997,1 - 2,Gil Vicente,Marítimo
+12/01/1997,3 - 2,Salgueiros,Boavista
+12/01/1997,1 - 0,Sporting Braga,Leça
+12/01/1997,0 - 0,União de Leiria,Farense
+12/01/1997,1 - 1,Vitória Setúbal,Rio Ave
+11/01/1997,1 - 2,Benfica,Porto
+10/01/1997,0 - 1,Estrela Amadora,Sporting CP
+05/01/1997,0 - 1,Boavista,Chaves
+05/01/1997,1 - 0,Espinho,União de Leiria
+05/01/1997,2 - 2,Estrela Amadora,Belenenses
+05/01/1997,1 - 1,Farense,Vitória Setúbal
+05/01/1997,1 - 1,Marítimo,Sporting Braga
+05/01/1997,0 - 2,Rio Ave,Gil Vicente
+05/01/1997,4 - 0,Sporting CP,Salgueiros
+04/01/1997,3 - 1,Porto,Vitória Guimarães
+03/01/1997,1 - 5,Leça,Benfica
+22/12/1996,0 - 0,Benfica,Marítimo
+22/12/1996,1 - 1,Gil Vicente,Farense
+22/12/1996,3 - 3,Salgueiros,Estrela Amadora
+22/12/1996,1 - 0,Sporting Braga,Rio Ave
+22/12/1996,1 - 1,União de Leiria,Boavista
+22/12/1996,3 - 0,Vitória Guimarães,Leça
+22/12/1996,0 - 2,Vitória Setúbal,Espinho
+21/12/1996,0 - 2,Belenenses,Porto
+20/12/1996,0 - 0,Chaves,Sporting CP
+01/12/1996,1 - 0,Espinho,Gil Vicente
+01/12/1996,3 - 0,Estrela Amadora,Chaves
+01/12/1996,2 - 2,Farense,Sporting Braga
+01/12/1996,1 - 2,Marítimo,Vitória Guimarães
+01/12/1996,1 - 2,Salgueiros,Belenenses
+01/12/1996,0 - 0,Sporting CP,União de Leiria
+30/11/1996,0 - 1,Rio Ave,Benfica
+29/11/1996,0 - 0,Boavista,Vitória Setúbal
+29/11/1996,2 - 4,Leça,Porto
+23/11/1996,0 - 4,Belenenses,Leça
+23/11/1996,2 - 1,Benfica,Farense
+23/11/1996,1 - 1,Chaves,Salgueiros
+23/11/1996,2 - 4,Gil Vicente,Boavista
+23/11/1996,4 - 1,Porto,Marítimo
+23/11/1996,2 - 1,Sporting Braga,Espinho
+23/11/1996,2 - 0,União de Leiria,Estrela Amadora
+23/11/1996,2 - 0,Vitória Guimarães,Rio Ave
+23/11/1996,1 - 0,Vitória Setúbal,Sporting CP
+16/11/1996,3 - 0,Boavista,Sporting Braga
+16/11/1996,2 - 2,Chaves,Belenenses
+16/11/1996,0 - 3,Espinho,Benfica
+16/11/1996,2 - 0,Estrela Amadora,Vitória Setúbal
+16/11/1996,1 - 0,Farense,Vitória Guimarães
+16/11/1996,0 - 1,Marítimo,Leça
+16/11/1996,0 - 1,Rio Ave,Porto
+16/11/1996,3 - 0,Salgueiros,União de Leiria
+16/11/1996,2 - 0,Sporting CP,Gil Vicente
+03/11/1996,2 - 0,Belenenses,Marítimo
+03/11/1996,1 - 1,Benfica,Boavista
+03/11/1996,0 - 1,Gil Vicente,Estrela Amadora
+03/11/1996,3 - 2,Leça,Rio Ave
+03/11/1996,2 - 0,Porto,Farense
+03/11/1996,1 - 0,Sporting Braga,Sporting CP
+03/11/1996,0 - 1,União de Leiria,Chaves
+03/11/1996,2 - 4,Vitória Guimarães,Espinho
+03/11/1996,1 - 1,Vitória Setúbal,Salgueiros
+27/10/1996,2 - 2,Boavista,Vitória Guimarães
+27/10/1996,0 - 1,Chaves,Vitória Setúbal
+27/10/1996,0 - 5,Espinho,Porto
+27/10/1996,3 - 1,Estrela Amadora,Sporting Braga
+27/10/1996,0 - 0,Farense,Leça
+27/10/1996,2 - 3,Rio Ave,Marítimo
+27/10/1996,3 - 2,Salgueiros,Gil Vicente
+27/10/1996,1 - 0,Sporting CP,Benfica
+27/10/1996,3 - 1,União de Leiria,Belenenses
+20/10/1996,2 - 1,Belenenses,Rio Ave
+20/10/1996,2 - 0,Benfica,Estrela Amadora
+20/10/1996,3 - 0,Gil Vicente,Chaves
+20/10/1996,1 - 1,Leça,Espinho
+20/10/1996,1 - 0,Marítimo,Farense
+20/10/1996,1 - 0,Porto,Boavista
+20/10/1996,0 - 0,Sporting Braga,Salgueiros
+20/10/1996,0 - 1,Vitória Guimarães,Sporting CP
+20/10/1996,4 - 1,Vitória Setúbal,União de Leiria
+13/10/1996,5 - 2,Chaves,Sporting Braga
+13/10/1996,2 - 1,Farense,Rio Ave
+13/10/1996,0 - 1,Salgueiros,Benfica
+13/10/1996,2 - 0,União de Leiria,Gil Vicente
+13/10/1996,2 - 0,Vitória Setúbal,Belenenses
+12/10/1996,0 - 0,Boavista,Leça
+12/10/1996,2 - 0,Estrela Amadora,Vitória Guimarães
+12/10/1996,0 - 1,Sporting CP,Porto
+11/10/1996,1 - 0,Espinho,Marítimo
+30/09/1996,3 - 0,Benfica,Chaves
+29/09/1996,1 - 2,Belenenses,Farense
+29/09/1996,0 - 0,Gil Vicente,Vitória Setúbal
+29/09/1996,2 - 2,Marítimo,Boavista
+29/09/1996,0 - 0,Porto,Estrela Amadora
+29/09/1996,0 - 3,Rio Ave,Espinho
+29/09/1996,1 - 0,Sporting Braga,União de Leiria
+29/09/1996,1 - 2,Vitória Guimarães,Salgueiros
+28/09/1996,0 - 1,Leça,Sporting CP
+22/09/1996,1 - 0,Espinho,Farense
+22/09/1996,1 - 0,Estrela Amadora,Leça
+22/09/1996,1 - 2,Gil Vicente,Belenenses
+22/09/1996,0 - 2,União de Leiria,Benfica
+22/09/1996,1 - 1,Vitória Setúbal,Sporting Braga
+21/09/1996,2 - 0,Boavista,Rio Ave
+21/09/1996,0 - 0,Chaves,Vitória Guimarães
+21/09/1996,0 - 1,Salgueiros,Porto
+20/09/1996,3 - 0,Sporting CP,Marítimo
+15/09/1996,0 - 0,Belenenses,Espinho
+15/09/1996,5 - 1,Benfica,Vitória Setúbal
+15/09/1996,2 - 0,Farense,Boavista
+15/09/1996,3 - 1,Leça,Salgueiros
+15/09/1996,2 - 0,Marítimo,Estrela Amadora
+15/09/1996,2 - 0,Porto,Chaves
+15/09/1996,4 - 1,Sporting Braga,Gil Vicente
+15/09/1996,3 - 0,Vitória Guimarães,União de Leiria
+14/09/1996,3 - 4,Rio Ave,Sporting CP
+08/09/1996,1 - 0,Chaves,Leça
+08/09/1996,0 - 0,Estrela Amadora,Rio Ave
+08/09/1996,0 - 0,Salgueiros,Marítimo
+08/09/1996,3 - 1,Sporting Braga,Belenenses
+07/09/1996,0 - 2,Boavista,Espinho
+07/09/1996,0 - 3,Gil Vicente,Benfica
+07/09/1996,0 - 3,União de Leiria,Porto
+07/09/1996,4 - 0,Vitória Setúbal,Vitória Guimarães
+06/09/1996,0 - 0,Sporting CP,Farense
+01/09/1996,1 - 0,Farense,Estrela Amadora
+01/09/1996,3 - 0,Leça,União de Leiria
+01/09/1996,3 - 3,Marítimo,Chaves
+01/09/1996,1 - 1,Rio Ave,Salgueiros
+25/08/1996,1 - 1,Benfica,Sporting Braga
+25/08/1996,2 - 2,Porto,Vitória Setúbal
+25/08/1996,4 - 2,Vitória Guimarães,Gil Vicente
+24/08/1996,2 - 4,Belenenses,Boavista
+23/08/1996,1 - 3,Espinho,Sporting CP

@@ -1,0 +1,381 @@
+date,score,home_team,away_team
+16/05/1999,1 - 0,Arsenal,Aston Villa
+16/05/1999,0 - 1,Charlton Athletic,Sheffield Wednesday
+16/05/1999,2 - 1,Chelsea,Derby County
+16/05/1999,2 - 2,Coventry City,Leeds United
+16/05/1999,3 - 0,Liverpool,Wimbledon
+16/05/1999,2 - 1,Manchester United,Tottenham Hotspur
+16/05/1999,1 - 1,Newcastle United,Blackburn Rovers
+16/05/1999,1 - 0,Nottingham Forest,Leicester City
+16/05/1999,2 - 0,Southampton,Everton
+16/05/1999,4 - 0,West Ham United,Middlesbrough
+12/05/1999,0 - 0,Blackburn Rovers,Manchester United
+11/05/1999,1 - 0,Leeds United,Arsenal
+10/05/1999,2 - 2,Tottenham Hotspur,Chelsea
+09/05/1999,0 - 1,Middlesbrough,Manchester United
+08/05/1999,3 - 4,Aston Villa,Charlton Athletic
+08/05/1999,1 - 2,Blackburn Rovers,Nottingham Forest
+08/05/1999,0 - 0,Derby County,Coventry City
+08/05/1999,6 - 0,Everton,West Ham United
+08/05/1999,2 - 0,Leicester City,Newcastle United
+08/05/1999,1 - 0,Sheffield Wednesday,Liverpool
+08/05/1999,0 - 2,Wimbledon,Southampton
+05/05/1999,1 - 0,Chelsea,Leeds United
+05/05/1999,1 - 2,Leicester City,Derby County
+05/05/1999,2 - 2,Liverpool,Manchester United
+05/05/1999,1 - 3,Tottenham Hotspur,Arsenal
+02/05/1999,1 - 0,Arsenal,Derby County
+01/05/1999,0 - 0,Charlton Athletic,Blackburn Rovers
+01/05/1999,3 - 1,Chelsea,Everton
+01/05/1999,2 - 1,Coventry City,Wimbledon
+01/05/1999,3 - 2,Liverpool,Tottenham Hotspur
+01/05/1999,2 - 1,Manchester United,Aston Villa
+01/05/1999,1 - 1,Newcastle United,Middlesbrough
+01/05/1999,2 - 0,Nottingham Forest,Sheffield Wednesday
+01/05/1999,2 - 1,Southampton,Leicester City
+01/05/1999,1 - 5,West Ham United,Leeds United
+25/04/1999,1 - 1,Leeds United,Manchester United
+25/04/1999,0 - 0,Sheffield Wednesday,Chelsea
+24/04/1999,2 - 0,Aston Villa,Nottingham Forest
+24/04/1999,1 - 3,Blackburn Rovers,Liverpool
+24/04/1999,0 - 0,Derby County,Southampton
+24/04/1999,4 - 1,Everton,Charlton Athletic
+24/04/1999,1 - 0,Leicester City,Coventry City
+24/04/1999,1 - 6,Middlesbrough,Arsenal
+24/04/1999,1 - 2,Tottenham Hotspur,West Ham United
+24/04/1999,1 - 1,Wimbledon,Newcastle United
+21/04/1999,0 - 1,Liverpool,Leicester City
+21/04/1999,1 - 1,Sheffield Wednesday,Newcastle United
+20/04/1999,1 - 4,Charlton Athletic,Tottenham Hotspur
+19/04/1999,5 - 1,Arsenal,Wimbledon
+18/04/1999,2 - 2,Chelsea,Leicester City
+17/04/1999,1 - 1,Charlton Athletic,Leeds United
+17/04/1999,1 - 2,Coventry City,Middlesbrough
+17/04/1999,0 - 1,Liverpool,Aston Villa
+17/04/1999,3 - 0,Manchester United,Sheffield Wednesday
+17/04/1999,1 - 3,Newcastle United,Everton
+17/04/1999,0 - 1,Nottingham Forest,Tottenham Hotspur
+17/04/1999,3 - 3,Southampton,Blackburn Rovers
+17/04/1999,5 - 1,West Ham United,Derby County
+14/04/1999,0 - 0,Middlesbrough,Chelsea
+12/04/1999,0 - 0,Leeds United,Liverpool
+11/04/1999,2 - 0,Everton,Coventry City
+11/04/1999,1 - 2,Wimbledon,Chelsea
+10/04/1999,3 - 0,Aston Villa,Southampton
+10/04/1999,1 - 0,Derby County,Nottingham Forest
+10/04/1999,0 - 0,Leicester City,West Ham United
+10/04/1999,2 - 0,Middlesbrough,Charlton Athletic
+06/04/1999,1 - 0,Arsenal,Blackburn Rovers
+06/04/1999,2 - 2,Leicester City,Aston Villa
+05/04/1999,1 - 0,Coventry City,Southampton
+05/04/1999,1 - 2,Everton,Sheffield Wednesday
+05/04/1999,3 - 1,Middlesbrough,Wimbledon
+05/04/1999,1 - 1,Newcastle United,Tottenham Hotspur
+05/04/1999,2 - 2,Nottingham Forest,Liverpool
+05/04/1999,0 - 1,West Ham United,Charlton Athletic
+03/04/1999,0 - 0,Blackburn Rovers,Middlesbrough
+03/04/1999,0 - 1,Charlton Athletic,Chelsea
+03/04/1999,3 - 4,Derby County,Newcastle United
+03/04/1999,3 - 1,Leeds United,Nottingham Forest
+03/04/1999,3 - 2,Liverpool,Everton
+03/04/1999,1 - 2,Sheffield Wednesday,Coventry City
+03/04/1999,0 - 0,Southampton,Arsenal
+03/04/1999,0 - 2,Tottenham Hotspur,Leicester City
+03/04/1999,1 - 1,Wimbledon,Manchester United
+02/04/1999,0 - 0,Aston Villa,West Ham United
+21/03/1999,0 - 3,Aston Villa,Chelsea
+21/03/1999,3 - 1,Manchester United,Everton
+20/03/1999,2 - 0,Arsenal,Coventry City
+20/03/1999,3 - 1,Blackburn Rovers,Wimbledon
+20/03/1999,4 - 1,Leeds United,Derby County
+20/03/1999,1 - 2,Nottingham Forest,Middlesbrough
+20/03/1999,1 - 0,Southampton,Sheffield Wednesday
+20/03/1999,2 - 0,West Ham United,Newcastle United
+14/03/1999,3 - 0,Middlesbrough,Southampton
+13/03/1999,0 - 1,Chelsea,West Ham United
+13/03/1999,1 - 1,Coventry City,Blackburn Rovers
+13/03/1999,3 - 2,Derby County,Liverpool
+13/03/1999,0 - 2,Everton,Arsenal
+13/03/1999,1 - 1,Leicester City,Charlton Athletic
+13/03/1999,1 - 2,Newcastle United,Manchester United
+13/03/1999,0 - 2,Sheffield Wednesday,Leeds United
+13/03/1999,1 - 0,Tottenham Hotspur,Aston Villa
+13/03/1999,1 - 3,Wimbledon,Nottingham Forest
+10/03/1999,1 - 2,Blackburn Rovers,Everton
+10/03/1999,2 - 1,Derby County,Aston Villa
+10/03/1999,2 - 0,Leeds United,Tottenham Hotspur
+10/03/1999,1 - 2,Nottingham Forest,Newcastle United
+09/03/1999,3 - 0,Arsenal,Sheffield Wednesday
+06/03/1999,2 - 1,Coventry City,Charlton Athletic
+06/03/1999,1 - 0,Southampton,West Ham United
+06/03/1999,0 - 1,Wimbledon,Leicester City
+03/03/1999,1 - 2,Sheffield Wednesday,Wimbledon
+02/03/1999,3 - 0,Tottenham Hotspur,Southampton
+01/03/1999,1 - 2,Leicester City,Leeds United
+28/02/1999,1 - 1,Newcastle United,Arsenal
+27/02/1999,1 - 4,Aston Villa,Coventry City
+27/02/1999,0 - 0,Charlton Athletic,Nottingham Forest
+27/02/1999,2 - 1,Chelsea,Liverpool
+27/02/1999,1 - 1,Everton,Wimbledon
+27/02/1999,2 - 1,Manchester United,Southampton
+27/02/1999,3 - 1,Sheffield Wednesday,Middlesbrough
+27/02/1999,1 - 1,Tottenham Hotspur,Derby County
+27/02/1999,2 - 0,West Ham United,Blackburn Rovers
+21/02/1999,0 - 0,Wimbledon,Aston Villa
+20/02/1999,5 - 0,Arsenal,Leicester City
+20/02/1999,1 - 4,Blackburn Rovers,Sheffield Wednesday
+20/02/1999,0 - 1,Coventry City,Manchester United
+20/02/1999,0 - 2,Derby County,Charlton Athletic
+20/02/1999,1 - 0,Leeds United,Everton
+20/02/1999,2 - 2,Liverpool,West Ham United
+20/02/1999,0 - 0,Middlesbrough,Tottenham Hotspur
+20/02/1999,1 - 3,Nottingham Forest,Chelsea
+20/02/1999,2 - 1,Southampton,Newcastle United
+17/02/1999,1 - 2,Aston Villa,Leeds United
+17/02/1999,1 - 1,Chelsea,Blackburn Rovers
+17/02/1999,5 - 0,Everton,Middlesbrough
+17/02/1999,1 - 1,Manchester United,Arsenal
+17/02/1999,4 - 1,Newcastle United,Coventry City
+13/02/1999,1 - 0,Charlton Athletic,Liverpool
+13/02/1999,2 - 1,West Ham United,Nottingham Forest
+08/02/1999,2 - 0,Charlton Athletic,Wimbledon
+07/02/1999,2 - 1,Derby County,Everton
+06/02/1999,1 - 3,Aston Villa,Blackburn Rovers
+06/02/1999,1 - 0,Chelsea,Southampton
+06/02/1999,0 - 1,Leeds United,Newcastle United
+06/02/1999,0 - 2,Leicester City,Sheffield Wednesday
+06/02/1999,3 - 1,Liverpool,Middlesbrough
+06/02/1999,1 - 8,Nottingham Forest,Manchester United
+06/02/1999,0 - 0,Tottenham Hotspur,Coventry City
+06/02/1999,0 - 4,West Ham United,Arsenal
+02/02/1999,1 - 0,Manchester United,Derby County
+31/01/1999,1 - 0,Arsenal,Chelsea
+31/01/1999,0 - 1,Charlton Athletic,Manchester United
+30/01/1999,1 - 1,Blackburn Rovers,Tottenham Hotspur
+30/01/1999,2 - 1,Coventry City,Liverpool
+30/01/1999,0 - 1,Everton,Nottingham Forest
+30/01/1999,0 - 0,Middlesbrough,Leicester City
+30/01/1999,2 - 1,Newcastle United,Aston Villa
+30/01/1999,0 - 1,Sheffield Wednesday,Derby County
+30/01/1999,3 - 0,Southampton,Leeds United
+30/01/1999,0 - 0,Wimbledon,West Ham United
+18/01/1999,3 - 0,Aston Villa,Everton
+17/01/1999,2 - 2,Charlton Athletic,Newcastle United
+16/01/1999,2 - 1,Chelsea,Coventry City
+16/01/1999,1 - 0,Derby County,Blackburn Rovers
+16/01/1999,2 - 0,Leeds United,Middlesbrough
+16/01/1999,2 - 6,Leicester City,Manchester United
+16/01/1999,7 - 1,Liverpool,Southampton
+16/01/1999,0 - 1,Nottingham Forest,Arsenal
+16/01/1999,0 - 0,Tottenham Hotspur,Wimbledon
+16/01/1999,0 - 4,West Ham United,Sheffield Wednesday
+10/01/1999,4 - 1,Manchester United,West Ham United
+09/01/1999,0 - 0,Arsenal,Liverpool
+09/01/1999,1 - 0,Blackburn Rovers,Leeds United
+09/01/1999,4 - 0,Coventry City,Nottingham Forest
+09/01/1999,0 - 0,Everton,Leicester City
+09/01/1999,0 - 0,Middlesbrough,Aston Villa
+09/01/1999,0 - 1,Newcastle United,Chelsea
+09/01/1999,0 - 0,Sheffield Wednesday,Tottenham Hotspur
+09/01/1999,3 - 1,Southampton,Charlton Athletic
+09/01/1999,2 - 1,Wimbledon,Derby County
+29/12/1998,0 - 0,Chelsea,Manchester United
+29/12/1998,2 - 2,Leeds United,Wimbledon
+28/12/1998,2 - 1,Aston Villa,Sheffield Wednesday
+28/12/1998,0 - 1,Charlton Athletic,Arsenal
+28/12/1998,2 - 1,Derby County,Middlesbrough
+28/12/1998,1 - 1,Leicester City,Blackburn Rovers
+28/12/1998,4 - 2,Liverpool,Newcastle United
+28/12/1998,1 - 1,Nottingham Forest,Southampton
+28/12/1998,4 - 1,Tottenham Hotspur,Everton
+28/12/1998,2 - 0,West Ham United,Coventry City
+26/12/1998,1 - 0,Arsenal,West Ham United
+26/12/1998,2 - 1,Blackburn Rovers,Aston Villa
+26/12/1998,1 - 1,Coventry City,Tottenham Hotspur
+26/12/1998,0 - 0,Everton,Derby County
+26/12/1998,3 - 0,Manchester United,Nottingham Forest
+26/12/1998,1 - 3,Middlesbrough,Liverpool
+26/12/1998,0 - 3,Newcastle United,Leeds United
+26/12/1998,0 - 1,Sheffield Wednesday,Leicester City
+26/12/1998,0 - 2,Southampton,Chelsea
+26/12/1998,2 - 1,Wimbledon,Charlton Athletic
+21/12/1998,0 - 1,Charlton Athletic,Aston Villa
+20/12/1998,3 - 1,Arsenal,Leeds United
+19/12/1998,2 - 0,Chelsea,Tottenham Hotspur
+19/12/1998,1 - 1,Coventry City,Derby County
+19/12/1998,2 - 0,Liverpool,Sheffield Wednesday
+19/12/1998,2 - 3,Manchester United,Middlesbrough
+19/12/1998,1 - 0,Newcastle United,Leicester City
+19/12/1998,2 - 2,Nottingham Forest,Blackburn Rovers
+19/12/1998,3 - 1,Southampton,Wimbledon
+19/12/1998,2 - 1,West Ham United,Everton
+16/12/1998,1 - 1,Manchester United,Chelsea
+14/12/1998,2 - 0,Leeds United,Coventry City
+13/12/1998,3 - 2,Aston Villa,Arsenal
+13/12/1998,1 - 0,Wimbledon,Liverpool
+12/12/1998,0 - 0,Blackburn Rovers,Newcastle United
+12/12/1998,2 - 2,Derby County,Chelsea
+12/12/1998,1 - 0,Everton,Southampton
+12/12/1998,3 - 1,Leicester City,Nottingham Forest
+12/12/1998,1 - 0,Middlesbrough,West Ham United
+12/12/1998,3 - 0,Sheffield Wednesday,Charlton Athletic
+12/12/1998,2 - 2,Tottenham Hotspur,Manchester United
+09/12/1998,2 - 1,Chelsea,Aston Villa
+07/12/1998,3 - 2,Sheffield Wednesday,Nottingham Forest
+06/12/1998,2 - 2,Middlesbrough,Newcastle United
+05/12/1998,1 - 1,Aston Villa,Manchester United
+05/12/1998,1 - 0,Blackburn Rovers,Charlton Athletic
+05/12/1998,0 - 0,Derby County,Arsenal
+05/12/1998,0 - 0,Everton,Chelsea
+05/12/1998,4 - 0,Leeds United,West Ham United
+05/12/1998,2 - 0,Leicester City,Southampton
+05/12/1998,2 - 1,Tottenham Hotspur,Liverpool
+05/12/1998,2 - 1,Wimbledon,Coventry City
+29/11/1998,1 - 1,Arsenal,Middlesbrough
+29/11/1998,2 - 0,Liverpool,Blackburn Rovers
+29/11/1998,3 - 2,Manchester United,Leeds United
+28/11/1998,1 - 2,Charlton Athletic,Everton
+28/11/1998,1 - 1,Chelsea,Sheffield Wednesday
+28/11/1998,1 - 1,Coventry City,Leicester City
+28/11/1998,3 - 1,Newcastle United,Wimbledon
+28/11/1998,2 - 2,Nottingham Forest,Aston Villa
+28/11/1998,0 - 1,Southampton,Derby County
+28/11/1998,2 - 1,West Ham United,Tottenham Hotspur
+23/11/1998,1 - 0,Everton,Newcastle United
+22/11/1998,0 - 2,Derby County,West Ham United
+21/11/1998,2 - 4,Aston Villa,Liverpool
+21/11/1998,0 - 2,Blackburn Rovers,Southampton
+21/11/1998,4 - 1,Leeds United,Charlton Athletic
+21/11/1998,2 - 4,Leicester City,Chelsea
+21/11/1998,2 - 0,Middlesbrough,Coventry City
+21/11/1998,3 - 1,Sheffield Wednesday,Manchester United
+21/11/1998,2 - 0,Tottenham Hotspur,Nottingham Forest
+21/11/1998,1 - 0,Wimbledon,Arsenal
+16/11/1998,2 - 2,Nottingham Forest,Derby County
+15/11/1998,3 - 0,Coventry City,Everton
+14/11/1998,0 - 0,Arsenal,Tottenham Hotspur
+14/11/1998,1 - 1,Charlton Athletic,Middlesbrough
+14/11/1998,3 - 0,Chelsea,Wimbledon
+14/11/1998,1 - 3,Liverpool,Leeds United
+14/11/1998,3 - 2,Manchester United,Blackburn Rovers
+14/11/1998,1 - 1,Newcastle United,Sheffield Wednesday
+14/11/1998,1 - 4,Southampton,Aston Villa
+14/11/1998,3 - 2,West Ham United,Leicester City
+08/11/1998,1 - 0,Arsenal,Everton
+08/11/1998,2 - 1,Leeds United,Sheffield Wednesday
+08/11/1998,0 - 0,Manchester United,Newcastle United
+08/11/1998,1 - 1,West Ham United,Chelsea
+07/11/1998,3 - 2,Aston Villa,Tottenham Hotspur
+07/11/1998,1 - 2,Blackburn Rovers,Coventry City
+07/11/1998,0 - 0,Charlton Athletic,Leicester City
+07/11/1998,1 - 2,Liverpool,Derby County
+07/11/1998,0 - 1,Nottingham Forest,Wimbledon
+07/11/1998,3 - 3,Southampton,Middlesbrough
+02/11/1998,2 - 2,Tottenham Hotspur,Charlton Athletic
+01/11/1998,1 - 1,Middlesbrough,Nottingham Forest
+31/10/1998,0 - 1,Coventry City,Arsenal
+31/10/1998,2 - 2,Derby County,Leeds United
+31/10/1998,1 - 4,Everton,Manchester United
+31/10/1998,1 - 0,Leicester City,Liverpool
+31/10/1998,0 - 3,Newcastle United,West Ham United
+31/10/1998,0 - 0,Sheffield Wednesday,Southampton
+31/10/1998,1 - 1,Wimbledon,Blackburn Rovers
+25/10/1998,1 - 2,Blackburn Rovers,Arsenal
+25/10/1998,0 - 0,Leeds United,Chelsea
+24/10/1998,1 - 1,Aston Villa,Leicester City
+24/10/1998,4 - 2,Charlton Athletic,West Ham United
+24/10/1998,1 - 1,Derby County,Manchester United
+24/10/1998,5 - 1,Liverpool,Nottingham Forest
+24/10/1998,0 - 0,Sheffield Wednesday,Everton
+24/10/1998,2 - 1,Southampton,Coventry City
+24/10/1998,2 - 0,Tottenham Hotspur,Newcastle United
+24/10/1998,2 - 2,Wimbledon,Middlesbrough
+19/10/1998,2 - 1,Leicester City,Tottenham Hotspur
+18/10/1998,1 - 0,Coventry City,Sheffield Wednesday
+17/10/1998,1 - 1,Arsenal,Southampton
+17/10/1998,2 - 1,Chelsea,Charlton Athletic
+17/10/1998,0 - 0,Everton,Liverpool
+17/10/1998,5 - 1,Manchester United,Wimbledon
+17/10/1998,2 - 1,Middlesbrough,Blackburn Rovers
+17/10/1998,2 - 1,Newcastle United,Derby County
+17/10/1998,1 - 1,Nottingham Forest,Leeds United
+17/10/1998,0 - 0,West Ham United,Aston Villa
+04/10/1998,3 - 0,Arsenal,Newcastle United
+04/10/1998,1 - 1,Liverpool,Chelsea
+03/10/1998,3 - 0,Blackburn Rovers,West Ham United
+03/10/1998,1 - 2,Coventry City,Aston Villa
+03/10/1998,0 - 1,Derby County,Tottenham Hotspur
+03/10/1998,0 - 1,Leeds United,Leicester City
+03/10/1998,4 - 0,Middlesbrough,Sheffield Wednesday
+03/10/1998,0 - 1,Nottingham Forest,Charlton Athletic
+03/10/1998,0 - 3,Southampton,Manchester United
+03/10/1998,1 - 2,Wimbledon,Everton
+28/09/1998,1 - 0,West Ham United,Southampton
+27/09/1998,1 - 1,Leicester City,Wimbledon
+26/09/1998,1 - 0,Aston Villa,Derby County
+26/09/1998,1 - 1,Charlton Athletic,Coventry City
+26/09/1998,2 - 0,Chelsea,Middlesbrough
+26/09/1998,0 - 0,Everton,Blackburn Rovers
+26/09/1998,2 - 0,Newcastle United,Nottingham Forest
+26/09/1998,1 - 0,Sheffield Wednesday,Arsenal
+26/09/1998,3 - 3,Tottenham Hotspur,Leeds United
+24/09/1998,2 - 0,Manchester United,Liverpool
+21/09/1998,3 - 4,Blackburn Rovers,Chelsea
+20/09/1998,3 - 0,Arsenal,Manchester United
+19/09/1998,1 - 5,Coventry City,Newcastle United
+19/09/1998,2 - 0,Derby County,Leicester City
+19/09/1998,0 - 0,Leeds United,Aston Villa
+19/09/1998,3 - 3,Liverpool,Charlton Athletic
+19/09/1998,2 - 2,Middlesbrough,Everton
+19/09/1998,0 - 0,Nottingham Forest,West Ham United
+19/09/1998,1 - 1,Southampton,Tottenham Hotspur
+19/09/1998,2 - 1,Wimbledon,Sheffield Wednesday
+13/09/1998,0 - 3,Tottenham Hotspur,Middlesbrough
+12/09/1998,2 - 0,Aston Villa,Wimbledon
+12/09/1998,1 - 2,Charlton Athletic,Derby County
+12/09/1998,2 - 1,Chelsea,Nottingham Forest
+12/09/1998,0 - 0,Everton,Leeds United
+12/09/1998,1 - 1,Leicester City,Arsenal
+12/09/1998,2 - 0,Manchester United,Coventry City
+12/09/1998,4 - 0,Newcastle United,Southampton
+12/09/1998,3 - 0,Sheffield Wednesday,Blackburn Rovers
+12/09/1998,2 - 1,West Ham United,Liverpool
+09/09/1998,1 - 0,Aston Villa,Newcastle United
+09/09/1998,0 - 0,Chelsea,Arsenal
+09/09/1998,1 - 0,Derby County,Sheffield Wednesday
+09/09/1998,0 - 1,Leicester City,Middlesbrough
+09/09/1998,2 - 0,Liverpool,Coventry City
+09/09/1998,4 - 1,Manchester United,Charlton Athletic
+09/09/1998,2 - 1,Tottenham Hotspur,Blackburn Rovers
+09/09/1998,3 - 4,West Ham United,Wimbledon
+08/09/1998,3 - 0,Leeds United,Southampton
+08/09/1998,0 - 2,Nottingham Forest,Everton
+30/08/1998,1 - 4,Newcastle United,Liverpool
+29/08/1998,0 - 0,Arsenal,Charlton Athletic
+29/08/1998,1 - 0,Blackburn Rovers,Leicester City
+29/08/1998,0 - 0,Coventry City,West Ham United
+29/08/1998,0 - 1,Everton,Tottenham Hotspur
+29/08/1998,1 - 1,Middlesbrough,Derby County
+29/08/1998,0 - 1,Sheffield Wednesday,Aston Villa
+29/08/1998,1 - 2,Southampton,Nottingham Forest
+29/08/1998,1 - 1,Wimbledon,Leeds United
+24/08/1998,1 - 0,Leeds United,Blackburn Rovers
+23/08/1998,3 - 1,Aston Villa,Middlesbrough
+22/08/1998,5 - 0,Charlton Athletic,Southampton
+22/08/1998,1 - 1,Chelsea,Newcastle United
+22/08/1998,0 - 0,Derby County,Wimbledon
+22/08/1998,2 - 0,Leicester City,Everton
+22/08/1998,0 - 0,Liverpool,Arsenal
+22/08/1998,1 - 0,Nottingham Forest,Coventry City
+22/08/1998,0 - 3,Tottenham Hotspur,Sheffield Wednesday
+22/08/1998,0 - 0,West Ham United,Manchester United
+17/08/1998,2 - 1,Arsenal,Nottingham Forest
+16/08/1998,1 - 2,Southampton,Liverpool
+15/08/1998,0 - 0,Blackburn Rovers,Derby County
+15/08/1998,2 - 1,Coventry City,Chelsea
+15/08/1998,0 - 0,Everton,Aston Villa
+15/08/1998,2 - 2,Manchester United,Leicester City
+15/08/1998,0 - 0,Middlesbrough,Leeds United
+15/08/1998,0 - 0,Newcastle United,Charlton Athletic
+15/08/1998,0 - 1,Sheffield Wednesday,West Ham United
+15/08/1998,3 - 1,Wimbledon,Tottenham Hotspur

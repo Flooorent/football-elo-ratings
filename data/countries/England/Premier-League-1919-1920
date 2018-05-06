@@ -1,0 +1,463 @@
+date,score,home_team,away_team
+01/05/1920,3 - 0,Arsenal,Bradford Park Avenue
+01/05/1920,4 - 0,Blackburn Rovers,Sheffield United
+01/05/1920,2 - 1,Bolton Wanderers,Middlesbrough
+01/05/1920,2 - 1,Bradford City,Burnley
+01/05/1920,1 - 0,Derby County,Newcastle United
+01/05/1920,0 - 1,Everton,Preston North End
+01/05/1920,2 - 2,Manchester City,Aston Villa
+01/05/1920,0 - 2,Notts County,Manchester United
+01/05/1920,1 - 0,Sheffield Wednesday,Oldham Athletic
+01/05/1920,0 - 1,Sunderland,Liverpool
+01/05/1920,4 - 0,West Bromwich Albion,Chelsea
+29/04/1920,0 - 1,Sheffield Wednesday,Aston Villa
+28/04/1920,0 - 0,Bradford Park Avenue,Arsenal
+26/04/1920,0 - 1,Aston Villa,Manchester City
+26/04/1920,2 - 0,Chelsea,West Bromwich Albion
+26/04/1920,0 - 0,Manchester United,Notts County
+26/04/1920,1 - 0,Oldham Athletic,Sheffield Wednesday
+26/04/1920,1 - 1,Preston North End,Everton
+24/04/1920,0 - 0,Arsenal,Preston North End
+24/04/1920,5 - 0,Blackburn Rovers,Manchester United
+24/04/1920,1 - 0,Bolton Wanderers,Sheffield United
+24/04/1920,0 - 1,Bradford City,Middlesbrough
+24/04/1920,5 - 0,Derby County,Chelsea
+24/04/1920,2 - 2,Everton,Burnley
+24/04/1920,0 - 0,Manchester City,Newcastle United
+24/04/1920,2 - 1,Notts County,Oldham Athletic
+24/04/1920,2 - 0,Sunderland,Bradford Park Avenue
+24/04/1920,1 - 1,West Bromwich Albion,Liverpool
+19/04/1920,0 - 1,Sheffield Wednesday,Bradford Park Avenue
+17/04/1920,3 - 1,Aston Villa,Sheffield Wednesday
+17/04/1920,2 - 2,Bradford Park Avenue,Sunderland
+17/04/1920,5 - 0,Burnley,Everton
+17/04/1920,0 - 0,Chelsea,Derby County
+17/04/1920,0 - 0,Liverpool,West Bromwich Albion
+17/04/1920,1 - 1,Manchester United,Blackburn Rovers
+17/04/1920,4 - 0,Middlesbrough,Bradford City
+17/04/1920,3 - 0,Newcastle United,Manchester City
+17/04/1920,0 - 0,Oldham Athletic,Notts County
+17/04/1920,1 - 1,Preston North End,Arsenal
+17/04/1920,3 - 2,Sheffield United,Bolton Wanderers
+15/04/1920,5 - 1,Blackburn Rovers,Aston Villa
+10/04/1920,2 - 0,Arsenal,Burnley
+10/04/1920,0 - 1,Blackburn Rovers,Oldham Athletic
+10/04/1920,3 - 5,Bolton Wanderers,Manchester United
+10/04/1920,1 - 2,Bradford City,Sheffield United
+10/04/1920,3 - 0,Derby County,Liverpool
+10/04/1920,5 - 2,Everton,Middlesbrough
+10/04/1920,1 - 0,Manchester City,Chelsea
+10/04/1920,2 - 1,Notts County,Aston Villa
+10/04/1920,1 - 0,Sunderland,Preston North End
+10/04/1920,3 - 1,West Bromwich Albion,Bradford Park Avenue
+07/04/1920,3 - 6,Aston Villa,Bolton Wanderers
+06/04/1920,1 - 4,Bradford Park Avenue,Manchester United
+06/04/1920,0 - 2,Sheffield Wednesday,Chelsea
+06/04/1920,1 - 0,West Bromwich Albion,Arsenal
+05/04/1920,1 - 0,Arsenal,West Bromwich Albion
+05/04/1920,4 - 0,Aston Villa,Newcastle United
+05/04/1920,1 - 0,Bradford City,Manchester City
+05/04/1920,2 - 1,Derby County,Everton
+05/04/1920,2 - 2,Liverpool,Oldham Athletic
+05/04/1920,5 - 2,Middlesbrough,Notts County
+05/04/1920,0 - 2,Sheffield Wednesday,Bolton Wanderers
+05/04/1920,2 - 0,Sunderland,Blackburn Rovers
+03/04/1920,3 - 1,Aston Villa,Notts County
+03/04/1920,0 - 4,Bradford Park Avenue,West Bromwich Albion
+03/04/1920,2 - 1,Burnley,Arsenal
+03/04/1920,1 - 0,Chelsea,Manchester City
+03/04/1920,3 - 0,Liverpool,Derby County
+03/04/1920,1 - 1,Manchester United,Bolton Wanderers
+03/04/1920,1 - 1,Middlesbrough,Everton
+03/04/1920,1 - 1,Newcastle United,Sheffield Wednesday
+03/04/1920,0 - 0,Oldham Athletic,Blackburn Rovers
+03/04/1920,5 - 2,Preston North End,Sunderland
+03/04/1920,0 - 0,Sheffield United,Bradford City
+02/04/1920,3 - 0,Blackburn Rovers,Sunderland
+02/04/1920,1 - 0,Burnley,Newcastle United
+02/04/1920,2 - 1,Chelsea,Aston Villa
+02/04/1920,4 - 0,Everton,Derby County
+02/04/1920,0 - 1,Manchester United,Bradford Park Avenue
+02/04/1920,1 - 1,Notts County,Middlesbrough
+02/04/1920,1 - 1,Oldham Athletic,Liverpool
+02/04/1920,2 - 0,Preston North End,Sheffield United
+27/03/1920,2 - 1,Arsenal,Middlesbrough
+27/03/1920,1 - 0,Bolton Wanderers,Oldham Athletic
+27/03/1920,2 - 1,Bradford City,Manchester United
+27/03/1920,0 - 0,Derby County,Bradford Park Avenue
+27/03/1920,3 - 0,Everton,Sheffield United
+27/03/1920,2 - 1,Manchester City,Liverpool
+27/03/1920,0 - 0,Notts County,Newcastle United
+27/03/1920,3 - 0,Sunderland,Burnley
+27/03/1920,4 - 1,West Bromwich Albion,Preston North End
+22/03/1920,2 - 1,Bradford Park Avenue,Manchester City
+22/03/1920,0 - 1,Oldham Athletic,Bradford City
+22/03/1920,0 - 1,Sheffield Wednesday,Newcastle United
+20/03/1920,1 - 2,Aston Villa,Blackburn Rovers
+20/03/1920,1 - 1,Bradford Park Avenue,Derby County
+20/03/1920,2 - 1,Burnley,Sunderland
+20/03/1920,1 - 1,Chelsea,Sheffield Wednesday
+20/03/1920,1 - 0,Liverpool,Manchester City
+20/03/1920,0 - 0,Manchester United,Bradford City
+20/03/1920,1 - 0,Middlesbrough,Arsenal
+20/03/1920,2 - 1,Newcastle United,Notts County
+20/03/1920,2 - 0,Oldham Athletic,Bolton Wanderers
+20/03/1920,0 - 1,Preston North End,West Bromwich Albion
+20/03/1920,1 - 1,Sheffield United,Everton
+17/03/1920,3 - 1,Bradford City,Aston Villa
+17/03/1920,2 - 0,Chelsea,Notts County
+17/03/1920,1 - 0,Manchester City,Preston North End
+17/03/1920,3 - 2,Sunderland,Sheffield United
+13/03/1920,3 - 0,Arsenal,Sheffield United
+13/03/1920,2 - 0,Blackburn Rovers,Newcastle United
+13/03/1920,2 - 1,Bolton Wanderers,Aston Villa
+13/03/1920,1 - 1,Bradford City,Oldham Athletic
+13/03/1920,2 - 0,Derby County,Preston North End
+13/03/1920,0 - 0,Everton,Manchester United
+13/03/1920,4 - 1,Manchester City,Bradford Park Avenue
+13/03/1920,0 - 1,Notts County,Chelsea
+13/03/1920,2 - 2,Sheffield Wednesday,Liverpool
+13/03/1920,1 - 1,Sunderland,Middlesbrough
+13/03/1920,4 - 1,West Bromwich Albion,Burnley
+11/03/1920,3 - 1,Blackburn Rovers,Chelsea
+10/03/1920,1 - 0,Liverpool,Sheffield Wednesday
+08/03/1920,2 - 1,Oldham Athletic,Sunderland
+06/03/1920,2 - 2,Burnley,West Bromwich Albion
+06/03/1920,1 - 0,Manchester United,Everton
+06/03/1920,0 - 2,Middlesbrough,Sunderland
+06/03/1920,0 - 0,Newcastle United,Blackburn Rovers
+06/03/1920,1 - 1,Preston North End,Derby County
+06/03/1920,2 - 0,Sheffield United,Arsenal
+04/03/1920,2 - 0,Preston North End,Notts County
+28/02/1920,3 - 1,Aston Villa,Bradford City
+28/02/1920,3 - 0,Bradford Park Avenue,Sheffield Wednesday
+28/02/1920,2 - 0,Burnley,Derby County
+28/02/1920,2 - 1,Chelsea,Blackburn Rovers
+28/02/1920,3 - 0,Liverpool,Notts County
+28/02/1920,0 - 1,Manchester United,Arsenal
+28/02/1920,0 - 0,Middlesbrough,West Bromwich Albion
+28/02/1920,0 - 1,Newcastle United,Bolton Wanderers
+28/02/1920,4 - 1,Oldham Athletic,Everton
+28/02/1920,1 - 1,Preston North End,Manchester City
+28/02/1920,3 - 1,Sheffield United,Sunderland
+26/02/1920,1 - 0,Notts County,Liverpool
+25/02/1920,1 - 2,Manchester United,West Bromwich Albion
+23/02/1920,5 - 2,Bradford Park Avenue,Blackburn Rovers
+21/02/1920,0 - 3,Arsenal,Manchester United
+21/02/1920,0 - 3,Bolton Wanderers,Newcastle United
+21/02/1920,0 - 2,Derby County,Burnley
+21/02/1920,4 - 1,West Bromwich Albion,Middlesbrough
+18/02/1920,0 - 2,Everton,Oldham Athletic
+18/02/1920,0 - 2,Middlesbrough,Manchester City
+17/02/1920,2 - 0,Burnley,Sheffield Wednesday
+14/02/1920,2 - 2,Aston Villa,Everton
+14/02/1920,0 - 1,Bradford Park Avenue,Notts County
+14/02/1920,2 - 0,Burnley,Manchester City
+14/02/1920,2 - 3,Chelsea,Bolton Wanderers
+14/02/1920,3 - 0,Liverpool,Blackburn Rovers
+14/02/1920,2 - 0,Manchester United,Sunderland
+14/02/1920,2 - 0,Middlesbrough,Derby County
+14/02/1920,0 - 1,Newcastle United,Bradford City
+14/02/1920,3 - 0,Oldham Athletic,Arsenal
+14/02/1920,3 - 0,Preston North End,Sheffield Wednesday
+14/02/1920,1 - 0,Sheffield United,West Bromwich Albion
+11/02/1920,2 - 1,Aston Villa,Arsenal
+11/02/1920,0 - 0,Bradford Park Avenue,Bradford City
+11/02/1920,1 - 1,Manchester United,Oldham Athletic
+11/02/1920,3 - 0,Newcastle United,Everton
+09/02/1920,0 - 0,Sheffield United,Derby County
+07/02/1920,3 - 2,Arsenal,Oldham Athletic
+07/02/1920,0 - 2,Blackburn Rovers,Liverpool
+07/02/1920,1 - 2,Bolton Wanderers,Chelsea
+07/02/1920,1 - 0,Bradford City,Newcastle United
+07/02/1920,1 - 2,Derby County,Middlesbrough
+07/02/1920,1 - 1,Everton,Aston Villa
+07/02/1920,3 - 1,Manchester City,Burnley
+07/02/1920,0 - 2,Notts County,Bradford Park Avenue
+07/02/1920,0 - 1,Sheffield Wednesday,Preston North End
+07/02/1920,3 - 0,Sunderland,Manchester United
+07/02/1920,0 - 2,West Bromwich Albion,Sheffield United
+04/02/1920,1 - 0,Chelsea,Bradford City
+04/02/1920,2 - 0,Liverpool,Bolton Wanderers
+24/01/1920,0 - 1,Arsenal,Aston Villa
+24/01/1920,3 - 3,Blackburn Rovers,Bradford Park Avenue
+24/01/1920,0 - 3,Bolton Wanderers,Liverpool
+24/01/1920,3 - 1,Bradford City,Chelsea
+24/01/1920,5 - 1,Derby County,Sheffield United
+24/01/1920,4 - 0,Everton,Newcastle United
+24/01/1920,1 - 0,Manchester City,Middlesbrough
+24/01/1920,1 - 2,Notts County,Preston North End
+24/01/1920,3 - 1,Sheffield Wednesday,Burnley
+24/01/1920,3 - 0,Sunderland,Oldham Athletic
+24/01/1920,2 - 1,West Bromwich Albion,Manchester United
+17/01/1920,0 - 0,Burnley,Aston Villa
+17/01/1920,1 - 0,Chelsea,Manchester United
+17/01/1920,2 - 0,Liverpool,Sheffield United
+17/01/1920,4 - 1,Manchester City,Arsenal
+17/01/1920,2 - 2,Notts County,Bolton Wanderers
+17/01/1920,1 - 0,Oldham Athletic,Newcastle United
+17/01/1920,3 - 1,Preston North End,Middlesbrough
+17/01/1920,1 - 0,Sheffield Wednesday,Everton
+17/01/1920,2 - 1,Sunderland,Derby County
+17/01/1920,5 - 2,West Bromwich Albion,Blackburn Rovers
+03/01/1920,2 - 2,Arsenal,Manchester City
+03/01/1920,2 - 2,Aston Villa,Burnley
+03/01/1920,1 - 5,Blackburn Rovers,West Bromwich Albion
+03/01/1920,1 - 0,Bolton Wanderers,Notts County
+03/01/1920,0 - 0,Bradford City,Bradford Park Avenue
+03/01/1920,3 - 1,Derby County,Sunderland
+03/01/1920,1 - 1,Everton,Sheffield Wednesday
+03/01/1920,0 - 2,Manchester United,Chelsea
+03/01/1920,4 - 1,Middlesbrough,Preston North End
+03/01/1920,0 - 1,Newcastle United,Oldham Athletic
+03/01/1920,3 - 2,Sheffield United,Liverpool
+01/01/1920,1 - 1,Blackburn Rovers,Notts County
+01/01/1920,2 - 0,Bolton Wanderers,Sheffield Wednesday
+01/01/1920,0 - 0,Liverpool,Manchester United
+01/01/1920,1 - 0,Manchester City,Bradford City
+01/01/1920,4 - 0,Middlesbrough,Burnley
+01/01/1920,2 - 0,Newcastle United,Aston Villa
+01/01/1920,1 - 0,Oldham Athletic,Chelsea
+01/01/1920,2 - 1,Sheffield United,Preston North End
+01/01/1920,4 - 1,Sunderland,West Bromwich Albion
+27/12/1919,2 - 1,Bolton Wanderers,Blackburn Rovers
+27/12/1919,1 - 1,Bradford Park Avenue,Middlesbrough
+27/12/1919,1 - 1,Burnley,Preston North End
+27/12/1919,1 - 0,Chelsea,Sheffield United
+27/12/1919,3 - 1,Liverpool,Everton
+27/12/1919,1 - 0,Manchester City,Sunderland
+27/12/1919,2 - 1,Newcastle United,Manchester United
+27/12/1919,5 - 2,Notts County,Bradford City
+27/12/1919,0 - 3,Oldham Athletic,Aston Villa
+27/12/1919,1 - 2,Sheffield Wednesday,Arsenal
+27/12/1919,3 - 0,West Bromwich Albion,Derby County
+26/12/1919,1 - 0,Arsenal,Derby County
+26/12/1919,1 - 0,Bradford Park Avenue,Sheffield United
+26/12/1919,1 - 0,Chelsea,Oldham Athletic
+26/12/1919,2 - 0,Everton,Manchester City
+26/12/1919,0 - 0,Manchester United,Liverpool
+26/12/1919,0 - 0,Newcastle United,Burnley
+26/12/1919,1 - 1,Preston North End,Bolton Wanderers
+26/12/1919,1 - 0,Sheffield Wednesday,Bradford City
+26/12/1919,4 - 0,West Bromwich Albion,Sunderland
+25/12/1919,5 - 2,Aston Villa,Chelsea
+25/12/1919,4 - 1,Bolton Wanderers,Preston North End
+25/12/1919,1 - 1,Bradford City,Sheffield Wednesday
+25/12/1919,5 - 3,Burnley,Middlesbrough
+25/12/1919,2 - 1,Derby County,Arsenal
+25/12/1919,3 - 2,Liverpool,Sunderland
+25/12/1919,1 - 1,Manchester City,Everton
+25/12/1919,5 - 0,Notts County,Blackburn Rovers
+25/12/1919,2 - 2,Sheffield United,Bradford Park Avenue
+20/12/1919,3 - 1,Arsenal,Sheffield Wednesday
+20/12/1919,3 - 0,Aston Villa,Oldham Athletic
+20/12/1919,2 - 2,Blackburn Rovers,Bolton Wanderers
+20/12/1919,3 - 4,Bradford City,Notts County
+20/12/1919,0 - 4,Derby County,West Bromwich Albion
+20/12/1919,0 - 0,Everton,Liverpool
+20/12/1919,2 - 1,Manchester United,Newcastle United
+20/12/1919,1 - 2,Middlesbrough,Bradford Park Avenue
+20/12/1919,0 - 1,Preston North End,Burnley
+20/12/1919,3 - 1,Sheffield United,Chelsea
+20/12/1919,2 - 1,Sunderland,Manchester City
+13/12/1919,1 - 1,Bolton Wanderers,Bradford City
+13/12/1919,3 - 3,Bradford Park Avenue,Preston North End
+13/12/1919,2 - 1,Burnley,Oldham Athletic
+13/12/1919,3 - 1,Chelsea,Arsenal
+13/12/1919,0 - 0,Derby County,Blackburn Rovers
+13/12/1919,1 - 0,Liverpool,Middlesbrough
+13/12/1919,1 - 2,Manchester United,Aston Villa
+13/12/1919,2 - 1,Newcastle United,Sheffield United
+13/12/1919,1 - 1,Notts County,Everton
+13/12/1919,0 - 2,Sheffield Wednesday,Sunderland
+13/12/1919,2 - 0,West Bromwich Albion,Manchester City
+11/12/1919,4 - 1,Blackburn Rovers,Bradford City
+06/12/1919,1 - 1,Arsenal,Chelsea
+06/12/1919,2 - 0,Aston Villa,Manchester United
+06/12/1919,2 - 0,Blackburn Rovers,Derby County
+06/12/1919,0 - 1,Bradford City,Bolton Wanderers
+06/12/1919,1 - 2,Everton,Notts County
+06/12/1919,2 - 3,Manchester City,West Bromwich Albion
+06/12/1919,3 - 2,Middlesbrough,Liverpool
+06/12/1919,1 - 0,Oldham Athletic,Burnley
+06/12/1919,0 - 3,Preston North End,Bradford Park Avenue
+06/12/1919,2 - 1,Sheffield United,Newcastle United
+06/12/1919,2 - 1,Sunderland,Sheffield Wednesday
+03/12/1919,0 - 0,Newcastle United,Middlesbrough
+29/11/1919,4 - 0,Aston Villa,Sheffield United
+29/11/1919,0 - 2,Bolton Wanderers,Everton
+29/11/1919,0 - 1,Bradford Park Avenue,Burnley
+29/11/1919,3 - 1,Chelsea,Middlesbrough
+29/11/1919,0 - 0,Derby County,Manchester City
+29/11/1919,1 - 2,Liverpool,Preston North End
+29/11/1919,2 - 3,Newcastle United,Sunderland
+29/11/1919,2 - 2,Notts County,Arsenal
+29/11/1919,0 - 3,Sheffield Wednesday,West Bromwich Albion
+22/11/1919,3 - 1,Arsenal,Notts County
+22/11/1919,3 - 1,Bradford City,Blackburn Rovers
+22/11/1919,2 - 6,Burnley,Bradford Park Avenue
+22/11/1919,3 - 3,Everton,Bolton Wanderers
+22/11/1919,3 - 1,Manchester City,Derby County
+22/11/1919,0 - 0,Middlesbrough,Chelsea
+22/11/1919,0 - 3,Oldham Athletic,Manchester United
+22/11/1919,2 - 1,Preston North End,Liverpool
+22/11/1919,1 - 2,Sheffield United,Aston Villa
+22/11/1919,2 - 0,Sunderland,Newcastle United
+22/11/1919,1 - 3,West Bromwich Albion,Sheffield Wednesday
+15/11/1919,2 - 4,Aston Villa,West Bromwich Albion
+15/11/1919,1 - 4,Blackburn Rovers,Manchester City
+15/11/1919,2 - 2,Bolton Wanderers,Arsenal
+15/11/1919,3 - 3,Bradford City,Everton
+15/11/1919,4 - 0,Chelsea,Preston North End
+15/11/1919,3 - 3,Liverpool,Bradford Park Avenue
+15/11/1919,0 - 1,Manchester United,Burnley
+15/11/1919,2 - 2,Notts County,Sunderland
+15/11/1919,4 - 0,Oldham Athletic,Sheffield United
+15/11/1919,2 - 0,Sheffield Wednesday,Derby County
+10/11/1919,1 - 2,West Bromwich Albion,Aston Villa
+08/11/1919,2 - 2,Arsenal,Bolton Wanderers
+08/11/1919,1 - 2,Bradford Park Avenue,Liverpool
+08/11/1919,2 - 1,Burnley,Manchester United
+08/11/1919,2 - 1,Derby County,Sheffield Wednesday
+08/11/1919,4 - 1,Everton,Bradford City
+08/11/1919,8 - 2,Manchester City,Blackburn Rovers
+08/11/1919,0 - 1,Middlesbrough,Newcastle United
+08/11/1919,3 - 1,Preston North End,Chelsea
+08/11/1919,1 - 0,Sheffield United,Oldham Athletic
+08/11/1919,3 - 1,Sunderland,Notts County
+01/11/1919,5 - 3,Aston Villa,Middlesbrough
+01/11/1919,3 - 2,Blackburn Rovers,Everton
+01/11/1919,1 - 0,Bolton Wanderers,Sunderland
+01/11/1919,1 - 1,Bradford City,Arsenal
+01/11/1919,4 - 0,Chelsea,Bradford Park Avenue
+01/11/1919,0 - 1,Liverpool,Burnley
+01/11/1919,3 - 0,Manchester United,Sheffield United
+01/11/1919,1 - 0,Newcastle United,Preston North End
+01/11/1919,2 - 0,Notts County,West Bromwich Albion
+01/11/1919,3 - 0,Oldham Athletic,Derby County
+01/11/1919,0 - 0,Sheffield Wednesday,Manchester City
+25/10/1919,1 - 2,Arsenal,Bradford City
+25/10/1919,1 - 0,Bradford Park Avenue,Chelsea
+25/10/1919,1 - 2,Burnley,Liverpool
+25/10/1919,1 - 1,Derby County,Oldham Athletic
+25/10/1919,3 - 0,Everton,Blackburn Rovers
+25/10/1919,4 - 2,Manchester City,Sheffield Wednesday
+25/10/1919,1 - 4,Middlesbrough,Aston Villa
+25/10/1919,2 - 3,Preston North End,Newcastle United
+25/10/1919,2 - 2,Sheffield United,Manchester United
+25/10/1919,2 - 0,Sunderland,Bolton Wanderers
+25/10/1919,8 - 0,West Bromwich Albion,Notts County
+20/10/1919,2 - 0,Sheffield United,Blackburn Rovers
+18/10/1919,1 - 1,Arsenal,Everton
+18/10/1919,2 - 4,Aston Villa,Preston North End
+18/10/1919,1 - 0,Blackburn Rovers,Sheffield Wednesday
+18/10/1919,1 - 2,Bolton Wanderers,West Bromwich Albion
+18/10/1919,2 - 0,Bradford City,Sunderland
+18/10/1919,0 - 1,Liverpool,Chelsea
+18/10/1919,1 - 0,Manchester United,Manchester City
+18/10/1919,4 - 0,Newcastle United,Bradford Park Avenue
+18/10/1919,2 - 2,Notts County,Derby County
+18/10/1919,1 - 2,Oldham Athletic,Middlesbrough
+18/10/1919,1 - 3,Sheffield United,Burnley
+11/10/1919,0 - 1,Bradford Park Avenue,Newcastle United
+11/10/1919,2 - 2,Burnley,Sheffield United
+11/10/1919,1 - 0,Chelsea,Liverpool
+11/10/1919,3 - 1,Derby County,Notts County
+11/10/1919,2 - 3,Everton,Arsenal
+11/10/1919,3 - 3,Manchester City,Manchester United
+11/10/1919,1 - 0,Middlesbrough,Oldham Athletic
+11/10/1919,3 - 0,Preston North End,Aston Villa
+11/10/1919,0 - 0,Sheffield Wednesday,Blackburn Rovers
+11/10/1919,2 - 0,Sunderland,Bradford City
+11/10/1919,4 - 1,West Bromwich Albion,Bolton Wanderers
+04/10/1919,0 - 1,Arsenal,Blackburn Rovers
+04/10/1919,1 - 0,Aston Villa,Bradford Park Avenue
+04/10/1919,3 - 0,Bolton Wanderers,Derby County
+04/10/1919,3 - 0,Bradford City,West Bromwich Albion
+04/10/1919,2 - 3,Burnley,Chelsea
+04/10/1919,1 - 3,Everton,Sunderland
+04/10/1919,1 - 1,Manchester United,Middlesbrough
+04/10/1919,3 - 0,Newcastle United,Liverpool
+04/10/1919,4 - 1,Notts County,Manchester City
+04/10/1919,4 - 1,Oldham Athletic,Preston North End
+04/10/1919,3 - 0,Sheffield United,Sheffield Wednesday
+02/10/1919,2 - 2,Notts County,Sheffield United
+27/09/1919,2 - 2,Blackburn Rovers,Arsenal
+27/09/1919,6 - 1,Bradford Park Avenue,Aston Villa
+27/09/1919,0 - 1,Chelsea,Burnley
+27/09/1919,1 - 2,Derby County,Bolton Wanderers
+27/09/1919,1 - 1,Liverpool,Newcastle United
+27/09/1919,4 - 1,Manchester City,Notts County
+27/09/1919,1 - 1,Middlesbrough,Manchester United
+27/09/1919,2 - 1,Preston North End,Oldham Athletic
+27/09/1919,2 - 1,Sheffield Wednesday,Sheffield United
+27/09/1919,2 - 3,Sunderland,Everton
+27/09/1919,4 - 1,West Bromwich Albion,Bradford City
+24/09/1919,0 - 0,Newcastle United,Derby County
+20/09/1919,3 - 2,Arsenal,Sunderland
+20/09/1919,0 - 1,Aston Villa,Liverpool
+20/09/1919,6 - 2,Bolton Wanderers,Manchester City
+20/09/1919,3 - 1,Bradford City,Derby County
+20/09/1919,3 - 1,Burnley,Blackburn Rovers
+20/09/1919,2 - 5,Everton,West Bromwich Albion
+20/09/1919,5 - 1,Manchester United,Preston North End
+20/09/1919,3 - 0,Newcastle United,Chelsea
+20/09/1919,3 - 1,Notts County,Sheffield Wednesday
+20/09/1919,2 - 2,Oldham Athletic,Bradford Park Avenue
+20/09/1919,5 - 1,Sheffield United,Middlesbrough
+17/09/1919,1 - 3,Middlesbrough,Bolton Wanderers
+15/09/1919,0 - 2,Blackburn Rovers,Middlesbrough
+13/09/1919,2 - 3,Blackburn Rovers,Burnley
+13/09/1919,2 - 0,Bradford Park Avenue,Oldham Athletic
+13/09/1919,0 - 0,Chelsea,Newcastle United
+13/09/1919,3 - 0,Derby County,Bradford City
+13/09/1919,2 - 1,Liverpool,Aston Villa
+13/09/1919,1 - 4,Manchester City,Bolton Wanderers
+13/09/1919,1 - 0,Middlesbrough,Sheffield United
+13/09/1919,2 - 3,Preston North End,Manchester United
+13/09/1919,0 - 0,Sheffield Wednesday,Notts County
+13/09/1919,1 - 1,Sunderland,Arsenal
+13/09/1919,4 - 3,West Bromwich Albion,Everton
+10/09/1919,2 - 2,Bradford City,Preston North End
+10/09/1919,2 - 1,Burnley,Bolton Wanderers
+10/09/1919,3 - 2,Sunderland,Chelsea
+08/09/1919,1 - 0,Arsenal,Liverpool
+08/09/1919,1 - 1,Burnley,Bradford City
+08/09/1919,1 - 0,Derby County,Aston Villa
+08/09/1919,2 - 0,Everton,Bradford Park Avenue
+08/09/1919,3 - 1,Manchester City,Oldham Athletic
+08/09/1919,1 - 3,Sheffield Wednesday,Manchester United
+08/09/1919,3 - 0,West Bromwich Albion,Newcastle United
+06/09/1919,0 - 3,Aston Villa,Sunderland
+06/09/1919,2 - 0,Bradford Park Avenue,Bolton Wanderers
+06/09/1919,2 - 1,Burnley,Notts County
+06/09/1919,0 - 1,Chelsea,Everton
+06/09/1919,2 - 1,Liverpool,Bradford City
+06/09/1919,0 - 2,Manchester United,Derby County
+06/09/1919,3 - 0,Middlesbrough,Sheffield Wednesday
+06/09/1919,3 - 1,Newcastle United,Arsenal
+06/09/1919,2 - 1,Oldham Athletic,West Bromwich Albion
+06/09/1919,0 - 0,Preston North End,Blackburn Rovers
+06/09/1919,3 - 1,Sheffield United,Manchester City
+03/09/1919,0 - 2,Bradford Park Avenue,Everton
+03/09/1919,2 - 2,Middlesbrough,Blackburn Rovers
+03/09/1919,0 - 2,Newcastle United,West Bromwich Albion
+01/09/1919,2 - 2,Aston Villa,Derby County
+01/09/1919,1 - 1,Bolton Wanderers,Burnley
+01/09/1919,2 - 0,Chelsea,Sunderland
+01/09/1919,2 - 3,Liverpool,Arsenal
+01/09/1919,0 - 0,Manchester United,Sheffield Wednesday
+01/09/1919,1 - 3,Oldham Athletic,Manchester City
+01/09/1919,1 - 5,Preston North End,Bradford City
+01/09/1919,3 - 0,Sheffield United,Notts County
+30/08/1919,0 - 1,Arsenal,Newcastle United
+30/08/1919,4 - 0,Blackburn Rovers,Preston North End
+30/08/1919,1 - 2,Bolton Wanderers,Bradford Park Avenue
+30/08/1919,1 - 3,Bradford City,Liverpool
+30/08/1919,1 - 1,Derby County,Manchester United
+30/08/1919,2 - 3,Everton,Chelsea
+30/08/1919,3 - 3,Manchester City,Sheffield United
+30/08/1919,2 - 0,Notts County,Burnley
+30/08/1919,0 - 1,Sheffield Wednesday,Middlesbrough
+30/08/1919,2 - 1,Sunderland,Aston Villa
+30/08/1919,3 - 1,West Bromwich Albion,Oldham Athletic

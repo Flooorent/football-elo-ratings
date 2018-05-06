@@ -1,0 +1,214 @@
+date,score,home_team,away_team
+25/05/2013,1 - 2,[N] Borussia Dortmund,Bayern München
+01/05/2013,0 - 3,Barcelona,Bayern München
+30/04/2013,2 - 0,Real Madrid,Borussia Dortmund
+24/04/2013,4 - 1,Borussia Dortmund,Real Madrid
+23/04/2013,4 - 0,Bayern München,Barcelona
+10/04/2013,1 - 1,Barcelona,PSG
+10/04/2013,0 - 2,Juventus,Bayern München
+09/04/2013,3 - 2,Borussia Dortmund,Málaga
+09/04/2013,3 - 2,Galatasaray,Real Madrid
+03/04/2013,0 - 0,Málaga,Borussia Dortmund
+03/04/2013,3 - 0,Real Madrid,Galatasaray
+02/04/2013,2 - 0,Bayern München,Juventus
+02/04/2013,2 - 2,PSG,Barcelona
+13/03/2013,0 - 2,Bayern München,Arsenal
+13/03/2013,2 - 0,Málaga,Porto
+12/03/2013,4 - 0,Barcelona,Milan
+12/03/2013,2 - 3,Schalke 04,Galatasaray
+06/03/2013,2 - 0,Juventus,Celtic
+06/03/2013,1 - 1,PSG,Valencia
+05/03/2013,3 - 0,Borussia Dortmund,Shakhtar Donetsk
+05/03/2013,1 - 2,Manchester United,Real Madrid
+20/02/2013,1 - 1,Galatasaray,Schalke 04
+20/02/2013,2 - 0,Milan,Barcelona
+19/02/2013,1 - 3,Arsenal,Bayern München
+19/02/2013,1 - 0,Porto,Málaga
+13/02/2013,1 - 1,Real Madrid,Manchester United
+13/02/2013,2 - 2,Shakhtar Donetsk,Borussia Dortmund
+12/02/2013,0 - 3,Celtic,Juventus
+12/02/2013,1 - 2,Valencia,PSG
+04/12/2012,1 - 1,Dinamo Zagreb,Dynamo Kyiv
+04/12/2012,2 - 1,PSG,Porto
+21/11/2012,0 - 2,Dynamo Kyiv,PSG
+21/11/2012,3 - 0,Porto,Dinamo Zagreb
+06/11/2012,0 - 0,Dynamo Kyiv,Porto
+06/11/2012,4 - 0,PSG,Dinamo Zagreb
+24/10/2012,0 - 2,Dinamo Zagreb,PSG
+24/10/2012,3 - 2,Porto,Dynamo Kyiv
+03/10/2012,2 - 0,Dynamo Kyiv,Dinamo Zagreb
+03/10/2012,1 - 0,Porto,PSG
+18/09/2012,0 - 2,Dinamo Zagreb,Porto
+18/09/2012,4 - 1,PSG,Dynamo Kyiv
+04/12/2012,1 - 1,Montpellier,Schalke 04
+04/12/2012,2 - 1,Olympiakos Piraeus,Arsenal
+21/11/2012,2 - 0,Arsenal,Montpellier
+21/11/2012,1 - 0,Schalke 04,Olympiakos Piraeus
+06/11/2012,3 - 1,Olympiakos Piraeus,Montpellier
+06/11/2012,2 - 2,Schalke 04,Arsenal
+24/10/2012,0 - 2,Arsenal,Schalke 04
+24/10/2012,1 - 2,Montpellier,Olympiakos Piraeus
+03/10/2012,3 - 1,Arsenal,Olympiakos Piraeus
+03/10/2012,2 - 2,Schalke 04,Montpellier
+18/09/2012,1 - 2,Montpellier,Arsenal
+18/09/2012,1 - 2,Olympiakos Piraeus,Schalke 04
+04/12/2012,2 - 2,Málaga,Anderlecht
+04/12/2012,0 - 1,Milan,Zenit
+21/11/2012,1 - 3,Anderlecht,Milan
+21/11/2012,2 - 2,Zenit,Málaga
+06/11/2012,1 - 0,Anderlecht,Zenit
+06/11/2012,1 - 1,Milan,Málaga
+24/10/2012,1 - 0,Málaga,Milan
+24/10/2012,1 - 0,Zenit,Anderlecht
+03/10/2012,0 - 3,Anderlecht,Málaga
+03/10/2012,2 - 3,Zenit,Milan
+18/09/2012,3 - 0,Málaga,Zenit
+18/09/2012,0 - 0,Milan,Anderlecht
+04/12/2012,1 - 0,Borussia Dortmund,Manchester City
+04/12/2012,4 - 1,Real Madrid,Ajax
+21/11/2012,1 - 4,Ajax,Borussia Dortmund
+21/11/2012,1 - 1,Manchester City,Real Madrid
+06/11/2012,2 - 2,Manchester City,Ajax
+06/11/2012,2 - 2,Real Madrid,Borussia Dortmund
+24/10/2012,3 - 1,Ajax,Manchester City
+24/10/2012,2 - 1,Borussia Dortmund,Real Madrid
+03/10/2012,1 - 4,Ajax,Real Madrid
+03/10/2012,1 - 1,Manchester City,Borussia Dortmund
+18/09/2012,1 - 0,Borussia Dortmund,Ajax
+18/09/2012,3 - 2,Real Madrid,Manchester City
+05/12/2012,6 - 1,Chelsea,Nordsjælland
+05/12/2012,0 - 1,Shakhtar Donetsk,Juventus
+20/11/2012,3 - 0,Juventus,Chelsea
+20/11/2012,2 - 5,Nordsjælland,Shakhtar Donetsk
+07/11/2012,3 - 2,Chelsea,Shakhtar Donetsk
+07/11/2012,4 - 0,Juventus,Nordsjælland
+23/10/2012,1 - 1,Nordsjælland,Juventus
+23/10/2012,2 - 1,Shakhtar Donetsk,Chelsea
+02/10/2012,1 - 1,Juventus,Shakhtar Donetsk
+02/10/2012,0 - 4,Nordsjælland,Chelsea
+19/09/2012,2 - 2,Chelsea,Juventus
+19/09/2012,2 - 0,Shakhtar Donetsk,Nordsjælland
+05/12/2012,4 - 1,Bayern München,BATE
+05/12/2012,0 - 1,Lille,Valencia
+20/11/2012,1 - 1,Valencia,Bayern München
+20/11/2012,0 - 2,[N] BATE,Lille
+07/11/2012,6 - 1,Bayern München,Lille
+07/11/2012,4 - 2,Valencia,BATE
+23/10/2012,0 - 3,[N] BATE,Valencia
+23/10/2012,0 - 1,Lille,Bayern München
+02/10/2012,3 - 1,[N] BATE,Bayern München
+02/10/2012,2 - 0,Valencia,Lille
+19/09/2012,2 - 1,Bayern München,Valencia
+19/09/2012,1 - 3,Lille,BATE
+05/12/2012,0 - 0,Barcelona,Benfica
+05/12/2012,2 - 1,Celtic,Spartak Moskva
+20/11/2012,2 - 1,Benfica,Celtic
+20/11/2012,0 - 3,Spartak Moskva,Barcelona
+07/11/2012,2 - 0,Benfica,Spartak Moskva
+07/11/2012,2 - 1,Celtic,Barcelona
+23/10/2012,2 - 1,Barcelona,Celtic
+23/10/2012,2 - 1,Spartak Moskva,Benfica
+02/10/2012,0 - 2,Benfica,Barcelona
+02/10/2012,2 - 3,Spartak Moskva,Celtic
+19/09/2012,3 - 2,Barcelona,Spartak Moskva
+19/09/2012,0 - 0,Celtic,Benfica
+05/12/2012,0 - 1,Manchester United,CFR Cluj
+05/12/2012,1 - 2,Sporting Braga,Galatasaray
+20/11/2012,3 - 1,CFR Cluj,Sporting Braga
+20/11/2012,1 - 0,Galatasaray,Manchester United
+07/11/2012,1 - 3,CFR Cluj,Galatasaray
+07/11/2012,1 - 3,Sporting Braga,Manchester United
+23/10/2012,1 - 1,Galatasaray,CFR Cluj
+23/10/2012,3 - 2,Manchester United,Sporting Braga
+02/10/2012,1 - 2,CFR Cluj,Manchester United
+02/10/2012,0 - 2,Galatasaray,Sporting Braga
+19/09/2012,1 - 0,Manchester United,Galatasaray
+19/09/2012,0 - 2,Sporting Braga,CFR Cluj
+29/08/2012,2 - 0,Celtic,Helsingborg
+29/08/2012,1 - 0,CFR Cluj,Basel
+29/08/2012,1 - 2,Dynamo Kyiv,Borussia M'gladbach
+29/08/2012,1 - 1,Fenerbahçe,Spartak Moskva
+29/08/2012,1 - 0, [ET] Lille,København
+28/08/2012,2 - 0,Anderlecht,AEL
+28/08/2012,1 - 1,Ironi Kiryat Shmona,BATE
+28/08/2012,0 - 1,Maribor,Dinamo Zagreb
+28/08/2012,0 - 0,Panathinaikos,Málaga
+28/08/2012,1 - 1,Udinese,Sporting Braga [PS] 
+22/08/2012,2 - 1,[N] AEL,Anderlecht
+22/08/2012,2 - 0,[N] BATE,Ironi Kiryat Shmona
+22/08/2012,2 - 1,Dinamo Zagreb,Maribor
+22/08/2012,2 - 0,Málaga,Panathinaikos
+22/08/2012,1 - 1,Sporting Braga,Udinese
+21/08/2012,1 - 2,Basel,CFR Cluj
+21/08/2012,1 - 3,Borussia M'gladbach,Dynamo Kyiv
+21/08/2012,0 - 2,Helsingborg,Celtic
+21/08/2012,1 - 0,København,Lille
+21/08/2012,2 - 1,Spartak Moskva,Fenerbahçe
+08/08/2012,4 - 0,Dinamo Zagreb,Sheriff
+08/08/2012,3 - 0,Panathinaikos,Motherwell
+08/08/2012,0 - 1,Partizan,AEL
+08/08/2012,2 - 3,Club Brugge,København
+08/08/2012,1 - 1,Basel,Molde
+08/08/2012,1 - 4,Vaslui,Fenerbahçe
+08/08/2012,0 - 6,[N] Ekranas,Anderlecht
+08/08/2012,0 - 2,HJK,Celtic
+08/08/2012,1 - 2,Slovan Liberec,CFR Cluj
+08/08/2012,3 - 1,Helsingborg,Śląsk Wrocław
+08/08/2012,2 - 2,Neftçi,Ironi Kiryat Shmona
+08/08/2012,0 - 1,F91 Dudelange,Maribor
+07/08/2012,0 - 2,Debrecen,BATE
+07/08/2012,0 - 1,Feyenoord,Dynamo Kyiv
+01/08/2012,2 - 1,Celtic,HJK
+01/08/2012,1 - 0,CFR Cluj,Slovan Liberec
+01/08/2012,1 - 1,Fenerbahçe,Vaslui
+01/08/2012,0 - 3,Śląsk Wrocław,Helsingborg
+01/08/2012,5 - 0,Anderlecht,Ekranas
+01/08/2012,0 - 0,København,Club Brugge
+01/08/2012,4 - 1,Maribor,F91 Dudelange
+01/08/2012,1 - 0,[N] AEL,Partizan
+01/08/2012,0 - 1,Molde,Basel
+01/08/2012,0 - 1,Sheriff,Dinamo Zagreb
+01/08/2012,4 - 0,Ironi Kiryat Shmona,Neftçi
+01/08/2012,1 - 1,BATE,Debrecen
+31/07/2012,0 - 2,Motherwell,Panathinaikos
+31/07/2012,2 - 1,Dynamo Kyiv,Feyenoord
+25/07/2012,3 - 2,Dinamo Zagreb,Ludogorets
+25/07/2012,0 - 0,Linfield,AEL
+25/07/2012,0 - 1,Śląsk Wrocław,Budućnost
+25/07/2012,0 - 0,Vardar,BATE
+25/07/2012,3 - 0,Helsingborg,The New Saints
+24/07/2012,1 - 2,KR,HJK
+24/07/2012,1 - 2,Željezničar,Maribor
+24/07/2012,3 - 1,Partizan,Valletta
+24/07/2012,3 - 0,Debrecen,Skënderbeu Korçë
+24/07/2012,3 - 0,Basel,Flora
+24/07/2012,2 - 1,Ekranas,Shamrock Rovers
+24/07/2012,1 - 0,Sheriff,Ulisses
+24/07/2012,2 - 2,Zestafoni,Neftçi
+24/07/2012,2 - 0,Ironi Kiryat Shmona,Žilina
+24/07/2012,4 - 3,Salzburg,F91 Dudelange
+24/07/2012,1 - 1,Ventspils,Molde
+24/07/2012,1 - 0,Shakhter Karagandy,Slovan Liberec
+18/07/2012,0 - 2,Budućnost,Śląsk Wrocław
+18/07/2012,3 - 0,Molde,Ventspils
+18/07/2012,1 - 1,Ludogorets,Dinamo Zagreb
+18/07/2012,4 - 1,Maribor,Željezničar
+18/07/2012,3 - 0,AEL,Linfield
+18/07/2012,3 - 2,BATE,Vardar
+17/07/2012,0 - 0,Shamrock Rovers,Ekranas
+17/07/2012,1 - 4,Valletta,Partizan
+17/07/2012,1 - 0,Skënderbeu Korçë,Debrecen
+17/07/2012,0 - 0,The New Saints,Helsingborg
+17/07/2012,1 - 0,Žilina,Ironi Kiryat Shmona
+17/07/2012,1 - 0,Slovan Liberec,Shakhter Karagandy
+17/07/2012,1 - 0,F91 Dudelange,Salzburg
+17/07/2012,7 - 0,HJK,KR
+17/07/2012,3 - 0,Neftçi,Zestafoni
+17/07/2012,0 - 2,Flora,Basel
+17/07/2012,0 - 1,Ulisses,Sheriff
+10/07/2012,0 - 4,Tre Penne,F91 Dudelange
+10/07/2012,0 - 1,Lusitanos,Valletta
+10/07/2012,0 - 0,B36,Linfield [PS] 
+03/07/2012,0 - 0,Linfield,B36
+03/07/2012,8 - 0,Valletta,Lusitanos
+03/07/2012,7 - 0,F91 Dudelange,Tre Penne

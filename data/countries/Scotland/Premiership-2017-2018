@@ -1,0 +1,229 @@
+date,score,home_team,away_team
+13/05/2018,document.write(timestamp_to_time(1526211000));11:30 GMT,Celtic,Aberdeen
+13/05/2018,document.write(timestamp_to_time(1526211000));11:30 GMT,Hibernian,Rangers
+13/05/2018,document.write(timestamp_to_time(1526211000));11:30 GMT,Kilmarnock,Hearts
+09/05/2018,document.write(timestamp_to_time(1525891500));18:45 GMT,Celtic,Kilmarnock
+09/05/2018,document.write(timestamp_to_time(1525891500));18:45 GMT,Hearts,Hibernian
+08/05/2018,document.write(timestamp_to_time(1525805100));18:45 GMT,Aberdeen,Rangers
+06/05/2018,document.write(timestamp_to_time(1525605300));11:15 GMT,Hearts,Celtic
+05/05/2018,document.write(timestamp_to_time(1525528800));14:00 GMT,Aberdeen,Hibernian
+05/05/2018,document.write(timestamp_to_time(1525528800));14:00 GMT,Rangers,Kilmarnock
+29/04/2018,5 - 0,Celtic,Rangers
+28/04/2018,5 - 3,Hibernian,Kilmarnock
+27/04/2018,2 - 0,Aberdeen,Hearts
+22/04/2018,2 - 1,Rangers,Hearts
+21/04/2018,0 - 2,Kilmarnock,Aberdeen
+21/04/2018,2 - 1,Hibernian,Celtic
+12/05/2018,document.write(timestamp_to_time(1526133600));14:00 GMT,Dundee,Partick Thistle
+12/05/2018,document.write(timestamp_to_time(1526133600));14:00 GMT,Motherwell,Hamilton Academical
+12/05/2018,document.write(timestamp_to_time(1526133600));14:00 GMT,St. Johnstone,Ross County
+08/05/2018,document.write(timestamp_to_time(1525805100));18:45 GMT,Hamilton Academical,St. Johnstone
+08/05/2018,document.write(timestamp_to_time(1525805100));18:45 GMT,Partick Thistle,Motherwell
+08/05/2018,document.write(timestamp_to_time(1525805100));18:45 GMT,Ross County,Dundee
+05/05/2018,document.write(timestamp_to_time(1525528800));14:00 GMT,Motherwell,St. Johnstone
+05/05/2018,document.write(timestamp_to_time(1525519800));11:30 GMT,Dundee,Hamilton Academical
+04/05/2018,1 - 1,Partick Thistle,Ross County
+28/04/2018,2 - 1,Motherwell,Dundee
+28/04/2018,1 - 1,St. Johnstone,Partick Thistle
+28/04/2018,2 - 0,Hamilton Academical,Ross County
+21/04/2018,2 - 1,Dundee,St. Johnstone
+21/04/2018,2 - 1,Partick Thistle,Hamilton Academical
+21/04/2018,0 - 0,Ross County,Motherwell
+14/04/2018,1 - 2,Hamilton Academical,Kilmarnock
+08/04/2018,1 - 2,Hamilton Academical,Celtic
+07/04/2018,2 - 0,Hearts,Aberdeen
+07/04/2018,0 - 1,Partick Thistle,Kilmarnock
+07/04/2018,4 - 0,Rangers,Dundee
+07/04/2018,1 - 1,Ross County,Hibernian
+07/04/2018,0 - 0,St. Johnstone,Motherwell
+04/04/2018,0 - 0,Celtic,Dundee
+03/04/2018,3 - 1,Hibernian,Hamilton Academical
+03/04/2018,0 - 2,Motherwell,Aberdeen
+03/04/2018,4 - 0,Ross County,Partick Thistle
+01/04/2018,1 - 1,Dundee,Hearts
+31/03/2018,4 - 1,Aberdeen,St. Johnstone
+31/03/2018,3 - 0,Celtic,Ross County
+31/03/2018,2 - 0,Hibernian,Partick Thistle
+31/03/2018,2 - 0,Kilmarnock,Hamilton Academical
+31/03/2018,2 - 2,Motherwell,Rangers
+28/03/2018,1 - 0,St. Johnstone,Hamilton Academical
+18/03/2018,0 - 0,Motherwell,Celtic
+17/03/2018,1 - 0,Aberdeen,Dundee
+17/03/2018,3 - 0,Hearts,Partick Thistle
+17/03/2018,0 - 1,Rangers,Kilmarnock
+17/03/2018,2 - 2,Ross County,Hamilton Academical
+16/03/2018,1 - 1,St. Johnstone,Hibernian
+11/03/2018,2 - 3,Rangers,Celtic
+10/03/2018,0 - 4,Dundee,St. Johnstone
+10/03/2018,2 - 0,Hamilton Academical,Motherwell
+10/03/2018,3 - 2,Kilmarnock,Ross County
+10/03/2018,0 - 0,Partick Thistle,Aberdeen
+09/03/2018,2 - 0,Hibernian,Hearts
+07/03/2018,2 - 0,Kilmarnock,St. Johnstone
+27/02/2018,1 - 1,Hearts,Kilmarnock
+27/02/2018,1 - 4,St. Johnstone,Rangers
+25/02/2018,0 - 2,Aberdeen,Celtic
+24/02/2018,0 - 1,Dundee,Motherwell
+24/02/2018,2 - 1,Hamilton Academical,Partick Thistle
+24/02/2018,2 - 0,Rangers,Hearts
+24/02/2018,2 - 0,St. Johnstone,Ross County
+24/02/2018,2 - 2,Kilmarnock,Hibernian
+18/02/2018,0 - 0,Celtic,St. Johnstone
+18/02/2018,3 - 5,Hamilton Academical,Rangers
+17/02/2018,2 - 0,Hibernian,Aberdeen
+17/02/2018,0 - 1,Motherwell,Kilmarnock
+17/02/2018,1 - 2,Partick Thistle,Dundee
+17/02/2018,1 - 1,Ross County,Hearts
+13/02/2018,3 - 2,Kilmarnock,Dundee
+06/02/2018,2 - 0,Motherwell,St. Johnstone
+06/02/2018,0 - 2,Partick Thistle,Rangers
+03/02/2018,3 - 0,Aberdeen,Hamilton Academical
+03/02/2018,1 - 4,Dundee,Ross County
+03/02/2018,1 - 0,Hearts,St. Johnstone
+03/02/2018,1 - 1,Motherwell,Partick Thistle
+03/02/2018,1 - 2,Rangers,Hibernian
+03/02/2018,1 - 0,Kilmarnock,Celtic
+31/01/2018,2 - 1,Hibernian,Motherwell
+31/01/2018,2 - 4,Ross County,Aberdeen
+30/01/2018,3 - 1,Celtic,Hearts
+28/01/2018,1 - 2,Ross County,Rangers
+27/01/2018,3 - 1,Aberdeen,Kilmarnock
+27/01/2018,1 - 0,Celtic,Hibernian
+27/01/2018,1 - 2,Hamilton Academical,Dundee
+27/01/2018,1 - 1,Hearts,Motherwell
+27/01/2018,1 - 3,St. Johnstone,Partick Thistle
+24/01/2018,0 - 1,Dundee,Hibernian
+24/01/2018,0 - 3,Hamilton Academical,Hearts
+24/01/2018,2 - 0,Motherwell,Ross County
+24/01/2018,2 - 0,Rangers,Aberdeen
+23/01/2018,1 - 2,Partick Thistle,Celtic
+30/12/2017,0 - 0,Aberdeen,Hearts
+30/12/2017,1 - 1,Hibernian,Kilmarnock
+30/12/2017,1 - 3,Motherwell,Hamilton Academical
+30/12/2017,2 - 0,Partick Thistle,Ross County
+30/12/2017,0 - 2,St. Johnstone,Dundee
+30/12/2017,0 - 0,Celtic,Rangers
+27/12/2017,1 - 0,Aberdeen,Partick Thistle
+27/12/2017,0 - 0,Hearts,Hibernian
+27/12/2017,2 - 0,Rangers,Motherwell
+27/12/2017,1 - 1,Ross County,St. Johnstone
+26/12/2017,0 - 2,Dundee,Celtic
+23/12/2017,3 - 0,Celtic,Aberdeen
+23/12/2017,2 - 1,Hibernian,Ross County
+23/12/2017,1 - 1,Motherwell,Dundee
+23/12/2017,1 - 0,Partick Thistle,Hamilton Academical
+23/12/2017,0 - 0,St. Johnstone,Hearts
+23/12/2017,2 - 1,Kilmarnock,Rangers
+20/12/2017,2 - 0,Celtic,Partick Thistle
+17/12/2017,4 - 0,Hearts,Celtic
+16/12/2017,3 - 0,Dundee,Partick Thistle
+16/12/2017,3 - 2,Hamilton Academical,Ross County
+16/12/2017,1 - 0,Kilmarnock,Motherwell
+16/12/2017,1 - 3,Rangers,St. Johnstone
+16/12/2017,4 - 1,Aberdeen,Hibernian
+13/12/2017,3 - 1,Celtic,Hamilton Academical
+13/12/2017,1 - 2,Hibernian,Rangers
+13/12/2017,3 - 2,Partick Thistle,Motherwell
+13/12/2017,0 - 3,St. Johnstone,Aberdeen
+12/12/2017,2 - 0,Hearts,Dundee
+12/12/2017,2 - 2,Ross County,Kilmarnock
+10/12/2017,2 - 2,Hibernian,Celtic
+09/12/2017,1 - 0,Hearts,Motherwell
+09/12/2017,0 - 1,Hamilton Academical,St. Johnstone
+09/12/2017,5 - 1,Kilmarnock,Partick Thistle
+09/12/2017,2 - 1,Rangers,Ross County
+08/12/2017,0 - 1,Dundee,Aberdeen
+03/12/2017,1 - 2,Aberdeen,Rangers
+02/12/2017,1 - 1,Hearts,Hamilton Academical
+02/12/2017,5 - 1,Celtic,Motherwell
+02/12/2017,0 - 1,Partick Thistle,Hibernian
+02/12/2017,0 - 2,Ross County,Dundee
+02/12/2017,1 - 2,St. Johnstone,Kilmarnock
+29/11/2017,1 - 1,Motherwell,Celtic
+29/11/2017,3 - 0,Rangers,Aberdeen
+26/11/2017,1 - 3,Kilmarnock,Aberdeen
+25/11/2017,1 - 1,Hamilton Academical,Hibernian
+25/11/2017,0 - 0,Hearts,Ross County
+24/11/2017,2 - 1,Dundee,Rangers
+19/11/2017,1 - 1,Hearts,Partick Thistle
+18/11/2017,0 - 2,Aberdeen,Motherwell
+18/11/2017,0 - 0,Dundee,Kilmarnock
+18/11/2017,1 - 2,Hibernian,St. Johnstone
+18/11/2017,0 - 2,Rangers,Hamilton Academical
+18/11/2017,0 - 1,Ross County,Celtic
+05/11/2017,1 - 2,[N] Hearts,Kilmarnock
+04/11/2017,2 - 2,Hamilton Academical,Aberdeen
+04/11/2017,2 - 1,Hibernian,Dundee
+04/11/2017,3 - 0,Rangers,Partick Thistle
+04/11/2017,3 - 2,Ross County,Motherwell
+04/11/2017,0 - 4,St. Johnstone,Celtic
+31/10/2017,0 - 3,Kilmarnock,Hibernian
+28/10/2017,2 - 1,Aberdeen,Ross County
+28/10/2017,1 - 1,Celtic,Kilmarnock
+28/10/2017,1 - 3,Dundee,Hamilton Academical
+28/10/2017,0 - 1,Motherwell,Hibernian
+28/10/2017,1 - 0,Partick Thistle,St. Johnstone
+28/10/2017,1 - 3,[N] Hearts,Rangers
+25/10/2017,0 - 3,Aberdeen,Celtic
+25/10/2017,0 - 1,Dundee,Motherwell
+25/10/2017,1 - 1,Rangers,Kilmarnock
+24/10/2017,0 - 0,Hamilton Academical,Partick Thistle
+24/10/2017,1 - 0,Hibernian,Hearts
+24/10/2017,0 - 0,St. Johnstone,Ross County
+21/10/2017,1 - 0,[N] Hearts,St. Johnstone
+21/10/2017,2 - 1,Partick Thistle,Dundee
+21/10/2017,2 - 1,Ross County,Hamilton Academical
+14/10/2017,1 - 0,Celtic,Dundee
+14/10/2017,1 - 2,Hamilton Academical,Motherwell
+14/10/2017,0 - 1,Hibernian,Aberdeen
+14/10/2017,0 - 2,Partick Thistle,Kilmarnock
+14/10/2017,1 - 2,Ross County,Hearts
+13/10/2017,0 - 3,St. Johnstone,Rangers
+30/09/2017,3 - 0,Aberdeen,St. Johnstone
+30/09/2017,2 - 2,Celtic,Hibernian
+30/09/2017,2 - 1,Dundee,Hearts
+30/09/2017,0 - 2,Kilmarnock,Ross County
+30/09/2017,3 - 0,Motherwell,Partick Thistle
+29/09/2017,1 - 4,Hamilton Academical,Rangers
+24/09/2017,0 - 1,Motherwell,Aberdeen
+23/09/2017,1 - 1,Partick Thistle,Hearts
+23/09/2017,1 - 1,Kilmarnock,Dundee
+23/09/2017,0 - 1,Ross County,Hibernian
+23/09/2017,2 - 1,St. Johnstone,Hamilton Academical
+23/09/2017,0 - 2,Rangers,Celtic
+16/09/2017,1 - 1,Aberdeen,Kilmarnock
+16/09/2017,4 - 0,Celtic,Ross County
+16/09/2017,3 - 2,Dundee,St. Johnstone
+16/09/2017,1 - 2,Hamilton Academical,Hearts
+16/09/2017,2 - 2,Hibernian,Motherwell
+15/09/2017,2 - 2,Partick Thistle,Rangers
+09/09/2017,0 - 0,[N] Hearts,Aberdeen
+09/09/2017,2 - 0,Motherwell,Kilmarnock
+09/09/2017,4 - 1,Rangers,Dundee
+09/09/2017,1 - 1,Ross County,Partick Thistle
+09/09/2017,1 - 1,St. Johnstone,Hibernian
+08/09/2017,1 - 4,Hamilton Academical,Celtic
+27/08/2017,1 - 3,Ross County,Rangers
+27/08/2017,1 - 1,Dundee,Hibernian
+26/08/2017,1 - 1,Celtic,St. Johnstone
+26/08/2017,2 - 2,Kilmarnock,Hamilton Academical
+26/08/2017,3 - 4,Partick Thistle,Aberdeen
+26/08/2017,2 - 1,Motherwell,Hearts
+19/08/2017,2 - 1,Aberdeen,Dundee
+19/08/2017,1 - 3,Hibernian,Hamilton Academical
+19/08/2017,2 - 0,Motherwell,Ross County
+19/08/2017,0 - 0,Rangers,Hearts
+19/08/2017,1 - 0,St. Johnstone,Partick Thistle
+19/08/2017,0 - 2,Kilmarnock,Celtic
+12/08/2017,3 - 0,Hamilton Academical,Dundee
+12/08/2017,2 - 3,Rangers,Hibernian
+12/08/2017,1 - 2,Ross County,Aberdeen
+12/08/2017,4 - 1,St. Johnstone,Motherwell
+12/08/2017,0 - 1,Kilmarnock,Hearts
+11/08/2017,0 - 1,Partick Thistle,Celtic
+06/08/2017,2 - 0,Aberdeen,Hamilton Academical
+06/08/2017,1 - 2,Motherwell,Rangers
+05/08/2017,1 - 2,Dundee,Ross County
+05/08/2017,3 - 1,Hibernian,Partick Thistle
+05/08/2017,1 - 2,Kilmarnock,St. Johnstone
+05/08/2017,4 - 1,Celtic,Hearts

@@ -1,0 +1,307 @@
+date,score,home_team,away_team
+19/05/2007,3 - 3,Club Brugge,Cercle Brugge
+19/05/2007,2 - 0,Excelsior Mouscron,Standard Liège
+19/05/2007,1 - 4,Lokeren,Lierse
+19/05/2007,3 - 1,Mons,Anderlecht
+19/05/2007,3 - 1,RWDM Brussels,Genk
+19/05/2007,3 - 2,Sint-Truiden,Beveren
+19/05/2007,2 - 1,Sporting Charleroi,Zulte-Waregem
+19/05/2007,1 - 1,Westerlo,Gent
+18/05/2007,3 - 0,Beerschot,KSV Roeselare
+12/05/2007,6 - 0,Anderlecht,RWDM Brussels
+12/05/2007,0 - 0,Beveren,Mons
+12/05/2007,0 - 2,Genk,Sporting Charleroi
+12/05/2007,1 - 2,Gent,Beerschot
+12/05/2007,3 - 2,KSV Roeselare,Sint-Truiden
+12/05/2007,3 - 3,Lierse,Excelsior Mouscron
+12/05/2007,1 - 0,Standard Liège,Club Brugge
+12/05/2007,1 - 1,Zulte-Waregem,Lokeren
+11/05/2007,4 - 1,Cercle Brugge,Westerlo
+06/05/2007,8 - 1,Anderlecht,Beveren
+06/05/2007,1 - 1,Westerlo,Standard Liège
+05/05/2007,1 - 0,Beerschot,Cercle Brugge
+05/05/2007,4 - 0,Club Brugge,Lierse
+05/05/2007,3 - 0,Excelsior Mouscron,Zulte-Waregem
+05/05/2007,6 - 1,Mons,KSV Roeselare
+05/05/2007,0 - 1,Sint-Truiden,Gent
+05/05/2007,1 - 0,Sporting Charleroi,RWDM Brussels
+04/05/2007,0 - 1,Lokeren,Genk
+29/04/2007,0 - 5,KSV Roeselare,Anderlecht
+29/04/2007,3 - 2,Genk,Excelsior Mouscron
+28/04/2007,0 - 1,Cercle Brugge,Sint-Truiden
+28/04/2007,4 - 1,Gent,Mons
+28/04/2007,1 - 1,Lierse,Westerlo
+28/04/2007,2 - 0,RWDM Brussels,Beveren
+28/04/2007,4 - 3,Sporting Charleroi,Lokeren
+28/04/2007,2 - 1,Zulte-Waregem,Club Brugge
+27/04/2007,2 - 2,Standard Liège,Beerschot
+22/04/2007,0 - 1,Club Brugge,Genk
+22/04/2007,1 - 0,Anderlecht,Gent
+21/04/2007,2 - 2,Beveren,KSV Roeselare
+21/04/2007,2 - 1,Excelsior Mouscron,Sporting Charleroi
+21/04/2007,0 - 0,Lokeren,RWDM Brussels
+21/04/2007,1 - 0,Mons,Cercle Brugge
+21/04/2007,0 - 3,Sint-Truiden,Standard Liège
+21/04/2007,4 - 2,Westerlo,Zulte-Waregem
+20/04/2007,2 - 3,Beerschot,Lierse
+15/04/2007,1 - 1,Sporting Charleroi,Club Brugge
+15/04/2007,2 - 1,Gent,Beveren
+14/04/2007,3 - 1,Genk,Westerlo
+14/04/2007,0 - 0,Lierse,Sint-Truiden
+14/04/2007,1 - 1,Lokeren,Excelsior Mouscron
+14/04/2007,6 - 2,RWDM Brussels,KSV Roeselare
+14/04/2007,1 - 0,Standard Liège,Mons
+14/04/2007,0 - 2,Zulte-Waregem,Beerschot
+13/04/2007,0 - 1,Cercle Brugge,Anderlecht
+08/04/2007,2 - 1,Beerschot,Genk
+08/04/2007,0 - 1,Westerlo,Sporting Charleroi
+07/04/2007,1 - 1,Beveren,Cercle Brugge
+07/04/2007,2 - 2,Club Brugge,Lokeren
+07/04/2007,2 - 2,Excelsior Mouscron,RWDM Brussels
+07/04/2007,1 - 3,KSV Roeselare,Gent
+07/04/2007,1 - 1,Mons,Lierse
+07/04/2007,2 - 2,Sint-Truiden,Zulte-Waregem
+06/04/2007,1 - 0,Anderlecht,Standard Liège
+01/04/2007,2 - 1,Excelsior Mouscron,Club Brugge
+01/04/2007,2 - 0,Genk,Sint-Truiden
+31/03/2007,1 - 1,Cercle Brugge,KSV Roeselare
+31/03/2007,1 - 4,Lierse,Anderlecht
+31/03/2007,1 - 1,Lokeren,Westerlo
+31/03/2007,3 - 3,Sporting Charleroi,Beerschot
+31/03/2007,0 - 0,Standard Liège,Beveren
+31/03/2007,1 - 2,Zulte-Waregem,Mons
+30/03/2007,1 - 1,RWDM Brussels,Gent
+18/03/2007,2 - 3,KSV Roeselare,Standard Liège
+18/03/2007,0 - 2,Gent,Cercle Brugge
+17/03/2007,0 - 0,Anderlecht,Zulte-Waregem
+17/03/2007,1 - 1,Beveren,Lierse
+17/03/2007,4 - 1,Club Brugge,RWDM Brussels
+17/03/2007,5 - 0,Mons,Genk
+17/03/2007,1 - 1,Sint-Truiden,Sporting Charleroi
+17/03/2007,1 - 0,Westerlo,Excelsior Mouscron
+16/03/2007,1 - 2,Beerschot,Lokeren
+11/03/2007,1 - 1,Genk,Anderlecht
+10/03/2007,2 - 0,Club Brugge,Westerlo
+10/03/2007,1 - 0,Excelsior Mouscron,Beerschot
+10/03/2007,3 - 1,Lierse,KSV Roeselare
+10/03/2007,1 - 1,Lokeren,Sint-Truiden
+10/03/2007,0 - 0,RWDM Brussels,Cercle Brugge
+10/03/2007,2 - 1,Zulte-Waregem,Beveren
+10/03/2007,0 - 1,Standard Liège,Gent
+09/03/2007,1 - 0,Sporting Charleroi,Mons
+04/03/2007,4 - 0,Beerschot,Club Brugge
+03/03/2007,3 - 2,Anderlecht,Sporting Charleroi
+03/03/2007,0 - 2,Cercle Brugge,Standard Liège
+03/03/2007,4 - 0,Gent,Lierse
+03/03/2007,1 - 0,Mons,Lokeren
+03/03/2007,1 - 1,Sint-Truiden,Excelsior Mouscron
+03/03/2007,1 - 1,Westerlo,RWDM Brussels
+03/03/2007,0 - 5,Beveren,Genk
+02/03/2007,3 - 1,KSV Roeselare,Zulte-Waregem
+25/02/2007,3 - 2,Zulte-Waregem,Gent
+25/02/2007,1 - 1,Lokeren,Anderlecht
+24/02/2007,2 - 2,Excelsior Mouscron,Mons
+24/02/2007,3 - 0,Genk,KSV Roeselare
+24/02/2007,0 - 2,Lierse,Cercle Brugge
+24/02/2007,0 - 3,RWDM Brussels,Standard Liège
+24/02/2007,2 - 1,Sporting Charleroi,Beveren
+24/02/2007,1 - 1,Westerlo,Beerschot
+23/02/2007,1 - 0,Club Brugge,Sint-Truiden
+18/02/2007,2 - 0,Cercle Brugge,Zulte-Waregem
+18/02/2007,1 - 3,Gent,Genk
+17/02/2007,2 - 1,Anderlecht,Excelsior Mouscron
+17/02/2007,3 - 0,Beerschot,RWDM Brussels
+17/02/2007,1 - 3,KSV Roeselare,Sporting Charleroi
+17/02/2007,0 - 2,Sint-Truiden,Westerlo
+17/02/2007,3 - 2,Standard Liège,Lierse
+17/02/2007,3 - 2,Beveren,Lokeren
+16/02/2007,1 - 0,Mons,Club Brugge
+11/02/2007,1 - 0,Sporting Charleroi,Gent
+11/02/2007,2 - 2,Club Brugge,Anderlecht
+10/02/2007,3 - 2,Beerschot,Sint-Truiden
+10/02/2007,4 - 2,Excelsior Mouscron,Beveren
+10/02/2007,3 - 0,Genk,Cercle Brugge
+10/02/2007,1 - 1,Lokeren,KSV Roeselare
+10/02/2007,2 - 1,RWDM Brussels,Lierse
+10/02/2007,2 - 1,Westerlo,Mons
+10/02/2007,3 - 1,Zulte-Waregem,Standard Liège
+04/02/2007,2 - 1,Standard Liège,Genk
+03/02/2007,1 - 0,Anderlecht,Westerlo
+03/02/2007,0 - 0,Cercle Brugge,Sporting Charleroi
+03/02/2007,2 - 1,KSV Roeselare,Excelsior Mouscron
+03/02/2007,1 - 0,Lierse,Zulte-Waregem
+03/02/2007,2 - 1,Mons,Beerschot
+03/02/2007,2 - 2,Sint-Truiden,RWDM Brussels
+03/02/2007,3 - 1,Gent,Lokeren
+02/02/2007,0 - 2,Beveren,Club Brugge
+28/01/2007,1 - 3,Beerschot,Anderlecht
+27/01/2007,0 - 1,Club Brugge,KSV Roeselare
+27/01/2007,3 - 0,Genk,Lierse
+27/01/2007,2 - 0,Lokeren,Cercle Brugge
+27/01/2007,2 - 0,RWDM Brussels,Zulte-Waregem
+27/01/2007,1 - 0,Sint-Truiden,Mons
+27/01/2007,2 - 0,Westerlo,Beveren
+27/01/2007,0 - 3,Excelsior Mouscron,Gent
+26/01/2007,2 - 5,Sporting Charleroi,Standard Liège
+21/01/2007,3 - 1,Standard Liège,Lokeren
+21/01/2007,0 - 0,Gent,Club Brugge
+20/01/2007,2 - 0,Anderlecht,Sint-Truiden
+20/01/2007,1 - 1,Beveren,Beerschot
+20/01/2007,2 - 1,Cercle Brugge,Excelsior Mouscron
+20/01/2007,2 - 0,KSV Roeselare,Westerlo
+20/01/2007,2 - 1,Lierse,Sporting Charleroi
+20/01/2007,1 - 1,Mons,RWDM Brussels
+19/01/2007,2 - 2,Zulte-Waregem,Genk
+17/12/2006,1 - 0,Cercle Brugge,Club Brugge
+17/12/2006,1 - 0,Zulte-Waregem,Sporting Charleroi
+16/12/2006,4 - 1,Anderlecht,Mons
+16/12/2006,1 - 2,Beveren,Sint-Truiden
+16/12/2006,3 - 1,Genk,RWDM Brussels
+16/12/2006,2 - 0,Gent,Westerlo
+16/12/2006,1 - 1,KSV Roeselare,Beerschot
+16/12/2006,1 - 0,Lierse,Lokeren
+15/12/2006,2 - 0,Standard Liège,Excelsior Mouscron
+10/12/2006,4 - 4,Club Brugge,Standard Liège
+10/12/2006,0 - 1,RWDM Brussels,Anderlecht
+09/12/2006,0 - 3,Beerschot,Gent
+09/12/2006,2 - 2,Excelsior Mouscron,Lierse
+09/12/2006,0 - 2,Lokeren,Zulte-Waregem
+09/12/2006,1 - 0,Mons,Beveren
+09/12/2006,1 - 1,Sint-Truiden,KSV Roeselare
+09/12/2006,0 - 0,Westerlo,Cercle Brugge
+08/12/2006,4 - 1,Sporting Charleroi,Genk
+03/12/2006,1 - 2,Lierse,Club Brugge
+02/12/2006,1 - 2,Cercle Brugge,Beerschot
+02/12/2006,1 - 0,Genk,Lokeren
+02/12/2006,3 - 1,Gent,Sint-Truiden
+02/12/2006,2 - 1,KSV Roeselare,Mons
+02/12/2006,0 - 2,RWDM Brussels,Sporting Charleroi
+02/12/2006,3 - 0,Standard Liège,Westerlo
+02/12/2006,0 - 0,Zulte-Waregem,Excelsior Mouscron
+01/12/2006,1 - 1,Beveren,Anderlecht
+26/11/2006,3 - 2,Anderlecht,KSV Roeselare
+26/11/2006,4 - 1,Club Brugge,Zulte-Waregem
+25/11/2006,2 - 2,Beveren,RWDM Brussels
+25/11/2006,2 - 2,Excelsior Mouscron,Genk
+25/11/2006,0 - 0,Lokeren,Sporting Charleroi
+25/11/2006,0 - 1,Mons,Gent
+25/11/2006,2 - 0,Sint-Truiden,Cercle Brugge
+25/11/2006,2 - 0,Westerlo,Lierse
+24/11/2006,1 - 3,Beerschot,Standard Liège
+19/11/2006,0 - 0,Genk,Club Brugge
+19/11/2006,1 - 0,Sporting Charleroi,Excelsior Mouscron
+18/11/2006,3 - 0,Cercle Brugge,Mons
+18/11/2006,2 - 1,Gent,Anderlecht
+18/11/2006,2 - 1,KSV Roeselare,Beveren
+18/11/2006,2 - 3,Lierse,Beerschot
+18/11/2006,0 - 0,RWDM Brussels,Lokeren
+18/11/2006,1 - 2,Standard Liège,Sint-Truiden
+18/11/2006,2 - 2,Zulte-Waregem,Westerlo
+12/11/2006,2 - 3,Mons,Standard Liège
+11/11/2006,2 - 0,Anderlecht,Cercle Brugge
+11/11/2006,1 - 1,Beerschot,Zulte-Waregem
+11/11/2006,1 - 0,Beveren,Gent
+11/11/2006,2 - 0,Club Brugge,Sporting Charleroi
+11/11/2006,1 - 1,Excelsior Mouscron,Lokeren
+11/11/2006,1 - 1,KSV Roeselare,RWDM Brussels
+11/11/2006,4 - 0,Sint-Truiden,Lierse
+10/11/2006,0 - 1,Westerlo,Genk
+05/11/2006,3 - 2,Lokeren,Club Brugge
+05/11/2006,1 - 2,Sporting Charleroi,Westerlo
+05/11/2006,0 - 0,Standard Liège,Anderlecht
+05/11/2006,3 - 0,Zulte-Waregem,Sint-Truiden
+04/11/2006,2 - 2,Cercle Brugge,Beveren
+04/11/2006,2 - 0,Gent,KSV Roeselare
+04/11/2006,0 - 0,Lierse,Mons
+04/11/2006,1 - 1,RWDM Brussels,Excelsior Mouscron
+03/11/2006,4 - 0,Genk,Beerschot
+29/10/2006,1 - 2,Sint-Truiden,Genk
+28/10/2006,2 - 0,Anderlecht,Lierse
+28/10/2006,1 - 1,Beerschot,Sporting Charleroi
+28/10/2006,0 - 3,Beveren,Standard Liège
+28/10/2006,3 - 3,Gent,RWDM Brussels
+28/10/2006,1 - 0,KSV Roeselare,Cercle Brugge
+28/10/2006,0 - 0,Mons,Zulte-Waregem
+28/10/2006,4 - 1,Westerlo,Lokeren
+27/10/2006,5 - 1,Club Brugge,Excelsior Mouscron
+15/10/2006,5 - 1,Genk,Mons
+15/10/2006,1 - 1,RWDM Brussels,Club Brugge
+14/10/2006,0 - 1,Cercle Brugge,Gent
+14/10/2006,4 - 0,Excelsior Mouscron,Westerlo
+14/10/2006,0 - 1,Lierse,Beveren
+14/10/2006,0 - 0,Lokeren,Beerschot
+14/10/2006,2 - 1,Sporting Charleroi,Sint-Truiden
+14/10/2006,2 - 1,Standard Liège,KSV Roeselare
+14/10/2006,0 - 4,Zulte-Waregem,Anderlecht
+01/10/2006,1 - 0,Beveren,Zulte-Waregem
+01/10/2006,2 - 1,Gent,Standard Liège
+01/10/2006,1 - 2,Westerlo,Club Brugge
+30/09/2006,1 - 4,Anderlecht,Genk
+30/09/2006,6 - 2,Beerschot,Excelsior Mouscron
+30/09/2006,1 - 0,Cercle Brugge,RWDM Brussels
+30/09/2006,2 - 0,KSV Roeselare,Lierse
+30/09/2006,1 - 2,Mons,Sporting Charleroi
+30/09/2006,1 - 0,Sint-Truiden,Lokeren
+24/09/2006,4 - 2,Zulte-Waregem,KSV Roeselare
+23/09/2006,1 - 0,Club Brugge,Beerschot
+23/09/2006,1 - 0,Excelsior Mouscron,Sint-Truiden
+23/09/2006,1 - 0,Genk,Beveren
+23/09/2006,1 - 4,Lierse,Gent
+23/09/2006,0 - 2,Lokeren,Mons
+23/09/2006,0 - 1,RWDM Brussels,Westerlo
+23/09/2006,1 - 0,Standard Liège,Cercle Brugge
+22/09/2006,1 - 1,Sporting Charleroi,Anderlecht
+17/09/2006,1 - 1,Gent,Zulte-Waregem
+17/09/2006,3 - 3,KSV Roeselare,Genk
+17/09/2006,2 - 3,Sint-Truiden,Club Brugge
+17/09/2006,2 - 1,Standard Liège,RWDM Brussels
+16/09/2006,2 - 0,Anderlecht,Lokeren
+16/09/2006,0 - 0,Beerschot,Westerlo
+16/09/2006,2 - 2,Beveren,Sporting Charleroi
+16/09/2006,2 - 1,Cercle Brugge,Lierse
+16/09/2006,1 - 0,Mons,Excelsior Mouscron
+10/09/2006,3 - 1,Genk,Gent
+10/09/2006,2 - 0,Lokeren,Beveren
+09/09/2006,0 - 0,Club Brugge,Mons
+09/09/2006,1 - 1,Excelsior Mouscron,Anderlecht
+09/09/2006,1 - 3,Lierse,Standard Liège
+09/09/2006,1 - 2,RWDM Brussels,Beerschot
+09/09/2006,2 - 1,Sporting Charleroi,KSV Roeselare
+09/09/2006,1 - 0,Westerlo,Sint-Truiden
+09/09/2006,1 - 2,Zulte-Waregem,Cercle Brugge
+27/08/2006,1 - 0,Anderlecht,Club Brugge
+27/08/2006,2 - 1,Gent,Sporting Charleroi
+27/08/2006,2 - 2,KSV Roeselare,Lokeren
+26/08/2006,3 - 1,Beveren,Excelsior Mouscron
+26/08/2006,0 - 1,Cercle Brugge,Genk
+26/08/2006,0 - 1,Lierse,RWDM Brussels
+26/08/2006,1 - 1,Mons,Westerlo
+26/08/2006,2 - 0,Sint-Truiden,Beerschot
+26/08/2006,1 - 1,Standard Liège,Zulte-Waregem
+20/08/2006,1 - 1,Lokeren,Gent
+20/08/2006,3 - 4,Westerlo,Anderlecht
+19/08/2006,2 - 1,Beerschot,Mons
+19/08/2006,2 - 0,Club Brugge,Beveren
+19/08/2006,2 - 2,Excelsior Mouscron,KSV Roeselare
+19/08/2006,1 - 1,Genk,Standard Liège
+19/08/2006,2 - 2,RWDM Brussels,Sint-Truiden
+19/08/2006,2 - 1,Sporting Charleroi,Cercle Brugge
+19/08/2006,2 - 1,Zulte-Waregem,Lierse
+06/08/2006,3 - 2,KSV Roeselare,Club Brugge
+05/08/2006,1 - 0,Anderlecht,Beerschot
+05/08/2006,0 - 3,Beveren,Westerlo
+05/08/2006,0 - 0,Cercle Brugge,Lokeren
+05/08/2006,1 - 3,Gent,Excelsior Mouscron
+05/08/2006,0 - 3,Lierse,Genk
+05/08/2006,2 - 0,Mons,Sint-Truiden
+05/08/2006,0 - 1,Zulte-Waregem,RWDM Brussels
+04/08/2006,1 - 2,Standard Liège,Sporting Charleroi
+30/07/2006,2 - 1,Lokeren,Standard Liège
+30/07/2006,2 - 4,Sint-Truiden,Anderlecht
+30/07/2006,2 - 1,Westerlo,KSV Roeselare
+29/07/2006,1 - 0,Beerschot,Beveren
+29/07/2006,2 - 1,Excelsior Mouscron,Cercle Brugge
+29/07/2006,3 - 1,Genk,Zulte-Waregem
+29/07/2006,1 - 0,RWDM Brussels,Mons
+29/07/2006,0 - 0,Sporting Charleroi,Lierse
+28/07/2006,5 - 0,Club Brugge,Gent

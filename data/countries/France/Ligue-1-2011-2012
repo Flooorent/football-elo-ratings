@@ -1,0 +1,381 @@
+date,score,home_team,away_team
+20/05/2012,1 - 2,Auxerre,Montpellier
+20/05/2012,0 - 1,Evian TG,Brest
+20/05/2012,4 - 1,Lille,Nancy
+20/05/2012,1 - 2,Lorient,PSG
+20/05/2012,3 - 4,Olympique Lyonnais,Nice
+20/05/2012,5 - 0,Rennes,Dijon
+20/05/2012,2 - 3,Saint-Étienne,Bordeaux
+20/05/2012,1 - 0,Sochaux,Olympique Marseille
+20/05/2012,0 - 2,Toulouse,Ajaccio
+20/05/2012,3 - 1,Valenciennes,Caen
+13/05/2012,1 - 1,Ajaccio,Olympique Lyonnais
+13/05/2012,1 - 0,Bordeaux,Lorient
+13/05/2012,1 - 0,Brest,Valenciennes
+13/05/2012,1 - 3,Caen,Sochaux
+13/05/2012,1 - 1,Dijon,Toulouse
+13/05/2012,1 - 0,Montpellier,Lille
+13/05/2012,3 - 2,Nancy,Saint-Étienne
+13/05/2012,1 - 1,Nice,Evian TG
+13/05/2012,3 - 0,Olympique Marseille,Auxerre
+13/05/2012,3 - 0,PSG,Rennes
+10/05/2012,1 - 3,Evian TG,Olympique Lyonnais
+07/05/2012,0 - 2,Rennes,Montpellier
+07/05/2012,2 - 4,Auxerre,Bordeaux
+07/05/2012,3 - 0,Lille,Caen
+07/05/2012,0 - 0,Lorient,Dijon
+07/05/2012,0 - 0,Saint-Étienne,Olympique Marseille
+07/05/2012,1 - 0,Sochaux,Nancy
+07/05/2012,0 - 0,Toulouse,Nice
+06/05/2012,3 - 4,Valenciennes,PSG
+06/05/2012,2 - 1,Evian TG,Ajaccio
+06/05/2012,1 - 1,Olympique Lyonnais,Brest
+03/05/2012,0 - 2,Dijon,Auxerre
+02/05/2012,2 - 0,PSG,Saint-Étienne
+02/05/2012,2 - 1,Ajaccio,Sochaux
+02/05/2012,2 - 0,Bordeaux,Rennes
+02/05/2012,0 - 0,Brest,Toulouse
+02/05/2012,1 - 0,Caen,Lorient
+02/05/2012,0 - 1,Nice,Lille
+02/05/2012,4 - 1,Olympique Lyonnais,Valenciennes
+02/05/2012,1 - 0,Olympique Marseille,Nancy
+01/05/2012,2 - 2,Montpellier,Evian TG
+29/04/2012,2 - 1,Lille,PSG
+29/04/2012,4 - 0,Auxerre,Brest
+29/04/2012,1 - 1,Nancy,Caen
+29/04/2012,3 - 1,Rennes,Ajaccio
+29/04/2012,1 - 0,Saint-Étienne,Dijon
+29/04/2012,0 - 3,Sochaux,Bordeaux
+29/04/2012,2 - 0,Valenciennes,Nice
+27/04/2012,2 - 1,Lorient,Olympique Marseille
+27/04/2012,0 - 1,Toulouse,Montpellier
+22/04/2012,3 - 2,Olympique Lyonnais,Lorient
+22/04/2012,0 - 0,Ajaccio,Nancy
+22/04/2012,6 - 1,PSG,Sochaux
+21/04/2012,2 - 1,Bordeaux,Olympique Marseille
+21/04/2012,0 - 1,Brest,Rennes
+21/04/2012,1 - 4,Caen,Saint-Étienne
+21/04/2012,0 - 2,Dijon,Lille
+21/04/2012,2 - 1,Evian TG,Toulouse
+21/04/2012,1 - 0,Montpellier,Valenciennes
+21/04/2012,1 - 0,Nice,Auxerre
+18/04/2012,1 - 1,Olympique Marseille,Caen
+18/04/2012,3 - 0,Toulouse,Olympique Lyonnais
+16/04/2012,3 - 1,Rennes,Nice
+15/04/2012,1 - 1,Auxerre,PSG
+15/04/2012,4 - 1,Lille,Ajaccio
+15/04/2012,2 - 1,Lorient,Montpellier
+15/04/2012,2 - 2,Nancy,Bordeaux
+15/04/2012,2 - 1,Saint-Étienne,Brest
+15/04/2012,1 - 0,Sochaux,Dijon
+15/04/2012,0 - 3,Valenciennes,Evian TG
+11/04/2012,1 - 3,Olympique Marseille,Montpellier
+08/04/2012,2 - 1,PSG,Olympique Marseille
+08/04/2012,1 - 0,Caen,Bordeaux
+08/04/2012,2 - 0,Nice,Lorient
+07/04/2012,2 - 1,Olympique Lyonnais,Auxerre
+07/04/2012,1 - 1,Ajaccio,Saint-Étienne
+07/04/2012,3 - 1,Brest,Lille
+07/04/2012,0 - 2,Dijon,Nancy
+07/04/2012,1 - 3,Evian TG,Rennes
+07/04/2012,2 - 1,Montpellier,Sochaux
+07/04/2012,2 - 0,Valenciennes,Toulouse
+01/04/2012,1 - 1,Rennes,Olympique Lyonnais
+01/04/2012,0 - 0,Caen,Ajaccio
+01/04/2012,2 - 1,Lille,Toulouse
+31/03/2012,2 - 1,Nancy,PSG
+31/03/2012,2 - 0,Auxerre,Valenciennes
+31/03/2012,1 - 1,Bordeaux,Dijon
+31/03/2012,0 - 1,Lorient,Evian TG
+31/03/2012,2 - 3,Saint-Étienne,Nice
+31/03/2012,2 - 1,Sochaux,Brest
+25/03/2012,1 - 1,PSG,Bordeaux
+25/03/2012,2 - 0,Dijon,Caen
+25/03/2012,1 - 0,Toulouse,Auxerre
+24/03/2012,1 - 0,Valenciennes,Rennes
+24/03/2012,1 - 1,Ajaccio,Lorient
+24/03/2012,0 - 1,Brest,Nancy
+24/03/2012,0 - 3,Evian TG,Lille
+24/03/2012,1 - 0,Montpellier,Saint-Étienne
+24/03/2012,1 - 1,Nice,Olympique Marseille
+24/03/2012,2 - 1,Olympique Lyonnais,Sochaux
+18/03/2012,4 - 0,Lille,Valenciennes
+18/03/2012,0 - 1,Rennes,Toulouse
+18/03/2012,2 - 0,Sochaux,Nice
+17/03/2012,0 - 1,Saint-Étienne,Olympique Lyonnais
+17/03/2012,0 - 2,Auxerre,Evian TG
+17/03/2012,1 - 1,Bordeaux,Ajaccio
+17/03/2012,2 - 2,Caen,PSG
+17/03/2012,2 - 1,Lorient,Brest
+17/03/2012,1 - 0,Nancy,Montpellier
+17/03/2012,1 - 2,Olympique Marseille,Dijon
+11/03/2012,3 - 0,Montpellier,Caen
+11/03/2012,1 - 2,Dijon,PSG
+11/03/2012,1 - 1,Rennes,Auxerre
+10/03/2012,2 - 1,Olympique Lyonnais,Lille
+10/03/2012,0 - 2,Brest,Bordeaux
+10/03/2012,2 - 3,Evian TG,Sochaux
+10/03/2012,1 - 1,Nice,Nancy
+10/03/2012,1 - 1,Toulouse,Lorient
+10/03/2012,1 - 2,Valenciennes,Saint-Étienne
+09/03/2012,1 - 0,Ajaccio,Olympique Marseille
+06/03/2012,2 - 0,Evian TG,Olympique Marseille
+04/03/2012,0 - 2,Lorient,Rennes
+04/03/2012,0 - 0,Caen,Brest
+04/03/2012,4 - 1,PSG,Ajaccio
+03/03/2012,1 - 2,Bordeaux,Nice
+03/03/2012,1 - 1,Dijon,Montpellier
+03/03/2012,2 - 2,Lille,Auxerre
+03/03/2012,2 - 0,Nancy,Olympique Lyonnais
+03/03/2012,0 - 1,Olympique Marseille,Toulouse
+03/03/2012,0 - 2,Saint-Étienne,Evian TG
+03/03/2012,1 - 1,Sochaux,Valenciennes
+26/02/2012,1 - 1,Rennes,Lille
+26/02/2012,1 - 0,Brest,Olympique Marseille
+26/02/2012,2 - 0,Toulouse,Sochaux
+25/02/2012,4 - 4,Olympique Lyonnais,PSG
+25/02/2012,2 - 1,Ajaccio,Dijon
+25/02/2012,0 - 0,Auxerre,Saint-Étienne
+25/02/2012,2 - 0,Evian TG,Nancy
+25/02/2012,1 - 0,Montpellier,Bordeaux
+25/02/2012,1 - 0,Nice,Caen
+25/02/2012,2 - 0,Valenciennes,Lorient
+22/02/2012,2 - 1,Caen,Auxerre
+22/02/2012,4 - 2,Saint-Étienne,Lorient
+22/02/2012,0 - 1,Sochaux,Lille
+19/02/2012,2 - 2,PSG,Montpellier
+19/02/2012,1 - 0,Bordeaux,Olympique Lyonnais
+19/02/2012,4 - 0,Saint-Étienne,Rennes
+18/02/2012,1 - 1,Olympique Marseille,Valenciennes
+18/02/2012,0 - 0,Ajaccio,Brest
+18/02/2012,2 - 2,Caen,Evian TG
+18/02/2012,3 - 0,Dijon,Nice
+18/02/2012,0 - 1,Lorient,Lille
+18/02/2012,0 - 3,Nancy,Toulouse
+18/02/2012,0 - 0,Sochaux,Auxerre
+12/02/2012,0 - 1,Toulouse,Saint-Étienne
+12/02/2012,0 - 0,Nice,PSG
+12/02/2012,4 - 5,Lille,Bordeaux
+11/02/2012,1 - 1,Brest,Dijon
+11/02/2012,1 - 0,Rennes,Sochaux
+11/02/2012,1 - 1,Auxerre,Lorient
+11/02/2012,3 - 0,Montpellier,Ajaccio
+11/02/2012,1 - 2,Olympique Lyonnais,Caen
+11/02/2012,1 - 0,Valenciennes,Nancy
+05/02/2012,2 - 2,Olympique Marseille,Olympique Lyonnais
+04/02/2012,2 - 0,Bordeaux,Toulouse
+04/02/2012,1 - 1,Ajaccio,Nice
+04/02/2012,1 - 0,Montpellier,Brest
+04/02/2012,3 - 1,PSG,Evian TG
+04/02/2012,1 - 2,Dijon,Valenciennes
+04/02/2012,0 - 0,Nancy,Rennes
+29/01/2012,1 - 2,Rennes,Olympique Marseille
+29/01/2012,0 - 0,Evian TG,Bordeaux
+29/01/2012,1 - 2,Valenciennes,Ajaccio
+28/01/2012,3 - 0,Lille,Saint-Étienne
+28/01/2012,1 - 3,Auxerre,Nancy
+28/01/2012,0 - 1,Brest,PSG
+28/01/2012,1 - 1,Lorient,Sochaux
+28/01/2012,0 - 1,Nice,Montpellier
+28/01/2012,3 - 1,Olympique Lyonnais,Dijon
+28/01/2012,1 - 0,Toulouse,Caen
+15/01/2012,2 - 0,Olympique Marseille,Lille
+14/01/2012,2 - 1,Ajaccio,Auxerre
+14/01/2012,2 - 1,Bordeaux,Valenciennes
+14/01/2012,1 - 0,Brest,Nice
+14/01/2012,0 - 2,Caen,Rennes
+14/01/2012,3 - 1,Dijon,Evian TG
+14/01/2012,1 - 0,Montpellier,Olympique Lyonnais
+14/01/2012,2 - 2,Nancy,Lorient
+14/01/2012,3 - 1,PSG,Toulouse
+14/01/2012,1 - 0,Saint-Étienne,Sochaux
+21/12/2011,0 - 1,Saint-Étienne,PSG
+21/12/2011,2 - 2,Auxerre,Dijon
+21/12/2011,4 - 2,Evian TG,Montpellier
+21/12/2011,4 - 4,Lille,Nice
+21/12/2011,0 - 0,Lorient,Caen
+21/12/2011,1 - 0,Rennes,Bordeaux
+21/12/2011,0 - 2,Sochaux,Ajaccio
+21/12/2011,0 - 0,Toulouse,Brest
+21/12/2011,1 - 0,Valenciennes,Olympique Lyonnais
+20/12/2011,1 - 3,Nancy,Olympique Marseille
+18/12/2011,0 - 0,PSG,Lille
+18/12/2011,1 - 0,Ajaccio,Rennes
+18/12/2011,1 - 0,Bordeaux,Sochaux
+17/12/2011,2 - 1,Olympique Lyonnais,Evian TG
+17/12/2011,1 - 0,Brest,Auxerre
+17/12/2011,1 - 2,Caen,Nancy
+17/12/2011,1 - 2,Dijon,Saint-Étienne
+17/12/2011,1 - 1,Montpellier,Toulouse
+17/12/2011,2 - 0,Nice,Valenciennes
+17/12/2011,2 - 1,Olympique Marseille,Lorient
+11/12/2011,0 - 1,Lorient,Olympique Lyonnais
+11/12/2011,2 - 1,Auxerre,Nice
+11/12/2011,2 - 0,Lille,Dijon
+10/12/2011,0 - 0,Olympique Marseille,Bordeaux
+10/12/2011,2 - 2,Nancy,Ajaccio
+10/12/2011,1 - 1,Rennes,Brest
+10/12/2011,2 - 0,Saint-Étienne,Caen
+10/12/2011,0 - 1,Sochaux,PSG
+10/12/2011,2 - 1,Toulouse,Evian TG
+10/12/2011,1 - 0,Valenciennes,Montpellier
+04/12/2011,3 - 2,Olympique Lyonnais,Toulouse
+04/12/2011,2 - 0,Bordeaux,Nancy
+04/12/2011,3 - 2,PSG,Auxerre
+03/12/2011,2 - 0,Nice,Rennes
+03/12/2011,2 - 3,Ajaccio,Lille
+03/12/2011,2 - 2,Brest,Saint-Étienne
+03/12/2011,0 - 0,Dijon,Sochaux
+03/12/2011,2 - 1,Evian TG,Valenciennes
+03/12/2011,4 - 0,Montpellier,Lorient
+02/12/2011,1 - 2,Caen,Olympique Marseille
+27/11/2011,3 - 0,Olympique Marseille,PSG
+27/11/2011,0 - 3,Auxerre,Olympique Lyonnais
+27/11/2011,1 - 0,Lorient,Nice
+26/11/2011,2 - 0,Lille,Brest
+26/11/2011,2 - 0,Bordeaux,Caen
+26/11/2011,1 - 2,Nancy,Dijon
+26/11/2011,3 - 2,Rennes,Evian TG
+26/11/2011,3 - 1,Saint-Étienne,Ajaccio
+26/11/2011,1 - 3,Sochaux,Montpellier
+26/11/2011,2 - 0,Toulouse,Valenciennes
+20/11/2011,0 - 1,PSG,Nancy
+20/11/2011,2 - 0,Brest,Sochaux
+20/11/2011,2 - 1,Valenciennes,Auxerre
+19/11/2011,1 - 0,Montpellier,Olympique Marseille
+19/11/2011,2 - 2,Ajaccio,Caen
+19/11/2011,2 - 0,Dijon,Bordeaux
+19/11/2011,2 - 1,Evian TG,Lorient
+19/11/2011,0 - 2,Nice,Saint-Étienne
+18/11/2011,1 - 2,Olympique Lyonnais,Rennes
+18/11/2011,0 - 0,Toulouse,Lille
+06/11/2011,1 - 1,Bordeaux,PSG
+06/11/2011,2 - 0,Auxerre,Toulouse
+06/11/2011,3 - 0,Caen,Dijon
+06/11/2011,2 - 0,Lorient,Ajaccio
+06/11/2011,2 - 1,Nancy,Brest
+06/11/2011,2 - 0,Olympique Marseille,Nice
+06/11/2011,1 - 1,Rennes,Valenciennes
+06/11/2011,1 - 1,Saint-Étienne,Montpellier
+06/11/2011,2 - 1,Sochaux,Olympique Lyonnais
+05/11/2011,1 - 1,Lille,Evian TG
+30/10/2011,0 - 0,Valenciennes,Lille
+30/10/2011,1 - 1,Nice,Sochaux
+30/10/2011,1 - 0,Toulouse,Rennes
+29/10/2011,2 - 0,Olympique Lyonnais,Saint-Étienne
+29/10/2011,0 - 2,Ajaccio,Bordeaux
+29/10/2011,3 - 1,Brest,Lorient
+29/10/2011,2 - 3,Dijon,Olympique Marseille
+29/10/2011,3 - 1,Evian TG,Auxerre
+29/10/2011,2 - 0,Montpellier,Nancy
+29/10/2011,4 - 2,PSG,Caen
+23/10/2011,3 - 1,Lille,Olympique Lyonnais
+23/10/2011,0 - 1,Auxerre,Rennes
+23/10/2011,2 - 0,PSG,Dijon
+22/10/2011,0 - 0,Lorient,Toulouse
+22/10/2011,1 - 1,Bordeaux,Brest
+22/10/2011,1 - 3,Caen,Montpellier
+22/10/2011,1 - 0,Nancy,Nice
+22/10/2011,2 - 0,Olympique Marseille,Ajaccio
+22/10/2011,1 - 0,Saint-Étienne,Valenciennes
+22/10/2011,1 - 1,Sochaux,Evian TG
+16/10/2011,2 - 0,Rennes,Lorient
+16/10/2011,1 - 3,Ajaccio,PSG
+16/10/2011,3 - 0,Valenciennes,Sochaux
+15/10/2011,3 - 0,Nice,Bordeaux
+15/10/2011,1 - 3,Auxerre,Lille
+15/10/2011,1 - 1,Brest,Caen
+15/10/2011,1 - 2,Evian TG,Saint-Étienne
+15/10/2011,5 - 3,Montpellier,Dijon
+15/10/2011,3 - 1,Olympique Lyonnais,Nancy
+15/10/2011,0 - 0,Toulouse,Olympique Marseille
+02/10/2011,2 - 0,PSG,Olympique Lyonnais
+02/10/2011,2 - 0,Lille,Rennes
+02/10/2011,1 - 1,Olympique Marseille,Brest
+01/10/2011,2 - 2,Bordeaux,Montpellier
+01/10/2011,1 - 1,Caen,Nice
+01/10/2011,1 - 1,Dijon,Ajaccio
+01/10/2011,2 - 0,Lorient,Valenciennes
+01/10/2011,1 - 1,Nancy,Evian TG
+01/10/2011,1 - 1,Saint-Étienne,Auxerre
+01/10/2011,3 - 0,Sochaux,Toulouse
+25/09/2011,1 - 1,Rennes,Saint-Étienne
+25/09/2011,4 - 1,Auxerre,Sochaux
+25/09/2011,1 - 1,Brest,Ajaccio
+24/09/2011,0 - 3,Montpellier,PSG
+24/09/2011,2 - 4,Evian TG,Caen
+24/09/2011,1 - 1,Lille,Lorient
+24/09/2011,1 - 1,Nice,Dijon
+24/09/2011,3 - 1,Olympique Lyonnais,Bordeaux
+24/09/2011,1 - 0,Toulouse,Nancy
+24/09/2011,1 - 1,Valenciennes,Olympique Marseille
+21/09/2011,1 - 1,Saint-Étienne,Toulouse
+21/09/2011,1 - 3,Ajaccio,Montpellier
+21/09/2011,1 - 0,Caen,Olympique Lyonnais
+21/09/2011,1 - 0,Dijon,Brest
+21/09/2011,1 - 1,Lorient,Auxerre
+21/09/2011,1 - 1,Nancy,Valenciennes
+21/09/2011,2 - 0,Olympique Marseille,Evian TG
+21/09/2011,2 - 1,PSG,Nice
+21/09/2011,2 - 6,Sochaux,Rennes
+20/09/2011,1 - 1,Bordeaux,Lille
+18/09/2011,2 - 0,Olympique Lyonnais,Olympique Marseille
+18/09/2011,2 - 2,Evian TG,PSG
+18/09/2011,1 - 1,Rennes,Nancy
+17/09/2011,2 - 2,Lille,Sochaux
+17/09/2011,1 - 1,Auxerre,Caen
+17/09/2011,2 - 2,Brest,Montpellier
+17/09/2011,3 - 0,Lorient,Saint-Étienne
+17/09/2011,3 - 0,Nice,Ajaccio
+17/09/2011,3 - 2,Toulouse,Bordeaux
+17/09/2011,4 - 0,Valenciennes,Dijon
+11/09/2011,1 - 0,PSG,Brest
+11/09/2011,1 - 0,Montpellier,Nice
+11/09/2011,0 - 0,Nancy,Auxerre
+10/09/2011,0 - 1,Olympique Marseille,Rennes
+10/09/2011,3 - 1,Ajaccio,Valenciennes
+10/09/2011,0 - 0,Bordeaux,Evian TG
+10/09/2011,0 - 1,Caen,Toulouse
+10/09/2011,1 - 2,Dijon,Olympique Lyonnais
+10/09/2011,1 - 3,Saint-Étienne,Lille
+10/09/2011,1 - 1,Sochaux,Lorient
+28/08/2011,3 - 2,Lille,Olympique Marseille
+28/08/2011,3 - 2,Rennes,Caen
+28/08/2011,2 - 1,Sochaux,Saint-Étienne
+28/08/2011,1 - 3,Toulouse,PSG
+27/08/2011,2 - 1,Olympique Lyonnais,Montpellier
+27/08/2011,4 - 1,Auxerre,Ajaccio
+27/08/2011,0 - 1,Evian TG,Dijon
+27/08/2011,2 - 1,Lorient,Nancy
+27/08/2011,0 - 0,Nice,Brest
+27/08/2011,1 - 2,Valenciennes,Bordeaux
+21/08/2011,0 - 0,Olympique Marseille,Saint-Étienne
+21/08/2011,4 - 0,Montpellier,Rennes
+21/08/2011,1 - 2,Nancy,Sochaux
+21/08/2011,2 - 1,PSG,Valenciennes
+20/08/2011,1 - 1,Ajaccio,Evian TG
+20/08/2011,1 - 1,Bordeaux,Auxerre
+20/08/2011,1 - 1,Brest,Olympique Lyonnais
+20/08/2011,1 - 2,Caen,Lille
+20/08/2011,2 - 0,Dijon,Lorient
+20/08/2011,1 - 1,Nice,Toulouse
+14/08/2011,0 - 1,Lille,Montpellier
+14/08/2011,2 - 2,Auxerre,Olympique Marseille
+14/08/2011,1 - 0,Evian TG,Nice
+13/08/2011,0 - 0,Valenciennes,Brest
+13/08/2011,1 - 1,Lorient,Bordeaux
+13/08/2011,1 - 1,Olympique Lyonnais,Ajaccio
+13/08/2011,1 - 1,Rennes,PSG
+13/08/2011,1 - 0,Saint-Étienne,Nancy
+13/08/2011,1 - 2,Sochaux,Caen
+13/08/2011,2 - 0,Toulouse,Dijon
+07/08/2011,1 - 2,Bordeaux,Saint-Étienne
+07/08/2011,1 - 5,Dijon,Rennes
+06/08/2011,0 - 2,Ajaccio,Toulouse
+06/08/2011,2 - 2,Brest,Evian TG
+06/08/2011,1 - 0,Caen,Valenciennes
+06/08/2011,3 - 1,Montpellier,Auxerre
+06/08/2011,1 - 1,Nancy,Lille
+06/08/2011,1 - 3,Nice,Olympique Lyonnais
+06/08/2011,2 - 2,Olympique Marseille,Sochaux
+06/08/2011,0 - 1,PSG,Lorient

@@ -1,0 +1,381 @@
+date,score,home_team,away_team
+26/05/2007,1 - 1,Lille,Rennes
+26/05/2007,0 - 1,[N] Lorient,PSG
+26/05/2007,2 - 0,[N] Monaco,Nancy
+26/05/2007,3 - 3,[N] Nice,Le Mans
+26/05/2007,3 - 1,[N] Olympique Lyonnais,Nantes
+26/05/2007,1 - 0,[N] Olympique Marseille,Sedan
+26/05/2007,1 - 0,[N] Sochaux,Saint-Étienne
+26/05/2007,3 - 1,[N] Toulouse,Bordeaux
+26/05/2007,3 - 0,[N] Troyes,Lens
+26/05/2007,1 - 3,Valenciennes,Auxerre
+19/05/2007,2 - 1,[N] Auxerre,Lille
+19/05/2007,1 - 1,Le Mans,Bordeaux
+19/05/2007,0 - 0,[N] Lens,Nice
+19/05/2007,1 - 0,[N] Monaco,Olympique Lyonnais
+19/05/2007,5 - 2,[N] Nancy,Sochaux
+19/05/2007,0 - 0,[N] Nantes,Toulouse
+19/05/2007,2 - 1,[N] PSG,Troyes
+19/05/2007,4 - 1,[N] Rennes,Lorient
+19/05/2007,1 - 2,[N] Saint-Étienne,Olympique Marseille
+19/05/2007,1 - 1,[N] Sedan,Valenciennes
+10/05/2007,0 - 1,[N] Toulouse,Le Mans
+09/05/2007,3 - 0,[N] Olympique Lyonnais,Lens
+09/05/2007,0 - 1,[N] Bordeaux,Nantes
+09/05/2007,2 - 1,Lille,Sedan
+09/05/2007,2 - 1,[N] Lorient,Auxerre
+09/05/2007,1 - 0,[N] Nice,PSG
+09/05/2007,2 - 1,[N] Olympique Marseille,Nancy
+09/05/2007,2 - 2,[N] Troyes,Rennes
+09/05/2007,1 - 0,Valenciennes,Saint-Étienne
+09/05/2007,2 - 1,[N] Sochaux,Monaco
+06/05/2007,1 - 2,[N] Monaco,Olympique Marseille
+06/05/2007,2 - 1,[N] Saint-Étienne,Lille
+05/05/2007,1 - 0,[N] Auxerre,Troyes
+05/05/2007,1 - 1,Le Mans,Nantes
+05/05/2007,2 - 0,[N] Lens,Toulouse
+05/05/2007,3 - 0,[N] Nancy,Nice
+05/05/2007,0 - 0,[N] Rennes,Bordeaux
+05/05/2007,3 - 1,[N] Sedan,Lorient
+05/05/2007,1 - 0,[N] Sochaux,Valenciennes
+05/05/2007,1 - 1,[N] PSG,Olympique Lyonnais
+29/04/2007,4 - 2,[N] Olympique Marseille,Sochaux
+29/04/2007,1 - 0,[N] Bordeaux,Lens
+28/04/2007,0 - 1,Lille,Nancy
+28/04/2007,0 - 0,[N] Lorient,Saint-Étienne
+28/04/2007,0 - 2,[N] Nantes,Rennes
+28/04/2007,0 - 0,[N] Nice,Auxerre
+28/04/2007,2 - 1,[N] Olympique Lyonnais,Le Mans
+28/04/2007,3 - 2,[N] Troyes,Sedan
+28/04/2007,2 - 2,Valenciennes,Monaco
+28/04/2007,1 - 3,[N] Toulouse,PSG
+22/04/2007,0 - 2,[N] Saint-Étienne,Bordeaux
+22/04/2007,0 - 0,[N] Auxerre,Olympique Lyonnais
+21/04/2007,2 - 0,[N] Lens,Le Mans
+21/04/2007,3 - 1,[N] Monaco,Lille
+21/04/2007,1 - 0,[N] Nancy,Valenciennes
+21/04/2007,2 - 1,[N] Olympique Marseille,Troyes
+21/04/2007,3 - 2,[N] Rennes,Toulouse
+21/04/2007,1 - 1,[N] Sedan,Nice
+21/04/2007,1 - 1,[N] Sochaux,Lorient
+21/04/2007,4 - 0,[N] PSG,Nantes
+18/04/2007,3 - 0,[N] Bordeaux,Nancy
+18/04/2007,0 - 0,[N] Olympique Lyonnais,Rennes
+15/04/2007,1 - 0,[N] Olympique Lyonnais,Sedan
+15/04/2007,2 - 1,[N] Nice,Saint-Étienne
+14/04/2007,0 - 0,Le Mans,Rennes
+14/04/2007,2 - 0,Lille,Sochaux
+14/04/2007,0 - 0,[N] Lorient,Monaco
+14/04/2007,0 - 0,[N] Nantes,Lens
+14/04/2007,2 - 0,[N] Toulouse,Auxerre
+14/04/2007,0 - 0,[N] Troyes,Nancy
+14/04/2007,0 - 0,Valenciennes,Olympique Marseille
+14/04/2007,0 - 0,[N] Bordeaux,PSG
+08/04/2007,4 - 1,[N] Olympique Marseille,Lille
+08/04/2007,0 - 2,[N] Sedan,Toulouse
+07/04/2007,0 - 0,[N] Auxerre,Bordeaux
+07/04/2007,0 - 0,[N] Monaco,Troyes
+07/04/2007,0 - 1,[N] Nancy,Lorient
+07/04/2007,2 - 1,[N] PSG,Le Mans
+07/04/2007,1 - 0,[N] Rennes,Lens
+07/04/2007,2 - 1,[N] Saint-Étienne,Nantes
+07/04/2007,1 - 1,[N] Sochaux,Nice
+07/04/2007,0 - 0,Valenciennes,Olympique Lyonnais
+01/04/2007,1 - 2,[N] Lens,PSG
+01/04/2007,2 - 2,Le Mans,Auxerre
+01/04/2007,0 - 2,Lille,Valenciennes
+01/04/2007,1 - 1,[N] Nice,Monaco
+01/04/2007,1 - 0,[N] Toulouse,Saint-Étienne
+01/04/2007,0 - 1,[N] Troyes,Sochaux
+01/04/2007,0 - 1,[N] Nantes,Sedan
+31/03/2007,2 - 1,[N] Lorient,Olympique Marseille
+18/03/2007,1 - 0,[N] Rennes,PSG
+18/03/2007,1 - 0,[N] Auxerre,Lens
+17/03/2007,0 - 2,Lille,Le Mans
+17/03/2007,2 - 1,[N] Monaco,Nantes
+17/03/2007,0 - 3,[N] Nancy,Olympique Lyonnais
+17/03/2007,3 - 0,[N] Olympique Marseille,Nice
+17/03/2007,3 - 1,[N] Saint-Étienne,Troyes
+17/03/2007,1 - 1,[N] Sedan,Bordeaux
+17/03/2007,0 - 0,Valenciennes,Lorient
+17/03/2007,4 - 2,[N] Sochaux,Toulouse
+11/03/2007,1 - 1,[N] Olympique Lyonnais,Olympique Marseille
+11/03/2007,1 - 1,[N] Lens,Sedan
+11/03/2007,0 - 1,[N] PSG,Auxerre
+10/03/2007,2 - 0,[N] Bordeaux,Sochaux
+10/03/2007,2 - 1,Le Mans,Saint-Étienne
+10/03/2007,0 - 0,[N] Lorient,Lille
+10/03/2007,2 - 1,[N] Nantes,Nancy
+10/03/2007,1 - 1,[N] Nice,Rennes
+10/03/2007,1 - 3,[N] Troyes,Valenciennes
+10/03/2007,1 - 1,[N] Toulouse,Monaco
+04/03/2007,0 - 1,[N] Olympique Marseille,Lens
+04/03/2007,1 - 2,[N] Sochaux,Nantes
+03/03/2007,1 - 0,[N] Auxerre,Rennes
+03/03/2007,4 - 0,Lille,Troyes
+03/03/2007,0 - 0,[N] Lorient,Nice
+03/03/2007,0 - 0,[N] Monaco,Bordeaux
+03/03/2007,1 - 1,[N] Nancy,Le Mans
+03/03/2007,2 - 0,[N] Sedan,PSG
+03/03/2007,0 - 0,Valenciennes,Toulouse
+03/03/2007,1 - 3,[N] Saint-Étienne,Olympique Lyonnais
+25/02/2007,0 - 2,[N] PSG,Saint-Étienne
+25/02/2007,2 - 1,[N] Bordeaux,Valenciennes
+25/02/2007,2 - 2,[N] Lens,Nancy
+24/02/2007,0 - 2,Le Mans,Monaco
+24/02/2007,1 - 1,[N] Nantes,Auxerre
+24/02/2007,2 - 1,[N] Nice,Lille
+24/02/2007,3 - 3,[N] Olympique Lyonnais,Sochaux
+24/02/2007,0 - 2,[N] Rennes,Sedan
+24/02/2007,3 - 0,[N] Troyes,Lorient
+24/02/2007,3 - 0,[N] Toulouse,Olympique Marseille
+18/02/2007,0 - 0,[N] Olympique Marseille,Nantes
+18/02/2007,0 - 0,[N] Monaco,Lens
+17/02/2007,0 - 1,[N] Lorient,Toulouse
+17/02/2007,0 - 3,[N] Nancy,PSG
+17/02/2007,2 - 2,[N] Sedan,Auxerre
+17/02/2007,2 - 0,[N] Sochaux,Le Mans
+17/02/2007,1 - 0,[N] Troyes,Bordeaux
+17/02/2007,0 - 1,Valenciennes,Nice
+17/02/2007,1 - 3,[N] Saint-Étienne,Rennes
+16/02/2007,1 - 2,Lille,Olympique Lyonnais
+11/02/2007,1 - 0,[N] Bordeaux,Olympique Marseille
+11/02/2007,3 - 1,[N] Lens,Sochaux
+10/02/2007,1 - 1,[N] Auxerre,Saint-Étienne
+10/02/2007,3 - 2,Le Mans,Sedan
+10/02/2007,2 - 5,[N] Nantes,Valenciennes
+10/02/2007,3 - 0,[N] Nice,Troyes
+10/02/2007,1 - 0,[N] Olympique Lyonnais,Lorient
+10/02/2007,1 - 1,[N] Rennes,Nancy
+10/02/2007,1 - 0,[N] Toulouse,Lille
+10/02/2007,4 - 2,[N] PSG,Monaco
+04/02/2007,1 - 1,[N] Olympique Marseille,PSG
+04/02/2007,1 - 0,[N] Troyes,Olympique Lyonnais
+03/02/2007,2 - 1,[N] Lorient,Le Mans
+03/02/2007,2 - 1,[N] Monaco,Auxerre
+03/02/2007,2 - 1,[N] Nancy,Toulouse
+03/02/2007,2 - 1,[N] Nice,Bordeaux
+03/02/2007,1 - 2,[N] Saint-Étienne,Sedan
+03/02/2007,0 - 0,[N] Sochaux,Rennes
+03/02/2007,1 - 3,Valenciennes,Lens
+03/02/2007,0 - 0,Lille,Nantes
+28/01/2007,3 - 3,[N] Lens,Saint-Étienne
+28/01/2007,2 - 0,[N] Auxerre,Nancy
+27/01/2007,0 - 1,[N] Bordeaux,Lille
+27/01/2007,0 - 2,[N] Nantes,Lorient
+27/01/2007,1 - 1,[N] Olympique Lyonnais,Nice
+27/01/2007,0 - 0,[N] PSG,Sochaux
+27/01/2007,1 - 0,[N] Rennes,Valenciennes
+27/01/2007,0 - 1,[N] Sedan,Monaco
+27/01/2007,1 - 1,[N] Toulouse,Troyes
+27/01/2007,2 - 0,Le Mans,Olympique Marseille
+25/01/2007,0 - 2,[N] Nancy,Saint-Étienne
+24/01/2007,1 - 2,[N] Olympique Lyonnais,Bordeaux
+24/01/2007,1 - 0,[N] Lorient,Lens
+24/01/2007,0 - 2,[N] Monaco,Rennes
+24/01/2007,0 - 1,[N] Nice,Toulouse
+24/01/2007,1 - 1,[N] Sochaux,Sedan
+24/01/2007,1 - 0,[N] Troyes,Nantes
+24/01/2007,1 - 1,Valenciennes,Le Mans
+24/01/2007,1 - 0,Lille,PSG
+24/01/2007,3 - 1,[N] Olympique Marseille,Auxerre
+17/01/2007,0 - 0,[N] PSG,Toulouse
+14/01/2007,0 - 2,[N] Rennes,Olympique Marseille
+14/01/2007,0 - 1,[N] Saint-Étienne,Monaco
+13/01/2007,1 - 0,[N] Auxerre,Sochaux
+13/01/2007,1 - 1,[N] Bordeaux,Lorient
+13/01/2007,2 - 0,Le Mans,Troyes
+13/01/2007,1 - 0,[N] Nantes,Nice
+13/01/2007,2 - 2,[N] Sedan,Nancy
+13/01/2007,2 - 0,[N] Toulouse,Olympique Lyonnais
+13/01/2007,1 - 1,[N] Lens,Lille
+13/01/2007,1 - 2,[N] PSG,Valenciennes
+23/12/2006,1 - 0,[N] Bordeaux,Le Mans
+23/12/2006,1 - 1,Lille,Auxerre
+23/12/2006,0 - 0,[N] Lorient,Rennes
+23/12/2006,1 - 2,[N] Nice,Lens
+23/12/2006,0 - 4,[N] Toulouse,Nantes
+23/12/2006,2 - 1,Valenciennes,Sedan
+23/12/2006,0 - 0,[N] Olympique Lyonnais,Monaco
+23/12/2006,2 - 1,[N] Sochaux,Nancy
+23/12/2006,1 - 1,[N] Troyes,PSG
+22/12/2006,2 - 1,[N] Olympique Marseille,Saint-Étienne
+17/12/2006,0 - 4,[N] Lens,Olympique Lyonnais
+17/12/2006,2 - 1,[N] Auxerre,Lorient
+17/12/2006,0 - 0,[N] PSG,Nice
+16/12/2006,2 - 0,Le Mans,Toulouse
+16/12/2006,3 - 0,[N] Monaco,Sochaux
+16/12/2006,0 - 0,[N] Nantes,Bordeaux
+16/12/2006,1 - 1,[N] Rennes,Troyes
+16/12/2006,3 - 0,[N] Saint-Étienne,Valenciennes
+16/12/2006,2 - 0,[N] Sedan,Lille
+16/12/2006,2 - 0,[N] Nancy,Olympique Marseille
+10/12/2006,3 - 1,[N] Olympique Lyonnais,PSG
+10/12/2006,2 - 2,Lille,Saint-Étienne
+09/12/2006,1 - 2,[N] Bordeaux,Rennes
+09/12/2006,2 - 0,[N] Lorient,Sedan
+09/12/2006,0 - 0,[N] Nantes,Le Mans
+09/12/2006,0 - 0,[N] Nice,Nancy
+09/12/2006,2 - 1,[N] Olympique Marseille,Monaco
+09/12/2006,3 - 3,[N] Troyes,Auxerre
+09/12/2006,0 - 0,Valenciennes,Sochaux
+09/12/2006,0 - 1,[N] Toulouse,Lens
+03/12/2006,1 - 3,[N] Nancy,Lille
+03/12/2006,1 - 0,[N] Sochaux,Olympique Marseille
+02/12/2006,0 - 0,[N] Auxerre,Nice
+02/12/2006,3 - 0,[N] Lens,Bordeaux
+02/12/2006,3 - 0,[N] Monaco,Valenciennes
+02/12/2006,2 - 0,[N] Rennes,Nantes
+02/12/2006,2 - 0,[N] Saint-Étienne,Lorient
+02/12/2006,1 - 2,[N] Sedan,Troyes
+02/12/2006,0 - 1,Le Mans,Olympique Lyonnais
+26/11/2006,1 - 0,[N] Olympique Lyonnais,Auxerre
+26/11/2006,1 - 1,Le Mans,Lens
+26/11/2006,1 - 1,[N] Nantes,PSG
+26/11/2006,1 - 0,Valenciennes,Nancy
+25/11/2006,1 - 0,[N] Bordeaux,Saint-Étienne
+25/11/2006,1 - 1,Lille,Monaco
+25/11/2006,1 - 3,[N] Lorient,Sochaux
+25/11/2006,2 - 2,[N] Nice,Sedan
+25/11/2006,1 - 0,[N] Toulouse,Rennes
+25/11/2006,1 - 1,[N] Troyes,Olympique Marseille
+19/11/2006,1 - 0,[N] Olympique Marseille,Valenciennes
+19/11/2006,1 - 0,[N] Auxerre,Toulouse
+18/11/2006,2 - 0,[N] Lens,Nantes
+18/11/2006,2 - 2,[N] Monaco,Lorient
+18/11/2006,1 - 0,[N] Nancy,Troyes
+18/11/2006,0 - 2,[N] PSG,Bordeaux
+18/11/2006,1 - 1,[N] Rennes,Le Mans
+18/11/2006,2 - 1,[N] Saint-Étienne,Nice
+18/11/2006,0 - 1,[N] Sedan,Olympique Lyonnais
+18/11/2006,0 - 0,[N] Sochaux,Lille
+12/11/2006,1 - 0,Lille,Olympique Marseille
+12/11/2006,0 - 4,[N] Troyes,Monaco
+11/11/2006,1 - 1,Le Mans,PSG
+11/11/2006,0 - 0,[N] Lens,Rennes
+11/11/2006,2 - 0,[N] Lorient,Nancy
+11/11/2006,2 - 2,[N] Nantes,Saint-Étienne
+11/11/2006,0 - 0,[N] Nice,Sochaux
+11/11/2006,3 - 1,[N] Toulouse,Sedan
+11/11/2006,0 - 0,[N] Bordeaux,Auxerre
+10/11/2006,2 - 1,[N] Olympique Lyonnais,Valenciennes
+05/11/2006,1 - 3,[N] PSG,Lens
+05/11/2006,2 - 1,[N] Nancy,Bordeaux
+04/11/2006,2 - 3,[N] Auxerre,Le Mans
+04/11/2006,0 - 0,[N] Monaco,Nice
+04/11/2006,0 - 1,[N] Olympique Marseille,Lorient
+04/11/2006,3 - 0,[N] Saint-Étienne,Toulouse
+04/11/2006,1 - 1,[N] Sedan,Nantes
+04/11/2006,1 - 0,[N] Sochaux,Troyes
+04/11/2006,0 - 3,Valenciennes,Lille
+04/11/2006,1 - 0,[N] Rennes,Olympique Lyonnais
+29/10/2006,1 - 0,[N] Olympique Lyonnais,Nancy
+29/10/2006,2 - 1,[N] Nice,Olympique Marseille
+28/10/2006,3 - 1,[N] Bordeaux,Sedan
+28/10/2006,1 - 1,Le Mans,Lille
+28/10/2006,1 - 0,[N] Lorient,Valenciennes
+28/10/2006,1 - 0,[N] Nantes,Monaco
+28/10/2006,1 - 0,[N] PSG,Rennes
+28/10/2006,1 - 2,[N] Toulouse,Sochaux
+28/10/2006,3 - 1,[N] Troyes,Saint-Étienne
+28/10/2006,1 - 0,[N] Lens,Auxerre
+22/10/2006,1 - 4,[N] Olympique Marseille,Olympique Lyonnais
+22/10/2006,0 - 0,[N] Auxerre,PSG
+21/10/2006,1 - 3,[N] Monaco,Toulouse
+21/10/2006,1 - 0,[N] Nancy,Nantes
+21/10/2006,1 - 0,[N] Rennes,Nice
+21/10/2006,2 - 0,[N] Saint-Étienne,Le Mans
+21/10/2006,2 - 2,[N] Sedan,Lens
+21/10/2006,2 - 1,[N] Sochaux,Bordeaux
+21/10/2006,3 - 1,Valenciennes,Troyes
+21/10/2006,1 - 0,Lille,Lorient
+15/10/2006,1 - 1,[N] Lens,Olympique Marseille
+15/10/2006,0 - 0,Le Mans,Nancy
+14/10/2006,1 - 0,[N] Bordeaux,Monaco
+14/10/2006,0 - 2,[N] Nantes,Sochaux
+14/10/2006,3 - 0,[N] Nice,Lorient
+14/10/2006,4 - 2,[N] PSG,Sedan
+14/10/2006,3 - 1,[N] Rennes,Auxerre
+14/10/2006,3 - 0,[N] Toulouse,Valenciennes
+14/10/2006,1 - 1,[N] Troyes,Lille
+14/10/2006,2 - 1,[N] Olympique Lyonnais,Saint-Étienne
+01/10/2006,1 - 0,[N] Saint-Étienne,PSG
+01/10/2006,1 - 0,[N] Auxerre,Nantes
+01/10/2006,2 - 1,[N] Nancy,Lens
+01/10/2006,3 - 0,[N] Olympique Marseille,Toulouse
+30/09/2006,1 - 0,Lille,Nice
+30/09/2006,0 - 0,[N] Lorient,Troyes
+30/09/2006,2 - 1,[N] Monaco,Le Mans
+30/09/2006,1 - 0,[N] Sedan,Rennes
+30/09/2006,2 - 0,Valenciennes,Bordeaux
+30/09/2006,0 - 1,[N] Sochaux,Olympique Lyonnais
+24/09/2006,1 - 0,[N] Lens,Monaco
+24/09/2006,2 - 1,[N] Nantes,Olympique Marseille
+23/09/2006,2 - 2,[N] Auxerre,Sedan
+23/09/2006,2 - 1,[N] Bordeaux,Troyes
+23/09/2006,2 - 2,Le Mans,Sochaux
+23/09/2006,2 - 0,[N] Nice,Valenciennes
+23/09/2006,0 - 0,[N] PSG,Nancy
+23/09/2006,0 - 0,[N] Rennes,Saint-Étienne
+23/09/2006,0 - 0,[N] Toulouse,Lorient
+23/09/2006,4 - 1,[N] Olympique Lyonnais,Lille
+17/09/2006,2 - 1,[N] Olympique Marseille,Bordeaux
+17/09/2006,1 - 2,[N] Monaco,PSG
+17/09/2006,0 - 0,[N] Nancy,Rennes
+17/09/2006,2 - 3,[N] Saint-Étienne,Auxerre
+17/09/2006,0 - 3,[N] Sochaux,Lens
+16/09/2006,1 - 3,Lille,Toulouse
+16/09/2006,1 - 3,[N] Lorient,Olympique Lyonnais
+16/09/2006,2 - 0,[N] Troyes,Nice
+16/09/2006,1 - 0,Valenciennes,Nantes
+16/09/2006,1 - 2,[N] Sedan,Le Mans
+10/09/2006,1 - 3,[N] PSG,Olympique Marseille
+10/09/2006,2 - 2,[N] Toulouse,Nancy
+09/09/2006,2 - 1,[N] Auxerre,Monaco
+09/09/2006,1 - 1,Le Mans,Lorient
+09/09/2006,3 - 0,[N] Lens,Valenciennes
+09/09/2006,1 - 1,[N] Nantes,Lille
+09/09/2006,2 - 0,[N] Olympique Lyonnais,Troyes
+09/09/2006,2 - 1,[N] Rennes,Sochaux
+09/09/2006,2 - 2,[N] Sedan,Saint-Étienne
+09/09/2006,3 - 2,[N] Bordeaux,Nice
+27/08/2006,3 - 2,[N] Saint-Étienne,Lens
+27/08/2006,2 - 1,[N] Monaco,Sedan
+27/08/2006,1 - 0,[N] Nancy,Auxerre
+27/08/2006,2 - 0,[N] Olympique Marseille,Le Mans
+27/08/2006,3 - 1,Valenciennes,Rennes
+26/08/2006,3 - 0,Lille,Bordeaux
+26/08/2006,3 - 1,[N] Lorient,Nantes
+26/08/2006,3 - 2,[N] Sochaux,PSG
+26/08/2006,1 - 2,[N] Troyes,Toulouse
+26/08/2006,1 - 4,[N] Nice,Olympique Lyonnais
+20/08/2006,1 - 2,[N] Bordeaux,Olympique Lyonnais
+20/08/2006,1 - 0,[N] Toulouse,Nice
+19/08/2006,3 - 2,Le Mans,Valenciennes
+19/08/2006,1 - 1,[N] Lens,Lorient
+19/08/2006,1 - 1,[N] Nantes,Troyes
+19/08/2006,1 - 0,[N] PSG,Lille
+19/08/2006,1 - 1,[N] Rennes,Monaco
+19/08/2006,1 - 0,[N] Saint-Étienne,Nancy
+19/08/2006,1 - 1,[N] Sedan,Sochaux
+19/08/2006,0 - 3,[N] Auxerre,Olympique Marseille
+13/08/2006,2 - 0,[N] Olympique Marseille,Rennes
+13/08/2006,4 - 0,Lille,Lens
+12/08/2006,1 - 2,[N] Monaco,Saint-Étienne
+12/08/2006,3 - 1,[N] Nancy,Sedan
+12/08/2006,1 - 1,[N] Nice,Nantes
+12/08/2006,1 - 1,[N] Olympique Lyonnais,Toulouse
+12/08/2006,1 - 1,[N] Sochaux,Auxerre
+12/08/2006,2 - 2,[N] Troyes,Le Mans
+12/08/2006,0 - 0,Valenciennes,PSG
+12/08/2006,0 - 1,[N] Lorient,Bordeaux
+06/08/2006,0 - 0,[N] Sedan,Olympique Marseille
+05/08/2006,1 - 1,[N] Auxerre,Valenciennes
+05/08/2006,2 - 0,[N] Bordeaux,Toulouse
+05/08/2006,1 - 0,Le Mans,Nice
+05/08/2006,1 - 0,[N] Lens,Troyes
+05/08/2006,1 - 0,[N] Nancy,Monaco
+05/08/2006,2 - 3,[N] PSG,Lorient
+05/08/2006,1 - 2,[N] Rennes,Lille
+05/08/2006,1 - 2,[N] Saint-Étienne,Sochaux
+04/08/2006,1 - 3,[N] Nantes,Olympique Lyonnais

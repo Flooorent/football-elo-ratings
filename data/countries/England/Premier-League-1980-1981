@@ -1,0 +1,463 @@
+date,score,home_team,away_team
+19/05/1981,1 - 0,Liverpool,Manchester City
+13/05/1981,2 - 3,Ipswich Town,Southampton
+06/05/1981,0 - 0,Leeds United,West Bromwich Albion
+05/05/1981,1 - 2,Middlesbrough,Liverpool
+04/05/1981,0 - 0,Wolverhampton Wanderers,Everton
+02/05/1981,2 - 0,Arsenal,Aston Villa
+02/05/1981,1 - 1,Birmingham City,Everton
+02/05/1981,2 - 0,Brighton & Hove Albion,Leeds United
+02/05/1981,0 - 1,Liverpool,Sunderland
+02/05/1981,1 - 1,Manchester City,Crystal Palace
+02/05/1981,2 - 1,Middlesbrough,Ipswich Town
+02/05/1981,2 - 3,Norwich City,Leicester City
+02/05/1981,1 - 1,Nottingham Forest,Coventry City
+02/05/1981,3 - 2,Stoke City,Wolverhampton Wanderers
+02/05/1981,4 - 2,West Bromwich Albion,Tottenham Hotspur
+30/04/1981,1 - 0,Wolverhampton Wanderers,Tottenham Hotspur
+25/04/1981,3 - 0,Aston Villa,Middlesbrough
+25/04/1981,1 - 0,Coventry City,Southampton
+25/04/1981,1 - 3,Crystal Palace,Nottingham Forest
+25/04/1981,0 - 1,Everton,Stoke City
+25/04/1981,1 - 0,Ipswich Town,Manchester City
+25/04/1981,1 - 0,Leicester City,Birmingham City
+25/04/1981,1 - 0,Manchester United,Norwich City
+25/04/1981,1 - 2,Sunderland,Brighton & Hove Albion
+25/04/1981,1 - 1,Tottenham Hotspur,Liverpool
+25/04/1981,1 - 2,Wolverhampton Wanderers,Arsenal
+21/04/1981,0 - 2,Birmingham City,Leeds United
+21/04/1981,0 - 1,Middlesbrough,Coventry City
+20/04/1981,3 - 2,Arsenal,Crystal Palace
+20/04/1981,2 - 1,Brighton & Hove Albion,Leicester City
+20/04/1981,3 - 1,Manchester City,Everton
+20/04/1981,1 - 0,Norwich City,Ipswich Town
+20/04/1981,1 - 0,Nottingham Forest,Wolverhampton Wanderers
+20/04/1981,1 - 1,Southampton,Tottenham Hotspur
+20/04/1981,1 - 1,Stoke City,Aston Villa
+20/04/1981,2 - 1,West Bromwich Albion,Sunderland
+18/04/1981,2 - 0,Aston Villa,Nottingham Forest
+18/04/1981,2 - 2,Coventry City,Stoke City
+18/04/1981,0 - 3,Crystal Palace,Brighton & Hove Albion
+18/04/1981,4 - 1,Everton,Middlesbrough
+18/04/1981,0 - 2,Ipswich Town,Arsenal
+18/04/1981,0 - 0,Leeds United,Liverpool
+18/04/1981,2 - 2,Leicester City,Southampton
+18/04/1981,2 - 1,Manchester United,West Bromwich Albion
+18/04/1981,3 - 0,Sunderland,Birmingham City
+18/04/1981,2 - 3,Tottenham Hotspur,Norwich City
+18/04/1981,1 - 3,Wolverhampton Wanderers,Manchester City
+14/04/1981,1 - 2,Aston Villa,Ipswich Town
+14/04/1981,0 - 1,Liverpool,Manchester United
+11/04/1981,0 - 0,Arsenal,Leeds United
+11/04/1981,0 - 2,Coventry City,Manchester United
+11/04/1981,3 - 1,Crystal Palace,Birmingham City
+11/04/1981,0 - 2,Everton,Norwich City
+11/04/1981,1 - 0,Middlesbrough,Brighton & Hove Albion
+11/04/1981,0 - 0,Nottingham Forest,Liverpool
+11/04/1981,2 - 0,Stoke City,Sunderland
+08/04/1981,1 - 0,Aston Villa,West Bromwich Albion
+04/04/1981,2 - 1,Birmingham City,Middlesbrough
+04/04/1981,0 - 1,Brighton & Hove Albion,Arsenal
+04/04/1981,3 - 0,Leeds United,Coventry City
+04/04/1981,2 - 4,Leicester City,Aston Villa
+04/04/1981,1 - 0,Manchester United,Crystal Palace
+04/04/1981,2 - 0,Norwich City,Manchester City
+04/04/1981,2 - 0,Southampton,Nottingham Forest
+04/04/1981,0 - 1,Sunderland,Wolverhampton Wanderers
+04/04/1981,2 - 2,Tottenham Hotspur,Everton
+04/04/1981,3 - 1,West Bromwich Albion,Ipswich Town
+03/04/1981,3 - 0,Liverpool,Stoke City
+31/03/1981,2 - 1,Arsenal,Birmingham City
+31/03/1981,3 - 0,Leeds United,Ipswich Town
+31/03/1981,3 - 3,Manchester City,Leicester City
+31/03/1981,2 - 0,West Bromwich Albion,Everton
+28/03/1981,1 - 0,Arsenal,Liverpool
+28/03/1981,2 - 1,Aston Villa,Southampton
+28/03/1981,0 - 1,Coventry City,Tottenham Hotspur
+28/03/1981,0 - 1,Crystal Palace,Leeds United
+28/03/1981,0 - 1,Everton,Manchester United
+28/03/1981,4 - 1,Ipswich Town,Sunderland
+28/03/1981,1 - 1,Manchester City,Brighton & Hove Albion
+28/03/1981,2 - 1,Middlesbrough,West Bromwich Albion
+28/03/1981,2 - 1,Nottingham Forest,Norwich City
+28/03/1981,0 - 0,Stoke City,Birmingham City
+28/03/1981,0 - 1,Wolverhampton Wanderers,Leicester City
+21/03/1981,2 - 0,Birmingham City,Manchester City
+21/03/1981,1 - 1,Brighton & Hove Albion,Stoke City
+21/03/1981,1 - 3,Leeds United,Wolverhampton Wanderers
+21/03/1981,1 - 1,Leicester City,Crystal Palace
+21/03/1981,1 - 0,Liverpool,Everton
+21/03/1981,2 - 1,Manchester United,Ipswich Town
+21/03/1981,1 - 1,Norwich City,Arsenal
+21/03/1981,1 - 0,Southampton,Middlesbrough
+21/03/1981,3 - 0,Sunderland,Coventry City
+21/03/1981,2 - 0,Tottenham Hotspur,Aston Villa
+21/03/1981,2 - 1,West Bromwich Albion,Nottingham Forest
+18/03/1981,1 - 1,Manchester United,Nottingham Forest
+18/03/1981,2 - 1,Stoke City,Manchester City
+17/03/1981,1 - 0,Birmingham City,Wolverhampton Wanderers
+17/03/1981,2 - 0,Norwich City,Middlesbrough
+17/03/1981,3 - 0,Southampton,Everton
+14/03/1981,3 - 3,Aston Villa,Manchester United
+14/03/1981,4 - 1,Coventry City,Leicester City
+14/03/1981,0 - 1,Crystal Palace,Sunderland
+14/03/1981,1 - 2,Everton,Leeds United
+14/03/1981,3 - 0,Ipswich Town,Tottenham Hotspur
+14/03/1981,2 - 1,Manchester City,West Bromwich Albion
+14/03/1981,4 - 1,Nottingham Forest,Brighton & Hove Albion
+14/03/1981,1 - 2,Stoke City,Southampton
+14/03/1981,3 - 0,Wolverhampton Wanderers,Norwich City
+11/03/1981,2 - 2,Tottenham Hotspur,Stoke City
+07/03/1981,4 - 1,Brighton & Hove Albion,Coventry City
+07/03/1981,1 - 0,Leicester City,Arsenal
+07/03/1981,1 - 0,Southampton,Manchester United
+07/03/1981,1 - 2,Sunderland,Aston Villa
+07/03/1981,1 - 0,West Bromwich Albion,Crystal Palace
+03/03/1981,1 - 0,Nottingham Forest,Middlesbrough
+28/02/1981,2 - 2,Arsenal,Middlesbrough
+28/02/1981,0 - 4,Coventry City,Ipswich Town
+28/02/1981,2 - 3,Crystal Palace,Everton
+28/02/1981,1 - 1,Leicester City,Nottingham Forest
+28/02/1981,2 - 0,Liverpool,Southampton
+28/02/1981,0 - 1,Manchester United,Leeds United
+28/02/1981,3 - 1,Norwich City,Brighton & Hove Albion
+28/02/1981,1 - 1,Sunderland,Tottenham Hotspur
+28/02/1981,2 - 2,West Bromwich Albion,Birmingham City
+28/02/1981,0 - 1,Wolverhampton Wanderers,Aston Villa
+24/02/1981,2 - 0,Arsenal,Manchester City
+24/02/1981,2 - 0,Brighton & Hove Albion,Southampton
+21/02/1981,2 - 1,Aston Villa,Crystal Palace
+21/02/1981,2 - 2,Brighton & Hove Albion,Liverpool
+21/02/1981,3 - 0,Everton,Coventry City
+21/02/1981,3 - 1,Ipswich Town,Wolverhampton Wanderers
+21/02/1981,1 - 0,Leeds United,Sunderland
+21/02/1981,1 - 0,Manchester City,Manchester United
+21/02/1981,3 - 1,Middlesbrough,Stoke City
+21/02/1981,3 - 1,Nottingham Forest,Arsenal
+21/02/1981,2 - 2,Southampton,West Bromwich Albion
+21/02/1981,1 - 2,Tottenham Hotspur,Leicester City
+20/02/1981,4 - 0,Birmingham City,Norwich City
+18/02/1981,1 - 2,Stoke City,Nottingham Forest
+17/02/1981,0 - 3,Crystal Palace,Coventry City
+17/02/1981,1 - 0,Ipswich Town,Middlesbrough
+17/02/1981,0 - 0,Manchester United,Tottenham Hotspur
+14/02/1981,1 - 3,Leeds United,Stoke City
+14/02/1981,2 - 2,Liverpool,Birmingham City
+14/02/1981,0 - 2,Norwich City,West Bromwich Albion
+14/02/1981,1 - 0,Sunderland,Leicester City
+07/02/1981,2 - 1,Birmingham City,Brighton & Hove Albion
+07/02/1981,2 - 2,Coventry City,Wolverhampton Wanderers
+07/02/1981,1 - 3,Everton,Aston Villa
+07/02/1981,3 - 2,Ipswich Town,Crystal Palace
+07/02/1981,1 - 0,Leicester City,Manchester United
+07/02/1981,1 - 1,Manchester City,Nottingham Forest
+07/02/1981,1 - 0,Middlesbrough,Sunderland
+07/02/1981,2 - 1,Southampton,Norwich City
+07/02/1981,1 - 1,Stoke City,Arsenal
+07/02/1981,1 - 1,Tottenham Hotspur,Leeds United
+07/02/1981,2 - 0,West Bromwich Albion,Liverpool
+31/01/1981,2 - 2,Arsenal,Coventry City
+31/01/1981,1 - 0,Aston Villa,Manchester City
+31/01/1981,0 - 2,Brighton & Hove Albion,Tottenham Hotspur
+31/01/1981,4 - 0,Ipswich Town,Stoke City
+31/01/1981,1 - 0,Leeds United,Norwich City
+31/01/1981,1 - 2,Liverpool,Leicester City
+31/01/1981,2 - 0,Manchester United,Birmingham City
+31/01/1981,2 - 0,Middlesbrough,Crystal Palace
+31/01/1981,1 - 0,Nottingham Forest,Everton
+31/01/1981,2 - 1,Southampton,Sunderland
+31/01/1981,2 - 0,Wolverhampton Wanderers,West Bromwich Albion
+28/01/1981,2 - 0,Sunderland,Manchester United
+17/01/1981,0 - 3,Birmingham City,Southampton
+17/01/1981,1 - 2,Coventry City,Aston Villa
+17/01/1981,0 - 0,Crystal Palace,Wolverhampton Wanderers
+17/01/1981,0 - 0,Everton,Ipswich Town
+17/01/1981,0 - 1,Leicester City,Leeds United
+17/01/1981,3 - 2,Manchester City,Middlesbrough
+17/01/1981,0 - 1,Norwich City,Liverpool
+17/01/1981,2 - 0,Tottenham Hotspur,Arsenal
+17/01/1981,2 - 0,West Bromwich Albion,Brighton & Hove Albion
+13/01/1981,5 - 1,Ipswich Town,Birmingham City
+10/01/1981,2 - 0,Aston Villa,Liverpool
+10/01/1981,1 - 1,Coventry City,Manchester City
+10/01/1981,1 - 1,Crystal Palace,Stoke City
+10/01/1981,1 - 2,Everton,Arsenal
+10/01/1981,2 - 0,Ipswich Town,Nottingham Forest
+10/01/1981,0 - 3,Leeds United,Southampton
+10/01/1981,0 - 2,Leicester City,West Bromwich Albion
+10/01/1981,2 - 1,Manchester United,Brighton & Hove Albion
+10/01/1981,3 - 0,Sunderland,Norwich City
+10/01/1981,1 - 0,Tottenham Hotspur,Birmingham City
+10/01/1981,3 - 0,Wolverhampton Wanderers,Middlesbrough
+27/12/1980,1 - 1,Arsenal,Ipswich Town
+27/12/1980,3 - 2,Birmingham City,Sunderland
+27/12/1980,3 - 2,Brighton & Hove Albion,Crystal Palace
+27/12/1980,0 - 0,Liverpool,Leeds United
+27/12/1980,4 - 0,Manchester City,Wolverhampton Wanderers
+27/12/1980,1 - 0,Middlesbrough,Everton
+27/12/1980,2 - 2,Norwich City,Tottenham Hotspur
+27/12/1980,2 - 2,Nottingham Forest,Aston Villa
+27/12/1980,4 - 0,Southampton,Leicester City
+27/12/1980,2 - 2,Stoke City,Coventry City
+27/12/1980,3 - 1,West Bromwich Albion,Manchester United
+26/12/1980,1 - 0,Aston Villa,Stoke City
+26/12/1980,1 - 0,Coventry City,Middlesbrough
+26/12/1980,2 - 2,Crystal Palace,Arsenal
+26/12/1980,0 - 2,Everton,Manchester City
+26/12/1980,2 - 0,Ipswich Town,Norwich City
+26/12/1980,0 - 0,Leeds United,Birmingham City
+26/12/1980,0 - 1,Leicester City,Brighton & Hove Albion
+26/12/1980,0 - 0,Manchester United,Liverpool
+26/12/1980,0 - 0,Sunderland,West Bromwich Albion
+26/12/1980,4 - 4,Tottenham Hotspur,Southampton
+26/12/1980,1 - 4,Wolverhampton Wanderers,Nottingham Forest
+20/12/1980,2 - 1,Arsenal,Manchester United
+20/12/1980,1 - 3,Birmingham City,Ipswich Town
+20/12/1980,1 - 0,Brighton & Hove Albion,Aston Villa
+20/12/1980,1 - 0,Liverpool,Wolverhampton Wanderers
+20/12/1980,1 - 0,Manchester City,Leeds United
+20/12/1980,4 - 1,Middlesbrough,Tottenham Hotspur
+20/12/1980,2 - 0,Norwich City,Coventry City
+20/12/1980,3 - 1,Nottingham Forest,Sunderland
+20/12/1980,4 - 2,Southampton,Crystal Palace
+20/12/1980,1 - 0,Stoke City,Leicester City
+17/12/1980,5 - 3,Tottenham Hotspur,Ipswich Town
+13/12/1980,3 - 0,Aston Villa,Birmingham City
+13/12/1980,3 - 0,Coventry City,West Bromwich Albion
+13/12/1980,4 - 1,Crystal Palace,Norwich City
+13/12/1980,4 - 3,Everton,Brighton & Hove Albion
+13/12/1980,1 - 1,Ipswich Town,Liverpool
+13/12/1980,1 - 0,Leeds United,Nottingham Forest
+13/12/1980,1 - 0,Leicester City,Middlesbrough
+13/12/1980,2 - 2,Manchester United,Stoke City
+13/12/1980,2 - 0,Sunderland,Arsenal
+13/12/1980,2 - 1,Tottenham Hotspur,Manchester City
+13/12/1980,1 - 1,Wolverhampton Wanderers,Southampton
+06/12/1980,1 - 1,Arsenal,Wolverhampton Wanderers
+06/12/1980,1 - 2,Birmingham City,Leicester City
+06/12/1980,2 - 1,Brighton & Hove Albion,Sunderland
+06/12/1980,2 - 1,Liverpool,Tottenham Hotspur
+06/12/1980,1 - 1,Manchester City,Ipswich Town
+06/12/1980,2 - 1,Middlesbrough,Aston Villa
+06/12/1980,2 - 2,Norwich City,Manchester United
+06/12/1980,3 - 0,Nottingham Forest,Crystal Palace
+06/12/1980,1 - 0,Southampton,Coventry City
+06/12/1980,2 - 2,Stoke City,Everton
+06/12/1980,1 - 2,West Bromwich Albion,Leeds United
+29/11/1980,1 - 1,Aston Villa,Arsenal
+29/11/1980,1 - 1,Coventry City,Nottingham Forest
+29/11/1980,2 - 3,Crystal Palace,Manchester City
+29/11/1980,1 - 1,Everton,Birmingham City
+29/11/1980,1 - 0,Leeds United,Brighton & Hove Albion
+29/11/1980,1 - 2,Leicester City,Norwich City
+29/11/1980,1 - 1,Manchester United,Southampton
+29/11/1980,2 - 4,Sunderland,Liverpool
+29/11/1980,2 - 3,Tottenham Hotspur,West Bromwich Albion
+29/11/1980,1 - 0,Wolverhampton Wanderers,Stoke City
+25/11/1980,0 - 0,West Bromwich Albion,Stoke City
+25/11/1980,4 - 1,Wolverhampton Wanderers,Liverpool
+22/11/1980,2 - 1,Arsenal,Everton
+22/11/1980,2 - 1,Birmingham City,Tottenham Hotspur
+22/11/1980,1 - 4,Brighton & Hove Albion,Manchester United
+22/11/1980,2 - 1,Liverpool,Aston Villa
+22/11/1980,3 - 0,Manchester City,Coventry City
+22/11/1980,2 - 0,Middlesbrough,Wolverhampton Wanderers
+22/11/1980,1 - 0,Norwich City,Sunderland
+22/11/1980,1 - 2,Nottingham Forest,Ipswich Town
+22/11/1980,2 - 1,Southampton,Leeds United
+22/11/1980,1 - 0,Stoke City,Crystal Palace
+22/11/1980,3 - 1,West Bromwich Albion,Leicester City
+15/11/1980,2 - 2,Arsenal,West Bromwich Albion
+15/11/1980,1 - 1,Aston Villa,Leeds United
+15/11/1980,2 - 1,Coventry City,Birmingham City
+15/11/1980,2 - 2,Crystal Palace,Liverpool
+15/11/1980,2 - 1,Everton,Sunderland
+15/11/1980,3 - 1,Ipswich Town,Leicester City
+15/11/1980,3 - 0,Manchester City,Southampton
+15/11/1980,1 - 1,Middlesbrough,Manchester United
+15/11/1980,0 - 3,Nottingham Forest,Tottenham Hotspur
+15/11/1980,3 - 1,Stoke City,Norwich City
+15/11/1980,0 - 2,Wolverhampton Wanderers,Brighton & Hove Albion
+12/11/1980,2 - 1,Leeds United,Middlesbrough
+12/11/1980,0 - 1,Leicester City,Everton
+12/11/1980,0 - 0,Manchester United,Wolverhampton Wanderers
+12/11/1980,1 - 3,Norwich City,Aston Villa
+12/11/1980,2 - 0,Sunderland,Manchester City
+12/11/1980,4 - 2,Tottenham Hotspur,Crystal Palace
+11/11/1980,2 - 0,Birmingham City,Nottingham Forest
+11/11/1980,1 - 0,Brighton & Hove Albion,Ipswich Town
+11/11/1980,2 - 1,Liverpool,Coventry City
+11/11/1980,3 - 1,Southampton,Arsenal
+08/11/1980,1 - 0,Birmingham City,Crystal Palace
+08/11/1980,0 - 1,Brighton & Hove Albion,Middlesbrough
+08/11/1980,0 - 5,Leeds United,Arsenal
+08/11/1980,1 - 1,Leicester City,Manchester City
+08/11/1980,0 - 0,Liverpool,Nottingham Forest
+08/11/1980,0 - 0,Manchester United,Coventry City
+08/11/1980,2 - 1,Norwich City,Everton
+08/11/1980,3 - 3,Southampton,Ipswich Town
+08/11/1980,0 - 0,Sunderland,Stoke City
+08/11/1980,2 - 2,Tottenham Hotspur,Wolverhampton Wanderers
+08/11/1980,0 - 0,West Bromwich Albion,Aston Villa
+01/11/1980,2 - 0,Arsenal,Brighton & Hove Albion
+01/11/1980,2 - 0,Aston Villa,Leicester City
+01/11/1980,2 - 1,Coventry City,Leeds United
+01/11/1980,1 - 0,Crystal Palace,Manchester United
+01/11/1980,2 - 2,Everton,Tottenham Hotspur
+01/11/1980,0 - 0,Ipswich Town,West Bromwich Albion
+01/11/1980,1 - 0,Manchester City,Norwich City
+01/11/1980,1 - 2,Middlesbrough,Birmingham City
+01/11/1980,2 - 1,Nottingham Forest,Southampton
+01/11/1980,2 - 2,Stoke City,Liverpool
+01/11/1980,2 - 1,Wolverhampton Wanderers,Sunderland
+29/10/1980,1 - 1,Norwich City,Crystal Palace
+25/10/1980,1 - 1,Birmingham City,Stoke City
+25/10/1980,1 - 2,Brighton & Hove Albion,Manchester City
+25/10/1980,1 - 0,Leeds United,Crystal Palace
+25/10/1980,2 - 0,Leicester City,Wolverhampton Wanderers
+25/10/1980,1 - 1,Liverpool,Arsenal
+25/10/1980,2 - 0,Manchester United,Everton
+25/10/1980,1 - 1,Norwich City,Nottingham Forest
+25/10/1980,1 - 2,Southampton,Aston Villa
+25/10/1980,0 - 2,Sunderland,Ipswich Town
+25/10/1980,4 - 1,Tottenham Hotspur,Coventry City
+25/10/1980,3 - 0,West Bromwich Albion,Middlesbrough
+22/10/1980,4 - 1,Aston Villa,Brighton & Hove Albion
+22/10/1980,3 - 1,Manchester City,Tottenham Hotspur
+22/10/1980,2 - 1,Nottingham Forest,Leeds United
+22/10/1980,1 - 2,Stoke City,Manchester United
+21/10/1980,3 - 1,Arsenal,Norwich City
+21/10/1980,2 - 1,Coventry City,Sunderland
+21/10/1980,3 - 2,Crystal Palace,Southampton
+21/10/1980,1 - 1,Everton,West Bromwich Albion
+21/10/1980,1 - 0,Middlesbrough,Leicester City
+18/10/1980,2 - 2,Arsenal,Sunderland
+18/10/1980,3 - 0,Aston Villa,Tottenham Hotspur
+18/10/1980,0 - 1,Coventry City,Norwich City
+18/10/1980,2 - 1,Crystal Palace,Leicester City
+18/10/1980,2 - 2,Everton,Liverpool
+18/10/1980,1 - 1,Ipswich Town,Manchester United
+18/10/1980,0 - 1,Manchester City,Birmingham City
+18/10/1980,1 - 1,Middlesbrough,Southampton
+18/10/1980,2 - 1,Nottingham Forest,West Bromwich Albion
+18/10/1980,0 - 0,Stoke City,Brighton & Hove Albion
+18/10/1980,2 - 1,Wolverhampton Wanderers,Leeds United
+11/10/1980,1 - 2,Birmingham City,Aston Villa
+11/10/1980,0 - 1,Brighton & Hove Albion,Nottingham Forest
+11/10/1980,1 - 0,Leeds United,Everton
+11/10/1980,1 - 3,Leicester City,Coventry City
+11/10/1980,1 - 1,Liverpool,Ipswich Town
+11/10/1980,0 - 0,Manchester United,Arsenal
+11/10/1980,1 - 1,Norwich City,Wolverhampton Wanderers
+11/10/1980,1 - 2,Southampton,Stoke City
+11/10/1980,1 - 0,Sunderland,Crystal Palace
+11/10/1980,3 - 2,Tottenham Hotspur,Middlesbrough
+11/10/1980,3 - 1,West Bromwich Albion,Manchester City
+08/10/1980,1 - 0,Leeds United,Manchester City
+08/10/1980,1 - 1,Leicester City,Stoke City
+08/10/1980,3 - 3,Manchester United,Aston Villa
+08/10/1980,2 - 2,Sunderland,Nottingham Forest
+08/10/1980,1 - 0,West Bromwich Albion,Coventry City
+07/10/1980,3 - 1,Birmingham City,Arsenal
+07/10/1980,1 - 3,Brighton & Hove Albion,Everton
+07/10/1980,4 - 2,Liverpool,Middlesbrough
+07/10/1980,4 - 2,Southampton,Wolverhampton Wanderers
+04/10/1980,1 - 0,Arsenal,Leicester City
+04/10/1980,4 - 0,Aston Villa,Sunderland
+04/10/1980,3 - 3,Coventry City,Brighton & Hove Albion
+04/10/1980,0 - 1,Crystal Palace,West Bromwich Albion
+04/10/1980,2 - 1,Everton,Southampton
+04/10/1980,1 - 1,Ipswich Town,Leeds United
+04/10/1980,0 - 3,Manchester City,Liverpool
+04/10/1980,6 - 1,Middlesbrough,Norwich City
+04/10/1980,1 - 2,Nottingham Forest,Manchester United
+04/10/1980,2 - 3,Stoke City,Tottenham Hotspur
+04/10/1980,1 - 0,Wolverhampton Wanderers,Birmingham City
+27/09/1980,1 - 0,Arsenal,Nottingham Forest
+27/09/1980,0 - 5,Coventry City,Everton
+27/09/1980,0 - 1,Crystal Palace,Aston Villa
+27/09/1980,2 - 1,Leicester City,Tottenham Hotspur
+27/09/1980,4 - 1,Liverpool,Brighton & Hove Albion
+27/09/1980,2 - 2,Manchester United,Manchester City
+27/09/1980,2 - 2,Norwich City,Birmingham City
+27/09/1980,1 - 0,Stoke City,Middlesbrough
+27/09/1980,4 - 1,Sunderland,Leeds United
+27/09/1980,2 - 1,West Bromwich Albion,Southampton
+27/09/1980,0 - 2,Wolverhampton Wanderers,Ipswich Town
+20/09/1980,2 - 1,Aston Villa,Wolverhampton Wanderers
+20/09/1980,1 - 1,Birmingham City,West Bromwich Albion
+20/09/1980,2 - 0,Brighton & Hove Albion,Norwich City
+20/09/1980,5 - 0,Everton,Crystal Palace
+20/09/1980,2 - 0,Ipswich Town,Coventry City
+20/09/1980,0 - 0,Leeds United,Manchester United
+20/09/1980,1 - 2,Manchester City,Stoke City
+20/09/1980,2 - 1,Middlesbrough,Arsenal
+20/09/1980,5 - 0,Nottingham Forest,Leicester City
+20/09/1980,2 - 2,Southampton,Liverpool
+20/09/1980,0 - 0,Tottenham Hotspur,Sunderland
+13/09/1980,2 - 0,Arsenal,Stoke City
+13/09/1980,0 - 2,Aston Villa,Everton
+13/09/1980,2 - 2,Brighton & Hove Albion,Birmingham City
+13/09/1980,1 - 2,Crystal Palace,Ipswich Town
+13/09/1980,0 - 0,Leeds United,Tottenham Hotspur
+13/09/1980,4 - 0,Liverpool,West Bromwich Albion
+13/09/1980,5 - 0,Manchester United,Leicester City
+13/09/1980,1 - 0,Norwich City,Southampton
+13/09/1980,3 - 2,Nottingham Forest,Manchester City
+13/09/1980,0 - 1,Sunderland,Middlesbrough
+13/09/1980,0 - 1,Wolverhampton Wanderers,Coventry City
+06/09/1980,1 - 1,Birmingham City,Liverpool
+06/09/1980,3 - 1,Coventry City,Crystal Palace
+06/09/1980,2 - 0,Everton,Wolverhampton Wanderers
+06/09/1980,1 - 0,Ipswich Town,Aston Villa
+06/09/1980,0 - 1,Leicester City,Sunderland
+06/09/1980,1 - 1,Manchester City,Arsenal
+06/09/1980,0 - 0,Middlesbrough,Nottingham Forest
+06/09/1980,3 - 1,Southampton,Brighton & Hove Albion
+06/09/1980,3 - 0,Stoke City,Leeds United
+06/09/1980,0 - 0,Tottenham Hotspur,Manchester United
+06/09/1980,3 - 0,West Bromwich Albion,Norwich City
+30/08/1980,2 - 0,Arsenal,Tottenham Hotspur
+30/08/1980,1 - 0,Aston Villa,Coventry City
+30/08/1980,1 - 2,Brighton & Hove Albion,West Bromwich Albion
+30/08/1980,4 - 0,Ipswich Town,Everton
+30/08/1980,1 - 2,Leeds United,Leicester City
+30/08/1980,4 - 1,Liverpool,Norwich City
+30/08/1980,1 - 1,Manchester United,Sunderland
+30/08/1980,2 - 2,Middlesbrough,Manchester City
+30/08/1980,5 - 0,Nottingham Forest,Stoke City
+30/08/1980,3 - 1,Southampton,Birmingham City
+30/08/1980,2 - 0,Wolverhampton Wanderers,Crystal Palace
+23/08/1980,0 - 0,Birmingham City,Manchester United
+23/08/1980,3 - 1,Coventry City,Arsenal
+23/08/1980,5 - 2,Crystal Palace,Middlesbrough
+23/08/1980,0 - 0,Everton,Nottingham Forest
+23/08/1980,2 - 0,Leicester City,Liverpool
+23/08/1980,2 - 2,Manchester City,Aston Villa
+23/08/1980,2 - 3,Norwich City,Leeds United
+23/08/1980,2 - 2,Stoke City,Ipswich Town
+23/08/1980,1 - 2,Sunderland,Southampton
+23/08/1980,2 - 2,Tottenham Hotspur,Brighton & Hove Albion
+23/08/1980,1 - 1,West Bromwich Albion,Wolverhampton Wanderers
+20/08/1980,1 - 0,Aston Villa,Norwich City
+20/08/1980,0 - 4,Manchester City,Sunderland
+20/08/1980,2 - 1,Nottingham Forest,Birmingham City
+20/08/1980,0 - 0,Stoke City,West Bromwich Albion
+19/08/1980,1 - 1,Arsenal,Southampton
+19/08/1980,0 - 0,Coventry City,Liverpool
+19/08/1980,3 - 4,Crystal Palace,Tottenham Hotspur
+19/08/1980,1 - 0,Everton,Leicester City
+19/08/1980,2 - 0,Ipswich Town,Brighton & Hove Albion
+19/08/1980,3 - 0,Middlesbrough,Leeds United
+19/08/1980,1 - 0,Wolverhampton Wanderers,Manchester United
+16/08/1980,3 - 1,Birmingham City,Coventry City
+16/08/1980,2 - 0,Brighton & Hove Albion,Wolverhampton Wanderers
+16/08/1980,1 - 2,Leeds United,Aston Villa
+16/08/1980,0 - 1,Leicester City,Ipswich Town
+16/08/1980,3 - 0,Liverpool,Crystal Palace
+16/08/1980,3 - 0,Manchester United,Middlesbrough
+16/08/1980,5 - 1,Norwich City,Stoke City
+16/08/1980,2 - 0,Southampton,Manchester City
+16/08/1980,3 - 1,Sunderland,Everton
+16/08/1980,2 - 0,Tottenham Hotspur,Nottingham Forest
+16/08/1980,0 - 1,West Bromwich Albion,Arsenal

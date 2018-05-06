@@ -1,0 +1,181 @@
+date,score,home_team,away_team
+04/05/1996,2 - 1,Aberdeen,Falkirk
+04/05/1996,4 - 1,Celtic,Raith Rovers
+04/05/1996,1 - 0,Hibernian,Partick Thistle
+04/05/1996,0 - 3,Kilmarnock,Rangers
+04/05/1996,1 - 1,Motherwell,Hearts
+28/04/1996,3 - 1,Rangers,Aberdeen
+27/04/1996,1 - 1,Falkirk,Hibernian
+27/04/1996,1 - 0,Hearts,Kilmarnock
+27/04/1996,2 - 4,Partick Thistle,Celtic
+27/04/1996,2 - 0,Raith Rovers,Motherwell
+20/04/1996,1 - 1,Aberdeen,Hearts
+20/04/1996,4 - 0,Celtic,Falkirk
+20/04/1996,1 - 1,Hibernian,Raith Rovers
+20/04/1996,2 - 1,Kilmarnock,Partick Thistle
+20/04/1996,1 - 3,Motherwell,Rangers
+16/04/1996,1 - 1,Partick Thistle,Aberdeen
+14/04/1996,1 - 2,Hibernian,Celtic
+13/04/1996,2 - 1,Aberdeen,Motherwell
+13/04/1996,1 - 0,Kilmarnock,Falkirk
+13/04/1996,1 - 3,Raith Rovers,Hearts
+13/04/1996,5 - 0,Rangers,Partick Thistle
+10/04/1996,1 - 1,Celtic,Kilmarnock
+10/04/1996,2 - 0,Hearts,Rangers
+06/04/1996,2 - 3,Falkirk,Raith Rovers
+06/04/1996,3 - 0,Motherwell,Hibernian
+01/04/1996,5 - 0,Celtic,Aberdeen
+30/03/1996,0 - 2,Falkirk,Hearts
+30/03/1996,1 - 1,Hibernian,Kilmarnock
+30/03/1996,0 - 2,Partick Thistle,Motherwell
+30/03/1996,2 - 4,Raith Rovers,Rangers
+23/03/1996,2 - 1,Aberdeen,Hibernian
+23/03/1996,2 - 5,Hearts,Partick Thistle
+23/03/1996,2 - 0,Kilmarnock,Raith Rovers
+23/03/1996,0 - 0,Motherwell,Celtic
+23/03/1996,3 - 2,Rangers,Falkirk
+17/03/1996,1 - 1,Rangers,Celtic
+16/03/1996,1 - 2,Falkirk,Partick Thistle
+16/03/1996,1 - 1,Hearts,Hibernian
+16/03/1996,0 - 1,Kilmarnock,Motherwell
+16/03/1996,2 - 2,Raith Rovers,Aberdeen
+03/03/1996,0 - 2,Hibernian,Rangers
+02/03/1996,3 - 0,Aberdeen,Kilmarnock
+02/03/1996,4 - 0,Celtic,Hearts
+02/03/1996,1 - 0,Motherwell,Falkirk
+02/03/1996,0 - 3,Partick Thistle,Raith Rovers
+25/02/1996,0 - 1,Aberdeen,Rangers
+24/02/1996,4 - 0,Celtic,Partick Thistle
+24/02/1996,2 - 1,Hibernian,Falkirk
+24/02/1996,0 - 2,Kilmarnock,Hearts
+24/02/1996,1 - 0,Motherwell,Raith Rovers
+13/02/1996,1 - 0,Motherwell,Aberdeen
+10/02/1996,0 - 0,Falkirk,Celtic
+10/02/1996,1 - 3,Hearts,Aberdeen
+10/02/1996,0 - 1,Partick Thistle,Kilmarnock
+10/02/1996,1 - 0,Raith Rovers,Hibernian
+10/02/1996,3 - 2,Rangers,Motherwell
+07/02/1996,1 - 0,Aberdeen,Raith Rovers
+03/02/1996,2 - 1,Celtic,Hibernian
+03/02/1996,4 - 2,Falkirk,Kilmarnock
+03/02/1996,2 - 0,Hearts,Raith Rovers
+03/02/1996,1 - 2,Partick Thistle,Rangers
+23/01/1996,0 - 1,Falkirk,Motherwell
+23/01/1996,1 - 1,Kilmarnock,Aberdeen
+23/01/1996,0 - 2,Raith Rovers,Partick Thistle
+20/01/1996,1 - 0,Aberdeen,Partick Thistle
+20/01/1996,0 - 0,Hibernian,Motherwell
+20/01/1996,0 - 0,Kilmarnock,Celtic
+20/01/1996,1 - 0,Raith Rovers,Falkirk
+20/01/1996,0 - 3,Rangers,Hearts
+17/01/1996,1 - 2,Hearts,Celtic
+16/01/1996,1 - 1,Falkirk,Aberdeen
+16/01/1996,0 - 1,Motherwell,Kilmarnock
+16/01/1996,0 - 0,Partick Thistle,Hibernian
+14/01/1996,1 - 2,Aberdeen,Celtic
+13/01/1996,2 - 1,Hearts,Falkirk
+13/01/1996,3 - 2,Kilmarnock,Hibernian
+13/01/1996,0 - 2,Motherwell,Partick Thistle
+13/01/1996,4 - 0,Rangers,Raith Rovers
+10/01/1996,4 - 0,Hearts,Motherwell
+09/01/1996,0 - 3,Partick Thistle,Falkirk
+09/01/1996,1 - 3,Raith Rovers,Celtic
+08/01/1996,1 - 2,Hibernian,Aberdeen
+06/01/1996,1 - 0,Celtic,Motherwell
+06/01/1996,0 - 4,Falkirk,Rangers
+06/01/1996,0 - 1,Partick Thistle,Hearts
+06/01/1996,1 - 1,Raith Rovers,Kilmarnock
+03/01/1996,0 - 0,Celtic,Rangers
+01/01/1996,2 - 1,Hibernian,Hearts
+30/12/1995,7 - 0,Rangers,Hibernian
+26/12/1995,3 - 0,Rangers,Kilmarnock
+19/12/1995,0 - 0,Motherwell,Rangers
+16/12/1995,1 - 2,Aberdeen,Hearts
+16/12/1995,1 - 0,Celtic,Falkirk
+16/12/1995,1 - 2,Hibernian,Raith Rovers
+16/12/1995,2 - 1,Kilmarnock,Partick Thistle
+12/12/1995,4 - 1,Aberdeen,Kilmarnock
+09/12/1995,1 - 0,Aberdeen,Motherwell
+09/12/1995,0 - 4,Hibernian,Celtic
+09/12/1995,4 - 0,Kilmarnock,Falkirk
+09/12/1995,1 - 1,Raith Rovers,Hearts
+09/12/1995,1 - 0,Rangers,Partick Thistle
+02/12/1995,4 - 2,Celtic,Kilmarnock
+02/12/1995,2 - 1,Falkirk,Raith Rovers
+02/12/1995,0 - 2,Hearts,Rangers
+02/12/1995,0 - 2,Motherwell,Hibernian
+02/12/1995,1 - 0,Partick Thistle,Aberdeen
+25/11/1995,3 - 1,Celtic,Hearts
+25/11/1995,1 - 4,Hibernian,Rangers
+25/11/1995,1 - 1,Motherwell,Falkirk
+25/11/1995,0 - 2,Partick Thistle,Raith Rovers
+22/11/1995,3 - 0,Hibernian,Partick Thistle
+20/11/1995,0 - 1,Falkirk,Partick Thistle
+20/11/1995,1 - 1,Kilmarnock,Motherwell
+20/11/1995,1 - 0,Raith Rovers,Aberdeen
+19/11/1995,2 - 1,Hearts,Hibernian
+19/11/1995,3 - 3,Rangers,Celtic
+11/11/1995,2 - 0,Falkirk,Hibernian
+11/11/1995,2 - 1,Hearts,Kilmarnock
+11/11/1995,1 - 2,Partick Thistle,Celtic
+11/11/1995,0 - 0,Raith Rovers,Motherwell
+11/11/1995,1 - 1,Rangers,Aberdeen
+08/11/1995,3 - 1,Aberdeen,Falkirk
+08/11/1995,0 - 0,Celtic,Raith Rovers
+08/11/1995,0 - 2,Kilmarnock,Rangers
+07/11/1995,0 - 0,Motherwell,Hearts
+04/11/1995,1 - 2,Aberdeen,Hibernian
+04/11/1995,3 - 0,Hearts,Partick Thistle
+04/11/1995,5 - 1,Kilmarnock,Raith Rovers
+04/11/1995,0 - 2,Motherwell,Celtic
+04/11/1995,2 - 0,Rangers,Falkirk
+28/10/1995,2 - 0,Celtic,Aberdeen
+28/10/1995,2 - 0,Falkirk,Hearts
+28/10/1995,2 - 0,Hibernian,Kilmarnock
+28/10/1995,1 - 0,Partick Thistle,Motherwell
+28/10/1995,2 - 2,Raith Rovers,Rangers
+21/10/1995,3 - 0,Aberdeen,Partick Thistle
+21/10/1995,4 - 2,Hibernian,Motherwell
+21/10/1995,0 - 0,Kilmarnock,Celtic
+21/10/1995,0 - 1,Raith Rovers,Falkirk
+21/10/1995,4 - 1,Rangers,Hearts
+14/10/1995,2 - 2,Celtic,Hibernian
+14/10/1995,0 - 2,Falkirk,Kilmarnock
+14/10/1995,4 - 2,Hearts,Raith Rovers
+14/10/1995,2 - 1,Motherwell,Aberdeen
+14/10/1995,0 - 4,Partick Thistle,Rangers
+07/10/1995,0 - 1,Aberdeen,Rangers
+07/10/1995,2 - 1,Celtic,Partick Thistle
+07/10/1995,2 - 1,Hibernian,Falkirk
+07/10/1995,3 - 1,Kilmarnock,Hearts
+07/10/1995,0 - 2,Motherwell,Raith Rovers
+04/10/1995,0 - 1,Falkirk,Celtic
+04/10/1995,1 - 2,Hearts,Aberdeen
+04/10/1995,1 - 1,Partick Thistle,Kilmarnock
+04/10/1995,3 - 0,Raith Rovers,Hibernian
+03/10/1995,2 - 1,Rangers,Motherwell
+01/10/1995,2 - 2,Hibernian,Hearts
+30/09/1995,3 - 0,Aberdeen,Raith Rovers
+30/09/1995,0 - 2,Celtic,Rangers
+30/09/1995,3 - 0,Motherwell,Kilmarnock
+30/09/1995,1 - 1,Partick Thistle,Falkirk
+23/09/1995,0 - 0,Falkirk,Motherwell
+23/09/1995,0 - 4,Hearts,Celtic
+23/09/1995,1 - 2,Kilmarnock,Aberdeen
+23/09/1995,3 - 1,Raith Rovers,Partick Thistle
+23/09/1995,0 - 1,Rangers,Hibernian
+16/09/1995,1 - 1,Celtic,Motherwell
+16/09/1995,0 - 2,Falkirk,Rangers
+16/09/1995,1 - 1,Hibernian,Aberdeen
+16/09/1995,2 - 0,Partick Thistle,Hearts
+16/09/1995,2 - 0,Raith Rovers,Kilmarnock
+10/09/1995,2 - 3,Aberdeen,Celtic
+09/09/1995,4 - 1,Hearts,Falkirk
+09/09/1995,0 - 3,Kilmarnock,Hibernian
+09/09/1995,1 - 1,Motherwell,Partick Thistle
+09/09/1995,4 - 0,Rangers,Raith Rovers
+26/08/1995,2 - 3,Falkirk,Aberdeen
+26/08/1995,1 - 1,Hearts,Motherwell
+26/08/1995,1 - 1,Partick Thistle,Hibernian
+26/08/1995,0 - 1,Raith Rovers,Celtic
+26/08/1995,1 - 0,Rangers,Kilmarnock

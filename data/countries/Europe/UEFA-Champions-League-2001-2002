@@ -1,0 +1,238 @@
+date,score,home_team,away_team
+15/05/2002,1 - 2,Bayer Leverkusen,Real Madrid
+01/05/2002,1 - 1,Real Madrid,Barcelona
+30/04/2002,1 - 1,Bayer Leverkusen,Manchester United
+24/04/2002,2 - 2,Manchester United,Bayer Leverkusen
+23/04/2002,0 - 2,Barcelona,Real Madrid
+10/04/2002,3 - 2,Manchester United,Deportivo La Coruña
+10/04/2002,2 - 0,Real Madrid,Bayern München
+09/04/2002,3 - 1,Barcelona,Panathinaikos
+09/04/2002,4 - 2,Bayer Leverkusen,Liverpool
+03/04/2002,1 - 0,Liverpool,Bayer Leverkusen
+03/04/2002,1 - 0,Panathinaikos,Barcelona
+02/04/2002,2 - 1,Bayern München,Real Madrid
+02/04/2002,0 - 2,Deportivo La Coruña,Manchester United
+19/03/2002,2 - 1,Bayern München,Nantes
+19/03/2002,0 - 3,Boavista,Manchester United
+13/03/2002,0 - 0,Manchester United,Bayern München
+13/03/2002,1 - 1,Nantes,Boavista
+26/02/2002,1 - 0,Bayern München,Boavista
+26/02/2002,5 - 1,Manchester United,Nantes
+20/02/2002,0 - 0,Boavista,Bayern München
+20/02/2002,1 - 1,Nantes,Manchester United
+05/12/2001,3 - 0,Manchester United,Boavista
+05/12/2001,0 - 1,Nantes,Bayern München
+20/11/2001,1 - 1,Bayern München,Manchester United
+20/11/2001,1 - 0,Boavista,Nantes
+19/03/2002,0 - 1,Galatasaray,Barcelona
+19/03/2002,2 - 0,Liverpool,Roma
+13/03/2002,0 - 0,Barcelona,Liverpool
+13/03/2002,1 - 1,Roma,Galatasaray
+26/02/2002,1 - 1,Galatasaray,Liverpool
+26/02/2002,3 - 0,Roma,Barcelona
+20/02/2002,1 - 1,Barcelona,Roma
+20/02/2002,0 - 0,Liverpool,Galatasaray
+05/12/2001,2 - 2,Barcelona,Galatasaray
+05/12/2001,0 - 0,Roma,Liverpool
+20/11/2001,1 - 1,Galatasaray,Roma
+20/11/2001,1 - 3,Liverpool,Barcelona
+20/03/2002,2 - 2,Panathinaikos,Real Madrid
+20/03/2002,2 - 0,Sparta Praha,Porto
+12/03/2002,2 - 1,Porto,Panathinaikos
+12/03/2002,3 - 0,Real Madrid,Sparta Praha
+27/02/2002,2 - 1,Panathinaikos,Sparta Praha
+27/02/2002,1 - 2,Porto,Real Madrid
+19/02/2002,1 - 0,Real Madrid,Porto
+19/02/2002,0 - 2,Sparta Praha,Panathinaikos
+04/12/2001,0 - 1,Porto,Sparta Praha
+04/12/2001,3 - 0,Real Madrid,Panathinaikos
+21/11/2001,0 - 0,Panathinaikos,Porto
+21/11/2001,2 - 3,Sparta Praha,Real Madrid
+20/03/2002,1 - 3,Deportivo La Coruña,Bayer Leverkusen
+20/03/2002,1 - 0,Juventus,Arsenal
+12/03/2002,0 - 2,Arsenal,Deportivo La Coruña
+12/03/2002,3 - 1,Bayer Leverkusen,Juventus
+27/02/2002,4 - 1,Arsenal,Bayer Leverkusen
+27/02/2002,2 - 0,Deportivo La Coruña,Juventus
+19/02/2002,1 - 1,Bayer Leverkusen,Arsenal
+19/02/2002,0 - 0,Juventus,Deportivo La Coruña
+04/12/2001,3 - 1,Arsenal,Juventus
+04/12/2001,3 - 0,Bayer Leverkusen,Deportivo La Coruña
+29/11/2001,4 - 0,Juventus,Bayer Leverkusen
+21/11/2001,2 - 0,Deportivo La Coruña,Arsenal
+30/10/2001,2 - 0,Lokomotiv Moskva,Real Madrid
+30/10/2001,1 - 1,Roma,Anderlecht
+24/10/2001,1 - 5,Anderlecht,Lokomotiv Moskva
+24/10/2001,1 - 1,Real Madrid,Roma
+16/10/2001,0 - 2,Anderlecht,Real Madrid
+16/10/2001,0 - 1,Lokomotiv Moskva,Roma
+26/09/2001,4 - 1,Real Madrid,Anderlecht
+26/09/2001,2 - 1,Roma,Lokomotiv Moskva
+19/09/2001,0 - 0,Anderlecht,Roma
+19/09/2001,4 - 0,Real Madrid,Lokomotiv Moskva
+11/09/2001,1 - 1,Lokomotiv Moskva,Anderlecht
+11/09/2001,1 - 2,Roma,Real Madrid
+30/10/2001,1 - 0,Dynamo Kyiv,Boavista
+30/10/2001,2 - 0,Liverpool,Borussia Dortmund
+24/10/2001,1 - 1,Boavista,Liverpool
+24/10/2001,1 - 0,Borussia Dortmund,Dynamo Kyiv
+16/10/2001,2 - 1,Borussia Dortmund,Boavista
+16/10/2001,1 - 2,Dynamo Kyiv,Liverpool
+26/09/2001,2 - 1,Boavista,Borussia Dortmund
+26/09/2001,1 - 0,Liverpool,Dynamo Kyiv
+19/09/2001,3 - 1,Boavista,Dynamo Kyiv
+19/09/2001,0 - 0,Borussia Dortmund,Liverpool
+11/09/2001,2 - 2,Dynamo Kyiv,Borussia Dortmund
+11/09/2001,1 - 1,Liverpool,Boavista
+30/10/2001,1 - 0,Mallorca,Panathinaikos
+30/10/2001,3 - 1,Schalke 04,Arsenal
+24/10/2001,3 - 1,Arsenal,Mallorca
+24/10/2001,2 - 0,Panathinaikos,Schalke 04
+16/10/2001,2 - 1,Arsenal,Panathinaikos
+16/10/2001,0 - 4,Mallorca,Schalke 04
+26/09/2001,1 - 0,Panathinaikos,Arsenal
+26/09/2001,0 - 1,Schalke 04,Mallorca
+19/09/2001,3 - 2,Arsenal,Schalke 04
+19/09/2001,2 - 0,Panathinaikos,Mallorca
+11/09/2001,1 - 0,Mallorca,Arsenal
+11/09/2001,0 - 2,Schalke 04,Panathinaikos
+30/10/2001,2 - 0,Galatasaray,PSV
+30/10/2001,1 - 0,Nantes,Lazio
+24/10/2001,1 - 0,Lazio,Galatasaray
+24/10/2001,0 - 0,PSV,Nantes
+16/10/2001,0 - 0,Galatasaray,Nantes
+16/10/2001,2 - 1,Lazio,PSV
+26/09/2001,0 - 1,Nantes,Galatasaray
+26/09/2001,1 - 0,PSV,Lazio
+19/09/2001,1 - 3,Lazio,Nantes
+19/09/2001,3 - 1,PSV,Galatasaray
+11/09/2001,1 - 0,Galatasaray,Lazio
+11/09/2001,4 - 1,Nantes,PSV
+31/10/2001,4 - 3,Celtic,Juventus
+31/10/2001,1 - 0,Porto,Rosenborg
+23/10/2001,3 - 1,Juventus,Porto
+23/10/2001,2 - 0,Rosenborg,Celtic
+17/10/2001,1 - 0,Juventus,Rosenborg
+17/10/2001,3 - 0,Porto,Celtic
+10/10/2001,1 - 0,Celtic,Rosenborg
+10/10/2001,0 - 0,Porto,Juventus
+25/09/2001,1 - 0,Celtic,Porto
+25/09/2001,1 - 1,Rosenborg,Juventus
+18/09/2001,3 - 2,Juventus,Celtic
+18/09/2001,1 - 2,Rosenborg,Porto
+31/10/2001,1 - 0,Barcelona,Fenerbahçe
+31/10/2001,2 - 4,Bayer Leverkusen,Olympique Lyonnais
+23/10/2001,1 - 2,Fenerbahçe,Bayer Leverkusen
+23/10/2001,2 - 3,Olympique Lyonnais,Barcelona
+17/10/2001,2 - 1,Barcelona,Bayer Leverkusen
+17/10/2001,3 - 1,Olympique Lyonnais,Fenerbahçe
+10/10/2001,2 - 0,Barcelona,Olympique Lyonnais
+10/10/2001,2 - 1,Bayer Leverkusen,Fenerbahçe
+25/09/2001,2 - 1,Bayer Leverkusen,Barcelona
+25/09/2001,0 - 1,Fenerbahçe,Olympique Lyonnais
+18/09/2001,0 - 3,Fenerbahçe,Barcelona
+18/09/2001,0 - 1,Olympique Lyonnais,Bayer Leverkusen
+31/10/2001,1 - 1,Lille,Manchester United
+31/10/2001,1 - 1,Olympiakos Piraeus,Deportivo La Coruña
+23/10/2001,1 - 1,Deportivo La Coruña,Lille
+23/10/2001,3 - 0,Manchester United,Olympiakos Piraeus
+17/10/2001,2 - 3,Manchester United,Deportivo La Coruña
+17/10/2001,2 - 1,Olympiakos Piraeus,Lille
+10/10/2001,1 - 1,Lille,Deportivo La Coruña
+10/10/2001,0 - 2,Olympiakos Piraeus,Manchester United
+25/09/2001,2 - 1,Deportivo La Coruña,Manchester United
+25/09/2001,3 - 1,Lille,Olympiakos Piraeus
+18/09/2001,2 - 2,Deportivo La Coruña,Olympiakos Piraeus
+18/09/2001,1 - 0,Manchester United,Lille
+31/10/2001,2 - 1,Feyenoord,Spartak Moskva
+31/10/2001,0 - 1,Sparta Praha,Bayern München
+23/10/2001,3 - 1,Bayern München,Feyenoord
+23/10/2001,2 - 2,Spartak Moskva,Sparta Praha
+17/10/2001,5 - 1,Bayern München,Spartak Moskva
+17/10/2001,0 - 2,Feyenoord,Sparta Praha
+10/10/2001,2 - 2,Feyenoord,Bayern München
+10/10/2001,2 - 0,Sparta Praha,Spartak Moskva
+25/09/2001,4 - 0,Sparta Praha,Feyenoord
+25/09/2001,1 - 3,Spartak Moskva,Bayern München
+18/09/2001,0 - 0,Bayern München,Sparta Praha
+18/09/2001,2 - 2,Spartak Moskva,Feyenoord
+22/08/2001,1 - 1,Anderlecht,Halmstad
+22/08/2001,3 - 0,Bayer Leverkusen,Crvena Zvezda
+22/08/2001,0 - 1,Celtic,Ajax
+22/08/2001,1 - 1,Dynamo Kyiv,FCSB
+22/08/2001,2 - 1,Fenerbahçe,Rangers
+22/08/2001,2 - 3,Grasshopper,Porto
+22/08/2001,1 - 1,Levski Sofia,Galatasaray
+22/08/2001,0 - 1,Lille,Parma
+22/08/2001,4 - 1,Liverpool,Haka
+22/08/2001,1 - 0, [ET] Mallorca,Hajduk Split
+22/08/2001,1 - 0,Panathinaikos,Slavia Praha
+22/08/2001,4 - 0,Rosenborg,Inter Bratislava
+21/08/2001,1 - 0,Barcelona,Wisła Kraków
+21/08/2001,3 - 1,Borussia Dortmund,Shakhtar Donetsk
+21/08/2001,4 - 1,Lazio,København
+21/08/2001,1 - 0,Wacker Innsbruck,Lokomotiv Moskva
+08/08/2001,1 - 3,Ajax,Celtic
+08/08/2001,0 - 0,Crvena Zvezda,Bayer Leverkusen
+08/08/2001,2 - 4,FCSB,Dynamo Kyiv
+08/08/2001,2 - 1,Galatasaray,Levski Sofia
+08/08/2001,1 - 0,Hajduk Split,Mallorca
+08/08/2001,0 - 5,Haka,Liverpool
+08/08/2001,2 - 3,Halmstad,Anderlecht
+08/08/2001,3 - 3,Inter Bratislava,Rosenborg
+08/08/2001,0 - 2,Parma,Lille
+08/08/2001,2 - 2,Porto,Grasshopper
+08/08/2001,0 - 0,Rangers,Fenerbahçe
+08/08/2001,1 - 2,Slavia Praha,Panathinaikos
+07/08/2001,2 - 1,København,Lazio
+07/08/2001,3 - 1,Lokomotiv Moskva,Wacker Innsbruck
+07/08/2001,0 - 2,Shakhtar Donetsk,Borussia Dortmund
+07/08/2001,3 - 4,Wisła Kraków,Barcelona
+01/08/2001,3 - 1,Barry Town United,Porto
+01/08/2001,1 - 1,Brann,Levski Sofia
+01/08/2001,2 - 1,Crvena Zvezda,Omonia Nicosia
+01/08/2001,0 - 0, [PS] Hajduk Split,Ferencváros
+01/08/2001,2 - 0,Halmstad,Bohemians
+01/08/2001,1 - 0,Inter Bratislava,Slavia Sofia
+01/08/2001,3 - 1,København,Torpedo Kutaisi
+01/08/2001,2 - 1,Lugano,Shakhtar Donetsk
+01/08/2001,0 - 3,Maccabi Haifa,Haka
+01/08/2001,3 - 1,Rangers,Maribor
+01/08/2001,1 - 2,Sheriff,Anderlecht
+01/08/2001,1 - 2,Sloga Jugomagnat,FCSB
+01/08/2001,1 - 4,Vllaznia Shkodër,Galatasaray
+01/08/2001,1 - 0,Wisła Kraków,Skonto
+25/07/2001,4 - 0,Anderlecht,Sheriff
+25/07/2001,1 - 2,Bohemians,Halmstad
+25/07/2001,3 - 0,FCSB,Sloga Jugomagnat
+25/07/2001,0 - 0,Ferencváros,Hajduk Split
+25/07/2001,2 - 0,Galatasaray,Vllaznia Shkodër
+25/07/2001,0 - 1,Haka,Maccabi Haifa
+25/07/2001,0 - 0,Levski Sofia,Brann
+25/07/2001,0 - 3,Maribor,Rangers
+25/07/2001,1 - 1,Omonia Nicosia,Crvena Zvezda
+25/07/2001,8 - 0,Porto,Barry Town United
+25/07/2001,3 - 0,Shakhtar Donetsk,Lugano
+25/07/2001,1 - 2,Skonto,Wisła Kraków
+25/07/2001,0 - 1,Slavia Sofia,Inter Bratislava
+25/07/2001,1 - 1,Torpedo Kutaisi,København
+18/07/2001,5 - 0,Haka,Valletta
+18/07/2001,1 - 1,Kaunas,Sloga Jugomagnat
+18/07/2001,0 - 0,Levadia Maardu,Bohemians
+18/07/2001,0 - 1,Şəmkir,Barry Town United
+18/07/2001,2 - 0,Sheriff,Araks
+18/07/2001,0 - 1,Skonto,F91 Dudelange
+18/07/2001,5 - 0,Slavia Sofia,Vagur
+18/07/2001,1 - 0,Torpedo Kutaisi,Linfield
+18/07/2001,1 - 0,Vllaznia Shkodër,KR
+18/07/2001,0 - 0,Željezničar,Levski Sofia
+11/07/2001,0 - 1,Araks,Sheriff
+11/07/2001,2 - 0,Barry Town United,Şəmkir
+11/07/2001,3 - 0,Bohemians,Levadia Maardu
+11/07/2001,1 - 6,F91 Dudelange,Skonto
+11/07/2001,2 - 1,KR,Vllaznia Shkodër
+11/07/2001,4 - 0,Levski Sofia,Željezničar
+11/07/2001,0 - 0,Linfield,Torpedo Kutaisi
+11/07/2001,0 - 0,Sloga Jugomagnat,Kaunas
+11/07/2001,0 - 0,Vagur,Slavia Sofia
+11/07/2001,0 - 0,Valletta,Haka

@@ -1,0 +1,271 @@
+date,score,home_team,away_team
+20/05/2018,document.write(timestamp_to_time(1526832000));16:00 GMT,Anderlecht,Genk
+20/05/2018,document.write(timestamp_to_time(1526832000));16:00 GMT,Club Brugge,Gent
+20/05/2018,document.write(timestamp_to_time(1526832000));16:00 GMT,Sporting Charleroi,Standard Liège
+13/05/2018,document.write(timestamp_to_time(1526227200));16:00 GMT,Genk,Sporting Charleroi
+13/05/2018,document.write(timestamp_to_time(1526227200));16:00 GMT,Gent,Anderlecht
+13/05/2018,document.write(timestamp_to_time(1526227200));16:00 GMT,Standard Liège,Club Brugge
+10/05/2018,document.write(timestamp_to_time(1525977000));18:30 GMT,Genk,Gent
+10/05/2018,document.write(timestamp_to_time(1525968000));16:00 GMT,Sporting Charleroi,Club Brugge
+10/05/2018,document.write(timestamp_to_time(1525955400));12:30 GMT,Anderlecht,Standard Liège
+06/05/2018,document.write(timestamp_to_time(1525622400));16:00 GMT,Standard Liège,Genk
+06/05/2018,document.write(timestamp_to_time(1525609800));12:30 GMT,Club Brugge,Anderlecht
+04/05/2018,0 - 1,Gent,Sporting Charleroi
+29/04/2018,1 - 3,Gent,Standard Liège
+29/04/2018,3 - 1,Anderlecht,Sporting Charleroi
+27/04/2018,1 - 1,Genk,Club Brugge
+22/04/2018,2 - 1,Sporting Charleroi,Gent
+22/04/2018,4 - 4,Club Brugge,Standard Liège
+21/04/2018,2 - 1,Genk,Anderlecht
+19/04/2018,6 - 0,Club Brugge,Sporting Charleroi
+18/04/2018,2 - 1,Standard Liège,Anderlecht
+17/04/2018,0 - 0,Gent,Genk
+15/04/2018,1 - 0,Anderlecht,Club Brugge
+14/04/2018,1 - 0,Standard Liège,Gent
+13/04/2018,2 - 2,Sporting Charleroi,Genk
+08/04/2018,1 - 0,Gent,Club Brugge
+07/04/2018,1 - 0,Genk,Standard Liège
+06/04/2018,1 - 2,Sporting Charleroi,Anderlecht
+02/04/2018,1 - 0,Club Brugge,Genk
+01/04/2018,0 - 2,Anderlecht,Gent
+30/03/2018,1 - 0,Standard Liège,Sporting Charleroi
+11/03/2018,2 - 1,Anderlecht,Antwerp
+11/03/2018,4 - 0,AS Eupen,Royal Excel Mouscron
+11/03/2018,1 - 2,Genk,Gent
+11/03/2018,2 - 0,Kortrijk,Sporting Charleroi
+11/03/2018,2 - 3,KV Oostende,Standard Liège
+11/03/2018,0 - 2,Lokeren,Zulte-Waregem
+11/03/2018,2 - 0,Mechelen,Waasland-Beveren
+11/03/2018,0 - 1,Sint-Truiden,Club Brugge
+03/03/2018,2 - 0,Antwerp,AS Eupen
+03/03/2018,2 - 1,Club Brugge,Kortrijk
+03/03/2018,2 - 3,Gent,KV Oostende
+03/03/2018,1 - 2,Royal Excel Mouscron,Lokeren
+03/03/2018,0 - 0,Sporting Charleroi,Sint-Truiden
+03/03/2018,3 - 2,Standard Liège,Mechelen
+03/03/2018,0 - 1,Waasland-Beveren,Genk
+03/03/2018,2 - 3,Zulte-Waregem,Anderlecht
+25/02/2018,0 - 1,Kortrijk,Zulte-Waregem
+25/02/2018,1 - 1,Standard Liège,Club Brugge
+25/02/2018,5 - 3,Anderlecht,Royal Excel Mouscron
+24/02/2018,1 - 2,Waasland-Beveren,Gent
+24/02/2018,3 - 2,AS Eupen,Lokeren
+24/02/2018,2 - 0,KV Oostende,Sint-Truiden
+24/02/2018,1 - 1,Mechelen,Sporting Charleroi
+23/02/2018,4 - 0,Genk,Antwerp
+18/02/2018,2 - 2,Royal Excel Mouscron,Waasland-Beveren
+18/02/2018,1 - 1,Sporting Charleroi,Standard Liège
+18/02/2018,2 - 2,Gent,Mechelen
+17/02/2018,2 - 2,Club Brugge,Genk
+17/02/2018,0 - 1,Lokeren,Kortrijk
+17/02/2018,3 - 2,Zulte-Waregem,AS Eupen
+17/02/2018,0 - 0,Antwerp,KV Oostende
+16/02/2018,1 - 0,Sint-Truiden,Anderlecht
+11/02/2018,1 - 1,Sporting Charleroi,Lokeren
+11/02/2018,4 - 3,Standard Liège,Royal Excel Mouscron
+11/02/2018,1 - 1,Waasland-Beveren,Club Brugge
+10/02/2018,3 - 0,Gent,Sint-Truiden
+10/02/2018,4 - 0,Kortrijk,Antwerp
+10/02/2018,1 - 0,Mechelen,AS Eupen
+10/02/2018,2 - 0,KV Oostende,Anderlecht
+09/02/2018,3 - 1,Genk,Zulte-Waregem
+04/02/2018,1 - 1,Zulte-Waregem,KV Oostende
+04/02/2018,3 - 3,Club Brugge,Sporting Charleroi
+04/02/2018,2 - 2,Anderlecht,Mechelen
+03/02/2018,0 - 1,Royal Excel Mouscron,Genk
+03/02/2018,1 - 1,AS Eupen,Gent
+03/02/2018,0 - 2,Sint-Truiden,Kortrijk
+03/02/2018,0 - 3,Lokeren,Standard Liège
+02/02/2018,1 - 2,Antwerp,Waasland-Beveren
+28/01/2018,2 - 3,KV Oostende,Lokeren
+28/01/2018,3 - 3,Standard Liège,Anderlecht
+28/01/2018,2 - 0,Gent,Club Brugge
+27/01/2018,1 - 1,Genk,Sint-Truiden
+27/01/2018,0 - 0,Kortrijk,AS Eupen
+27/01/2018,2 - 2,Waasland-Beveren,Zulte-Waregem
+27/01/2018,1 - 1,Sporting Charleroi,Antwerp
+26/01/2018,0 - 2,Mechelen,Royal Excel Mouscron
+25/01/2018,3 - 2,Club Brugge,KV Oostende
+24/01/2018,2 - 2,Anderlecht,Waasland-Beveren
+24/01/2018,1 - 1,Antwerp,Gent
+24/01/2018,1 - 0,AS Eupen,Sporting Charleroi
+24/01/2018,1 - 2,Lokeren,Genk
+23/01/2018,0 - 3,Royal Excel Mouscron,Kortrijk
+23/01/2018,2 - 0,Sint-Truiden,Mechelen
+23/01/2018,2 - 1,Zulte-Waregem,Standard Liège
+21/01/2018,3 - 0,Gent,Lokeren
+21/01/2018,0 - 1,Genk,Anderlecht
+21/01/2018,2 - 2,Antwerp,Club Brugge
+20/01/2018,0 - 2,Mechelen,Zulte-Waregem
+20/01/2018,2 - 1,KV Oostende,Kortrijk
+20/01/2018,3 - 1,Waasland-Beveren,Sint-Truiden
+20/01/2018,3 - 2,Standard Liège,AS Eupen
+19/01/2018,2 - 0,Sporting Charleroi,Royal Excel Mouscron
+16/01/2018,1 - 2,KV Oostende,Genk
+27/12/2017,2 - 1,Kortrijk,Standard Liège
+27/12/2017,0 - 3,Sint-Truiden,Antwerp
+26/12/2017,1 - 0,Anderlecht,Gent
+26/12/2017,0 - 4,Zulte-Waregem,Sporting Charleroi
+26/12/2017,1 - 0,AS Eupen,Waasland-Beveren
+26/12/2017,4 - 2,Club Brugge,Royal Excel Mouscron
+26/12/2017,2 - 0,Lokeren,Mechelen
+23/12/2017,1 - 1,Standard Liège,Sint-Truiden
+23/12/2017,2 - 3,Genk,Kortrijk
+23/12/2017,2 - 1,Royal Excel Mouscron,Zulte-Waregem
+22/12/2017,1 - 0,Anderlecht,AS Eupen
+22/12/2017,1 - 3,Waasland-Beveren,KV Oostende
+21/12/2017,1 - 2,Antwerp,Lokeren
+21/12/2017,1 - 0,Gent,Sporting Charleroi
+20/12/2017,0 - 3,Mechelen,Club Brugge
+17/12/2017,1 - 2,Zulte-Waregem,Antwerp
+17/12/2017,1 - 1,Sporting Charleroi,Genk
+17/12/2017,5 - 0,Club Brugge,Anderlecht
+16/12/2017,1 - 1,Lokeren,Waasland-Beveren
+16/12/2017,0 - 0,AS Eupen,Sint-Truiden
+16/12/2017,2 - 0,Kortrijk,Mechelen
+16/12/2017,0 - 0,Standard Liège,Gent
+15/12/2017,1 - 0,Royal Excel Mouscron,KV Oostende
+10/12/2017,1 - 1,Sint-Truiden,Zulte-Waregem
+10/12/2017,1 - 3,Anderlecht,Sporting Charleroi
+10/12/2017,3 - 1,Club Brugge,Lokeren
+09/12/2017,2 - 1,Gent,Kortrijk
+09/12/2017,1 - 0,Antwerp,Royal Excel Mouscron
+09/12/2017,1 - 1,Genk,AS Eupen
+09/12/2017,0 - 1,KV Oostende,Mechelen
+08/12/2017,3 - 1,Waasland-Beveren,Standard Liège
+03/12/2017,0 - 1,Zulte-Waregem,Gent
+03/12/2017,2 - 2,AS Eupen,Club Brugge
+03/12/2017,1 - 1,Standard Liège,Antwerp
+02/12/2017,3 - 2,Mechelen,Genk
+02/12/2017,4 - 1,Kortrijk,Waasland-Beveren
+02/12/2017,1 - 1,Royal Excel Mouscron,Sint-Truiden
+02/12/2017,1 - 2,Lokeren,Anderlecht
+01/12/2017,1 - 1,Sporting Charleroi,KV Oostende
+26/11/2017,3 - 2,Club Brugge,Zulte-Waregem
+26/11/2017,4 - 0,Anderlecht,Kortrijk
+26/11/2017,0 - 2,Genk,Standard Liège
+25/11/2017,0 - 2,Waasland-Beveren,Sporting Charleroi
+25/11/2017,1 - 0,KV Oostende,AS Eupen
+25/11/2017,0 - 0,Sint-Truiden,Lokeren
+25/11/2017,0 - 0,Antwerp,Mechelen
+24/11/2017,3 - 1,Gent,Royal Excel Mouscron
+19/11/2017,0 - 3,Lokeren,Gent
+19/11/2017,3 - 0,Club Brugge,Waasland-Beveren
+19/11/2017,0 - 1,Zulte-Waregem,Genk
+18/11/2017,0 - 0,Standard Liège,KV Oostende
+18/11/2017,0 - 1,AS Eupen,Antwerp
+18/11/2017,3 - 2,Kortrijk,Sint-Truiden
+18/11/2017,1 - 2,Royal Excel Mouscron,Anderlecht
+17/11/2017,2 - 0,Sporting Charleroi,Mechelen
+05/11/2017,4 - 2,KV Oostende,Zulte-Waregem
+05/11/2017,0 - 0,Anderlecht,Club Brugge
+05/11/2017,1 - 3,Antwerp,Sporting Charleroi
+04/11/2017,2 - 0,Waasland-Beveren,Royal Excel Mouscron
+04/11/2017,2 - 0,Mechelen,Kortrijk
+04/11/2017,4 - 4,Sint-Truiden,AS Eupen
+04/11/2017,0 - 0,Genk,Lokeren
+03/11/2017,1 - 0,Gent,Standard Liège
+29/10/2017,2 - 2,Royal Excel Mouscron,Antwerp
+29/10/2017,3 - 1,Standard Liège,Waasland-Beveren
+29/10/2017,4 - 1,Club Brugge,Sint-Truiden
+28/10/2017,0 - 0,Kortrijk,Genk
+28/10/2017,0 - 3,Lokeren,KV Oostende
+28/10/2017,2 - 1,Zulte-Waregem,Mechelen
+28/10/2017,2 - 3,AS Eupen,Anderlecht
+27/10/2017,2 - 1,Sporting Charleroi,Gent
+26/10/2017,0 - 0,Antwerp,Standard Liège
+26/10/2017,1 - 0,Sint-Truiden,Royal Excel Mouscron
+25/10/2017,2 - 0,Anderlecht,Zulte-Waregem
+25/10/2017,2 - 0,Genk,Club Brugge
+25/10/2017,2 - 1,Waasland-Beveren,Kortrijk
+24/10/2017,3 - 0,Gent,AS Eupen
+24/10/2017,3 - 0,KV Oostende,Sporting Charleroi
+24/10/2017,0 - 2,Mechelen,Lokeren
+22/10/2017,2 - 5,Zulte-Waregem,Waasland-Beveren
+22/10/2017,0 - 1,Anderlecht,Genk
+22/10/2017,1 - 0,Club Brugge,Antwerp
+21/10/2017,1 - 1,Kortrijk,Gent
+21/10/2017,4 - 1,AS Eupen,Mechelen
+21/10/2017,1 - 0,Sint-Truiden,KV Oostende
+21/10/2017,1 - 1,Lokeren,Sporting Charleroi
+20/10/2017,1 - 3,Royal Excel Mouscron,Standard Liège
+15/10/2017,3 - 0,Antwerp,Zulte-Waregem
+15/10/2017,2 - 3,KV Oostende,Club Brugge
+15/10/2017,3 - 1,Standard Liège,Kortrijk
+14/10/2017,2 - 0,Gent,Waasland-Beveren
+14/10/2017,1 - 1,Genk,Royal Excel Mouscron
+14/10/2017,1 - 1,Lokeren,Sint-Truiden
+14/10/2017,2 - 2,Sporting Charleroi,AS Eupen
+13/10/2017,3 - 4,Mechelen,Anderlecht
+01/10/2017,1 - 3,Zulte-Waregem,Lokeren
+01/10/2017,1 - 0,Anderlecht,Standard Liège
+01/10/2017,2 - 1,Club Brugge,Gent
+30/09/2017,1 - 2,Kortrijk,KV Oostende
+30/09/2017,2 - 2,Royal Excel Mouscron,Mechelen
+30/09/2017,3 - 0,Waasland-Beveren,Antwerp
+30/09/2017,3 - 3,AS Eupen,Genk
+29/09/2017,0 - 1,Sint-Truiden,Sporting Charleroi
+24/09/2017,2 - 1,Standard Liège,Lokeren
+24/09/2017,1 - 2,Sporting Charleroi,Club Brugge
+24/09/2017,0 - 1,Gent,Zulte-Waregem
+23/09/2017,1 - 2,Waasland-Beveren,Anderlecht
+23/09/2017,2 - 0,Mechelen,Sint-Truiden
+23/09/2017,3 - 2,Royal Excel Mouscron,AS Eupen
+23/09/2017,1 - 1,Genk,KV Oostende
+22/09/2017,3 - 0,Antwerp,Kortrijk
+17/09/2017,1 - 1,AS Eupen,Standard Liège
+17/09/2017,0 - 2,KV Oostende,Gent
+17/09/2017,2 - 1,Zulte-Waregem,Royal Excel Mouscron
+16/09/2017,2 - 1,Sint-Truiden,Genk
+16/09/2017,1 - 1,Lokeren,Antwerp
+16/09/2017,2 - 2,Sporting Charleroi,Waasland-Beveren
+16/09/2017,2 - 2,Kortrijk,Anderlecht
+15/09/2017,2 - 0,Club Brugge,Mechelen
+10/09/2017,1 - 1,Mechelen,KV Oostende
+10/09/2017,0 - 0,Standard Liège,Sporting Charleroi
+10/09/2017,1 - 1,Gent,Genk
+09/09/2017,2 - 2,Zulte-Waregem,Kortrijk
+09/09/2017,1 - 1,Antwerp,Sint-Truiden
+09/09/2017,5 - 1,Waasland-Beveren,AS Eupen
+09/09/2017,2 - 1,Royal Excel Mouscron,Club Brugge
+08/09/2017,3 - 2,Anderlecht,Lokeren
+27/08/2017,3 - 4,KV Oostende,Antwerp
+27/08/2017,0 - 0,Gent,Anderlecht
+27/08/2017,4 - 0,Club Brugge,Standard Liège
+26/08/2017,1 - 0,Genk,Mechelen
+26/08/2017,3 - 0,Lokeren,AS Eupen
+26/08/2017,1 - 0,Sint-Truiden,Waasland-Beveren
+26/08/2017,3 - 2,Sporting Charleroi,Zulte-Waregem
+25/08/2017,1 - 1,Kortrijk,Royal Excel Mouscron
+20/08/2017,3 - 2,Royal Excel Mouscron,Gent
+20/08/2017,1 - 2,Kortrijk,Club Brugge
+20/08/2017,2 - 3,Anderlecht,Sint-Truiden
+19/08/2017,1 - 2,Mechelen,Antwerp
+19/08/2017,2 - 1,AS Eupen,KV Oostende
+19/08/2017,2 - 3,Waasland-Beveren,Lokeren
+19/08/2017,0 - 1,Genk,Sporting Charleroi
+18/08/2017,0 - 4,Standard Liège,Zulte-Waregem
+13/08/2017,1 - 0,Sint-Truiden,Standard Liège
+13/08/2017,2 - 0,Sporting Charleroi,Anderlecht
+13/08/2017,3 - 5,Antwerp,Genk
+12/08/2017,0 - 3,KV Oostende,Waasland-Beveren
+12/08/2017,1 - 2,AS Eupen,Kortrijk
+12/08/2017,0 - 2,Lokeren,Royal Excel Mouscron
+12/08/2017,1 - 1,Mechelen,Gent
+11/08/2017,1 - 2,Zulte-Waregem,Club Brugge
+06/08/2017,3 - 1,Club Brugge,AS Eupen
+06/08/2017,1 - 0,Anderlecht,KV Oostende
+06/08/2017,0 - 1,Gent,Antwerp
+05/08/2017,2 - 0,Zulte-Waregem,Sint-Truiden
+05/08/2017,1 - 0,Kortrijk,Lokeren
+05/08/2017,2 - 2,Waasland-Beveren,Mechelen
+05/08/2017,2 - 5,Royal Excel Mouscron,Sporting Charleroi
+04/08/2017,2 - 1,Standard Liège,Genk
+30/07/2017,0 - 1,KV Oostende,Royal Excel Mouscron
+30/07/2017,3 - 2,Sint-Truiden,Gent
+30/07/2017,1 - 1,Mechelen,Standard Liège
+29/07/2017,1 - 0,Sporting Charleroi,Kortrijk
+29/07/2017,0 - 5,AS Eupen,Zulte-Waregem
+29/07/2017,3 - 3,Genk,Waasland-Beveren
+29/07/2017,0 - 4,Lokeren,Club Brugge
+28/07/2017,0 - 0,Antwerp,Anderlecht

@@ -1,0 +1,476 @@
+date,score,home_team,away_team
+18/05/2016,1 - 3,[N] Liverpool,Sevilla
+05/05/2016,3 - 0,Liverpool,Villarreal
+05/05/2016,3 - 1,Sevilla,Shakhtar Donetsk
+28/04/2016,2 - 2,Shakhtar Donetsk,Sevilla
+28/04/2016,1 - 0,Villarreal,Liverpool
+14/04/2016,4 - 3,Liverpool,Borussia Dortmund
+14/04/2016,1 - 2, [PS] Sevilla,Athletic Club
+14/04/2016,4 - 0,Shakhtar Donetsk,Sporting Braga
+14/04/2016,2 - 4,Sparta Praha,Villarreal
+07/04/2016,1 - 2,Athletic Club,Sevilla
+07/04/2016,1 - 1,Borussia Dortmund,Liverpool
+07/04/2016,1 - 2,Sporting Braga,Shakhtar Donetsk
+07/04/2016,2 - 1,Villarreal,Sparta Praha
+17/03/2016,0 - 1,Anderlecht,Shakhtar Donetsk
+17/03/2016,1 - 1,Manchester United,Liverpool
+17/03/2016,3 - 0,Sevilla,Basel
+17/03/2016,4 - 1,Sporting Braga,Fenerbahçe
+17/03/2016,1 - 2,Tottenham Hotspur,Borussia Dortmund
+17/03/2016,0 - 0,Bayer Leverkusen,Villarreal
+17/03/2016,0 - 3,Lazio,Sparta Praha
+17/03/2016,2 - 1,Valencia,Athletic Club
+10/03/2016,1 - 0,Athletic Club,Valencia
+10/03/2016,2 - 0,Liverpool,Manchester United
+10/03/2016,1 - 1,Sparta Praha,Lazio
+10/03/2016,2 - 0,Villarreal,Bayer Leverkusen
+10/03/2016,0 - 0,Basel,Sevilla
+10/03/2016,3 - 0,Borussia Dortmund,Tottenham Hotspur
+10/03/2016,1 - 0,Fenerbahçe,Sporting Braga
+10/03/2016,3 - 1,Shakhtar Donetsk,Anderlecht
+25/02/2016,2 - 1,Basel,Saint-Étienne
+25/02/2016,5 - 1,Manchester United,Midtjylland
+25/02/2016,1 - 0,Molde,Sevilla
+25/02/2016,1 - 1,Napoli,Villarreal
+25/02/2016,1 - 0,Olympiakos Piraeus,Anderlecht [ET] 
+25/02/2016,0 - 1,Porto,Borussia Dortmund
+25/02/2016,3 - 0,Tottenham Hotspur,Fiorentina
+25/02/2016,1 - 1,Athletic Club,Olympique Marseille
+25/02/2016,3 - 1,Bayer Leverkusen,Sporting CP
+25/02/2016,0 - 3,Krasnodar,Sparta Praha
+25/02/2016,3 - 1,Lazio,Galatasaray
+25/02/2016,1 - 0,Liverpool,Augsburg
+25/02/2016,0 - 4,Rapid Wien,Valencia
+25/02/2016,0 - 3,Schalke 04,Shakhtar Donetsk
+25/02/2016,1 - 1,Lokomotiv Moskva,Fenerbahçe
+24/02/2016,2 - 2,Sporting Braga,Sion
+18/02/2016,0 - 0,Augsburg,Liverpool
+18/02/2016,1 - 1,Galatasaray,Lazio
+18/02/2016,0 - 1,Olympique Marseille,Athletic Club
+18/02/2016,0 - 0,Shakhtar Donetsk,Schalke 04
+18/02/2016,1 - 2,Sion,Sporting Braga
+18/02/2016,1 - 0,Sparta Praha,Krasnodar
+18/02/2016,0 - 1,Sporting CP,Bayer Leverkusen
+18/02/2016,6 - 0,Valencia,Rapid Wien
+18/02/2016,1 - 0,Anderlecht,Olympiakos Piraeus
+18/02/2016,2 - 0,Borussia Dortmund,Porto
+18/02/2016,1 - 1,Fiorentina,Tottenham Hotspur
+18/02/2016,2 - 1,Midtjylland,Manchester United
+18/02/2016,3 - 2,Saint-Étienne,Basel
+18/02/2016,3 - 0,Sevilla,Molde
+18/02/2016,1 - 0,Villarreal,Napoli
+16/02/2016,2 - 0,Fenerbahçe,Lokomotiv Moskva
+10/12/2015,1 - 1,Ajax,Molde
+10/12/2015,1 - 1,Fenerbahçe,Celtic
+26/11/2015,1 - 2,Celtic,Ajax
+26/11/2015,0 - 2,Molde,Fenerbahçe
+05/11/2015,0 - 0,Ajax,Fenerbahçe
+05/11/2015,1 - 2,Celtic,Molde
+22/10/2015,1 - 0,Fenerbahçe,Ajax
+22/10/2015,3 - 1,Molde,Celtic
+01/10/2015,2 - 2,Celtic,Fenerbahçe
+01/10/2015,1 - 1,Molde,Ajax
+17/09/2015,2 - 2,Ajax,Celtic
+17/09/2015,1 - 3,Fenerbahçe,Molde
+10/12/2015,2 - 2,Bordeaux,Rubin Kazan'
+10/12/2015,0 - 0,Sion,Liverpool
+26/11/2015,2 - 1,Liverpool,Bordeaux
+26/11/2015,2 - 0,Rubin Kazan',Sion
+05/11/2015,0 - 1,Rubin Kazan',Liverpool
+05/11/2015,1 - 1,Sion,Bordeaux
+22/10/2015,0 - 1,Bordeaux,Sion
+22/10/2015,1 - 1,Liverpool,Rubin Kazan'
+01/10/2015,1 - 1,Liverpool,Sion
+01/10/2015,0 - 0,[N] Rubin Kazan',Bordeaux
+17/09/2015,1 - 1,Bordeaux,Liverpool
+17/09/2015,2 - 1,Sion,Rubin Kazan'
+10/12/2015,0 - 1,Borussia Dortmund,PAOK
+10/12/2015,0 - 3,[N] Qəbələ,Krasnodar
+26/11/2015,0 - 0,PAOK,Qəbələ
+26/11/2015,1 - 0,Krasnodar,Borussia Dortmund
+05/11/2015,4 - 0,Borussia Dortmund,Qəbələ
+05/11/2015,2 - 1,Krasnodar,PAOK
+22/10/2015,0 - 0,PAOK,Krasnodar
+22/10/2015,1 - 3,[N] Qəbələ,Borussia Dortmund
+01/10/2015,2 - 1,Krasnodar,Qəbələ
+01/10/2015,1 - 1,PAOK,Borussia Dortmund
+17/09/2015,2 - 1,Borussia Dortmund,Krasnodar
+17/09/2015,0 - 0,[N] Qəbələ,PAOK
+10/12/2015,1 - 1,Midtjylland,Club Brugge
+10/12/2015,5 - 2,Napoli,Legia Warszawa
+26/11/2015,0 - 1,Club Brugge,Napoli
+26/11/2015,1 - 0,Legia Warszawa,Midtjylland
+05/11/2015,1 - 0,Club Brugge,Legia Warszawa
+05/11/2015,5 - 0,Napoli,Midtjylland
+22/10/2015,1 - 1,Legia Warszawa,Club Brugge
+22/10/2015,1 - 4,Midtjylland,Napoli
+01/10/2015,1 - 3,Club Brugge,Midtjylland
+01/10/2015,0 - 2,Legia Warszawa,Napoli
+17/09/2015,1 - 0,Midtjylland,Legia Warszawa
+17/09/2015,5 - 0,Napoli,Club Brugge
+10/12/2015,2 - 1,Rapid Wien,Dinamo Minsk
+10/12/2015,3 - 3,Viktoria Plzeň,Villarreal
+26/11/2015,1 - 0,Villarreal,Rapid Wien
+26/11/2015,1 - 0,[N] Dinamo Minsk,Viktoria Plzeň
+05/11/2015,1 - 2,[N] Dinamo Minsk,Villarreal
+05/11/2015,1 - 2,Viktoria Plzeň,Rapid Wien
+22/10/2015,3 - 2,Rapid Wien,Viktoria Plzeň
+22/10/2015,4 - 0,Villarreal,Dinamo Minsk
+01/10/2015,0 - 1,[N] Dinamo Minsk,Rapid Wien
+01/10/2015,1 - 0,Villarreal,Viktoria Plzeň
+17/09/2015,2 - 1,Rapid Wien,Villarreal
+17/09/2015,2 - 0,Viktoria Plzeň,Dinamo Minsk
+10/12/2015,0 - 0,Groningen,Sporting Braga
+10/12/2015,2 - 4,Slovan Liberec,Olympique Marseille
+26/11/2015,2 - 1,Olympique Marseille,Groningen
+26/11/2015,2 - 1,Sporting Braga,Slovan Liberec
+05/11/2015,0 - 1,Groningen,Slovan Liberec
+05/11/2015,1 - 0,Olympique Marseille,Sporting Braga
+22/10/2015,1 - 1,Slovan Liberec,Groningen
+22/10/2015,3 - 2,Sporting Braga,Olympique Marseille
+01/10/2015,0 - 1,Olympique Marseille,Slovan Liberec
+01/10/2015,1 - 0,Sporting Braga,Groningen
+17/09/2015,0 - 3,Groningen,Olympique Marseille
+17/09/2015,0 - 1,Slovan Liberec,Sporting Braga
+10/12/2015,3 - 0,Dnipro Dnipropetrovsk,Rosenborg
+10/12/2015,1 - 1,Saint-Étienne,Lazio
+26/11/2015,3 - 1,Lazio,Dnipro Dnipropetrovsk
+26/11/2015,1 - 1,Rosenborg,Saint-Étienne
+05/11/2015,0 - 2,Rosenborg,Lazio
+05/11/2015,3 - 0,Saint-Étienne,Dnipro Dnipropetrovsk
+22/10/2015,0 - 1,Dnipro Dnipropetrovsk,Saint-Étienne
+22/10/2015,3 - 1,Lazio,Rosenborg
+01/10/2015,3 - 2,Lazio,Saint-Étienne
+01/10/2015,0 - 1,Rosenborg,Dnipro Dnipropetrovsk
+17/09/2015,1 - 1,Dnipro Dnipropetrovsk,Lazio
+17/09/2015,2 - 2,Saint-Étienne,Rosenborg
+10/12/2015,0 - 3,Skënderbeu Korçë,Lokomotiv Moskva
+10/12/2015,3 - 1,Sporting CP,Beşiktaş
+26/11/2015,2 - 0,Beşiktaş,Skënderbeu Korçë
+26/11/2015,2 - 4,Lokomotiv Moskva,Sporting CP
+05/11/2015,3 - 0,Skënderbeu Korçë,Sporting CP
+05/11/2015,1 - 1,Beşiktaş,Lokomotiv Moskva
+22/10/2015,1 - 1,Lokomotiv Moskva,Beşiktaş
+22/10/2015,5 - 1,Sporting CP,Skënderbeu Korçë
+01/10/2015,1 - 1,Beşiktaş,Sporting CP
+01/10/2015,2 - 0,Lokomotiv Moskva,Skënderbeu Korçë
+17/09/2015,0 - 1,Skënderbeu Korçë,Beşiktaş
+17/09/2015,1 - 3,Sporting CP,Lokomotiv Moskva
+10/12/2015,1 - 0,Fiorentina,Belenenses
+10/12/2015,0 - 1,Lech Poznań,Basel
+26/11/2015,2 - 2,Basel,Fiorentina
+26/11/2015,0 - 0,Belenenses,Lech Poznań
+05/11/2015,0 - 2,Belenenses,Basel
+05/11/2015,0 - 2,Lech Poznań,Fiorentina
+22/10/2015,1 - 2,Basel,Belenenses
+22/10/2015,1 - 2,Fiorentina,Lech Poznań
+01/10/2015,2 - 0,Basel,Lech Poznań
+01/10/2015,0 - 4,Belenenses,Fiorentina
+17/09/2015,1 - 2,Fiorentina,Basel
+17/09/2015,0 - 0,Lech Poznań,Belenenses
+10/12/2015,2 - 1,Anderlecht,Qarabağ
+10/12/2015,4 - 1,Tottenham Hotspur,Monaco
+26/11/2015,0 - 2,Monaco,Anderlecht
+26/11/2015,0 - 1,Qarabağ,Tottenham Hotspur
+05/11/2015,2 - 1,Tottenham Hotspur,Anderlecht
+05/11/2015,1 - 1,Qarabağ,Monaco
+22/10/2015,2 - 1,Anderlecht,Tottenham Hotspur
+22/10/2015,1 - 0,Monaco,Qarabağ
+01/10/2015,1 - 1,Monaco,Tottenham Hotspur
+01/10/2015,1 - 0,Qarabağ,Anderlecht
+17/09/2015,1 - 1,Anderlecht,Monaco
+17/09/2015,3 - 1,Tottenham Hotspur,Qarabağ
+10/12/2015,1 - 3,APOEL,Sparta Praha
+10/12/2015,0 - 4,Asteras Tripolis,Schalke 04
+26/11/2015,1 - 0,Schalke 04,APOEL
+26/11/2015,1 - 0,Sparta Praha,Asteras Tripolis
+05/11/2015,2 - 0,Asteras Tripolis,APOEL
+05/11/2015,1 - 1,Sparta Praha,Schalke 04
+22/10/2015,2 - 1,APOEL,Asteras Tripolis
+22/10/2015,2 - 2,Schalke 04,Sparta Praha
+01/10/2015,4 - 0,Schalke 04,Asteras Tripolis
+01/10/2015,2 - 0,Sparta Praha,APOEL
+17/09/2015,0 - 3,APOEL,Schalke 04
+17/09/2015,1 - 1,Asteras Tripolis,Sparta Praha
+10/12/2015,2 - 2,Athletic Club,AZ
+10/12/2015,1 - 3,Partizan,Augsburg
+26/11/2015,2 - 3,Augsburg,Athletic Club
+26/11/2015,1 - 2,AZ,Partizan
+05/11/2015,5 - 1,Athletic Club,Partizan
+05/11/2015,4 - 1,Augsburg,AZ
+22/10/2015,0 - 1,AZ,Augsburg
+22/10/2015,0 - 2,Partizan,Athletic Club
+01/10/2015,1 - 3,Augsburg,Partizan
+01/10/2015,2 - 1,AZ,Athletic Club
+17/09/2015,3 - 1,Athletic Club,Augsburg
+17/09/2015,3 - 2,Partizan,AZ
+27/08/2015,0 - 0,Belenenses,Rheindorf Altach
+27/08/2015,3 - 2,Legia Warszawa,Zorya
+27/08/2015,1 - 0,Athletic Club,Žilina
+27/08/2015,1 - 0,Midtjylland,Southampton
+27/08/2015,7 - 2,Borussia Dortmund,Odd
+27/08/2015,2 - 0,Salzburg,Dinamo Minsk [PS] 
+27/08/2015,3 - 1,Standard Liège,Molde
+27/08/2015,0 - 2,Vojvodina,Viktoria Plzeň
+27/08/2015,2 - 0,AZ,Astra
+27/08/2015,1 - 1,Brøndby,PAOK
+27/08/2015,3 - 0,Fenerbahçe,Atromitos
+27/08/2015,0 - 1,Hajduk Split,Slovan Liberec
+27/08/2015,2 - 2,Panathinaikos,Qəbələ
+27/08/2015,0 - 1,Rosenborg,FCSB
+27/08/2015,1 - 0,Saint-Étienne,Milsami
+27/08/2015,3 - 3,Thun,Sparta Praha
+27/08/2015,0 - 0,HJK,Krasnodar
+27/08/2015,0 - 1,Videoton,Lech Poznań
+27/08/2015,0 - 0,Jablonec,Ajax
+27/08/2015,3 - 0,Qarabağ,Young Boys
+27/08/2015,1 - 0,[N] Rubin Kazan',Rabotnički
+27/08/2015,2 - 1,Kairat,Bordeaux
+20/08/2015,3 - 0,Lech Poznań,Videoton
+20/08/2015,1 - 1,Southampton,Midtjylland
+20/08/2015,3 - 0,Viktoria Plzeň,Vojvodina
+20/08/2015,1 - 0,Bordeaux,Kairat
+20/08/2015,3 - 4,Odd,Borussia Dortmund
+20/08/2015,0 - 1,Rheindorf Altach,Belenenses
+20/08/2015,3 - 2,Žilina,Athletic Club
+20/08/2015,0 - 1,Atromitos,Fenerbahçe
+20/08/2015,0 - 3,FCSB,Rosenborg
+20/08/2015,1 - 1,Rabotnički,Rubin Kazan'
+20/08/2015,0 - 1,Young Boys,Qarabağ
+20/08/2015,1 - 1,[N] Milsami,Saint-Étienne
+20/08/2015,1 - 0,Ajax,Jablonec
+20/08/2015,5 - 1,Krasnodar,HJK
+20/08/2015,2 - 0,Molde,Standard Liège
+20/08/2015,5 - 0,PAOK,Brøndby
+20/08/2015,1 - 0,Slovan Liberec,Hajduk Split
+20/08/2015,3 - 1,Sparta Praha,Thun
+20/08/2015,0 - 1,Zorya,Legia Warszawa
+20/08/2015,3 - 2,Astra,AZ
+20/08/2015,2 - 0,Dinamo Minsk,Salzburg
+20/08/2015,0 - 0,[N] Qəbələ,Panathinaikos
+06/08/2015,1 - 4,Vitória Guimarães,Rheindorf Altach
+06/08/2015,1 - 0,Legia Warszawa,Kukësi
+06/08/2015,0 - 2,Vojvodina,Sampdoria
+06/08/2015,1 - 1,Aberdeen,Kairat
+06/08/2015,5 - 0,Borussia Dortmund,Wolfsberger AC
+06/08/2015,3 - 3,Slovan Bratislava,Krasnodar
+06/08/2015,1 - 1,Spartak Trnava,PAOK
+06/08/2015,2 - 1,Astra,West Ham United
+06/08/2015,1 - 0,Atromitos,AIK
+06/08/2015,1 - 2,Saint-Étienne,Târgu Mureş
+06/08/2015,0 - 2,Vitesse,Southampton
+06/08/2015,0 - 1,Željezničar,Standard Liège
+06/08/2015,3 - 0,Zorya,Sporting Charleroi
+06/08/2015,2 - 3,København,Jablonec
+06/08/2015,0 - 1,AEK Larnaca ,Bordeaux
+06/08/2015,2 - 2,Vaduz,Thun
+06/08/2015,0 - 1,[N] Dinamo Minsk,Zürich
+06/08/2015,0 - 0,IFK Göteborg,Belenenses
+06/08/2015,0 - 3,Ironi Kiryat Shmona,Slovan Liberec
+06/08/2015,1 - 2,İstanbul Başakşehir,AZ
+06/08/2015,2 - 0,Odd,Elfsborg
+06/08/2015,3 - 1,Rosenborg,Debrecen
+06/08/2015,0 - 2,Strømsgodset,Hajduk Split
+06/08/2015,1 - 0,Trabzonspor,Rabotnički
+06/08/2015,2 - 0, [ET] Vorskla,Žilina
+06/08/2015,0 - 0,Keşlə,Athletic Club
+06/08/2015,2 - 2,Omonia Nicosia,Brøndby
+06/08/2015,1 - 0,[N] Qəbələ,Apollon
+06/08/2015,1 - 1,[N] Rubin Kazan',Sturm Graz
+30/07/2015,3 - 0,Southampton,Vitesse
+30/07/2015,0 - 1,Wolfsberger AC,Borussia Dortmund
+30/07/2015,2 - 1,Belenenses,IFK Göteborg
+30/07/2015,2 - 0,Hajduk Split,Strømsgodset
+30/07/2015,0 - 4,Sampdoria,Vojvodina
+30/07/2015,2 - 0,Athletic Club,Keşlə
+30/07/2015,2 - 2,West Ham United,Astra
+30/07/2015,3 - 0,Bordeaux,AEK Larnaca 
+30/07/2015,0 - 2,Sporting Charleroi,Zorya
+30/07/2015,2 - 1,Standard Liège,Željezničar
+30/07/2015,0 - 0,Brøndby,Omonia Nicosia
+30/07/2015,2 - 3,Debrecen,Rosenborg
+30/07/2015,0 - 3,Kukësi,Legia Warszawa
+30/07/2015,1 - 0,Rabotnički,Trabzonspor
+30/07/2015,0 - 3,Târgu Mureş,Saint-Étienne
+30/07/2015,2 - 0,AZ,İstanbul Başakşehir
+30/07/2015,0 - 0,Thun,Vaduz
+30/07/2015,2 - 0,Žilina,Vorskla
+30/07/2015,0 - 1,Zürich,Dinamo Minsk
+30/07/2015,1 - 3,AIK,Atromitos
+30/07/2015,1 - 1,Apollon,Qəbələ
+30/07/2015,2 - 0,Krasnodar,Slovan Bratislava
+30/07/2015,1 - 0,PAOK,Spartak Trnava
+30/07/2015,2 - 1,Rheindorf Altach,Vitória Guimarães
+30/07/2015,2 - 1,Slovan Liberec,Ironi Kiryat Shmona
+30/07/2015,2 - 3,Sturm Graz,Rubin Kazan'
+30/07/2015,2 - 1,Elfsborg,Odd
+30/07/2015,2 - 1,Kairat,Aberdeen
+29/07/2015,0 - 1,Jablonec,København
+23/07/2015,2 - 2,Aberdeen,Rijeka
+23/07/2015,1 - 0,Birkirkara,West Ham United [PS] 
+23/07/2015,1 - 3,Linfield,Spartak Trnava
+23/07/2015,2 - 4,Mladost,Kukësi
+23/07/2015,2 - 0,Wolfsberger AC,Shakhtyor
+23/07/2015,0 - 0,Astra,Inverness CT
+23/07/2015,2 - 0,Rabotnički,Jelgava
+23/07/2015,1 - 3,Newtown,København
+23/07/2015,2 - 1,Thun,Hapoel Be'er Sheva
+23/07/2015,4 - 2,Žilina,Dacia
+23/07/2015,1 - 4,Beitar Jerusalem,Sporting Charleroi
+23/07/2015,0 - 3,Botoşani,Legia Warszawa
+23/07/2015,0 - 0,Brøndby,Beroe
+23/07/2015,1 - 2,[N] Differdange 03,Trabzonspor
+23/07/2015,4 - 1,Hajduk Split,Koper
+23/07/2015,2 - 0,IFK Göteborg,Śląsk Wrocław
+23/07/2015,2 - 1,Odd,Shamrock Rovers
+23/07/2015,6 - 0,PAOK,Lokomotiva Zagreb
+23/07/2015,3 - 0,Rosenborg,KR
+23/07/2015,0 - 1,Strømsgodset,Mladá Boleslav
+23/07/2015,0 - 0,Trakai,Apollon
+23/07/2015,1 - 5,UCD,Slovan Bratislava
+23/07/2015,1 - 2,Keşlə,FH
+23/07/2015,0 - 2,Nõmme Kalju,Vaduz
+23/07/2015,1 - 0,Omonia Nicosia,Jagiellonia Białystok
+23/07/2015,2 - 0,[N] Qəbələ,Čukarički
+23/07/2015,1 - 1,Spartaks Jūrmala,Vojvodina
+23/07/2015,2 - 0,Željezničar,Ferencváros
+23/07/2015,2 - 1,Alashkert,Kairat
+23/07/2015,9 - 2,Debrecen,Skonto
+23/07/2015,4 - 0,[N] Dinamo Minsk,Cherno More
+23/07/2015,0 - 2,Shirak,AIK
+21/07/2015,0 - 0, [ET] Elfsborg,Randers
+16/07/2015,1 - 2,FH,Keşlə
+16/07/2015,0 - 1,KR,Rosenborg
+16/07/2015,1 - 0,Legia Warszawa,Botoşani
+16/07/2015,0 - 3,Rijeka,Aberdeen
+16/07/2015,0 - 2,Shamrock Rovers,Odd
+16/07/2015,0 - 1,Inverness CT,Astra
+16/07/2015,1 - 0,West Ham United,Birkirkara
+16/07/2015,1 - 0,Čukarički,Qəbələ
+16/07/2015,0 - 1,Ferencváros,Željezničar
+16/07/2015,0 - 0,Jagiellonia Białystok,Omonia Nicosia
+16/07/2015,0 - 0,Śląsk Wrocław,IFK Göteborg
+16/07/2015,3 - 0,Vojvodina,Spartaks Jūrmala
+16/07/2015,1 - 0,Slovan Bratislava,UCD
+16/07/2015,2 - 1,Spartak Trnava,Linfield
+16/07/2015,2 - 1,Lokomotiva Zagreb,PAOK
+16/07/2015,1 - 0,Trabzonspor,Differdange 03
+16/07/2015,2 - 0,København,Newtown
+16/07/2015,3 - 1,Vaduz,Nõmme Kalju
+16/07/2015,0 - 1,Kukësi,Mladost
+16/07/2015,5 - 1,Sporting Charleroi,Beitar Jerusalem
+16/07/2015,2 - 0,[N] AIK,Shirak
+16/07/2015,4 - 0,Apollon,Trakai
+16/07/2015,0 - 1,Beroe,Brøndby
+16/07/2015,1 - 1,Cherno More,Dinamo Minsk
+16/07/2015,1 - 1,Hapoel Be'er Sheva,Thun
+16/07/2015,3 - 2,Koper,Hajduk Split
+16/07/2015,1 - 2,Mladá Boleslav,Strømsgodset
+16/07/2015,0 - 1,Shakhtyor,Wolfsberger AC
+16/07/2015,1 - 2,Dacia,Žilina
+16/07/2015,0 - 0,Randers,Elfsborg
+16/07/2015,2 - 2,Skonto,Debrecen
+16/07/2015,1 - 0,Jelgava,Rabotnički
+16/07/2015,3 - 0,Kairat,Alashkert
+09/07/2015,1 - 0,FH,SJK
+09/07/2015,1 - 1, [ET] KR,Cork City
+09/07/2015,1 - 0,Željezničar,Balzan
+09/07/2015,0 - 0,Aberdeen,Shkendija
+09/07/2015,1 - 4,HB,Trakai
+09/07/2015,0 - 2,St Patrick's Athl.,Skonto
+09/07/2015,2 - 1,St. Johnstone,Alashkert
+09/07/2015,1 - 2,[N] Valletta,Newtown
+09/07/2015,0 - 0,Čukarički,Domžale
+09/07/2015,4 - 1,Ferencváros,Go Ahead Eagles
+09/07/2015,8 - 0,Jagiellonia Białystok,Kruoja
+09/07/2015,0 - 2,Juvenes / Dogana,Brøndby
+09/07/2015,2 - 2,Koper,Víkingur Reykjavík
+09/07/2015,1 - 1,Mladost,Neftçi
+09/07/2015,3 - 1,Vojvodina,MTK
+09/07/2015,0 - 0,Spartak Trnava,Olimpik Sarajevo
+09/07/2015,2 - 1,Bala Town,Differdange 03
+09/07/2015,4 - 3,NSÍ,Linfield
+09/07/2015,0 - 1,[N] Partizani Tirana,Strømsgodset
+09/07/2015,2 - 0,Rabotnički,Flora
+09/07/2015,3 - 1,Śląsk Wrocław,Celje
+09/07/2015,2 - 2,Lovech,Jelgava
+09/07/2015,5 - 1,Vaduz,La Fiorita
+09/07/2015,2 - 2,Lokomotiva Zagreb,Airbus UK
+09/07/2015,0 - 1,Lusitanos,West Ham United
+09/07/2015,3 - 0,Žilina,Glentoran
+09/07/2015,2 - 1,Zrinjski,Shirak
+09/07/2015,3 - 0,[N] Randers,Sant Julià
+09/07/2015,4 - 0,AIK,VPS
+09/07/2015,2 - 0,Apollon,Saxan
+09/07/2015,2 - 1,Beitar Jerusalem,Ordabasy
+09/07/2015,3 - 1,Beroe,Atlantas
+09/07/2015,6 - 2,[N] Hajduk Split,Sillamäe Kalev
+09/07/2015,0 - 0,Odd,Sheriff
+09/07/2015,0 - 0,Rosenborg,Víkingur
+09/07/2015,3 - 0,Slovan Bratislava,Europa
+09/07/2015,3 - 0,Shakhtyor,Glenavon
+09/07/2015,5 - 0,Elfsborg,Lahti
+09/07/2015,2 - 1,F91 Dudelange,UCD
+09/07/2015,0 - 0,Keşlə,Laçi
+09/07/2015,0 - 0,Nõmme Kalju,Aktobe
+09/07/2015,2 - 0,Omonia Nicosia,Dinamo Batumi
+09/07/2015,2 - 0,Qəbələ,Dinamo Tbilisi
+09/07/2015,0 - 0,Spartaks Jūrmala,Budućnost
+09/07/2015,0 - 0,Torpedo BelAZ,Kukësi
+09/07/2015,1 - 3,Tskhinvali,Botoşani
+09/07/2015,1 - 3,Ulisses,Birkirkara
+09/07/2015,2 - 0,Sutjeska,Debrecen
+09/07/2015,4 - 1,[N] Dacia,Renova
+09/07/2015,2 - 1,Kairat,Crvena Zvezda
+07/07/2015,3 - 0,Shamrock Rovers,Progrès Niederkorn
+02/07/2015,0 - 1,Víkingur Reykjavík,Koper
+02/07/2015,1 - 1,Shkendija,Aberdeen
+02/07/2015,1 - 4,Glentoran,Žilina
+02/07/2015,0 - 0,[N] Birkirkara,Ulisses
+02/07/2015,1 - 1,Cork City,KR
+02/07/2015,0 - 2,Crvena Zvezda,Kairat
+02/07/2015,1 - 2,Glenavon,Shakhtyor
+02/07/2015,2 - 0,Linfield,NSÍ
+02/07/2015,1 - 0,UCD,F91 Dudelange
+02/07/2015,3 - 0,West Ham United,Lusitanos
+02/07/2015,1 - 3,Budućnost,Spartaks Jūrmala
+02/07/2015,0 - 5,La Fiorita,Vaduz
+02/07/2015,0 - 0,MTK,Vojvodina
+02/07/2015,2 - 1,Newtown,Valletta
+02/07/2015,0 - 1,Celje,Śląsk Wrocław
+02/07/2015,0 - 1,Domžale,Čukarički
+02/07/2015,1 - 1,Go Ahead Eagles,Ferencváros
+02/07/2015,0 - 2,Víkingur,Rosenborg
+02/07/2015,1 - 3,Airbus UK,Lokomotiva Zagreb
+02/07/2015,0 - 6,Europa,Slovan Bratislava
+02/07/2015,1 - 1,Botoşani,Tskhinvali
+02/07/2015,9 - 0,Brøndby,Juvenes / Dogana
+02/07/2015,3 - 1,Differdange 03,Bala Town
+02/07/2015,0 - 2,Saxan,Apollon
+02/07/2015,0 - 3,Sheriff,Odd
+02/07/2015,3 - 1,Strømsgodset,Partizani Tirana
+02/07/2015,3 - 0,[N] Trakai,HB
+02/07/2015,3 - 0,Debrecen,Sutjeska
+02/07/2015,1 - 1,Sillamäe Kalev,Hajduk Split
+02/07/2015,0 - 1,Aktobe,Nõmme Kalju
+02/07/2015,0 - 2,Atlantas,Beroe
+02/07/2015,1 - 0,Dinamo Batumi,Omonia Nicosia
+02/07/2015,2 - 1,Dinamo Tbilisi,Qəbələ
+02/07/2015,1 - 0,Flora,Rabotnički
+02/07/2015,1 - 1,Jelgava,Lovech
+02/07/2015,2 - 0,Kukësi,Torpedo BelAZ
+02/07/2015,2 - 2,Lahti,Elfsborg
+02/07/2015,2 - 2,Neftçi,Mladost
+02/07/2015,1 - 1,Olimpik Sarajevo,Spartak Trnava
+02/07/2015,0 - 1,Sant Julià,Randers
+02/07/2015,0 - 1,SJK,FH
+02/07/2015,2 - 1,Skonto,St Patrick's Athl.
+02/07/2015,2 - 2,VPS,AIK
+02/07/2015,1 - 1,Laçi,Keşlə
+02/07/2015,1 - 0,Alashkert,St. Johnstone
+02/07/2015,0 - 1,Kruoja,Jagiellonia Białystok
+02/07/2015,2 - 0,Shirak,Zrinjski
+02/07/2015,0 - 0,Ordabasy,Beitar Jerusalem
+30/06/2015,0 - 1,Renova,Dacia
+30/06/2015,0 - 0,Progrès Niederkorn,Shamrock Rovers
+30/06/2015,0 - 2,[N] Balzan,Željezničar

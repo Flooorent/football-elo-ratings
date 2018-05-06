@@ -1,0 +1,216 @@
+date,score,home_team,away_team
+06/06/2015,1 - 3,[N] Juventus,Barcelona
+13/05/2015,1 - 1,Real Madrid,Juventus
+12/05/2015,3 - 2,Bayern München,Barcelona
+06/05/2015,3 - 0,Barcelona,Bayern München
+05/05/2015,2 - 1,Juventus,Real Madrid
+22/04/2015,0 - 0,Monaco,Juventus
+22/04/2015,1 - 0,Real Madrid,Atlético Madrid
+21/04/2015,2 - 0,Barcelona,PSG
+21/04/2015,6 - 1,Bayern München,Porto
+15/04/2015,3 - 1,Porto,Bayern München
+15/04/2015,1 - 3,PSG,Barcelona
+14/04/2015,0 - 0,Atlético Madrid,Real Madrid
+14/04/2015,1 - 0,Juventus,Monaco
+18/03/2015,1 - 0,Barcelona,Manchester City
+18/03/2015,0 - 3,Borussia Dortmund,Juventus
+17/03/2015,1 - 0, [PS] Atlético Madrid,Bayer Leverkusen
+17/03/2015,0 - 2,Monaco,Arsenal
+11/03/2015,7 - 0,Bayern München,Shakhtar Donetsk
+11/03/2015,1 - 1,Chelsea,PSG
+10/03/2015,4 - 0,Porto,Basel
+10/03/2015,3 - 4,Real Madrid,Schalke 04
+25/02/2015,1 - 3,Arsenal,Monaco
+25/02/2015,1 - 0,Bayer Leverkusen,Atlético Madrid
+24/02/2015,2 - 1,Juventus,Borussia Dortmund
+24/02/2015,1 - 2,Manchester City,Barcelona
+18/02/2015,1 - 1,Basel,Porto
+18/02/2015,0 - 2,Schalke 04,Real Madrid
+17/02/2015,1 - 1,PSG,Chelsea
+17/02/2015,0 - 0,Shakhtar Donetsk,Bayern München
+09/12/2014,0 - 0,Juventus,Atlético Madrid
+09/12/2014,4 - 2,Olympiakos Piraeus,Malmö FF
+26/11/2014,4 - 0,Atlético Madrid,Olympiakos Piraeus
+26/11/2014,0 - 2,Malmö FF,Juventus
+04/11/2014,3 - 2,Juventus,Olympiakos Piraeus
+04/11/2014,0 - 2,Malmö FF,Atlético Madrid
+22/10/2014,5 - 0,Atlético Madrid,Malmö FF
+22/10/2014,1 - 0,Olympiakos Piraeus,Juventus
+01/10/2014,1 - 0,Atlético Madrid,Juventus
+01/10/2014,2 - 0,Malmö FF,Olympiakos Piraeus
+16/09/2014,2 - 0,Juventus,Malmö FF
+16/09/2014,3 - 2,Olympiakos Piraeus,Atlético Madrid
+09/12/2014,1 - 1,Liverpool,Basel
+09/12/2014,4 - 0,Real Madrid,Ludogorets
+26/11/2014,0 - 1,Basel,Real Madrid
+26/11/2014,2 - 2,[N] Ludogorets,Liverpool
+04/11/2014,4 - 0,Basel,Ludogorets
+04/11/2014,1 - 0,Real Madrid,Liverpool
+22/10/2014,0 - 3,Liverpool,Real Madrid
+22/10/2014,1 - 0,[N] Ludogorets,Basel
+01/10/2014,1 - 0,Basel,Liverpool
+01/10/2014,1 - 2,[N] Ludogorets,Real Madrid
+16/09/2014,2 - 1,Liverpool,Ludogorets
+16/09/2014,5 - 1,Real Madrid,Basel
+09/12/2014,0 - 0,Benfica,Bayer Leverkusen
+09/12/2014,2 - 0,Monaco,Zenit
+26/11/2014,0 - 1,Bayer Leverkusen,Monaco
+26/11/2014,1 - 0,Zenit,Benfica
+04/11/2014,1 - 0,Benfica,Monaco
+04/11/2014,1 - 2,Zenit,Bayer Leverkusen
+22/10/2014,2 - 0,Bayer Leverkusen,Zenit
+22/10/2014,0 - 0,Monaco,Benfica
+01/10/2014,3 - 1,Bayer Leverkusen,Benfica
+01/10/2014,0 - 0,Zenit,Monaco
+16/09/2014,0 - 2,Benfica,Zenit
+16/09/2014,1 - 0,Monaco,Bayer Leverkusen
+09/12/2014,1 - 1,Borussia Dortmund,Anderlecht
+09/12/2014,1 - 4,Galatasaray,Arsenal
+26/11/2014,2 - 0,Anderlecht,Galatasaray
+26/11/2014,2 - 0,Arsenal,Borussia Dortmund
+04/11/2014,3 - 3,Arsenal,Anderlecht
+04/11/2014,4 - 1,Borussia Dortmund,Galatasaray
+22/10/2014,1 - 2,Anderlecht,Arsenal
+22/10/2014,0 - 4,Galatasaray,Borussia Dortmund
+01/10/2014,0 - 3,Anderlecht,Borussia Dortmund
+01/10/2014,4 - 1,Arsenal,Galatasaray
+16/09/2014,2 - 0,Borussia Dortmund,Arsenal
+16/09/2014,1 - 1,Galatasaray,Anderlecht
+10/12/2014,3 - 0,Bayern München,CSKA Moskva
+10/12/2014,0 - 2,Roma,Manchester City
+25/11/2014,3 - 2,Manchester City,Bayern München
+25/11/2014,1 - 1,CSKA Moskva,Roma
+05/11/2014,2 - 0,Bayern München,Roma
+05/11/2014,1 - 2,Manchester City,CSKA Moskva
+21/10/2014,1 - 7,Roma,Bayern München
+21/10/2014,2 - 2,CSKA Moskva,Manchester City
+30/09/2014,1 - 1,Manchester City,Roma
+30/09/2014,0 - 1,CSKA Moskva,Bayern München
+17/09/2014,1 - 0,Bayern München,Manchester City
+17/09/2014,5 - 1,Roma,CSKA Moskva
+10/12/2014,4 - 0,Ajax,APOEL
+10/12/2014,3 - 1,Barcelona,PSG
+25/11/2014,0 - 4,APOEL,Barcelona
+25/11/2014,3 - 1,PSG,Ajax
+05/11/2014,0 - 2,Ajax,Barcelona
+05/11/2014,1 - 0,PSG,APOEL
+21/10/2014,0 - 1,APOEL,PSG
+21/10/2014,3 - 1,Barcelona,Ajax
+30/09/2014,1 - 1,APOEL,Ajax
+30/09/2014,3 - 2,PSG,Barcelona
+17/09/2014,1 - 1,Ajax,PSG
+17/09/2014,1 - 0,Barcelona,APOEL
+10/12/2014,3 - 1,Chelsea,Sporting CP
+10/12/2014,0 - 1,Maribor,Schalke 04
+25/11/2014,0 - 5,Schalke 04,Chelsea
+25/11/2014,3 - 1,Sporting CP,Maribor
+05/11/2014,1 - 1,Maribor,Chelsea
+05/11/2014,4 - 2,Sporting CP,Schalke 04
+21/10/2014,6 - 0,Chelsea,Maribor
+21/10/2014,4 - 3,Schalke 04,Sporting CP
+30/09/2014,1 - 1,Schalke 04,Maribor
+30/09/2014,0 - 1,Sporting CP,Chelsea
+17/09/2014,1 - 1,Chelsea,Schalke 04
+17/09/2014,1 - 1,Maribor,Sporting CP
+10/12/2014,2 - 0,Athletic Club,BATE
+10/12/2014,1 - 1,Porto,Shakhtar Donetsk
+25/11/2014,0 - 1,Shakhtar Donetsk,Athletic Club
+25/11/2014,0 - 3,BATE,Porto
+05/11/2014,0 - 2,Athletic Club,Porto
+05/11/2014,5 - 0,Shakhtar Donetsk,BATE
+21/10/2014,0 - 7,BATE,Shakhtar Donetsk
+21/10/2014,2 - 1,Porto,Athletic Club
+30/09/2014,2 - 1,BATE,Athletic Club
+30/09/2014,2 - 2,Shakhtar Donetsk,Porto
+17/09/2014,0 - 0,Athletic Club,Shakhtar Donetsk
+17/09/2014,6 - 0,Porto,BATE
+27/08/2014,1 - 0,Arsenal,Beşiktaş
+27/08/2014,3 - 1,Athletic Club,Napoli
+27/08/2014,4 - 0,Bayer Leverkusen,København
+27/08/2014,1 - 0, [PS] [N] Ludogorets,FCSB
+27/08/2014,3 - 0,Malmö FF,Salzburg
+26/08/2014,4 - 0,APOEL,AaB
+26/08/2014,3 - 0,BATE,Slovan Bratislava
+26/08/2014,0 - 1,Celtic,Maribor
+26/08/2014,2 - 0,Porto,Lille
+26/08/2014,3 - 0,Zenit,Standard Liège
+20/08/2014,1 - 1,AaB,APOEL
+20/08/2014,0 - 1,Lille,Porto
+20/08/2014,1 - 1,Maribor,Celtic
+20/08/2014,1 - 1,Slovan Bratislava,BATE
+20/08/2014,0 - 1,Standard Liège,Zenit
+19/08/2014,0 - 0,Beşiktaş,Arsenal
+19/08/2014,1 - 0,FCSB,Ludogorets
+19/08/2014,2 - 3,København,Bayer Leverkusen
+19/08/2014,1 - 1,Napoli,Athletic Club
+19/08/2014,2 - 1,Salzburg,Malmö FF
+06/08/2014,3 - 0,[N] Celtic,Legia Warszawa
+06/08/2014,0 - 2,Dinamo Zagreb,AaB
+06/08/2014,2 - 2,Partizan,Ludogorets
+06/08/2014,2 - 0,Salzburg,Qarabağ
+06/08/2014,2 - 0,København,Dnipro Dnipropetrovsk
+06/08/2014,3 - 1,Beşiktaş,Feyenoord
+06/08/2014,2 - 1,[N] FCSB,Aktobe
+06/08/2014,2 - 0,Malmö FF,Sparta Praha
+06/08/2014,0 - 0,Sheriff,Slovan Bratislava
+06/08/2014,2 - 0,APOEL,HJK
+06/08/2014,3 - 0,Zenit,AEL
+05/08/2014,1 - 1,Lille,Grasshopper
+05/08/2014,2 - 2,[N] Maccabi Tel Aviv,Maribor
+05/08/2014,1 - 2,Panathinaikos,Standard Liège
+05/08/2014,3 - 1,BATE,Debrecen
+30/07/2014,4 - 1,Legia Warszawa,Celtic
+30/07/2014,1 - 0,Maribor,Maccabi Tel Aviv
+30/07/2014,0 - 1,AaB,Dinamo Zagreb
+30/07/2014,1 - 2,Feyenoord,Beşiktaş
+30/07/2014,0 - 0,Ludogorets,Partizan
+30/07/2014,0 - 0,Standard Liège,Panathinaikos
+30/07/2014,0 - 2,Grasshopper,Lille
+30/07/2014,1 - 0,AEL,Zenit
+30/07/2014,0 - 0,Dnipro Dnipropetrovsk,København
+30/07/2014,2 - 2,HJK,APOEL
+30/07/2014,2 - 1,Qarabağ,Salzburg
+30/07/2014,2 - 2,Aktobe,FCSB
+29/07/2014,1 - 0,Debrecen,BATE
+29/07/2014,2 - 1,Slovan Bratislava,Sheriff
+29/07/2014,4 - 2,Sparta Praha,Malmö FF
+23/07/2014,0 - 5,St Patrick's Athl.,Legia Warszawa
+23/07/2014,2 - 0,Maribor,Zrinjski
+23/07/2014,2 - 0,FCSB,Strømsgodset
+23/07/2014,2 - 1,HJK,Rabotnički
+23/07/2014,0 - 1,Ventspils,Malmö FF
+23/07/2014,3 - 0,Aktobe,Dinamo Tbilisi
+22/07/2014,4 - 0,[N] Celtic,KR
+22/07/2014,2 - 0,Debrecen,Cliftonville
+22/07/2014,0 - 2,Žalgiris,Dinamo Zagreb
+22/07/2014,1 - 3,HB,Partizan
+22/07/2014,1 - 1,Skënderbeu Korçë,BATE
+22/07/2014,0 - 2,The New Saints,Slovan Bratislava
+22/07/2014,2 - 0,[N] Maccabi Tel Aviv,FC Santa Coloma
+22/07/2014,4 - 0,Qarabağ,Valletta
+22/07/2014,1 - 1,F91 Dudelange,Ludogorets
+22/07/2014,1 - 1,FCI Levadia,Sparta Praha
+22/07/2014,0 - 3,Sutjeska,Sheriff
+16/07/2014,1 - 1,Legia Warszawa,St Patrick's Athl.
+16/07/2014,0 - 1,Strømsgodset,FCSB
+16/07/2014,0 - 1,Dinamo Tbilisi,Aktobe
+16/07/2014,4 - 0,Ludogorets,F91 Dudelange
+16/07/2014,0 - 0,Malmö FF,Ventspils
+15/07/2014,0 - 1,KR,Celtic
+15/07/2014,0 - 0,Cliftonville,Debrecen
+15/07/2014,2 - 0,Dinamo Zagreb,Žalgiris
+15/07/2014,3 - 0,Partizan,HB
+15/07/2014,7 - 0,Sparta Praha,FCI Levadia
+15/07/2014,0 - 1,FC Santa Coloma,Maccabi Tel Aviv
+15/07/2014,0 - 0,Rabotnički,HJK
+15/07/2014,0 - 0,Zrinjski,Maribor
+15/07/2014,0 - 0,BATE,Skënderbeu Korçë
+15/07/2014,2 - 0,Sheriff,Sutjeska
+15/07/2014,1 - 0,Slovan Bratislava,The New Saints
+15/07/2014,0 - 1,Valletta,Qarabağ
+08/07/2014,5 - 2,HB,Lincoln Red Imps
+08/07/2014,7 - 0,FCI Levadia,La Fiorita
+08/07/2014,3 - 2,Banants,FC Santa Coloma
+02/07/2014,1 - 1,Lincoln Red Imps,HB
+01/07/2014,0 - 1,La Fiorita,FCI Levadia
+01/07/2014,1 - 0,FC Santa Coloma,Banants

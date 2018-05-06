@@ -1,0 +1,463 @@
+date,score,home_team,away_team
+01/05/1937,0 - 0,Arsenal,Bolton Wanderers
+01/05/1937,2 - 2,Birmingham City,Manchester City
+01/05/1937,2 - 1,Charlton Athletic,Brentford
+01/05/1937,1 - 3,Grimsby Town,Stoke City
+01/05/1937,1 - 0,Huddersfield Town,Sheffield Wednesday
+01/05/1937,3 - 1,Leeds United,Portsmouth
+01/05/1937,1 - 1,Liverpool,Chelsea
+01/05/1937,3 - 1,West Bromwich Albion,Middlesbrough
+01/05/1937,3 - 1,Wolverhampton Wanderers,Derby County
+24/04/1937,1 - 0,Birmingham City,Wolverhampton Wanderers
+24/04/1937,1 - 0,Charlton Athletic,Bolton Wanderers
+24/04/1937,2 - 0,Chelsea,Arsenal
+24/04/1937,1 - 0,Grimsby Town,Everton
+24/04/1937,3 - 0,Leeds United,Sunderland
+24/04/1937,1 - 1,Liverpool,Huddersfield Town
+24/04/1937,4 - 1,Manchester City,Sheffield Wednesday
+24/04/1937,1 - 3,Middlesbrough,Derby County
+24/04/1937,0 - 1,Portsmouth,Preston North End
+24/04/1937,5 - 1,Stoke City,Brentford
+24/04/1937,1 - 0,West Bromwich Albion,Manchester United
+21/04/1937,0 - 1,Leeds United,Wolverhampton Wanderers
+21/04/1937,1 - 1,Sunderland,Manchester United
+21/04/1937,2 - 3,West Bromwich Albion,Sheffield Wednesday
+17/04/1937,4 - 0,Arsenal,Portsmouth
+17/04/1937,0 - 0,Bolton Wanderers,Stoke City
+17/04/1937,1 - 0,Brentford,Chelsea
+17/04/1937,3 - 1,Derby County,Birmingham City
+17/04/1937,2 - 2,Everton,Charlton Athletic
+17/04/1937,0 - 3,Huddersfield Town,Grimsby Town
+17/04/1937,2 - 1,Manchester United,Middlesbrough
+17/04/1937,2 - 5,Preston North End,Manchester City
+17/04/1937,2 - 3,Sheffield Wednesday,West Bromwich Albion
+17/04/1937,4 - 2,Sunderland,Liverpool
+17/04/1937,3 - 0,Wolverhampton Wanderers,Leeds United
+14/04/1937,1 - 0,Preston North End,Everton
+14/04/1937,1 - 3,Sunderland,Manchester City
+14/04/1937,5 - 2,Wolverhampton Wanderers,West Bromwich Albion
+12/04/1937,6 - 0,Grimsby Town,Sunderland
+10/04/1937,2 - 2,Birmingham City,Manchester United
+10/04/1937,1 - 0,Charlton Athletic,Huddersfield Town
+10/04/1937,0 - 1,Chelsea,Bolton Wanderers
+10/04/1937,2 - 0,Leeds United,Derby County
+10/04/1937,1 - 0,Liverpool,Wolverhampton Wanderers
+10/04/1937,2 - 0,Manchester City,Arsenal
+10/04/1937,2 - 0,Middlesbrough,Sheffield Wednesday
+10/04/1937,1 - 3,Portsmouth,Brentford
+10/04/1937,2 - 1,Stoke City,Everton
+07/04/1937,2 - 1,Manchester City,Brentford
+05/04/1937,1 - 0,Stoke City,Sheffield Wednesday
+03/04/1937,2 - 0,Arsenal,West Bromwich Albion
+03/04/1937,1 - 0,Bolton Wanderers,Portsmouth
+03/04/1937,2 - 6,Brentford,Manchester City
+03/04/1937,4 - 1,Derby County,Liverpool
+03/04/1937,0 - 0,Everton,Chelsea
+03/04/1937,2 - 1,Huddersfield Town,Stoke City
+03/04/1937,0 - 0,Manchester United,Leeds United
+03/04/1937,2 - 0,Preston North End,Middlesbrough
+03/04/1937,0 - 3,Sheffield Wednesday,Birmingham City
+03/04/1937,1 - 0,Sunderland,Charlton Athletic
+03/04/1937,5 - 2,Wolverhampton Wanderers,Grimsby Town
+30/03/1937,2 - 0,Huddersfield Town,Derby County
+30/03/1937,3 - 1,Leeds United,West Bromwich Albion
+29/03/1937,0 - 0,Birmingham City,Middlesbrough
+29/03/1937,1 - 0,Charlton Athletic,Chelsea
+29/03/1937,3 - 3,Derby County,Huddersfield Town
+29/03/1937,2 - 3,Everton,Manchester United
+29/03/1937,5 - 1,Manchester City,Liverpool
+29/03/1937,2 - 1,Portsmouth,Grimsby Town
+29/03/1937,1 - 1,Preston North End,Brentford
+29/03/1937,2 - 0,Sheffield Wednesday,Bolton Wanderers
+29/03/1937,0 - 0,Stoke City,Arsenal
+29/03/1937,3 - 0,West Bromwich Albion,Leeds United
+29/03/1937,1 - 1,Wolverhampton Wanderers,Sunderland
+27/03/1937,1 - 0,Birmingham City,Preston North End
+27/03/1937,4 - 0,Charlton Athletic,Wolverhampton Wanderers
+27/03/1937,0 - 0,Chelsea,Huddersfield Town
+27/03/1937,3 - 4,Grimsby Town,Derby County
+27/03/1937,1 - 1,Leeds United,Sheffield Wednesday
+27/03/1937,2 - 0,Liverpool,Manchester United
+27/03/1937,2 - 2,Manchester City,Bolton Wanderers
+27/03/1937,1 - 1,Middlesbrough,Arsenal
+27/03/1937,2 - 2,Portsmouth,Everton
+27/03/1937,5 - 3,Stoke City,Sunderland
+27/03/1937,1 - 0,West Bromwich Albion,Brentford
+26/03/1937,0 - 0,Arsenal,Stoke City
+26/03/1937,1 - 0,Bolton Wanderers,Sheffield Wednesday
+26/03/1937,1 - 1,Brentford,Preston North End
+26/03/1937,3 - 0,Chelsea,Charlton Athletic
+26/03/1937,1 - 0,Grimsby Town,Portsmouth
+26/03/1937,0 - 5,Liverpool,Manchester City
+26/03/1937,2 - 1,Manchester United,Everton
+26/03/1937,3 - 1,Middlesbrough,Birmingham City
+26/03/1937,6 - 2,Sunderland,Wolverhampton Wanderers
+22/03/1937,0 - 0,West Bromwich Albion,Preston North End
+20/03/1937,1 - 1,Arsenal,Birmingham City
+20/03/1937,4 - 1,Bolton Wanderers,West Bromwich Albion
+20/03/1937,4 - 1,Brentford,Middlesbrough
+20/03/1937,5 - 0,Derby County,Charlton Athletic
+20/03/1937,1 - 1,Everton,Manchester City
+20/03/1937,1 - 2,Huddersfield Town,Portsmouth
+20/03/1937,1 - 1,Manchester United,Grimsby Town
+20/03/1937,1 - 0,Preston North End,Leeds United
+20/03/1937,1 - 2,Sheffield Wednesday,Liverpool
+20/03/1937,2 - 3,Sunderland,Chelsea
+20/03/1937,2 - 1,Wolverhampton Wanderers,Stoke City
+17/03/1937,1 - 1,Wolverhampton Wanderers,Portsmouth
+13/03/1937,4 - 0,Birmingham City,Brentford
+13/03/1937,3 - 0,Charlton Athletic,Manchester United
+13/03/1937,0 - 1,Chelsea,Wolverhampton Wanderers
+13/03/1937,5 - 1,Grimsby Town,Sheffield Wednesday
+13/03/1937,3 - 4,Leeds United,Arsenal
+13/03/1937,1 - 1,Liverpool,Preston North End
+13/03/1937,3 - 0,Manchester City,Huddersfield Town
+13/03/1937,2 - 0,Middlesbrough,Bolton Wanderers
+13/03/1937,3 - 2,Portsmouth,Sunderland
+13/03/1937,1 - 2,Stoke City,Derby County
+13/03/1937,2 - 1,West Bromwich Albion,Everton
+10/03/1937,1 - 0,Arsenal,Liverpool
+10/03/1937,1 - 1,Huddersfield Town,West Bromwich Albion
+10/03/1937,3 - 2,Preston North End,Grimsby Town
+06/03/1937,0 - 0,Bolton Wanderers,Birmingham City
+06/03/1937,4 - 1,Brentford,Leeds United
+06/03/1937,1 - 1,Derby County,Chelsea
+06/03/1937,2 - 3,Everton,Middlesbrough
+06/03/1937,2 - 1,Manchester United,Stoke City
+06/03/1937,3 - 1,Sheffield Wednesday,Charlton Athletic
+03/03/1937,2 - 3,Brentford,Grimsby Town
+03/03/1937,7 - 1,Everton,Leeds United
+27/02/1937,2 - 0,Birmingham City,Everton
+27/02/1937,3 - 1,Charlton Athletic,Preston North End
+27/02/1937,4 - 2,Chelsea,Manchester United
+27/02/1937,1 - 3,Grimsby Town,Arsenal
+27/02/1937,2 - 2,Leeds United,Bolton Wanderers
+27/02/1937,2 - 2,Liverpool,Brentford
+27/02/1937,4 - 1,Manchester City,Wolverhampton Wanderers
+27/02/1937,5 - 0,Middlesbrough,Huddersfield Town
+27/02/1937,1 - 2,Portsmouth,Derby County
+27/02/1937,6 - 4,West Bromwich Albion,Sunderland
+24/02/1937,1 - 1,Arsenal,Charlton Athletic
+24/02/1937,0 - 1,Bolton Wanderers,Liverpool
+24/02/1937,0 - 5,Derby County,Manchester City
+24/02/1937,0 - 1,Preston North End,Stoke City
+24/02/1937,4 - 1,Sunderland,Middlesbrough
+20/02/1937,1 - 1,Huddersfield Town,Birmingham City
+20/02/1937,0 - 1,Manchester United,Portsmouth
+20/02/1937,1 - 1,Sheffield Wednesday,Chelsea
+13/02/1937,1 - 1,Charlton Athletic,Manchester City
+13/02/1937,0 - 0,Chelsea,Preston North End
+13/02/1937,3 - 0,Derby County,Bolton Wanderers
+13/02/1937,2 - 3,Grimsby Town,West Bromwich Albion
+13/02/1937,0 - 2,Leeds United,Birmingham City
+13/02/1937,0 - 2,Liverpool,Middlesbrough
+13/02/1937,1 - 3,Manchester United,Brentford
+13/02/1937,0 - 0,Sheffield Wednesday,Arsenal
+13/02/1937,2 - 4,Stoke City,Portsmouth
+13/02/1937,3 - 2,Sunderland,Huddersfield Town
+13/02/1937,7 - 2,Wolverhampton Wanderers,Everton
+10/02/1937,3 - 0,Sunderland,Bolton Wanderers
+10/02/1937,4 - 0,Wolverhampton Wanderers,Brentford
+06/02/1937,1 - 1,Arsenal,Manchester United
+06/02/1937,5 - 0,Birmingham City,Liverpool
+06/02/1937,1 - 2,Bolton Wanderers,Wolverhampton Wanderers
+06/02/1937,6 - 2,Brentford,Derby County
+06/02/1937,3 - 0,Everton,Sunderland
+06/02/1937,2 - 1,Leeds United,Huddersfield Town
+06/02/1937,2 - 1,Manchester City,Stoke City
+06/02/1937,0 - 0,Middlesbrough,Grimsby Town
+06/02/1937,4 - 1,Portsmouth,Chelsea
+06/02/1937,1 - 1,Preston North End,Sheffield Wednesday
+06/02/1937,1 - 2,West Bromwich Albion,Charlton Athletic
+04/02/1937,10 - 3,Stoke City,West Bromwich Albion
+03/02/1937,4 - 4,Chelsea,Manchester City
+03/02/1937,5 - 4,Derby County,Arsenal
+03/02/1937,0 - 3,Huddersfield Town,Everton
+03/02/1937,1 - 1,Manchester United,Preston North End
+03/02/1937,1 - 0,Portsmouth,Sheffield Wednesday
+02/02/1937,1 - 1,Grimsby Town,Birmingham City
+30/01/1937,2 - 2,Charlton Athletic,Middlesbrough
+30/01/1937,3 - 0,Liverpool,Leeds United
+23/01/1937,3 - 0,Arsenal,Wolverhampton Wanderers
+23/01/1937,1 - 2,Birmingham City,Charlton Athletic
+23/01/1937,2 - 2,Bolton Wanderers,Huddersfield Town
+23/01/1937,3 - 3,Brentford,Sunderland
+23/01/1937,2 - 0,Leeds United,Grimsby Town
+23/01/1937,3 - 2,Liverpool,Everton
+23/01/1937,3 - 1,Manchester City,Portsmouth
+23/01/1937,1 - 0,Middlesbrough,Stoke City
+23/01/1937,5 - 2,Preston North End,Derby County
+23/01/1937,1 - 0,Sheffield Wednesday,Manchester United
+23/01/1937,2 - 0,West Bromwich Albion,Chelsea
+09/01/1937,1 - 0,Charlton Athletic,Leeds United
+09/01/1937,1 - 0,Chelsea,Middlesbrough
+09/01/1937,3 - 2,Derby County,Sheffield Wednesday
+09/01/1937,3 - 2,Everton,Bolton Wanderers
+09/01/1937,2 - 1,Grimsby Town,Liverpool
+09/01/1937,1 - 1,Huddersfield Town,Brentford
+09/01/1937,1 - 0,Manchester City,Manchester United
+09/01/1937,5 - 3,Portsmouth,West Bromwich Albion
+09/01/1937,2 - 0,Stoke City,Birmingham City
+09/01/1937,1 - 1,Sunderland,Arsenal
+09/01/1937,5 - 0,Wolverhampton Wanderers,Preston North End
+02/01/1937,1 - 1,Arsenal,Huddersfield Town
+02/01/1937,0 - 0,Birmingham City,Chelsea
+02/01/1937,2 - 2,Brentford,Everton
+02/01/1937,3 - 1,Grimsby Town,Bolton Wanderers
+02/01/1937,2 - 1,Leeds United,Stoke City
+02/01/1937,1 - 2,Liverpool,Charlton Athletic
+02/01/1937,2 - 2,Manchester United,Derby County
+02/01/1937,2 - 2,Middlesbrough,Portsmouth
+02/01/1937,2 - 0,Preston North End,Sunderland
+02/01/1937,1 - 3,Sheffield Wednesday,Wolverhampton Wanderers
+02/01/1937,2 - 2,West Bromwich Albion,Manchester City
+01/01/1937,0 - 5,Bolton Wanderers,Arsenal
+01/01/1937,2 - 2,Everton,Preston North End
+01/01/1937,2 - 1,Manchester United,Sunderland
+01/01/1937,4 - 1,Middlesbrough,West Bromwich Albion
+28/12/1936,0 - 4,Bolton Wanderers,Manchester United
+28/12/1936,1 - 0,Chelsea,Stoke City
+28/12/1936,3 - 1,Derby County,Everton
+28/12/1936,4 - 0,Huddersfield Town,Wolverhampton Wanderers
+28/12/1936,1 - 2,Liverpool,West Bromwich Albion
+28/12/1936,1 - 1,Manchester City,Grimsby Town
+28/12/1936,4 - 2,Middlesbrough,Leeds United
+28/12/1936,0 - 1,Portsmouth,Charlton Athletic
+28/12/1936,1 - 3,Preston North End,Arsenal
+28/12/1936,0 - 2,Sheffield Wednesday,Brentford
+28/12/1936,4 - 0,Sunderland,Birmingham City
+26/12/1936,2 - 2,Bolton Wanderers,Brentford
+26/12/1936,1 - 0,Charlton Athletic,Grimsby Town
+26/12/1936,2 - 1,Chelsea,Leeds United
+26/12/1936,1 - 0,Derby County,West Bromwich Albion
+26/12/1936,1 - 1,Everton,Arsenal
+26/12/1936,4 - 2,Huddersfield Town,Preston North End
+26/12/1936,2 - 1,Manchester City,Middlesbrough
+26/12/1936,2 - 1,Portsmouth,Birmingham City
+26/12/1936,1 - 1,Stoke City,Liverpool
+26/12/1936,2 - 1,Sunderland,Sheffield Wednesday
+26/12/1936,3 - 1,Wolverhampton Wanderers,Manchester United
+25/12/1936,4 - 1,Arsenal,Preston North End
+25/12/1936,2 - 0,Birmingham City,Sunderland
+25/12/1936,2 - 1,Brentford,Sheffield Wednesday
+25/12/1936,0 - 0,Charlton Athletic,Portsmouth
+25/12/1936,7 - 0,Everton,Derby County
+25/12/1936,5 - 3,Grimsby Town,Manchester City
+25/12/1936,5 - 0,Leeds United,Middlesbrough
+25/12/1936,1 - 0,Manchester United,Bolton Wanderers
+25/12/1936,2 - 0,Stoke City,Chelsea
+25/12/1936,3 - 1,West Bromwich Albion,Liverpool
+25/12/1936,3 - 1,Wolverhampton Wanderers,Huddersfield Town
+19/12/1936,4 - 1,Arsenal,Chelsea
+19/12/1936,2 - 1,Bolton Wanderers,Charlton Athletic
+19/12/1936,2 - 1,Brentford,Stoke City
+19/12/1936,0 - 2,Derby County,Middlesbrough
+19/12/1936,3 - 0,Everton,Grimsby Town
+19/12/1936,4 - 0,Huddersfield Town,Liverpool
+19/12/1936,2 - 2,Manchester United,West Bromwich Albion
+19/12/1936,1 - 1,Preston North End,Portsmouth
+19/12/1936,5 - 1,Sheffield Wednesday,Manchester City
+19/12/1936,2 - 1,Sunderland,Leeds United
+19/12/1936,2 - 1,Wolverhampton Wanderers,Birmingham City
+12/12/1936,0 - 1,Birmingham City,Derby County
+12/12/1936,2 - 0,Charlton Athletic,Everton
+12/12/1936,2 - 1,Chelsea,Brentford
+12/12/1936,2 - 2,Grimsby Town,Huddersfield Town
+12/12/1936,4 - 0,Liverpool,Sunderland
+12/12/1936,4 - 1,Manchester City,Preston North End
+12/12/1936,3 - 2,Middlesbrough,Manchester United
+12/12/1936,1 - 5,Portsmouth,Arsenal
+12/12/1936,2 - 2,Stoke City,Bolton Wanderers
+05/12/1936,1 - 3,Arsenal,Manchester City
+05/12/1936,2 - 1,Bolton Wanderers,Chelsea
+05/12/1936,4 - 0,Brentford,Portsmouth
+05/12/1936,5 - 3,Derby County,Leeds United
+05/12/1936,1 - 1,Everton,Stoke City
+05/12/1936,1 - 2,Huddersfield Town,Charlton Athletic
+05/12/1936,1 - 2,Manchester United,Birmingham City
+05/12/1936,3 - 2,Preston North End,West Bromwich Albion
+05/12/1936,1 - 0,Sheffield Wednesday,Middlesbrough
+05/12/1936,5 - 1,Sunderland,Grimsby Town
+05/12/1936,2 - 0,Wolverhampton Wanderers,Liverpool
+28/11/1936,1 - 1,Birmingham City,Sheffield Wednesday
+28/11/1936,3 - 1,Charlton Athletic,Sunderland
+28/11/1936,4 - 0,Chelsea,Everton
+28/11/1936,1 - 1,Grimsby Town,Wolverhampton Wanderers
+28/11/1936,2 - 1,Leeds United,Manchester United
+28/11/1936,3 - 3,Liverpool,Derby County
+28/11/1936,2 - 1,Middlesbrough,Preston North End
+28/11/1936,1 - 1,Portsmouth,Bolton Wanderers
+28/11/1936,1 - 1,Stoke City,Huddersfield Town
+28/11/1936,2 - 4,West Bromwich Albion,Arsenal
+21/11/1936,5 - 3,Arsenal,Middlesbrough
+21/11/1936,0 - 2,Bolton Wanderers,Manchester City
+21/11/1936,2 - 1,Brentford,West Bromwich Albion
+21/11/1936,3 - 1,Derby County,Grimsby Town
+21/11/1936,4 - 0,Everton,Portsmouth
+21/11/1936,4 - 2,Huddersfield Town,Chelsea
+21/11/1936,2 - 5,Manchester United,Liverpool
+21/11/1936,2 - 2,Preston North End,Birmingham City
+21/11/1936,1 - 2,Sheffield Wednesday,Leeds United
+21/11/1936,3 - 0,Sunderland,Stoke City
+21/11/1936,6 - 1,Wolverhampton Wanderers,Charlton Athletic
+14/11/1936,1 - 3,Birmingham City,Arsenal
+14/11/1936,2 - 0,Charlton Athletic,Derby County
+14/11/1936,1 - 3,Chelsea,Sunderland
+14/11/1936,6 - 2,Grimsby Town,Manchester United
+14/11/1936,1 - 0,Leeds United,Preston North End
+14/11/1936,2 - 2,Liverpool,Sheffield Wednesday
+14/11/1936,4 - 1,Manchester City,Everton
+14/11/1936,3 - 0,Middlesbrough,Brentford
+14/11/1936,1 - 0,Portsmouth,Huddersfield Town
+14/11/1936,2 - 1,Stoke City,Wolverhampton Wanderers
+14/11/1936,0 - 2,West Bromwich Albion,Bolton Wanderers
+07/11/1936,4 - 1,Arsenal,Leeds United
+07/11/1936,1 - 3,Bolton Wanderers,Middlesbrough
+07/11/1936,2 - 1,Brentford,Birmingham City
+07/11/1936,2 - 2,Derby County,Stoke City
+07/11/1936,4 - 2,Everton,West Bromwich Albion
+07/11/1936,1 - 1,Huddersfield Town,Manchester City
+07/11/1936,0 - 0,Manchester United,Charlton Athletic
+07/11/1936,3 - 1,Preston North End,Liverpool
+07/11/1936,2 - 1,Sheffield Wednesday,Grimsby Town
+07/11/1936,3 - 2,Sunderland,Portsmouth
+07/11/1936,1 - 2,Wolverhampton Wanderers,Chelsea
+31/10/1936,1 - 1,Birmingham City,Bolton Wanderers
+31/10/1936,1 - 0,Charlton Athletic,Sheffield Wednesday
+31/10/1936,1 - 1,Chelsea,Derby County
+31/10/1936,6 - 4,Grimsby Town,Preston North End
+31/10/1936,3 - 1,Leeds United,Brentford
+31/10/1936,2 - 1,Liverpool,Arsenal
+31/10/1936,2 - 4,Manchester City,Sunderland
+31/10/1936,2 - 0,Middlesbrough,Everton
+31/10/1936,1 - 1,Portsmouth,Wolverhampton Wanderers
+31/10/1936,3 - 0,Stoke City,Manchester United
+31/10/1936,2 - 1,West Bromwich Albion,Huddersfield Town
+24/10/1936,0 - 0,Arsenal,Grimsby Town
+24/10/1936,2 - 1,Bolton Wanderers,Leeds United
+24/10/1936,5 - 2,Brentford,Liverpool
+24/10/1936,1 - 3,Derby County,Portsmouth
+24/10/1936,3 - 3,Everton,Birmingham City
+24/10/1936,2 - 0,Huddersfield Town,Middlesbrough
+24/10/1936,0 - 0,Manchester United,Chelsea
+24/10/1936,0 - 0,Preston North End,Charlton Athletic
+24/10/1936,0 - 0,Sheffield Wednesday,Stoke City
+24/10/1936,1 - 0,Sunderland,West Bromwich Albion
+24/10/1936,2 - 1,Wolverhampton Wanderers,Manchester City
+17/10/1936,4 - 2,Birmingham City,Huddersfield Town
+17/10/1936,0 - 2,Charlton Athletic,Arsenal
+17/10/1936,1 - 1,Chelsea,Sheffield Wednesday
+17/10/1936,2 - 0,Grimsby Town,Brentford
+17/10/1936,3 - 0,Leeds United,Everton
+17/10/1936,0 - 0,Liverpool,Bolton Wanderers
+17/10/1936,3 - 2,Manchester City,Derby County
+17/10/1936,5 - 5,Middlesbrough,Sunderland
+17/10/1936,2 - 1,Portsmouth,Manchester United
+17/10/1936,0 - 2,Stoke City,Preston North End
+17/10/1936,2 - 1,West Bromwich Albion,Wolverhampton Wanderers
+10/10/1936,1 - 1,Arsenal,Sheffield Wednesday
+10/10/1936,2 - 1,Birmingham City,Leeds United
+10/10/1936,1 - 3,Bolton Wanderers,Derby County
+10/10/1936,4 - 0,Brentford,Manchester United
+10/10/1936,1 - 0,Everton,Wolverhampton Wanderers
+10/10/1936,2 - 1,Huddersfield Town,Sunderland
+10/10/1936,1 - 1,Manchester City,Charlton Athletic
+10/10/1936,3 - 3,Middlesbrough,Liverpool
+10/10/1936,1 - 0,Portsmouth,Stoke City
+10/10/1936,1 - 0,Preston North End,Chelsea
+10/10/1936,4 - 2,West Bromwich Albion,Grimsby Town
+03/10/1936,4 - 2,Charlton Athletic,West Bromwich Albion
+03/10/1936,1 - 1,Chelsea,Portsmouth
+03/10/1936,2 - 3,Derby County,Brentford
+03/10/1936,5 - 1,Grimsby Town,Middlesbrough
+03/10/1936,3 - 0,Huddersfield Town,Leeds United
+03/10/1936,2 - 0,Liverpool,Birmingham City
+03/10/1936,2 - 0,Manchester United,Arsenal
+03/10/1936,0 - 1,Sheffield Wednesday,Preston North End
+03/10/1936,2 - 2,Stoke City,Manchester City
+03/10/1936,3 - 1,Sunderland,Everton
+03/10/1936,2 - 3,Wolverhampton Wanderers,Bolton Wanderers
+26/09/1936,2 - 2,Arsenal,Derby County
+26/09/1936,2 - 3,Birmingham City,Grimsby Town
+26/09/1936,1 - 1,Bolton Wanderers,Sunderland
+26/09/1936,3 - 2,Brentford,Wolverhampton Wanderers
+26/09/1936,2 - 1,Everton,Huddersfield Town
+26/09/1936,2 - 0,Leeds United,Liverpool
+26/09/1936,0 - 0,Manchester City,Chelsea
+26/09/1936,1 - 1,Middlesbrough,Charlton Athletic
+26/09/1936,3 - 1,Preston North End,Manchester United
+26/09/1936,0 - 0,Sheffield Wednesday,Portsmouth
+26/09/1936,2 - 2,West Bromwich Albion,Stoke City
+23/09/1936,5 - 1,Derby County,Wolverhampton Wanderers
+19/09/1936,2 - 2,Charlton Athletic,Birmingham City
+19/09/1936,3 - 0,Chelsea,West Bromwich Albion
+19/09/1936,1 - 2,Derby County,Preston North End
+19/09/1936,2 - 0,Everton,Liverpool
+19/09/1936,4 - 1,Grimsby Town,Leeds United
+19/09/1936,2 - 0,Huddersfield Town,Bolton Wanderers
+19/09/1936,1 - 1,Manchester United,Sheffield Wednesday
+19/09/1936,2 - 1,Portsmouth,Manchester City
+19/09/1936,6 - 2,Stoke City,Middlesbrough
+19/09/1936,4 - 1,Sunderland,Brentford
+19/09/1936,2 - 0,Wolverhampton Wanderers,Arsenal
+17/09/1936,4 - 2,Brentford,Charlton Athletic
+17/09/1936,2 - 2,Sheffield Wednesday,Huddersfield Town
+16/09/1936,2 - 0,Chelsea,Liverpool
+16/09/1936,1 - 1,Manchester City,Birmingham City
+16/09/1936,3 - 0,Portsmouth,Leeds United
+14/09/1936,2 - 0,Stoke City,Grimsby Town
+12/09/1936,4 - 1,Arsenal,Sunderland
+12/09/1936,2 - 4,Birmingham City,Stoke City
+12/09/1936,1 - 2,Bolton Wanderers,Everton
+12/09/1936,1 - 1,Brentford,Huddersfield Town
+12/09/1936,2 - 0,Leeds United,Charlton Athletic
+12/09/1936,7 - 1,Liverpool,Grimsby Town
+12/09/1936,3 - 2,Manchester United,Manchester City
+12/09/1936,2 - 0,Middlesbrough,Chelsea
+12/09/1936,1 - 3,Preston North End,Wolverhampton Wanderers
+12/09/1936,2 - 3,Sheffield Wednesday,Derby County
+12/09/1936,3 - 1,West Bromwich Albion,Portsmouth
+10/09/1936,6 - 4,Sheffield Wednesday,Everton
+09/09/1936,1 - 1,Arsenal,Brentford
+09/09/1936,1 - 1,Birmingham City,West Bromwich Albion
+09/09/1936,3 - 0,Derby County,Sunderland
+09/09/1936,1 - 1,Leeds United,Manchester City
+09/09/1936,0 - 0,Liverpool,Portsmouth
+09/09/1936,3 - 1,Manchester United,Huddersfield Town
+09/09/1936,1 - 0,Middlesbrough,Wolverhampton Wanderers
+08/09/1936,3 - 0,Grimsby Town,Chelsea
+07/09/1936,0 - 0,Bolton Wanderers,Preston North End
+07/09/1936,2 - 0,Charlton Athletic,Stoke City
+05/09/1936,1 - 2,Bolton Wanderers,Grimsby Town
+05/09/1936,1 - 1,Charlton Athletic,Liverpool
+05/09/1936,1 - 3,Chelsea,Birmingham City
+05/09/1936,5 - 4,Derby County,Manchester United
+05/09/1936,3 - 0,Everton,Brentford
+05/09/1936,0 - 0,Huddersfield Town,Arsenal
+05/09/1936,6 - 2,Manchester City,West Bromwich Albion
+05/09/1936,2 - 1,Portsmouth,Middlesbrough
+05/09/1936,2 - 1,Stoke City,Leeds United
+05/09/1936,3 - 0,Sunderland,Preston North End
+05/09/1936,4 - 3,Wolverhampton Wanderers,Sheffield Wednesday
+03/09/1936,2 - 0,Brentford,Arsenal
+02/09/1936,3 - 2,Chelsea,Grimsby Town
+02/09/1936,3 - 1,Everton,Sheffield Wednesday
+02/09/1936,3 - 1,Huddersfield Town,Manchester United
+02/09/1936,4 - 0,Manchester City,Leeds United
+02/09/1936,6 - 2,Portsmouth,Liverpool
+02/09/1936,3 - 2,Sunderland,Derby County
+02/09/1936,3 - 2,West Bromwich Albion,Birmingham City
+31/08/1936,1 - 2,Preston North End,Bolton Wanderers
+31/08/1936,1 - 1,Stoke City,Charlton Athletic
+31/08/1936,0 - 1,Wolverhampton Wanderers,Middlesbrough
+29/08/1936,3 - 2,Arsenal,Everton
+29/08/1936,2 - 1,Birmingham City,Portsmouth
+29/08/1936,2 - 2,Brentford,Bolton Wanderers
+29/08/1936,0 - 1,Grimsby Town,Charlton Athletic
+29/08/1936,2 - 3,Leeds United,Chelsea
+29/08/1936,2 - 1,Liverpool,Stoke City
+29/08/1936,1 - 1,Manchester United,Wolverhampton Wanderers
+29/08/1936,2 - 0,Middlesbrough,Manchester City
+29/08/1936,1 - 1,Preston North End,Huddersfield Town
+29/08/1936,2 - 0,Sheffield Wednesday,Sunderland
+29/08/1936,1 - 3,West Bromwich Albion,Derby County

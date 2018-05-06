@@ -1,0 +1,484 @@
+date,score,home_team,away_team
+27/05/2015,2 - 3,Dnipro Dnipropetrovsk,Sevilla
+14/05/2015,1 - 0,Dnipro Dnipropetrovsk,Napoli
+14/05/2015,0 - 2,Fiorentina,Sevilla
+07/05/2015,1 - 1,Napoli,Dnipro Dnipropetrovsk
+07/05/2015,3 - 0,Sevilla,Fiorentina
+23/04/2015,1 - 0,Dnipro Dnipropetrovsk,Club Brugge
+23/04/2015,2 - 0,Fiorentina,Dynamo Kyiv
+23/04/2015,2 - 2,Napoli,Wolfsburg
+23/04/2015,2 - 2,Zenit,Sevilla
+16/04/2015,0 - 0,Club Brugge,Dnipro Dnipropetrovsk
+16/04/2015,1 - 1,Dynamo Kyiv,Fiorentina
+16/04/2015,2 - 1,Sevilla,Zenit
+16/04/2015,1 - 4,Wolfsburg,Napoli
+19/03/2015,1 - 0, [ET] Ajax,Dnipro Dnipropetrovsk
+19/03/2015,1 - 3,Beşiktaş,Club Brugge
+19/03/2015,1 - 2,Internazionale,Wolfsburg
+19/03/2015,2 - 1,Sevilla,Villarreal
+19/03/2015,1 - 0,Torino,Zenit
+19/03/2015,5 - 2,Dynamo Kyiv,Everton
+19/03/2015,0 - 3,Roma,Fiorentina
+19/03/2015,0 - 0,Dinamo Moskva,Napoli
+12/03/2015,2 - 1,Everton,Dynamo Kyiv
+12/03/2015,1 - 1,Fiorentina,Roma
+12/03/2015,3 - 1,Napoli,Dinamo Moskva
+12/03/2015,1 - 3,Villarreal,Sevilla
+12/03/2015,2 - 1,Club Brugge,Beşiktaş
+12/03/2015,1 - 0,Dnipro Dnipropetrovsk,Ajax
+12/03/2015,3 - 1,Wolfsburg,Internazionale
+12/03/2015,2 - 0,Zenit,Torino
+26/02/2015,2 - 3,Athletic Club,Torino
+26/02/2015,3 - 0,Club Brugge,AaB
+26/02/2015,3 - 1,Everton,Young Boys
+26/02/2015,1 - 2,Feyenoord,Roma
+26/02/2015,1 - 0,Napoli,Trabzonspor
+26/02/2015,2 - 2,Olympiakos Piraeus,Dnipro Dnipropetrovsk
+26/02/2015,0 - 0,Sporting CP,Wolfsburg
+26/02/2015,1 - 0, [PS] Beşiktaş,Liverpool
+26/02/2015,2 - 3,Borussia M'gladbach,Sevilla
+26/02/2015,3 - 1,Dynamo Kyiv,Guingamp
+26/02/2015,2 - 0,Fiorentina,Tottenham Hotspur
+26/02/2015,1 - 0,Internazionale,Celtic
+26/02/2015,0 - 3,Legia Warszawa,Ajax
+26/02/2015,1 - 3,Salzburg,Villarreal
+26/02/2015,3 - 1,Dinamo Moskva,Anderlecht
+26/02/2015,3 - 0,Zenit,PSV
+19/02/2015,1 - 0,Ajax,Legia Warszawa
+19/02/2015,0 - 0,Anderlecht,Dinamo Moskva
+19/02/2015,3 - 3,Celtic,Internazionale
+19/02/2015,2 - 1,Guingamp,Dynamo Kyiv
+19/02/2015,1 - 0,Liverpool,Beşiktaş
+19/02/2015,1 - 0,Sevilla,Borussia M'gladbach
+19/02/2015,1 - 1,Tottenham Hotspur,Fiorentina
+19/02/2015,2 - 1,Villarreal,Salzburg
+19/02/2015,1 - 3,AaB,Club Brugge
+19/02/2015,2 - 0,Dnipro Dnipropetrovsk,Olympiakos Piraeus
+19/02/2015,0 - 1,PSV,Zenit
+19/02/2015,1 - 1,Roma,Feyenoord
+19/02/2015,2 - 2,Torino,Athletic Club
+19/02/2015,0 - 4,Trabzonspor,Napoli
+19/02/2015,2 - 0,Wolfsburg,Sporting CP
+19/02/2015,1 - 4,Young Boys,Everton
+11/12/2014,0 - 2,Apollon,Villarreal
+11/12/2014,3 - 0,Borussia M'gladbach,Zürich
+27/11/2014,2 - 2,Villarreal,Borussia M'gladbach
+27/11/2014,3 - 1,Zürich,Apollon
+06/11/2014,0 - 2,Apollon,Borussia M'gladbach
+06/11/2014,3 - 2,Zürich,Villarreal
+23/10/2014,5 - 0,Borussia M'gladbach,Apollon
+23/10/2014,4 - 1,Villarreal,Zürich
+02/10/2014,4 - 0,Villarreal,Apollon
+02/10/2014,1 - 1,Zürich,Borussia M'gladbach
+18/09/2014,3 - 2,Apollon,Zürich
+18/09/2014,1 - 1,Borussia M'gladbach,Villarreal
+11/12/2014,2 - 1,Club Brugge,HJK
+11/12/2014,1 - 5,København,Torino
+27/11/2014,2 - 1,HJK,København
+27/11/2014,0 - 0,Torino,Club Brugge
+06/11/2014,2 - 1,HJK,Torino
+06/11/2014,0 - 4,København,Club Brugge
+23/10/2014,1 - 1,Club Brugge,København
+23/10/2014,2 - 0,Torino,HJK
+02/10/2014,0 - 3,HJK,Club Brugge
+02/10/2014,1 - 0,Torino,København
+18/09/2014,0 - 0,Club Brugge,Torino
+18/09/2014,2 - 0,København,HJK
+11/12/2014,1 - 0,Beşiktaş,Tottenham Hotspur
+11/12/2014,0 - 0,Partizan,Asteras Tripolis
+27/11/2014,2 - 2,Asteras Tripolis,Beşiktaş
+27/11/2014,1 - 0,Tottenham Hotspur,Partizan
+06/11/2014,1 - 2,Asteras Tripolis,Tottenham Hotspur
+06/11/2014,2 - 1,Beşiktaş,Partizan
+23/10/2014,0 - 4,Partizan,Beşiktaş
+23/10/2014,5 - 1,Tottenham Hotspur,Asteras Tripolis
+02/10/2014,2 - 0,Asteras Tripolis,Partizan
+02/10/2014,1 - 1,Tottenham Hotspur,Beşiktaş
+18/09/2014,1 - 1,Beşiktaş,Asteras Tripolis
+18/09/2014,0 - 0,Partizan,Tottenham Hotspur
+11/12/2014,4 - 3,Dinamo Zagreb,Celtic
+11/12/2014,5 - 1,Salzburg,Astra
+27/11/2014,1 - 0,Astra,Dinamo Zagreb
+27/11/2014,1 - 3,Celtic,Salzburg
+06/11/2014,1 - 1,Astra,Celtic
+06/11/2014,1 - 5,Dinamo Zagreb,Salzburg
+23/10/2014,2 - 1,Celtic,Astra
+23/10/2014,4 - 2,Salzburg,Dinamo Zagreb
+02/10/2014,1 - 2,Astra,Salzburg
+02/10/2014,1 - 0,Celtic,Dinamo Zagreb
+18/09/2014,5 - 1,Dinamo Zagreb,Astra
+18/09/2014,2 - 2,Salzburg,Celtic
+11/12/2014,1 - 1,Panathinaikos,Estoril
+11/12/2014,0 - 1,PSV,Dinamo Moskva
+28/11/2014,3 - 3,Estoril,PSV
+27/11/2014,2 - 1,Dinamo Moskva,Panathinaikos
+06/11/2014,2 - 3,Panathinaikos,PSV
+06/11/2014,1 - 0,Dinamo Moskva,Estoril
+23/10/2014,1 - 2,Estoril,Dinamo Moskva
+23/10/2014,1 - 1,PSV,Panathinaikos
+02/10/2014,2 - 0,Estoril,Panathinaikos
+02/10/2014,1 - 0,Dinamo Moskva,PSV
+18/09/2014,1 - 2,Panathinaikos,Dinamo Moskva
+18/09/2014,1 - 0,PSV,Estoril
+11/12/2014,1 - 0,Dnipro Dnipropetrovsk,Saint-Étienne
+11/12/2014,0 - 0,Qarabağ,Internazionale
+27/11/2014,2 - 1,Internazionale,Dnipro Dnipropetrovsk
+27/11/2014,1 - 1,Saint-Étienne,Qarabağ
+06/11/2014,1 - 1,Saint-Étienne,Internazionale
+06/11/2014,1 - 2,Qarabağ,Dnipro Dnipropetrovsk
+23/10/2014,0 - 1,Dnipro Dnipropetrovsk,Qarabağ
+23/10/2014,0 - 0,Internazionale,Saint-Étienne
+02/10/2014,2 - 0,Internazionale,Qarabağ
+02/10/2014,0 - 0,Saint-Étienne,Dnipro Dnipropetrovsk
+18/09/2014,0 - 1,Dnipro Dnipropetrovsk,Internazionale
+18/09/2014,0 - 0,Qarabağ,Saint-Étienne
+11/12/2014,1 - 0,Sevilla,Rijeka
+11/12/2014,0 - 3,Standard Liège,Feyenoord
+27/11/2014,2 - 0,Feyenoord,Sevilla
+27/11/2014,2 - 0,Rijeka,Standard Liège
+06/11/2014,2 - 0,Feyenoord,Rijeka
+06/11/2014,3 - 1,Sevilla,Standard Liège
+23/10/2014,3 - 1,Rijeka,Feyenoord
+23/10/2014,0 - 0,Standard Liège,Sevilla
+02/10/2014,2 - 1,Feyenoord,Standard Liège
+02/10/2014,2 - 2,Rijeka,Sevilla
+18/09/2014,2 - 0,Sevilla,Feyenoord
+18/09/2014,2 - 0,Standard Liège,Rijeka
+11/12/2014,0 - 1,Everton,Krasnodar
+11/12/2014,0 - 3,Lille,Wolfsburg
+27/11/2014,0 - 2,Wolfsburg,Everton
+27/11/2014,1 - 1,Krasnodar,Lille
+06/11/2014,3 - 0,Everton,Lille
+06/11/2014,5 - 1,Wolfsburg,Krasnodar
+23/10/2014,0 - 0,Lille,Everton
+23/10/2014,2 - 4,Krasnodar,Wolfsburg
+02/10/2014,1 - 1,Wolfsburg,Lille
+02/10/2014,1 - 1,Krasnodar,Everton
+18/09/2014,4 - 1,Everton,Wolfsburg
+18/09/2014,1 - 1,Lille,Krasnodar
+11/12/2014,3 - 0,Napoli,Slovan Bratislava
+11/12/2014,2 - 0,Young Boys,Sparta Praha
+27/11/2014,1 - 3,Slovan Bratislava,Young Boys
+27/11/2014,0 - 0,Sparta Praha,Napoli
+06/11/2014,3 - 0,Napoli,Young Boys
+06/11/2014,4 - 0,Sparta Praha,Slovan Bratislava
+23/10/2014,0 - 3,Slovan Bratislava,Sparta Praha
+23/10/2014,2 - 0,Young Boys,Napoli
+02/10/2014,0 - 2,Slovan Bratislava,Napoli
+02/10/2014,3 - 1,Sparta Praha,Young Boys
+18/09/2014,3 - 1,Napoli,Sparta Praha
+18/09/2014,5 - 0,Young Boys,Slovan Bratislava
+11/12/2014,0 - 2,[N] FCSB,Dynamo Kyiv
+11/12/2014,2 - 0,Rio Ave,AaB
+27/11/2014,1 - 0,AaB,FCSB
+27/11/2014,2 - 0,Dynamo Kyiv,Rio Ave
+06/11/2014,2 - 0,Dynamo Kyiv,AaB
+06/11/2014,2 - 2,Rio Ave,FCSB
+23/10/2014,3 - 0,AaB,Dynamo Kyiv
+23/10/2014,2 - 1,FCSB,Rio Ave
+02/10/2014,1 - 0,AaB,Rio Ave
+02/10/2014,3 - 1,Dynamo Kyiv,FCSB
+18/09/2014,6 - 0,[N] FCSB,AaB
+18/09/2014,0 - 3,Rio Ave,Dynamo Kyiv
+11/12/2014,1 - 2,Fiorentina,Dinamo Minsk
+11/12/2014,1 - 2,PAOK,Guingamp
+27/11/2014,0 - 2,[N] Dinamo Minsk,PAOK
+27/11/2014,1 - 2,Guingamp,Fiorentina
+06/11/2014,1 - 1,Fiorentina,PAOK
+06/11/2014,2 - 0,Guingamp,Dinamo Minsk
+23/10/2014,0 - 0,[N] Dinamo Minsk,Guingamp
+23/10/2014,0 - 1,PAOK,Fiorentina
+02/10/2014,0 - 3,[N] Dinamo Minsk,Fiorentina
+02/10/2014,2 - 0,Guingamp,PAOK
+18/09/2014,3 - 0,Fiorentina,Guingamp
+18/09/2014,6 - 1,PAOK,Dinamo Minsk
+11/12/2014,2 - 0,Legia Warszawa,Trabzonspor
+11/12/2014,0 - 1,Metalist,Lokeren
+27/11/2014,1 - 0,Lokeren,Legia Warszawa
+27/11/2014,3 - 1,Trabzonspor,Metalist
+06/11/2014,2 - 1,Legia Warszawa,Metalist
+06/11/2014,1 - 1,Lokeren,Trabzonspor
+23/10/2014,2 - 0,Trabzonspor,Lokeren
+22/10/2014,0 - 1,Metalist,Legia Warszawa
+02/10/2014,1 - 0,Lokeren,Metalist
+02/10/2014,0 - 1,Trabzonspor,Legia Warszawa
+18/09/2014,1 - 0,Legia Warszawa,Lokeren
+18/09/2014,1 - 2,Metalist,Trabzonspor
+28/08/2014,1 - 0,Rio Ave,Elfsborg
+28/08/2014,1 - 0,Club Brugge,Grasshopper
+28/08/2014,2 - 1,Dinamo Zagreb,Petrolul Ploieşti
+28/08/2014,2 - 0,Legia Warszawa,Aktobe
+28/08/2014,7 - 0,Borussia M'gladbach,Sarajevo
+28/08/2014,2 - 1,Hull City,Lokeren
+28/08/2014,6 - 0,Internazionale,Stjarnan
+28/08/2014,2 - 3,Nacional,Dinamo Minsk
+28/08/2014,3 - 0,Tottenham Hotspur,AEL
+28/08/2014,4 - 0,Villarreal,Astana
+28/08/2014,0 - 0,Debrecen,Young Boys
+28/08/2014,3 - 3,Rapid Wien,HJK
+28/08/2014,1 - 0, [PS] Saint-Étienne,Kardemir Karabükspor
+28/08/2014,3 - 1,Sparta Praha,PEC Zwolle
+28/08/2014,1 - 0,Torino,Split
+28/08/2014,1 - 1,[N] Zürich,Spartak Trnava
+28/08/2014,4 - 3,Feyenoord,Zorya
+28/08/2014,1 - 2,Midtjylland,Panathinaikos
+28/08/2014,3 - 1,Maccabi Tel Aviv,Asteras Tripolis
+28/08/2014,1 - 1,Twente,Qarabağ
+28/08/2014,0 - 0,Hajduk Split,Dnipro Dnipropetrovsk
+28/08/2014,0 - 0,Rostov,Trabzonspor
+28/08/2014,0 - 2,[N] Shakhtyor,PSV
+28/08/2014,0 - 3,[N] Sheriff,Rijeka
+28/08/2014,0 - 1,Astra,Olympique Lyonnais
+28/08/2014,4 - 0,PAOK,Zimbru
+28/08/2014,3 - 0,Krasnodar,Real Sociedad
+28/08/2014,0 - 0, [ET] Metalist,Ruch Chorzów
+28/08/2014,1 - 2,[N] Neftçi,Partizan
+28/08/2014,1 - 2,Omonia Nicosia,Dinamo Moskva
+28/08/2014,1 - 4,Lokomotiv Moskva,Apollon
+21/08/2014,1 - 0,Rijeka,Sheriff
+21/08/2014,2 - 3,Sarajevo,Borussia M'gladbach
+21/08/2014,1 - 0,Lokeren,Hull City
+21/08/2014,1 - 2,Olympique Lyonnais,Astra
+21/08/2014,1 - 0,Real Sociedad,Krasnodar
+21/08/2014,0 - 0,[N] Split,Torino
+21/08/2014,2 - 0,Asteras Tripolis,Maccabi Tel Aviv
+21/08/2014,1 - 2,[N] Grasshopper,Club Brugge
+21/08/2014,3 - 2,Partizan,Neftçi
+21/08/2014,1 - 3,Spartak Trnava,Zürich
+21/08/2014,1 - 0,Zimbru,PAOK
+21/08/2014,4 - 1,Panathinaikos,Midtjylland
+21/08/2014,1 - 1,PEC Zwolle,Sparta Praha
+21/08/2014,2 - 0,Trabzonspor,Rostov
+21/08/2014,1 - 1,Zorya,Feyenoord
+21/08/2014,1 - 1,Apollon,Lokomotiv Moskva
+21/08/2014,3 - 1,Young Boys,Debrecen
+21/08/2014,1 - 3,Petrolul Ploieşti,Dinamo Zagreb
+21/08/2014,2 - 0,[N] Dinamo Minsk,Nacional
+21/08/2014,2 - 1,Elfsborg,Rio Ave
+21/08/2014,1 - 0,Kardemir Karabükspor,Saint-Étienne
+21/08/2014,1 - 0,PSV,Shakhtyor
+21/08/2014,1 - 2,AEL,Tottenham Hotspur
+21/08/2014,2 - 1,HJK,Rapid Wien
+21/08/2014,0 - 0,Qarabağ,Twente
+21/08/2014,0 - 0,[N] Ruch Chorzów,Metalist
+21/08/2014,2 - 2,Dinamo Moskva,Omonia Nicosia
+21/08/2014,0 - 1,Aktobe,Legia Warszawa
+21/08/2014,0 - 3,Astana,Villarreal
+20/08/2014,0 - 3,[N] Stjarnan,Internazionale
+20/08/2014,2 - 1,Dnipro Dnipropetrovsk,Hajduk Split
+07/08/2014,4 - 0,Rijeka,Víkingur
+07/08/2014,0 - 1,Zimbru,Grödig
+07/08/2014,0 - 0,Rio Ave,IFK Göteborg
+07/08/2014,2 - 3,Aberdeen,Real Sociedad
+07/08/2014,0 - 1,Metalurg,Omonia Nicosia
+07/08/2014,2 - 1,FH,Elfsborg
+07/08/2014,2 - 1,Hull City,Trenčín
+07/08/2014,2 - 1,Olympique Lyonnais,Mladá Boleslav
+07/08/2014,4 - 0,Torino,Brommapojkarna
+07/08/2014,3 - 1,Asteras Tripolis,Mainz 05
+07/08/2014,1 - 2,Atromitos,Sarajevo [ET] 
+07/08/2014,0 - 2,Brøndby,Club Brugge
+07/08/2014,1 - 4,Viktoria Plzeň,Petrolul Ploieşti
+07/08/2014,0 - 2,CFR Cluj,Dinamo Minsk
+07/08/2014,3 - 0,Hajduk Split,Shakhter Karagandy
+07/08/2014,1 - 1,Spartak Trnava,St. Johnstone
+07/08/2014,0 - 3,AIK,Astana
+07/08/2014,2 - 3,Chikhura,Neftçi
+07/08/2014,1 - 2,Ironi Kiryat Shmona,Dinamo Moskva
+07/08/2014,0 - 0,Lech Poznań,Stjarnan
+07/08/2014,1 - 1,Rosenborg,Kardemir Karabükspor
+07/08/2014,2 - 2,[N] Shakhtyor,Zulte-Waregem
+07/08/2014,2 - 3,St. Pölten,PSV
+07/08/2014,0 - 0,Chornomorets,Split
+07/08/2014,2 - 2,Esbjerg,Ruch Chorzów
+07/08/2014,3 - 0,Krasnodar,Diósgyőr
+07/08/2014,1 - 2,Molde,Zorya
+07/08/2014,2 - 3,Slovan Liberec,Astra
+07/08/2014,0 - 2,[N] Ermis,Young Boys
+31/07/2014,1 - 2,Grödig,Zimbru
+31/07/2014,1 - 2,St. Johnstone,Spartak Trnava
+31/07/2014,3 - 0,Club Brugge,Brøndby
+31/07/2014,1 - 5,Diósgyőr,Krasnodar
+31/07/2014,1 - 0,Mainz 05,Asteras Tripolis
+31/07/2014,2 - 0,Real Sociedad,Aberdeen
+31/07/2014,1 - 2,Sarajevo,Atromitos
+31/07/2014,1 - 0,Stjarnan,Lech Poznań
+31/07/2014,1 - 1,Petrolul Ploieşti,Viktoria Plzeň
+31/07/2014,2 - 0,Split,Chornomorets
+31/07/2014,1 - 5,Víkingur,Rijeka
+31/07/2014,2 - 5,Zulte-Waregem,Shakhtyor
+31/07/2014,1 - 0,Young Boys,Ermis
+31/07/2014,1 - 1,Zorya,Molde
+31/07/2014,0 - 3,Brommapojkarna,Torino
+31/07/2014,1 - 0,[N] Dinamo Minsk,CFR Cluj
+31/07/2014,0 - 1,IFK Göteborg,Rio Ave
+31/07/2014,0 - 0,Kardemir Karabükspor,Rosenborg
+31/07/2014,1 - 4,Mladá Boleslav,Olympique Lyonnais
+31/07/2014,1 - 0,PSV,St. Pölten
+31/07/2014,0 - 0,Trenčín,Hull City
+31/07/2014,0 - 0,[N] Ruch Chorzów,Esbjerg
+31/07/2014,3 - 0,Astra,Slovan Liberec
+31/07/2014,1 - 1,Dinamo Moskva,Ironi Kiryat Shmona
+31/07/2014,4 - 1,Elfsborg,FH
+31/07/2014,3 - 0,Omonia Nicosia,Metalurg
+31/07/2014,0 - 0,Neftçi,Chikhura
+31/07/2014,1 - 1,Astana,AIK
+31/07/2014,4 - 2,Shakhter Karagandy,Hajduk Split
+24/07/2014,2 - 0,FH,Neman Grodno
+24/07/2014,2 - 2, [ET] Stjarnan,Motherwell
+24/07/2014,2 - 0,St. Pölten,Botev Plovdiv
+24/07/2014,1 - 1,Crusaders,Brommapojkarna
+24/07/2014,1 - 1, [PS] St. Johnstone,Luzern
+24/07/2014,1 - 2,[N] Diósgyőr,Lovech
+24/07/2014,1 - 2,Ferencváros,Rijeka
+24/07/2014,1 - 1,Gorica,Molde
+24/07/2014,0 - 1,Jagodina,CFR Cluj
+24/07/2014,0 - 2,Koper,Neftçi
+24/07/2014,0 - 4,Široki Brijeg,Mladá Boleslav
+24/07/2014,1 - 2,Hajduk Split,Dundalk
+24/07/2014,4 - 2,Asteras Tripolis,RoPS
+24/07/2014,1 - 3,Sligo Rovers,Rosenborg
+24/07/2014,3 - 0,Vojvodina,Trenčín
+24/07/2014,1 - 3,Zawisza Bydgoszcz,Zulte-Waregem
+24/07/2014,1 - 2,Groningen,Aberdeen
+24/07/2014,1 - 0,Hapoel Tel Aviv,Astana
+24/07/2014,3 - 0,Spartak Trnava,Zestafoni
+24/07/2014,2 - 1,Zorya,Laçi
+24/07/2014,2 - 0,AIK,Linfield
+24/07/2014,0 - 0, [PS] Chikhura,Bursaspor
+24/07/2014,1 - 0,Esbjerg,Kairat
+24/07/2014,1 - 3,Flamurtari,Petrolul Ploieşti
+24/07/2014,1 - 2,Grödig,Čukarički
+24/07/2014,0 - 1,IFK Göteborg,Győri ETO
+24/07/2014,3 - 0,Lech Poznań,Nõmme Kalju
+24/07/2014,5 - 1,Shakhtyor,Derry City
+24/07/2014,3 - 0,Slovan Liberec,Košice
+24/07/2014,1 - 2,Tromsø,Víkingur
+24/07/2014,0 - 0,Vaduz,Ruch Chorzów
+24/07/2014,0 - 0,Zimbru,CSKA Sofia
+24/07/2014,1 - 3,Haugesund,Sarajevo
+24/07/2014,0 - 1,Keşlə,Elfsborg [PS] 
+24/07/2014,5 - 0,Krasnodar,Sillamäe Kalev
+24/07/2014,0 - 0,Omonia Nicosia,Budućnost
+24/07/2014,0 - 0,MYPA,Dinamo Minsk
+24/07/2014,0 - 0,Hapoel Be'er Sheva,Split
+24/07/2014,3 - 0,Shakhter Karagandy,Atlantas
+22/07/2014,2 - 2,Željezničar,Metalurg
+17/07/2014,0 - 4,Čukarički,Grödig
+17/07/2014,0 - 1,Sarajevo,Haugesund
+17/07/2014,0 - 0,Aberdeen,Groningen
+17/07/2014,0 - 1,Derry City,Shakhtyor
+17/07/2014,0 - 2,Dundalk,Hajduk Split
+17/07/2014,1 - 0,Linfield,AIK
+17/07/2014,2 - 2,Motherwell,Stjarnan
+17/07/2014,0 - 0,Bursaspor,Chikhura
+17/07/2014,0 - 0,Metalurg,Željezničar
+17/07/2014,4 - 1,Molde,Gorica
+17/07/2014,1 - 0,Rijeka,Ferencváros
+17/07/2014,0 - 4,Sillamäe Kalev,Krasnodar
+17/07/2014,2 - 1,Split,Hapoel Be'er Sheva
+17/07/2014,0 - 3,Győri ETO,IFK Göteborg
+17/07/2014,0 - 0,Víkingur,Tromsø
+17/07/2014,2 - 1,Zulte-Waregem,Zawisza Bydgoszcz
+17/07/2014,0 - 2,Lovech,Diósgyőr
+17/07/2014,0 - 0,CFR Cluj,Jagodina
+17/07/2014,1 - 1,CSKA Sofia,Zimbru
+17/07/2014,1 - 1,Luzern,St. Johnstone
+17/07/2014,4 - 0,[N] Brommapojkarna,Crusaders
+17/07/2014,2 - 1,Mladá Boleslav,Široki Brijeg
+17/07/2014,1 - 1,Neman Grodno,FH
+17/07/2014,1 - 2,Rosenborg,Sligo Rovers
+17/07/2014,2 - 1,Botev Plovdiv,St. Pölten
+17/07/2014,2 - 0,Petrolul Ploieşti,Flamurtari
+17/07/2014,0 - 0,Atlantas,Shakhter Karagandy
+17/07/2014,0 - 1,Elfsborg,Keşlə
+17/07/2014,1 - 0,Nõmme Kalju,Lech Poznań
+17/07/2014,1 - 1,RoPS,Asteras Tripolis
+17/07/2014,3 - 2,Ruch Chorzów,Vaduz
+17/07/2014,0 - 0,Zestafoni,Spartak Trnava
+17/07/2014,0 - 2,Budućnost,Omonia Nicosia
+17/07/2014,3 - 0,Dinamo Minsk,MYPA
+17/07/2014,4 - 0,Trenčín,Vojvodina
+17/07/2014,0 - 1,Košice,Slovan Liberec
+17/07/2014,0 - 3,Laçi,Zorya
+17/07/2014,1 - 2,Neftçi,Koper
+17/07/2014,1 - 1,Kairat,Esbjerg
+17/07/2014,3 - 0,Astana,Hapoel Tel Aviv
+11/07/2014,3 - 0,[N] Lovech,Veris
+10/07/2014,3 - 1,Dundalk,Jeunesse d'Esch
+10/07/2014,2 - 3,Glenavon,FH
+10/07/2014,2 - 0,Metalurg,UE Santa Coloma
+10/07/2014,2 - 1,Ferencváros,Sliema Wanderers
+10/07/2014,4 - 0,Koper,Čelik
+10/07/2014,0 - 2,Libertas,Botev Plovdiv
+10/07/2014,3 - 0,Široki Brijeg,Qəbələ
+10/07/2014,0 - 1,Europa,Vaduz
+10/07/2014,0 - 0,ÍF,MYPA
+10/07/2014,4 - 0,Sligo Rovers,Banga
+10/07/2014,0 - 5,Aberystwyth Town,Derry City
+10/07/2014,0 - 4,Bangor City,Stjarnan
+10/07/2014,1 - 4,Birkirkara,Diósgyőr
+10/07/2014,0 - 0,Kukësi,Kairat
+10/07/2014,5 - 0,Spartak Trnava,Hibernians
+10/07/2014,2 - 0,[N] Brommapojkarna,VPS
+10/07/2014,1 - 2,Flamurtari,Sioni
+10/07/2014,0 - 2,Fola Esch,IFK Göteborg
+10/07/2014,6 - 1,Tromsø,Tartu Santos
+10/07/2014,2 - 0,Zimbru,Shkendija
+10/07/2014,0 - 3,Daugava Rīga,Aberdeen
+10/07/2014,3 - 1,Atlantas,Differdange 03
+10/07/2014,3 - 1,Chikhura,Turnovo
+10/07/2014,2 - 1,Haugesund,Airbus UK
+10/07/2014,0 - 2,Jelgava,Rosenborg
+10/07/2014,3 - 1,Keşlə,Tiraspol
+10/07/2014,2 - 2,Nõmme Kalju,Fram
+10/07/2014,0 - 0,Sant Julià,Čukarički
+10/07/2014,3 - 0,Budućnost,Folgore
+10/07/2014,1 - 2,Ekranas,Crusaders
+10/07/2014,2 - 1, [ET] Honka,Sillamäe Kalev
+10/07/2014,0 - 1,Lovćen,Željezničar
+10/07/2014,1 - 1,Daugava Daugavpils,Víkingur
+10/07/2014,1 - 1, [PS] Laçi,Rudar
+10/07/2014,1 - 1,Mika,Split
+10/07/2014,2 - 0,Astana,Pyunik
+10/07/2014,4 - 0,Shakhter Karagandy,Shirak
+08/07/2014,1 - 1,Linfield,B36
+03/07/2014,3 - 0,FH,Glenavon
+03/07/2014,0 - 1,Fram,Nõmme Kalju
+03/07/2014,4 - 0,Stjarnan,Bangor City
+03/07/2014,0 - 0,Željezničar,Lovćen
+03/07/2014,5 - 0,Aberdeen,Daugava Rīga
+03/07/2014,3 - 1,Crusaders,Ekranas
+03/07/2014,4 - 0,Derry City,Aberystwyth Town
+03/07/2014,2 - 1,Diósgyőr,Birkirkara
+03/07/2014,1 - 2,Folgore,Budućnost
+03/07/2014,1 - 2,B36,Linfield
+03/07/2014,4 - 0,Čukarički,Sant Julià
+03/07/2014,2 - 4,Hibernians,Spartak Trnava
+03/07/2014,1 - 1,Rudar,Laçi
+03/07/2014,2 - 0,Split,Mika
+03/07/2014,2 - 1,Víkingur,Daugava Daugavpils
+03/07/2014,1 - 1,Airbus UK,Haugesund
+03/07/2014,1 - 0,Differdange 03,Atlantas
+03/07/2014,0 - 0,IFK Göteborg,Fola Esch
+03/07/2014,4 - 0,Rosenborg,Jelgava
+03/07/2014,2 - 3,Sioni,Flamurtari
+03/07/2014,2 - 3,Tiraspol,Keşlə
+03/07/2014,3 - 0,Vaduz,Europa
+03/07/2014,4 - 0,Botev Plovdiv,Libertas
+03/07/2014,0 - 1,Turnovo,Chikhura
+03/07/2014,0 - 3,UE Santa Coloma,Metalurg
+03/07/2014,2 - 1,VPS,Brommapojkarna
+03/07/2014,0 - 5,Čelik,Koper
+03/07/2014,1 - 0,MYPA,ÍF
+03/07/2014,2 - 1,Sillamäe Kalev,Honka
+03/07/2014,0 - 0,Banga,Sligo Rovers
+03/07/2014,0 - 2,Qəbələ,Široki Brijeg
+03/07/2014,0 - 7,Tartu Santos,Tromsø
+03/07/2014,0 - 0,Veris,Lovech
+03/07/2014,1 - 0,Kairat,Kukësi
+03/07/2014,1 - 4,Pyunik,Astana
+03/07/2014,1 - 2,Shirak,Shakhter Karagandy
+01/07/2014,2 - 1,Shkendija,Zimbru
+01/07/2014,0 - 2,Jeunesse d'Esch,Dundalk
+01/07/2014,1 - 1,Sliema Wanderers,Ferencváros

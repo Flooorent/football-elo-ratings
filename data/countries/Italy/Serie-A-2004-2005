@@ -1,0 +1,383 @@
+date,score,home_team,away_team
+18/06/2005,0 - 2,Bologna,Parma
+14/06/2005,0 - 1,Parma,Bologna
+29/05/2005,0 - 0,Bologna,Sampdoria
+29/05/2005,3 - 0,Fiorentina,Brescia
+29/05/2005,0 - 0,Internazionale,Reggina
+29/05/2005,4 - 2,Juventus,Cagliari
+29/05/2005,3 - 3,Lecce,Parma
+29/05/2005,1 - 1,Messina,Livorno
+29/05/2005,3 - 3,Palermo,Lazio
+29/05/2005,2 - 1,Robur Siena,Atalanta
+29/05/2005,0 - 0,Roma,Chievo
+29/05/2005,1 - 1,Udinese,Milan
+22/05/2005,0 - 1,Atalanta,Roma
+22/05/2005,2 - 1,Brescia,Messina
+22/05/2005,1 - 1,Cagliari,Udinese
+22/05/2005,1 - 0,Chievo,Bologna
+22/05/2005,1 - 1,Lazio,Fiorentina
+22/05/2005,2 - 2,Livorno,Juventus
+22/05/2005,0 - 0,Parma,Robur Siena
+22/05/2005,2 - 2,Reggina,Lecce
+22/05/2005,0 - 1,Sampdoria,Internazionale
+20/05/2005,3 - 3,Milan,Palermo
+15/05/2005,1 - 2,Bologna,Brescia
+15/05/2005,0 - 0,Fiorentina,Atalanta
+15/05/2005,1 - 0,Internazionale,Livorno
+15/05/2005,2 - 0,Juventus,Parma
+15/05/2005,2 - 2,Lecce,Milan
+15/05/2005,2 - 1,Messina,Cagliari
+15/05/2005,1 - 1,Palermo,Reggina
+15/05/2005,0 - 1,Robur Siena,Chievo
+15/05/2005,0 - 0,Roma,Lazio
+15/05/2005,1 - 1,Udinese,Sampdoria
+08/05/2005,2 - 1,Atalanta,Messina
+08/05/2005,0 - 3,Brescia,Internazionale
+08/05/2005,0 - 0,Cagliari,Palermo
+08/05/2005,1 - 2,Chievo,Fiorentina
+08/05/2005,0 - 1,Lazio,Udinese
+08/05/2005,3 - 6,Livorno,Robur Siena
+08/05/2005,0 - 1,Milan,Juventus
+08/05/2005,2 - 1,Parma,Roma
+08/05/2005,1 - 1,Reggina,Bologna
+08/05/2005,3 - 0,Sampdoria,Lecce
+01/05/2005,2 - 0,Internazionale,Robur Siena
+01/05/2005,2 - 1,Juventus,Bologna
+01/05/2005,5 - 3,Lecce,Lazio
+01/05/2005,2 - 2,Messina,Sampdoria
+01/05/2005,2 - 2,Palermo,Chievo
+01/05/2005,6 - 4,Parma,Livorno
+01/05/2005,2 - 2,Roma,Brescia
+01/05/2005,2 - 1,Udinese,Atalanta
+30/04/2005,1 - 1,Cagliari,Reggina
+30/04/2005,1 - 2,Fiorentina,Milan
+24/04/2005,1 - 0,Atalanta,Palermo
+24/04/2005,0 - 0,Bologna,Fiorentina
+24/04/2005,2 - 0,Brescia,Reggina
+24/04/2005,1 - 1,Chievo,Cagliari
+24/04/2005,0 - 1,Lazio,Juventus
+24/04/2005,1 - 0,Livorno,Lecce
+24/04/2005,2 - 1,Messina,Internazionale
+24/04/2005,2 - 1,Sampdoria,Roma
+23/04/2005,3 - 0,Milan,Parma
+23/04/2005,2 - 3,Robur Siena,Udinese
+20/04/2005,1 - 1,Cagliari,Lazio
+20/04/2005,1 - 1,Fiorentina,Messina
+20/04/2005,0 - 1,Juventus,Internazionale
+20/04/2005,1 - 1,Lecce,Bologna
+20/04/2005,1 - 0,Milan,Chievo
+20/04/2005,3 - 3,Palermo,Brescia
+20/04/2005,1 - 1,Parma,Sampdoria
+20/04/2005,0 - 0,Reggina,Atalanta
+20/04/2005,0 - 2,Roma,Robur Siena
+20/04/2005,1 - 1,Udinese,Livorno
+17/04/2005,1 - 2,Bologna,Lazio
+17/04/2005,1 - 0,Brescia,Atalanta
+17/04/2005,2 - 0,Chievo,Parma
+17/04/2005,2 - 0,Internazionale,Cagliari
+17/04/2005,5 - 2,Juventus,Lecce
+17/04/2005,2 - 0,Livorno,Fiorentina
+17/04/2005,2 - 1,Robur Siena,Milan
+16/04/2005,1 - 0,Messina,Udinese
+16/04/2005,1 - 2,Roma,Reggina
+16/04/2005,1 - 0,Sampdoria,Palermo
+10/04/2005,3 - 0,Atalanta,Chievo
+10/04/2005,0 - 0,Cagliari,Sampdoria
+10/04/2005,3 - 1,Lazio,Livorno
+10/04/2005,2 - 2,Lecce,Robur Siena
+10/04/2005,2 - 1,Palermo,Messina
+10/04/2005,1 - 3,Reggina,Parma
+10/04/2005,3 - 3,Udinese,Roma
+09/04/2005,0 - 1,Bologna,Internazionale
+09/04/2005,3 - 3,Fiorentina,Juventus
+09/04/2005,1 - 1,Milan,Brescia
+20/03/2005,3 - 1,Chievo,Brescia
+20/03/2005,3 - 2,Internazionale,Fiorentina
+20/03/2005,3 - 3,Livorno,Cagliari
+20/03/2005,0 - 0,Messina,Bologna
+20/03/2005,3 - 3,Parma,Palermo
+20/03/2005,0 - 2,Roma,Milan
+20/03/2005,1 - 2,Sampdoria,Atalanta
+20/03/2005,2 - 1,Udinese,Lecce
+19/03/2005,1 - 0,Juventus,Reggina
+19/03/2005,1 - 0,Robur Siena,Lazio
+13/03/2005,1 - 0,Atalanta,Parma
+13/03/2005,1 - 1,Bologna,Robur Siena
+13/03/2005,2 - 3,Brescia,Livorno
+13/03/2005,3 - 0,Cagliari,Roma
+13/03/2005,0 - 1,Chievo,Juventus
+13/03/2005,1 - 0,Milan,Sampdoria
+13/03/2005,1 - 5,Palermo,Udinese
+13/03/2005,0 - 2,Reggina,Messina
+12/03/2005,1 - 1,Lazio,Internazionale
+12/03/2005,2 - 2,Lecce,Fiorentina
+06/03/2005,2 - 1,Fiorentina,Reggina
+06/03/2005,2 - 1,Internazionale,Lecce
+06/03/2005,2 - 2,Livorno,Palermo
+06/03/2005,1 - 0,Messina,Lazio
+06/03/2005,3 - 2,Parma,Cagliari
+06/03/2005,2 - 3,Robur Siena,Brescia
+06/03/2005,1 - 0,Sampdoria,Chievo
+06/03/2005,0 - 1,Udinese,Bologna
+05/03/2005,1 - 2,Atalanta,Milan
+05/03/2005,1 - 2,Roma,Juventus
+27/02/2005,0 - 0,Bologna,Livorno
+27/02/2005,3 - 3,Cagliari,Atalanta
+27/02/2005,0 - 1,Internazionale,Milan
+27/02/2005,3 - 0,Juventus,Robur Siena
+27/02/2005,2 - 0,Lazio,Parma
+27/02/2005,1 - 0,Lecce,Messina
+27/02/2005,2 - 0,Palermo,Roma
+27/02/2005,1 - 0,Reggina,Chievo
+26/02/2005,0 - 1,Brescia,Sampdoria
+26/02/2005,2 - 2,Fiorentina,Udinese
+20/02/2005,2 - 0,Atalanta,Bologna
+20/02/2005,0 - 1,Chievo,Lazio
+20/02/2005,3 - 2,Palermo,Lecce
+20/02/2005,2 - 1,Parma,Brescia
+20/02/2005,1 - 0,Robur Siena,Fiorentina
+20/02/2005,3 - 0,Roma,Livorno
+20/02/2005,3 - 2,Sampdoria,Reggina
+19/02/2005,0 - 0,Messina,Juventus
+19/02/2005,1 - 0,Milan,Cagliari
+19/02/2005,1 - 1,Udinese,Internazionale
+13/02/2005,1 - 1,Bologna,Palermo
+13/02/2005,2 - 0,Brescia,Cagliari
+13/02/2005,2 - 1,Fiorentina,Parma
+13/02/2005,2 - 1,Juventus,Udinese
+13/02/2005,3 - 0,Lecce,Chievo
+13/02/2005,1 - 0,Livorno,Sampdoria
+13/02/2005,0 - 1,Reggina,Milan
+13/02/2005,2 - 2,Robur Siena,Messina
+12/02/2005,2 - 0,Internazionale,Roma
+12/02/2005,2 - 1,Lazio,Atalanta
+06/02/2005,1 - 0,Atalanta,Livorno
+06/02/2005,0 - 1,Brescia,Udinese
+06/02/2005,3 - 1,Cagliari,Lecce
+06/02/2005,1 - 0,Chievo,Messina
+06/02/2005,2 - 1,Milan,Lazio
+06/02/2005,2 - 2,Parma,Internazionale
+06/02/2005,3 - 3,Reggina,Robur Siena
+06/02/2005,1 - 1,Roma,Bologna
+05/02/2005,1 - 0,Palermo,Juventus
+05/02/2005,3 - 0,Sampdoria,Fiorentina
+03/02/2005,3 - 1,Bologna,Parma
+02/02/2005,1 - 2,Fiorentina,Palermo
+02/02/2005,1 - 0,Internazionale,Atalanta
+02/02/2005,0 - 1,Juventus,Sampdoria
+02/02/2005,0 - 0,Lazio,Brescia
+02/02/2005,1 - 1,Lecce,Roma
+02/02/2005,1 - 1,Livorno,Reggina
+02/02/2005,1 - 4,Messina,Milan
+02/02/2005,2 - 2,Robur Siena,Cagliari
+02/02/2005,3 - 0,Udinese,Chievo
+30/01/2005,1 - 2,Atalanta,Juventus
+30/01/2005,0 - 1,Brescia,Lecce
+30/01/2005,1 - 0,Cagliari,Fiorentina
+30/01/2005,0 - 1,Milan,Bologna
+30/01/2005,0 - 2,Palermo,Internazionale
+30/01/2005,2 - 1,Reggina,Lazio
+30/01/2005,3 - 2,Roma,Messina
+30/01/2005,1 - 1,Sampdoria,Robur Siena
+29/01/2005,1 - 0,Chievo,Livorno
+29/01/2005,1 - 0,Parma,Udinese
+23/01/2005,1 - 2,Fiorentina,Roma
+23/01/2005,2 - 0,Juventus,Brescia
+23/01/2005,1 - 2,Lazio,Sampdoria
+23/01/2005,1 - 0,Lecce,Atalanta
+23/01/2005,1 - 0,Livorno,Milan
+23/01/2005,1 - 0,Messina,Parma
+23/01/2005,0 - 0,Robur Siena,Palermo
+23/01/2005,0 - 2,Udinese,Reggina
+22/01/2005,1 - 0,Bologna,Cagliari
+22/01/2005,1 - 1,Internazionale,Chievo
+19/01/2005,1 - 0,Messina,Atalanta
+16/01/2005,1 - 1,Atalanta,Robur Siena
+16/01/2005,1 - 1,Cagliari,Juventus
+16/01/2005,2 - 2,Chievo,Roma
+16/01/2005,1 - 3,Lazio,Palermo
+16/01/2005,3 - 1,Livorno,Messina
+16/01/2005,3 - 1,Milan,Udinese
+16/01/2005,2 - 1,Parma,Lecce
+16/01/2005,0 - 0,Sampdoria,Bologna
+15/01/2005,1 - 1,Brescia,Fiorentina
+15/01/2005,0 - 0,Reggina,Internazionale
+09/01/2005,3 - 1,Bologna,Chievo
+09/01/2005,2 - 3,Fiorentina,Lazio
+09/01/2005,3 - 2,Internazionale,Sampdoria
+09/01/2005,4 - 2,Juventus,Livorno
+09/01/2005,1 - 1,Lecce,Reggina
+09/01/2005,2 - 0,Messina,Brescia
+09/01/2005,0 - 0,Palermo,Milan
+09/01/2005,0 - 1,Robur Siena,Parma
+09/01/2005,2 - 1,Roma,Atalanta
+09/01/2005,2 - 0,Udinese,Cagliari
+06/01/2005,1 - 0,Atalanta,Fiorentina
+06/01/2005,1 - 1,Brescia,Bologna
+06/01/2005,2 - 1,Cagliari,Messina
+06/01/2005,1 - 3,Chievo,Robur Siena
+06/01/2005,3 - 1,Lazio,Roma
+06/01/2005,0 - 2,Livorno,Internazionale
+06/01/2005,5 - 2,Milan,Lecce
+06/01/2005,1 - 1,Parma,Juventus
+06/01/2005,1 - 0,Reggina,Palermo
+06/01/2005,2 - 0,Sampdoria,Udinese
+19/12/2004,2 - 0,Bologna,Reggina
+19/12/2004,2 - 0,Fiorentina,Chievo
+19/12/2004,1 - 0,Internazionale,Brescia
+19/12/2004,1 - 4,Lecce,Sampdoria
+19/12/2004,3 - 0,Palermo,Cagliari
+19/12/2004,1 - 1,Robur Siena,Livorno
+19/12/2004,5 - 1,Roma,Parma
+19/12/2004,3 - 0,Udinese,Lazio
+18/12/2004,0 - 0,Juventus,Milan
+12/12/2004,0 - 1,Bologna,Juventus
+12/12/2004,0 - 1,Brescia,Roma
+12/12/2004,2 - 1,Chievo,Palermo
+12/12/2004,2 - 0,Livorno,Parma
+12/12/2004,6 - 0,Milan,Fiorentina
+12/12/2004,3 - 2,Reggina,Cagliari
+12/12/2004,2 - 2,Robur Siena,Internazionale
+12/12/2004,1 - 0,Sampdoria,Messina
+11/12/2004,0 - 1,Atalanta,Udinese
+11/12/2004,3 - 3,Lazio,Lecce
+05/12/2004,4 - 2,Cagliari,Chievo
+05/12/2004,1 - 0,Fiorentina,Bologna
+05/12/2004,2 - 1,Juventus,Lazio
+05/12/2004,3 - 2,Lecce,Livorno
+05/12/2004,1 - 0,Palermo,Atalanta
+05/12/2004,1 - 3,Reggina,Brescia
+05/12/2004,1 - 1,Roma,Sampdoria
+05/12/2004,1 - 0,Udinese,Robur Siena
+04/12/2004,5 - 0,Internazionale,Messina
+04/12/2004,1 - 2,Parma,Milan
+28/11/2004,0 - 1,Atalanta,Reggina
+28/11/2004,0 - 0,Bologna,Lecce
+28/11/2004,0 - 2,Brescia,Palermo
+28/11/2004,0 - 1,Chievo,Milan
+28/11/2004,2 - 2,Internazionale,Juventus
+28/11/2004,2 - 3,Lazio,Cagliari
+28/11/2004,1 - 1,Messina,Fiorentina
+28/11/2004,1 - 0,Sampdoria,Parma
+27/11/2004,1 - 2,Livorno,Udinese
+27/11/2004,0 - 4,Robur Siena,Roma
+14/11/2004,0 - 0,Atalanta,Brescia
+14/11/2004,3 - 3,Cagliari,Internazionale
+14/11/2004,1 - 1,Fiorentina,Livorno
+14/11/2004,2 - 1,Lazio,Bologna
+14/11/2004,0 - 1,Lecce,Juventus
+14/11/2004,2 - 1,Milan,Robur Siena
+14/11/2004,2 - 0,Palermo,Sampdoria
+14/11/2004,2 - 2,Parma,Chievo
+14/11/2004,1 - 0,Reggina,Roma
+14/11/2004,1 - 1,Udinese,Messina
+11/11/2004,0 - 0,Messina,Palermo
+10/11/2004,0 - 0,Brescia,Milan
+10/11/2004,1 - 0,Chievo,Atalanta
+10/11/2004,2 - 2,Internazionale,Bologna
+10/11/2004,1 - 0,Juventus,Fiorentina
+10/11/2004,1 - 0,Livorno,Lazio
+10/11/2004,1 - 0,Parma,Reggina
+10/11/2004,1 - 1,Robur Siena,Lecce
+10/11/2004,0 - 3,Roma,Udinese
+10/11/2004,0 - 0,Sampdoria,Cagliari
+07/11/2004,0 - 0,Atalanta,Sampdoria
+07/11/2004,2 - 2,Bologna,Messina
+07/11/2004,0 - 0,Cagliari,Livorno
+07/11/2004,1 - 1,Fiorentina,Internazionale
+07/11/2004,1 - 1,Lazio,Robur Siena
+07/11/2004,3 - 4,Lecce,Udinese
+07/11/2004,1 - 1,Milan,Roma
+07/11/2004,1 - 1,Palermo,Parma
+06/11/2004,1 - 0,Brescia,Chievo
+06/11/2004,2 - 1,Reggina,Juventus
+31/10/2004,4 - 0,Fiorentina,Lecce
+31/10/2004,3 - 0,Juventus,Chievo
+31/10/2004,2 - 1,Livorno,Brescia
+31/10/2004,2 - 1,Messina,Reggina
+31/10/2004,2 - 2,Parma,Atalanta
+31/10/2004,1 - 1,Robur Siena,Bologna
+31/10/2004,5 - 1,Roma,Cagliari
+31/10/2004,1 - 0,Udinese,Palermo
+30/10/2004,1 - 1,Internazionale,Lazio
+30/10/2004,0 - 1,Sampdoria,Milan
+28/10/2004,2 - 0,Juventus,Roma
+27/10/2004,0 - 1,Bologna,Udinese
+27/10/2004,0 - 1,Brescia,Robur Siena
+27/10/2004,2 - 1,Cagliari,Parma
+27/10/2004,0 - 2,Chievo,Sampdoria
+27/10/2004,2 - 0,Lazio,Messina
+27/10/2004,2 - 2,Lecce,Internazionale
+27/10/2004,3 - 0,Milan,Atalanta
+27/10/2004,1 - 2,Palermo,Livorno
+27/10/2004,1 - 2,Reggina,Fiorentina
+24/10/2004,0 - 0,Chievo,Reggina
+24/10/2004,1 - 0,Livorno,Bologna
+24/10/2004,1 - 4,Messina,Lecce
+24/10/2004,0 - 0,Milan,Internazionale
+24/10/2004,3 - 1,Parma,Lazio
+24/10/2004,1 - 1,Roma,Palermo
+24/10/2004,0 - 1,Sampdoria,Brescia
+24/10/2004,2 - 2,Udinese,Fiorentina
+23/10/2004,2 - 2,Atalanta,Cagliari
+23/10/2004,0 - 3,Robur Siena,Juventus
+17/10/2004,2 - 1,Bologna,Atalanta
+17/10/2004,3 - 1,Brescia,Parma
+17/10/2004,0 - 1,Cagliari,Milan
+17/10/2004,0 - 0,Fiorentina,Robur Siena
+17/10/2004,3 - 1,Internazionale,Udinese
+17/10/2004,0 - 1,Lazio,Chievo
+17/10/2004,2 - 0,Lecce,Palermo
+17/10/2004,0 - 1,Reggina,Sampdoria
+16/10/2004,2 - 1,Juventus,Messina
+16/10/2004,0 - 2,Livorno,Roma
+03/10/2004,1 - 1,Atalanta,Lazio
+03/10/2004,4 - 1,Messina,Robur Siena
+03/10/2004,3 - 1,Milan,Reggina
+03/10/2004,1 - 0,Palermo,Bologna
+03/10/2004,0 - 0,Parma,Fiorentina
+03/10/2004,3 - 3,Roma,Internazionale
+03/10/2004,2 - 0,Sampdoria,Livorno
+03/10/2004,0 - 1,Udinese,Juventus
+02/10/2004,2 - 1,Cagliari,Brescia
+02/10/2004,2 - 1,Chievo,Lecce
+26/09/2004,0 - 2,Fiorentina,Sampdoria
+26/09/2004,2 - 2,Internazionale,Parma
+26/09/2004,1 - 2,Lazio,Milan
+26/09/2004,3 - 1,Lecce,Cagliari
+26/09/2004,1 - 1,Livorno,Atalanta
+26/09/2004,0 - 0,Messina,Chievo
+26/09/2004,0 - 0,Robur Siena,Reggina
+26/09/2004,1 - 2,Udinese,Brescia
+25/09/2004,3 - 1,Bologna,Roma
+25/09/2004,1 - 1,Juventus,Palermo
+22/09/2004,2 - 3,Atalanta,Internazionale
+22/09/2004,0 - 2,Brescia,Lazio
+22/09/2004,2 - 0,Cagliari,Robur Siena
+22/09/2004,0 - 0,Chievo,Udinese
+22/09/2004,1 - 2,Milan,Messina
+22/09/2004,0 - 0,Palermo,Fiorentina
+22/09/2004,1 - 2,Parma,Bologna
+22/09/2004,2 - 1,Reggina,Livorno
+22/09/2004,2 - 2,Roma,Lecce
+22/09/2004,0 - 3,Sampdoria,Juventus
+19/09/2004,0 - 2,Bologna,Milan
+19/09/2004,2 - 1,Fiorentina,Cagliari
+19/09/2004,2 - 0,Juventus,Atalanta
+19/09/2004,1 - 1,Lazio,Reggina
+19/09/2004,1 - 2,Livorno,Chievo
+19/09/2004,4 - 3,Messina,Roma
+19/09/2004,2 - 1,Robur Siena,Sampdoria
+19/09/2004,4 - 0,Udinese,Parma
+18/09/2004,1 - 1,Internazionale,Palermo
+18/09/2004,4 - 1,Lecce,Brescia
+12/09/2004,2 - 2,Atalanta,Lecce
+12/09/2004,0 - 3,Brescia,Juventus
+12/09/2004,1 - 0,Cagliari,Bologna
+12/09/2004,1 - 0,Palermo,Robur Siena
+12/09/2004,0 - 0,Parma,Messina
+12/09/2004,0 - 0,Reggina,Udinese
+12/09/2004,1 - 0,Roma,Fiorentina
+12/09/2004,0 - 1,Sampdoria,Lazio
+11/09/2004,2 - 2,Chievo,Internazionale
+11/09/2004,2 - 2,Milan,Livorno

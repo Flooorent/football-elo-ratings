@@ -1,0 +1,381 @@
+date,score,home_team,away_team
+14/05/2016,2 - 3,Angers SCO,Toulouse
+14/05/2016,1 - 0,Caen,Bordeaux
+14/05/2016,2 - 3,Guingamp,Nice
+14/05/2016,1 - 0,Lorient,Gazélec Ajaccio
+14/05/2016,2 - 0,Monaco,Montpellier
+14/05/2016,4 - 0,PSG,Nantes
+14/05/2016,4 - 1,Reims,Olympique Lyonnais
+14/05/2016,1 - 2,Rennes,Bastia
+14/05/2016,0 - 1,Saint-Étienne,Lille
+14/05/2016,1 - 1,Troyes,Olympique Marseille
+11/05/2016,1 - 1,Bordeaux,PSG
+07/05/2016,1 - 0,Bastia,Angers SCO
+07/05/2016,3 - 0,Bordeaux,Lorient
+07/05/2016,0 - 4,Gazélec Ajaccio,PSG
+07/05/2016,0 - 0,Lille,Guingamp
+07/05/2016,2 - 0,Montpellier,Rennes
+07/05/2016,1 - 2,Nantes,Caen
+07/05/2016,2 - 0,Nice,Saint-Étienne
+07/05/2016,6 - 1,Olympique Lyonnais,Monaco
+07/05/2016,1 - 0,Olympique Marseille,Reims
+07/05/2016,1 - 0,Toulouse,Troyes
+01/05/2016,0 - 1,Angers SCO,Olympique Marseille
+30/04/2016,2 - 1,Olympique Lyonnais,Gazélec Ajaccio
+30/04/2016,0 - 0,Caen,Bastia
+30/04/2016,0 - 1,Lorient,Lille
+30/04/2016,3 - 2,Monaco,Guingamp
+30/04/2016,2 - 3,Reims,Montpellier
+30/04/2016,2 - 4,Troyes,Bordeaux
+30/04/2016,0 - 0,Saint-Étienne,Toulouse
+30/04/2016,1 - 0,Nantes,Nice
+29/04/2016,4 - 0,PSG,Rennes
+27/04/2016,0 - 0,Lille,Angers SCO
+24/04/2016,1 - 1,Rennes,Monaco
+24/04/2016,3 - 2,Gazélec Ajaccio,Bastia
+24/04/2016,1 - 1,Guingamp,Caen
+24/04/2016,4 - 1,Montpellier,Troyes
+24/04/2016,2 - 0,Saint-Étienne,Lorient
+24/04/2016,1 - 1,Olympique Marseille,Nantes
+23/04/2016,2 - 3,Toulouse,Olympique Lyonnais
+22/04/2016,2 - 0,Nice,Reims
+17/04/2016,2 - 1,Monaco,Olympique Marseille
+17/04/2016,0 - 3,Rennes,Guingamp
+17/04/2016,0 - 2,Nantes,Montpellier
+16/04/2016,0 - 1,Bastia,Saint-Étienne
+16/04/2016,1 - 3,Bordeaux,Angers SCO
+16/04/2016,2 - 4,Gazélec Ajaccio,Lille
+16/04/2016,1 - 1,Lorient,Toulouse
+16/04/2016,2 - 1,Troyes,Reims
+16/04/2016,6 - 0,PSG,Caen
+15/04/2016,1 - 1,Olympique Lyonnais,Nice
+10/04/2016,0 - 0,Olympique Marseille,Bordeaux
+10/04/2016,3 - 0,Nice,Rennes
+10/04/2016,4 - 1,Lille,Monaco
+09/04/2016,0 - 0,Angers SCO,Gazélec Ajaccio
+09/04/2016,1 - 2,Caen,Lorient
+09/04/2016,2 - 1,Reims,Nantes
+09/04/2016,1 - 0,Saint-Étienne,Troyes
+09/04/2016,4 - 0,Toulouse,Bastia
+09/04/2016,0 - 2,Guingamp,PSG
+08/04/2016,0 - 2,Montpellier,Olympique Lyonnais
+03/04/2016,1 - 3,Lorient,Olympique Lyonnais
+03/04/2016,2 - 1,Bastia,Olympique Marseille
+03/04/2016,0 - 3,Nantes,Lille
+02/04/2016,0 - 2,Gazélec Ajaccio,Saint-Étienne
+02/04/2016,2 - 2,Guingamp,Montpellier
+02/04/2016,3 - 1,Rennes,Reims
+02/04/2016,2 - 0,Toulouse,Caen
+02/04/2016,0 - 1,Troyes,Angers SCO
+02/04/2016,4 - 1,PSG,Nice
+01/04/2016,1 - 2,Monaco,Bordeaux
+20/03/2016,0 - 2,PSG,Monaco
+20/03/2016,3 - 0,Nice,Gazélec Ajaccio
+20/03/2016,1 - 1,Bordeaux,Bastia
+19/03/2016,2 - 0,Olympique Lyonnais,Nantes
+19/03/2016,5 - 1,Angers SCO,Lorient
+19/03/2016,2 - 1,Caen,Troyes
+19/03/2016,1 - 0,Lille,Toulouse
+19/03/2016,0 - 1,Reims,Guingamp
+19/03/2016,3 - 0,Saint-Étienne,Montpellier
+18/03/2016,2 - 5,Olympique Marseille,Rennes
+13/03/2016,2 - 2,Rennes,Olympique Lyonnais
+13/03/2016,2 - 0,Nantes,Angers SCO
+13/03/2016,0 - 9,Troyes,PSG
+12/03/2016,1 - 2,Bastia,Lille
+12/03/2016,1 - 0,Gazélec Ajaccio,Caen
+12/03/2016,2 - 0,Guingamp,Saint-Étienne
+12/03/2016,0 - 2,Montpellier,Nice
+12/03/2016,4 - 0,Toulouse,Bordeaux
+12/03/2016,1 - 1,Lorient,Olympique Marseille
+11/03/2016,2 - 2,Monaco,Reims
+09/03/2016,0 - 0,Bastia,Nantes
+09/03/2016,1 - 1,Gazélec Ajaccio,Olympique Marseille
+06/03/2016,5 - 1,Olympique Lyonnais,Guingamp
+06/03/2016,4 - 1,Rennes,Nantes
+06/03/2016,1 - 1,Olympique Marseille,Toulouse
+05/03/2016,0 - 0,Angers SCO,Saint-Étienne
+05/03/2016,0 - 0,Bastia,Lorient
+05/03/2016,1 - 1,Bordeaux,Gazélec Ajaccio
+05/03/2016,2 - 0,Lille,Reims
+05/03/2016,2 - 1,Nice,Troyes
+05/03/2016,0 - 0,PSG,Montpellier
+04/03/2016,2 - 2,Caen,Monaco
+28/02/2016,2 - 1,Olympique Lyonnais,PSG
+28/02/2016,1 - 2,Saint-Étienne,Caen
+28/02/2016,0 - 0,Nantes,Monaco
+27/02/2016,2 - 2,Guingamp,Angers SCO
+27/02/2016,4 - 1,Reims,Bordeaux
+27/02/2016,1 - 2,Toulouse,Rennes
+27/02/2016,0 - 1,Troyes,Lorient
+27/02/2016,3 - 0,Montpellier,Lille
+26/02/2016,0 - 2,Nice,Bastia
+21/02/2016,1 - 0,Lille,Olympique Lyonnais
+21/02/2016,1 - 0,Caen,Rennes
+21/02/2016,1 - 1,Olympique Marseille,Saint-Étienne
+20/02/2016,2 - 3,Angers SCO,Montpellier
+20/02/2016,4 - 3,Lorient,Guingamp
+20/02/2016,3 - 1,Monaco,Troyes
+20/02/2016,1 - 1,Toulouse,Gazélec Ajaccio
+20/02/2016,4 - 1,PSG,Reims
+19/02/2016,0 - 0,Bordeaux,Nice
+14/02/2016,1 - 1,Nice,Olympique Marseille
+14/02/2016,1 - 1,Saint-Étienne,Monaco
+14/02/2016,4 - 1,Olympique Lyonnais,Caen
+13/02/2016,2 - 3,Gazélec Ajaccio,Troyes
+13/02/2016,2 - 4,Guingamp,Bordeaux
+13/02/2016,2 - 0,Montpellier,Toulouse
+13/02/2016,2 - 1,Nantes,Lorient
+13/02/2016,0 - 1,Reims,Bastia
+13/02/2016,0 - 0,PSG,Lille
+12/02/2016,1 - 0,Rennes,Angers SCO
+07/02/2016,1 - 2,Olympique Marseille,PSG
+07/02/2016,1 - 4,Bordeaux,Saint-Étienne
+07/02/2016,1 - 1,Lille,Rennes
+06/02/2016,2 - 0,Bastia,Troyes
+06/02/2016,0 - 2,Caen,Reims
+06/02/2016,0 - 0,Gazélec Ajaccio,Guingamp
+06/02/2016,1 - 1,Lorient,Montpellier
+06/02/2016,0 - 0,Toulouse,Nantes
+06/02/2016,0 - 3,Angers SCO,Olympique Lyonnais
+06/02/2016,1 - 0,Monaco,Nice
+04/02/2016,0 - 1,Rennes,Saint-Étienne
+03/02/2016,3 - 1,PSG,Lorient
+03/02/2016,4 - 0,Guingamp,Troyes
+03/02/2016,1 - 0,Lille,Caen
+03/02/2016,3 - 1,Nantes,Gazélec Ajaccio
+03/02/2016,1 - 0,Nice,Toulouse
+03/02/2016,3 - 0,Olympique Lyonnais,Bordeaux
+03/02/2016,2 - 1,Reims,Angers SCO
+02/02/2016,0 - 1,Montpellier,Olympique Marseille
+02/02/2016,2 - 0,Monaco,Bastia
+31/01/2016,0 - 2,Saint-Étienne,PSG
+31/01/2016,4 - 0,Bordeaux,Rennes
+31/01/2016,2 - 0,Caen,Nice
+30/01/2016,1 - 0,Bastia,Olympique Lyonnais
+30/01/2016,0 - 4,Gazélec Ajaccio,Montpellier
+30/01/2016,2 - 0,Lorient,Reims
+30/01/2016,1 - 2,Toulouse,Guingamp
+30/01/2016,0 - 1,Troyes,Nantes
+30/01/2016,3 - 0,Angers SCO,Monaco
+29/01/2016,1 - 1,Olympique Marseille,Lille
+24/01/2016,1 - 1,Olympique Lyonnais,Olympique Marseille
+24/01/2016,1 - 1,Reims,Saint-Étienne
+24/01/2016,4 - 0,Monaco,Toulouse
+23/01/2016,1 - 0,Guingamp,Bastia
+23/01/2016,1 - 3,Lille,Troyes
+23/01/2016,1 - 2,Montpellier,Caen
+23/01/2016,2 - 2,Nantes,Bordeaux
+23/01/2016,2 - 1,Nice,Lorient
+23/01/2016,5 - 1,PSG,Angers SCO
+22/01/2016,1 - 0,Rennes,Gazélec Ajaccio
+17/01/2016,1 - 0,Saint-Étienne,Olympique Lyonnais
+17/01/2016,1 - 3,Caen,Olympique Marseille
+17/01/2016,0 - 2,Lorient,Monaco
+16/01/2016,1 - 0,Bastia,Montpellier
+16/01/2016,1 - 0,Bordeaux,Lille
+16/01/2016,2 - 2,Gazélec Ajaccio,Reims
+16/01/2016,2 - 2,Guingamp,Nantes
+16/01/2016,2 - 4,Troyes,Rennes
+16/01/2016,0 - 1,Toulouse,PSG
+15/01/2016,2 - 1,Nice,Angers SCO
+10/01/2016,0 - 0,Olympique Marseille,Guingamp
+10/01/2016,1 - 1,Lille,Nice
+10/01/2016,2 - 1,Nantes,Saint-Étienne
+09/01/2016,2 - 0,Angers SCO,Caen
+09/01/2016,2 - 2,Monaco,Gazélec Ajaccio
+09/01/2016,0 - 1,Montpellier,Bordeaux
+09/01/2016,1 - 3,Reims,Toulouse
+09/01/2016,2 - 2,Rennes,Lorient
+09/01/2016,4 - 1,Olympique Lyonnais,Troyes
+08/01/2016,2 - 0,PSG,Bastia
+20/12/2015,1 - 1,Bordeaux,Olympique Marseille
+20/12/2015,2 - 1,Gazélec Ajaccio,Olympique Lyonnais
+20/12/2015,1 - 0,Saint-Étienne,Angers SCO
+19/12/2015,2 - 0,Bastia,Reims
+19/12/2015,0 - 2,Guingamp,Rennes
+19/12/2015,0 - 0,Lorient,Nantes
+19/12/2015,1 - 1,Toulouse,Lille
+19/12/2015,0 - 0,Troyes,Monaco
+19/12/2015,0 - 3,Caen,PSG
+18/12/2015,1 - 0,Nice,Montpellier
+13/12/2015,5 - 1,PSG,Olympique Lyonnais
+13/12/2015,1 - 1,Angers SCO,Bordeaux
+13/12/2015,1 - 1,Olympique Marseille,Gazélec Ajaccio
+13/12/2015,1 - 0,Monaco,Saint-Étienne
+12/12/2015,3 - 0,Lille,Lorient
+12/12/2015,2 - 1,Montpellier,Guingamp
+12/12/2015,1 - 1,Nantes,Toulouse
+12/12/2015,1 - 1,Troyes,Bastia
+12/12/2015,1 - 1,Reims,Nice
+11/12/2015,1 - 1,Rennes,Caen
+06/12/2015,1 - 1,Saint-Étienne,Rennes
+06/12/2015,1 - 0,Bordeaux,Guingamp
+06/12/2015,2 - 2,Olympique Marseille,Montpellier
+05/12/2015,1 - 2,Bastia,Monaco
+05/12/2015,1 - 2,Caen,Lille
+05/12/2015,1 - 1,Gazélec Ajaccio,Nantes
+05/12/2015,1 - 1,Reims,Troyes
+05/12/2015,2 - 3,Toulouse,Lorient
+05/12/2015,0 - 2,[N] Olympique Lyonnais,Angers SCO
+04/12/2015,0 - 3,Nice,PSG
+03/12/2015,0 - 1,Rennes,Olympique Marseille
+02/12/2015,1 - 0,Lille,Saint-Étienne
+02/12/2015,1 - 0,Bastia,Bordeaux
+02/12/2015,1 - 2,Guingamp,Reims
+02/12/2015,1 - 1,Monaco,Caen
+02/12/2015,0 - 2,Montpellier,Gazélec Ajaccio
+02/12/2015,0 - 3,Troyes,Toulouse
+01/12/2015,0 - 0,Nantes,Olympique Lyonnais
+01/12/2015,0 - 0,Angers SCO,PSG
+01/12/2015,0 - 0,Lorient,Nice
+29/11/2015,3 - 3,Olympique Marseille,Monaco
+29/11/2015,1 - 4,Bordeaux,Caen
+29/11/2015,3 - 0,Saint-Étienne,Guingamp
+28/11/2015,2 - 0,Angers SCO,Lille
+28/11/2015,1 - 1,Gazélec Ajaccio,Lorient
+28/11/2015,0 - 0,Nantes,Bastia
+28/11/2015,2 - 2,Reims,Rennes
+28/11/2015,2 - 0,Toulouse,Nice
+28/11/2015,4 - 1,PSG,Troyes
+27/11/2015,2 - 4,[N] Olympique Lyonnais,Montpellier
+22/11/2015,0 - 2,Saint-Étienne,Olympique Marseille
+22/11/2015,2 - 2,Rennes,Bordeaux
+22/11/2015,1 - 2,Bastia,Gazélec Ajaccio
+22/11/2015,0 - 0,Caen,Angers SCO
+21/11/2015,2 - 0,Guingamp,Toulouse
+21/11/2015,1 - 0,Monaco,Nantes
+21/11/2015,3 - 1,Montpellier,Reims
+21/11/2015,1 - 1,Troyes,Lille
+21/11/2015,1 - 2,Lorient,PSG
+20/11/2015,3 - 0,Nice,Olympique Lyonnais
+08/11/2015,3 - 1,Bordeaux,Monaco
+08/11/2015,3 - 0,[N] Olympique Lyonnais,Saint-Étienne
+08/11/2015,0 - 1,Olympique Marseille,Nice
+07/11/2015,2 - 1,Caen,Guingamp
+07/11/2015,1 - 1,Lille,Bastia
+07/11/2015,4 - 1,Lorient,Troyes
+07/11/2015,2 - 1,Montpellier,Nantes
+07/11/2015,1 - 2,Reims,Gazélec Ajaccio
+07/11/2015,5 - 0,PSG,Toulouse
+06/11/2015,0 - 2,Angers SCO,Rennes
+04/11/2015,1 - 2,Nice,Nantes
+01/11/2015,0 - 1,Nantes,Olympique Marseille
+01/11/2015,1 - 0,Monaco,Angers SCO
+01/11/2015,0 - 0,Nice,Lille
+31/10/2015,1 - 0,Bastia,Caen
+31/10/2015,2 - 0,Gazélec Ajaccio,Bordeaux
+31/10/2015,2 - 2,Guingamp,Lorient
+31/10/2015,1 - 1,Toulouse,Montpellier
+31/10/2015,0 - 1,Troyes,Olympique Lyonnais
+31/10/2015,3 - 0,Saint-Étienne,Reims
+30/10/2015,0 - 1,Rennes,PSG
+25/10/2015,4 - 1,PSG,Saint-Étienne
+25/10/2015,1 - 0,Bordeaux,Troyes
+25/10/2015,1 - 2,Lille,Olympique Marseille
+25/10/2015,0 - 1,Reims,Monaco
+24/10/2015,0 - 0,Angers SCO,Guingamp
+24/10/2015,3 - 1,Gazélec Ajaccio,Nice
+24/10/2015,2 - 0,Montpellier,Bastia
+24/10/2015,1 - 1,Lorient,Rennes
+23/10/2015,3 - 0,[N] Olympique Lyonnais,Toulouse
+23/10/2015,0 - 2,Caen,Nantes
+18/10/2015,1 - 4,Rennes,Nice
+18/10/2015,0 - 0,Bordeaux,Montpellier
+18/10/2015,1 - 1,Olympique Marseille,Lorient
+17/10/2015,1 - 1,Guingamp,Lille
+17/10/2015,3 - 0,Nantes,Troyes
+17/10/2015,0 - 1,Reims,Caen
+17/10/2015,2 - 0,Saint-Étienne,Gazélec Ajaccio
+17/10/2015,1 - 2,Toulouse,Angers SCO
+17/10/2015,0 - 2,Bastia,PSG
+16/10/2015,1 - 1,Monaco,Olympique Lyonnais
+04/10/2015,2 - 1,PSG,Olympique Marseille
+04/10/2015,1 - 0,Caen,Saint-Étienne
+04/10/2015,3 - 2,Lorient,Bordeaux
+04/10/2015,1 - 1,Monaco,Rennes
+03/10/2015,1 - 0,Angers SCO,Bastia
+03/10/2015,2 - 2,Gazélec Ajaccio,Toulouse
+03/10/2015,0 - 1,Troyes,Guingamp
+03/10/2015,1 - 0,[N] Olympique Lyonnais,Reims
+02/10/2015,2 - 0,Lille,Montpellier
+29/09/2015,0 - 1,Lille,Nantes
+27/09/2015,1 - 4,Saint-Étienne,Nice
+27/09/2015,3 - 3,Guingamp,Monaco
+27/09/2015,2 - 1,Montpellier,Lorient
+27/09/2015,1 - 2,Olympique Marseille,Angers SCO
+26/09/2015,3 - 0,Bastia,Toulouse
+26/09/2015,3 - 1,Bordeaux,Olympique Lyonnais
+26/09/2015,2 - 0,Caen,Gazélec Ajaccio
+26/09/2015,1 - 1,Rennes,Troyes
+26/09/2015,1 - 4,Nantes,PSG
+25/09/2015,1 - 0,Reims,Lille
+24/09/2015,2 - 3,Montpellier,Monaco
+23/09/2015,1 - 1,Toulouse,Olympique Marseille
+23/09/2015,1 - 1,Gazélec Ajaccio,Rennes
+23/09/2015,2 - 0,Lorient,Caen
+23/09/2015,6 - 1,Nice,Bordeaux
+23/09/2015,2 - 0,[N] Olympique Lyonnais,Bastia
+23/09/2015,0 - 1,Troyes,Saint-Étienne
+22/09/2015,3 - 0,PSG,Guingamp
+22/09/2015,0 - 0,Angers SCO,Reims
+20/09/2015,1 - 1,Olympique Marseille,Olympique Lyonnais
+20/09/2015,2 - 3,Monaco,Lorient
+20/09/2015,2 - 0,Saint-Étienne,Nantes
+20/09/2015,1 - 1,Bordeaux,Toulouse
+19/09/2015,1 - 0,Angers SCO,Troyes
+19/09/2015,1 - 3,Bastia,Nice
+19/09/2015,2 - 1,Caen,Montpellier
+19/09/2015,2 - 1,Guingamp,Gazélec Ajaccio
+19/09/2015,1 - 1,Reims,PSG
+18/09/2015,1 - 1,Rennes,Lille
+13/09/2015,4 - 1,Olympique Marseille,Bastia
+13/09/2015,0 - 2,Nantes,Rennes
+13/09/2015,0 - 1,Gazélec Ajaccio,Monaco
+12/09/2015,3 - 1,Lorient,Angers SCO
+12/09/2015,1 - 2,Montpellier,Saint-Étienne
+12/09/2015,0 - 1,Nice,Guingamp
+12/09/2015,2 - 2,Toulouse,Reims
+12/09/2015,1 - 3,Troyes,Caen
+12/09/2015,0 - 0,[N] Olympique Lyonnais,Lille
+11/09/2015,2 - 2,PSG,Bordeaux
+30/08/2015,0 - 3,Monaco,PSG
+30/08/2015,2 - 0,Bordeaux,Nantes
+30/08/2015,2 - 1,Saint-Étienne,Bastia
+29/08/2015,1 - 1,Angers SCO,Nice
+29/08/2015,1 - 0,Lille,Gazélec Ajaccio
+29/08/2015,4 - 1,Reims,Lorient
+29/08/2015,3 - 1,Rennes,Toulouse
+29/08/2015,0 - 0,Troyes,Montpellier
+29/08/2015,0 - 4,Caen,Olympique Lyonnais
+28/08/2015,2 - 0,Guingamp,Olympique Marseille
+23/08/2015,6 - 0,Olympique Marseille,Troyes
+23/08/2015,0 - 1,Lorient,Saint-Étienne
+23/08/2015,0 - 0,Lille,Bordeaux
+22/08/2015,3 - 0,Bastia,Guingamp
+22/08/2015,0 - 2,Gazélec Ajaccio,Angers SCO
+22/08/2015,1 - 0,Nantes,Reims
+22/08/2015,2 - 1,Nice,Caen
+22/08/2015,1 - 1,Toulouse,Monaco
+22/08/2015,1 - 2,[N] Olympique Lyonnais,Rennes
+21/08/2015,0 - 1,Montpellier,PSG
+16/08/2015,2 - 0,PSG,Gazélec Ajaccio
+16/08/2015,1 - 1,Lorient,Bastia
+16/08/2015,1 - 0,Reims,Olympique Marseille
+15/08/2015,0 - 0,Angers SCO,Nantes
+15/08/2015,1 - 0,Caen,Toulouse
+15/08/2015,0 - 1,Guingamp,Olympique Lyonnais
+15/08/2015,1 - 0,Rennes,Montpellier
+15/08/2015,3 - 3,Troyes,Nice
+15/08/2015,1 - 1,Saint-Étienne,Bordeaux
+14/08/2015,0 - 0,Monaco,Lille
+09/08/2015,0 - 0,[N] Olympique Lyonnais,Lorient
+09/08/2015,1 - 2,Bordeaux,Reims
+09/08/2015,2 - 1,Toulouse,Saint-Étienne
+08/08/2015,2 - 1,Bastia,Rennes
+08/08/2015,0 - 2,Montpellier,Angers SCO
+08/08/2015,1 - 0,Nantes,Guingamp
+08/08/2015,1 - 2,Nice,Monaco
+08/08/2015,0 - 1,Olympique Marseille,Caen
+08/08/2015,0 - 0,Troyes,Gazélec Ajaccio
+07/08/2015,0 - 1,Lille,PSG

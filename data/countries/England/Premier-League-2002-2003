@@ -1,0 +1,381 @@
+date,score,home_team,away_team
+11/05/2003,2 - 2,Birmingham City,West Ham United
+11/05/2003,2 - 1,Bolton Wanderers,Middlesbrough
+11/05/2003,0 - 1,Charlton Athletic,Fulham
+11/05/2003,2 - 1,Chelsea,Liverpool
+11/05/2003,1 - 2,Everton,Manchester United
+11/05/2003,3 - 1,Leeds United,Aston Villa
+11/05/2003,0 - 1,Manchester City,Southampton
+11/05/2003,0 - 4,Sunderland,Arsenal
+11/05/2003,0 - 4,Tottenham Hotspur,Blackburn Rovers
+11/05/2003,2 - 2,West Bromwich Albion,Newcastle United
+07/05/2003,6 - 1,Arsenal,Southampton
+04/05/2003,2 - 3,Arsenal,Leeds United
+03/05/2003,1 - 0,Aston Villa,Sunderland
+03/05/2003,1 - 1,Blackburn Rovers,West Bromwich Albion
+03/05/2003,2 - 0,Fulham,Everton
+03/05/2003,1 - 2,Liverpool,Manchester City
+03/05/2003,4 - 1,Manchester United,Charlton Athletic
+03/05/2003,5 - 1,Middlesbrough,Tottenham Hotspur
+03/05/2003,1 - 0,Newcastle United,Birmingham City
+03/05/2003,0 - 0,Southampton,Bolton Wanderers
+03/05/2003,1 - 0,West Ham United,Chelsea
+27/04/2003,0 - 1,Manchester City,West Ham United
+27/04/2003,0 - 2,Tottenham Hotspur,Manchester United
+26/04/2003,3 - 0,Birmingham City,Middlesbrough
+26/04/2003,2 - 2,Bolton Wanderers,Arsenal
+26/04/2003,2 - 1,Charlton Athletic,Southampton
+26/04/2003,1 - 1,Chelsea,Fulham
+26/04/2003,2 - 1,Everton,Aston Villa
+26/04/2003,2 - 3,Leeds United,Blackburn Rovers
+26/04/2003,0 - 1,Sunderland,Newcastle United
+26/04/2003,0 - 6,West Bromwich Albion,Liverpool
+22/04/2003,2 - 0,Leeds United,Fulham
+21/04/2003,3 - 2,Birmingham City,Southampton
+21/04/2003,0 - 0,Blackburn Rovers,Bolton Wanderers
+21/04/2003,4 - 1,Chelsea,Everton
+21/04/2003,2 - 1,Liverpool,Charlton Athletic
+21/04/2003,3 - 0,Manchester City,Sunderland
+21/04/2003,1 - 1,Newcastle United,Aston Villa
+21/04/2003,2 - 3,West Bromwich Albion,Tottenham Hotspur
+21/04/2003,1 - 0,West Ham United,Middlesbrough
+19/04/2003,2 - 1,Aston Villa,Chelsea
+19/04/2003,1 - 0,Bolton Wanderers,West Ham United
+19/04/2003,0 - 2,Charlton Athletic,Birmingham City
+19/04/2003,1 - 2,Everton,Liverpool
+19/04/2003,2 - 1,Fulham,Newcastle United
+19/04/2003,3 - 1,Manchester United,Blackburn Rovers
+19/04/2003,0 - 2,Middlesbrough,Arsenal
+19/04/2003,3 - 2,Southampton,Leeds United
+19/04/2003,1 - 2,Sunderland,West Bromwich Albion
+18/04/2003,0 - 2,Tottenham Hotspur,Manchester City
+16/04/2003,2 - 2,Arsenal,Manchester United
+12/04/2003,2 - 0,Birmingham City,Sunderland
+12/04/2003,1 - 0,Blackburn Rovers,Charlton Athletic
+12/04/2003,1 - 0,Chelsea,Bolton Wanderers
+12/04/2003,2 - 2,Leeds United,Tottenham Hotspur
+12/04/2003,2 - 0,Liverpool,Fulham
+12/04/2003,0 - 0,Manchester City,Middlesbrough
+12/04/2003,2 - 6,Newcastle United,Manchester United
+12/04/2003,1 - 2,West Bromwich Albion,Everton
+12/04/2003,2 - 2,West Ham United,Aston Villa
+07/04/2003,0 - 4,Fulham,Blackburn Rovers
+06/04/2003,2 - 1,Everton,Newcastle United
+05/04/2003,1 - 1,Aston Villa,Arsenal
+05/04/2003,2 - 0,Bolton Wanderers,Manchester City
+05/04/2003,1 - 6,Charlton Athletic,Leeds United
+05/04/2003,4 - 0,Manchester United,Liverpool
+05/04/2003,3 - 0,Middlesbrough,West Bromwich Albion
+05/04/2003,1 - 1,Southampton,West Ham United
+05/04/2003,1 - 2,Sunderland,Chelsea
+05/04/2003,2 - 1,Tottenham Hotspur,Birmingham City
+24/03/2003,1 - 0,Bolton Wanderers,Tottenham Hotspur
+23/03/2003,2 - 1,Arsenal,Everton
+23/03/2003,3 - 1,Liverpool,Leeds United
+22/03/2003,1 - 0,Birmingham City,West Bromwich Albion
+22/03/2003,5 - 0,Chelsea,Manchester City
+22/03/2003,3 - 0,Manchester United,Fulham
+22/03/2003,1 - 1,Middlesbrough,Charlton Athletic
+22/03/2003,5 - 1,Newcastle United,Blackburn Rovers
+22/03/2003,2 - 2,Southampton,Aston Villa
+22/03/2003,2 - 0,West Ham United,Sunderland
+16/03/2003,1 - 0,Manchester City,Birmingham City
+16/03/2003,2 - 3,Tottenham Hotspur,Liverpool
+16/03/2003,0 - 2,West Bromwich Albion,Chelsea
+15/03/2003,0 - 1,Aston Villa,Manchester United
+15/03/2003,2 - 0,Blackburn Rovers,Arsenal
+15/03/2003,0 - 2,Charlton Athletic,Newcastle United
+15/03/2003,0 - 0,Everton,West Ham United
+15/03/2003,2 - 2,Fulham,Southampton
+15/03/2003,2 - 3,Leeds United,Middlesbrough
+15/03/2003,0 - 2,Sunderland,Bolton Wanderers
+08/03/2003,2 - 0,Liverpool,Bolton Wanderers
+05/03/2003,2 - 1,Manchester United,Leeds United
+05/03/2003,1 - 0,Middlesbrough,Newcastle United
+03/03/2003,0 - 2,Aston Villa,Birmingham City
+02/03/2003,2 - 0,Arsenal,Charlton Athletic
+01/03/2003,1 - 0,Blackburn Rovers,Manchester City
+01/03/2003,1 - 0,Fulham,Sunderland
+01/03/2003,1 - 1,Middlesbrough,Everton
+01/03/2003,2 - 1,Newcastle United,Chelsea
+01/03/2003,1 - 0,Southampton,West Bromwich Albion
+01/03/2003,2 - 0,West Ham United,Tottenham Hotspur
+24/02/2003,1 - 1,Tottenham Hotspur,Fulham
+23/02/2003,2 - 1,Birmingham City,Liverpool
+23/02/2003,1 - 2,West Bromwich Albion,West Ham United
+22/02/2003,1 - 1,Bolton Wanderers,Manchester United
+22/02/2003,3 - 0,Charlton Athletic,Aston Villa
+22/02/2003,1 - 2,Chelsea,Blackburn Rovers
+22/02/2003,2 - 1,Everton,Southampton
+22/02/2003,0 - 3,Leeds United,Newcastle United
+22/02/2003,1 - 5,Manchester City,Arsenal
+22/02/2003,1 - 3,Sunderland,Middlesbrough
+19/02/2003,3 - 0,Fulham,West Bromwich Albion
+09/02/2003,1 - 1,Manchester United,Manchester City
+09/02/2003,1 - 1,Newcastle United,Arsenal
+08/02/2003,1 - 3,Birmingham City,Chelsea
+08/02/2003,1 - 0,Blackburn Rovers,Southampton
+08/02/2003,2 - 1,Charlton Athletic,Everton
+08/02/2003,2 - 1,Fulham,Aston Villa
+08/02/2003,1 - 0,Leeds United,West Ham United
+08/02/2003,1 - 1,Liverpool,Middlesbrough
+08/02/2003,4 - 1,Tottenham Hotspur,Sunderland
+08/02/2003,1 - 1,West Bromwich Albion,Bolton Wanderers
+04/02/2003,0 - 1,Birmingham City,Manchester United
+02/02/2003,3 - 0,Aston Villa,Blackburn Rovers
+02/02/2003,0 - 3,West Ham United,Liverpool
+01/02/2003,2 - 1,Arsenal,Fulham
+01/02/2003,4 - 2,Bolton Wanderers,Birmingham City
+01/02/2003,1 - 1,Chelsea,Tottenham Hotspur
+01/02/2003,2 - 0,Everton,Leeds United
+01/02/2003,1 - 2,Manchester City,West Bromwich Albion
+01/02/2003,0 - 2,Southampton,Manchester United
+01/02/2003,1 - 3,Sunderland,Charlton Athletic
+29/01/2003,2 - 2,Liverpool,Arsenal
+29/01/2003,4 - 1,Manchester City,Fulham
+29/01/2003,0 - 1,Tottenham Hotspur,Newcastle United
+29/01/2003,0 - 1,West Bromwich Albion,Charlton Athletic
+29/01/2003,2 - 1,West Ham United,Blackburn Rovers
+28/01/2003,1 - 2,Bolton Wanderers,Everton
+28/01/2003,3 - 2,Chelsea,Leeds United
+28/01/2003,2 - 5,Middlesbrough,Aston Villa
+28/01/2003,0 - 1,Sunderland,Southampton
+22/01/2003,4 - 2,Charlton Athletic,West Ham United
+22/01/2003,1 - 0,Newcastle United,Bolton Wanderers
+19/01/2003,3 - 1,Arsenal,West Ham United
+19/01/2003,1 - 0,Fulham,Middlesbrough
+18/01/2003,0 - 1,Aston Villa,Tottenham Hotspur
+18/01/2003,1 - 1,Blackburn Rovers,Birmingham City
+18/01/2003,1 - 1,Charlton Athletic,Bolton Wanderers
+18/01/2003,2 - 1,Everton,Sunderland
+18/01/2003,0 - 0,Leeds United,West Bromwich Albion
+18/01/2003,2 - 1,Manchester United,Chelsea
+18/01/2003,2 - 0,Newcastle United,Manchester City
+18/01/2003,0 - 1,Southampton,Liverpool
+12/01/2003,0 - 4,Birmingham City,Arsenal
+12/01/2003,4 - 3,Tottenham Hotspur,Everton
+11/01/2003,0 - 0,Bolton Wanderers,Fulham
+11/01/2003,4 - 1,Chelsea,Charlton Athletic
+11/01/2003,1 - 1,Liverpool,Aston Villa
+11/01/2003,2 - 1,Manchester City,Leeds United
+11/01/2003,2 - 2,Middlesbrough,Southampton
+11/01/2003,0 - 0,Sunderland,Blackburn Rovers
+11/01/2003,1 - 3,West Bromwich Albion,Manchester United
+11/01/2003,2 - 2,West Ham United,Newcastle United
+01/01/2003,3 - 2,Arsenal,Chelsea
+01/01/2003,2 - 0,Aston Villa,Bolton Wanderers
+01/01/2003,1 - 0,Blackburn Rovers,Middlesbrough
+01/01/2003,2 - 2,Everton,Manchester City
+01/01/2003,2 - 0,Leeds United,Birmingham City
+01/01/2003,2 - 1,Manchester United,Sunderland
+01/01/2003,1 - 0,Newcastle United,Liverpool
+01/01/2003,1 - 0,Southampton,Tottenham Hotspur
+29/12/2002,1 - 1,Arsenal,Liverpool
+29/12/2002,2 - 1,Newcastle United,Tottenham Hotspur
+28/12/2002,1 - 0,Aston Villa,Middlesbrough
+28/12/2002,2 - 2,Blackburn Rovers,West Ham United
+28/12/2002,1 - 0,Charlton Athletic,West Bromwich Albion
+28/12/2002,0 - 0,Everton,Bolton Wanderers
+28/12/2002,0 - 1,Fulham,Manchester City
+28/12/2002,2 - 0,Leeds United,Chelsea
+28/12/2002,2 - 0,Manchester United,Birmingham City
+28/12/2002,2 - 1,Southampton,Sunderland
+26/12/2002,1 - 1,Birmingham City,Everton
+26/12/2002,4 - 3,Bolton Wanderers,Newcastle United
+26/12/2002,0 - 0,Chelsea,Southampton
+26/12/2002,1 - 1,Liverpool,Blackburn Rovers
+26/12/2002,3 - 1,Manchester City,Aston Villa
+26/12/2002,3 - 1,Middlesbrough,Manchester United
+26/12/2002,1 - 2,Sunderland,Leeds United
+26/12/2002,2 - 2,Tottenham Hotspur,Charlton Athletic
+26/12/2002,1 - 2,West Bromwich Albion,Arsenal
+26/12/2002,1 - 1,West Ham United,Fulham
+23/12/2002,2 - 3,Manchester City,Tottenham Hotspur
+22/12/2002,1 - 0,Blackburn Rovers,Manchester United
+22/12/2002,0 - 0,Liverpool,Everton
+21/12/2002,2 - 0,Arsenal,Middlesbrough
+21/12/2002,1 - 1,Birmingham City,Charlton Athletic
+21/12/2002,2 - 0,Chelsea,Aston Villa
+21/12/2002,1 - 1,Leeds United,Southampton
+21/12/2002,2 - 0,Newcastle United,Fulham
+21/12/2002,2 - 2,West Bromwich Albion,Sunderland
+21/12/2002,1 - 1,West Ham United,Bolton Wanderers
+16/12/2002,0 - 3,Bolton Wanderers,Leeds United
+15/12/2002,0 - 1,Fulham,Birmingham City
+15/12/2002,2 - 1,Sunderland,Liverpool
+15/12/2002,1 - 1,Tottenham Hotspur,Arsenal
+14/12/2002,2 - 1,Aston Villa,West Bromwich Albion
+14/12/2002,2 - 2,Charlton Athletic,Manchester City
+14/12/2002,2 - 1,Everton,Blackburn Rovers
+14/12/2002,3 - 0,Manchester United,West Ham United
+14/12/2002,1 - 1,Middlesbrough,Chelsea
+14/12/2002,1 - 1,Southampton,Newcastle United
+09/12/2002,0 - 3,Sunderland,Manchester City
+08/12/2002,3 - 1,Tottenham Hotspur,West Bromwich Albion
+07/12/2002,0 - 1,Aston Villa,Newcastle United
+07/12/2002,1 - 1,Bolton Wanderers,Blackburn Rovers
+07/12/2002,2 - 0,Charlton Athletic,Liverpool
+07/12/2002,1 - 3,Everton,Chelsea
+07/12/2002,1 - 0,Fulham,Leeds United
+07/12/2002,2 - 0,Manchester United,Arsenal
+07/12/2002,2 - 2,Middlesbrough,West Ham United
+07/12/2002,2 - 0,Southampton,Birmingham City
+02/12/2002,0 - 1,West Ham United,Southampton
+01/12/2002,1 - 2,Leeds United,Charlton Athletic
+01/12/2002,1 - 2,Liverpool,Manchester United
+01/12/2002,2 - 1,Newcastle United,Everton
+30/11/2002,3 - 1,Arsenal,Aston Villa
+30/11/2002,1 - 1,Birmingham City,Tottenham Hotspur
+30/11/2002,2 - 1,Blackburn Rovers,Fulham
+30/11/2002,3 - 0,Chelsea,Sunderland
+30/11/2002,2 - 0,Manchester City,Bolton Wanderers
+30/11/2002,1 - 0,West Bromwich Albion,Middlesbrough
+24/11/2002,3 - 1,Charlton Athletic,Blackburn Rovers
+24/11/2002,2 - 0,Tottenham Hotspur,Leeds United
+23/11/2002,4 - 1,Aston Villa,West Ham United
+23/11/2002,1 - 1,Bolton Wanderers,Chelsea
+23/11/2002,1 - 0,Everton,West Bromwich Albion
+23/11/2002,3 - 2,Fulham,Liverpool
+23/11/2002,5 - 3,Manchester United,Newcastle United
+23/11/2002,3 - 1,Middlesbrough,Manchester City
+23/11/2002,3 - 2,Southampton,Arsenal
+23/11/2002,0 - 1,Sunderland,Birmingham City
+17/11/2002,0 - 0,Birmingham City,Fulham
+17/11/2002,0 - 1,Blackburn Rovers,Everton
+17/11/2002,2 - 4,Leeds United,Bolton Wanderers
+17/11/2002,0 - 0,Liverpool,Sunderland
+17/11/2002,1 - 1,West Ham United,Manchester United
+16/11/2002,3 - 0,Arsenal,Tottenham Hotspur
+16/11/2002,1 - 0,Chelsea,Middlesbrough
+16/11/2002,0 - 1,Manchester City,Charlton Athletic
+16/11/2002,2 - 1,Newcastle United,Southampton
+16/11/2002,0 - 0,West Bromwich Albion,Aston Villa
+10/11/2002,2 - 0,Sunderland,Tottenham Hotspur
+10/11/2002,3 - 4,West Ham United,Leeds United
+09/11/2002,1 - 0,Arsenal,Newcastle United
+09/11/2002,3 - 1,Aston Villa,Fulham
+09/11/2002,1 - 1,Bolton Wanderers,West Bromwich Albion
+09/11/2002,3 - 0,Chelsea,Birmingham City
+09/11/2002,1 - 0,Everton,Charlton Athletic
+09/11/2002,3 - 1,Manchester City,Manchester United
+09/11/2002,1 - 0,Middlesbrough,Liverpool
+09/11/2002,1 - 1,Southampton,Blackburn Rovers
+04/11/2002,2 - 0,Newcastle United,Middlesbrough
+03/11/2002,0 - 0,Blackburn Rovers,Aston Villa
+03/11/2002,1 - 1,Charlton Athletic,Sunderland
+03/11/2002,0 - 1,Fulham,Arsenal
+03/11/2002,0 - 1,Leeds United,Everton
+03/11/2002,0 - 0,Tottenham Hotspur,Chelsea
+02/11/2002,3 - 1,Birmingham City,Bolton Wanderers
+02/11/2002,2 - 0,Liverpool,West Ham United
+02/11/2002,2 - 1,Manchester United,Southampton
+02/11/2002,1 - 2,West Bromwich Albion,Manchester City
+28/10/2002,1 - 1,Bolton Wanderers,Sunderland
+27/10/2002,4 - 2,Southampton,Fulham
+27/10/2002,0 - 1,West Ham United,Everton
+26/10/2002,1 - 2,Arsenal,Blackburn Rovers
+26/10/2002,0 - 2,Birmingham City,Manchester City
+26/10/2002,2 - 0,Chelsea,West Bromwich Albion
+26/10/2002,2 - 1,Liverpool,Tottenham Hotspur
+26/10/2002,1 - 1,Manchester United,Aston Villa
+26/10/2002,2 - 2,Middlesbrough,Leeds United
+26/10/2002,2 - 1,Newcastle United,Charlton Athletic
+23/10/2002,0 - 1,Fulham,West Ham United
+21/10/2002,0 - 1,Aston Villa,Southampton
+20/10/2002,1 - 0,Charlton Athletic,Middlesbrough
+20/10/2002,3 - 1,Tottenham Hotspur,Bolton Wanderers
+19/10/2002,5 - 2,Blackburn Rovers,Newcastle United
+19/10/2002,2 - 1,Everton,Arsenal
+19/10/2002,1 - 1,Fulham,Manchester United
+19/10/2002,0 - 1,Leeds United,Liverpool
+19/10/2002,0 - 3,Manchester City,Chelsea
+19/10/2002,0 - 1,Sunderland,West Ham United
+19/10/2002,1 - 1,West Bromwich Albion,Birmingham City
+07/10/2002,3 - 0,Manchester United,Everton
+06/10/2002,3 - 1,Arsenal,Sunderland
+06/10/2002,0 - 0,Aston Villa,Leeds United
+06/10/2002,1 - 2,Blackburn Rovers,Tottenham Hotspur
+06/10/2002,1 - 0,Fulham,Charlton Athletic
+06/10/2002,1 - 0,Liverpool,Chelsea
+05/10/2002,2 - 0,Middlesbrough,Bolton Wanderers
+05/10/2002,2 - 1,Newcastle United,West Bromwich Albion
+05/10/2002,2 - 0,Southampton,Manchester City
+05/10/2002,1 - 2,West Ham United,Birmingham City
+30/09/2002,0 - 2,West Bromwich Albion,Blackburn Rovers
+28/09/2002,0 - 2,Birmingham City,Newcastle United
+28/09/2002,1 - 1,Bolton Wanderers,Southampton
+28/09/2002,1 - 3,Charlton Athletic,Manchester United
+28/09/2002,2 - 3,Chelsea,West Ham United
+28/09/2002,2 - 0,Everton,Fulham
+28/09/2002,1 - 4,Leeds United,Arsenal
+28/09/2002,0 - 3,Manchester City,Liverpool
+28/09/2002,1 - 0,Sunderland,Aston Villa
+28/09/2002,0 - 3,Tottenham Hotspur,Middlesbrough
+23/09/2002,0 - 0,Fulham,Chelsea
+22/09/2002,3 - 2,Aston Villa,Everton
+22/09/2002,1 - 0,Blackburn Rovers,Leeds United
+21/09/2002,2 - 1,Arsenal,Bolton Wanderers
+21/09/2002,2 - 0,Liverpool,West Bromwich Albion
+21/09/2002,1 - 0,Manchester United,Tottenham Hotspur
+21/09/2002,1 - 0,Middlesbrough,Birmingham City
+21/09/2002,2 - 0,Newcastle United,Sunderland
+21/09/2002,0 - 0,Southampton,Charlton Athletic
+21/09/2002,0 - 0,West Ham United,Manchester City
+16/09/2002,3 - 0,Birmingham City,Aston Villa
+15/09/2002,2 - 2,Manchester City,Blackburn Rovers
+15/09/2002,3 - 2,Tottenham Hotspur,West Ham United
+14/09/2002,2 - 3,Bolton Wanderers,Liverpool
+14/09/2002,0 - 3,Charlton Athletic,Arsenal
+14/09/2002,3 - 0,Chelsea,Newcastle United
+14/09/2002,2 - 1,Everton,Middlesbrough
+14/09/2002,1 - 0,Leeds United,Manchester United
+14/09/2002,0 - 3,Sunderland,Fulham
+14/09/2002,1 - 0,West Bromwich Albion,Southampton
+11/09/2002,2 - 0,Aston Villa,Charlton Athletic
+11/09/2002,2 - 3,Blackburn Rovers,Chelsea
+11/09/2002,3 - 2,Fulham,Tottenham Hotspur
+11/09/2002,2 - 2,Liverpool,Birmingham City
+11/09/2002,0 - 1,Manchester United,Bolton Wanderers
+11/09/2002,0 - 2,Newcastle United,Leeds United
+11/09/2002,1 - 0,Southampton,Everton
+11/09/2002,0 - 1,West Ham United,West Bromwich Albion
+10/09/2002,2 - 1,Arsenal,Manchester City
+10/09/2002,3 - 0,Middlesbrough,Sunderland
+03/09/2002,1 - 0,Manchester United,Middlesbrough
+02/09/2002,2 - 2,Liverpool,Newcastle United
+01/09/2002,1 - 0,Bolton Wanderers,Aston Villa
+01/09/2002,1 - 1,Chelsea,Arsenal
+31/08/2002,2 - 1,Birmingham City,Leeds United
+31/08/2002,3 - 1,Manchester City,Everton
+31/08/2002,1 - 0,Middlesbrough,Blackburn Rovers
+31/08/2002,1 - 1,Sunderland,Manchester United
+31/08/2002,2 - 1,Tottenham Hotspur,Southampton
+31/08/2002,1 - 0,West Bromwich Albion,Fulham
+31/08/2002,0 - 2,West Ham United,Charlton Athletic
+28/08/2002,1 - 0,Aston Villa,Manchester City
+28/08/2002,2 - 2,Blackburn Rovers,Liverpool
+28/08/2002,1 - 1,Everton,Birmingham City
+28/08/2002,0 - 1,Leeds United,Sunderland
+28/08/2002,1 - 1,Southampton,Chelsea
+27/08/2002,5 - 2,Arsenal,West Bromwich Albion
+27/08/2002,0 - 1,Charlton Athletic,Tottenham Hotspur
+24/08/2002,0 - 1,Birmingham City,Blackburn Rovers
+24/08/2002,1 - 2,Bolton Wanderers,Charlton Athletic
+24/08/2002,3 - 0,Liverpool,Southampton
+24/08/2002,1 - 0,Manchester City,Newcastle United
+24/08/2002,2 - 2,Middlesbrough,Fulham
+24/08/2002,0 - 1,Sunderland,Everton
+24/08/2002,1 - 0,Tottenham Hotspur,Aston Villa
+24/08/2002,1 - 3,West Bromwich Albion,Leeds United
+24/08/2002,2 - 2,West Ham United,Arsenal
+23/08/2002,2 - 2,Chelsea,Manchester United
+19/08/2002,4 - 0,Newcastle United,West Ham United
+18/08/2002,2 - 0,Arsenal,Birmingham City
+18/08/2002,0 - 1,Aston Villa,Liverpool
+17/08/2002,0 - 0,Blackburn Rovers,Sunderland
+17/08/2002,2 - 3,Charlton Athletic,Chelsea
+17/08/2002,2 - 2,Everton,Tottenham Hotspur
+17/08/2002,4 - 1,Fulham,Bolton Wanderers
+17/08/2002,3 - 0,Leeds United,Manchester City
+17/08/2002,1 - 0,Manchester United,West Bromwich Albion
+17/08/2002,0 - 0,Southampton,Middlesbrough

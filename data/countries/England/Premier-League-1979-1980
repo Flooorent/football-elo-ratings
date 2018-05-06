@@ -1,0 +1,463 @@
+date,score,home_team,away_team
+19/05/1980,5 - 0,Middlesbrough,Arsenal
+16/05/1980,1 - 2,Wolverhampton Wanderers,Arsenal
+12/05/1980,3 - 1,Wolverhampton Wanderers,Nottingham Forest
+09/05/1980,1 - 0,Nottingham Forest,Everton
+06/05/1980,1 - 0,Middlesbrough,Liverpool
+05/05/1980,0 - 0,Arsenal,Nottingham Forest
+03/05/1980,0 - 0,Bolton Wanderers,Wolverhampton Wanderers
+03/05/1980,0 - 0,Brighton & Hove Albion,Everton
+03/05/1980,0 - 1,Coventry City,Arsenal
+03/05/1980,2 - 0,Leeds United,Manchester United
+03/05/1980,4 - 1,Liverpool,Aston Villa
+03/05/1980,2 - 1,Manchester City,Ipswich Town
+03/05/1980,4 - 2,Norwich City,Derby County
+03/05/1980,4 - 0,Nottingham Forest,Crystal Palace
+03/05/1980,4 - 1,Southampton,Middlesbrough
+03/05/1980,0 - 0,Tottenham Hotspur,Bristol City
+03/05/1980,0 - 1,West Bromwich Albion,Stoke City
+30/04/1980,2 - 0,Nottingham Forest,Norwich City
+29/04/1980,1 - 2,Coventry City,Aston Villa
+29/04/1980,5 - 2,Southampton,Bristol City
+28/04/1980,0 - 0,Everton,West Bromwich Albion
+26/04/1980,1 - 1,Arsenal,West Bromwich Albion
+26/04/1980,1 - 0,Aston Villa,Tottenham Hotspur
+26/04/1980,2 - 3,Bristol City,Norwich City
+26/04/1980,0 - 0,Crystal Palace,Liverpool
+26/04/1980,3 - 1,Derby County,Manchester City
+26/04/1980,2 - 0,Everton,Southampton
+26/04/1980,1 - 0,Ipswich Town,Bolton Wanderers
+26/04/1980,2 - 1,Manchester United,Coventry City
+26/04/1980,0 - 0,Middlesbrough,Nottingham Forest
+26/04/1980,1 - 0,Stoke City,Brighton & Hove Albion
+26/04/1980,3 - 1,Wolverhampton Wanderers,Leeds United
+23/04/1980,2 - 1,Manchester United,Aston Villa
+23/04/1980,0 - 2,Stoke City,Liverpool
+23/04/1980,2 - 2,Tottenham Hotspur,Wolverhampton Wanderers
+22/04/1980,3 - 1,Bristol City,Middlesbrough
+19/04/1980,2 - 1,Bolton Wanderers,Stoke City
+19/04/1980,2 - 1,Brighton & Hove Albion,Middlesbrough
+19/04/1980,2 - 1,Coventry City,Crystal Palace
+19/04/1980,0 - 0,Leeds United,Aston Villa
+19/04/1980,1 - 1,Liverpool,Arsenal
+19/04/1980,3 - 1,Manchester City,Bristol City
+19/04/1980,0 - 2,Norwich City,Manchester United
+19/04/1980,1 - 0,Nottingham Forest,Derby County
+19/04/1980,0 - 1,Southampton,Ipswich Town
+19/04/1980,3 - 0,Tottenham Hotspur,Everton
+19/04/1980,0 - 0,West Bromwich Albion,Wolverhampton Wanderers
+15/04/1980,1 - 1,Bolton Wanderers,Coventry City
+12/04/1980,2 - 1,Bristol City,Bolton Wanderers
+12/04/1980,1 - 0,Crystal Palace,Leeds United
+12/04/1980,3 - 0,Derby County,Brighton & Hove Albion
+12/04/1980,3 - 0,Ipswich Town,Coventry City
+12/04/1980,4 - 1,Manchester United,Tottenham Hotspur
+12/04/1980,1 - 2,Stoke City,Southampton
+12/04/1980,1 - 2,Wolverhampton Wanderers,Manchester City
+08/04/1980,2 - 2,Bolton Wanderers,Middlesbrough
+08/04/1980,3 - 0,Brighton & Hove Albion,Wolverhampton Wanderers
+08/04/1980,3 - 0,Leeds United,Stoke City
+08/04/1980,3 - 0,Liverpool,Derby County
+07/04/1980,1 - 3,Bolton Wanderers,Manchester United
+07/04/1980,0 - 1,Brighton & Hove Albion,Bristol City
+07/04/1980,2 - 1,Coventry City,Derby County
+07/04/1980,1 - 1,Manchester City,Aston Villa
+07/04/1980,2 - 1,Norwich City,Crystal Palace
+07/04/1980,0 - 3,Southampton,Wolverhampton Wanderers
+07/04/1980,1 - 2,Tottenham Hotspur,Arsenal
+07/04/1980,0 - 0,West Bromwich Albion,Ipswich Town
+05/04/1980,1 - 1,Arsenal,Southampton
+05/04/1980,3 - 2,Aston Villa,Nottingham Forest
+05/04/1980,0 - 0,Bristol City,West Bromwich Albion
+05/04/1980,1 - 1,Crystal Palace,Brighton & Hove Albion
+05/04/1980,2 - 0,Derby County,Leeds United
+05/04/1980,3 - 1,Everton,Bolton Wanderers
+05/04/1980,4 - 2,Ipswich Town,Norwich City
+05/04/1980,2 - 1,Manchester United,Liverpool
+05/04/1980,1 - 2,Middlesbrough,Coventry City
+05/04/1980,0 - 0,Stoke City,Manchester City
+05/04/1980,1 - 2,Wolverhampton Wanderers,Tottenham Hotspur
+02/04/1980,2 - 0,Leeds United,Middlesbrough
+02/04/1980,1 - 1,Manchester City,Everton
+02/04/1980,2 - 1,Norwich City,Arsenal
+02/04/1980,2 - 0,Nottingham Forest,Manchester United
+02/04/1980,0 - 2,Tottenham Hotspur,Ipswich Town
+01/04/1980,1 - 0,Liverpool,Stoke City
+01/04/1980,3 - 0,West Bromwich Albion,Crystal Palace
+29/03/1980,1 - 0,Brighton & Hove Albion,Nottingham Forest
+29/03/1980,1 - 3,Coventry City,Wolverhampton Wanderers
+29/03/1980,0 - 2,Crystal Palace,Manchester United
+29/03/1980,1 - 1,Ipswich Town,Derby County
+29/03/1980,2 - 2,Manchester City,Bolton Wanderers
+29/03/1980,2 - 0,Southampton,Norwich City
+29/03/1980,2 - 0,Stoke City,Aston Villa
+29/03/1980,2 - 0,Tottenham Hotspur,Liverpool
+29/03/1980,2 - 1,West Bromwich Albion,Leeds United
+28/03/1980,0 - 1,Everton,Arsenal
+26/03/1980,2 - 0,Aston Villa,Norwich City
+22/03/1980,1 - 1,Arsenal,Crystal Palace
+22/03/1980,1 - 1,Aston Villa,Ipswich Town
+22/03/1980,2 - 1,Bolton Wanderers,Tottenham Hotspur
+22/03/1980,3 - 3,Derby County,Bristol City
+22/03/1980,0 - 0,Leeds United,Coventry City
+22/03/1980,1 - 0,Liverpool,Brighton & Hove Albion
+22/03/1980,1 - 0,Manchester United,Manchester City
+22/03/1980,2 - 1,Middlesbrough,Everton
+22/03/1980,1 - 1,Norwich City,West Bromwich Albion
+22/03/1980,2 - 0,Nottingham Forest,Southampton
+22/03/1980,3 - 0,Wolverhampton Wanderers,Stoke City
+19/03/1980,0 - 2,Aston Villa,Middlesbrough
+19/03/1980,3 - 0,Liverpool,Leeds United
+18/03/1980,2 - 0,Everton,Stoke City
+18/03/1980,4 - 4,West Bromwich Albion,Bolton Wanderers
+15/03/1980,1 - 2,Bolton Wanderers,Derby County
+15/03/1980,0 - 0,Brighton & Hove Albion,Manchester United
+15/03/1980,1 - 3,Bristol City,Liverpool
+15/03/1980,1 - 1,Everton,Coventry City
+15/03/1980,0 - 3,Manchester City,Arsenal
+15/03/1980,2 - 0,Southampton,Aston Villa
+15/03/1980,2 - 1,Stoke City,Norwich City
+15/03/1980,0 - 0,Tottenham Hotspur,Crystal Palace
+14/03/1980,1 - 0,Ipswich Town,Leeds United
+14/03/1980,0 - 0,West Bromwich Albion,Middlesbrough
+12/03/1980,0 - 0,Manchester United,Everton
+11/03/1980,0 - 0,Arsenal,Bristol City
+11/03/1980,1 - 0,Bolton Wanderers,Norwich City
+11/03/1980,2 - 0,Liverpool,Manchester City
+11/03/1980,1 - 1,Middlesbrough,Ipswich Town
+11/03/1980,4 - 0,Nottingham Forest,Tottenham Hotspur
+10/03/1980,1 - 3,Aston Villa,Wolverhampton Wanderers
+08/03/1980,0 - 2,Coventry City,West Bromwich Albion
+08/03/1980,3 - 1,Crystal Palace,Bolton Wanderers
+08/03/1980,2 - 2,Derby County,Stoke City
+08/03/1980,2 - 0,Leeds United,Southampton
+08/03/1980,2 - 2,Norwich City,Brighton & Hove Albion
+03/03/1980,1 - 1,Brighton & Hove Albion,Aston Villa
+01/03/1980,1 - 0,Aston Villa,Derby County
+01/03/1980,1 - 0,Bolton Wanderers,Nottingham Forest
+01/03/1980,1 - 1,Brighton & Hove Albion,Coventry City
+01/03/1980,0 - 2,Bristol City,Crystal Palace
+01/03/1980,1 - 2,Everton,Liverpool
+01/03/1980,6 - 0,Ipswich Town,Manchester United
+01/03/1980,0 - 0,Manchester City,Norwich City
+01/03/1980,1 - 1,Southampton,West Bromwich Albion
+01/03/1980,2 - 3,Stoke City,Arsenal
+01/03/1980,2 - 1,Tottenham Hotspur,Leeds United
+01/03/1980,0 - 2,Wolverhampton Wanderers,Middlesbrough
+27/02/1980,2 - 2,Aston Villa,Manchester City
+27/02/1980,2 - 0,Manchester United,Bolton Wanderers
+27/02/1980,0 - 0,Norwich City,Middlesbrough
+27/02/1980,4 - 3,Tottenham Hotspur,Coventry City
+26/02/1980,1 - 0,Wolverhampton Wanderers,Liverpool
+23/02/1980,2 - 0,Arsenal,Bolton Wanderers
+23/02/1980,3 - 0,Coventry City,Southampton
+23/02/1980,1 - 1,Crystal Palace,Everton
+23/02/1980,2 - 1,Derby County,Tottenham Hotspur
+23/02/1980,1 - 1,Leeds United,Brighton & Hove Albion
+23/02/1980,1 - 1,Liverpool,Ipswich Town
+23/02/1980,4 - 0,Manchester United,Bristol City
+23/02/1980,1 - 3,Middlesbrough,Stoke City
+23/02/1980,0 - 4,Norwich City,Wolverhampton Wanderers
+23/02/1980,4 - 0,Nottingham Forest,Manchester City
+23/02/1980,1 - 2,West Bromwich Albion,Aston Villa
+19/02/1980,2 - 1,Bristol City,Everton
+19/02/1980,3 - 0,Ipswich Town,Crystal Palace
+19/02/1980,2 - 0,Liverpool,Nottingham Forest
+16/02/1980,0 - 0,Brighton & Hove Albion,West Bromwich Albion
+16/02/1980,2 - 2,Derby County,Southampton
+16/02/1980,1 - 1,Manchester City,Leeds United
+16/02/1980,2 - 2,Nottingham Forest,Middlesbrough
+16/02/1980,1 - 1,Stoke City,Manchester United
+09/02/1980,3 - 1,Arsenal,Aston Villa
+09/02/1980,0 - 0,Coventry City,Manchester City
+09/02/1980,0 - 1,Crystal Palace,Stoke City
+09/02/1980,0 - 4,Everton,Ipswich Town
+09/02/1980,2 - 2,Leeds United,Bolton Wanderers
+09/02/1980,0 - 1,Manchester United,Wolverhampton Wanderers
+09/02/1980,3 - 0,Middlesbrough,Derby County
+09/02/1980,3 - 5,Norwich City,Liverpool
+09/02/1980,0 - 0,Nottingham Forest,Bristol City
+09/02/1980,5 - 1,Southampton,Brighton & Hove Albion
+09/02/1980,2 - 1,West Bromwich Albion,Tottenham Hotspur
+02/02/1980,2 - 0,Aston Villa,Crystal Palace
+02/02/1980,1 - 3,Derby County,Manchester United
+02/02/1980,1 - 1,Ipswich Town,Brighton & Hove Albion
+02/02/1980,1 - 3,Manchester City,West Bromwich Albion
+02/02/1980,1 - 0,Stoke City,Bristol City
+02/02/1980,0 - 0,Tottenham Hotspur,Southampton
+02/02/1980,0 - 0,Wolverhampton Wanderers,Everton
+26/01/1980,2 - 2,Crystal Palace,West Bromwich Albion
+19/01/1980,2 - 0,Arsenal,Derby County
+19/01/1980,0 - 2,Brighton & Hove Albion,Tottenham Hotspur
+19/01/1980,0 - 3,Bristol City,Ipswich Town
+19/01/1980,1 - 0,Coventry City,Liverpool
+19/01/1980,1 - 0,Crystal Palace,Wolverhampton Wanderers
+19/01/1980,1 - 2,Leeds United,Nottingham Forest
+19/01/1980,4 - 1,Southampton,Manchester City
+12/01/1980,0 - 1,Arsenal,Leeds United
+12/01/1980,2 - 1,Aston Villa,Everton
+12/01/1980,0 - 2,Bolton Wanderers,Brighton & Hove Albion
+12/01/1980,1 - 2,Derby County,Crystal Palace
+12/01/1980,1 - 1,Liverpool,Southampton
+12/01/1980,1 - 1,Manchester City,Tottenham Hotspur
+12/01/1980,1 - 1,Middlesbrough,Manchester United
+12/01/1980,1 - 0,Norwich City,Coventry City
+12/01/1980,3 - 1,Nottingham Forest,West Bromwich Albion
+12/01/1980,0 - 1,Stoke City,Ipswich Town
+12/01/1980,3 - 0,Wolverhampton Wanderers,Bristol City
+01/01/1980,2 - 2,Bristol City,Brighton & Hove Albion
+01/01/1980,2 - 0,Coventry City,Middlesbrough
+01/01/1980,0 - 0,Crystal Palace,Norwich City
+01/01/1980,1 - 0,Everton,Nottingham Forest
+01/01/1980,4 - 0,Ipswich Town,West Bromwich Albion
+01/01/1980,1 - 0,Leeds United,Derby County
+01/01/1980,0 - 1,Southampton,Arsenal
+29/12/1979,4 - 1,Brighton & Hove Albion,Manchester City
+29/12/1979,1 - 3,Bristol City,Aston Villa
+29/12/1979,0 - 3,Coventry City,Nottingham Forest
+29/12/1979,1 - 2,Crystal Palace,Middlesbrough
+29/12/1979,1 - 1,Everton,Derby County
+29/12/1979,1 - 0,Ipswich Town,Wolverhampton Wanderers
+29/12/1979,2 - 2,Leeds United,Norwich City
+29/12/1979,3 - 0,Manchester United,Arsenal
+29/12/1979,2 - 0,Southampton,Bolton Wanderers
+29/12/1979,1 - 0,Tottenham Hotspur,Stoke City
+29/12/1979,0 - 2,West Bromwich Albion,Liverpool
+26/12/1979,1 - 0,Arsenal,Tottenham Hotspur
+26/12/1979,1 - 1,Bolton Wanderers,Everton
+26/12/1979,3 - 0,Brighton & Hove Albion,Crystal Palace
+26/12/1979,1 - 2,Derby County,Coventry City
+26/12/1979,2 - 0,Liverpool,Manchester United
+26/12/1979,1 - 1,Manchester City,Stoke City
+26/12/1979,3 - 1,Middlesbrough,Leeds United
+26/12/1979,3 - 3,Norwich City,Ipswich Town
+26/12/1979,2 - 1,Nottingham Forest,Aston Villa
+26/12/1979,3 - 0,West Bromwich Albion,Bristol City
+26/12/1979,0 - 0,Wolverhampton Wanderers,Southampton
+22/12/1979,1 - 3,Derby County,Liverpool
+22/12/1979,1 - 2,Everton,Manchester City
+22/12/1979,3 - 0,Manchester United,Nottingham Forest
+21/12/1979,1 - 1,Arsenal,Norwich City
+21/12/1979,0 - 1,Bristol City,Southampton
+21/12/1979,3 - 1,Ipswich Town,Tottenham Hotspur
+21/12/1979,3 - 1,Middlesbrough,Bolton Wanderers
+21/12/1979,0 - 2,Stoke City,Leeds United
+21/12/1979,1 - 3,Wolverhampton Wanderers,Brighton & Hove Albion
+19/12/1979,3 - 0,Aston Villa,Coventry City
+15/12/1979,0 - 1,Bolton Wanderers,Ipswich Town
+15/12/1979,0 - 0,Brighton & Hove Albion,Stoke City
+15/12/1979,1 - 2,Coventry City,Manchester United
+15/12/1979,3 - 0,Leeds United,Wolverhampton Wanderers
+15/12/1979,3 - 0,Liverpool,Crystal Palace
+15/12/1979,3 - 0,Manchester City,Derby County
+15/12/1979,2 - 0,Norwich City,Bristol City
+15/12/1979,1 - 0,Southampton,Everton
+15/12/1979,1 - 2,Tottenham Hotspur,Aston Villa
+15/12/1979,2 - 2,West Bromwich Albion,Arsenal
+08/12/1979,3 - 1,Arsenal,Coventry City
+08/12/1979,1 - 3,Aston Villa,Liverpool
+08/12/1979,1 - 3,Bristol City,Tottenham Hotspur
+08/12/1979,1 - 0,Crystal Palace,Nottingham Forest
+08/12/1979,0 - 0,Derby County,Norwich City
+08/12/1979,2 - 0,Everton,Brighton & Hove Albion
+08/12/1979,4 - 0,Ipswich Town,Manchester City
+08/12/1979,1 - 1,Manchester United,Leeds United
+08/12/1979,0 - 1,Middlesbrough,Southampton
+08/12/1979,3 - 2,Stoke City,West Bromwich Albion
+08/12/1979,3 - 1,Wolverhampton Wanderers,Bolton Wanderers
+01/12/1979,1 - 1,Bolton Wanderers,Bristol City
+01/12/1979,2 - 0,Brighton & Hove Albion,Derby County
+01/12/1979,4 - 1,Coventry City,Ipswich Town
+01/12/1979,1 - 0,Leeds United,Crystal Palace
+01/12/1979,4 - 0,Liverpool,Middlesbrough
+01/12/1979,2 - 3,Manchester City,Wolverhampton Wanderers
+01/12/1979,1 - 1,Norwich City,Aston Villa
+01/12/1979,1 - 1,Nottingham Forest,Arsenal
+01/12/1979,3 - 1,Southampton,Stoke City
+01/12/1979,1 - 2,Tottenham Hotspur,Manchester United
+01/12/1979,1 - 1,West Bromwich Albion,Everton
+24/11/1979,0 - 0,Arsenal,Liverpool
+24/11/1979,0 - 0,Aston Villa,Leeds United
+24/11/1979,1 - 0,Bristol City,Manchester City
+24/11/1979,0 - 0,Crystal Palace,Coventry City
+24/11/1979,4 - 1,Derby County,Nottingham Forest
+24/11/1979,1 - 1,Everton,Tottenham Hotspur
+24/11/1979,3 - 1,Ipswich Town,Southampton
+24/11/1979,5 - 0,Manchester United,Norwich City
+24/11/1979,1 - 1,Middlesbrough,Brighton & Hove Albion
+24/11/1979,1 - 0,Stoke City,Bolton Wanderers
+24/11/1979,0 - 0,Wolverhampton Wanderers,West Bromwich Albion
+17/11/1979,2 - 0,Arsenal,Everton
+17/11/1979,2 - 1,Aston Villa,Stoke City
+17/11/1979,0 - 1,Bolton Wanderers,Manchester City
+17/11/1979,0 - 1,Derby County,Ipswich Town
+17/11/1979,1 - 0,Leeds United,West Bromwich Albion
+17/11/1979,2 - 1,Liverpool,Tottenham Hotspur
+17/11/1979,1 - 1,Manchester United,Crystal Palace
+17/11/1979,1 - 0,Middlesbrough,Bristol City
+17/11/1979,2 - 1,Norwich City,Southampton
+17/11/1979,0 - 1,Nottingham Forest,Brighton & Hove Albion
+17/11/1979,0 - 3,Wolverhampton Wanderers,Coventry City
+13/11/1979,5 - 1,Everton,Leeds United
+10/11/1979,1 - 4,Brighton & Hove Albion,Liverpool
+10/11/1979,0 - 2,Bristol City,Derby County
+10/11/1979,3 - 0,Coventry City,Leeds United
+10/11/1979,1 - 0,Crystal Palace,Arsenal
+10/11/1979,0 - 2,Everton,Middlesbrough
+10/11/1979,0 - 0,Ipswich Town,Aston Villa
+10/11/1979,2 - 0,Manchester City,Manchester United
+10/11/1979,4 - 1,Southampton,Nottingham Forest
+10/11/1979,0 - 1,Stoke City,Wolverhampton Wanderers
+10/11/1979,2 - 0,Tottenham Hotspur,Bolton Wanderers
+10/11/1979,2 - 1,West Bromwich Albion,Norwich City
+03/11/1979,3 - 0,Arsenal,Brighton & Hove Albion
+03/11/1979,3 - 1,Aston Villa,Bolton Wanderers
+03/11/1979,1 - 3,Coventry City,Stoke City
+03/11/1979,2 - 0,Crystal Palace,Manchester City
+03/11/1979,2 - 1,Derby County,West Bromwich Albion
+03/11/1979,1 - 3,Leeds United,Bristol City
+03/11/1979,3 - 0,Liverpool,Wolverhampton Wanderers
+03/11/1979,1 - 0,Manchester United,Southampton
+03/11/1979,0 - 0,Middlesbrough,Tottenham Hotspur
+03/11/1979,0 - 0,Norwich City,Everton
+03/11/1979,2 - 0,Nottingham Forest,Ipswich Town
+27/10/1979,1 - 1,Bolton Wanderers,Crystal Palace
+27/10/1979,2 - 4,Brighton & Hove Albion,Norwich City
+27/10/1979,0 - 1,Bristol City,Arsenal
+27/10/1979,0 - 0,Everton,Manchester United
+27/10/1979,1 - 0,Ipswich Town,Middlesbrough
+27/10/1979,0 - 4,Manchester City,Liverpool
+27/10/1979,1 - 2,Southampton,Leeds United
+27/10/1979,3 - 2,Stoke City,Derby County
+27/10/1979,1 - 0,Tottenham Hotspur,Nottingham Forest
+27/10/1979,4 - 1,West Bromwich Albion,Coventry City
+27/10/1979,1 - 1,Wolverhampton Wanderers,Aston Villa
+20/10/1979,0 - 0,Arsenal,Stoke City
+20/10/1979,2 - 1,Coventry City,Brighton & Hove Albion
+20/10/1979,1 - 1,Crystal Palace,Bristol City
+20/10/1979,1 - 3,Derby County,Aston Villa
+20/10/1979,1 - 2,Leeds United,Tottenham Hotspur
+20/10/1979,2 - 2,Liverpool,Everton
+20/10/1979,1 - 0,Manchester United,Ipswich Town
+20/10/1979,1 - 0,Middlesbrough,Wolverhampton Wanderers
+20/10/1979,2 - 2,Norwich City,Manchester City
+20/10/1979,5 - 2,Nottingham Forest,Bolton Wanderers
+20/10/1979,4 - 0,West Bromwich Albion,Southampton
+13/10/1979,0 - 0,Aston Villa,West Bromwich Albion
+13/10/1979,0 - 0,Bolton Wanderers,Arsenal
+13/10/1979,0 - 0,Brighton & Hove Albion,Leeds United
+13/10/1979,1 - 1,Bristol City,Manchester United
+13/10/1979,3 - 1,Everton,Crystal Palace
+13/10/1979,1 - 2,Ipswich Town,Liverpool
+13/10/1979,1 - 0,Manchester City,Nottingham Forest
+13/10/1979,2 - 3,Southampton,Coventry City
+13/10/1979,0 - 0,Stoke City,Middlesbrough
+13/10/1979,1 - 0,Tottenham Hotspur,Derby County
+13/10/1979,1 - 0,Wolverhampton Wanderers,Norwich City
+10/10/1979,1 - 0,Manchester City,Middlesbrough
+10/10/1979,1 - 1,Stoke City,Nottingham Forest
+10/10/1979,3 - 2,Tottenham Hotspur,Norwich City
+10/10/1979,2 - 0,West Bromwich Albion,Manchester United
+09/10/1979,1 - 1,Bolton Wanderers,Liverpool
+09/10/1979,1 - 0,Bristol City,Coventry City
+09/10/1979,1 - 2,Ipswich Town,Arsenal
+09/10/1979,4 - 1,Southampton,Crystal Palace
+09/10/1979,0 - 0,Wolverhampton Wanderers,Derby County
+06/10/1979,0 - 0,Arsenal,Manchester City
+06/10/1979,3 - 0,Aston Villa,Southampton
+06/10/1979,2 - 1,Coventry City,Everton
+06/10/1979,1 - 1,Crystal Palace,Tottenham Hotspur
+06/10/1979,4 - 0,Derby County,Bolton Wanderers
+06/10/1979,2 - 1,Leeds United,Ipswich Town
+06/10/1979,4 - 0,Liverpool,Bristol City
+06/10/1979,2 - 0,Manchester United,Brighton & Hove Albion
+06/10/1979,2 - 1,Middlesbrough,West Bromwich Albion
+06/10/1979,2 - 2,Norwich City,Stoke City
+06/10/1979,3 - 2,Nottingham Forest,Wolverhampton Wanderers
+29/09/1979,2 - 3,Arsenal,Wolverhampton Wanderers
+29/09/1979,1 - 1,Coventry City,Tottenham Hotspur
+29/09/1979,4 - 1,Crystal Palace,Ipswich Town
+29/09/1979,0 - 0,Everton,Bristol City
+29/09/1979,1 - 2,Leeds United,Manchester City
+29/09/1979,4 - 0,Manchester United,Stoke City
+29/09/1979,0 - 0,Middlesbrough,Aston Villa
+29/09/1979,2 - 1,Norwich City,Bolton Wanderers
+29/09/1979,1 - 0,Nottingham Forest,Liverpool
+29/09/1979,4 - 0,Southampton,Derby County
+29/09/1979,2 - 2,West Bromwich Albion,Brighton & Hove Albion
+22/09/1979,0 - 0,Aston Villa,Arsenal
+22/09/1979,1 - 1,Bolton Wanderers,Leeds United
+22/09/1979,0 - 0,Brighton & Hove Albion,Southampton
+22/09/1979,1 - 1,Bristol City,Nottingham Forest
+22/09/1979,1 - 0,Derby County,Middlesbrough
+22/09/1979,1 - 1,Ipswich Town,Everton
+22/09/1979,0 - 0,Liverpool,Norwich City
+22/09/1979,3 - 0,Manchester City,Coventry City
+22/09/1979,1 - 2,Stoke City,Crystal Palace
+22/09/1979,1 - 1,Tottenham Hotspur,West Bromwich Albion
+22/09/1979,3 - 1,Wolverhampton Wanderers,Manchester United
+15/09/1979,2 - 0,Arsenal,Middlesbrough
+15/09/1979,2 - 0,Brighton & Hove Albion,Ipswich Town
+15/09/1979,0 - 0,Bristol City,Stoke City
+15/09/1979,3 - 1,Coventry City,Bolton Wanderers
+15/09/1979,2 - 0,Crystal Palace,Aston Villa
+15/09/1979,2 - 3,Everton,Wolverhampton Wanderers
+15/09/1979,1 - 1,Leeds United,Liverpool
+15/09/1979,1 - 0,Manchester United,Derby County
+15/09/1979,3 - 1,Norwich City,Nottingham Forest
+15/09/1979,5 - 2,Southampton,Tottenham Hotspur
+15/09/1979,4 - 0,West Bromwich Albion,Manchester City
+08/09/1979,0 - 3,Aston Villa,Manchester United
+08/09/1979,0 - 0,Bolton Wanderers,West Bromwich Albion
+08/09/1979,3 - 2,Derby County,Arsenal
+08/09/1979,1 - 0,Ipswich Town,Bristol City
+08/09/1979,4 - 0,Liverpool,Coventry City
+08/09/1979,0 - 1,Manchester City,Southampton
+08/09/1979,1 - 0,Middlesbrough,Norwich City
+08/09/1979,0 - 0,Nottingham Forest,Leeds United
+08/09/1979,2 - 3,Stoke City,Everton
+08/09/1979,2 - 1,Tottenham Hotspur,Brighton & Hove Albion
+08/09/1979,1 - 1,Wolverhampton Wanderers,Crystal Palace
+01/09/1979,3 - 1,Brighton & Hove Albion,Bolton Wanderers
+01/09/1979,2 - 0,Bristol City,Wolverhampton Wanderers
+01/09/1979,2 - 0,Coventry City,Norwich City
+01/09/1979,4 - 0,Crystal Palace,Derby County
+01/09/1979,1 - 1,Everton,Aston Villa
+01/09/1979,3 - 1,Ipswich Town,Stoke City
+01/09/1979,1 - 1,Leeds United,Arsenal
+01/09/1979,2 - 1,Manchester United,Middlesbrough
+01/09/1979,3 - 2,Southampton,Liverpool
+01/09/1979,2 - 1,Tottenham Hotspur,Manchester City
+01/09/1979,1 - 5,West Bromwich Albion,Nottingham Forest
+25/08/1979,0 - 0,Arsenal,Manchester United
+25/08/1979,0 - 2,Aston Villa,Bristol City
+25/08/1979,2 - 1,Bolton Wanderers,Southampton
+25/08/1979,0 - 1,Derby County,Everton
+25/08/1979,3 - 1,Liverpool,West Bromwich Albion
+25/08/1979,3 - 2,Manchester City,Brighton & Hove Albion
+25/08/1979,1 - 1,Middlesbrough,Crystal Palace
+25/08/1979,2 - 1,Norwich City,Leeds United
+25/08/1979,4 - 1,Nottingham Forest,Coventry City
+25/08/1979,3 - 1,Stoke City,Tottenham Hotspur
+25/08/1979,3 - 0,Wolverhampton Wanderers,Ipswich Town
+22/08/1979,2 - 1,Aston Villa,Brighton & Hove Albion
+22/08/1979,0 - 1,Derby County,Wolverhampton Wanderers
+22/08/1979,2 - 0,Leeds United,Everton
+22/08/1979,2 - 0,Manchester United,West Bromwich Albion
+22/08/1979,4 - 0,Norwich City,Tottenham Hotspur
+22/08/1979,1 - 0,Nottingham Forest,Stoke City
+21/08/1979,0 - 2,Arsenal,Ipswich Town
+21/08/1979,3 - 1,Coventry City,Bristol City
+21/08/1979,0 - 0,Crystal Palace,Southampton
+21/08/1979,0 - 0,Liverpool,Bolton Wanderers
+21/08/1979,3 - 0,Middlesbrough,Manchester City
+18/08/1979,1 - 1,Bolton Wanderers,Aston Villa
+18/08/1979,0 - 4,Brighton & Hove Albion,Arsenal
+18/08/1979,2 - 2,Bristol City,Leeds United
+18/08/1979,2 - 4,Everton,Norwich City
+18/08/1979,0 - 1,Ipswich Town,Nottingham Forest
+18/08/1979,0 - 0,Manchester City,Crystal Palace
+18/08/1979,1 - 1,Southampton,Manchester United
+18/08/1979,3 - 2,Stoke City,Coventry City
+18/08/1979,1 - 3,Tottenham Hotspur,Middlesbrough
+18/08/1979,0 - 0,West Bromwich Albion,Derby County

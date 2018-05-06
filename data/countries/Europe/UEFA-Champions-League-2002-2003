@@ -1,0 +1,238 @@
+date,score,home_team,away_team
+28/05/2003,0 - 0,Juventus,Milan [PS] 
+14/05/2003,3 - 1,Juventus,Real Madrid
+13/05/2003,1 - 1,Internazionale,Milan
+07/05/2003,0 - 0,Milan,Internazionale
+06/05/2003,2 - 1,Real Madrid,Juventus
+23/04/2003,4 - 3,Manchester United,Real Madrid
+23/04/2003,2 - 1,Valencia,Internazionale
+22/04/2003,1 - 1,Barcelona,Juventus [ET] 
+22/04/2003,3 - 2,Milan,Ajax
+09/04/2003,0 - 0,Ajax,Milan
+09/04/2003,1 - 1,Juventus,Barcelona
+08/04/2003,1 - 0,Internazionale,Valencia
+08/04/2003,3 - 1,Real Madrid,Manchester United
+19/03/2003,0 - 2,Bayer Leverkusen,Internazionale
+19/03/2003,0 - 2,Newcastle United,Barcelona
+11/03/2003,2 - 0,Barcelona,Bayer Leverkusen
+11/03/2003,2 - 2,Internazionale,Newcastle United
+26/02/2003,0 - 0,Internazionale,Barcelona
+26/02/2003,3 - 1,Newcastle United,Bayer Leverkusen
+18/02/2003,3 - 0,Barcelona,Internazionale
+18/02/2003,1 - 3,Bayer Leverkusen,Newcastle United
+11/12/2002,3 - 1,Barcelona,Newcastle United
+10/12/2002,3 - 2,Internazionale,Bayer Leverkusen
+27/11/2002,1 - 2,Bayer Leverkusen,Barcelona
+27/11/2002,1 - 4,Newcastle United,Internazionale
+19/03/2003,1 - 1,Roma,Ajax
+19/03/2003,2 - 1,Valencia,Arsenal
+11/03/2003,1 - 1,Ajax,Valencia
+11/03/2003,1 - 1,Arsenal,Roma
+26/02/2003,0 - 0,Ajax,Arsenal
+26/02/2003,0 - 3,Valencia,Roma
+18/02/2003,1 - 1,Arsenal,Ajax
+18/02/2003,0 - 1,Roma,Valencia
+10/12/2002,2 - 1,Ajax,Roma
+10/12/2002,0 - 0,Arsenal,Valencia
+27/11/2002,1 - 3,Roma,Arsenal
+27/11/2002,1 - 1,Valencia,Ajax
+18/03/2003,0 - 1,Lokomotiv Moskva,Real Madrid
+18/03/2003,0 - 1,Milan,Borussia Dortmund
+12/03/2003,3 - 0,Borussia Dortmund,Lokomotiv Moskva
+12/03/2003,3 - 1,Real Madrid,Milan
+25/02/2003,1 - 1,Borussia Dortmund,Real Madrid
+25/02/2003,0 - 1,Lokomotiv Moskva,Milan
+19/02/2003,1 - 0,Milan,Lokomotiv Moskva
+19/02/2003,2 - 1,Real Madrid,Borussia Dortmund
+11/12/2002,0 - 1,Borussia Dortmund,Milan
+11/12/2002,2 - 2,Real Madrid,Lokomotiv Moskva
+26/11/2002,1 - 2,Lokomotiv Moskva,Borussia Dortmund
+26/11/2002,1 - 0,Milan,Real Madrid
+18/03/2003,2 - 1,Basel,Juventus
+18/03/2003,2 - 0,Deportivo La Coruña,Manchester United
+12/03/2003,3 - 2,Juventus,Deportivo La Coruña
+12/03/2003,1 - 1,Manchester United,Basel
+25/02/2003,1 - 0,Deportivo La Coruña,Basel
+25/02/2003,0 - 3,Juventus,Manchester United
+19/02/2003,1 - 0,Basel,Deportivo La Coruña
+19/02/2003,2 - 1,Manchester United,Juventus
+11/12/2002,4 - 0,Juventus,Basel
+11/12/2002,2 - 0,Manchester United,Deportivo La Coruña
+26/11/2002,1 - 3,Basel,Manchester United
+26/11/2002,2 - 2,Deportivo La Coruña,Juventus
+12/11/2002,0 - 0,Arsenal,PSV
+12/11/2002,1 - 0,Auxerre,Borussia Dortmund
+30/10/2002,2 - 1,Borussia Dortmund,Arsenal
+30/10/2002,3 - 0,PSV,Auxerre
+22/10/2002,1 - 2,Arsenal,Auxerre
+22/10/2002,1 - 1,Borussia Dortmund,PSV
+02/10/2002,0 - 1,Auxerre,Arsenal
+02/10/2002,1 - 3,PSV,Borussia Dortmund
+25/09/2002,2 - 1,Borussia Dortmund,Auxerre
+25/09/2002,0 - 4,PSV,Arsenal
+17/09/2002,2 - 0,Arsenal,Borussia Dortmund
+17/09/2002,0 - 0,Auxerre,PSV
+12/11/2002,3 - 3,Basel,Liverpool
+12/11/2002,3 - 0,Valencia,Spartak Moskva
+05/11/2002,0 - 2,Spartak Moskva,Basel
+30/10/2002,0 - 1,Liverpool,Valencia
+22/10/2002,2 - 2,Basel,Valencia
+22/10/2002,1 - 3,Spartak Moskva,Liverpool
+02/10/2002,5 - 0,Liverpool,Spartak Moskva
+02/10/2002,6 - 2,Valencia,Basel
+25/09/2002,1 - 1,Liverpool,Basel
+25/09/2002,0 - 3,Spartak Moskva,Valencia
+17/09/2002,2 - 0,Basel,Spartak Moskva
+17/09/2002,2 - 0,Valencia,Liverpool
+12/11/2002,1 - 1,Genk,Real Madrid
+12/11/2002,1 - 1,Roma,AEK Athens
+30/10/2002,1 - 1,AEK Athens,Genk
+30/10/2002,0 - 1,Real Madrid,Roma
+22/10/2002,2 - 2,Real Madrid,AEK Athens
+22/10/2002,0 - 0,Roma,Genk
+02/10/2002,3 - 3,AEK Athens,Real Madrid
+02/10/2002,0 - 1,Genk,Roma
+25/09/2002,0 - 0,AEK Athens,Roma
+25/09/2002,6 - 0,Real Madrid,Genk
+17/09/2002,0 - 0,Genk,AEK Athens
+17/09/2002,0 - 3,Roma,Real Madrid
+12/11/2002,1 - 2,Ajax,Internazionale
+12/11/2002,1 - 1,Rosenborg,Olympique Lyonnais
+30/10/2002,3 - 0,Internazionale,Rosenborg
+30/10/2002,0 - 2,Olympique Lyonnais,Ajax
+22/10/2002,1 - 1,Ajax,Rosenborg
+22/10/2002,3 - 3,Olympique Lyonnais,Internazionale
+02/10/2002,1 - 2,Internazionale,Olympique Lyonnais
+02/10/2002,0 - 0,Rosenborg,Ajax
+25/09/2002,1 - 0,Internazionale,Ajax
+25/09/2002,5 - 0,Olympique Lyonnais,Rosenborg
+17/09/2002,2 - 1,Ajax,Olympique Lyonnais
+17/09/2002,2 - 2,Rosenborg,Internazionale
+13/11/2002,1 - 2,Dynamo Kyiv,Juventus
+13/11/2002,2 - 3,Feyenoord,Newcastle United
+29/10/2002,2 - 0,Juventus,Feyenoord
+29/10/2002,2 - 1,Newcastle United,Dynamo Kyiv
+23/10/2002,2 - 0,Dynamo Kyiv,Feyenoord
+23/10/2002,1 - 0,Newcastle United,Juventus
+01/10/2002,0 - 0,Feyenoord,Dynamo Kyiv
+01/10/2002,2 - 0,Juventus,Newcastle United
+24/09/2002,5 - 0,Juventus,Dynamo Kyiv
+24/09/2002,0 - 1,Newcastle United,Feyenoord
+18/09/2002,2 - 0,Dynamo Kyiv,Newcastle United
+18/09/2002,1 - 1,Feyenoord,Juventus
+13/11/2002,2 - 0,Manchester United,Bayer Leverkusen
+13/11/2002,3 - 3,Olympiakos Piraeus,Maccabi Haifa
+29/10/2002,2 - 0,Bayer Leverkusen,Olympiakos Piraeus
+29/10/2002,3 - 0,Maccabi Haifa,Manchester United
+23/10/2002,2 - 1,Bayer Leverkusen,Maccabi Haifa
+23/10/2002,2 - 3,Olympiakos Piraeus,Manchester United
+01/10/2002,0 - 2,Maccabi Haifa,Bayer Leverkusen
+01/10/2002,4 - 0,Manchester United,Olympiakos Piraeus
+24/09/2002,1 - 2,Bayer Leverkusen,Manchester United
+24/09/2002,3 - 0,Maccabi Haifa,Olympiakos Piraeus
+18/09/2002,5 - 2,Manchester United,Maccabi Haifa
+18/09/2002,6 - 2,Olympiakos Piraeus,Bayer Leverkusen
+13/11/2002,3 - 3,Bayern München,Lens
+13/11/2002,1 - 2,Milan,Deportivo La Coruña
+29/10/2002,2 - 1,Deportivo La Coruña,Bayern München
+29/10/2002,2 - 1,Lens,Milan
+23/10/2002,3 - 1,Lens,Deportivo La Coruña
+23/10/2002,2 - 1,Milan,Bayern München
+01/10/2002,1 - 2,Bayern München,Milan
+01/10/2002,3 - 1,Deportivo La Coruña,Lens
+24/09/2002,0 - 4,Deportivo La Coruña,Milan
+24/09/2002,1 - 1,Lens,Bayern München
+18/09/2002,2 - 3,Bayern München,Deportivo La Coruña
+18/09/2002,2 - 1,Milan,Lens
+13/11/2002,3 - 1,Barcelona,Galatasaray
+13/11/2002,2 - 0,Lokomotiv Moskva,Club Brugge
+29/10/2002,0 - 1,Club Brugge,Barcelona
+29/10/2002,1 - 2,Galatasaray,Lokomotiv Moskva
+23/10/2002,1 - 0,Barcelona,Lokomotiv Moskva
+23/10/2002,3 - 1,Club Brugge,Galatasaray
+01/10/2002,0 - 0,Galatasaray,Club Brugge
+01/10/2002,1 - 3,Lokomotiv Moskva,Barcelona
+24/09/2002,0 - 0,Club Brugge,Lokomotiv Moskva
+24/09/2002,0 - 2,Galatasaray,Barcelona
+18/09/2002,3 - 2,Barcelona,Club Brugge
+18/09/2002,0 - 2,Lokomotiv Moskva,Galatasaray
+27/08/2002,1 - 0,AEK Athens,APOEL
+27/08/2002,0 - 0,Auxerre,Boavista
+27/08/2002,2 - 0,Basel,Celtic
+27/08/2002,3 - 1,Bayern München,Partizan
+27/08/2002,2 - 3,Brøndby,Rosenborg
+27/08/2002,1 - 1, [PS] Club Brugge,Shakhtar Donetsk
+27/08/2002,1 - 0,Dynamo Kyiv,Levski Sofia
+27/08/2002,0 - 2,Fenerbahçe,Feyenoord
+27/08/2002,2 - 0,Internazionale,Sporting CP
+27/08/2002,0 - 1,Legia Warszawa,Barcelona
+27/08/2002,3 - 3,Lokomotiv Moskva,Grazer AK
+27/08/2002,5 - 0,Manchester United,Zalaegerszegi TE
+27/08/2002,4 - 0,Newcastle United,Željezničar
+27/08/2002,2 - 1,Slovan Liberec,Milan
+27/08/2002,4 - 2,Sparta Praha,Genk
+27/08/2002,3 - 3,Sturm Graz,Maccabi Haifa
+13/08/2002,2 - 3,APOEL,AEK Athens
+13/08/2002,3 - 0,Barcelona,Legia Warszawa
+13/08/2002,0 - 1,Boavista,Auxerre
+13/08/2002,3 - 1,Celtic,Basel
+13/08/2002,1 - 0,Feyenoord,Fenerbahçe
+13/08/2002,2 - 0,Genk,Sparta Praha
+13/08/2002,0 - 2,Grazer AK,Lokomotiv Moskva
+13/08/2002,0 - 1,Levski Sofia,Dynamo Kyiv
+13/08/2002,2 - 0,Maccabi Haifa,Sturm Graz
+13/08/2002,1 - 0,Milan,Slovan Liberec
+13/08/2002,0 - 3,Partizan,Bayern München
+13/08/2002,1 - 0,Rosenborg,Brøndby
+13/08/2002,1 - 1,Shakhtar Donetsk,Club Brugge
+13/08/2002,0 - 0,Sporting CP,Internazionale
+13/08/2002,1 - 0,Zalaegerszegi TE,Manchester United
+13/08/2002,0 - 1,Željezničar,Newcastle United
+07/08/2002,4 - 2,APOEL,Maribor
+07/08/2002,3 - 0,Basel,Žilina
+07/08/2002,0 - 1,Belshina,Maccabi Haifa
+07/08/2002,0 - 1,Dinamo Bucureşti,Club Brugge
+07/08/2002,0 - 4,Dinamo Tirana,Brøndby
+07/08/2002,2 - 0,Grazer AK,Sheriff
+07/08/2002,3 - 3,Hibernians,Boavista
+07/08/2002,1 - 1,Legia Warszawa,Vardar
+07/08/2002,2 - 0,Levski Sofia,Skonto
+07/08/2002,4 - 0,Partizan,Hammarby
+07/08/2002,2 - 2,Pyunik,Dynamo Kyiv
+07/08/2002,1 - 2,Torpedo Kutaisi,Sparta Praha
+07/08/2002,2 - 1,Zagreb,Zalaegerszegi TE
+07/08/2002,1 - 0,Željezničar,Lillestrøm
+31/07/2002,4 - 0,Boavista,Hibernians
+31/07/2002,1 - 0,Brøndby,Dinamo Tirana
+31/07/2002,3 - 1,Club Brugge,Dinamo Bucureşti
+31/07/2002,4 - 0,Dynamo Kyiv,Pyunik
+31/07/2002,1 - 1,Hammarby,Partizan
+31/07/2002,0 - 1,Lillestrøm,Željezničar
+31/07/2002,4 - 0,Maccabi Haifa,Belshina
+31/07/2002,2 - 1,Maribor,APOEL
+31/07/2002,1 - 4,Sheriff,Grazer AK
+31/07/2002,0 - 0,Skonto,Levski Sofia
+31/07/2002,3 - 0,Sparta Praha,Torpedo Kutaisi
+31/07/2002,1 - 3,Vardar,Legia Warszawa
+31/07/2002,1 - 0,Zalaegerszegi TE,Zagreb
+31/07/2002,1 - 1,Žilina,Basel
+24/07/2002,1 - 0,APOEL,Flora
+24/07/2002,3 - 2,Astana-64,Sheriff
+24/07/2002,0 - 1,B36,Torpedo Kutaisi
+24/07/2002,0 - 1,Barry Town United,Skonto
+24/07/2002,3 - 2,Belshina,Portadown
+24/07/2002,0 - 0,Dinamo Tirana,Kaunas
+24/07/2002,0 - 1,ÍA,Željezničar
+24/07/2002,2 - 0,Pyunik,Tampere United
+24/07/2002,0 - 1,Shelbourne,Hibernians
+24/07/2002,3 - 0,Vardar,F91 Dudelange
+17/07/2002,1 - 1,F91 Dudelange,Vardar
+17/07/2002,0 - 0,Flora,APOEL
+17/07/2002,2 - 2,Hibernians,Shelbourne
+17/07/2002,2 - 3,Kaunas,Dinamo Tirana
+17/07/2002,0 - 0,Portadown,Belshina
+17/07/2002,2 - 1,Sheriff,Astana-64
+17/07/2002,5 - 0,Skonto,Barry Town United
+17/07/2002,0 - 4,Tampere United,Pyunik
+17/07/2002,5 - 2,Torpedo Kutaisi,B36
+17/07/2002,3 - 0,Željezničar,ÍA

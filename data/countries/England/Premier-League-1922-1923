@@ -1,0 +1,463 @@
+date,score,home_team,away_team
+05/05/1923,1 - 0,Aston Villa,Sunderland
+05/05/1923,0 - 2,Burnley,Birmingham City
+05/05/1923,1 - 1,Chelsea,Blackburn Rovers
+05/05/1923,1 - 0,Liverpool,Stoke City
+05/05/1923,0 - 1,Middlesbrough,West Bromwich Albion
+05/05/1923,3 - 1,Newcastle United,Manchester City
+05/05/1923,3 - 1,Oldham Athletic,Cardiff City
+05/05/1923,2 - 2,Preston North End,Everton
+05/05/1923,0 - 0,Tottenham Hotspur,Huddersfield Town
+28/04/1923,2 - 0,Arsenal,Sheffield United
+28/04/1923,1 - 0,Birmingham City,Burnley
+28/04/1923,0 - 0,Blackburn Rovers,Chelsea
+28/04/1923,2 - 0,Cardiff City,Oldham Athletic
+28/04/1923,1 - 0,Everton,Preston North End
+28/04/1923,1 - 0,Huddersfield Town,Tottenham Hotspur
+28/04/1923,0 - 0,Manchester City,Newcastle United
+28/04/1923,0 - 0,Stoke City,Liverpool
+28/04/1923,2 - 0,Sunderland,Aston Villa
+28/04/1923,1 - 0,West Bromwich Albion,Middlesbrough
+25/04/1923,3 - 1,Cardiff City,Nottingham Forest
+25/04/1923,2 - 2,Chelsea,West Bromwich Albion
+21/04/1923,3 - 0,Aston Villa,Everton
+21/04/1923,2 - 0,Burnley,Sunderland
+21/04/1923,3 - 0,Chelsea,Bolton Wanderers
+21/04/1923,1 - 1,Liverpool,Huddersfield Town
+21/04/1923,1 - 2,Middlesbrough,Blackburn Rovers
+21/04/1923,1 - 0,Newcastle United,Stoke City
+21/04/1923,2 - 0,Nottingham Forest,Manchester City
+21/04/1923,0 - 0,Oldham Athletic,West Bromwich Albion
+21/04/1923,1 - 2,Preston North End,Arsenal
+21/04/1923,0 - 0,Sheffield United,Cardiff City
+21/04/1923,2 - 0,Tottenham Hotspur,Birmingham City
+18/04/1923,1 - 1,Bolton Wanderers,Liverpool
+18/04/1923,2 - 0,Middlesbrough,Sunderland
+16/04/1923,1 - 0,Newcastle United,Bolton Wanderers
+16/04/1923,0 - 1,Sheffield United,Everton
+14/04/1923,1 - 1,Arsenal,Preston North End
+14/04/1923,2 - 1,Birmingham City,Tottenham Hotspur
+14/04/1923,2 - 0,Blackburn Rovers,Middlesbrough
+14/04/1923,1 - 1,Bolton Wanderers,Chelsea
+14/04/1923,1 - 0,Cardiff City,Sheffield United
+14/04/1923,2 - 1,Everton,Aston Villa
+14/04/1923,0 - 0,Huddersfield Town,Liverpool
+14/04/1923,1 - 1,Manchester City,Nottingham Forest
+14/04/1923,1 - 0,Stoke City,Newcastle United
+14/04/1923,3 - 1,Sunderland,Burnley
+14/04/1923,1 - 0,West Bromwich Albion,Oldham Athletic
+11/04/1923,0 - 2,Bolton Wanderers,Tottenham Hotspur
+11/04/1923,3 - 5,Sunderland,Sheffield United
+09/04/1923,0 - 2,Sheffield United,Huddersfield Town
+07/04/1923,1 - 1,Aston Villa,Arsenal
+07/04/1923,0 - 1,Burnley,Everton
+07/04/1923,1 - 1,Chelsea,Manchester City
+07/04/1923,0 - 0,Liverpool,Birmingham City
+07/04/1923,1 - 2,Middlesbrough,Bolton Wanderers
+07/04/1923,1 - 0,Newcastle United,Huddersfield Town
+07/04/1923,0 - 1,Nottingham Forest,Stoke City
+07/04/1923,1 - 0,Oldham Athletic,Blackburn Rovers
+07/04/1923,3 - 0,Preston North End,Cardiff City
+07/04/1923,3 - 1,Sheffield United,West Bromwich Albion
+07/04/1923,0 - 1,Tottenham Hotspur,Sunderland
+03/04/1923,4 - 1,Huddersfield Town,West Bromwich Albion
+02/04/1923,1 - 1,Arsenal,Blackburn Rovers
+02/04/1923,2 - 2,Cardiff City,Burnley
+02/04/1923,1 - 1,Chelsea,Aston Villa
+02/04/1923,1 - 1,Everton,Bolton Wanderers
+02/04/1923,1 - 0,Manchester City,Sunderland
+02/04/1923,4 - 0,Middlesbrough,Nottingham Forest
+02/04/1923,2 - 0,Preston North End,Tottenham Hotspur
+02/04/1923,4 - 1,Sheffield United,Liverpool
+02/04/1923,0 - 0,Stoke City,Birmingham City
+02/04/1923,0 - 2,West Bromwich Albion,Huddersfield Town
+31/03/1923,2 - 0,Arsenal,Aston Villa
+31/03/1923,0 - 1,Birmingham City,Liverpool
+31/03/1923,1 - 0,Blackburn Rovers,Oldham Athletic
+31/03/1923,1 - 1,Bolton Wanderers,Middlesbrough
+31/03/1923,1 - 0,Cardiff City,Preston North End
+31/03/1923,1 - 0,Everton,Burnley
+31/03/1923,2 - 0,Huddersfield Town,Newcastle United
+31/03/1923,3 - 0,Manchester City,Chelsea
+31/03/1923,0 - 1,Stoke City,Nottingham Forest
+31/03/1923,2 - 0,Sunderland,Tottenham Hotspur
+31/03/1923,4 - 0,West Bromwich Albion,Sheffield United
+30/03/1923,1 - 0,Aston Villa,Chelsea
+30/03/1923,0 - 2,Bolton Wanderers,Everton
+30/03/1923,1 - 5,Burnley,Cardiff City
+30/03/1923,2 - 1,Liverpool,Sheffield United
+30/03/1923,2 - 1,Nottingham Forest,Middlesbrough
+30/03/1923,0 - 0,Oldham Athletic,Newcastle United
+30/03/1923,2 - 0,Sunderland,Manchester City
+30/03/1923,1 - 1,Tottenham Hotspur,Preston North End
+24/03/1923,3 - 0,Aston Villa,Birmingham City
+24/03/1923,0 - 2,Burnley,Huddersfield Town
+24/03/1923,2 - 0,Liverpool,Manchester City
+24/03/1923,0 - 1,Middlesbrough,Cardiff City
+24/03/1923,1 - 0,Nottingham Forest,Blackburn Rovers
+24/03/1923,0 - 0,Oldham Athletic,Arsenal
+24/03/1923,2 - 0,Preston North End,Sunderland
+24/03/1923,3 - 1,Tottenham Hotspur,Stoke City
+21/03/1923,2 - 0,Huddersfield Town,Preston North End
+17/03/1923,2 - 0,Arsenal,Oldham Athletic
+17/03/1923,1 - 0,Birmingham City,Aston Villa
+17/03/1923,2 - 0,Blackburn Rovers,Nottingham Forest
+17/03/1923,1 - 0,Bolton Wanderers,Newcastle United
+17/03/1923,2 - 0,Cardiff City,Middlesbrough
+17/03/1923,5 - 1,Everton,Sheffield United
+17/03/1923,2 - 0,Huddersfield Town,Burnley
+17/03/1923,1 - 0,Manchester City,Liverpool
+17/03/1923,0 - 0,Stoke City,Tottenham Hotspur
+17/03/1923,2 - 2,Sunderland,Preston North End
+17/03/1923,0 - 0,West Bromwich Albion,Chelsea
+14/03/1923,3 - 0,Manchester City,Tottenham Hotspur
+14/03/1923,2 - 1,West Bromwich Albion,Newcastle United
+12/03/1923,4 - 2,Birmingham City,Sheffield United
+12/03/1923,1 - 0,Blackburn Rovers,Liverpool
+12/03/1923,2 - 1,Burnley,Bolton Wanderers
+10/03/1923,3 - 0,Arsenal,Middlesbrough
+10/03/1923,1 - 0,Birmingham City,Preston North End
+10/03/1923,1 - 1,Blackburn Rovers,Newcastle United
+10/03/1923,6 - 1,Cardiff City,Chelsea
+10/03/1923,0 - 0,Everton,Oldham Athletic
+10/03/1923,3 - 5,Huddersfield Town,Aston Villa
+10/03/1923,0 - 1,Stoke City,Burnley
+10/03/1923,0 - 0,West Bromwich Albion,Nottingham Forest
+03/03/1923,2 - 1,Aston Villa,Huddersfield Town
+03/03/1923,3 - 2,Burnley,Stoke City
+03/03/1923,1 - 1,Chelsea,Cardiff City
+03/03/1923,3 - 0,Liverpool,Bolton Wanderers
+03/03/1923,2 - 0,Middlesbrough,Arsenal
+03/03/1923,5 - 1,Newcastle United,Blackburn Rovers
+03/03/1923,0 - 4,Nottingham Forest,West Bromwich Albion
+03/03/1923,1 - 0,Oldham Athletic,Everton
+03/03/1923,2 - 3,Preston North End,Birmingham City
+03/03/1923,3 - 1,Sheffield United,Sunderland
+03/03/1923,3 - 1,Tottenham Hotspur,Manchester City
+28/02/1923,5 - 3,Everton,Middlesbrough
+28/02/1923,3 - 1,Newcastle United,Cardiff City
+24/02/1923,3 - 1,Arsenal,Chelsea
+24/02/1923,1 - 0,Manchester City,Burnley
+24/02/1923,1 - 1,Stoke City,Aston Villa
+24/02/1923,2 - 0,Sunderland,Oldham Athletic
+17/02/1923,6 - 0,Aston Villa,Stoke City
+17/02/1923,2 - 0,Burnley,Manchester City
+17/02/1923,0 - 0,Chelsea,Arsenal
+17/02/1923,3 - 0,Liverpool,Blackburn Rovers
+17/02/1923,2 - 4,Middlesbrough,Everton
+17/02/1923,3 - 2,Nottingham Forest,Cardiff City
+17/02/1923,0 - 0,Oldham Athletic,Sunderland
+17/02/1923,1 - 0,Preston North End,Huddersfield Town
+17/02/1923,7 - 1,Sheffield United,Birmingham City
+17/02/1923,0 - 1,Tottenham Hotspur,Bolton Wanderers
+14/02/1923,3 - 1,Chelsea,Everton
+14/02/1923,2 - 0,Newcastle United,West Bromwich Albion
+14/02/1923,2 - 0,Tottenham Hotspur,Blackburn Rovers
+10/02/1923,2 - 0,Arsenal,Nottingham Forest
+10/02/1923,2 - 3,Birmingham City,Oldham Athletic
+10/02/1923,1 - 0,Blackburn Rovers,Tottenham Hotspur
+10/02/1923,2 - 1,Bolton Wanderers,Burnley
+10/02/1923,5 - 0,Cardiff City,Newcastle United
+10/02/1923,3 - 1,Everton,Chelsea
+10/02/1923,2 - 1,Huddersfield Town,Sheffield United
+10/02/1923,1 - 1,Manchester City,Aston Villa
+10/02/1923,4 - 2,Stoke City,Preston North End
+10/02/1923,2 - 1,Sunderland,Middlesbrough
+10/02/1923,0 - 0,West Bromwich Albion,Liverpool
+08/02/1923,4 - 2,Preston North End,Stoke City
+07/02/1923,2 - 0,Liverpool,West Bromwich Albion
+03/02/1923,2 - 0,Aston Villa,Manchester City
+03/02/1923,2 - 1,Nottingham Forest,Arsenal
+03/02/1923,2 - 0,Oldham Athletic,Birmingham City
+27/01/1923,4 - 0,Aston Villa,Nottingham Forest
+27/01/1923,5 - 0,Cardiff City,Blackburn Rovers
+27/01/1923,0 - 1,Huddersfield Town,Sunderland
+27/01/1923,2 - 0,Liverpool,Middlesbrough
+27/01/1923,0 - 0,Manchester City,Arsenal
+27/01/1923,0 - 0,Newcastle United,Chelsea
+27/01/1923,3 - 1,Preston North End,Burnley
+27/01/1923,2 - 2,Sheffield United,Bolton Wanderers
+27/01/1923,4 - 1,Stoke City,Everton
+27/01/1923,3 - 0,Tottenham Hotspur,Oldham Athletic
+27/01/1923,1 - 0,West Bromwich Albion,Birmingham City
+22/01/1923,1 - 5,Blackburn Rovers,Stoke City
+20/01/1923,1 - 0,Arsenal,Manchester City
+20/01/1923,0 - 2,Birmingham City,West Bromwich Albion
+20/01/1923,3 - 1,Blackburn Rovers,Cardiff City
+20/01/1923,1 - 1,Bolton Wanderers,Sheffield United
+20/01/1923,2 - 0,Burnley,Preston North End
+20/01/1923,3 - 0,Chelsea,Newcastle United
+20/01/1923,4 - 0,Everton,Stoke City
+20/01/1923,0 - 2,Middlesbrough,Liverpool
+20/01/1923,3 - 1,Nottingham Forest,Aston Villa
+20/01/1923,0 - 3,Oldham Athletic,Tottenham Hotspur
+20/01/1923,1 - 1,Sunderland,Huddersfield Town
+06/01/1923,1 - 2,Birmingham City,Sunderland
+06/01/1923,1 - 4,Burnley,Sheffield United
+06/01/1923,1 - 0,Cardiff City,Bolton Wanderers
+06/01/1923,1 - 0,Huddersfield Town,Everton
+06/01/1923,1 - 0,Liverpool,Chelsea
+06/01/1923,1 - 0,Newcastle United,Nottingham Forest
+06/01/1923,0 - 3,Oldham Athletic,Manchester City
+06/01/1923,3 - 2,Preston North End,Aston Villa
+06/01/1923,1 - 0,Stoke City,Arsenal
+06/01/1923,2 - 0,Tottenham Hotspur,Middlesbrough
+06/01/1923,3 - 0,West Bromwich Albion,Blackburn Rovers
+02/01/1923,4 - 2,Bolton Wanderers,Nottingham Forest
+01/01/1923,0 - 5,Blackburn Rovers,Arsenal
+01/01/1923,3 - 1,Everton,Tottenham Hotspur
+01/01/1923,1 - 0,Newcastle United,Oldham Athletic
+01/01/1923,2 - 0,Sunderland,Stoke City
+30/12/1922,3 - 0,Arsenal,Stoke City
+30/12/1922,1 - 0,Aston Villa,Preston North End
+30/12/1922,5 - 1,Blackburn Rovers,West Bromwich Albion
+30/12/1922,0 - 0,Bolton Wanderers,Cardiff City
+30/12/1922,0 - 0,Chelsea,Liverpool
+30/12/1922,0 - 3,Everton,Huddersfield Town
+30/12/1922,3 - 2,Manchester City,Oldham Athletic
+30/12/1922,2 - 0,Middlesbrough,Tottenham Hotspur
+30/12/1922,0 - 1,Nottingham Forest,Newcastle United
+30/12/1922,2 - 1,Sheffield United,Burnley
+30/12/1922,5 - 3,Sunderland,Birmingham City
+27/12/1922,3 - 0,West Bromwich Albion,Cardiff City
+26/12/1922,5 - 0,Arsenal,Bolton Wanderers
+26/12/1922,3 - 1,Aston Villa,Burnley
+26/12/1922,3 - 0,Cardiff City,West Bromwich Albion
+26/12/1922,4 - 0,Huddersfield Town,Birmingham City
+26/12/1922,2 - 1,Liverpool,Oldham Athletic
+26/12/1922,2 - 1,Manchester City,Everton
+26/12/1922,1 - 1,Middlesbrough,Newcastle United
+26/12/1922,0 - 4,Nottingham Forest,Chelsea
+26/12/1922,1 - 0,Preston North End,Blackburn Rovers
+26/12/1922,2 - 0,Sheffield United,Tottenham Hotspur
+26/12/1922,1 - 2,Stoke City,Sunderland
+25/12/1922,0 - 0,Birmingham City,Huddersfield Town
+25/12/1922,1 - 1,Blackburn Rovers,Preston North End
+25/12/1922,4 - 1,Bolton Wanderers,Arsenal
+25/12/1922,1 - 1,Burnley,Aston Villa
+25/12/1922,2 - 2,Chelsea,Nottingham Forest
+25/12/1922,0 - 0,Everton,Manchester City
+25/12/1922,1 - 1,Newcastle United,Middlesbrough
+25/12/1922,0 - 2,Oldham Athletic,Liverpool
+25/12/1922,2 - 1,Tottenham Hotspur,Sheffield United
+23/12/1922,3 - 0,Bolton Wanderers,Blackburn Rovers
+23/12/1922,2 - 1,Everton,Birmingham City
+23/12/1922,4 - 0,Huddersfield Town,Arsenal
+23/12/1922,5 - 1,Manchester City,Cardiff City
+23/12/1922,0 - 0,Newcastle United,Aston Villa
+23/12/1922,1 - 3,Nottingham Forest,Liverpool
+23/12/1922,1 - 1,Oldham Athletic,Burnley
+23/12/1922,2 - 3,Preston North End,Sheffield United
+23/12/1922,0 - 0,Stoke City,Middlesbrough
+23/12/1922,3 - 1,Tottenham Hotspur,Chelsea
+23/12/1922,1 - 1,West Bromwich Albion,Sunderland
+16/12/1922,1 - 1,Arsenal,Huddersfield Town
+16/12/1922,1 - 1,Aston Villa,Newcastle United
+16/12/1922,1 - 1,Birmingham City,Everton
+16/12/1922,1 - 0,Blackburn Rovers,Bolton Wanderers
+16/12/1922,1 - 1,Burnley,Oldham Athletic
+16/12/1922,3 - 1,Cardiff City,Manchester City
+16/12/1922,0 - 0,Chelsea,Tottenham Hotspur
+16/12/1922,2 - 1,Liverpool,Nottingham Forest
+16/12/1922,3 - 1,Middlesbrough,Stoke City
+16/12/1922,2 - 2,Sheffield United,Preston North End
+16/12/1922,3 - 2,Sunderland,West Bromwich Albion
+09/12/1922,1 - 0,Arsenal,Birmingham City
+09/12/1922,0 - 1,Aston Villa,Sheffield United
+09/12/1922,3 - 0,Bolton Wanderers,West Bromwich Albion
+09/12/1922,3 - 0,Burnley,Middlesbrough
+09/12/1922,1 - 1,Everton,Sunderland
+09/12/1922,3 - 0,Huddersfield Town,Chelsea
+09/12/1922,2 - 1,Manchester City,Blackburn Rovers
+09/12/1922,0 - 1,Newcastle United,Liverpool
+09/12/1922,0 - 1,Nottingham Forest,Tottenham Hotspur
+09/12/1922,2 - 1,Oldham Athletic,Preston North End
+09/12/1922,3 - 1,Stoke City,Cardiff City
+02/12/1922,3 - 2,Birmingham City,Arsenal
+02/12/1922,0 - 0,Blackburn Rovers,Manchester City
+02/12/1922,2 - 1,Cardiff City,Stoke City
+02/12/1922,2 - 2,Chelsea,Huddersfield Town
+02/12/1922,0 - 2,Liverpool,Newcastle United
+02/12/1922,4 - 1,Middlesbrough,Burnley
+02/12/1922,5 - 1,Preston North End,Oldham Athletic
+02/12/1922,1 - 1,Sheffield United,Aston Villa
+02/12/1922,3 - 1,Sunderland,Everton
+02/12/1922,2 - 1,Tottenham Hotspur,Nottingham Forest
+02/12/1922,1 - 1,West Bromwich Albion,Bolton Wanderers
+25/11/1922,2 - 3,Arsenal,Sunderland
+25/11/1922,0 - 1,Aston Villa,Liverpool
+25/11/1922,2 - 1,Bolton Wanderers,Manchester City
+25/11/1922,0 - 1,Cardiff City,Huddersfield Town
+25/11/1922,0 - 1,Chelsea,Burnley
+25/11/1922,0 - 1,Everton,West Bromwich Albion
+25/11/1922,1 - 1,Middlesbrough,Preston North End
+25/11/1922,1 - 1,Newcastle United,Tottenham Hotspur
+25/11/1922,1 - 1,Nottingham Forest,Birmingham City
+25/11/1922,0 - 2,Oldham Athletic,Sheffield United
+18/11/1922,2 - 0,Birmingham City,Nottingham Forest
+18/11/1922,1 - 0,Burnley,Chelsea
+18/11/1922,1 - 0,Huddersfield Town,Cardiff City
+18/11/1922,3 - 0,Liverpool,Aston Villa
+18/11/1922,2 - 0,Manchester City,Bolton Wanderers
+18/11/1922,1 - 2,Preston North End,Middlesbrough
+18/11/1922,2 - 2,Sheffield United,Oldham Athletic
+18/11/1922,1 - 1,Stoke City,Blackburn Rovers
+18/11/1922,3 - 3,Sunderland,Arsenal
+18/11/1922,0 - 1,Tottenham Hotspur,Newcastle United
+18/11/1922,0 - 0,West Bromwich Albion,Everton
+11/11/1922,1 - 2,Arsenal,Everton
+11/11/1922,3 - 0,Aston Villa,Oldham Athletic
+11/11/1922,0 - 0,Blackburn Rovers,Huddersfield Town
+11/11/1922,1 - 1,Cardiff City,Birmingham City
+11/11/1922,0 - 1,Chelsea,Preston North End
+11/11/1922,0 - 0,Liverpool,Tottenham Hotspur
+11/11/1922,1 - 1,Manchester City,West Bromwich Albion
+11/11/1922,1 - 0,Nottingham Forest,Burnley
+11/11/1922,4 - 1,Sheffield United,Middlesbrough
+11/11/1922,2 - 0,Stoke City,Bolton Wanderers
+11/11/1922,2 - 0,Sunderland,Newcastle United
+04/11/1922,0 - 0,Birmingham City,Cardiff City
+04/11/1922,1 - 1,Bolton Wanderers,Stoke City
+04/11/1922,8 - 2,Burnley,Nottingham Forest
+04/11/1922,1 - 0,Everton,Arsenal
+04/11/1922,0 - 2,Huddersfield Town,Blackburn Rovers
+04/11/1922,3 - 2,Middlesbrough,Sheffield United
+04/11/1922,2 - 1,Newcastle United,Sunderland
+04/11/1922,0 - 2,Oldham Athletic,Aston Villa
+04/11/1922,2 - 0,Preston North End,Chelsea
+04/11/1922,2 - 4,Tottenham Hotspur,Liverpool
+04/11/1922,2 - 0,West Bromwich Albion,Manchester City
+28/10/1922,1 - 2,Arsenal,Newcastle United
+28/10/1922,2 - 0,Birmingham City,Middlesbrough
+28/10/1922,2 - 1,Blackburn Rovers,Burnley
+28/10/1922,3 - 0,Bolton Wanderers,Aston Villa
+28/10/1922,3 - 0,Cardiff City,Liverpool
+28/10/1922,4 - 2,Everton,Nottingham Forest
+28/10/1922,3 - 0,Huddersfield Town,Oldham Athletic
+28/10/1922,2 - 1,Manchester City,Preston North End
+28/10/1922,4 - 0,Stoke City,Sheffield United
+28/10/1922,1 - 1,Sunderland,Chelsea
+28/10/1922,5 - 1,West Bromwich Albion,Tottenham Hotspur
+21/10/1922,2 - 0,Aston Villa,Bolton Wanderers
+21/10/1922,3 - 1,Burnley,Blackburn Rovers
+21/10/1922,1 - 3,Chelsea,Sunderland
+21/10/1922,3 - 1,Liverpool,Cardiff City
+21/10/1922,2 - 1,Middlesbrough,Birmingham City
+21/10/1922,1 - 1,Newcastle United,Arsenal
+21/10/1922,2 - 1,Nottingham Forest,Everton
+21/10/1922,0 - 3,Oldham Athletic,Huddersfield Town
+21/10/1922,0 - 2,Preston North End,Manchester City
+21/10/1922,2 - 0,Sheffield United,Stoke City
+21/10/1922,3 - 1,Tottenham Hotspur,West Bromwich Albion
+14/10/1922,1 - 1,Birmingham City,Blackburn Rovers
+14/10/1922,0 - 0,Burnley,Newcastle United
+14/10/1922,0 - 1,Everton,Liverpool
+14/10/1922,0 - 2,Huddersfield Town,Bolton Wanderers
+14/10/1922,2 - 1,Manchester City,Stoke City
+14/10/1922,2 - 1,Middlesbrough,Oldham Athletic
+14/10/1922,2 - 2,Preston North End,Nottingham Forest
+14/10/1922,0 - 2,Sheffield United,Chelsea
+14/10/1922,2 - 1,Sunderland,Cardiff City
+14/10/1922,1 - 2,Tottenham Hotspur,Aston Villa
+14/10/1922,7 - 0,West Bromwich Albion,Arsenal
+07/10/1922,3 - 1,Arsenal,West Bromwich Albion
+07/10/1922,2 - 0,Aston Villa,Tottenham Hotspur
+07/10/1922,1 - 1,Blackburn Rovers,Birmingham City
+07/10/1922,1 - 0,Bolton Wanderers,Huddersfield Town
+07/10/1922,2 - 4,Cardiff City,Sunderland
+07/10/1922,0 - 0,Chelsea,Sheffield United
+07/10/1922,5 - 1,Liverpool,Everton
+07/10/1922,0 - 2,Newcastle United,Burnley
+07/10/1922,3 - 0,Nottingham Forest,Preston North End
+07/10/1922,0 - 0,Oldham Athletic,Middlesbrough
+07/10/1922,1 - 1,Stoke City,Manchester City
+05/10/1922,1 - 1,Nottingham Forest,Bolton Wanderers
+02/10/1922,2 - 1,Sheffield United,Arsenal
+30/09/1922,0 - 2,Arsenal,Tottenham Hotspur
+30/09/1922,2 - 0,Birmingham City,Bolton Wanderers
+30/09/1922,2 - 0,Burnley,Liverpool
+30/09/1922,3 - 1,Everton,Cardiff City
+30/09/1922,0 - 0,Huddersfield Town,Manchester City
+30/09/1922,2 - 2,Middlesbrough,Aston Villa
+30/09/1922,2 - 0,Oldham Athletic,Chelsea
+30/09/1922,1 - 0,Preston North End,Newcastle United
+30/09/1922,0 - 0,Sheffield United,Nottingham Forest
+30/09/1922,4 - 3,Sunderland,Blackburn Rovers
+30/09/1922,0 - 1,West Bromwich Albion,Stoke City
+23/09/1922,2 - 2,Aston Villa,Middlesbrough
+23/09/1922,0 - 0,Blackburn Rovers,Sunderland
+23/09/1922,3 - 0,Bolton Wanderers,Birmingham City
+23/09/1922,0 - 2,Cardiff City,Everton
+23/09/1922,4 - 0,Chelsea,Oldham Athletic
+23/09/1922,3 - 0,Liverpool,Burnley
+23/09/1922,3 - 1,Manchester City,Huddersfield Town
+23/09/1922,3 - 1,Newcastle United,Preston North End
+23/09/1922,1 - 0,Nottingham Forest,Sheffield United
+23/09/1922,0 - 2,Stoke City,West Bromwich Albion
+23/09/1922,1 - 2,Tottenham Hotspur,Arsenal
+18/09/1922,1 - 0,Blackburn Rovers,Sheffield United
+16/09/1922,2 - 1,Arsenal,Cardiff City
+16/09/1922,0 - 1,Birmingham City,Manchester City
+16/09/1922,5 - 1,Blackburn Rovers,Everton
+16/09/1922,0 - 1,Burnley,Tottenham Hotspur
+16/09/1922,1 - 0,Huddersfield Town,Stoke City
+16/09/1922,5 - 2,Liverpool,Preston North End
+16/09/1922,2 - 1,Middlesbrough,Chelsea
+16/09/1922,1 - 0,Nottingham Forest,Oldham Athletic
+16/09/1922,2 - 0,Sheffield United,Newcastle United
+16/09/1922,5 - 1,Sunderland,Bolton Wanderers
+16/09/1922,3 - 0,West Bromwich Albion,Aston Villa
+13/09/1922,2 - 0,Birmingham City,Stoke City
+11/09/1922,3 - 1,Oldham Athletic,Bolton Wanderers
+09/09/1922,2 - 0,Aston Villa,West Bromwich Albion
+09/09/1922,1 - 1,Bolton Wanderers,Sunderland
+09/09/1922,4 - 1,Cardiff City,Arsenal
+09/09/1922,1 - 1,Chelsea,Middlesbrough
+09/09/1922,2 - 0,Everton,Blackburn Rovers
+09/09/1922,0 - 1,Manchester City,Birmingham City
+09/09/1922,3 - 0,Newcastle United,Sheffield United
+09/09/1922,2 - 0,Oldham Athletic,Nottingham Forest
+09/09/1922,1 - 3,Preston North End,Liverpool
+09/09/1922,2 - 2,Stoke City,Huddersfield Town
+09/09/1922,1 - 3,Tottenham Hotspur,Burnley
+06/09/1922,5 - 1,Liverpool,Sunderland
+06/09/1922,0 - 0,Newcastle United,Birmingham City
+04/09/1922,1 - 3,Aston Villa,Cardiff City
+04/09/1922,3 - 1,Bolton Wanderers,Oldham Athletic
+04/09/1922,4 - 1,Burnley,Arsenal
+04/09/1922,3 - 2,Chelsea,Stoke City
+04/09/1922,5 - 0,Middlesbrough,Manchester City
+04/09/1922,0 - 1,Nottingham Forest,Huddersfield Town
+04/09/1922,0 - 0,Preston North End,West Bromwich Albion
+04/09/1922,1 - 1,Sheffield United,Blackburn Rovers
+04/09/1922,2 - 0,Tottenham Hotspur,Everton
+02/09/1922,1 - 0,Arsenal,Liverpool
+02/09/1922,0 - 1,Birmingham City,Chelsea
+02/09/1922,4 - 2,Blackburn Rovers,Aston Villa
+02/09/1922,1 - 1,Bolton Wanderers,Preston North End
+02/09/1922,2 - 3,Cardiff City,Tottenham Hotspur
+02/09/1922,3 - 2,Everton,Newcastle United
+02/09/1922,0 - 2,Huddersfield Town,Middlesbrough
+02/09/1922,3 - 3,Manchester City,Sheffield United
+02/09/1922,2 - 2,Stoke City,Oldham Athletic
+02/09/1922,0 - 0,Sunderland,Nottingham Forest
+02/09/1922,2 - 1,West Bromwich Albion,Burnley
+30/08/1922,1 - 0,Sunderland,Liverpool
+28/08/1922,1 - 1,Arsenal,Burnley
+28/08/1922,0 - 2,Birmingham City,Newcastle United
+28/08/1922,3 - 0,Cardiff City,Aston Villa
+28/08/1922,2 - 1,Huddersfield Town,Nottingham Forest
+28/08/1922,2 - 1,Manchester City,Middlesbrough
+28/08/1922,1 - 2,Stoke City,Chelsea
+28/08/1922,2 - 2,West Bromwich Albion,Preston North End
+26/08/1922,2 - 0,Aston Villa,Blackburn Rovers
+26/08/1922,3 - 0,Burnley,West Bromwich Albion
+26/08/1922,1 - 1,Chelsea,Birmingham City
+26/08/1922,5 - 2,Liverpool,Arsenal
+26/08/1922,2 - 2,Middlesbrough,Huddersfield Town
+26/08/1922,2 - 0,Newcastle United,Everton
+26/08/1922,1 - 0,Nottingham Forest,Sunderland
+26/08/1922,4 - 1,Oldham Athletic,Stoke City
+26/08/1922,3 - 1,Preston North End,Bolton Wanderers
+26/08/1922,2 - 0,Sheffield United,Manchester City
+26/08/1922,1 - 1,Tottenham Hotspur,Cardiff City

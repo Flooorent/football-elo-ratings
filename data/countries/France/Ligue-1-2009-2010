@@ -1,0 +1,381 @@
+date,score,home_team,away_team
+15/05/2010,1 - 0,Boulogne,Rennes
+15/05/2010,4 - 3,Lens,Bordeaux
+15/05/2010,2 - 1,Lorient,Lille
+15/05/2010,1 - 1,Nancy,Valenciennes
+15/05/2010,1 - 1,Nice,Saint-Étienne
+15/05/2010,2 - 0,Olympique Lyonnais,Le Mans
+15/05/2010,2 - 0,Olympique Marseille,Grenoble Foot 38
+15/05/2010,1 - 3,PSG,Montpellier
+15/05/2010,1 - 2,Sochaux,Auxerre
+15/05/2010,0 - 0,Toulouse,Monaco
+12/05/2010,3 - 0,Olympique Lyonnais,Monaco
+08/05/2010,0 - 0,Auxerre,Lens
+08/05/2010,2 - 0,Bordeaux,Sochaux
+08/05/2010,2 - 0,Grenoble Foot 38,Boulogne
+08/05/2010,1 - 0,Le Mans,PSG
+08/05/2010,3 - 2,Lille,Olympique Marseille
+08/05/2010,2 - 1,Monaco,Nancy
+08/05/2010,2 - 1,Montpellier,Lorient
+08/05/2010,2 - 2,Rennes,Nice
+08/05/2010,0 - 1,Saint-Étienne,Toulouse
+08/05/2010,2 - 2,Valenciennes,Olympique Lyonnais
+05/05/2010,3 - 1,Olympique Marseille,Rennes
+05/05/2010,0 - 1,Boulogne,Saint-Étienne
+05/05/2010,1 - 1,Lens,Grenoble Foot 38
+05/05/2010,2 - 2,Lorient,Monaco
+05/05/2010,3 - 2,Nancy,Le Mans
+05/05/2010,1 - 1,Nice,Bordeaux
+05/05/2010,2 - 1,Olympique Lyonnais,Auxerre
+05/05/2010,2 - 2,PSG,Valenciennes
+05/05/2010,0 - 1,Sochaux,Montpellier
+05/05/2010,0 - 2,Toulouse,Lille
+02/05/2010,0 - 1,Montpellier,Olympique Lyonnais
+02/05/2010,1 - 0,Bordeaux,Toulouse
+02/05/2010,3 - 3,Boulogne,Nice
+02/05/2010,3 - 1,Lille,Nancy
+02/05/2010,1 - 2,Rennes,Sochaux
+02/05/2010,1 - 4,Saint-Étienne,Lens
+02/05/2010,0 - 0,Valenciennes,Lorient
+30/04/2010,0 - 0,Auxerre,Olympique Marseille
+28/04/2010,2 - 0,Valenciennes,Bordeaux
+27/04/2010,4 - 0,Grenoble Foot 38,PSG
+27/04/2010,1 - 1,Monaco,Le Mans
+25/04/2010,1 - 0,Olympique Marseille,Saint-Étienne
+25/04/2010,1 - 1,Lens,Valenciennes
+25/04/2010,0 - 3,Toulouse,Auxerre
+24/04/2010,1 - 1,PSG,Rennes
+24/04/2010,1 - 2,Le Mans,Lille
+24/04/2010,1 - 0,Lorient,Bordeaux
+24/04/2010,0 - 0,Nancy,Montpellier
+24/04/2010,2 - 1,Nice,Grenoble Foot 38
+24/04/2010,0 - 3,Sochaux,Boulogne
+18/04/2010,0 - 0,Saint-Étienne,PSG
+18/04/2010,4 - 0,Lille,Monaco
+18/04/2010,1 - 1,Montpellier,Toulouse
+17/04/2010,2 - 2,Bordeaux,Olympique Lyonnais
+17/04/2010,4 - 1,Auxerre,Lorient
+17/04/2010,1 - 2,Boulogne,Olympique Marseille
+17/04/2010,2 - 2,Grenoble Foot 38,Sochaux
+17/04/2010,0 - 0,Nice,Lens
+17/04/2010,0 - 0,Rennes,Nancy
+17/04/2010,0 - 1,Valenciennes,Le Mans
+14/04/2010,2 - 1,Le Mans,Bordeaux
+14/04/2010,0 - 1,Sochaux,Olympique Marseille
+11/04/2010,4 - 1,Olympique Marseille,Nice
+11/04/2010,0 - 1,Nancy,Auxerre
+11/04/2010,1 - 1,Olympique Lyonnais,Lille
+10/04/2010,3 - 1,PSG,Bordeaux
+10/04/2010,2 - 2,Le Mans,Montpellier
+10/04/2010,3 - 0,Lens,Boulogne
+10/04/2010,1 - 1,Lorient,Rennes
+10/04/2010,2 - 1,Monaco,Valenciennes
+10/04/2010,0 - 2,Sochaux,Saint-Étienne
+10/04/2010,4 - 0,Toulouse,Grenoble Foot 38
+07/04/2010,3 - 0,Olympique Marseille,Sochaux
+04/04/2010,1 - 1,Auxerre,PSG
+04/04/2010,1 - 1,Boulogne,Toulouse
+04/04/2010,1 - 0,Olympique Marseille,Lens
+03/04/2010,0 - 0,Montpellier,Monaco
+03/04/2010,1 - 2,Bordeaux,Nancy
+03/04/2010,1 - 2,Grenoble Foot 38,Lorient
+03/04/2010,0 - 0,Nice,Sochaux
+03/04/2010,1 - 2,Rennes,Olympique Lyonnais
+03/04/2010,2 - 0,Saint-Étienne,Le Mans
+03/04/2010,1 - 0,Valenciennes,Lille
+29/03/2010,0 - 0,Monaco,Auxerre
+28/03/2010,4 - 1,Lille,Montpellier
+28/03/2010,1 - 3,Le Mans,Rennes
+28/03/2010,4 - 0,Lorient,Saint-Étienne
+28/03/2010,5 - 1,Nancy,Lens
+28/03/2010,3 - 0,PSG,Boulogne
+28/03/2010,0 - 2,Toulouse,Nice
+27/03/2010,2 - 0,Olympique Lyonnais,Grenoble Foot 38
+21/03/2010,2 - 1,Olympique Marseille,Olympique Lyonnais
+21/03/2010,3 - 1,Bordeaux,Lille
+21/03/2010,2 - 1,Montpellier,Valenciennes
+20/03/2010,0 - 0,Lens,Sochaux
+20/03/2010,2 - 1,Auxerre,Le Mans
+20/03/2010,2 - 0,Boulogne,Lorient
+20/03/2010,0 - 0,Grenoble Foot 38,Monaco
+20/03/2010,1 - 0,Nice,PSG
+20/03/2010,4 - 1,Rennes,Toulouse
+20/03/2010,0 - 0,Saint-Étienne,Nancy
+14/03/2010,1 - 1,Toulouse,Olympique Marseille
+14/03/2010,1 - 0,Lille,Grenoble Foot 38
+14/03/2010,0 - 2,Valenciennes,Rennes
+13/03/2010,1 - 1,Olympique Lyonnais,Saint-Étienne
+13/03/2010,0 - 1,Le Mans,Nice
+13/03/2010,1 - 0,Lorient,Lens
+13/03/2010,0 - 0,Monaco,Bordeaux
+13/03/2010,1 - 1,Montpellier,Auxerre
+13/03/2010,1 - 3,Nancy,Boulogne
+13/03/2010,4 - 1,PSG,Sochaux
+10/03/2010,1 - 2,Bordeaux,Auxerre
+07/03/2010,1 - 1,Bordeaux,Montpellier
+07/03/2010,1 - 1,Grenoble Foot 38,Le Mans
+07/03/2010,1 - 1,Olympique Marseille,Lorient
+06/03/2010,1 - 1,Saint-Étienne,Lille
+06/03/2010,1 - 0,Auxerre,Valenciennes
+06/03/2010,0 - 0,Boulogne,Olympique Lyonnais
+06/03/2010,1 - 1,Lens,PSG
+06/03/2010,2 - 3,Nice,Nancy
+06/03/2010,1 - 0,Rennes,Monaco
+06/03/2010,1 - 0,Sochaux,Toulouse
+28/02/2010,0 - 3,PSG,Olympique Marseille
+28/02/2010,1 - 2,Lille,Auxerre
+27/02/2010,3 - 1,Montpellier,Rennes
+27/02/2010,1 - 0,Lorient,Sochaux
+27/02/2010,1 - 0,Monaco,Boulogne
+27/02/2010,0 - 2,Nancy,Grenoble Foot 38
+27/02/2010,2 - 0,Olympique Lyonnais,Nice
+27/02/2010,1 - 0,Toulouse,Lens
+27/02/2010,1 - 0,Valenciennes,Saint-Étienne
+21/02/2010,1 - 2,Rennes,Lille
+21/02/2010,3 - 1,Olympique Marseille,Nancy
+21/02/2010,0 - 4,Sochaux,Olympique Lyonnais
+20/02/2010,1 - 0,PSG,Toulouse
+20/02/2010,1 - 3,Boulogne,Le Mans
+20/02/2010,0 - 1,Grenoble Foot 38,Valenciennes
+20/02/2010,3 - 0,Lens,Monaco
+20/02/2010,1 - 0,Nice,Lorient
+20/02/2010,1 - 0,Saint-Étienne,Montpellier
+14/02/2010,3 - 1,Bordeaux,Saint-Étienne
+14/02/2010,1 - 0,Auxerre,Rennes
+14/02/2010,1 - 1,Lorient,Toulouse
+13/02/2010,1 - 0,Olympique Lyonnais,Lens
+13/02/2010,0 - 0,Le Mans,Sochaux
+13/02/2010,3 - 1,Lille,Boulogne
+13/02/2010,1 - 2,Monaco,Olympique Marseille
+13/02/2010,1 - 0,Montpellier,Grenoble Foot 38
+13/02/2010,0 - 0,Nancy,PSG
+13/02/2010,2 - 1,Valenciennes,Nice
+07/02/2010,5 - 1,Olympique Marseille,Valenciennes
+07/02/2010,3 - 0,Saint-Étienne,Monaco
+07/02/2010,0 - 0,Toulouse,Olympique Lyonnais
+06/02/2010,4 - 2,Rennes,Bordeaux
+06/02/2010,0 - 2,Boulogne,Montpellier
+06/02/2010,5 - 0,Grenoble Foot 38,Auxerre
+06/02/2010,2 - 1,Lens,Le Mans
+06/02/2010,1 - 1,Nice,Lille
+06/02/2010,0 - 3,PSG,Lorient
+06/02/2010,1 - 1,Sochaux,Nancy
+31/01/2010,2 - 1,Olympique Lyonnais,PSG
+31/01/2010,1 - 0,Auxerre,Saint-Étienne
+31/01/2010,1 - 1,Valenciennes,Sochaux
+30/01/2010,2 - 0,Montpellier,Olympique Marseille
+30/01/2010,0 - 0,Bordeaux,Boulogne
+30/01/2010,1 - 3,Le Mans,Toulouse
+30/01/2010,1 - 0,Lille,Lens
+30/01/2010,3 - 2,Monaco,Nice
+30/01/2010,1 - 0,Nancy,Lorient
+30/01/2010,4 - 0,Rennes,Grenoble Foot 38
+20/01/2010,0 - 2,Boulogne,Valenciennes
+20/01/2010,1 - 3,Grenoble Foot 38,Bordeaux
+20/01/2010,0 - 1,Lens,Montpellier
+20/01/2010,1 - 3,Lorient,Olympique Lyonnais
+20/01/2010,0 - 1,Nice,Auxerre
+20/01/2010,2 - 1,Olympique Marseille,Le Mans
+20/01/2010,0 - 1,PSG,Monaco
+20/01/2010,2 - 1,Sochaux,Lille
+20/01/2010,0 - 0,Toulouse,Nancy
+19/01/2010,0 - 0,Saint-Étienne,Rennes
+17/01/2010,1 - 1,Bordeaux,Olympique Marseille
+16/01/2010,0 - 0,Auxerre,Boulogne
+16/01/2010,1 - 2,Grenoble Foot 38,Saint-Étienne
+16/01/2010,0 - 3,Le Mans,Lorient
+16/01/2010,3 - 1,Lille,PSG
+16/01/2010,2 - 0,Monaco,Sochaux
+16/01/2010,1 - 0,Montpellier,Nice
+16/01/2010,0 - 2,Nancy,Olympique Lyonnais
+16/01/2010,1 - 1,Rennes,Lens
+16/01/2010,1 - 3,Valenciennes,Toulouse
+13/01/2010,4 - 0,Monaco,Montpellier
+13/01/2010,0 - 0,Boulogne,Sochaux
+23/12/2009,1 - 2,Toulouse,Bordeaux
+23/12/2009,1 - 1,Le Mans,Monaco
+23/12/2009,3 - 2,Lorient,Valenciennes
+23/12/2009,0 - 4,Nancy,Lille
+23/12/2009,2 - 2,Nice,Boulogne
+23/12/2009,1 - 2,Olympique Lyonnais,Montpellier
+23/12/2009,0 - 2,Olympique Marseille,Auxerre
+23/12/2009,4 - 0,PSG,Grenoble Foot 38
+23/12/2009,2 - 0,Sochaux,Rennes
+22/12/2009,1 - 0,Lens,Saint-Étienne
+20/12/2009,1 - 1,Monaco,Olympique Lyonnais
+20/12/2009,1 - 1,Auxerre,Toulouse
+20/12/2009,3 - 0,Lille,Le Mans
+19/12/2009,0 - 0,Saint-Étienne,Olympique Marseille
+19/12/2009,4 - 1,Bordeaux,Lorient
+19/12/2009,1 - 1,Grenoble Foot 38,Nice
+19/12/2009,0 - 2,Montpellier,Nancy
+19/12/2009,1 - 0,Rennes,PSG
+19/12/2009,0 - 0,Valenciennes,Lens
+16/12/2009,1 - 1,PSG,Lens
+16/12/2009,1 - 0,Le Mans,Grenoble Foot 38
+16/12/2009,1 - 2,Lorient,Olympique Marseille
+16/12/2009,1 - 0,Monaco,Rennes
+16/12/2009,0 - 1,Montpellier,Bordeaux
+16/12/2009,2 - 0,Nancy,Nice
+16/12/2009,2 - 0,Olympique Lyonnais,Boulogne
+15/12/2009,0 - 0,Valenciennes,Auxerre
+13/12/2009,0 - 1,Olympique Lyonnais,Bordeaux
+13/12/2009,0 - 4,Monaco,Lille
+13/12/2009,3 - 0,PSG,Saint-Étienne
+13/12/2009,1 - 0,Sochaux,Grenoble Foot 38
+13/12/2009,0 - 1,Toulouse,Montpellier
+12/12/2009,0 - 0,Lorient,Auxerre
+12/12/2009,2 - 1,Le Mans,Valenciennes
+12/12/2009,2 - 0,Lens,Nice
+12/12/2009,1 - 2,Nancy,Rennes
+12/12/2009,2 - 0,Olympique Marseille,Boulogne
+10/12/2009,4 - 0,Lille,Saint-Étienne
+10/12/2009,2 - 0,Toulouse,Sochaux
+06/12/2009,4 - 3,Lille,Olympique Lyonnais
+06/12/2009,1 - 3,Auxerre,Nancy
+06/12/2009,2 - 1,Boulogne,Lens
+06/12/2009,1 - 0,Grenoble Foot 38,Toulouse
+05/12/2009,1 - 0,Bordeaux,PSG
+05/12/2009,2 - 1,Montpellier,Le Mans
+05/12/2009,1 - 3,Nice,Olympique Marseille
+05/12/2009,1 - 0,Rennes,Lorient
+05/12/2009,0 - 0,Saint-Étienne,Sochaux
+05/12/2009,3 - 1,Valenciennes,Monaco
+02/12/2009,2 - 5,Boulogne,PSG
+29/11/2009,1 - 1,Olympique Lyonnais,Rennes
+29/11/2009,1 - 1,Le Mans,Saint-Étienne
+29/11/2009,0 - 3,Nancy,Bordeaux
+28/11/2009,1 - 0,Lens,Olympique Marseille
+28/11/2009,4 - 0,Lille,Valenciennes
+28/11/2009,2 - 2,Lorient,Grenoble Foot 38
+28/11/2009,1 - 0,PSG,Auxerre
+28/11/2009,1 - 0,Sochaux,Nice
+28/11/2009,1 - 0,Toulouse,Boulogne
+22/11/2009,2 - 0,Montpellier,Lille
+22/11/2009,1 - 0,Nice,Toulouse
+22/11/2009,0 - 2,Saint-Étienne,Lorient
+21/11/2009,2 - 0,Auxerre,Monaco
+21/11/2009,0 - 1,Bordeaux,Valenciennes
+21/11/2009,1 - 1,Grenoble Foot 38,Olympique Lyonnais
+21/11/2009,2 - 1,Lens,Nancy
+21/11/2009,2 - 1,Rennes,Le Mans
+20/11/2009,1 - 0,Olympique Marseille,PSG
+08/11/2009,5 - 5,Olympique Lyonnais,Olympique Marseille
+08/11/2009,2 - 0,Lille,Bordeaux
+08/11/2009,3 - 2,Toulouse,Rennes
+07/11/2009,1 - 2,Sochaux,Lens
+07/11/2009,0 - 1,Le Mans,Auxerre
+07/11/2009,5 - 0,Lorient,Boulogne
+07/11/2009,0 - 0,Monaco,Grenoble Foot 38
+07/11/2009,0 - 1,Nancy,Saint-Étienne
+07/11/2009,0 - 1,PSG,Nice
+07/11/2009,1 - 1,Valenciennes,Montpellier
+01/11/2009,1 - 4,Sochaux,PSG
+01/11/2009,1 - 0,Nice,Le Mans
+01/11/2009,0 - 3,Rennes,Valenciennes
+31/10/2009,0 - 1,Saint-Étienne,Olympique Lyonnais
+31/10/2009,2 - 1,Auxerre,Montpellier
+31/10/2009,1 - 0,Bordeaux,Monaco
+31/10/2009,1 - 2,Boulogne,Nancy
+31/10/2009,0 - 2,Grenoble Foot 38,Lille
+31/10/2009,1 - 1,Lens,Lorient
+31/10/2009,1 - 1,Olympique Marseille,Toulouse
+25/10/2009,3 - 2,Auxerre,Lille
+25/10/2009,0 - 2,Lens,Toulouse
+24/10/2009,3 - 0,Rennes,Montpellier
+24/10/2009,3 - 0,Bordeaux,Le Mans
+24/10/2009,1 - 3,Boulogne,Monaco
+24/10/2009,1 - 2,Grenoble Foot 38,Nancy
+24/10/2009,4 - 1,Nice,Olympique Lyonnais
+24/10/2009,0 - 2,Saint-Étienne,Valenciennes
+24/10/2009,1 - 0,Sochaux,Lorient
+18/10/2009,1 - 0,Toulouse,PSG
+18/10/2009,4 - 1,Lorient,Nice
+18/10/2009,2 - 0,Monaco,Lens
+17/10/2009,0 - 0,Lille,Rennes
+17/10/2009,1 - 0,Auxerre,Bordeaux
+17/10/2009,1 - 1,Le Mans,Boulogne
+17/10/2009,2 - 1,Montpellier,Saint-Étienne
+17/10/2009,0 - 3,Nancy,Olympique Marseille
+17/10/2009,0 - 2,Olympique Lyonnais,Sochaux
+17/10/2009,2 - 0,Valenciennes,Grenoble Foot 38
+04/10/2009,1 - 2,Olympique Marseille,Monaco
+04/10/2009,2 - 3,Boulogne,Lille
+04/10/2009,0 - 1,Toulouse,Lorient
+03/10/2009,0 - 2,Lens,Olympique Lyonnais
+03/10/2009,2 - 3,Grenoble Foot 38,Montpellier
+03/10/2009,3 - 2,Nice,Valenciennes
+03/10/2009,1 - 1,PSG,Nancy
+03/10/2009,0 - 1,Rennes,Auxerre
+03/10/2009,3 - 1,Saint-Étienne,Bordeaux
+03/10/2009,1 - 0,Sochaux,Le Mans
+27/09/2009,1 - 0,Bordeaux,Rennes
+27/09/2009,3 - 0,Le Mans,Lens
+27/09/2009,1 - 1,Lille,Nice
+26/09/2009,2 - 1,Olympique Lyonnais,Toulouse
+26/09/2009,2 - 0,Auxerre,Grenoble Foot 38
+26/09/2009,1 - 1,Lorient,PSG
+26/09/2009,1 - 2,Monaco,Saint-Étienne
+26/09/2009,1 - 0,Montpellier,Boulogne
+26/09/2009,2 - 1,Nancy,Sochaux
+26/09/2009,3 - 2,Valenciennes,Olympique Marseille
+20/09/2009,1 - 1,PSG,Olympique Lyonnais
+20/09/2009,1 - 1,Lens,Lille
+20/09/2009,2 - 0,Toulouse,Le Mans
+19/09/2009,4 - 2,Olympique Marseille,Montpellier
+19/09/2009,0 - 2,Boulogne,Bordeaux
+19/09/2009,0 - 4,Grenoble Foot 38,Rennes
+19/09/2009,3 - 1,Lorient,Nancy
+19/09/2009,1 - 3,Nice,Monaco
+19/09/2009,1 - 1,Saint-Étienne,Auxerre
+19/09/2009,2 - 5,Sochaux,Valenciennes
+13/09/2009,2 - 0,Monaco,PSG
+13/09/2009,2 - 0,Auxerre,Nice
+13/09/2009,1 - 0,Rennes,Saint-Étienne
+12/09/2009,1 - 0,Bordeaux,Grenoble Foot 38
+12/09/2009,1 - 2,Le Mans,Olympique Marseille
+12/09/2009,1 - 0,Lille,Sochaux
+12/09/2009,1 - 0,Montpellier,Lens
+12/09/2009,0 - 0,Nancy,Toulouse
+12/09/2009,1 - 0,Olympique Lyonnais,Lorient
+12/09/2009,1 - 1,Valenciennes,Boulogne
+30/08/2009,0 - 0,Olympique Marseille,Bordeaux
+30/08/2009,3 - 0,PSG,Lille
+30/08/2009,0 - 1,Toulouse,Valenciennes
+29/08/2009,3 - 1,Olympique Lyonnais,Nancy
+29/08/2009,0 - 0,Boulogne,Auxerre
+29/08/2009,2 - 2,Lens,Rennes
+29/08/2009,1 - 0,Lorient,Le Mans
+29/08/2009,0 - 3,Nice,Montpellier
+29/08/2009,1 - 0,Saint-Étienne,Grenoble Foot 38
+29/08/2009,1 - 0,Sochaux,Monaco
+23/08/2009,1 - 1,Lille,Toulouse
+23/08/2009,4 - 0,Bordeaux,Nice
+23/08/2009,1 - 2,Grenoble Foot 38,Lens
+22/08/2009,1 - 1,Rennes,Olympique Marseille
+22/08/2009,0 - 3,Auxerre,Olympique Lyonnais
+22/08/2009,2 - 1,Le Mans,Nancy
+22/08/2009,2 - 0,Monaco,Lorient
+22/08/2009,2 - 0,Montpellier,Sochaux
+22/08/2009,0 - 1,Saint-Étienne,Boulogne
+22/08/2009,2 - 3,Valenciennes,PSG
+16/08/2009,1 - 0,[N] Olympique Marseille,Lille
+16/08/2009,2 - 1,Boulogne,Grenoble Foot 38
+16/08/2009,1 - 1,Nice,Rennes
+15/08/2009,3 - 1,Toulouse,Saint-Étienne
+15/08/2009,2 - 0,Lens,Auxerre
+15/08/2009,2 - 2,Lorient,Montpellier
+15/08/2009,4 - 0,Nancy,Monaco
+15/08/2009,1 - 0,Olympique Lyonnais,Valenciennes
+15/08/2009,3 - 1,PSG,Le Mans
+15/08/2009,2 - 3,Sochaux,Bordeaux
+09/08/2009,4 - 1,Bordeaux,Lens
+09/08/2009,1 - 2,Lille,Lorient
+08/08/2009,0 - 1,Auxerre,Sochaux
+08/08/2009,0 - 2,Grenoble Foot 38,Olympique Marseille
+08/08/2009,2 - 2,Le Mans,Olympique Lyonnais
+08/08/2009,1 - 0,Monaco,Toulouse
+08/08/2009,1 - 1,Montpellier,PSG
+08/08/2009,3 - 0,Rennes,Boulogne
+08/08/2009,0 - 2,Saint-Étienne,Nice
+08/08/2009,1 - 3,Valenciennes,Nancy

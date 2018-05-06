@@ -1,0 +1,193 @@
+date,score,home_team,away_team
+20/05/2018,document.write(timestamp_to_time(1526824800));14:00 GMT,Veres,Mariupol'
+20/05/2018,document.write(timestamp_to_time(1526824800));14:00 GMT,[N] Vorskla,Zorya
+19/05/2018,document.write(timestamp_to_time(1526747400));16:30 GMT,[N] Dynamo Kyiv,Shakhtar Donetsk
+13/05/2018,document.write(timestamp_to_time(1526229000));16:30 GMT,[N] Mariupol',Vorskla
+13/05/2018,document.write(timestamp_to_time(1526229000));16:30 GMT,[N] Shakhtar Donetsk,Veres
+13/05/2018,document.write(timestamp_to_time(1526229000));16:30 GMT,[N] Zorya,Dynamo Kyiv
+05/05/2018,document.write(timestamp_to_time(1525537800));16:30 GMT,[N] Shakhtar Donetsk,Zorya
+05/05/2018,document.write(timestamp_to_time(1525518000));11:00 GMT,Veres,Vorskla
+04/05/2018,1 - 1,[N] Dynamo Kyiv,Mariupol'
+29/04/2018,0 - 1,Vorskla,Dynamo Kyiv
+29/04/2018,1 - 0,Zorya,Veres
+27/04/2018,0 - 1,Mariupol',Shakhtar Donetsk
+22/04/2018,1 - 4,Veres,Dynamo Kyiv
+22/04/2018,3 - 1,Zorya,Mariupol'
+21/04/2018,4 - 2,[N] Shakhtar Donetsk,Vorskla
+15/04/2018,0 - 3,Zorya,Vorskla
+14/04/2018,0 - 1,[N] Shakhtar Donetsk,Dynamo Kyiv
+14/04/2018,2 - 0,Mariupol',Veres
+07/04/2018,1 - 0,Vorskla,Mariupol'
+07/04/2018,4 - 0,[N] Dynamo Kyiv,Zorya
+07/04/2018,0 - 2,Veres,Shakhtar Donetsk
+01/04/2018,0 - 3,Zorya,Shakhtar Donetsk
+01/04/2018,2 - 3,Mariupol',Dynamo Kyiv
+31/03/2018,0 - 0,Vorskla,Veres
+18/03/2018,4 - 0,Dynamo Kyiv,Vorskla
+18/03/2018,3 - 0,[N] Shakhtar Donetsk,Mariupol'
+18/03/2018,0 - 1,Veres,Zorya
+11/03/2018,1 - 0,Dynamo Kyiv,Veres
+11/03/2018,0 - 0,Mariupol',Zorya
+09/03/2018,0 - 3,Vorskla,Shakhtar Donetsk
+19/05/2018,document.write(timestamp_to_time(1526747400));16:30 GMT,[N] Oleksandria,Olimpik Donetsk
+19/05/2018,document.write(timestamp_to_time(1526738400));14:00 GMT,[N] Chornomorets,Zirka
+19/05/2018,document.write(timestamp_to_time(1526738400));14:00 GMT,[N] Karpaty,Stal Kamianske
+12/05/2018,document.write(timestamp_to_time(1526133600));14:00 GMT,Olimpik Donetsk,Chornomorets
+12/05/2018,document.write(timestamp_to_time(1526133600));14:00 GMT,[N] Stal Kamianske,Oleksandria
+12/05/2018,document.write(timestamp_to_time(1526122800));11:00 GMT,[N] Zirka,Karpaty
+06/05/2018,document.write(timestamp_to_time(1525624200));16:30 GMT,Oleksandria,Zirka
+06/05/2018,document.write(timestamp_to_time(1525604400));11:00 GMT,Olimpik Donetsk,Stal Kamianske
+05/05/2018,document.write(timestamp_to_time(1525528800));14:00 GMT,Chornomorets,Karpaty
+28/04/2018,1 - 2,[N] Stal Kamianske,Chornomorets
+28/04/2018,1 - 2,[N] Karpaty,Oleksandria
+28/04/2018,2 - 0,Zirka,Olimpik Donetsk
+22/04/2018,0 - 2,Olimpik Donetsk,Karpaty
+21/04/2018,1 - 3,Chornomorets,Oleksandria
+21/04/2018,1 - 1,[N] Stal Kamianske,Zirka
+15/04/2018,0 - 1,[N] Stal Kamianske,Karpaty
+15/04/2018,2 - 1,Zirka,Chornomorets
+15/04/2018,0 - 0,Olimpik Donetsk,Oleksandria
+09/04/2018,2 - 1,[N] Karpaty,Zirka
+07/04/2018,3 - 1,Chornomorets,Olimpik Donetsk
+07/04/2018,2 - 0,Oleksandria,Stal Kamianske
+01/04/2018,0 - 0,[N] Stal Kamianske,Olimpik Donetsk
+31/03/2018,3 - 1,[N] Karpaty,Chornomorets
+31/03/2018,0 - 0,Zirka,Oleksandria
+18/03/2018,1 - 1,Oleksandria,Karpaty
+17/03/2018,0 - 1,Olimpik Donetsk,Zirka
+17/03/2018,0 - 1,Chornomorets,Stal Kamianske
+11/03/2018,0 - 3,[N] Karpaty,Olimpik Donetsk
+10/03/2018,0 - 0,Oleksandria,Chornomorets
+10/03/2018,1 - 2,Zirka,Stal Kamianske
+06/03/2018,0 - 0,Zirka,Oleksandria
+04/03/2018,0 - 3,[N] Karpaty,Shakhtar Donetsk
+04/03/2018,3 - 2,Dynamo Kyiv,Zorya
+04/03/2018,1 - 0,Mariupol',Olimpik Donetsk
+04/03/2018,0 - 1,[N] Stal Kamianske,Veres
+03/03/2018,2 - 1,Vorskla,Chornomorets
+25/02/2018,5 - 0,[N] Shakhtar Donetsk,Zirka
+25/02/2018,3 - 1,Veres,Dynamo Kyiv
+25/02/2018,2 - 0,Olimpik Donetsk,Stal Kamianske
+25/02/2018,3 - 0,Zorya,Vorskla
+24/02/2018,0 - 0,Chornomorets,Karpaty
+24/02/2018,1 - 0,Oleksandria,Mariupol'
+21/02/2018,2 - 1,[N] Karpaty,Olimpik Donetsk
+18/02/2018,1 - 0,Dynamo Kyiv,Olimpik Donetsk
+18/02/2018,0 - 2,[N] Karpaty,Zorya
+18/02/2018,0 - 3,Zirka,Mariupol'
+17/02/2018,1 - 0,Vorskla,Veres
+17/02/2018,2 - 0,[N] Stal Kamianske,Oleksandria
+16/02/2018,5 - 0,[N] Shakhtar Donetsk,Chornomorets
+10/12/2017,2 - 1,Zorya,Shakhtar Donetsk
+10/12/2017,0 - 0,Oleksandria,Dynamo Kyiv
+09/12/2017,1 - 4,Olimpik Donetsk,Vorskla
+09/12/2017,3 - 3,Chornomorets,Zirka
+09/12/2017,4 - 2,Mariupol',Stal Kamianske
+09/12/2017,2 - 2,Veres,Karpaty
+03/12/2017,5 - 1,Dynamo Kyiv,Mariupol'
+03/12/2017,3 - 1,Vorskla,Oleksandria
+03/12/2017,1 - 0,Zirka,Stal Kamianske
+02/12/2017,2 - 0,[N] Shakhtar Donetsk,Veres
+02/12/2017,1 - 1,Chornomorets,Zorya
+26/11/2017,0 - 2,[N] Stal Kamianske,Dynamo Kyiv
+26/11/2017,1 - 0,Zorya,Zirka
+26/11/2017,3 - 0,Oleksandria,Karpaty
+26/11/2017,3 - 1,Veres,Chornomorets
+25/11/2017,2 - 4,Olimpik Donetsk,Shakhtar Donetsk
+25/11/2017,0 - 1,Mariupol',Vorskla
+19/11/2017,2 - 1,Chornomorets,Olimpik Donetsk
+19/11/2017,1 - 1,Vorskla,Stal Kamianske
+18/11/2017,0 - 1,[N] Karpaty,Mariupol'
+18/11/2017,0 - 2,Zirka,Dynamo Kyiv
+18/11/2017,1 - 1,Zorya,Veres
+17/11/2017,1 - 2,[N] Shakhtar Donetsk,Oleksandria
+05/11/2017,2 - 1,Dynamo Kyiv,Vorskla
+05/11/2017,3 - 3,Olimpik Donetsk,Zorya
+05/11/2017,0 - 0,[N] Stal Kamianske,Karpaty
+05/11/2017,1 - 3,Mariupol',Shakhtar Donetsk
+04/11/2017,0 - 0,Oleksandria,Chornomorets
+04/11/2017,0 - 0,Veres,Zirka
+30/10/2017,0 - 0,Chornomorets,Mariupol'
+29/10/2017,1 - 1,[N] Karpaty,Dynamo Kyiv
+29/10/2017,1 - 1,Veres,Olimpik Donetsk
+29/10/2017,2 - 2,Zorya,Oleksandria
+29/10/2017,1 - 0,Zirka,Vorskla
+28/10/2017,1 - 1,[N] Shakhtar Donetsk,Stal Kamianske
+22/10/2017,0 - 0,Dynamo Kyiv,Shakhtar Donetsk
+22/10/2017,2 - 5,Mariupol',Zorya
+22/10/2017,1 - 1,[N] Stal Kamianske,Chornomorets
+21/10/2017,0 - 1,Vorskla,Karpaty
+21/10/2017,1 - 1,Oleksandria,Veres
+21/10/2017,1 - 0,Olimpik Donetsk,Zirka
+15/10/2017,2 - 1,Chornomorets,Dynamo Kyiv
+15/10/2017,1 - 0,Olimpik Donetsk,Oleksandria
+15/10/2017,0 - 0,Zirka,Karpaty
+14/10/2017,0 - 1,[N] Stal Kamianske,Zorya
+14/10/2017,1 - 1,Veres,Mariupol'
+13/10/2017,3 - 2,[N] Shakhtar Donetsk,Vorskla
+01/10/2017,4 - 4,Zorya,Dynamo Kyiv
+01/10/2017,2 - 0,[N] Shakhtar Donetsk,Karpaty
+01/10/2017,1 - 1,Veres,Stal Kamianske
+01/10/2017,0 - 3,Chornomorets,Vorskla
+30/09/2017,0 - 0,Oleksandria,Zirka
+30/09/2017,3 - 2,Olimpik Donetsk,Mariupol'
+24/09/2017,1 - 1,[N] Karpaty,Chornomorets
+24/09/2017,1 - 1,Vorskla,Zorya
+24/09/2017,1 - 1,Mariupol',Oleksandria
+24/09/2017,1 - 1,[N] Stal Kamianske,Olimpik Donetsk
+23/09/2017,0 - 0,[N] Dynamo Kyiv,Veres
+23/09/2017,2 - 4,Zirka,Shakhtar Donetsk
+17/09/2017,0 - 0,Chornomorets,Shakhtar Donetsk
+17/09/2017,1 - 2,Olimpik Donetsk,Dynamo Kyiv
+17/09/2017,0 - 0,Zorya,Karpaty
+16/09/2017,1 - 0,Mariupol',Zirka
+16/09/2017,1 - 0,Veres,Vorskla
+16/09/2017,4 - 1,Oleksandria,Stal Kamianske
+10/09/2017,3 - 0,Dynamo Kyiv,Oleksandria
+10/09/2017,1 - 6,[N] Karpaty,Veres
+10/09/2017,0 - 1,[N] Stal Kamianske,Mariupol'
+10/09/2017,0 - 1,Zirka,Chornomorets
+09/09/2017,1 - 1,Vorskla,Olimpik Donetsk
+09/09/2017,3 - 1,[N] Shakhtar Donetsk,Zorya
+27/08/2017,0 - 1,Oleksandria,Vorskla
+27/08/2017,5 - 0,Zorya,Chornomorets
+27/08/2017,3 - 0,Mariupol',Dynamo Kyiv
+27/08/2017,1 - 2,Veres,Shakhtar Donetsk
+26/08/2017,0 - 0,Olimpik Donetsk,Karpaty
+26/08/2017,0 - 1,[N] Stal Kamianske,Zirka
+20/08/2017,4 - 1,Dynamo Kyiv,Stal Kamianske
+20/08/2017,1 - 0,Vorskla,Mariupol'
+20/08/2017,0 - 0,[N] Karpaty,Oleksandria
+20/08/2017,2 - 1,Zirka,Zorya
+19/08/2017,0 - 1,Chornomorets,Veres
+19/08/2017,2 - 0,[N] Shakhtar Donetsk,Olimpik Donetsk
+13/08/2017,1 - 0,Olimpik Donetsk,Chornomorets
+13/08/2017,3 - 0,Mariupol',Karpaty
+12/08/2017,1 - 2,Oleksandria,Shakhtar Donetsk
+12/08/2017,0 - 1,[N] Stal Kamianske,Vorskla
+12/08/2017,0 - 1,Veres,Zorya
+11/08/2017,3 - 0,Dynamo Kyiv,Zirka
+06/08/2017,0 - 0,Vorskla,Dynamo Kyiv
+06/08/2017,0 - 2,Zorya,Olimpik Donetsk
+06/08/2017,2 - 2,Chornomorets,Oleksandria
+06/08/2017,1 - 3,Zirka,Veres
+05/08/2017,3 - 1,[N] Shakhtar Donetsk,Mariupol'
+05/08/2017,3 - 1,[N] Karpaty,Stal Kamianske
+30/07/2017,1 - 1,Oleksandria,Zorya
+30/07/2017,0 - 0,Olimpik Donetsk,Veres
+30/07/2017,3 - 0,Mariupol',Chornomorets
+29/07/2017,5 - 0,Dynamo Kyiv,Karpaty
+29/07/2017,2 - 1,Vorskla,Zirka
+29/07/2017,1 - 2,Stal Kamianske,Shakhtar Donetsk
+23/07/2017,0 - 0,Zirka,Olimpik Donetsk
+23/07/2017,1 - 1,Zorya,Mariupol'
+23/07/2017,1 - 3,[N] Karpaty,Vorskla
+22/07/2017,0 - 1,[N] Shakhtar Donetsk,Dynamo Kyiv
+22/07/2017,0 - 1,Chornomorets,Stal Kamianske
+22/07/2017,0 - 0,Veres,Oleksandria
+18/07/2017,2 - 1,[N] Dynamo Kyiv,Chornomorets
+18/07/2017,0 - 3,Vorskla,Shakhtar Donetsk
+16/07/2017,0 - 2,Oleksandria,Olimpik Donetsk
+16/07/2017,0 - 1,Zorya,Stal Kamianske
+16/07/2017,1 - 1,[N] Karpaty,Zirka
+16/07/2017,0 - 0,Mariupol',Veres

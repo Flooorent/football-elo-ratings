@@ -1,0 +1,243 @@
+date,score,home_team,away_team
+31/05/2014,0 - 3,[N] AEL,APOEL
+18/05/2014,2 - 2,Anorthosis,Apollon
+16/05/2014,2 - 1,[N] Ermis,Omonia Nicosia
+11/05/2014,8 - 1,APOEL,Anorthosis
+10/05/2014,5 - 1,Apollon,Ermis
+10/05/2014,2 - 3,Omonia Nicosia,AEL
+07/05/2014,0 - 1,AEL,Apollon
+07/05/2014,2 - 1,APOEL,Omonia Nicosia
+07/05/2014,0 - 2,[N] Ermis,Anorthosis
+03/05/2014,0 - 3,[N] Ermis,AEL
+03/05/2014,1 - 2,Anorthosis,Omonia Nicosia
+03/05/2014,2 - 1,Apollon,APOEL
+27/04/2014,2 - 1,Omonia Nicosia,Apollon
+26/04/2014,4 - 3,AEL,Anorthosis
+26/04/2014,1 - 2,APOEL,Ermis
+23/04/2014,3 - 0,Apollon,Anorthosis
+23/04/2014,3 - 3,Omonia Nicosia,Ermis
+22/04/2014,3 - 0,APOEL,AEL
+13/04/2014,0 - 1,Anorthosis,APOEL
+13/04/2014,2 - 0,AEL,Omonia Nicosia
+13/04/2014,0 - 4,[N] Ermis,Apollon
+05/04/2014,1 - 2,Anorthosis,Ermis
+05/04/2014,1 - 1,Apollon,AEL
+05/04/2014,0 - 0,Omonia Nicosia,APOEL
+30/03/2014,3 - 1,Omonia Nicosia,Anorthosis
+29/03/2014,4 - 0,AEL,Ermis
+29/03/2014,3 - 0,APOEL,Apollon
+23/03/2014,1 - 2,[N] Ermis,APOEL
+23/03/2014,0 - 3,Anorthosis,AEL
+23/03/2014,0 - 0,Apollon,Omonia Nicosia
+18/05/2014,6 - 1,AEK Larnaca ,Doxa
+18/05/2014,1 - 2,Aris,Nea Salamis
+18/05/2014,5 - 0,Ethnikos Achna,AE Kouklion
+11/05/2014,0 - 0,AE Kouklion,AEK Larnaca 
+11/05/2014,2 - 0,Doxa,Aris
+11/05/2014,1 - 2,Nea Salamis,Ethnikos Achna
+07/05/2014,3 - 0,AEK Larnaca ,Nea Salamis
+07/05/2014,4 - 0,Doxa,AE Kouklion
+07/05/2014,3 - 0,Ethnikos Achna,Aris
+04/05/2014,7 - 2,Aris,AE Kouklion
+04/05/2014,2 - 0,Ethnikos Achna,AEK Larnaca 
+04/05/2014,0 - 4,Nea Salamis,Doxa
+27/04/2014,1 - 4,AE Kouklion,Nea Salamis
+27/04/2014,1 - 1,AEK Larnaca ,Aris
+27/04/2014,1 - 0,Doxa,Ethnikos Achna
+23/04/2014,1 - 4,AE Kouklion,Ethnikos Achna
+23/04/2014,0 - 0,Doxa,AEK Larnaca 
+23/04/2014,3 - 4,Nea Salamis,Aris
+12/04/2014,1 - 0,[N] AEK Larnaca ,AE Kouklion
+12/04/2014,3 - 1,Aris,Doxa
+12/04/2014,1 - 1,Ethnikos Achna,Nea Salamis
+06/04/2014,1 - 1,Aris,Ethnikos Achna
+06/04/2014,1 - 0,Nea Salamis,AEK Larnaca 
+05/04/2014,1 - 1,AE Kouklion,Doxa
+30/03/2014,1 - 2,AE Kouklion,Aris
+30/03/2014,0 - 0,AEK Larnaca ,Ethnikos Achna
+29/03/2014,1 - 3,Doxa,Nea Salamis
+22/03/2014,3 - 1,Aris,AEK Larnaca 
+22/03/2014,3 - 2,Ethnikos Achna,Doxa
+22/03/2014,2 - 1,Nea Salamis,AE Kouklion
+19/03/2014,0 - 1,Anorthosis,Ermis
+19/03/2014,0 - 0,Omonia Nicosia,APOEL
+19/03/2014,0 - 4,AE Kouklion,AEL
+19/03/2014,0 - 2,Alki,Nea Salamis
+19/03/2014,3 - 2,Apollon,Aris
+19/03/2014,1 - 1,Ethnikos Achna,Enosis
+19/03/2014,0 - 1,Doxa,AEK Larnaca 
+16/03/2014,1 - 0,AEL,Doxa
+16/03/2014,0 - 3,Nea Salamis,Apollon
+15/03/2014,1 - 1,[N] Ermis,Omonia Nicosia
+15/03/2014,6 - 0,AEK Larnaca ,Alki
+15/03/2014,2 - 0,APOEL,Ethnikos Achna
+15/03/2014,2 - 0,Aris,Anorthosis
+15/03/2014,2 - 1,Enosis,AE Kouklion
+09/03/2014,0 - 3,Alki,AEL
+09/03/2014,3 - 0,Apollon,AEK Larnaca 
+09/03/2014,1 - 1,Anorthosis,Nea Salamis
+09/03/2014,1 - 6,AE Kouklion,APOEL
+09/03/2014,2 - 1,[N] Ermis,Aris
+09/03/2014,1 - 0,Omonia Nicosia,Ethnikos Achna
+09/03/2014,1 - 1,Doxa,Enosis
+24/02/2014,4 - 1,Nea Salamis,Ermis
+23/02/2014,1 - 1,Aris,Omonia Nicosia
+23/02/2014,5 - 0,Enosis,Alki
+23/02/2014,2 - 1,AEK Larnaca ,Anorthosis
+22/02/2014,5 - 1,APOEL,Doxa
+22/02/2014,1 - 2,Ethnikos Achna,AE Kouklion
+22/02/2014,0 - 1,AEL,Apollon
+16/02/2014,3 - 0,Apollon,Enosis
+16/02/2014,2 - 1,[N] Ermis,AEK Larnaca 
+16/02/2014,0 - 2,[N] Anorthosis,AEL
+15/02/2014,1 - 3,Alki,APOEL
+15/02/2014,2 - 1,Omonia Nicosia,AE Kouklion
+15/02/2014,0 - 1,Aris,Nea Salamis
+15/02/2014,1 - 1,Doxa,Ethnikos Achna
+10/02/2014,1 - 0,AEL,Ermis
+09/02/2014,4 - 0,Enosis,Anorthosis
+09/02/2014,2 - 1,APOEL,Apollon
+09/02/2014,2 - 1,Ethnikos Achna,Alki
+09/02/2014,0 - 1,Nea Salamis,Omonia Nicosia
+08/02/2014,2 - 2,AEK Larnaca ,Aris
+08/02/2014,0 - 0,AE Kouklion,Doxa
+06/02/2014,0 - 1,Apollon,Ethnikos Achna
+06/02/2014,3 - 2,[N] Ermis,Enosis
+05/02/2014,1 - 2,Anorthosis,APOEL
+05/02/2014,1 - 1,Aris,AEL
+05/02/2014,0 - 0,Omonia Nicosia,Doxa
+05/02/2014,0 - 3,Alki,AE Kouklion
+05/02/2014,2 - 0,Nea Salamis,AEK Larnaca 
+02/02/2014,2 - 0,AEL,Nea Salamis
+02/02/2014,0 - 0,AEK Larnaca ,Omonia Nicosia
+02/02/2014,5 - 1,Doxa,Alki
+01/02/2014,3 - 0,APOEL,Ermis
+01/02/2014,1 - 2,Ethnikos Achna,Anorthosis
+01/02/2014,1 - 3,AE Kouklion,Apollon
+01/02/2014,4 - 1,Enosis,Aris
+26/01/2014,2 - 1,Apollon,Doxa
+26/01/2014,1 - 0,[N] Ermis,Ethnikos Achna
+26/01/2014,1 - 2,AEK Larnaca ,AEL
+25/01/2014,1 - 3,Aris,APOEL
+25/01/2014,5 - 0,Omonia Nicosia,Alki
+25/01/2014,2 - 2,Anorthosis,AE Kouklion
+25/01/2014,1 - 1,Nea Salamis,Enosis
+20/01/2014,2 - 2,Ethnikos Achna,Aris
+19/01/2014,3 - 1,APOEL,Nea Salamis
+19/01/2014,0 - 1,AE Kouklion,Ermis
+19/01/2014,3 - 1,AEL,Omonia Nicosia
+18/01/2014,1 - 2,Alki,Apollon
+18/01/2014,0 - 1,Enosis,AEK Larnaca 
+18/01/2014,1 - 6,Doxa,Anorthosis
+13/01/2014,0 - 1,Nea Salamis,Ethnikos Achna
+12/01/2014,4 - 1,AEL,Enosis
+12/01/2014,3 - 1,Anorthosis,Alki
+12/01/2014,5 - 1,[N] Ermis,Doxa
+12/01/2014,2 - 4,Omonia Nicosia,Apollon
+11/01/2014,4 - 0,Aris,AE Kouklion
+11/01/2014,1 - 1,AEK Larnaca ,APOEL
+05/01/2014,0 - 3,Enosis,Omonia Nicosia
+05/01/2014,1 - 1,Doxa,Aris
+04/01/2014,1 - 2,Alki,Ermis
+04/01/2014,0 - 2,Ethnikos Achna,AEK Larnaca 
+04/01/2014,2 - 0,AE Kouklion,Nea Salamis
+04/01/2014,2 - 2,APOEL,AEL
+04/01/2014,1 - 1,Apollon,Anorthosis
+23/12/2013,1 - 0,Nea Salamis,Doxa
+22/12/2013,3 - 1,AEL,Ethnikos Achna
+22/12/2013,3 - 1,AEK Larnaca ,AE Kouklion
+22/12/2013,0 - 3,Enosis,APOEL
+21/12/2013,0 - 0,[N] Ermis,Apollon
+21/12/2013,0 - 0,Aris,Alki
+21/12/2013,3 - 2,Omonia Nicosia,Anorthosis
+16/12/2013,2 - 0,APOEL,Omonia Nicosia
+16/12/2013,0 - 1,Aris,Apollon
+15/12/2013,0 - 0,[N] Ermis,Anorthosis
+15/12/2013,0 - 0,Enosis,Ethnikos Achna
+14/12/2013,1 - 0,AEL,AE Kouklion
+14/12/2013,1 - 2,AEK Larnaca ,Doxa
+14/12/2013,2 - 1,Nea Salamis,Alki
+08/12/2013,2 - 2,AE Kouklion,Enosis
+08/12/2013,2 - 5,Alki,AEK Larnaca 
+08/12/2013,2 - 2,Omonia Nicosia,Ermis
+07/12/2013,0 - 2,Ethnikos Achna,APOEL
+07/12/2013,1 - 0,Anorthosis,Aris
+07/12/2013,1 - 2,Apollon,Nea Salamis
+07/12/2013,0 - 1,Doxa,AEL
+02/12/2013,0 - 2,AEK Larnaca ,Apollon
+02/12/2013,5 - 0,APOEL,AE Kouklion
+01/12/2013,1 - 2,Ethnikos Achna,Omonia Nicosia
+01/12/2013,3 - 0,AEL,Alki
+01/12/2013,1 - 0,Enosis,Doxa
+30/11/2013,0 - 3,Nea Salamis,Anorthosis
+30/11/2013,3 - 3,Aris,Ermis
+24/11/2013,1 - 0,[N] Ermis,Nea Salamis
+24/11/2013,1 - 1,Omonia Nicosia,Aris
+24/11/2013,0 - 2,AE Kouklion,Ethnikos Achna
+24/11/2013,1 - 1,Anorthosis,AEK Larnaca 
+23/11/2013,1 - 1,Doxa,APOEL
+23/11/2013,1 - 1,Alki,Enosis
+23/11/2013,0 - 1,Apollon,AEL
+11/11/2013,3 - 0,APOEL,Alki
+11/11/2013,0 - 1,Enosis,Apollon
+10/11/2013,0 - 4,AE Kouklion,Omonia Nicosia
+10/11/2013,0 - 0,AEK Larnaca ,Ermis
+09/11/2013,2 - 1,Nea Salamis,Aris
+09/11/2013,0 - 3,Ethnikos Achna,Doxa
+09/11/2013,3 - 1,AEL,Anorthosis
+03/11/2013,0 - 3,Aris,AEK Larnaca 
+03/11/2013,3 - 0,Omonia Nicosia,Nea Salamis
+03/11/2013,3 - 2,Anorthosis,Enosis
+02/11/2013,1 - 1,[N] Ermis,AEL
+02/11/2013,1 - 6,Alki,Ethnikos Achna
+02/11/2013,3 - 1,Doxa,AE Kouklion
+02/11/2013,2 - 0,Apollon,APOEL
+28/10/2013,1 - 0,APOEL,Anorthosis
+28/10/2013,1 - 3,Ethnikos Achna,Apollon
+27/10/2013,2 - 1,AEL,Aris
+27/10/2013,0 - 2,Enosis,Ermis
+26/10/2013,0 - 6,Doxa,Omonia Nicosia
+26/10/2013,0 - 1,AEK Larnaca ,Nea Salamis
+26/10/2013,2 - 1,AE Kouklion,Alki
+20/10/2013,2 - 0,Nea Salamis,AEL
+20/10/2013,1 - 0,Omonia Nicosia,AEK Larnaca 
+20/10/2013,2 - 1,Anorthosis,Ethnikos Achna
+20/10/2013,1 - 1,Aris,Enosis
+19/10/2013,4 - 0,Apollon,AE Kouklion
+19/10/2013,2 - 0,[N] Ermis,APOEL
+19/10/2013,0 - 4,Alki,Doxa
+07/10/2013,1 - 0,APOEL,Aris
+07/10/2013,0 - 2,Doxa,Apollon
+06/10/2013,0 - 1,Enosis,Nea Salamis
+06/10/2013,1 - 5,AE Kouklion,Anorthosis
+06/10/2013,0 - 1,Alki,Omonia Nicosia
+05/10/2013,1 - 1,AEL,AEK Larnaca 
+05/10/2013,1 - 2,Ethnikos Achna,Ermis
+30/09/2013,5 - 2,[N] Ermis,AE Kouklion
+29/09/2013,2 - 0,AEK Larnaca ,Enosis
+29/09/2013,0 - 0,Omonia Nicosia,AEL
+29/09/2013,1 - 2,Anorthosis,Doxa
+29/09/2013,1 - 1,Aris,Ethnikos Achna
+28/09/2013,2 - 1,Apollon,Alki
+28/09/2013,0 - 1,Nea Salamis,APOEL
+23/09/2013,1 - 1,APOEL,AEK Larnaca 
+23/09/2013,1 - 0,Apollon,Omonia Nicosia
+22/09/2013,2 - 0,Ethnikos Achna,Nea Salamis
+22/09/2013,2 - 0,AE Kouklion,Aris
+22/09/2013,0 - 4,Alki,Anorthosis
+21/09/2013,1 - 3,Enosis,AEL
+21/09/2013,2 - 4,Doxa,Ermis
+16/09/2013,3 - 1,[N] Ermis,Alki
+15/09/2013,2 - 2,Aris,Doxa
+15/09/2013,2 - 1,AEK Larnaca ,Ethnikos Achna
+15/09/2013,3 - 1,Anorthosis,Apollon
+14/09/2013,3 - 1,Nea Salamis,AE Kouklion
+14/09/2013,4 - 0,Omonia Nicosia,Enosis
+14/09/2013,2 - 1,AEL,APOEL
+02/09/2013,3 - 0,APOEL,Enosis
+02/09/2013,1 - 0,Apollon,Ermis
+01/09/2013,0 - 2,Ethnikos Achna,AEL
+01/09/2013,0 - 1,Alki,Aris
+01/09/2013,2 - 0,Doxa,Nea Salamis
+31/08/2013,2 - 1,AE Kouklion,AEK Larnaca 
+31/08/2013,3 - 1,Anorthosis,Omonia Nicosia

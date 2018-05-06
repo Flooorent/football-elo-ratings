@@ -1,0 +1,302 @@
+date,score,home_team,away_team
+17/05/2011,3 - 4,Anderlecht,Lokeren
+17/05/2011,3 - 0,Club Brugge,Gent
+17/05/2011,1 - 1,Genk,Standard Liège
+14/05/2011,2 - 3,Gent,Genk
+14/05/2011,0 - 1,Lokeren,Club Brugge
+14/05/2011,2 - 1,Standard Liège,Anderlecht
+11/05/2011,4 - 1,Anderlecht,Gent
+11/05/2011,0 - 1,Lokeren,Standard Liège
+10/05/2011,3 - 0,Club Brugge,Genk
+07/05/2011,1 - 0,Standard Liège,Club Brugge
+07/05/2011,2 - 2,Gent,Lokeren
+06/05/2011,1 - 0,Genk,Anderlecht
+01/05/2011,0 - 2,Lokeren,Genk
+01/05/2011,0 - 0,Anderlecht,Club Brugge
+29/04/2011,1 - 0,Standard Liège,Gent
+25/04/2011,1 - 1,Club Brugge,Standard Liège
+24/04/2011,1 - 2,Lokeren,Anderlecht
+23/04/2011,3 - 0,Genk,Gent
+21/04/2011,3 - 0,Standard Liège,Lokeren
+20/04/2011,3 - 1,Genk,Club Brugge
+20/04/2011,1 - 1,Gent,Anderlecht
+17/04/2011,0 - 0,Club Brugge,Lokeren
+16/04/2011,1 - 3,Gent,Standard Liège
+15/04/2011,2 - 0,Anderlecht,Genk
+10/04/2011,2 - 1,Standard Liège,Genk
+10/04/2011,3 - 0,Club Brugge,Anderlecht
+09/04/2011,1 - 1,Lokeren,Gent
+03/04/2011,2 - 1,Genk,Lokeren
+03/04/2011,1 - 3,Anderlecht,Standard Liège
+02/04/2011,1 - 1,Gent,Club Brugge
+16/05/2011,2 - 2,Cercle Brugge,Westerlo
+13/05/2011,3 - 0,Westerlo,Cercle Brugge
+07/05/2011,1 - 0,Cercle Brugge,Sint-Truiden
+07/05/2011,4 - 3,Mechelen,Lierse
+30/04/2011,3 - 0,Lierse,Cercle Brugge
+30/04/2011,2 - 1,Sint-Truiden,Mechelen
+23/04/2011,3 - 1,Cercle Brugge,Mechelen
+23/04/2011,1 - 1,Lierse,Sint-Truiden
+16/04/2011,0 - 0,Mechelen,Cercle Brugge
+16/04/2011,1 - 2,Sint-Truiden,Lierse
+09/04/2011,1 - 1,Sint-Truiden,Cercle Brugge
+08/04/2011,1 - 2,Lierse,Mechelen
+02/04/2011,0 - 0,Cercle Brugge,Lierse
+02/04/2011,1 - 1,Mechelen,Sint-Truiden
+07/05/2011,0 - 0,Beerschot,Kortrijk
+07/05/2011,7 - 1,Westerlo,Zulte-Waregem
+30/04/2011,1 - 1,Kortrijk,Westerlo
+30/04/2011,1 - 0,Zulte-Waregem,Beerschot
+23/04/2011,1 - 0,Westerlo,Beerschot
+22/04/2011,2 - 0,Zulte-Waregem,Kortrijk
+16/04/2011,3 - 3,Beerschot,Westerlo
+16/04/2011,0 - 1,Kortrijk,Zulte-Waregem
+10/04/2011,1 - 1,Zulte-Waregem,Westerlo
+09/04/2011,1 - 1,Kortrijk,Beerschot
+02/04/2011,2 - 0,Beerschot,Zulte-Waregem
+02/04/2011,3 - 0,Westerlo,Kortrijk
+30/04/2011,C - C,AS Eupen,Sporting Charleroi
+23/04/2011,2 - 2,Sporting Charleroi,AS Eupen
+16/04/2011,4 - 2,AS Eupen,Sporting Charleroi
+09/04/2011,2 - 0,Sporting Charleroi,AS Eupen
+02/04/2011,3 - 2,AS Eupen,Sporting Charleroi
+23/03/2011,0 - 3,Sporting Charleroi,Cercle Brugge
+20/03/2011,3 - 2,Anderlecht,Gent
+20/03/2011,0 - 1,Cercle Brugge,Genk
+20/03/2011,0 - 0,Lierse,Club Brugge
+20/03/2011,2 - 0,Mechelen,AS Eupen
+20/03/2011,0 - 2,Sint-Truiden,Lokeren
+20/03/2011,1 - 0,Standard Liège,Beerschot
+20/03/2011,2 - 2,Westerlo,Sporting Charleroi
+19/03/2011,2 - 2,Kortrijk,Zulte-Waregem
+12/03/2011,1 - 1,AS Eupen,Anderlecht
+12/03/2011,1 - 1,Beerschot,Mechelen
+12/03/2011,4 - 1,Club Brugge,Kortrijk
+12/03/2011,0 - 2,Genk,Westerlo
+12/03/2011,1 - 0,Gent,Cercle Brugge
+12/03/2011,1 - 1,Lokeren,Lierse
+12/03/2011,0 - 2,Sporting Charleroi,Standard Liège
+12/03/2011,1 - 2,Zulte-Waregem,Sint-Truiden
+06/03/2011,1 - 1,Lierse,AS Eupen
+06/03/2011,2 - 2,Standard Liège,Club Brugge
+05/03/2011,0 - 1,Cercle Brugge,Westerlo
+05/03/2011,3 - 0,Kortrijk,Sporting Charleroi
+05/03/2011,2 - 1,Lokeren,Zulte-Waregem
+05/03/2011,1 - 1,Mechelen,Gent
+05/03/2011,1 - 0,Sint-Truiden,Beerschot
+04/03/2011,1 - 1,Anderlecht,Genk
+27/02/2011,0 - 3,Sint-Truiden,Cercle Brugge
+26/02/2011,3 - 0,Standard Liège,Mechelen
+23/02/2011,0 - 1,Sint-Truiden,Mechelen
+20/02/2011,2 - 0,Westerlo,Anderlecht
+20/02/2011,4 - 1,Gent,Standard Liège
+19/02/2011,0 - 0,AS Eupen,Cercle Brugge
+19/02/2011,3 - 1,Beerschot,Kortrijk
+19/02/2011,2 - 1,Club Brugge,Lokeren
+19/02/2011,1 - 0,Genk,Mechelen
+19/02/2011,1 - 0,Sporting Charleroi,Sint-Truiden
+19/02/2011,1 - 1,Zulte-Waregem,Lierse
+16/02/2011,2 - 2,Beerschot,Gent
+16/02/2011,1 - 2,Westerlo,Lokeren
+15/02/2011,2 - 1,Lierse,Mechelen
+13/02/2011,0 - 1,Kortrijk,Gent
+13/02/2011,0 - 2,Standard Liège,Genk
+12/02/2011,1 - 0,Anderlecht,Cercle Brugge
+12/02/2011,2 - 0,Club Brugge,Zulte-Waregem
+12/02/2011,2 - 2,Lierse,Beerschot
+12/02/2011,1 - 1,Lokeren,Sporting Charleroi
+12/02/2011,1 - 1,Sint-Truiden,AS Eupen
+12/02/2011,3 - 1,Mechelen,Westerlo
+06/02/2011,0 - 1,AS Eupen,Standard Liège
+06/02/2011,1 - 1,Beerschot,Lokeren
+06/02/2011,1 - 0,Genk,Club Brugge
+05/02/2011,2 - 0,Anderlecht,Sint-Truiden
+05/02/2011,0 - 1,Cercle Brugge,Mechelen
+05/02/2011,2 - 0,Sporting Charleroi,Zulte-Waregem
+05/02/2011,2 - 1,Westerlo,Kortrijk
+04/02/2011,4 - 1,Gent,Lierse
+02/02/2011,2 - 1,Lokeren,Cercle Brugge
+02/02/2011,0 - 2,AS Eupen,Zulte-Waregem
+02/02/2011,1 - 1,Genk,Sint-Truiden
+02/02/2011,1 - 0,Mechelen,Kortrijk
+02/02/2011,2 - 0,Sporting Charleroi,Beerschot
+30/01/2011,1 - 1,Sint-Truiden,Gent
+30/01/2011,0 - 0,Mechelen,Anderlecht
+29/01/2011,1 - 0,Club Brugge,Beerschot
+29/01/2011,2 - 1,Kortrijk,Cercle Brugge
+29/01/2011,1 - 0,Lierse,Sporting Charleroi
+29/01/2011,0 - 2,Lokeren,AS Eupen
+29/01/2011,2 - 1,Standard Liège,Westerlo
+28/01/2011,0 - 1,Zulte-Waregem,Genk
+23/01/2011,2 - 1,Gent,Lokeren
+23/01/2011,2 - 0,Anderlecht,Standard Liège
+22/01/2011,3 - 0,Beerschot,Zulte-Waregem
+22/01/2011,3 - 0,Cercle Brugge,Lierse
+22/01/2011,3 - 2,Genk,Kortrijk
+22/01/2011,0 - 0,Sporting Charleroi,Mechelen
+22/01/2011,3 - 0,Westerlo,Sint-Truiden
+21/01/2011,1 - 4,AS Eupen,Club Brugge
+18/01/2011,0 - 1,AS Eupen,Mechelen
+18/01/2011,0 - 0,Kortrijk,Lokeren
+30/12/2010,2 - 2,Lokeren,Genk
+30/12/2010,2 - 2,Zulte-Waregem,Gent
+29/12/2010,0 - 0,Beerschot,AS Eupen
+29/12/2010,5 - 0,Club Brugge,Sporting Charleroi
+29/12/2010,2 - 1,Lierse,Westerlo
+29/12/2010,0 - 2,Kortrijk,Anderlecht
+26/12/2010,6 - 0,Anderlecht,Lierse
+26/12/2010,0 - 2,Gent,Club Brugge
+26/12/2010,1 - 0,Cercle Brugge,Standard Liège
+19/12/2010,0 - 2,Club Brugge,Anderlecht
+18/12/2010,1 - 0,AS Eupen,Sporting Charleroi
+18/12/2010,1 - 1,Lierse,Genk
+18/12/2010,2 - 0,Zulte-Waregem,Westerlo
+17/12/2010,2 - 1,Kortrijk,Standard Liège
+12/12/2010,3 - 1,Kortrijk,Lierse
+12/12/2010,0 - 0,Anderlecht,Lokeren
+11/12/2010,1 - 3,Cercle Brugge,Zulte-Waregem
+11/12/2010,5 - 1,Genk,AS Eupen
+11/12/2010,2 - 1,Gent,Sporting Charleroi
+11/12/2010,1 - 0,Standard Liège,Sint-Truiden
+11/12/2010,1 - 1,Westerlo,Beerschot
+10/12/2010,0 - 1,Mechelen,Club Brugge
+05/12/2010,0 - 1,Beerschot,Genk
+05/12/2010,4 - 3,Club Brugge,Westerlo
+05/12/2010,1 - 2,Zulte-Waregem,Anderlecht
+04/12/2010,0 - 3,AS Eupen,Gent
+04/12/2010,1 - 0,Sint-Truiden,Kortrijk
+03/12/2010,2 - 1,Lokeren,Standard Liège
+28/11/2010,0 - 0,Mechelen,Zulte-Waregem
+28/11/2010,2 - 1,Sint-Truiden,Club Brugge
+27/11/2010,4 - 1,Anderlecht,Sporting Charleroi
+27/11/2010,1 - 1,Cercle Brugge,Beerschot
+27/11/2010,7 - 0,Standard Liège,Lierse
+27/11/2010,1 - 1,Westerlo,AS Eupen
+26/11/2010,1 - 2,Genk,Gent
+21/11/2010,0 - 1,Club Brugge,Cercle Brugge
+21/11/2010,2 - 0,Zulte-Waregem,Standard Liège
+20/11/2010,3 - 1,AS Eupen,Kortrijk
+20/11/2010,4 - 4,Gent,Westerlo
+20/11/2010,1 - 2,Lierse,Sint-Truiden
+20/11/2010,3 - 1,Lokeren,Mechelen
+20/11/2010,1 - 3,Sporting Charleroi,Genk
+20/11/2010,0 - 1,Beerschot,Anderlecht
+14/11/2010,1 - 1,Zulte-Waregem,Kortrijk
+14/11/2010,1 - 2,Gent,Anderlecht
+13/11/2010,0 - 1,Beerschot,Standard Liège
+13/11/2010,2 - 0,Club Brugge,Lierse
+13/11/2010,3 - 0,Genk,Cercle Brugge
+13/11/2010,3 - 0,Lokeren,Sint-Truiden
+13/11/2010,0 - 1,Sporting Charleroi,Westerlo
+07/11/2010,0 - 1,Cercle Brugge,Gent
+07/11/2010,2 - 2,Anderlecht,Club Brugge
+06/11/2010,4 - 0,Kortrijk,Beerschot
+06/11/2010,2 - 2,Lierse,Lokeren
+06/11/2010,2 - 0,Mechelen,Sporting Charleroi
+06/11/2010,0 - 3,Sint-Truiden,Zulte-Waregem
+06/11/2010,1 - 3,Standard Liège,AS Eupen
+05/11/2010,1 - 1,Westerlo,Genk
+31/10/2010,1 - 2,Genk,Anderlecht
+31/10/2010,2 - 2,Club Brugge,Standard Liège
+30/10/2010,2 - 2,AS Eupen,Lierse
+30/10/2010,0 - 0,Beerschot,Sint-Truiden
+30/10/2010,3 - 1,Gent,Mechelen
+30/10/2010,2 - 1,Westerlo,Cercle Brugge
+30/10/2010,1 - 1,Zulte-Waregem,Lokeren
+29/10/2010,0 - 0,Sporting Charleroi,Kortrijk
+24/10/2010,2 - 0,Anderlecht,Westerlo
+24/10/2010,1 - 0,Lokeren,Club Brugge
+24/10/2010,2 - 1,Standard Liège,Gent
+23/10/2010,2 - 1,Cercle Brugge,AS Eupen
+23/10/2010,0 - 0,Lierse,Zulte-Waregem
+23/10/2010,5 - 1,Mechelen,Beerschot
+23/10/2010,3 - 2,Sint-Truiden,Sporting Charleroi
+22/10/2010,1 - 0,Kortrijk,Genk
+17/10/2010,1 - 0,Cercle Brugge,Anderlecht
+17/10/2010,4 - 2,Genk,Standard Liège
+16/10/2010,6 - 0,AS Eupen,Sint-Truiden
+16/10/2010,1 - 1,Beerschot,Lierse
+16/10/2010,2 - 0,Gent,Kortrijk
+16/10/2010,1 - 2,Sporting Charleroi,Lokeren
+16/10/2010,1 - 1,Westerlo,Mechelen
+15/10/2010,2 - 3,Zulte-Waregem,Club Brugge
+03/10/2010,5 - 1,Standard Liège,Anderlecht
+03/10/2010,3 - 2,Club Brugge,Gent
+02/10/2010,3 - 1,Kortrijk,AS Eupen
+02/10/2010,0 - 1,Lierse,Cercle Brugge
+02/10/2010,1 - 0,Lokeren,Beerschot
+02/10/2010,1 - 2,Sint-Truiden,Westerlo
+02/10/2010,1 - 1,Zulte-Waregem,Sporting Charleroi
+01/10/2010,2 - 2,Mechelen,Genk
+26/09/2010,2 - 1,Beerschot,Club Brugge
+26/09/2010,5 - 0,Anderlecht,Mechelen
+25/09/2010,0 - 1,[N] AS Eupen,Lokeren
+25/09/2010,2 - 1,Cercle Brugge,Kortrijk
+25/09/2010,3 - 0,Genk,Zulte-Waregem
+25/09/2010,2 - 0,Gent,Sint-Truiden
+25/09/2010,0 - 1,Sporting Charleroi,Lierse
+25/09/2010,1 - 2,Westerlo,Standard Liège
+22/09/2010,4 - 0,Club Brugge,AS Eupen
+22/09/2010,1 - 2,Kortrijk,Westerlo
+22/09/2010,1 - 1,Lierse,Anderlecht
+22/09/2010,3 - 2,Lokeren,Gent
+22/09/2010,2 - 2,Mechelen,Cercle Brugge
+22/09/2010,2 - 1,Standard Liège,Sporting Charleroi
+22/09/2010,4 - 3,Zulte-Waregem,Beerschot
+21/09/2010,0 - 2,Sint-Truiden,Genk
+19/09/2010,3 - 0,Anderlecht,Kortrijk
+19/09/2010,5 - 3,Gent,Zulte-Waregem
+19/09/2010,0 - 5,Sporting Charleroi,Club Brugge
+18/09/2010,0 - 1,[N] AS Eupen,Beerschot
+18/09/2010,4 - 2,Cercle Brugge,Sint-Truiden
+18/09/2010,3 - 1,Genk,Lokeren
+18/09/2010,2 - 0,Westerlo,Lierse
+17/09/2010,1 - 0,Mechelen,Standard Liège
+12/09/2010,3 - 1,Lokeren,Westerlo
+12/09/2010,2 - 2,Club Brugge,Genk
+11/09/2010,1 - 0,Beerschot,Sporting Charleroi
+11/09/2010,1 - 0,Kortrijk,Mechelen
+11/09/2010,2 - 2,Lierse,Gent
+11/09/2010,2 - 0,Standard Liège,Cercle Brugge
+11/09/2010,0 - 0,Zulte-Waregem,AS Eupen
+10/09/2010,0 - 2,Sint-Truiden,Anderlecht
+29/08/2010,4 - 1,Genk,Lierse
+29/08/2010,1 - 0,Gent,Beerschot
+29/08/2010,1 - 2,Westerlo,Club Brugge
+28/08/2010,0 - 0,Anderlecht,Zulte-Waregem
+28/08/2010,1 - 1,Cercle Brugge,Lokeren
+28/08/2010,0 - 0,Mechelen,Sint-Truiden
+28/08/2010,2 - 0,Sporting Charleroi,AS Eupen
+28/08/2010,1 - 0,Standard Liège,Kortrijk
+22/08/2010,1 - 4,AS Eupen,Genk
+22/08/2010,1 - 2,Club Brugge,Mechelen
+22/08/2010,1 - 3,Sporting Charleroi,Gent
+21/08/2010,0 - 0,Beerschot,Westerlo
+21/08/2010,1 - 2,Lierse,Kortrijk
+21/08/2010,0 - 3,Lokeren,Anderlecht
+21/08/2010,4 - 0,Zulte-Waregem,Cercle Brugge
+20/08/2010,1 - 0,Sint-Truiden,Standard Liège
+15/08/2010,3 - 1,Cercle Brugge,Club Brugge
+15/08/2010,5 - 0,Genk,Sporting Charleroi
+14/08/2010,4 - 0,Anderlecht,Beerschot
+14/08/2010,2 - 1,Gent,AS Eupen
+14/08/2010,2 - 0,Kortrijk,Sint-Truiden
+14/08/2010,1 - 0,Mechelen,Lierse
+14/08/2010,1 - 1,Westerlo,Zulte-Waregem
+14/08/2010,3 - 3,Standard Liège,Lokeren
+08/08/2010,0 - 0,Beerschot,Cercle Brugge
+08/08/2010,0 - 4,Gent,Genk
+07/08/2010,0 - 1,AS Eupen,Westerlo
+07/08/2010,4 - 1,Club Brugge,Sint-Truiden
+07/08/2010,1 - 1,Lokeren,Kortrijk
+07/08/2010,0 - 0,Sporting Charleroi,Anderlecht
+07/08/2010,1 - 2,Zulte-Waregem,Mechelen
+06/08/2010,1 - 4,Lierse,Standard Liège
+01/08/2010,2 - 1,Genk,Beerschot
+01/08/2010,1 - 1,Cercle Brugge,Sporting Charleroi
+31/07/2010,4 - 1,Anderlecht,AS Eupen
+31/07/2010,1 - 0,Kortrijk,Club Brugge
+31/07/2010,2 - 0,Mechelen,Lokeren
+31/07/2010,1 - 0,Sint-Truiden,Lierse
+31/07/2010,0 - 1,Westerlo,Gent
+30/07/2010,1 - 1,Standard Liège,Zulte-Waregem

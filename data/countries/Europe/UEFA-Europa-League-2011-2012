@@ -1,0 +1,482 @@
+date,score,home_team,away_team
+09/05/2012,3 - 0,[N] Atlético Madrid,Athletic Club
+26/04/2012,3 - 1,Athletic Club,Sporting CP
+26/04/2012,0 - 1,Valencia,Atlético Madrid
+19/04/2012,4 - 2,Atlético Madrid,Valencia
+19/04/2012,2 - 1,Sporting CP,Athletic Club
+05/04/2012,2 - 2,Athletic Club,Schalke 04
+05/04/2012,1 - 2,Hannover 96,Atlético Madrid
+05/04/2012,1 - 1,Metalist,Sporting CP
+05/04/2012,4 - 0,Valencia,AZ
+29/03/2012,2 - 1,Atlético Madrid,Hannover 96
+29/03/2012,2 - 1,AZ,Valencia
+29/03/2012,2 - 4,Schalke 04,Athletic Club
+29/03/2012,2 - 1,Sporting CP,Metalist
+15/03/2012,0 - 3,Beşiktaş,Atlético Madrid
+15/03/2012,3 - 2,Manchester City,Sporting CP
+15/03/2012,1 - 2,Olympiakos Piraeus,Metalist
+15/03/2012,4 - 1,Schalke 04,Twente
+15/03/2012,2 - 1,Athletic Club,Manchester United
+15/03/2012,4 - 0,Hannover 96,Standard Liège
+15/03/2012,1 - 1,PSV,Valencia
+15/03/2012,2 - 1,Udinese,AZ
+08/03/2012,2 - 0,AZ,Udinese
+08/03/2012,2 - 3,Manchester United,Athletic Club
+08/03/2012,2 - 2,Standard Liège,Hannover 96
+08/03/2012,4 - 2,Valencia,PSV
+08/03/2012,3 - 1,Atlético Madrid,Beşiktaş
+08/03/2012,0 - 1,Metalist,Olympiakos Piraeus
+08/03/2012,1 - 0,Sporting CP,Manchester City
+08/03/2012,1 - 0,Twente,Schalke 04
+23/02/2012,0 - 1,Anderlecht,AZ
+23/02/2012,1 - 0,Atlético Madrid,Lazio
+23/02/2012,0 - 1,Beşiktaş,Sporting Braga
+23/02/2012,1 - 2,Manchester United,Ajax
+23/02/2012,4 - 1,Metalist,Salzburg
+23/02/2012,1 - 0,Olympiakos Piraeus,Rubin Kazan'
+23/02/2012,1 - 1, [ET] Schalke 04,Viktoria Plzeň
+23/02/2012,1 - 0,Sporting CP,Legia Warszawa
+23/02/2012,1 - 0,Athletic Club,Lokomotiv Moskva
+23/02/2012,0 - 1,Club Brugge,Hannover 96
+23/02/2012,0 - 3,PAOK,Udinese
+23/02/2012,4 - 1,PSV,Trabzonspor
+23/02/2012,0 - 0,Standard Liège,Wisła Kraków
+23/02/2012,1 - 0,Twente,FCSB
+23/02/2012,1 - 0,Valencia,Stoke City
+22/02/2012,4 - 0,Manchester City,Porto
+16/02/2012,0 - 1,FCSB,Twente
+16/02/2012,2 - 1,Hannover 96,Club Brugge
+16/02/2012,1 - 2,Porto,Manchester City
+16/02/2012,0 - 1,Stoke City,Valencia
+16/02/2012,1 - 2,Trabzonspor,PSV
+16/02/2012,0 - 0,Udinese,PAOK
+16/02/2012,1 - 1,Wisła Kraków,Standard Liège
+16/02/2012,0 - 2,Ajax,Manchester United
+16/02/2012,1 - 0,AZ,Anderlecht
+16/02/2012,1 - 3,Lazio,Atlético Madrid
+16/02/2012,2 - 2,Legia Warszawa,Sporting CP
+16/02/2012,0 - 4,Salzburg,Metalist
+16/02/2012,1 - 1,Viktoria Plzeň,Schalke 04
+16/02/2012,2 - 1,[N] Lokomotiv Moskva,Athletic Club
+14/02/2012,0 - 2,Sporting Braga,Beşiktaş
+14/02/2012,0 - 1,[N] Rubin Kazan',Olympiakos Piraeus
+15/12/2011,1 - 1,PAOK,Rubin Kazan'
+15/12/2011,0 - 4,Shamrock Rovers,Tottenham Hotspur
+30/11/2011,1 - 2,Tottenham Hotspur,PAOK
+30/11/2011,4 - 1,Rubin Kazan',Shamrock Rovers
+03/11/2011,1 - 3,Shamrock Rovers,PAOK
+03/11/2011,1 - 0,Rubin Kazan',Tottenham Hotspur
+20/10/2011,2 - 1,PAOK,Shamrock Rovers
+20/10/2011,1 - 0,Tottenham Hotspur,Rubin Kazan'
+29/09/2011,3 - 1,Tottenham Hotspur,Shamrock Rovers
+29/09/2011,2 - 2,Rubin Kazan',PAOK
+15/09/2011,0 - 0,PAOK,Tottenham Hotspur
+15/09/2011,0 - 3,Shamrock Rovers,Rubin Kazan'
+15/12/2011,3 - 1,Hannover 96,Vorskla
+15/12/2011,0 - 1,København,Standard Liège
+30/11/2011,2 - 0,Standard Liège,Hannover 96
+30/11/2011,1 - 1,Vorskla,København
+03/11/2011,1 - 2,København,Hannover 96
+03/11/2011,1 - 3,Vorskla,Standard Liège
+20/10/2011,2 - 2,Hannover 96,København
+20/10/2011,0 - 0,Standard Liège,Vorskla
+29/09/2011,3 - 0,Standard Liège,København
+29/09/2011,1 - 2,Vorskla,Hannover 96
+15/09/2011,0 - 0,Hannover 96,Standard Liège
+15/09/2011,1 - 0,København,Vorskla
+15/12/2011,2 - 0,Hapoel Tel Aviv,Legia Warszawa
+15/12/2011,2 - 1,PSV,Rapid Bucureşti
+30/11/2011,0 - 3,Legia Warszawa,PSV
+30/11/2011,1 - 3,Rapid Bucureşti,Hapoel Tel Aviv
+03/11/2011,3 - 1,Legia Warszawa,Rapid Bucureşti
+03/11/2011,3 - 3,PSV,Hapoel Tel Aviv
+20/10/2011,0 - 1,Hapoel Tel Aviv,PSV
+20/10/2011,0 - 1,Rapid Bucureşti,Legia Warszawa
+29/09/2011,3 - 2,Legia Warszawa,Hapoel Tel Aviv
+29/09/2011,1 - 3,Rapid Bucureşti,PSV
+15/09/2011,0 - 1,Hapoel Tel Aviv,Rapid Bucureşti
+15/09/2011,1 - 0,PSV,Legia Warszawa
+14/12/2011,2 - 0,Lazio,Sporting CP
+14/12/2011,2 - 0,Zürich,Vaslui
+01/12/2011,2 - 0,Sporting CP,Zürich
+01/12/2011,0 - 0,Vaslui,Lazio
+03/11/2011,1 - 0,Lazio,Zürich
+03/11/2011,1 - 0,Vaslui,Sporting CP
+20/10/2011,2 - 0,Sporting CP,Vaslui
+20/10/2011,1 - 1,Zürich,Lazio
+29/09/2011,2 - 1,Sporting CP,Lazio
+29/09/2011,2 - 2,Vaslui,Zürich
+15/09/2011,2 - 2,Lazio,Vaslui
+15/09/2011,0 - 2,Zürich,Sporting CP
+14/12/2011,3 - 1,Beşiktaş,Stoke City
+14/12/2011,3 - 3,Dynamo Kyiv,Maccabi Tel Aviv
+01/12/2011,2 - 3,Maccabi Tel Aviv,Beşiktaş
+01/12/2011,1 - 1,Stoke City,Dynamo Kyiv
+03/11/2011,1 - 0,Beşiktaş,Dynamo Kyiv
+03/11/2011,1 - 2,Maccabi Tel Aviv,Stoke City
+20/10/2011,1 - 0,Dynamo Kyiv,Beşiktaş
+20/10/2011,3 - 0,Stoke City,Maccabi Tel Aviv
+29/09/2011,1 - 1,Maccabi Tel Aviv,Dynamo Kyiv
+29/09/2011,2 - 1,Stoke City,Beşiktaş
+15/09/2011,5 - 1,Beşiktaş,Maccabi Tel Aviv
+15/09/2011,1 - 1,Dynamo Kyiv,Stoke City
+14/12/2011,4 - 2,PSG,Athletic Club
+14/12/2011,2 - 3,Slovan Bratislava,Salzburg
+01/12/2011,2 - 1,Athletic Club,Slovan Bratislava
+01/12/2011,2 - 0,Salzburg,PSG
+03/11/2011,1 - 0,PSG,Slovan Bratislava
+03/11/2011,0 - 1,Salzburg,Athletic Club
+20/10/2011,2 - 2,Athletic Club,Salzburg
+20/10/2011,0 - 0,Slovan Bratislava,PSG
+29/09/2011,2 - 0,Athletic Club,PSG
+29/09/2011,3 - 0,Salzburg,Slovan Bratislava
+15/09/2011,3 - 1,PSG,Salzburg
+15/09/2011,1 - 2,Slovan Bratislava,Athletic Club
+15/12/2011,2 - 0,Austria Wien,Malmö FF
+15/12/2011,1 - 1,AZ,Metalist
+30/11/2011,0 - 0,Malmö FF,AZ
+30/11/2011,4 - 1,Metalist,Austria Wien
+03/11/2011,2 - 2,Austria Wien,AZ
+03/11/2011,3 - 1,Metalist,Malmö FF
+20/10/2011,2 - 2,AZ,Austria Wien
+20/10/2011,1 - 4,Malmö FF,Metalist
+29/09/2011,1 - 2,Malmö FF,Austria Wien
+29/09/2011,1 - 1,Metalist,AZ
+15/09/2011,1 - 2,Austria Wien,Metalist
+15/09/2011,4 - 1,AZ,Malmö FF
+15/12/2011,1 - 0,Birmingham City,Maribor
+15/12/2011,1 - 1,Club Brugge,Sporting Braga
+30/11/2011,3 - 4,Maribor,Club Brugge
+30/11/2011,1 - 0,Sporting Braga,Birmingham City
+03/11/2011,2 - 2,Birmingham City,Club Brugge
+03/11/2011,5 - 1,Sporting Braga,Maribor
+20/10/2011,1 - 2,Club Brugge,Birmingham City
+20/10/2011,1 - 1,Maribor,Sporting Braga
+29/09/2011,1 - 2,Maribor,Birmingham City
+29/09/2011,1 - 2,Sporting Braga,Club Brugge
+15/09/2011,1 - 3,Birmingham City,Sporting Braga
+15/09/2011,2 - 0,Club Brugge,Maribor
+15/12/2011,3 - 1,Atlético Madrid,Rennes
+15/12/2011,1 - 1,Udinese,Celtic
+30/11/2011,0 - 1,Celtic,Atlético Madrid
+30/11/2011,0 - 0,Rennes,Udinese
+03/11/2011,4 - 0,Atlético Madrid,Udinese
+03/11/2011,3 - 1,Celtic,Rennes
+20/10/2011,1 - 1,Rennes,Celtic
+20/10/2011,2 - 0,Udinese,Atlético Madrid
+29/09/2011,1 - 1,Celtic,Udinese
+29/09/2011,1 - 1,Rennes,Atlético Madrid
+15/09/2011,2 - 0,Atlético Madrid,Celtic
+15/09/2011,2 - 1,Udinese,Rennes
+14/12/2011,3 - 1,FCSB,AEK Larnaca 
+14/12/2011,0 - 3,Maccabi Haifa,Schalke 04
+01/12/2011,2 - 1,[N] AEK Larnaca ,Maccabi Haifa
+01/12/2011,2 - 1,Schalke 04,FCSB
+03/11/2011,4 - 2,FCSB,Maccabi Haifa
+03/11/2011,0 - 0,Schalke 04,AEK Larnaca 
+20/10/2011,0 - 5,[N] AEK Larnaca ,Schalke 04
+20/10/2011,5 - 0,Maccabi Haifa,FCSB
+29/09/2011,1 - 1,[N] AEK Larnaca ,FCSB
+29/09/2011,3 - 1,Schalke 04,Maccabi Haifa
+15/09/2011,0 - 0,[N] FCSB,Schalke 04
+15/09/2011,1 - 0,Maccabi Haifa,AEK Larnaca 
+14/12/2011,2 - 2,Fulham,OB
+14/12/2011,2 - 1,Wisła Kraków,Twente
+01/12/2011,1 - 2,OB,Wisła Kraków
+01/12/2011,1 - 0,Twente,Fulham
+03/11/2011,4 - 1,Fulham,Wisła Kraków
+03/11/2011,3 - 2,Twente,OB
+20/10/2011,1 - 4,OB,Twente
+20/10/2011,1 - 0,Wisła Kraków,Fulham
+29/09/2011,0 - 2,OB,Fulham
+29/09/2011,4 - 1,Twente,Wisła Kraków
+15/09/2011,1 - 1,Fulham,Twente
+15/09/2011,1 - 3,Wisła Kraków,OB
+14/12/2011,5 - 3,Anderlecht,Lokomotiv Moskva
+14/12/2011,1 - 3,Sturm Graz,AEK Athens
+01/12/2011,1 - 2,AEK Athens,Anderlecht
+01/12/2011,3 - 1,Lokomotiv Moskva,Sturm Graz
+03/11/2011,1 - 3,AEK Athens,Lokomotiv Moskva
+03/11/2011,3 - 0,Anderlecht,Sturm Graz
+20/10/2011,0 - 2,Sturm Graz,Anderlecht
+20/10/2011,3 - 1,Lokomotiv Moskva,AEK Athens
+29/09/2011,1 - 2,AEK Athens,Sturm Graz
+29/09/2011,0 - 2,Lokomotiv Moskva,Anderlecht
+15/09/2011,1 - 2,Sturm Graz,Lokomotiv Moskva
+15/09/2011,4 - 1,Anderlecht,AEK Athens
+25/08/2011,2 - 1,Sporting CP,Nordsjælland
+25/08/2011,1 - 0,Salzburg,Omonia Nicosia
+25/08/2011,1 - 1,Sevilla,Hannover 96
+25/08/2011,1 - 1,Karpaty,PAOK
+25/08/2011,2 - 0,PSG,Differdange 03
+25/08/2011,0 - 0,Tottenham Hotspur,Hearts
+25/08/2011,6 - 0,AZ,Aalesund
+25/08/2011,3 - 0,Birmingham City,Nacional
+25/08/2011,1 - 3,Rabotnički,Lazio
+25/08/2011,1 - 1,Roma,Slovan Bratislava
+25/08/2011,0 - 4,Sochaux,Metalist
+25/08/2011,4 - 1,Stoke City,Thun
+25/08/2011,2 - 2,Anderlecht,Bursaspor
+25/08/2011,2 - 0,Club Brugge,Zestafoni
+25/08/2011,1 - 0,Dnipro Dnipropetrovsk,Fulham
+25/08/2011,1 - 1,Partizan,Shamrock Rovers [ET] 
+25/08/2011,1 - 1,Rangers,Maribor
+25/08/2011,0 - 3,Sion,Celtic
+25/08/2011,C - C,[N] Trabzonspor,Athletic Club
+25/08/2011,0 - 4,Vitória Guimarães,Atlético Madrid
+25/08/2011,6 - 1,Schalke 04,HJK
+25/08/2011,1 - 3,Helsingborg,Standard Liège
+25/08/2011,2 - 1,Panathinaikos,Maccabi Tel Aviv
+25/08/2011,1 - 1,[N] Rapid Bucureşti,Śląsk Wrocław
+25/08/2011,1 - 0,Sparta Praha,Vaslui
+25/08/2011,2 - 0,Alaniya,Beşiktaş
+25/08/2011,1 - 1,CSKA Sofia,FCSB
+25/08/2011,4 - 0,Hapoel Tel Aviv,Ekranas
+25/08/2011,2 - 2,Young Boys,Sporting Braga
+25/08/2011,1 - 0,Dinamo Tbilisi,AEK Athens
+25/08/2011,2 - 1,AEK Larnaca ,Rosenborg
+25/08/2011,1 - 0,Dynamo Kyiv,Lovech
+25/08/2011,1 - 0,[N] Gaz Metan Mediaş,Austria Wien
+25/08/2011,1 - 1,Spartak Trnava,Lokomotiv Moskva
+25/08/2011,5 - 0,PSV,Ried
+25/08/2011,4 - 0,Rennes,Crvena Zvezda
+25/08/2011,2 - 3,[N] Dinamo Bucureşti,Vorskla
+25/08/2011,2 - 3,Spartak Moskva,Legia Warszawa
+18/08/2011,2 - 0,Atlético Madrid,Vitória Guimarães
+18/08/2011,0 - 0,Sporting Braga,Young Boys
+18/08/2011,3 - 0,Celtic,Sion
+18/08/2011,0 - 0,Ried,PSV
+18/08/2011,0 - 0,Athletic Club,Trabzonspor
+18/08/2011,6 - 0,Lazio,Rabotnički
+18/08/2011,1 - 0,AEK Athens,Dinamo Tbilisi
+18/08/2011,0 - 4,Differdange 03,PSG
+18/08/2011,0 - 5,Hearts,Tottenham Hotspur
+18/08/2011,2 - 1,Maribor,Rangers
+18/08/2011,0 - 0,Nacional,Birmingham City
+18/08/2011,0 - 0,Rosenborg,AEK Larnaca 
+18/08/2011,1 - 1,Shamrock Rovers,Partizan
+18/08/2011,1 - 0,Slovan Bratislava,Roma
+18/08/2011,1 - 2,Crvena Zvezda,Rennes
+18/08/2011,3 - 0,Fulham,Dnipro Dnipropetrovsk
+18/08/2011,2 - 1,Hannover 96,Sevilla
+18/08/2011,0 - 0,Metalist,Sochaux
+18/08/2011,1 - 0,Standard Liège,Helsingborg
+18/08/2011,3 - 0,Beşiktaş,Alaniya
+18/08/2011,1 - 2,Bursaspor,Anderlecht
+18/08/2011,0 - 0,Nordsjælland,Sporting CP
+18/08/2011,2 - 0,PAOK,Karpaty
+18/08/2011,1 - 3,Śląsk Wrocław,Rapid Bucureşti
+18/08/2011,2 - 0,[N] FCSB,CSKA Sofia
+18/08/2011,3 - 0,Maccabi Tel Aviv,Panathinaikos
+18/08/2011,0 - 1,Thun,Stoke City
+18/08/2011,2 - 1,Aalesund,AZ
+18/08/2011,3 - 1,Austria Wien,Gaz Metan Mediaş
+18/08/2011,2 - 1,Omonia Nicosia,Salzburg
+18/08/2011,2 - 1,Vorskla,Dinamo Bucureşti
+18/08/2011,1 - 2,Lovech,Dynamo Kyiv
+18/08/2011,2 - 0,HJK,Schalke 04
+18/08/2011,3 - 3,[N] Zestafoni,Club Brugge
+18/08/2011,1 - 0,Ekranas,Hapoel Tel Aviv
+18/08/2011,2 - 2,Legia Warszawa,Spartak Moskva
+18/08/2011,2 - 0,Lokomotiv Moskva,Spartak Trnava
+18/08/2011,2 - 0,Vaslui,Sparta Praha
+04/08/2011,2 - 1,Vitória Guimarães,Midtjylland
+04/08/2011,3 - 2,Austria Wien,Olimpija
+04/08/2011,0 - 2,Sarajevo,Sparta Praha
+04/08/2011,4 - 1,Hearts,Paksi SE
+04/08/2011,1 - 3,[N] St Patrick's Athl.,Karpaty
+04/08/2011,7 - 0,Crvena Zvezda,Ventspils
+04/08/2011,2 - 0,Fulham,Split
+04/08/2011,1 - 1,Jablonec,AZ
+04/08/2011,1 - 0,ADO Den Haag,Omonia Nicosia
+04/08/2011,3 - 0,Olympiakos Volos,Differdange 03
+04/08/2011,3 - 0,PAOK,Vålerenga
+04/08/2011,1 - 2,Rabotnički,Anorthosis
+04/08/2011,2 - 1,Vaduz,Hapoel Tel Aviv
+04/08/2011,0 - 2,Westerlo,Young Boys
+04/08/2011,0 - 0,Lokomotiv Sofia,Śląsk Wrocław [PS] 
+04/08/2011,6 - 0,Maccabi Tel Aviv,Željezničar
+04/08/2011,1 - 1,Thun,Palermo
+04/08/2011,4 - 2,Brøndby,Ried
+04/08/2011,2 - 0,Dinamo Tbilisi,KR
+04/08/2011,1 - 1, [PS] Gaz Metan Mediaş,Mainz 05
+04/08/2011,1 - 3,Gomel,Bursaspor
+04/08/2011,2 - 1,Häcken,Nacional
+04/08/2011,0 - 1,Hajduk Split,Stoke City
+04/08/2011,3 - 0,Helsingborg,Bnei Yehuda
+04/08/2011,0 - 0,Legia Warszawa,Gaziantepspor
+04/08/2011,2 - 0,Rennes,Metalurgi Rustavi
+04/08/2011,0 - 3,Senica,Salzburg
+04/08/2011,2 - 1, [PS] Spartak Trnava,Levski Sofia
+04/08/2011,0 - 2,Sligo Rovers,Vorskla
+04/08/2011,0 - 2,Strømsgodset,Atlético Madrid
+04/08/2011,1 - 1,Aktobe,Alaniya [PS] 
+04/08/2011,1 - 1,Elfsborg,Aalesund
+04/08/2011,1 - 0,Qarabağ,Club Brugge
+04/08/2011,2 - 2,Mladá Boleslav,AEK Larnaca 
+04/08/2011,1 - 2,[N] Varaždin,Dinamo Bucureşti
+28/07/2011,1 - 4,KR,Dinamo Tbilisi
+28/07/2011,2 - 0,Ried,Brøndby
+28/07/2011,2 - 1,Atlético Madrid,Strømsgodset
+28/07/2011,0 - 0,Midtjylland,Vitória Guimarães
+28/07/2011,3 - 0,Nacional,Häcken
+28/07/2011,2 - 2,Palermo,Thun
+28/07/2011,1 - 0,Stoke City,Hajduk Split
+28/07/2011,4 - 1,Club Brugge,Qarabağ
+28/07/2011,1 - 1,Mainz 05,Gaz Metan Mediaş
+28/07/2011,0 - 2,Željezničar,Maccabi Tel Aviv
+28/07/2011,2 - 0,AZ,Jablonec
+28/07/2011,0 - 3,Differdange 03,Olympiakos Volos
+28/07/2011,2 - 2,[N] Dinamo Bucureşti,Varaždin
+28/07/2011,0 - 1,Gaziantepspor,Legia Warszawa
+28/07/2011,1 - 1,Paksi SE,Hearts
+28/07/2011,2 - 1,[N] Levski Sofia,Spartak Trnava
+28/07/2011,2 - 1,Bursaspor,Gomel
+28/07/2011,4 - 0,Hapoel Tel Aviv,Vaduz
+28/07/2011,3 - 0,Omonia Nicosia,ADO Den Haag
+28/07/2011,0 - 0,Split,Fulham
+28/07/2011,3 - 1,Young Boys,Westerlo
+28/07/2011,4 - 0,Aalesund,Elfsborg
+28/07/2011,0 - 2,Anorthosis,Rabotnički
+28/07/2011,2 - 5,[N] Metalurgi Rustavi,Rennes
+28/07/2011,1 - 1,Olimpija,Austria Wien
+28/07/2011,1 - 0,Salzburg,Senica
+28/07/2011,5 - 0,Sparta Praha,Sarajevo
+28/07/2011,0 - 2,Vålerenga,PAOK
+28/07/2011,0 - 0,Vorskla,Sligo Rovers
+28/07/2011,2 - 0,Karpaty,St Patrick's Athl.
+28/07/2011,1 - 1,Alaniya,Aktobe
+28/07/2011,1 - 2,Ventspils,Crvena Zvezda
+28/07/2011,3 - 0,AEK Larnaca ,Mladá Boleslav
+28/07/2011,0 - 0,Śląsk Wrocław,Lokomotiv Sofia
+26/07/2011,1 - 0,Bnei Yehuda,Helsingborg
+21/07/2011,2 - 0,Austria Wien,Rudar
+21/07/2011,1 - 1,Bohemians,Olimpija
+21/07/2011,3 - 2,Dundee United,Śląsk Wrocław
+21/07/2011,2 - 0,Nacional,FH
+21/07/2011,2 - 0,St Patrick's Athl.,Shakhter Karagandy
+21/07/2011,4 - 0,Fulham,Crusaders
+21/07/2011,3 - 1,Split,Domžale
+21/07/2011,2 - 0,ADO Den Haag,Tauras
+21/07/2011,4 - 1,Gaziantepspor,Minsk
+21/07/2011,5 - 1,Jablonec,Flamurtari
+21/07/2011,1 - 1,Olympiakos Volos,Rad Beograd
+21/07/2011,3 - 0,Rabotnički,Juvenes / Dogana
+21/07/2011,0 - 0,Westerlo,TPS
+21/07/2011,3 - 2,Lokomotiv Sofia,Metalurg
+21/07/2011,2 - 1,Thun,Vllaznia Shkodër
+21/07/2011,2 - 0,Žilina,KR
+21/07/2011,5 - 2,Midtjylland,The New Saints
+21/07/2011,2 - 1, [ET] Aalesund,Ferencváros
+21/07/2011,1 - 0,AEK Larnaca ,Floriana
+21/07/2011,2 - 0,Bnei Yehuda,Sant Julià
+21/07/2011,5 - 0,Dinamo Tbilisi,Llanelli
+21/07/2011,2 - 0,Gagra,Anorthosis
+21/07/2011,0 - 0,Salzburg,Liepājas Metalurgs
+21/07/2011,2 - 0,Sarajevo,Örebro
+21/07/2011,3 - 1,Spartak Trnava,Tirana
+21/07/2011,0 - 3,Tromsø,Paksi SE
+21/07/2011,3 - 1,Varaždin,Iskra-Stal
+21/07/2011,3 - 0,Vorskla,Glentoran
+21/07/2011,0 - 0,Aktobe,Kecskeméti TE
+21/07/2011,3 - 0,Elfsborg,Sūduva
+21/07/2011,0 - 2,Honka,Häcken
+21/07/2011,0 - 0,Qarabağ,EB / Streymur
+21/07/2011,0 - 0,Sheriff,Željezničar
+21/07/2011,0 - 1,FCI Levadia,Differdange 03
+21/07/2011,0 - 0,Khazar Lankaran,Maccabi Tel Aviv
+21/07/2011,3 - 2,Ventspils,Shakhtyor
+21/07/2011,2 - 0,Gaz Metan Mediaş,KuPS
+21/07/2011,1 - 3,Vojvodina,Vaduz
+21/07/2011,0 - 2,Irtysh,Metalurgi Rustavi
+21/07/2011,0 - 1,Mika,Vålerenga
+14/07/2011,1 - 1,FH,Nacional
+14/07/2011,3 - 0,KR,Žilina
+14/07/2011,1 - 3,Crusaders,Fulham
+14/07/2011,1 - 2,Domžale,Split
+14/07/2011,0 - 2,Glentoran,Vorskla
+14/07/2011,0 - 0,Metalurg,Lokomotiv Sofia
+14/07/2011,0 - 1,Juvenes / Dogana,Rabotnički
+14/07/2011,1 - 4,Liepājas Metalurgs,Salzburg
+14/07/2011,0 - 0,Vllaznia Shkodër,Thun
+14/07/2011,1 - 0,Željezničar,Sheriff
+14/07/2011,1 - 1,Kecskeméti TE,Aktobe
+14/07/2011,0 - 0,Differdange 03,FCI Levadia
+14/07/2011,1 - 1,EB / Streymur,Qarabağ
+14/07/2011,2 - 0,Olimpija,Bohemians
+14/07/2011,1 - 1,Paksi SE,Tromsø
+14/07/2011,1 - 1,Sūduva,Elfsborg
+14/07/2011,1 - 3,The New Saints,Midtjylland
+14/07/2011,0 - 0,Tirana,Spartak Trnava
+14/07/2011,0 - 2,Vaduz,Vojvodina
+14/07/2011,2 - 1,Llanelli,Dinamo Tbilisi
+14/07/2011,0 - 8,Floriana,AEK Larnaca 
+14/07/2011,3 - 1,Maccabi Tel Aviv,Khazar Lankaran
+14/07/2011,3 - 0,Anorthosis,Gagra
+14/07/2011,2 - 1,Ferencváros,Aalesund
+14/07/2011,1 - 0,[N] Häcken,Honka
+14/07/2011,1 - 1,Minsk,Gaziantepspor
+14/07/2011,0 - 0,Örebro,Sarajevo
+14/07/2011,0 - 1,Shakhtyor,Ventspils
+14/07/2011,1 - 0,Vålerenga,Mika
+14/07/2011,0 - 2,Sant Julià,Bnei Yehuda
+14/07/2011,1 - 1,Iskra-Stal,Varaždin
+14/07/2011,0 - 3,Rudar,Austria Wien
+14/07/2011,2 - 3,Tauras,ADO Den Haag
+14/07/2011,0 - 1,TPS,Westerlo
+14/07/2011,0 - 2,Flamurtari,Jablonec
+14/07/2011,1 - 0,KuPS,Gaz Metan Mediaş
+14/07/2011,0 - 1,Rad Beograd,Olympiakos Volos
+14/07/2011,1 - 0,Śląsk Wrocław,Dundee United
+14/07/2011,1 - 1,Metalurgi Rustavi,Irtysh
+14/07/2011,2 - 1,Shakhter Karagandy,St Patrick's Athl.
+07/07/2011,5 - 1,KR,ÍF
+07/07/2011,0 - 1,Cliftonville,The New Saints
+07/07/2011,2 - 1, [PS] Glentoran,Renova
+07/07/2011,2 - 0,St Patrick's Athl.,ÍBV
+07/07/2011,1 - 3,Tre Penne,Rad Beograd
+07/07/2011,0 - 2,Neath,Aalesund
+07/07/2011,3 - 0,Olimpija,Široki Brijeg
+07/07/2011,4 - 0,Paksi SE,UE Santa Coloma
+07/07/2011,3 - 0,Rabotnički,Trans
+07/07/2011,0 - 0,NSÍ,Fulham
+07/07/2011,5 - 1,Häcken,UN Käerjéng
+07/07/2011,0 - 1,Lusitanos,Varaždin
+07/07/2011,2 - 1,Minsk,Şüvəlan
+07/07/2011,2 - 1,Tromsø,Daugava Daugavpils
+07/07/2011,1 - 1,Vllaznia Shkodër,Birkirkara
+07/07/2011,0 - 2,Nõmme Kalju,Honka
+07/07/2011,1 - 1,Fola Esch,Elfsborg
+07/07/2011,3 - 0,Qarabağ,Banga
+07/07/2011,1 - 3,Milsami,Dinamo Tbilisi
+07/07/2011,2 - 1,Zeta,Spartak Trnava
+07/07/2011,1 - 2,Flamurtari,Budućnost
+07/07/2011,0 - 2,[N] Ulisses,Ferencváros
+07/07/2011,2 - 0,Irtysh,Jagiellonia Białystok
+07/07/2011,1 - 1,Metalurgi Rustavi,Banants
+07/07/2011,2 - 1,Shakhter Karagandy,Koper
+30/06/2011,1 - 3,Budućnost,Flamurtari
+30/06/2011,1 - 1,Koper,Shakhter Karagandy
+30/06/2011,0 - 0,Široki Brijeg,Olimpija
+30/06/2011,0 - 1,Birkirkara,Vllaznia Shkodër
+30/06/2011,3 - 0,Fulham,NSÍ
+30/06/2011,1 - 0,Jagiellonia Białystok,Irtysh
+30/06/2011,2 - 1,Renova,Glentoran
+30/06/2011,1 - 0,ÍBV,St Patrick's Athl.
+30/06/2011,1 - 3,ÍF,KR
+30/06/2011,1 - 1,The New Saints,Cliftonville
+30/06/2011,1 - 1,UN Käerjéng,Häcken
+30/06/2011,4 - 1,Aalesund,Neath
+30/06/2011,2 - 0,Dinamo Tbilisi,Milsami
+30/06/2011,3 - 0,Ferencváros,Ulisses
+30/06/2011,3 - 0,Spartak Trnava,Zeta
+30/06/2011,0 - 1,UE Santa Coloma,Paksi SE
+30/06/2011,5 - 1,Varaždin,Lusitanos
+30/06/2011,0 - 5,Daugava Daugavpils,Tromsø
+30/06/2011,4 - 0,Elfsborg,Fola Esch
+30/06/2011,0 - 0,Honka,Nõmme Kalju
+30/06/2011,0 - 4,Banga,Qarabağ
+30/06/2011,6 - 0,Rad Beograd,Tre Penne
+30/06/2011,1 - 4,Trans,Rabotnički
+30/06/2011,0 - 1,Banants,Metalurgi Rustavi
+30/06/2011,1 - 1,Şüvəlan,Minsk

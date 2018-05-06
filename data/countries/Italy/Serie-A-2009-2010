@@ -1,0 +1,381 @@
+date,score,home_team,away_team
+16/05/2010,1 - 2,Atalanta,Palermo
+16/05/2010,2 - 0,Bari 1908,Fiorentina
+16/05/2010,1 - 1,Cagliari,Bologna
+16/05/2010,1 - 0,Catania,Genoa
+16/05/2010,0 - 2,Chievo,Roma
+16/05/2010,4 - 1,Parma,Livorno
+16/05/2010,0 - 1,Robur Siena,Internazionale
+16/05/2010,1 - 0,Sampdoria,Napoli
+15/05/2010,3 - 1,Lazio,Udinese
+15/05/2010,3 - 0,Milan,Juventus
+09/05/2010,1 - 1,Bologna,Catania
+09/05/2010,1 - 1,Fiorentina,Robur Siena
+09/05/2010,1 - 0,Genoa,Milan
+09/05/2010,4 - 3,Internazionale,Chievo
+09/05/2010,2 - 3,Juventus,Parma
+09/05/2010,1 - 2,Livorno,Lazio
+09/05/2010,2 - 0,Napoli,Atalanta
+09/05/2010,1 - 1,Palermo,Sampdoria
+09/05/2010,2 - 1,Roma,Cagliari
+09/05/2010,3 - 3,Udinese,Bari 1908
+02/05/2010,0 - 2,Lazio,Internazionale
+02/05/2010,1 - 1,Atalanta,Bologna
+02/05/2010,3 - 0,Bari 1908,Genoa
+02/05/2010,2 - 2,Cagliari,Udinese
+02/05/2010,1 - 1,Catania,Juventus
+02/05/2010,1 - 2,Chievo,Napoli
+02/05/2010,1 - 2,Robur Siena,Palermo
+02/05/2010,2 - 0,Sampdoria,Livorno
+01/05/2010,1 - 0,Milan,Fiorentina
+01/05/2010,1 - 2,Parma,Roma
+25/04/2010,1 - 2,Roma,Sampdoria
+25/04/2010,2 - 1,Bologna,Parma
+25/04/2010,0 - 2,Fiorentina,Chievo
+25/04/2010,1 - 2,Genoa,Lazio
+25/04/2010,3 - 0,Juventus,Bari 1908
+25/04/2010,3 - 1,Livorno,Catania
+25/04/2010,0 - 0,Napoli,Cagliari
+25/04/2010,4 - 1,Udinese,Robur Siena
+24/04/2010,3 - 1,Palermo,Milan
+24/04/2010,3 - 1,Internazionale,Atalanta
+18/04/2010,1 - 2,Lazio,Roma
+18/04/2010,2 - 1,Atalanta,Fiorentina
+18/04/2010,1 - 2,Bari 1908,Napoli
+18/04/2010,2 - 2,Cagliari,Palermo
+18/04/2010,2 - 2,Catania,Robur Siena
+18/04/2010,2 - 3,Parma,Genoa
+18/04/2010,2 - 1,Sampdoria,Milan
+18/04/2010,1 - 1,Udinese,Bologna
+17/04/2010,2 - 0,Chievo,Livorno
+16/04/2010,2 - 0,Internazionale,Juventus
+11/04/2010,1 - 0,Sampdoria,Genoa
+11/04/2010,2 - 3,Bologna,Lazio
+11/04/2010,1 - 0,Juventus,Cagliari
+11/04/2010,0 - 2,Livorno,Udinese
+11/04/2010,2 - 2,Milan,Catania
+11/04/2010,3 - 1,Palermo,Chievo
+11/04/2010,3 - 2,Robur Siena,Bari 1908
+11/04/2010,2 - 1,Roma,Atalanta
+10/04/2010,2 - 2,Fiorentina,Internazionale
+10/04/2010,2 - 3,Napoli,Parma
+03/04/2010,3 - 0,Udinese,Juventus
+03/04/2010,2 - 0,Catania,Palermo
+03/04/2010,2 - 0,Atalanta,Robur Siena
+03/04/2010,0 - 1,Bari 1908,Roma
+03/04/2010,2 - 3,Cagliari,Milan
+03/04/2010,1 - 2,Chievo,Sampdoria
+03/04/2010,1 - 1,Genoa,Livorno
+03/04/2010,3 - 0,Internazionale,Bologna
+03/04/2010,1 - 1,Lazio,Napoli
+03/04/2010,1 - 1,Parma,Fiorentina
+28/03/2010,1 - 1,Milan,Lazio
+28/03/2010,0 - 0,Chievo,Parma
+28/03/2010,4 - 1,Fiorentina,Udinese
+28/03/2010,2 - 1,Juventus,Atalanta
+28/03/2010,1 - 1,Livorno,Bari 1908
+28/03/2010,1 - 0,Napoli,Catania
+28/03/2010,0 - 0,Robur Siena,Genoa
+28/03/2010,1 - 1,Sampdoria,Cagliari
+27/03/2010,3 - 1,Palermo,Bologna
+27/03/2010,2 - 1,Roma,Internazionale
+25/03/2010,3 - 1,Napoli,Juventus
+24/03/2010,3 - 1,Atalanta,Cagliari
+24/03/2010,2 - 1,Bari 1908,Sampdoria
+24/03/2010,0 - 2,Bologna,Roma
+24/03/2010,1 - 0,Catania,Fiorentina
+24/03/2010,2 - 2,Genoa,Palermo
+24/03/2010,3 - 0,Internazionale,Livorno
+24/03/2010,2 - 0,Lazio,Robur Siena
+24/03/2010,1 - 0,Parma,Milan
+24/03/2010,0 - 0,Udinese,Chievo
+21/03/2010,1 - 0,Sampdoria,Juventus
+21/03/2010,3 - 0,Atalanta,Livorno
+21/03/2010,1 - 1,Bari 1908,Parma
+21/03/2010,0 - 2,Cagliari,Lazio
+21/03/2010,1 - 1,Chievo,Catania
+21/03/2010,1 - 1,Milan,Napoli
+21/03/2010,1 - 0,Robur Siena,Bologna
+20/03/2010,1 - 1,Palermo,Internazionale
+20/03/2010,4 - 2,Roma,Udinese
+20/03/2010,3 - 0,Fiorentina,Genoa
+14/03/2010,1 - 0,Milan,Chievo
+14/03/2010,1 - 1,Bologna,Sampdoria
+14/03/2010,5 - 3,Genoa,Cagliari
+14/03/2010,3 - 3,Juventus,Robur Siena
+14/03/2010,0 - 2,Lazio,Bari 1908
+14/03/2010,3 - 3,Livorno,Roma
+14/03/2010,1 - 0,Parma,Atalanta
+14/03/2010,3 - 2,Udinese,Palermo
+13/03/2010,1 - 3,Napoli,Fiorentina
+12/03/2010,3 - 1,Catania,Internazionale
+07/03/2010,0 - 0,Internazionale,Genoa
+07/03/2010,0 - 0,Atalanta,Udinese
+07/03/2010,1 - 0,Bari 1908,Chievo
+07/03/2010,2 - 1,Bologna,Napoli
+07/03/2010,2 - 2,Cagliari,Catania
+07/03/2010,1 - 0,Palermo,Livorno
+07/03/2010,1 - 1,Robur Siena,Parma
+07/03/2010,2 - 1,Sampdoria,Lazio
+06/03/2010,0 - 0,Roma,Milan
+06/03/2010,1 - 2,Fiorentina,Juventus
+28/02/2010,0 - 2,Juventus,Palermo
+28/02/2010,2 - 1,Chievo,Cagliari
+28/02/2010,3 - 4,Genoa,Bologna
+28/02/2010,1 - 2,Livorno,Robur Siena
+28/02/2010,3 - 1,Milan,Atalanta
+28/02/2010,2 - 2,Napoli,Roma
+28/02/2010,1 - 0,Parma,Sampdoria
+28/02/2010,2 - 3,Udinese,Internazionale
+27/02/2010,1 - 1,Lazio,Fiorentina
+27/02/2010,4 - 0,Catania,Bari 1908
+24/02/2010,1 - 2,Fiorentina,Milan
+24/02/2010,2 - 1,Udinese,Cagliari
+21/02/2010,0 - 2,Bari 1908,Milan
+21/02/2010,0 - 1,Atalanta,Chievo
+21/02/2010,1 - 2,Bologna,Juventus
+21/02/2010,2 - 0,Cagliari,Parma
+21/02/2010,2 - 1,Fiorentina,Livorno
+21/02/2010,3 - 1,Palermo,Lazio
+21/02/2010,0 - 0,Robur Siena,Napoli
+21/02/2010,1 - 0,Roma,Catania
+20/02/2010,0 - 0,Internazionale,Sampdoria
+20/02/2010,3 - 0,Genoa,Udinese
+14/02/2010,0 - 0,Napoli,Internazionale
+14/02/2010,3 - 1,Cagliari,Bari 1908
+14/02/2010,0 - 0,Catania,Atalanta
+14/02/2010,0 - 1,Chievo,Robur Siena
+14/02/2010,3 - 2,Juventus,Genoa
+14/02/2010,0 - 1,Livorno,Bologna
+14/02/2010,0 - 2,Parma,Lazio
+13/02/2010,2 - 0,Sampdoria,Fiorentina
+13/02/2010,4 - 1,Roma,Palermo
+12/02/2010,3 - 2,Milan,Udinese
+10/02/2010,1 - 1,Parma,Internazionale
+07/02/2010,0 - 1,Fiorentina,Roma
+07/02/2010,1 - 0,Atalanta,Bari 1908
+07/02/2010,0 - 0,Bologna,Milan
+07/02/2010,1 - 0,Genoa,Chievo
+07/02/2010,3 - 0,Internazionale,Cagliari
+07/02/2010,0 - 1,Lazio,Catania
+07/02/2010,1 - 2,Robur Siena,Sampdoria
+07/02/2010,3 - 1,Udinese,Napoli
+06/02/2010,1 - 1,Livorno,Juventus
+06/02/2010,2 - 1,Palermo,Parma
+31/01/2010,1 - 1,Juventus,Lazio
+31/01/2010,2 - 2,Cagliari,Fiorentina
+31/01/2010,1 - 1,Catania,Udinese
+31/01/2010,1 - 1,Chievo,Bologna
+31/01/2010,1 - 1,Milan,Livorno
+31/01/2010,2 - 1,Roma,Robur Siena
+31/01/2010,2 - 0,Sampdoria,Atalanta
+30/01/2010,0 - 0,Napoli,Genoa
+30/01/2010,4 - 2,Bari 1908,Palermo
+24/01/2010,2 - 0,Internazionale,Milan
+24/01/2010,2 - 1,Bologna,Bari 1908
+24/01/2010,2 - 0,Genoa,Atalanta
+24/01/2010,1 - 1,Lazio,Chievo
+24/01/2010,0 - 2,Livorno,Napoli
+24/01/2010,3 - 0,Palermo,Fiorentina
+24/01/2010,1 - 1,Robur Siena,Cagliari
+24/01/2010,2 - 3,Udinese,Sampdoria
+23/01/2010,1 - 2,Juventus,Roma
+23/01/2010,3 - 0,Catania,Parma
+20/01/2010,2 - 2,Bologna,Atalanta
+20/01/2010,1 - 1,Genoa,Bari 1908
+17/01/2010,0 - 0,Napoli,Palermo
+17/01/2010,3 - 0,Atalanta,Lazio
+17/01/2010,1 - 0,Chievo,Juventus
+17/01/2010,1 - 2,Fiorentina,Bologna
+17/01/2010,4 - 0,Milan,Robur Siena
+17/01/2010,0 - 0,Parma,Udinese
+17/01/2010,3 - 0,Roma,Genoa
+17/01/2010,1 - 1,Sampdoria,Catania
+16/01/2010,2 - 2,Bari 1908,Internazionale
+16/01/2010,3 - 0,Cagliari,Livorno
+10/01/2010,0 - 3,Juventus,Milan
+10/01/2010,0 - 1,Bologna,Cagliari
+10/01/2010,2 - 1,Fiorentina,Bari 1908
+10/01/2010,2 - 0,Genoa,Catania
+10/01/2010,2 - 1,Livorno,Parma
+10/01/2010,1 - 0,Napoli,Sampdoria
+10/01/2010,1 - 0,Palermo,Atalanta
+10/01/2010,1 - 1,Udinese,Lazio
+09/01/2010,4 - 3,Internazionale,Robur Siena
+09/01/2010,1 - 0,Roma,Chievo
+06/01/2010,5 - 2,Milan,Genoa
+06/01/2010,0 - 2,Atalanta,Napoli
+06/01/2010,2 - 0,Bari 1908,Udinese
+06/01/2010,2 - 2,Cagliari,Roma
+06/01/2010,1 - 0,Catania,Bologna
+06/01/2010,4 - 1,Lazio,Livorno
+06/01/2010,1 - 2,Parma,Juventus
+06/01/2010,1 - 5,Robur Siena,Fiorentina
+06/01/2010,1 - 1,Sampdoria,Palermo
+06/01/2010,0 - 1,Chievo,Internazionale
+20/12/2009,1 - 0,Internazionale,Lazio
+20/12/2009,1 - 2,Juventus,Catania
+20/12/2009,3 - 1,Livorno,Sampdoria
+20/12/2009,2 - 0,Napoli,Chievo
+20/12/2009,1 - 0,Palermo,Robur Siena
+20/12/2009,2 - 0,Roma,Parma
+13/12/2009,0 - 0,Sampdoria,Roma
+13/12/2009,1 - 1,Atalanta,Internazionale
+13/12/2009,0 - 1,Catania,Livorno
+13/12/2009,2 - 1,Chievo,Fiorentina
+13/12/2009,1 - 0,Lazio,Genoa
+13/12/2009,0 - 2,Milan,Palermo
+13/12/2009,2 - 1,Parma,Bologna
+13/12/2009,2 - 1,Robur Siena,Udinese
+12/12/2009,3 - 1,Bari 1908,Juventus
+12/12/2009,3 - 3,Cagliari,Napoli
+06/12/2009,1 - 0,Roma,Lazio
+06/12/2009,2 - 1,Bologna,Udinese
+06/12/2009,2 - 0,Fiorentina,Atalanta
+06/12/2009,2 - 2,Genoa,Parma
+06/12/2009,0 - 2,Livorno,Chievo
+06/12/2009,3 - 2,Napoli,Bari 1908
+06/12/2009,2 - 1,Palermo,Cagliari
+06/12/2009,3 - 2,Robur Siena,Catania
+05/12/2009,2 - 1,Juventus,Internazionale
+05/12/2009,3 - 0,Milan,Sampdoria
+29/11/2009,0 - 2,Catania,Milan
+29/11/2009,1 - 2,Atalanta,Roma
+29/11/2009,2 - 1,Bari 1908,Robur Siena
+29/11/2009,2 - 0,Cagliari,Juventus
+29/11/2009,1 - 0,Chievo,Palermo
+29/11/2009,1 - 0,Internazionale,Fiorentina
+29/11/2009,0 - 0,Lazio,Bologna
+29/11/2009,1 - 1,Parma,Napoli
+28/11/2009,3 - 0,Genoa,Sampdoria
+28/11/2009,2 - 0,Udinese,Livorno
+22/11/2009,1 - 0,Juventus,Udinese
+22/11/2009,2 - 1,Livorno,Genoa
+22/11/2009,4 - 3,Milan,Cagliari
+22/11/2009,0 - 0,Napoli,Lazio
+22/11/2009,1 - 1,Palermo,Catania
+22/11/2009,0 - 2,Robur Siena,Atalanta
+22/11/2009,3 - 1,Roma,Bari 1908
+22/11/2009,2 - 1,Sampdoria,Chievo
+21/11/2009,2 - 3,Fiorentina,Parma
+21/11/2009,1 - 3,Bologna,Internazionale
+08/11/2009,1 - 1,Internazionale,Roma
+08/11/2009,1 - 0,Bari 1908,Livorno
+08/11/2009,3 - 1,Bologna,Palermo
+08/11/2009,2 - 0,Cagliari,Sampdoria
+08/11/2009,4 - 2,Genoa,Robur Siena
+08/11/2009,1 - 2,Lazio,Milan
+08/11/2009,2 - 0,Parma,Chievo
+08/11/2009,0 - 1,Udinese,Fiorentina
+07/11/2009,2 - 5,Atalanta,Juventus
+07/11/2009,0 - 0,Catania,Napoli
+01/11/2009,0 - 0,Palermo,Genoa
+01/11/2009,3 - 0,Cagliari,Atalanta
+01/11/2009,1 - 1,Chievo,Udinese
+01/11/2009,3 - 1,Fiorentina,Catania
+01/11/2009,0 - 2,Livorno,Internazionale
+01/11/2009,1 - 1,Robur Siena,Lazio
+01/11/2009,2 - 1,Roma,Bologna
+01/11/2009,0 - 0,Sampdoria,Bari 1908
+31/10/2009,2 - 0,Milan,Parma
+31/10/2009,2 - 3,Juventus,Napoli
+29/10/2009,5 - 3,Internazionale,Palermo
+28/10/2009,2 - 1,Bologna,Robur Siena
+28/10/2009,1 - 2,Catania,Chievo
+28/10/2009,2 - 1,Genoa,Fiorentina
+28/10/2009,5 - 1,Juventus,Sampdoria
+28/10/2009,0 - 1,Lazio,Cagliari
+28/10/2009,1 - 0,Livorno,Atalanta
+28/10/2009,2 - 2,Napoli,Milan
+28/10/2009,2 - 0,Parma,Bari 1908
+28/10/2009,2 - 1,Udinese,Roma
+25/10/2009,1 - 2,Chievo,Milan
+25/10/2009,3 - 1,Atalanta,Parma
+25/10/2009,2 - 0,Bari 1908,Lazio
+25/10/2009,3 - 2,Cagliari,Genoa
+25/10/2009,0 - 1,Fiorentina,Napoli
+25/10/2009,1 - 0,Palermo,Udinese
+25/10/2009,0 - 1,Robur Siena,Juventus
+25/10/2009,0 - 1,Roma,Livorno
+24/10/2009,2 - 1,Internazionale,Catania
+24/10/2009,4 - 1,Sampdoria,Bologna
+18/10/2009,2 - 1,Milan,Roma
+18/10/2009,2 - 1,Catania,Cagliari
+18/10/2009,1 - 2,Chievo,Bari 1908
+18/10/2009,1 - 1,Lazio,Sampdoria
+18/10/2009,1 - 2,Livorno,Palermo
+18/10/2009,2 - 1,Napoli,Bologna
+18/10/2009,1 - 0,Parma,Robur Siena
+18/10/2009,1 - 3,Udinese,Atalanta
+17/10/2009,0 - 5,Genoa,Internazionale
+17/10/2009,1 - 1,Juventus,Fiorentina
+04/10/2009,2 - 0,Palermo,Juventus
+04/10/2009,1 - 1,Atalanta,Milan
+04/10/2009,1 - 3,Bologna,Genoa
+04/10/2009,1 - 2,Cagliari,Chievo
+04/10/2009,0 - 0,Fiorentina,Lazio
+04/10/2009,0 - 0,Robur Siena,Livorno
+04/10/2009,2 - 1,Roma,Napoli
+04/10/2009,1 - 1,Sampdoria,Parma
+03/10/2009,2 - 1,Internazionale,Udinese
+03/10/2009,0 - 0,Bari 1908,Catania
+27/09/2009,0 - 0,Milan,Bari 1908
+27/09/2009,1 - 1,Catania,Roma
+27/09/2009,1 - 1,Chievo,Atalanta
+27/09/2009,1 - 1,Juventus,Bologna
+27/09/2009,1 - 1,Lazio,Palermo
+27/09/2009,2 - 1,Napoli,Robur Siena
+27/09/2009,0 - 2,Parma,Cagliari
+27/09/2009,2 - 0,Udinese,Genoa
+26/09/2009,0 - 1,Livorno,Fiorentina
+26/09/2009,1 - 0,Sampdoria,Internazionale
+24/09/2009,2 - 2,Genoa,Juventus
+23/09/2009,0 - 0,Atalanta,Catania
+23/09/2009,0 - 1,Bari 1908,Cagliari
+23/09/2009,2 - 0,Bologna,Livorno
+23/09/2009,2 - 0,Fiorentina,Sampdoria
+23/09/2009,3 - 1,Internazionale,Napoli
+23/09/2009,1 - 2,Lazio,Parma
+23/09/2009,3 - 3,Palermo,Roma
+23/09/2009,0 - 0,Robur Siena,Chievo
+23/09/2009,1 - 0,Udinese,Milan
+20/09/2009,3 - 1,Roma,Fiorentina
+20/09/2009,4 - 1,Bari 1908,Atalanta
+20/09/2009,1 - 2,Cagliari,Internazionale
+20/09/2009,1 - 1,Catania,Lazio
+20/09/2009,3 - 1,Chievo,Genoa
+20/09/2009,1 - 0,Milan,Bologna
+20/09/2009,1 - 0,Parma,Palermo
+20/09/2009,4 - 1,Sampdoria,Robur Siena
+19/09/2009,2 - 0,Juventus,Livorno
+19/09/2009,0 - 0,Napoli,Udinese
+13/09/2009,4 - 1,Genoa,Napoli
+13/09/2009,0 - 1,Atalanta,Sampdoria
+13/09/2009,0 - 2,Bologna,Chievo
+13/09/2009,1 - 0,Fiorentina,Cagliari
+13/09/2009,2 - 0,Internazionale,Parma
+13/09/2009,1 - 1,Palermo,Bari 1908
+13/09/2009,1 - 2,Robur Siena,Roma
+13/09/2009,4 - 2,Udinese,Catania
+12/09/2009,0 - 2,Lazio,Juventus
+12/09/2009,0 - 0,Livorno,Milan
+30/08/2009,0 - 1,Atalanta,Genoa
+30/08/2009,1 - 3,Cagliari,Robur Siena
+30/08/2009,1 - 2,Chievo,Lazio
+30/08/2009,1 - 0,Fiorentina,Palermo
+30/08/2009,3 - 1,Napoli,Livorno
+30/08/2009,2 - 1,Parma,Catania
+30/08/2009,3 - 1,Sampdoria,Udinese
+30/08/2009,1 - 3,Roma,Juventus
+29/08/2009,0 - 4,Milan,Internazionale
+29/08/2009,0 - 0,Bari 1908,Bologna
+23/08/2009,1 - 2,Catania,Sampdoria
+23/08/2009,3 - 2,Genoa,Roma
+23/08/2009,1 - 0,Juventus,Chievo
+23/08/2009,1 - 0,Lazio,Atalanta
+23/08/2009,0 - 0,Livorno,Cagliari
+23/08/2009,2 - 1,Palermo,Napoli
+23/08/2009,2 - 2,Udinese,Parma
+23/08/2009,1 - 1,Internazionale,Bari 1908
+22/08/2009,1 - 2,Robur Siena,Milan
+22/08/2009,1 - 1,Bologna,Fiorentina

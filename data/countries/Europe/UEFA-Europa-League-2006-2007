@@ -1,0 +1,356 @@
+date,score,home_team,away_team
+16/05/2007,1 - 1,Espanyol,Sevilla [PS] 
+03/05/2007,2 - 0,Sevilla,Osasuna
+03/05/2007,1 - 2,Werder Bremen,Espanyol
+26/04/2007,3 - 0,Espanyol,Werder Bremen
+26/04/2007,1 - 0,Osasuna,Sevilla
+12/04/2007,0 - 0,Benfica,Espanyol
+12/04/2007,1 - 0,Osasuna,Bayer Leverkusen
+12/04/2007,2 - 2,Tottenham Hotspur,Sevilla
+12/04/2007,4 - 1,Werder Bremen,AZ
+05/04/2007,0 - 0,AZ,Werder Bremen
+05/04/2007,3 - 2,Espanyol,Benfica
+05/04/2007,2 - 1,Sevilla,Tottenham Hotspur
+05/04/2007,0 - 3,Bayer Leverkusen,Osasuna
+15/03/2007,3 - 1,Benfica,PSG
+15/03/2007,4 - 0,Espanyol,Maccabi Haifa
+15/03/2007,2 - 0,AZ,Newcastle United
+15/03/2007,2 - 2,Shakhtar Donetsk,Sevilla [ET] 
+14/03/2007,3 - 2,Tottenham Hotspur,Sporting Braga
+14/03/2007,1 - 0,Osasuna,Rangers
+14/03/2007,2 - 0,Werder Bremen,Celta de Vigo
+14/03/2007,3 - 0,Bayer Leverkusen,Lens
+08/03/2007,2 - 3,Sporting Braga,Tottenham Hotspur
+08/03/2007,1 - 1,Rangers,Osasuna
+08/03/2007,0 - 1,Celta de Vigo,Werder Bremen
+08/03/2007,2 - 1,PSG,Benfica
+08/03/2007,2 - 2,Sevilla,Shakhtar Donetsk
+08/03/2007,4 - 2,Newcastle United,AZ
+08/03/2007,0 - 0,Maccabi Haifa,Espanyol
+08/03/2007,2 - 1,Lens,Bayer Leverkusen
+22/02/2007,2 - 0,Espanyol,Livorno
+22/02/2007,4 - 0,Rangers,Hapoel Tel Aviv
+22/02/2007,3 - 1,Ajax,Werder Bremen
+22/02/2007,2 - 1,Celta de Vigo,Spartak Moskva
+22/02/2007,1 - 0,Newcastle United,Zulte-Waregem
+22/02/2007,0 - 0, [ET] Osasuna,Bordeaux
+22/02/2007,0 - 0,Panathinaikos,Lens
+22/02/2007,0 - 1,Parma,Sporting Braga
+22/02/2007,2 - 0,PSG,AEK Athens
+22/02/2007,1 - 0,Sevilla,FCSB
+22/02/2007,1 - 2,Dinamo Bucureşti,Benfica
+22/02/2007,1 - 0,Maccabi Haifa,CSKA Moskva
+22/02/2007,0 - 0,Blackburn Rovers,Bayer Leverkusen
+22/02/2007,0 - 1,Nancy,Shakhtar Donetsk
+22/02/2007,2 - 2,AZ,Fenerbahçe
+22/02/2007,C - C,Tottenham Hotspur,Feyenoord
+15/02/2007,3 - 1,Lens,Panathinaikos
+15/02/2007,1 - 3,Zulte-Waregem,Newcastle United
+15/02/2007,1 - 0,Sporting Braga,Parma
+15/02/2007,0 - 2,FCSB,Sevilla
+15/02/2007,1 - 1,Spartak Moskva,Celta de Vigo
+14/02/2007,1 - 0,Benfica,Dinamo Bucureşti
+14/02/2007,0 - 2,AEK Athens,PSG
+14/02/2007,1 - 2,Livorno,Espanyol
+14/02/2007,3 - 0,Werder Bremen,Ajax
+14/02/2007,2 - 1,Hapoel Tel Aviv,Rangers
+14/02/2007,3 - 3,Fenerbahçe,AZ
+14/02/2007,3 - 2,Bayer Leverkusen,Blackburn Rovers
+14/02/2007,0 - 0,Bordeaux,Osasuna
+14/02/2007,0 - 0,CSKA Moskva,Maccabi Haifa
+14/02/2007,1 - 1,Shakhtar Donetsk,Nancy
+14/02/2007,C - C,Feyenoord,Tottenham Hotspur
+14/12/2006,0 - 1,Auxerre,Livorno
+14/12/2006,1 - 0,Rangers,Partizan
+29/11/2006,1 - 1,Livorno,Maccabi Haifa
+29/11/2006,1 - 4,Partizan,Auxerre
+23/11/2006,1 - 0,Maccabi Haifa,Partizan
+23/11/2006,2 - 2,Auxerre,Rangers
+02/11/2006,2 - 0,Rangers,Maccabi Haifa
+02/11/2006,1 - 1,Partizan,Livorno
+19/10/2006,2 - 3,Livorno,Rangers
+19/10/2006,3 - 1,Maccabi Haifa,Auxerre
+14/12/2006,2 - 1,Bayer Leverkusen,Beşiktaş
+14/12/2006,3 - 1,Tottenham Hotspur,Dinamo Bucureşti
+29/11/2006,2 - 1,Beşiktaş,Club Brugge
+29/11/2006,2 - 1,Dinamo Bucureşti,Bayer Leverkusen
+23/11/2006,0 - 1,Bayer Leverkusen,Tottenham Hotspur
+23/11/2006,1 - 1,Club Brugge,Dinamo Bucureşti
+02/11/2006,3 - 1,Tottenham Hotspur,Club Brugge
+02/11/2006,2 - 1,Dinamo Bucureşti,Beşiktaş
+19/10/2006,1 - 1,Club Brugge,Bayer Leverkusen
+19/10/2006,0 - 2,Beşiktaş,Tottenham Hotspur
+14/12/2006,1 - 2,Sevilla,AZ
+14/12/2006,2 - 0,Sporting Braga,Grasshopper
+29/11/2006,2 - 2,AZ,Slovan Liberec
+29/11/2006,0 - 4,Grasshopper,Sevilla
+23/11/2006,2 - 0,Sevilla,Sporting Braga
+23/11/2006,4 - 1,Slovan Liberec,Grasshopper
+02/11/2006,4 - 0,Sporting Braga,Slovan Liberec
+02/11/2006,2 - 5,Grasshopper,AZ
+19/10/2006,0 - 0,Slovan Liberec,Sevilla
+19/10/2006,3 - 0,AZ,Sporting Braga
+14/12/2006,1 - 0,Heerenveen,Lens
+14/12/2006,0 - 3,Parma,Osasuna
+29/11/2006,1 - 2,Lens,Parma
+29/11/2006,3 - 1,Osasuna,OB
+23/11/2006,1 - 1,OB,Lens
+23/11/2006,2 - 1,Parma,Heerenveen
+02/11/2006,3 - 1,Lens,Osasuna
+02/11/2006,0 - 2,Heerenveen,OB
+19/10/2006,0 - 0,Osasuna,Heerenveen
+19/10/2006,1 - 2,OB,Parma
+13/12/2006,1 - 0,Blackburn Rovers,Nancy
+13/12/2006,3 - 1,Feyenoord,Wisła Kraków
+30/11/2006,3 - 0,Nancy,Feyenoord
+30/11/2006,3 - 1,Wisła Kraków,Basel
+23/11/2006,0 - 0,Feyenoord,Blackburn Rovers
+23/11/2006,2 - 2,Basel,Nancy
+02/11/2006,3 - 0,Blackburn Rovers,Basel
+02/11/2006,2 - 1,Nancy,Wisła Kraków
+19/10/2006,1 - 1,Basel,Feyenoord
+19/10/2006,1 - 2,Wisła Kraków,Blackburn Rovers
+13/12/2006,1 - 0,Espanyol,Austria Wien
+13/12/2006,0 - 3,Zulte-Waregem,Ajax
+30/11/2006,0 - 2,Ajax,Espanyol
+30/11/2006,0 - 1,Austria Wien,Sparta Praha
+23/11/2006,6 - 2,Espanyol,Zulte-Waregem
+23/11/2006,0 - 0,Sparta Praha,Ajax
+02/11/2006,3 - 0,Ajax,Austria Wien
+02/11/2006,3 - 1,Zulte-Waregem,Sparta Praha
+19/10/2006,0 - 2,Sparta Praha,Espanyol
+19/10/2006,1 - 4,Austria Wien,Zulte-Waregem
+13/12/2006,1 - 1,Hapoel Tel Aviv,Mladá Boleslav
+13/12/2006,4 - 0,PSG,Panathinaikos
+30/11/2006,0 - 0,Mladá Boleslav,PSG
+30/11/2006,0 - 0,Panathinaikos,Rapid Bucureşti
+23/11/2006,2 - 4,PSG,Hapoel Tel Aviv
+23/11/2006,1 - 1,Rapid Bucureşti,Mladá Boleslav
+02/11/2006,0 - 1,Mladá Boleslav,Panathinaikos
+02/11/2006,2 - 2,Hapoel Tel Aviv,Rapid Bucureşti
+19/10/2006,0 - 0,Rapid Bucureşti,PSG
+19/10/2006,2 - 0,Panathinaikos,Hapoel Tel Aviv
+13/12/2006,2 - 2,Fenerbahçe,Eintracht Frankfurt
+13/12/2006,1 - 1,Palermo,Celta de Vigo
+30/11/2006,1 - 0,Celta de Vigo,Fenerbahçe
+30/11/2006,0 - 0,Eintracht Frankfurt,Newcastle United
+23/11/2006,2 - 1,Newcastle United,Celta de Vigo
+23/11/2006,3 - 0,Fenerbahçe,Palermo
+02/11/2006,1 - 1,Celta de Vigo,Eintracht Frankfurt
+02/11/2006,0 - 1,Palermo,Newcastle United
+19/10/2006,1 - 0,Newcastle United,Fenerbahçe
+19/10/2006,1 - 2,Eintracht Frankfurt,Palermo
+28/09/2006,3 - 1,Espanyol,Petržalka
+28/09/2006,4 - 0,Sevilla,Atromitos
+28/09/2006,3 - 0,Celta de Vigo,Standard Liège
+28/09/2006,1 - 0,Nacional,Rapid Bucureşti [ET] 
+28/09/2006,2 - 0,PSG,Derry City
+28/09/2006,0 - 0,Sparta Praha,Hearts
+28/09/2006,1 - 0,Tottenham Hotspur,Slavia Praha
+28/09/2006,4 - 0,Ajax,Start
+28/09/2006,1 - 0,Austria Wien,Legia Warszawa
+28/09/2006,2 - 0,Blackburn Rovers,Salzburg
+28/09/2006,2 - 0, [ET] Chievo,Sporting Braga
+28/09/2006,0 - 0,Osasuna,Trabzonspor
+28/09/2006,3 - 0,Palermo,West Ham United
+28/09/2006,2 - 0,Rangers,Molde
+28/09/2006,3 - 1,Bayer Leverkusen,Sion
+28/09/2006,1 - 1,Club Brugge,Ružomberok
+28/09/2006,0 - 1,Iraklis,Wisła Kraków [ET] 
+28/09/2006,2 - 1,Newcastle United,FCI Levadia
+28/09/2006,0 - 3,Randers,Fenerbahçe
+28/09/2006,0 - 1,Metalurh Zaporizhya,Panathinaikos
+28/09/2006,1 - 2,Crvena Zvezda,Slovan Liberec
+28/09/2006,1 - 0,Groningen,Partizan
+28/09/2006,1 - 3,Lovech,Maccabi Haifa
+28/09/2006,0 - 0,Feyenoord,Lokomotiv Sofia
+28/09/2006,3 - 1,Auxerre,Dinamo Zagreb
+28/09/2006,5 - 0,Grasshopper,Åtvidaberg
+28/09/2006,4 - 1,Dinamo Bucureşti,Xanthi
+28/09/2006,1 - 1,Kayserispor,AZ
+28/09/2006,2 - 0,Zulte-Waregem,Lokomotiv Moskva
+28/09/2006,0 - 0,Heerenveen,Vitória Setúbal
+28/09/2006,0 - 1,Austria Kärnten,Livorno
+28/09/2006,2 - 0,CSKA Sofia,Beşiktaş
+28/09/2006,3 - 1,Hapoel Tel Aviv,Chornomorets
+28/09/2006,1 - 0,Parma,Rubin Kazan'
+28/09/2006,0 - 1,Rabotnički,Basel
+28/09/2006,2 - 2,Brøndby,Eintracht Frankfurt
+28/09/2006,3 - 1,Lens,Ethnikos Achna
+28/09/2006,3 - 1,Nancy,Schalke 04
+28/09/2006,4 - 2,Mladá Boleslav,Olympique Marseille
+28/09/2006,1 - 0,OB,Hertha BSC
+14/09/2006,0 - 3,Vitória Setúbal,Heerenveen
+14/09/2006,1 - 2,Atromitos,Sevilla
+14/09/2006,0 - 1,West Ham United,Palermo
+14/09/2006,4 - 0,Eintracht Frankfurt,Brøndby
+14/09/2006,2 - 1,Fenerbahçe,Randers
+14/09/2006,0 - 2,Hearts,Sparta Praha
+14/09/2006,2 - 0,Livorno,Austria Kärnten
+14/09/2006,1 - 0,Olympique Marseille,Mladá Boleslav
+14/09/2006,1 - 1,Panathinaikos,Metalurh Zaporizhya
+14/09/2006,0 - 1,Ružomberok,Club Brugge
+14/09/2006,2 - 2,Salzburg,Blackburn Rovers
+14/09/2006,1 - 1,Maccabi Haifa,Lovech
+14/09/2006,0 - 0,Sion,Bayer Leverkusen
+14/09/2006,0 - 1,Standard Liège,Celta de Vigo
+14/09/2006,0 - 1,Wisła Kraków,Iraklis
+14/09/2006,2 - 2,Lokomotiv Sofia,Feyenoord
+14/09/2006,1 - 2,Dinamo Zagreb,Auxerre
+14/09/2006,0 - 0,Molde,Rangers
+14/09/2006,3 - 2,AZ,Kayserispor
+14/09/2006,6 - 2,Basel,Rabotnički
+14/09/2006,0 - 0,Derry City,PSG
+14/09/2006,0 - 1,Slavia Praha,Tottenham Hotspur
+14/09/2006,2 - 0,Sporting Braga,Chievo
+14/09/2006,0 - 3,Åtvidaberg,Grasshopper
+14/09/2006,4 - 2,Partizan,Groningen
+14/09/2006,2 - 2,Petržalka,Espanyol
+14/09/2006,1 - 0,Rapid Bucureşti,Nacional
+14/09/2006,1 - 0,Schalke 04,Nancy
+14/09/2006,2 - 2,Trabzonspor,Osasuna
+14/09/2006,2 - 0,Beşiktaş,CSKA Sofia
+14/09/2006,2 - 1,Lokomotiv Moskva,Zulte-Waregem
+14/09/2006,2 - 5,Start,Ajax
+14/09/2006,0 - 1,Chornomorets,Hapoel Tel Aviv
+14/09/2006,0 - 0,Ethnikos Achna,Lens
+14/09/2006,3 - 4,Xanthi,Dinamo Bucureşti
+14/09/2006,1 - 1,Legia Warszawa,Austria Wien
+14/09/2006,2 - 0,Slovan Liberec,Crvena Zvezda
+14/09/2006,2 - 2,Hertha BSC,OB
+14/09/2006,0 - 1,FCI Levadia,Newcastle United
+14/09/2006,0 - 1,Rubin Kazan',Parma
+31/08/2006,0 - 2,Karvan,Slavia Praha
+24/08/2006,2 - 2,Ameri,Hertha BSC
+24/08/2006,1 - 1,Åtvidaberg,Brann
+24/08/2006,5 - 1,Auxerre,OFK Beograd
+24/08/2006,0 - 2,BATE,Rubin Kazan'
+24/08/2006,1 - 1,Beitar Jerusalem,Dinamo Bucureşti
+24/08/2006,4 - 0,Brøndby,Flora
+24/08/2006,5 - 2,Club Brugge,Sūduva
+24/08/2006,2 - 2,Derry City,Gretna
+24/08/2006,2 - 3,Dinamo Minsk,Petržalka
+24/08/2006,0 - 3,Domžale,Hapoel Tel Aviv
+24/08/2006,1 - 0,Drogheda United,Start [PS] 
+24/08/2006,5 - 0,Ethnikos Achna,KSV Roeselare
+24/08/2006,1 - 0,FCI Levadia,Twente
+24/08/2006,2 - 0,Grasshopper,Videoton
+24/08/2006,0 - 0,Hajduk Kula,CSKA Sofia
+24/08/2006,1 - 0,Kaunas,Randers
+24/08/2006,3 - 1,Kayserispor,Tirana
+24/08/2006,1 - 5,Llanelli,OB
+24/08/2006,4 - 0,Lokomotiv Sofia,Bnei Yehuda
+24/08/2006,2 - 1,Lovech,Omonia Nicosia
+24/08/2006,1 - 1,Maribor,Partizan
+24/08/2006,3 - 0,Metalurh Zaporizhya,Zimbru
+24/08/2006,0 - 0,Newcastle United,Ventspils
+24/08/2006,0 - 0,Olympique Marseille,Young Boys
+24/08/2006,2 - 0,Rapid Bucureşti,Sarajevo
+24/08/2006,1 - 0,Sion,Ried
+24/08/2006,1 - 2,Skonto,Molde
+24/08/2006,1 - 0,Slavia Praha,Karvan
+24/08/2006,1 - 0,Trabzonspor,APOEL
+24/08/2006,2 - 1,Vaduz,Basel
+24/08/2006,1 - 0,Wisła Kraków,Mattersburg
+24/08/2006,1 - 1,Wisła Płock,Chornomorets
+10/08/2006,1 - 5,Gretna,Derry City
+10/08/2006,1 - 1,Mattersburg,Wisła Kraków
+10/08/2006,1 - 1,APOEL,Trabzonspor
+10/08/2006,1 - 0,Basel,Vaduz
+10/08/2006,1 - 0,Dinamo Bucureşti,Beitar Jerusalem
+10/08/2006,0 - 0,Flora,Brøndby
+10/08/2006,2 - 1,Partizan,Maribor
+10/08/2006,1 - 0,Sarajevo,Rapid Bucureşti
+10/08/2006,0 - 2,Sūduva,Club Brugge
+10/08/2006,1 - 1,Videoton,Grasshopper
+10/08/2006,0 - 1,Ventspils,Newcastle United
+10/08/2006,1 - 1,Twente,FCI Levadia
+10/08/2006,3 - 3,Young Boys,Olympique Marseille
+10/08/2006,3 - 3,Brann,Åtvidaberg
+10/08/2006,1 - 2,Hapoel Tel Aviv,Domžale
+10/08/2006,1 - 0,Hertha BSC,Ameri
+10/08/2006,0 - 0,Molde,Skonto
+10/08/2006,1 - 0,OB,Llanelli
+10/08/2006,3 - 1,Randers,Kaunas
+10/08/2006,1 - 0,Start,Drogheda United
+10/08/2006,0 - 0,Zimbru,Metalurh Zaporizhya
+10/08/2006,0 - 0,CSKA Sofia,Hajduk Kula
+10/08/2006,0 - 0,Ried,Sion
+10/08/2006,0 - 2,Bnei Yehuda,Lokomotiv Sofia
+10/08/2006,2 - 1,KSV Roeselare,Ethnikos Achna
+10/08/2006,2 - 1,Petržalka,Dinamo Minsk
+10/08/2006,0 - 2,Tirana,Kayserispor
+10/08/2006,0 - 0,Chornomorets,Wisła Płock
+10/08/2006,3 - 0,Rubin Kazan',BATE
+08/08/2006,1 - 0,OFK Beograd,Auxerre
+08/08/2006,0 - 0,Omonia Nicosia,Lovech
+27/07/2006,1 - 2,Banants,Ameri
+27/07/2006,1 - 0,Brann,Glentoran
+27/07/2006,4 - 1,CSKA Sofia,Dinamo Tirana
+27/07/2006,1 - 0,Derry City,IFK Göteborg
+27/07/2006,5 - 1,Dinamo Bucureşti,Hibernians
+27/07/2006,0 - 0,Dinamo Minsk,Zagłębie Lubin
+27/07/2006,5 - 0,Domžale,Orašje
+27/07/2006,1 - 1, [ET] Drogheda United,HJK
+27/07/2006,0 - 3,Etzella Ettelbrück,Åtvidaberg
+27/07/2006,0 - 0,Flora,Lyn
+27/07/2006,0 - 2,GI Gota,Ventspils
+27/07/2006,1 - 0,Haka,FCI Levadia
+27/07/2006,2 - 1,ÍA,Randers
+27/07/2006,2 - 1,Kairat,Videoton
+27/07/2006,1 - 0,Kaunas,Portadown
+27/07/2006,5 - 1,KSV Roeselare,Vardar
+27/07/2006,0 - 0,Llanelli,Gefle
+27/07/2006,5 - 0,Lovech,Koper
+27/07/2006,1 - 1,Makedonija,Lokomotiv Sofia
+27/07/2006,0 - 4,Murata,APOEL
+27/07/2006,0 - 1,Nistru,BATE
+27/07/2006,2 - 1,Omonia Nicosia,Rijeka
+27/07/2006,1 - 1,Qarabağ,Zimbru [ET] 
+27/07/2006,0 - 2,Ranger's,Sarajevo
+27/07/2006,3 - 0,Skonto,Jeunesse d'Esch
+27/07/2006,0 - 1,Sliema Wanderers,Rapid Bucureşti
+27/07/2006,0 - 1,Spartak Trnava,Karvan
+27/07/2006,3 - 0,Start,Skála
+27/07/2006,2 - 1,Sūduva,Rhyl
+27/07/2006,2 - 0,Tirana,Varaždin
+27/07/2006,0 - 0,Tobol,Basel
+27/07/2006,0 - 1,Vaduz,Újpest
+27/07/2006,0 - 0,Valur,Brøndby
+27/07/2006,2 - 1,WIT Georgia,Petržalka
+27/07/2006,1 - 0,Young Boys,Mika
+13/07/2006,0 - 1,Ameri,Banants
+13/07/2006,3 - 1,APOEL,Murata
+13/07/2006,4 - 0,Åtvidaberg,Etzella Ettelbrück
+13/07/2006,3 - 1,Basel,Tobol
+13/07/2006,2 - 0,BATE,Nistru
+13/07/2006,3 - 1,Brøndby,Valur
+13/07/2006,0 - 1,Dinamo Tirana,CSKA Sofia
+13/07/2006,2 - 0,FCI Levadia,Haka
+13/07/2006,1 - 2,Gefle,Llanelli
+13/07/2006,0 - 1,Glentoran,Brann
+13/07/2006,0 - 4,Hibernians,Dinamo Bucureşti
+13/07/2006,1 - 1,HJK,Drogheda United
+13/07/2006,0 - 1,IFK Göteborg,Derry City
+13/07/2006,0 - 2,Jeunesse d'Esch,Skonto
+13/07/2006,1 - 0,Karvan,Spartak Trnava
+13/07/2006,0 - 1,Koper,Lovech
+13/07/2006,2 - 0,Lokomotiv Sofia,Makedonija
+13/07/2006,1 - 1,Lyn,Flora
+13/07/2006,1 - 3,Mika,Young Boys
+13/07/2006,0 - 2,Orašje,Domžale
+13/07/2006,2 - 0,Petržalka,WIT Georgia
+13/07/2006,1 - 3,Portadown,Kaunas
+13/07/2006,1 - 0,Randers,ÍA
+13/07/2006,5 - 0,Rapid Bucureşti,Sliema Wanderers
+13/07/2006,0 - 0,Rhyl,Sūduva
+13/07/2006,2 - 2,Rijeka,Omonia Nicosia
+13/07/2006,3 - 0,Sarajevo,Ranger's
+13/07/2006,0 - 1,Skála,Start
+13/07/2006,0 - 4,Újpest,Vaduz
+13/07/2006,1 - 1,Varaždin,Tirana
+13/07/2006,1 - 2,Vardar,KSV Roeselare
+13/07/2006,2 - 1,Ventspils,GI Gota
+13/07/2006,1 - 0,Videoton,Kairat
+13/07/2006,1 - 1,Zagłębie Lubin,Dinamo Minsk
+13/07/2006,1 - 1,Zimbru,Qarabağ

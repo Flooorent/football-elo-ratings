@@ -1,0 +1,381 @@
+date,score,home_team,away_team
+31/05/2009,2 - 1,Osasuna,Real Madrid
+31/05/2009,1 - 1,Racing Santander,Getafe
+31/05/2009,1 - 1,Real Betis,Real Valladolid
+31/05/2009,2 - 1,Sporting Gijón,Recreativo Huelva
+31/05/2009,3 - 0,[N] Espanyol,Málaga
+31/05/2009,0 - 2,Numancia,Sevilla
+30/05/2009,3 - 0,Atlético Madrid,Almería
+30/05/2009,1 - 1,Deportivo La Coruña,Barcelona
+30/05/2009,2 - 3,Mallorca,Villarreal
+30/05/2009,2 - 0,Valencia,Athletic Club
+24/05/2009,1 - 3,Real Madrid,Mallorca
+23/05/2009,0 - 3,Almería,Espanyol
+23/05/2009,1 - 4,Athletic Club,Atlético Madrid
+23/05/2009,0 - 1,Barcelona,Osasuna
+23/05/2009,1 - 0,Getafe,Numancia
+23/05/2009,1 - 1,Málaga,Real Betis
+23/05/2009,1 - 2,Real Valladolid,Sporting Gijón
+23/05/2009,0 - 1,Recreativo Huelva,Racing Santander
+23/05/2009,1 - 0,Sevilla,Deportivo La Coruña
+23/05/2009,3 - 1,Villarreal,Valencia
+17/05/2009,1 - 0,Atlético Madrid,Valencia
+17/05/2009,2 - 1,Mallorca,Barcelona
+17/05/2009,1 - 0,[N] Espanyol,Athletic Club
+17/05/2009,1 - 0,Numancia,Recreativo Huelva
+17/05/2009,3 - 2,Racing Santander,Real Valladolid
+17/05/2009,2 - 0,Real Betis,Almería
+17/05/2009,2 - 1,Sporting Gijón,Málaga
+16/05/2009,3 - 2,Villarreal,Real Madrid
+16/05/2009,1 - 1,Deportivo La Coruña,Getafe
+16/05/2009,0 - 0,Osasuna,Sevilla
+10/05/2009,3 - 2,Atlético Madrid,Espanyol
+10/05/2009,3 - 3,Barcelona,Villarreal
+10/05/2009,3 - 1,Almería,Sporting Gijón
+10/05/2009,3 - 0,Getafe,Osasuna
+10/05/2009,1 - 0,Málaga,Racing Santander
+10/05/2009,0 - 0,Real Valladolid,Numancia
+10/05/2009,1 - 2,Recreativo Huelva,Deportivo La Coruña
+09/05/2009,3 - 0,Valencia,Real Madrid
+09/05/2009,1 - 0,Athletic Club,Real Betis
+09/05/2009,3 - 1,Sevilla,Mallorca
+03/05/2009,0 - 2,Real Betis,Atlético Madrid
+03/05/2009,3 - 0,[N] Espanyol,Valencia
+03/05/2009,1 - 0,Deportivo La Coruña,Real Valladolid
+03/05/2009,2 - 1,Mallorca,Getafe
+03/05/2009,1 - 2,Osasuna,Recreativo Huelva
+03/05/2009,0 - 2,Racing Santander,Almería
+03/05/2009,1 - 1,Sporting Gijón,Athletic Club
+02/05/2009,2 - 0,Numancia,Málaga
+02/05/2009,0 - 2,Villarreal,Sevilla
+02/05/2009,2 - 6,Real Madrid,Barcelona
+26/04/2009,3 - 1,Atlético Madrid,Sporting Gijón
+26/04/2009,2 - 4,Sevilla,Real Madrid
+26/04/2009,2 - 1,Athletic Club,Racing Santander
+26/04/2009,2 - 0,[N] Espanyol,Real Betis
+26/04/2009,1 - 2,Getafe,Villarreal
+26/04/2009,0 - 0,Real Valladolid,Osasuna
+26/04/2009,2 - 4,Recreativo Huelva,Mallorca
+25/04/2009,2 - 2,Valencia,Barcelona
+25/04/2009,2 - 1,Almería,Numancia
+25/04/2009,1 - 1,Málaga,Deportivo La Coruña
+23/04/2009,2 - 0,Mallorca,Real Valladolid
+23/04/2009,5 - 1,Racing Santander,Atlético Madrid
+23/04/2009,0 - 3,Sporting Gijón,Espanyol
+23/04/2009,2 - 1,Villarreal,Recreativo Huelva
+22/04/2009,4 - 0,Barcelona,Sevilla
+22/04/2009,2 - 0,Deportivo La Coruña,Almería
+22/04/2009,2 - 3,Osasuna,Málaga
+22/04/2009,1 - 2,Real Betis,Valencia
+21/04/2009,1 - 2,Numancia,Athletic Club
+21/04/2009,3 - 2,Real Madrid,Getafe
+19/04/2009,2 - 0,Real Betis,Sporting Gijón
+19/04/2009,3 - 1,Valencia,Sevilla
+19/04/2009,2 - 1,Almería,Osasuna
+19/04/2009,1 - 0,[N] Espanyol,Racing Santander
+19/04/2009,0 - 0,Real Valladolid,Villarreal
+18/04/2009,0 - 1,Recreativo Huelva,Real Madrid
+18/04/2009,0 - 1,Athletic Club,Deportivo La Coruña
+18/04/2009,3 - 0,Atlético Madrid,Numancia
+18/04/2009,0 - 1,Getafe,Barcelona
+18/04/2009,1 - 1,Málaga,Mallorca
+12/04/2009,1 - 2,Deportivo La Coruña,Atlético Madrid
+12/04/2009,0 - 1,Sevilla,Getafe
+12/04/2009,2 - 0,Mallorca,Almería
+12/04/2009,0 - 0,Numancia,Espanyol
+12/04/2009,2 - 1,Osasuna,Athletic Club
+12/04/2009,2 - 3,Racing Santander,Real Betis
+12/04/2009,2 - 0,Real Madrid,Real Valladolid
+12/04/2009,2 - 3,Sporting Gijón,Valencia
+11/04/2009,0 - 2,Villarreal,Málaga
+11/04/2009,2 - 0,Barcelona,Recreativo Huelva
+05/04/2009,0 - 2,Sporting Gijón,Racing Santander
+05/04/2009,4 - 1,Valencia,Getafe
+05/04/2009,2 - 4,Atlético Madrid,Osasuna
+05/04/2009,3 - 1,[N] Espanyol,Deportivo La Coruña
+04/04/2009,0 - 1,Málaga,Real Madrid
+04/04/2009,3 - 0,Almería,Villarreal
+04/04/2009,2 - 1,Athletic Club,Mallorca
+04/04/2009,3 - 3,Real Betis,Numancia
+04/04/2009,0 - 1,Real Valladolid,Barcelona
+04/04/2009,0 - 1,Recreativo Huelva,Sevilla
+22/03/2009,2 - 0,Mallorca,Atlético Madrid
+22/03/2009,6 - 0,Barcelona,Málaga
+22/03/2009,1 - 1,Deportivo La Coruña,Real Betis
+22/03/2009,2 - 1,Getafe,Recreativo Huelva
+22/03/2009,2 - 1,Numancia,Sporting Gijón
+22/03/2009,1 - 0,Osasuna,Espanyol
+22/03/2009,0 - 1,Racing Santander,Valencia
+22/03/2009,3 - 0,Real Madrid,Almería
+21/03/2009,4 - 1,Sevilla,Real Valladolid
+21/03/2009,2 - 0,Villarreal,Athletic Club
+15/03/2009,0 - 2,Almería,Barcelona
+15/03/2009,3 - 2,Atlético Madrid,Villarreal
+15/03/2009,3 - 3,[N] Espanyol,Mallorca
+15/03/2009,2 - 2,Málaga,Sevilla
+15/03/2009,5 - 0,Racing Santander,Numancia
+15/03/2009,0 - 0,Real Betis,Osasuna
+15/03/2009,1 - 0,Real Valladolid,Getafe
+15/03/2009,3 - 2,Sporting Gijón,Deportivo La Coruña
+14/03/2009,2 - 5,Athletic Club,Real Madrid
+14/03/2009,1 - 1,Valencia,Recreativo Huelva
+08/03/2009,1 - 2,Getafe,Málaga
+08/03/2009,2 - 1,Sevilla,Almería
+08/03/2009,5 - 3,Deportivo La Coruña,Racing Santander
+08/03/2009,3 - 3,Mallorca,Real Betis
+08/03/2009,2 - 1,Numancia,Valencia
+08/03/2009,1 - 2,Osasuna,Sporting Gijón
+08/03/2009,2 - 3,Recreativo Huelva,Real Valladolid
+07/03/2009,1 - 0,Villarreal,Espanyol
+07/03/2009,2 - 0,Barcelona,Athletic Club
+07/03/2009,1 - 1,Real Madrid,Atlético Madrid
+01/03/2009,2 - 2,Real Betis,Villarreal
+01/03/2009,4 - 3,Atlético Madrid,Barcelona
+01/03/2009,1 - 2,Valencia,Real Valladolid
+01/03/2009,2 - 1,Almería,Getafe
+01/03/2009,0 - 2,Málaga,Recreativo Huelva
+01/03/2009,0 - 1,Numancia,Deportivo La Coruña
+01/03/2009,1 - 1,Racing Santander,Osasuna
+01/03/2009,0 - 1,Sporting Gijón,Mallorca
+28/02/2009,0 - 2,[N] Espanyol,Real Madrid
+28/02/2009,1 - 2,Athletic Club,Sevilla
+22/02/2009,1 - 1,Deportivo La Coruña,Valencia
+22/02/2009,1 - 1,Getafe,Athletic Club
+22/02/2009,1 - 0,Mallorca,Racing Santander
+22/02/2009,2 - 0,Osasuna,Numancia
+22/02/2009,1 - 3,Real Valladolid,Málaga
+22/02/2009,1 - 1,Recreativo Huelva,Almería
+21/02/2009,1 - 0,Sevilla,Atlético Madrid
+21/02/2009,1 - 2,Barcelona,Espanyol
+21/02/2009,6 - 1,Real Madrid,Real Betis
+21/02/2009,2 - 1,Villarreal,Sporting Gijón
+15/02/2009,1 - 1,Atlético Madrid,Getafe
+15/02/2009,0 - 2,[N] Espanyol,Sevilla
+15/02/2009,3 - 2,Almería,Real Valladolid
+15/02/2009,1 - 1,Athletic Club,Recreativo Huelva
+15/02/2009,0 - 1,Numancia,Mallorca
+15/02/2009,1 - 1,Racing Santander,Villarreal
+15/02/2009,0 - 4,Sporting Gijón,Real Madrid
+14/02/2009,1 - 1,Valencia,Málaga
+14/02/2009,0 - 0,Deportivo La Coruña,Osasuna
+14/02/2009,2 - 2,Real Betis,Barcelona
+08/02/2009,1 - 0,Osasuna,Valencia
+08/02/2009,3 - 1,Barcelona,Sporting Gijón
+08/02/2009,1 - 1,Getafe,Espanyol
+08/02/2009,3 - 2,Málaga,Almería
+08/02/2009,1 - 1,Mallorca,Deportivo La Coruña
+08/02/2009,2 - 1,Real Valladolid,Athletic Club
+08/02/2009,0 - 3,Recreativo Huelva,Atlético Madrid
+08/02/2009,2 - 1,Villarreal,Numancia
+07/02/2009,1 - 2,Sevilla,Real Betis
+07/02/2009,1 - 0,Real Madrid,Racing Santander
+01/02/2009,1 - 0,Sporting Gijón,Sevilla
+01/02/2009,3 - 2,Valencia,Almería
+01/02/2009,1 - 2,Atlético Madrid,Real Valladolid
+01/02/2009,3 - 0,Deportivo La Coruña,Villarreal
+01/02/2009,1 - 1,[N] Espanyol,Recreativo Huelva
+01/02/2009,1 - 0,Osasuna,Mallorca
+01/02/2009,1 - 2,Racing Santander,Barcelona
+01/02/2009,2 - 2,Real Betis,Getafe
+31/01/2009,0 - 2,Numancia,Real Madrid
+31/01/2009,3 - 2,Athletic Club,Málaga
+25/01/2009,1 - 0,Real Madrid,Deportivo La Coruña
+25/01/2009,0 - 2,Sevilla,Racing Santander
+25/01/2009,2 - 1,Almería,Athletic Club
+25/01/2009,5 - 1,Getafe,Sporting Gijón
+25/01/2009,1 - 1,Málaga,Atlético Madrid
+25/01/2009,3 - 1,Mallorca,Valencia
+25/01/2009,1 - 1,Real Valladolid,Espanyol
+25/01/2009,1 - 0,Recreativo Huelva,Real Betis
+24/01/2009,4 - 1,Barcelona,Numancia
+24/01/2009,1 - 1,Villarreal,Osasuna
+18/01/2009,1 - 1,Almería,Atlético Madrid
+18/01/2009,3 - 2,Athletic Club,Valencia
+18/01/2009,0 - 1,Getafe,Racing Santander
+18/01/2009,4 - 0,Málaga,Espanyol
+18/01/2009,3 - 1,Real Madrid,Osasuna
+18/01/2009,1 - 3,Real Valladolid,Real Betis
+18/01/2009,2 - 0,Recreativo Huelva,Sporting Gijón
+18/01/2009,2 - 0,Villarreal,Mallorca
+17/01/2009,1 - 0,Sevilla,Numancia
+17/01/2009,5 - 0,Barcelona,Deportivo La Coruña
+11/01/2009,2 - 3,Osasuna,Barcelona
+11/01/2009,2 - 2,[N] Espanyol,Almería
+11/01/2009,2 - 3,Atlético Madrid,Athletic Club
+11/01/2009,0 - 3,Mallorca,Real Madrid
+11/01/2009,2 - 0,Numancia,Getafe
+11/01/2009,1 - 1,Racing Santander,Recreativo Huelva
+11/01/2009,1 - 2,Real Betis,Málaga
+11/01/2009,2 - 1,Sporting Gijón,Real Valladolid
+10/01/2009,3 - 3,Valencia,Villarreal
+10/01/2009,1 - 3,Deportivo La Coruña,Sevilla
+04/01/2009,1 - 2,Getafe,Deportivo La Coruña
+04/01/2009,1 - 1,Sevilla,Osasuna
+04/01/2009,1 - 0,Almería,Real Betis
+04/01/2009,1 - 1,Athletic Club,Espanyol
+04/01/2009,1 - 0,Málaga,Sporting Gijón
+04/01/2009,1 - 0,Real Madrid,Villarreal
+04/01/2009,0 - 1,Real Valladolid,Racing Santander
+04/01/2009,3 - 1,Recreativo Huelva,Numancia
+03/01/2009,3 - 1,Valencia,Atlético Madrid
+03/01/2009,3 - 1,Barcelona,Mallorca
+21/12/2008,0 - 1,Real Betis,Athletic Club
+21/12/2008,1 - 2,Villarreal,Barcelona
+21/12/2008,4 - 1,Deportivo La Coruña,Recreativo Huelva
+21/12/2008,0 - 0,Mallorca,Sevilla
+21/12/2008,4 - 3,Numancia,Real Valladolid
+21/12/2008,5 - 2,Osasuna,Getafe
+21/12/2008,1 - 1,Racing Santander,Málaga
+21/12/2008,1 - 0,Sporting Gijón,Almería
+20/12/2008,2 - 3,[N] Espanyol,Atlético Madrid
+20/12/2008,1 - 0,Real Madrid,Valencia
+14/12/2008,2 - 0,Atlético Madrid,Real Betis
+14/12/2008,1 - 0,Sevilla,Villarreal
+14/12/2008,1 - 1,Almería,Racing Santander
+14/12/2008,3 - 0,Athletic Club,Sporting Gijón
+14/12/2008,4 - 1,Getafe,Mallorca
+14/12/2008,2 - 0,Málaga,Numancia
+14/12/2008,3 - 0,Real Valladolid,Deportivo La Coruña
+14/12/2008,1 - 0,Recreativo Huelva,Osasuna
+13/12/2008,2 - 0,Barcelona,Real Madrid
+13/12/2008,2 - 1,Valencia,Espanyol
+07/12/2008,3 - 4,Real Madrid,Sevilla
+07/12/2008,1 - 1,Real Betis,Espanyol
+07/12/2008,2 - 0,Deportivo La Coruña,Málaga
+07/12/2008,2 - 3,Mallorca,Recreativo Huelva
+07/12/2008,2 - 1,Numancia,Almería
+07/12/2008,3 - 3,Osasuna,Real Valladolid
+07/12/2008,1 - 1,Racing Santander,Athletic Club
+06/12/2008,4 - 0,Barcelona,Valencia
+06/12/2008,2 - 5,Sporting Gijón,Atlético Madrid
+06/12/2008,3 - 3,Villarreal,Getafe
+30/11/2008,4 - 1,Atlético Madrid,Racing Santander
+30/11/2008,3 - 2,Valencia,Real Betis
+30/11/2008,0 - 1,Almería,Deportivo La Coruña
+30/11/2008,2 - 0,Athletic Club,Numancia
+30/11/2008,0 - 1,[N] Espanyol,Sporting Gijón
+30/11/2008,4 - 2,Málaga,Osasuna
+30/11/2008,3 - 0,Real Valladolid,Mallorca
+30/11/2008,1 - 2,Recreativo Huelva,Villarreal
+29/11/2008,0 - 3,Sevilla,Barcelona
+29/11/2008,3 - 1,Getafe,Real Madrid
+23/11/2008,3 - 1,Deportivo La Coruña,Athletic Club
+23/11/2008,1 - 1,Barcelona,Getafe
+23/11/2008,2 - 2,Mallorca,Málaga
+23/11/2008,1 - 1,Numancia,Atlético Madrid
+23/11/2008,3 - 1,Osasuna,Almería
+23/11/2008,3 - 0,Racing Santander,Espanyol
+23/11/2008,1 - 2,Sporting Gijón,Real Betis
+22/11/2008,0 - 0,Sevilla,Valencia
+22/11/2008,1 - 0,Real Madrid,Recreativo Huelva
+22/11/2008,0 - 3,Villarreal,Real Valladolid
+16/11/2008,0 - 2,Recreativo Huelva,Barcelona
+16/11/2008,2 - 0,Athletic Club,Osasuna
+16/11/2008,2 - 1,Almería,Mallorca
+16/11/2008,4 - 1,Atlético Madrid,Deportivo La Coruña
+16/11/2008,3 - 4,[N] Espanyol,Numancia
+16/11/2008,0 - 2,Getafe,Sevilla
+16/11/2008,2 - 2,Málaga,Villarreal
+16/11/2008,3 - 1,Real Betis,Racing Santander
+15/11/2008,2 - 3,Valencia,Sporting Gijón
+15/11/2008,1 - 0,Real Valladolid,Real Madrid
+09/11/2008,0 - 3,Getafe,Valencia
+09/11/2008,1 - 0,Sevilla,Recreativo Huelva
+09/11/2008,1 - 0,Deportivo La Coruña,Espanyol
+09/11/2008,3 - 3,Mallorca,Athletic Club
+09/11/2008,2 - 4,Numancia,Real Betis
+09/11/2008,0 - 0,Osasuna,Atlético Madrid
+09/11/2008,1 - 0,Racing Santander,Sporting Gijón
+09/11/2008,2 - 1,Villarreal,Almería
+08/11/2008,6 - 0,Barcelona,Real Valladolid
+08/11/2008,4 - 3,Real Madrid,Málaga
+02/11/2008,0 - 3,Real Betis,Deportivo La Coruña
+02/11/2008,1 - 1,Almería,Real Madrid
+02/11/2008,1 - 0,[N] Espanyol,Osasuna
+02/11/2008,3 - 2,Real Valladolid,Sevilla
+02/11/2008,1 - 1,Recreativo Huelva,Getafe
+02/11/2008,3 - 1,Sporting Gijón,Numancia
+01/11/2008,2 - 4,Valencia,Racing Santander
+01/11/2008,1 - 4,Athletic Club,Villarreal
+01/11/2008,2 - 0,Atlético Madrid,Mallorca
+01/11/2008,1 - 4,Málaga,Barcelona
+26/10/2008,3 - 2,Real Madrid,Athletic Club
+26/10/2008,4 - 4,Villarreal,Atlético Madrid
+26/10/2008,0 - 3,Deportivo La Coruña,Sporting Gijón
+26/10/2008,1 - 0,Getafe,Real Valladolid
+26/10/2008,3 - 0,Mallorca,Espanyol
+26/10/2008,2 - 1,Numancia,Racing Santander
+26/10/2008,1 - 1,Recreativo Huelva,Valencia
+26/10/2008,0 - 1,Sevilla,Málaga
+25/10/2008,5 - 0,Barcelona,Almería
+25/10/2008,0 - 2,Osasuna,Real Betis
+19/10/2008,0 - 1,Almería,Sevilla
+19/10/2008,0 - 1,Athletic Club,Barcelona
+19/10/2008,2 - 1,Málaga,Getafe
+19/10/2008,0 - 0,Racing Santander,Deportivo La Coruña
+19/10/2008,3 - 0,Real Betis,Mallorca
+19/10/2008,1 - 1,Real Valladolid,Recreativo Huelva
+19/10/2008,2 - 1,Sporting Gijón,Osasuna
+19/10/2008,4 - 0,Valencia,Numancia
+18/10/2008,0 - 0,[N] Espanyol,Villarreal
+18/10/2008,1 - 2,Atlético Madrid,Real Madrid
+05/10/2008,2 - 2,Real Madrid,Espanyol
+05/10/2008,0 - 1,Real Valladolid,Valencia
+05/10/2008,1 - 0,Deportivo La Coruña,Numancia
+05/10/2008,2 - 2,Getafe,Almería
+05/10/2008,0 - 2,Mallorca,Sporting Gijón
+05/10/2008,0 - 1,Osasuna,Racing Santander
+05/10/2008,0 - 4,Recreativo Huelva,Málaga
+05/10/2008,4 - 0,Sevilla,Athletic Club
+04/10/2008,6 - 1,Barcelona,Atlético Madrid
+04/10/2008,2 - 1,Villarreal,Real Betis
+28/09/2008,0 - 1,Atlético Madrid,Sevilla
+28/09/2008,4 - 2,Valencia,Deportivo La Coruña
+28/09/2008,1 - 0,Almería,Recreativo Huelva
+28/09/2008,0 - 1,Athletic Club,Getafe
+28/09/2008,2 - 1,Málaga,Real Valladolid
+28/09/2008,0 - 0,Numancia,Osasuna
+28/09/2008,1 - 2,Racing Santander,Mallorca
+27/09/2008,1 - 2,[N] Espanyol,Barcelona
+27/09/2008,1 - 2,Real Betis,Real Madrid
+27/09/2008,0 - 1,Sporting Gijón,Villarreal
+25/09/2008,0 - 2,Málaga,Valencia
+25/09/2008,2 - 0,Mallorca,Numancia
+25/09/2008,2 - 0,Real Valladolid,Almería
+25/09/2008,1 - 1,Recreativo Huelva,Athletic Club
+24/09/2008,7 - 1,Real Madrid,Sporting Gijón
+24/09/2008,2 - 0,Sevilla,Espanyol
+24/09/2008,1 - 2,Getafe,Atlético Madrid
+24/09/2008,3 - 2,Barcelona,Real Betis
+24/09/2008,0 - 0,Osasuna,Deportivo La Coruña
+24/09/2008,2 - 0,Villarreal,Racing Santander
+21/09/2008,1 - 6,Sporting Gijón,Barcelona
+21/09/2008,0 - 2,Racing Santander,Real Madrid
+21/09/2008,1 - 0,Almería,Málaga
+21/09/2008,2 - 0,Athletic Club,Real Valladolid
+21/09/2008,0 - 0,Deportivo La Coruña,Mallorca
+21/09/2008,1 - 2,Numancia,Villarreal
+21/09/2008,0 - 0,Real Betis,Sevilla
+21/09/2008,1 - 0,Valencia,Osasuna
+20/09/2008,1 - 1,[N] Espanyol,Getafe
+20/09/2008,4 - 0,Atlético Madrid,Recreativo Huelva
+14/09/2008,2 - 2,Almería,Valencia
+14/09/2008,4 - 3,Real Madrid,Numancia
+14/09/2008,0 - 0,Getafe,Real Betis
+14/09/2008,0 - 0,Málaga,Athletic Club
+14/09/2008,1 - 1,Mallorca,Osasuna
+14/09/2008,0 - 1,Recreativo Huelva,Espanyol
+14/09/2008,1 - 0,Villarreal,Deportivo La Coruña
+13/09/2008,4 - 3,Sevilla,Sporting Gijón
+13/09/2008,1 - 1,Barcelona,Racing Santander
+13/09/2008,2 - 1,Real Valladolid,Atlético Madrid
+31/08/2008,2 - 1,Deportivo La Coruña,Real Madrid
+31/08/2008,1 - 3,Athletic Club,Almería
+31/08/2008,4 - 0,Atlético Madrid,Málaga
+31/08/2008,1 - 0,Numancia,Barcelona
+31/08/2008,1 - 1,Osasuna,Villarreal
+31/08/2008,1 - 1,Racing Santander,Sevilla
+31/08/2008,0 - 1,Real Betis,Recreativo Huelva
+31/08/2008,1 - 2,Sporting Gijón,Getafe
+30/08/2008,3 - 0,Valencia,Mallorca
+30/08/2008,1 - 0,[N] Espanyol,Real Valladolid

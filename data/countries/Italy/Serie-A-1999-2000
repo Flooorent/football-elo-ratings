@@ -1,0 +1,307 @@
+date,score,home_team,away_team
+14/05/2000,1 - 1,Bari 1908,Bologna
+14/05/2000,0 - 2,Cagliari,Internazionale
+14/05/2000,3 - 0,Fiorentina,Venezia
+14/05/2000,2 - 2,Hellas Verona,Roma
+14/05/2000,3 - 0,Lazio,Reggina
+14/05/2000,4 - 0,Milan,Udinese
+14/05/2000,4 - 1,Parma,Lecce
+14/05/2000,1 - 0,Perugia,Juventus
+14/05/2000,2 - 1,Torino,Piacenza
+07/05/2000,2 - 3,Bologna,Lazio
+07/05/2000,0 - 4,Internazionale,Fiorentina
+07/05/2000,1 - 0,Juventus,Parma
+07/05/2000,2 - 1,Lecce,Torino
+07/05/2000,1 - 1,Piacenza,Cagliari
+07/05/2000,1 - 1,Reggina,Hellas Verona
+07/05/2000,1 - 1,Roma,Milan
+07/05/2000,2 - 1,Udinese,Perugia
+07/05/2000,0 - 1,Venezia,Bari 1908
+30/04/2000,0 - 0,Bari 1908,Roma
+30/04/2000,2 - 2,Cagliari,Bologna
+30/04/2000,3 - 0,Fiorentina,Lecce
+30/04/2000,2 - 0,Hellas Verona,Juventus
+30/04/2000,3 - 2,Lazio,Venezia
+30/04/2000,1 - 0,Milan,Piacenza
+30/04/2000,0 - 0,Parma,Udinese
+30/04/2000,1 - 2,Perugia,Internazionale
+30/04/2000,2 - 1,Torino,Reggina
+22/04/2000,2 - 1,Bologna,Perugia
+22/04/2000,3 - 0,Internazionale,Bari 1908
+22/04/2000,1 - 0,Juventus,Fiorentina
+22/04/2000,2 - 1,Lecce,Cagliari
+22/04/2000,0 - 2,Piacenza,Lazio
+22/04/2000,1 - 2,Reggina,Milan
+22/04/2000,0 - 0,Roma,Parma
+22/04/2000,0 - 0,Udinese,Torino
+22/04/2000,2 - 2,Venezia,Hellas Verona
+16/04/2000,3 - 1,Bari 1908,Lecce
+16/04/2000,0 - 1,Cagliari,Reggina
+16/04/2000,1 - 2,Internazionale,Juventus
+16/04/2000,3 - 1,Parma,Venezia
+16/04/2000,2 - 0,Perugia,Piacenza
+16/04/2000,2 - 0,Roma,Bologna
+16/04/2000,2 - 2,Torino,Milan
+15/04/2000,3 - 3,Fiorentina,Lazio
+15/04/2000,2 - 2,Hellas Verona,Udinese
+09/04/2000,0 - 2,Bologna,Juventus
+09/04/2000,0 - 1,Cagliari,Hellas Verona
+09/04/2000,1 - 0,Lazio,Perugia
+09/04/2000,0 - 0,Lecce,Roma
+09/04/2000,1 - 1,Milan,Fiorentina
+09/04/2000,2 - 1,Piacenza,Bari 1908
+09/04/2000,1 - 0,Reggina,Venezia
+08/04/2000,2 - 2,Torino,Parma
+08/04/2000,3 - 0,Udinese,Internazionale
+02/04/2000,1 - 0,Bari 1908,Cagliari
+02/04/2000,1 - 0,Hellas Verona,Piacenza
+02/04/2000,1 - 1,Internazionale,Reggina
+02/04/2000,1 - 0,Parma,Milan
+02/04/2000,1 - 0,Perugia,Torino
+02/04/2000,1 - 1,Roma,Udinese
+02/04/2000,0 - 0,Venezia,Lecce
+01/04/2000,2 - 2,Fiorentina,Bologna
+01/04/2000,0 - 1,Juventus,Lazio
+25/03/2000,2 - 1,Bologna,Udinese
+25/03/2000,2 - 3,Cagliari,Parma
+25/03/2000,2 - 1,Lazio,Roma
+25/03/2000,1 - 0,Lecce,Internazionale
+25/03/2000,1 - 2,Perugia,Fiorentina
+25/03/2000,2 - 2,Piacenza,Venezia
+25/03/2000,1 - 0,Reggina,Bari 1908
+25/03/2000,0 - 3,Torino,Hellas Verona
+24/03/2000,2 - 0,Milan,Juventus
+19/03/2000,0 - 2,Bari 1908,Perugia
+19/03/2000,1 - 0,Hellas Verona,Lazio
+19/03/2000,3 - 2,Juventus,Torino
+19/03/2000,1 - 0,Parma,Piacenza
+19/03/2000,0 - 2,Roma,Reggina
+19/03/2000,2 - 1,Udinese,Lecce
+19/03/2000,1 - 0,Venezia,Milan
+18/03/2000,2 - 0,Fiorentina,Cagliari
+18/03/2000,1 - 1,Internazionale,Bologna
+12/03/2000,0 - 1,Bari 1908,Parma
+12/03/2000,1 - 0,Cagliari,Roma
+12/03/2000,3 - 3,Milan,Hellas Verona
+12/03/2000,2 - 2,Perugia,Lecce
+12/03/2000,0 - 2,Piacenza,Juventus
+12/03/2000,0 - 0,Reggina,Udinese
+12/03/2000,1 - 0,Torino,Fiorentina
+11/03/2000,1 - 1,Bologna,Venezia
+11/03/2000,2 - 2,Lazio,Internazionale
+05/03/2000,0 - 0,Hellas Verona,Bologna
+05/03/2000,2 - 0,Juventus,Bari 1908
+05/03/2000,0 - 1,Lecce,Lazio
+05/03/2000,1 - 2,Milan,Internazionale
+05/03/2000,3 - 0,Parma,Reggina
+05/03/2000,1 - 0,Roma,Torino
+05/03/2000,1 - 2,Venezia,Perugia
+04/03/2000,2 - 1,Fiorentina,Piacenza
+04/03/2000,5 - 2,Udinese,Cagliari
+27/02/2000,1 - 1,Bari 1908,Torino
+27/02/2000,0 - 0,Bologna,Piacenza
+27/02/2000,0 - 0,Cagliari,Milan
+27/02/2000,3 - 0,Internazionale,Venezia
+27/02/2000,2 - 1,Juventus,Roma
+27/02/2000,0 - 0,Perugia,Hellas Verona
+27/02/2000,2 - 1,Reggina,Lecce
+26/02/2000,2 - 1,Lazio,Udinese
+26/02/2000,0 - 4,Parma,Fiorentina
+20/02/2000,4 - 3,Hellas Verona,Parma
+20/02/2000,1 - 1,Lecce,Bologna
+20/02/2000,2 - 1,Milan,Lazio
+20/02/2000,1 - 3,Piacenza,Internazionale
+20/02/2000,1 - 1,Torino,Cagliari
+20/02/2000,5 - 1,Udinese,Bari 1908
+20/02/2000,0 - 4,Venezia,Juventus
+19/02/2000,1 - 1,Reggina,Perugia
+19/02/2000,4 - 0,Roma,Fiorentina
+13/02/2000,1 - 1,Fiorentina,Udinese
+13/02/2000,1 - 1,Internazionale,Torino
+13/02/2000,1 - 0,Juventus,Lecce
+13/02/2000,0 - 0,Lazio,Parma
+13/02/2000,2 - 2,Perugia,Roma
+13/02/2000,0 - 0,Piacenza,Reggina
+13/02/2000,3 - 0,Venezia,Cagliari
+12/02/2000,1 - 1,Bari 1908,Hellas Verona
+12/02/2000,2 - 3,Bologna,Milan
+06/02/2000,2 - 2,Hellas Verona,Fiorentina
+06/02/2000,0 - 1,Lecce,Piacenza
+06/02/2000,4 - 1,Milan,Bari 1908
+06/02/2000,1 - 1,Parma,Internazionale
+06/02/2000,1 - 0,Reggina,Bologna
+06/02/2000,5 - 0,Roma,Venezia
+06/02/2000,2 - 4,Torino,Lazio
+05/02/2000,2 - 1,Cagliari,Perugia
+05/02/2000,1 - 1,Udinese,Juventus
+30/01/2000,1 - 0,Bologna,Parma
+30/01/2000,1 - 0,Fiorentina,Reggina
+30/01/2000,2 - 1,Internazionale,Roma
+30/01/2000,1 - 1,Juventus,Cagliari
+30/01/2000,3 - 1,Lazio,Bari 1908
+30/01/2000,0 - 3,Perugia,Milan
+30/01/2000,2 - 2,Venezia,Torino
+29/01/2000,2 - 1,Lecce,Hellas Verona
+29/01/2000,0 - 1,Piacenza,Udinese
+23/01/2000,1 - 0,Bari 1908,Fiorentina
+23/01/2000,1 - 2,Hellas Verona,Internazionale
+23/01/2000,2 - 2,Milan,Lecce
+23/01/2000,1 - 2,Parma,Perugia
+23/01/2000,0 - 2,Reggina,Juventus
+23/01/2000,2 - 1,Torino,Bologna
+23/01/2000,5 - 2,Udinese,Venezia
+22/01/2000,0 - 0,Cagliari,Lazio
+22/01/2000,2 - 1,Roma,Piacenza
+16/01/2000,2 - 1,Internazionale,Cagliari
+16/01/2000,3 - 0,Juventus,Perugia
+16/01/2000,0 - 0,Lecce,Parma
+16/01/2000,0 - 2,Piacenza,Torino
+16/01/2000,0 - 0,Reggina,Lazio
+16/01/2000,3 - 1,Roma,Hellas Verona
+16/01/2000,1 - 2,Udinese,Milan
+15/01/2000,1 - 0,Bologna,Bari 1908
+15/01/2000,2 - 1,Venezia,Fiorentina
+09/01/2000,3 - 0,Bari 1908,Venezia
+09/01/2000,3 - 0,Cagliari,Piacenza
+09/01/2000,2 - 1,Fiorentina,Internazionale
+09/01/2000,1 - 1,Hellas Verona,Reggina
+09/01/2000,3 - 1,Lazio,Bologna
+09/01/2000,2 - 2,Milan,Roma
+09/01/2000,1 - 1,Parma,Juventus
+09/01/2000,0 - 5,Perugia,Udinese
+09/01/2000,1 - 2,Torino,Lecce
+06/01/2000,1 - 0,Bologna,Cagliari
+06/01/2000,5 - 0,Internazionale,Perugia
+06/01/2000,1 - 0,Juventus,Hellas Verona
+06/01/2000,0 - 0,Lecce,Fiorentina
+06/01/2000,0 - 1,Piacenza,Milan
+06/01/2000,2 - 1,Reggina,Torino
+06/01/2000,3 - 1,Roma,Bari 1908
+06/01/2000,0 - 1,Udinese,Parma
+05/01/2000,2 - 0,Venezia,Lazio
+19/12/1999,0 - 0,Cagliari,Lecce
+19/12/1999,1 - 1,Fiorentina,Juventus
+19/12/1999,2 - 0,Lazio,Piacenza
+19/12/1999,2 - 2,Milan,Reggina
+19/12/1999,2 - 0,Parma,Roma
+19/12/1999,3 - 2,Perugia,Bologna
+19/12/1999,0 - 1,Torino,Udinese
+18/12/1999,2 - 1,Bari 1908,Internazionale
+18/12/1999,1 - 0,Hellas Verona,Venezia
+12/12/1999,1 - 0,Bologna,Roma
+12/12/1999,1 - 0,Juventus,Internazionale
+12/12/1999,2 - 0,Lazio,Fiorentina
+12/12/1999,0 - 0,Piacenza,Perugia
+12/12/1999,1 - 1,Reggina,Cagliari
+12/12/1999,3 - 3,Udinese,Hellas Verona
+12/12/1999,0 - 2,Venezia,Parma
+11/12/1999,1 - 0,Lecce,Bari 1908
+11/12/1999,2 - 0,Milan,Torino
+05/12/1999,3 - 2,Bari 1908,Piacenza
+05/12/1999,2 - 1,Fiorentina,Milan
+05/12/1999,2 - 0,Hellas Verona,Cagliari
+05/12/1999,3 - 0,Internazionale,Udinese
+05/12/1999,4 - 1,Parma,Torino
+05/12/1999,3 - 2,Roma,Lecce
+05/12/1999,2 - 0,Venezia,Reggina
+04/12/1999,2 - 0,Juventus,Bologna
+04/12/1999,0 - 2,Perugia,Lazio
+28/11/1999,2 - 3,Cagliari,Bari 1908
+28/11/1999,0 - 0,Lazio,Juventus
+28/11/1999,2 - 1,Lecce,Venezia
+28/11/1999,2 - 1,Milan,Parma
+28/11/1999,0 - 1,Reggina,Internazionale
+28/11/1999,0 - 1,Torino,Perugia
+28/11/1999,0 - 2,Udinese,Roma
+27/11/1999,0 - 0,Bologna,Fiorentina
+27/11/1999,1 - 0,Piacenza,Hellas Verona
+21/11/1999,1 - 1,Bari 1908,Reggina
+21/11/1999,0 - 1,Hellas Verona,Torino
+21/11/1999,6 - 0,Internazionale,Lecce
+21/11/1999,3 - 1,Juventus,Milan
+21/11/1999,3 - 1,Parma,Cagliari
+21/11/1999,4 - 1,Roma,Lazio
+21/11/1999,0 - 0,Venezia,Piacenza
+20/11/1999,1 - 0,Fiorentina,Perugia
+20/11/1999,2 - 1,Udinese,Bologna
+07/11/1999,3 - 0,Bologna,Internazionale
+07/11/1999,4 - 0,Lazio,Hellas Verona
+07/11/1999,1 - 0,Lecce,Udinese
+07/11/1999,3 - 0,Milan,Venezia
+07/11/1999,1 - 2,Piacenza,Parma
+07/11/1999,0 - 4,Reggina,Roma
+07/11/1999,0 - 0,Torino,Juventus
+06/11/1999,1 - 1,Cagliari,Fiorentina
+06/11/1999,1 - 2,Perugia,Bari 1908
+31/10/1999,0 - 0,Hellas Verona,Milan
+31/10/1999,1 - 0,Juventus,Piacenza
+31/10/1999,0 - 1,Lecce,Perugia
+31/10/1999,2 - 1,Parma,Bari 1908
+31/10/1999,2 - 2,Roma,Cagliari
+31/10/1999,3 - 2,Udinese,Reggina
+30/10/1999,1 - 1,Fiorentina,Torino
+30/10/1999,1 - 1,Internazionale,Lazio
+30/10/1999,0 - 1,Venezia,Bologna
+24/10/1999,1 - 1,Bari 1908,Juventus
+24/10/1999,0 - 0,Bologna,Hellas Verona
+24/10/1999,0 - 3,Cagliari,Udinese
+24/10/1999,4 - 2,Lazio,Lecce
+24/10/1999,2 - 0,Piacenza,Fiorentina
+24/10/1999,2 - 2,Reggina,Parma
+24/10/1999,1 - 1,Torino,Roma
+23/10/1999,1 - 2,Internazionale,Milan
+23/10/1999,2 - 1,Perugia,Venezia
+17/10/1999,2 - 0,Hellas Verona,Perugia
+17/10/1999,2 - 1,Lecce,Reggina
+17/10/1999,2 - 2,Milan,Cagliari
+17/10/1999,0 - 0,Piacenza,Bologna
+17/10/1999,0 - 1,Roma,Juventus
+17/10/1999,3 - 1,Torino,Bari 1908
+17/10/1999,1 - 0,Venezia,Internazionale
+16/10/1999,0 - 2,Fiorentina,Parma
+16/10/1999,0 - 3,Udinese,Lazio
+03/10/1999,1 - 1,Bari 1908,Udinese
+03/10/1999,2 - 0,Bologna,Lecce
+03/10/1999,1 - 3,Fiorentina,Roma
+03/10/1999,1 - 0,Juventus,Venezia
+03/10/1999,4 - 4,Lazio,Milan
+03/10/1999,3 - 0,Parma,Hellas Verona
+03/10/1999,2 - 1,Perugia,Reggina
+02/10/1999,1 - 1,Cagliari,Torino
+02/10/1999,2 - 1,Internazionale,Piacenza
+26/09/1999,1 - 1,Cagliari,Venezia
+26/09/1999,0 - 1,Hellas Verona,Bari 1908
+26/09/1999,1 - 2,Parma,Lazio
+26/09/1999,1 - 0,Reggina,Piacenza
+26/09/1999,3 - 1,Roma,Perugia
+26/09/1999,0 - 1,Torino,Internazionale
+26/09/1999,1 - 1,Udinese,Fiorentina
+25/09/1999,2 - 0,Lecce,Juventus
+25/09/1999,4 - 0,Milan,Bologna
+19/09/1999,0 - 1,Bologna,Reggina
+19/09/1999,4 - 1,Fiorentina,Hellas Verona
+19/09/1999,5 - 1,Internazionale,Parma
+19/09/1999,4 - 1,Juventus,Udinese
+19/09/1999,3 - 0,Lazio,Torino
+19/09/1999,1 - 1,Piacenza,Lecce
+19/09/1999,1 - 3,Venezia,Roma
+18/09/1999,1 - 1,Bari 1908,Milan
+18/09/1999,3 - 0,Perugia,Cagliari
+12/09/1999,0 - 1,Cagliari,Juventus
+12/09/1999,2 - 0,Hellas Verona,Lecce
+12/09/1999,3 - 1,Milan,Perugia
+12/09/1999,1 - 1,Parma,Bologna
+12/09/1999,0 - 0,Roma,Internazionale
+12/09/1999,2 - 1,Torino,Venezia
+11/09/1999,0 - 0,Bari 1908,Lazio
+11/09/1999,2 - 2,Reggina,Fiorentina
+11/09/1999,3 - 0,Udinese,Piacenza
+30/08/1999,2 - 1,Lazio,Cagliari
+29/08/1999,1 - 0,Fiorentina,Bari 1908
+29/08/1999,3 - 0,Internazionale,Hellas Verona
+29/08/1999,1 - 1,Juventus,Reggina
+29/08/1999,2 - 2,Lecce,Milan
+29/08/1999,1 - 1,Perugia,Parma
+29/08/1999,1 - 1,Piacenza,Roma
+29/08/1999,1 - 1,Venezia,Udinese
+28/08/1999,0 - 0,Bologna,Torino

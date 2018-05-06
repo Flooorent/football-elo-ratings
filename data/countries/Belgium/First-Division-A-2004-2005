@@ -1,0 +1,309 @@
+date,score,home_team,away_team
+29/05/2005,3 - 0,Genk,Standard Liège
+26/05/2005,3 - 1,Standard Liège,Genk
+21/05/2005,2 - 1,Anderlecht,Mons
+21/05/2005,3 - 1,Beerschot,Beveren
+21/05/2005,1 - 3,Cercle Brugge,Genk
+21/05/2005,2 - 0,Excelsior Mouscron,RWDM Brussels
+21/05/2005,1 - 0,Gent,Westerlo
+21/05/2005,1 - 1,KV Oostende,Standard Liège
+21/05/2005,7 - 0,Lierse,La Louvière
+21/05/2005,3 - 2,Sint-Truiden,Club Brugge
+21/05/2005,2 - 1,Sporting Charleroi,Lokeren
+15/05/2005,3 - 1,Beerschot,Sint-Truiden
+15/05/2005,2 - 2,Club Brugge,Anderlecht
+15/05/2005,2 - 0,Genk,Sporting Charleroi
+15/05/2005,2 - 0,La Louvière,KV Oostende
+15/05/2005,0 - 2,Lokeren,Lierse
+15/05/2005,0 - 2,Mons,Excelsior Mouscron
+15/05/2005,2 - 1,RWDM Brussels,Cercle Brugge
+15/05/2005,3 - 0,Standard Liège,Gent
+15/05/2005,1 - 1,Westerlo,Beveren
+08/05/2005,0 - 2,KV Oostende,Lokeren
+08/05/2005,1 - 0,Sint-Truiden,Westerlo
+07/05/2005,3 - 0,Anderlecht,Beerschot
+07/05/2005,2 - 3,Beveren,Standard Liège
+07/05/2005,1 - 0,Cercle Brugge,Excelsior Mouscron
+07/05/2005,2 - 1,Gent,La Louvière
+07/05/2005,1 - 5,Lierse,Genk
+07/05/2005,1 - 2,Sporting Charleroi,RWDM Brussels
+06/05/2005,0 - 0,Mons,Club Brugge
+01/05/2005,0 - 4,Cercle Brugge,Sporting Charleroi
+30/04/2005,2 - 0,Beerschot,Mons
+30/04/2005,0 - 1,Excelsior Mouscron,Club Brugge
+30/04/2005,2 - 2,Genk,KV Oostende
+30/04/2005,3 - 0,La Louvière,Beveren
+30/04/2005,0 - 1,Lokeren,Gent
+30/04/2005,3 - 2,RWDM Brussels,Lierse
+30/04/2005,4 - 1,Standard Liège,Sint-Truiden
+29/04/2005,2 - 2,Westerlo,Anderlecht
+24/04/2005,2 - 0,Lierse,Cercle Brugge
+24/04/2005,2 - 0,Sporting Charleroi,Excelsior Mouscron
+23/04/2005,0 - 2,Beveren,Lokeren
+23/04/2005,6 - 0,Club Brugge,Beerschot
+23/04/2005,0 - 1,Gent,Genk
+23/04/2005,1 - 0,KV Oostende,RWDM Brussels
+23/04/2005,3 - 2,Mons,Westerlo
+23/04/2005,2 - 1,Sint-Truiden,La Louvière
+22/04/2005,3 - 2,Anderlecht,Standard Liège
+17/04/2005,2 - 0,Cercle Brugge,KV Oostende
+17/04/2005,1 - 1,La Louvière,Anderlecht
+17/04/2005,2 - 0,Standard Liège,Mons
+16/04/2005,0 - 1,Excelsior Mouscron,Beerschot
+16/04/2005,2 - 1,Genk,Beveren
+16/04/2005,4 - 3,Lokeren,Sint-Truiden
+16/04/2005,1 - 1,RWDM Brussels,Gent
+16/04/2005,1 - 0,Sporting Charleroi,Lierse
+15/04/2005,1 - 3,Westerlo,Club Brugge
+10/04/2005,0 - 1,Beveren,RWDM Brussels
+10/04/2005,1 - 1,Club Brugge,Standard Liège
+09/04/2005,2 - 0,Anderlecht,Lokeren
+09/04/2005,1 - 0,Beerschot,Westerlo
+09/04/2005,1 - 2,Gent,Cercle Brugge
+09/04/2005,1 - 2,KV Oostende,Sporting Charleroi
+09/04/2005,0 - 1,Lierse,Excelsior Mouscron
+09/04/2005,4 - 1,Mons,La Louvière
+08/04/2005,0 - 2,Sint-Truiden,Genk
+03/04/2005,3 - 0,Excelsior Mouscron,Westerlo
+03/04/2005,2 - 4,Genk,Anderlecht
+03/04/2005,0 - 1,RWDM Brussels,Sint-Truiden
+02/04/2005,1 - 1,Cercle Brugge,Beveren
+02/04/2005,0 - 2,La Louvière,Club Brugge
+02/04/2005,3 - 1,Lierse,KV Oostende
+02/04/2005,0 - 0,Lokeren,Mons
+02/04/2005,3 - 2,Sporting Charleroi,Gent
+02/04/2005,3 - 0,Standard Liège,Beerschot
+20/03/2005,1 - 0,KV Oostende,Excelsior Mouscron
+19/03/2005,3 - 0,Anderlecht,RWDM Brussels
+19/03/2005,1 - 1,Beerschot,La Louvière
+19/03/2005,1 - 2,Beveren,Sporting Charleroi
+19/03/2005,0 - 0,Club Brugge,Lokeren
+19/03/2005,1 - 0,Gent,Lierse
+19/03/2005,0 - 1,Sint-Truiden,Cercle Brugge
+19/03/2005,1 - 3,Westerlo,Standard Liège
+18/03/2005,1 - 2,Mons,Genk
+16/03/2005,1 - 0,Standard Liège,La Louvière
+13/03/2005,1 - 3,Cercle Brugge,Anderlecht
+13/03/2005,2 - 1,Genk,Club Brugge
+13/03/2005,1 - 3,Lierse,Beveren
+12/03/2005,1 - 2,KV Oostende,Gent
+12/03/2005,1 - 2,La Louvière,Westerlo
+12/03/2005,0 - 1,Lokeren,Beerschot
+12/03/2005,2 - 1,RWDM Brussels,Mons
+12/03/2005,0 - 0,Sporting Charleroi,Sint-Truiden
+11/03/2005,0 - 3,Excelsior Mouscron,Standard Liège
+09/03/2005,3 - 1,Beerschot,Genk
+09/03/2005,2 - 2,Beveren,KV Oostende
+09/03/2005,4 - 1,Club Brugge,RWDM Brussels
+09/03/2005,1 - 3,Mons,Cercle Brugge
+09/03/2005,4 - 0,Sint-Truiden,Lierse
+09/03/2005,1 - 1,Westerlo,Lokeren
+08/03/2005,3 - 0,Anderlecht,Sporting Charleroi
+08/03/2005,1 - 0,Gent,Excelsior Mouscron
+26/02/2005,0 - 2,Sint-Truiden,Gent
+25/02/2005,1 - 2,Mons,Anderlecht
+25/02/2005,1 - 0,Standard Liège,Genk
+20/02/2005,1 - 2,Cercle Brugge,Club Brugge
+20/02/2005,2 - 1,RWDM Brussels,Beerschot
+19/02/2005,1 - 1,Excelsior Mouscron,La Louvière
+19/02/2005,3 - 2,Genk,Westerlo
+19/02/2005,1 - 0,Gent,Beveren
+19/02/2005,1 - 0,KV Oostende,Sint-Truiden
+19/02/2005,0 - 0,Lokeren,Standard Liège
+19/02/2005,1 - 0,Sporting Charleroi,Mons
+18/02/2005,1 - 1,Lierse,Anderlecht
+13/02/2005,2 - 3,Beerschot,Cercle Brugge
+13/02/2005,1 - 1,Club Brugge,Sporting Charleroi
+13/02/2005,4 - 1,Mons,Lierse
+12/02/2005,0 - 1,Anderlecht,KV Oostende
+12/02/2005,2 - 2,Beveren,Excelsior Mouscron
+12/02/2005,0 - 0,La Louvière,Lokeren
+12/02/2005,1 - 0,Westerlo,RWDM Brussels
+06/02/2005,0 - 0,Cercle Brugge,Westerlo
+06/02/2005,0 - 0,Gent,Anderlecht
+06/02/2005,1 - 0,Sporting Charleroi,Beerschot
+05/02/2005,3 - 1,Beveren,Sint-Truiden
+05/02/2005,1 - 1,Excelsior Mouscron,Lokeren
+05/02/2005,1 - 0,Genk,La Louvière
+05/02/2005,1 - 0,KV Oostende,Mons
+05/02/2005,0 - 2,Lierse,Club Brugge
+05/02/2005,0 - 1,RWDM Brussels,Standard Liège
+30/01/2005,1 - 0,La Louvière,RWDM Brussels
+30/01/2005,1 - 3,Lokeren,Genk
+29/01/2005,5 - 2,Anderlecht,Beveren
+29/01/2005,2 - 2,Beerschot,Lierse
+29/01/2005,7 - 3,Club Brugge,KV Oostende
+29/01/2005,1 - 0,Mons,Gent
+29/01/2005,3 - 2,Sint-Truiden,Excelsior Mouscron
+29/01/2005,4 - 0,Standard Liège,Cercle Brugge
+29/01/2005,2 - 1,Westerlo,Sporting Charleroi
+23/01/2005,2 - 2,Cercle Brugge,La Louvière
+23/01/2005,0 - 1,Gent,Club Brugge
+22/01/2005,0 - 4,Beveren,Mons
+22/01/2005,1 - 2,Excelsior Mouscron,Genk
+22/01/2005,0 - 0,KV Oostende,Beerschot
+22/01/2005,3 - 0,Lierse,Westerlo
+22/01/2005,1 - 2,RWDM Brussels,Lokeren
+22/01/2005,2 - 2,Sint-Truiden,Anderlecht
+22/01/2005,0 - 0,Sporting Charleroi,Standard Liège
+16/01/2005,2 - 0,Westerlo,KV Oostende
+15/01/2005,2 - 0,Anderlecht,Excelsior Mouscron
+15/01/2005,0 - 0,Beerschot,Gent
+15/01/2005,3 - 1,Club Brugge,Beveren
+15/01/2005,3 - 1,Genk,RWDM Brussels
+15/01/2005,0 - 0,La Louvière,Sporting Charleroi
+15/01/2005,4 - 0,Lokeren,Cercle Brugge
+15/01/2005,4 - 1,Mons,Sint-Truiden
+15/01/2005,4 - 1,Standard Liège,Lierse
+19/12/2004,1 - 0,Beveren,Beerschot
+19/12/2004,5 - 1,Club Brugge,Sint-Truiden
+19/12/2004,5 - 0,Standard Liège,KV Oostende
+18/12/2004,2 - 1,Genk,Cercle Brugge
+18/12/2004,3 - 2,La Louvière,Lierse
+18/12/2004,1 - 1,Lokeren,Sporting Charleroi
+18/12/2004,2 - 1,RWDM Brussels,Excelsior Mouscron
+18/12/2004,2 - 1,Westerlo,Gent
+12/12/2004,1 - 2,Cercle Brugge,RWDM Brussels
+12/12/2004,5 - 1,Excelsior Mouscron,Mons
+12/12/2004,1 - 1,Gent,Standard Liège
+11/12/2004,2 - 1,Anderlecht,Club Brugge
+11/12/2004,4 - 1,Beveren,Westerlo
+11/12/2004,2 - 1,KV Oostende,La Louvière
+11/12/2004,2 - 0,Lierse,Lokeren
+11/12/2004,1 - 1,Sint-Truiden,Beerschot
+11/12/2004,2 - 0,Sporting Charleroi,Genk
+05/12/2004,1 - 0,Lokeren,KV Oostende
+05/12/2004,1 - 2,RWDM Brussels,Sporting Charleroi
+05/12/2004,3 - 0,Standard Liège,Beveren
+04/12/2004,0 - 1,Beerschot,Anderlecht
+04/12/2004,3 - 1,Club Brugge,Mons
+04/12/2004,3 - 0,Genk,Lierse
+04/12/2004,2 - 1,Westerlo,Sint-Truiden
+03/12/2004,6 - 0,Excelsior Mouscron,Cercle Brugge
+03/12/2004,0 - 1,La Louvière,Gent
+28/11/2004,3 - 0,Club Brugge,Excelsior Mouscron
+28/11/2004,5 - 1,Lierse,RWDM Brussels
+28/11/2004,0 - 1,Mons,Beerschot
+28/11/2004,4 - 1,Sint-Truiden,Standard Liège
+27/11/2004,4 - 0,Anderlecht,Westerlo
+27/11/2004,0 - 2,Beveren,La Louvière
+27/11/2004,3 - 1,Gent,Lokeren
+27/11/2004,1 - 3,KV Oostende,Genk
+27/11/2004,5 - 1,Sporting Charleroi,Cercle Brugge
+10/11/2004,0 - 1,Beerschot,Club Brugge
+10/11/2004,2 - 2,Cercle Brugge,Lierse
+10/11/2004,0 - 1,Excelsior Mouscron,Sporting Charleroi
+10/11/2004,1 - 1,Genk,Gent
+10/11/2004,1 - 0,La Louvière,Sint-Truiden
+10/11/2004,1 - 1,Lokeren,Beveren
+10/11/2004,2 - 2,RWDM Brussels,KV Oostende
+10/11/2004,1 - 0,Standard Liège,Anderlecht
+10/11/2004,2 - 1,Westerlo,Mons
+07/11/2004,0 - 2,Beveren,Genk
+07/11/2004,3 - 0,Gent,RWDM Brussels
+07/11/2004,0 - 1,KV Oostende,Cercle Brugge
+06/11/2004,2 - 1,Anderlecht,La Louvière
+06/11/2004,3 - 1,Beerschot,Excelsior Mouscron
+06/11/2004,1 - 1,Lierse,Sporting Charleroi
+06/11/2004,2 - 3,Mons,Standard Liège
+06/11/2004,2 - 0,Sint-Truiden,Lokeren
+05/11/2004,2 - 0,Club Brugge,Westerlo
+31/10/2004,2 - 1,Cercle Brugge,Gent
+31/10/2004,1 - 3,Excelsior Mouscron,Lierse
+30/10/2004,1 - 0,Genk,Sint-Truiden
+30/10/2004,4 - 0,La Louvière,Mons
+30/10/2004,2 - 2,Lokeren,Anderlecht
+30/10/2004,1 - 3,RWDM Brussels,Beveren
+30/10/2004,1 - 0,Sporting Charleroi,KV Oostende
+30/10/2004,1 - 0,Westerlo,Beerschot
+29/10/2004,1 - 4,Standard Liège,Club Brugge
+24/10/2004,4 - 2,Anderlecht,Genk
+24/10/2004,1 - 0,Beerschot,Standard Liège
+24/10/2004,5 - 1,Beveren,Cercle Brugge
+24/10/2004,2 - 0,Club Brugge,La Louvière
+24/10/2004,2 - 3,KV Oostende,Lierse
+23/10/2004,3 - 1,Gent,Sporting Charleroi
+23/10/2004,0 - 1,Mons,Lokeren
+23/10/2004,2 - 0,Sint-Truiden,RWDM Brussels
+23/10/2004,0 - 1,Westerlo,Excelsior Mouscron
+17/10/2004,5 - 1,Cercle Brugge,Sint-Truiden
+17/10/2004,1 - 1,La Louvière,Beerschot
+17/10/2004,0 - 2,Lokeren,Club Brugge
+17/10/2004,2 - 1,Sporting Charleroi,Beveren
+16/10/2004,1 - 1,Excelsior Mouscron,KV Oostende
+16/10/2004,2 - 2,Genk,Mons
+16/10/2004,3 - 2,Lierse,Gent
+16/10/2004,2 - 0,Standard Liège,Westerlo
+15/10/2004,0 - 1,RWDM Brussels,Anderlecht
+03/10/2004,2 - 1,Beveren,Lierse
+03/10/2004,1 - 1,Club Brugge,Genk
+03/10/2004,2 - 0,Standard Liège,Excelsior Mouscron
+03/10/2004,0 - 2,Westerlo,La Louvière
+02/10/2004,5 - 2,Anderlecht,Cercle Brugge
+02/10/2004,1 - 2,Beerschot,Lokeren
+02/10/2004,2 - 1,Gent,KV Oostende
+02/10/2004,1 - 2,Mons,RWDM Brussels
+02/10/2004,2 - 2,Sint-Truiden,Sporting Charleroi
+26/09/2004,2 - 1,Genk,Beerschot
+26/09/2004,0 - 1,Lierse,Sint-Truiden
+25/09/2004,2 - 0,Cercle Brugge,Mons
+25/09/2004,0 - 2,Excelsior Mouscron,Gent
+25/09/2004,1 - 1,KV Oostende,Beveren
+25/09/2004,0 - 1,La Louvière,Standard Liège
+25/09/2004,3 - 1,Lokeren,Westerlo
+24/09/2004,1 - 6,RWDM Brussels,Club Brugge
+24/09/2004,2 - 1,Sporting Charleroi,Anderlecht
+19/09/2004,1 - 2,Beveren,Gent
+19/09/2004,5 - 0,Club Brugge,Cercle Brugge
+19/09/2004,1 - 0,Standard Liège,Lokeren
+18/09/2004,5 - 1,Anderlecht,Lierse
+18/09/2004,2 - 0,Beerschot,RWDM Brussels
+18/09/2004,0 - 1,Mons,Sporting Charleroi
+18/09/2004,0 - 0,Sint-Truiden,KV Oostende
+18/09/2004,0 - 0,Westerlo,Genk
+17/09/2004,3 - 1,La Louvière,Excelsior Mouscron
+12/09/2004,2 - 1,Cercle Brugge,Beerschot
+12/09/2004,1 - 0,Excelsior Mouscron,Beveren
+12/09/2004,1 - 1,Genk,Standard Liège
+12/09/2004,1 - 0,Lokeren,La Louvière
+11/09/2004,2 - 1,Gent,Sint-Truiden
+11/09/2004,1 - 3,KV Oostende,Anderlecht
+11/09/2004,4 - 1,Lierse,Mons
+11/09/2004,0 - 1,RWDM Brussels,Westerlo
+11/09/2004,0 - 1,Sporting Charleroi,Club Brugge
+29/08/2004,0 - 1,Beerschot,Sporting Charleroi
+29/08/2004,0 - 1,Sint-Truiden,Beveren
+28/08/2004,2 - 0,Anderlecht,Gent
+28/08/2004,1 - 0,Club Brugge,Lierse
+28/08/2004,1 - 1,Lokeren,Excelsior Mouscron
+28/08/2004,2 - 0,Mons,KV Oostende
+28/08/2004,1 - 3,Standard Liège,RWDM Brussels
+28/08/2004,1 - 2,Westerlo,Cercle Brugge
+27/08/2004,2 - 0,La Louvière,Genk
+22/08/2004,1 - 3,Cercle Brugge,Standard Liège
+22/08/2004,2 - 1,Genk,Lokeren
+22/08/2004,1 - 1,RWDM Brussels,La Louvière
+21/08/2004,0 - 1,Beveren,Anderlecht
+21/08/2004,4 - 0,Excelsior Mouscron,Sint-Truiden
+21/08/2004,2 - 1,Gent,Mons
+21/08/2004,1 - 2,KV Oostende,Club Brugge
+21/08/2004,2 - 0,Lierse,Beerschot
+21/08/2004,0 - 1,Sporting Charleroi,Westerlo
+15/08/2004,4 - 0,Beerschot,KV Oostende
+15/08/2004,5 - 0,Club Brugge,Gent
+15/08/2004,2 - 2,Mons,Beveren
+14/08/2004,2 - 1,Anderlecht,Sint-Truiden
+14/08/2004,0 - 0,Genk,Excelsior Mouscron
+14/08/2004,2 - 1,La Louvière,Cercle Brugge
+14/08/2004,1 - 0,Lokeren,RWDM Brussels
+14/08/2004,2 - 1,Westerlo,Lierse
+13/08/2004,1 - 2,Standard Liège,Sporting Charleroi
+08/08/2004,3 - 3,KV Oostende,Westerlo
+08/08/2004,2 - 5,Sporting Charleroi,La Louvière
+07/08/2004,1 - 1,Beveren,Club Brugge
+07/08/2004,2 - 2,Cercle Brugge,Lokeren
+07/08/2004,5 - 0,Gent,Beerschot
+07/08/2004,1 - 1,Lierse,Standard Liège
+07/08/2004,0 - 1,RWDM Brussels,Genk
+07/08/2004,0 - 0,Sint-Truiden,Mons
+06/08/2004,2 - 0,Excelsior Mouscron,Anderlecht

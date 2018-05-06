@@ -1,0 +1,463 @@
+date,score,home_team,away_team
+02/05/1936,2 - 2,Arsenal,Leeds United
+02/05/1936,1 - 3,Birmingham City,West Bromwich Albion
+02/05/1936,6 - 0,Brentford,Derby County
+02/05/1936,5 - 1,Chelsea,Blackburn Rovers
+02/05/1936,5 - 0,Everton,Preston North End
+02/05/1936,3 - 1,Grimsby Town,Manchester City
+02/05/1936,1 - 0,Huddersfield Town,Sheffield Wednesday
+02/05/1936,2 - 1,Portsmouth,Bolton Wanderers
+02/05/1936,2 - 1,Stoke City,Liverpool
+02/05/1936,4 - 0,Wolverhampton Wanderers,Middlesbrough
+29/04/1936,2 - 1,Bolton Wanderers,Arsenal
+27/04/1936,1 - 1,Arsenal,Chelsea
+25/04/1936,2 - 4,Aston Villa,Blackburn Rovers
+25/04/1936,2 - 2,Brentford,West Bromwich Albion
+25/04/1936,4 - 0,Derby County,Sunderland
+25/04/1936,4 - 3,Everton,Birmingham City
+25/04/1936,1 - 1,Huddersfield Town,Manchester City
+25/04/1936,0 - 0,Middlesbrough,Stoke City
+25/04/1936,3 - 2,Portsmouth,Grimsby Town
+25/04/1936,5 - 0,Preston North End,Leeds United
+25/04/1936,0 - 0,Sheffield Wednesday,Liverpool
+25/04/1936,3 - 3,Wolverhampton Wanderers,Chelsea
+22/04/1936,4 - 1,Birmingham City,Sheffield Wednesday
+22/04/1936,1 - 0,Chelsea,Portsmouth
+22/04/1936,3 - 0,Leeds United,Sunderland
+20/04/1936,4 - 2,Wolverhampton Wanderers,Preston North End
+18/04/1936,1 - 0,Arsenal,Aston Villa
+18/04/1936,1 - 0,Birmingham City,Middlesbrough
+18/04/1936,3 - 1,Blackburn Rovers,Portsmouth
+18/04/1936,5 - 2,Chelsea,Preston North End
+18/04/1936,4 - 1,Grimsby Town,Derby County
+18/04/1936,3 - 1,Leeds United,Everton
+18/04/1936,0 - 0,Liverpool,Brentford
+18/04/1936,2 - 1,Manchester City,Wolverhampton Wanderers
+18/04/1936,0 - 3,Stoke City,Sheffield Wednesday
+18/04/1936,4 - 3,Sunderland,Huddersfield Town
+18/04/1936,2 - 2,West Bromwich Albion,Bolton Wanderers
+14/04/1936,1 - 1,Huddersfield Town,Portsmouth
+14/04/1936,0 - 0,Sheffield Wednesday,Middlesbrough
+13/04/1936,2 - 7,Birmingham City,Sunderland
+13/04/1936,4 - 1,Brentford,Everton
+13/04/1936,1 - 1,Derby County,Chelsea
+13/04/1936,1 - 1,Leeds United,Manchester City
+13/04/1936,4 - 1,Liverpool,Blackburn Rovers
+13/04/1936,5 - 0,Middlesbrough,Sheffield Wednesday
+13/04/1936,1 - 0,Preston North End,Bolton Wanderers
+13/04/1936,1 - 0,Stoke City,Grimsby Town
+13/04/1936,1 - 0,West Bromwich Albion,Arsenal
+13/04/1936,2 - 2,Wolverhampton Wanderers,Aston Villa
+11/04/1936,2 - 2,Aston Villa,Manchester City
+11/04/1936,2 - 1,Bolton Wanderers,Sunderland
+11/04/1936,3 - 0,Brentford,Grimsby Town
+11/04/1936,2 - 1,Derby County,Leeds United
+11/04/1936,5 - 3,Everton,West Bromwich Albion
+11/04/1936,1 - 0,Huddersfield Town,Birmingham City
+11/04/1936,2 - 2,Middlesbrough,Arsenal
+11/04/1936,2 - 0,Portsmouth,Chelsea
+11/04/1936,3 - 1,Preston North End,Liverpool
+11/04/1936,0 - 0,Sheffield Wednesday,Blackburn Rovers
+11/04/1936,1 - 1,Wolverhampton Wanderers,Stoke City
+10/04/1936,4 - 0,Arsenal,West Bromwich Albion
+10/04/1936,4 - 2,Aston Villa,Wolverhampton Wanderers
+10/04/1936,2 - 2,Blackburn Rovers,Liverpool
+10/04/1936,1 - 1,Bolton Wanderers,Preston North End
+10/04/1936,1 - 1,Chelsea,Derby County
+10/04/1936,1 - 2,Everton,Brentford
+10/04/1936,3 - 0,Grimsby Town,Stoke City
+10/04/1936,1 - 3,Manchester City,Leeds United
+10/04/1936,0 - 0,Portsmouth,Huddersfield Town
+10/04/1936,2 - 1,Sunderland,Birmingham City
+04/04/1936,1 - 1,Arsenal,Brentford
+04/04/1936,0 - 0,Birmingham City,Preston North End
+04/04/1936,0 - 3,Blackburn Rovers,Bolton Wanderers
+04/04/1936,1 - 0,Chelsea,Huddersfield Town
+04/04/1936,4 - 1,Grimsby Town,Aston Villa
+04/04/1936,2 - 0,Leeds United,Wolverhampton Wanderers
+04/04/1936,2 - 2,Liverpool,Middlesbrough
+04/04/1936,1 - 0,Manchester City,Derby County
+04/04/1936,2 - 1,Stoke City,Everton
+04/04/1936,5 - 0,Sunderland,Portsmouth
+04/04/1936,2 - 2,West Bromwich Albion,Sheffield Wednesday
+01/04/1936,1 - 1,Arsenal,Bolton Wanderers
+01/04/1936,0 - 3,West Bromwich Albion,Aston Villa
+28/03/1936,2 - 1,Aston Villa,Birmingham City
+28/03/1936,3 - 0,Bolton Wanderers,Leeds United
+28/03/1936,2 - 1,Brentford,Chelsea
+28/03/1936,2 - 2,Derby County,Liverpool
+28/03/1936,4 - 0,Everton,Grimsby Town
+28/03/1936,2 - 3,Huddersfield Town,West Bromwich Albion
+28/03/1936,6 - 0,Middlesbrough,Sunderland
+28/03/1936,2 - 0,Portsmouth,Stoke City
+28/03/1936,2 - 0,Preston North End,Blackburn Rovers
+28/03/1936,1 - 0,Sheffield Wednesday,Manchester City
+28/03/1936,2 - 2,Wolverhampton Wanderers,Arsenal
+25/03/1936,1 - 1,Arsenal,Everton
+25/03/1936,3 - 1,Brentford,Portsmouth
+24/03/1936,4 - 0,Grimsby Town,Sheffield Wednesday
+21/03/1936,2 - 3,Birmingham City,Derby County
+21/03/1936,2 - 2,Blackburn Rovers,Middlesbrough
+21/03/1936,1 - 0,Chelsea,Aston Villa
+21/03/1936,1 - 0,Leeds United,Portsmouth
+21/03/1936,0 - 2,Liverpool,Wolverhampton Wanderers
+21/03/1936,7 - 0,Manchester City,Bolton Wanderers
+21/03/1936,1 - 0,Stoke City,Huddersfield Town
+21/03/1936,1 - 3,Sunderland,Brentford
+21/03/1936,2 - 4,West Bromwich Albion,Preston North End
+18/03/1936,2 - 1,Liverpool,Leeds United
+14/03/1936,3 - 3,Aston Villa,Leeds United
+14/03/1936,2 - 3,Bolton Wanderers,Chelsea
+14/03/1936,0 - 0,Brentford,Manchester City
+14/03/1936,0 - 1,Derby County,Stoke City
+14/03/1936,4 - 0,Everton,Blackburn Rovers
+14/03/1936,1 - 0,Huddersfield Town,Liverpool
+14/03/1936,5 - 1,Middlesbrough,Grimsby Town
+14/03/1936,0 - 3,Portsmouth,Birmingham City
+14/03/1936,1 - 0,Preston North End,Arsenal
+14/03/1936,0 - 0,Sheffield Wednesday,Sunderland
+14/03/1936,2 - 0,Wolverhampton Wanderers,West Bromwich Albion
+11/03/1936,2 - 2,Chelsea,West Bromwich Albion
+11/03/1936,1 - 0,Manchester City,Arsenal
+07/03/1936,1 - 1,Arsenal,Huddersfield Town
+07/03/1936,0 - 0,Birmingham City,Bolton Wanderers
+07/03/1936,1 - 0,Blackburn Rovers,Wolverhampton Wanderers
+07/03/1936,1 - 2,Chelsea,Sheffield Wednesday
+07/03/1936,0 - 0,Grimsby Town,Preston North End
+07/03/1936,1 - 2,Leeds United,Brentford
+07/03/1936,2 - 0,Liverpool,Portsmouth
+07/03/1936,6 - 0,Manchester City,Middlesbrough
+07/03/1936,2 - 3,Stoke City,Aston Villa
+07/03/1936,3 - 3,Sunderland,Everton
+07/03/1936,0 - 3,West Bromwich Albion,Derby County
+04/03/1936,0 - 4,Derby County,Arsenal
+04/03/1936,4 - 1,Middlesbrough,Chelsea
+04/03/1936,1 - 0,Wolverhampton Wanderers,Grimsby Town
+29/02/1936,3 - 0,Aston Villa,Liverpool
+29/02/1936,1 - 2,Bolton Wanderers,Stoke City
+29/02/1936,0 - 1,Brentford,Birmingham City
+29/02/1936,2 - 2,Everton,Manchester City
+29/02/1936,1 - 1,Huddersfield Town,Blackburn Rovers
+29/02/1936,3 - 1,Portsmouth,West Bromwich Albion
+29/02/1936,3 - 2,Preston North End,Sunderland
+29/02/1936,3 - 0,Sheffield Wednesday,Leeds United
+22/02/1936,2 - 3,Arsenal,Portsmouth
+22/02/1936,0 - 0,Blackburn Rovers,Derby County
+22/02/1936,2 - 2,Chelsea,Everton
+22/02/1936,1 - 1,Grimsby Town,Huddersfield Town
+22/02/1936,0 - 1,Leeds United,Middlesbrough
+22/02/1936,1 - 1,Liverpool,Bolton Wanderers
+22/02/1936,1 - 3,Manchester City,Preston North End
+22/02/1936,2 - 2,Stoke City,Brentford
+22/02/1936,3 - 1,Sunderland,Wolverhampton Wanderers
+19/02/1936,3 - 1,Derby County,Sheffield Wednesday
+19/02/1936,4 - 1,Huddersfield Town,Middlesbrough
+19/02/1936,2 - 0,Manchester City,Blackburn Rovers
+19/02/1936,1 - 1,Preston North End,Stoke City
+19/02/1936,3 - 1,Sunderland,Grimsby Town
+19/02/1936,3 - 2,West Bromwich Albion,Leeds United
+15/02/1936,2 - 0,Birmingham City,Liverpool
+15/02/1936,1 - 1,Blackburn Rovers,Sunderland
+15/02/1936,4 - 3,Bolton Wanderers,Aston Villa
+15/02/1936,4 - 1,Everton,Wolverhampton Wanderers
+12/02/1936,0 - 1,Sheffield Wednesday,Portsmouth
+08/02/1936,1 - 1,Aston Villa,Everton
+08/02/1936,0 - 1,Blackburn Rovers,Arsenal
+08/02/1936,0 - 0,Chelsea,Birmingham City
+08/02/1936,4 - 2,Grimsby Town,West Bromwich Albion
+08/02/1936,1 - 2,Huddersfield Town,Leeds United
+08/02/1936,0 - 3,Liverpool,Sunderland
+08/02/1936,0 - 0,Middlesbrough,Bolton Wanderers
+08/02/1936,1 - 1,Portsmouth,Preston North End
+08/02/1936,3 - 3,Sheffield Wednesday,Brentford
+08/02/1936,1 - 0,Stoke City,Manchester City
+08/02/1936,0 - 0,Wolverhampton Wanderers,Derby County
+03/02/1936,3 - 3,Sheffield Wednesday,Everton
+03/02/1936,3 - 1,Stoke City,Birmingham City
+01/02/1936,1 - 0,Arsenal,Stoke City
+01/02/1936,4 - 2,Birmingham City,Blackburn Rovers
+01/02/1936,1 - 2,Bolton Wanderers,Huddersfield Town
+01/02/1936,5 - 0,Brentford,Wolverhampton Wanderers
+01/02/1936,1 - 3,Derby County,Aston Villa
+01/02/1936,5 - 2,Everton,Middlesbrough
+01/02/1936,1 - 2,Leeds United,Grimsby Town
+01/02/1936,1 - 2,Portsmouth,Manchester City
+01/02/1936,0 - 1,Preston North End,Sheffield Wednesday
+01/02/1936,3 - 3,Sunderland,Chelsea
+01/02/1936,6 - 1,West Bromwich Albion,Liverpool
+29/01/1936,4 - 0,Bolton Wanderers,Grimsby Town
+29/01/1936,2 - 1,Huddersfield Town,Everton
+29/01/1936,0 - 3,Middlesbrough,Derby County
+25/01/1936,2 - 2,Aston Villa,Brentford
+22/01/1936,3 - 3,Everton,Bolton Wanderers
+18/01/1936,0 - 1,Birmingham City,Manchester City
+18/01/1936,1 - 0,Brentford,Middlesbrough
+18/01/1936,2 - 0,Derby County,Huddersfield Town
+18/01/1936,0 - 0,Grimsby Town,Liverpool
+18/01/1936,2 - 0,Leeds United,Chelsea
+18/01/1936,1 - 0,Portsmouth,Wolverhampton Wanderers
+18/01/1936,3 - 0,Preston North End,Aston Villa
+18/01/1936,3 - 2,Sheffield Wednesday,Arsenal
+18/01/1936,1 - 0,Sunderland,Stoke City
+18/01/1936,8 - 1,West Bromwich Albion,Blackburn Rovers
+15/01/1936,1 - 2,Manchester City,Huddersfield Town
+04/01/1936,1 - 1,Arsenal,Birmingham City
+04/01/1936,4 - 2,Aston Villa,Portsmouth
+04/01/1936,0 - 3,Blackburn Rovers,Leeds United
+04/01/1936,0 - 2,Bolton Wanderers,Derby County
+04/01/1936,0 - 2,Chelsea,Grimsby Town
+04/01/1936,0 - 0,Everton,Liverpool
+04/01/1936,2 - 2,Huddersfield Town,Brentford
+04/01/1936,0 - 1,Manchester City,Sunderland
+04/01/1936,2 - 0,Middlesbrough,Preston North End
+04/01/1936,3 - 2,Stoke City,West Bromwich Albion
+04/01/1936,2 - 1,Wolverhampton Wanderers,Sheffield Wednesday
+01/01/1936,1 - 0,Blackburn Rovers,Brentford
+01/01/1936,4 - 0,Bolton Wanderers,Portsmouth
+01/01/1936,0 - 3,Manchester City,Grimsby Town
+01/01/1936,3 - 1,Middlesbrough,West Bromwich Albion
+01/01/1936,1 - 3,Sunderland,Aston Villa
+28/12/1935,0 - 0,Birmingham City,Wolverhampton Wanderers
+28/12/1935,4 - 0,Brentford,Bolton Wanderers
+28/12/1935,3 - 3,Derby County,Everton
+28/12/1935,1 - 1,Grimsby Town,Blackburn Rovers
+28/12/1935,4 - 1,Leeds United,Stoke City
+28/12/1935,2 - 3,Liverpool,Chelsea
+28/12/1935,1 - 0,Portsmouth,Middlesbrough
+28/12/1935,4 - 0,Preston North End,Huddersfield Town
+28/12/1935,5 - 2,Sheffield Wednesday,Aston Villa
+28/12/1935,5 - 4,Sunderland,Arsenal
+28/12/1935,5 - 1,West Bromwich Albion,Manchester City
+26/12/1935,1 - 2,Arsenal,Liverpool
+26/12/1935,1 - 1,Birmingham City,Grimsby Town
+26/12/1935,2 - 1,Chelsea,Manchester City
+26/12/1935,1 - 1,Derby County,Portsmouth
+26/12/1935,4 - 3,Everton,Sheffield Wednesday
+26/12/1935,4 - 1,Huddersfield Town,Aston Villa
+26/12/1935,2 - 4,Preston North End,Brentford
+26/12/1935,2 - 0,Stoke City,Blackburn Rovers
+26/12/1935,2 - 1,Sunderland,Leeds United
+26/12/1935,5 - 2,West Bromwich Albion,Middlesbrough
+26/12/1935,3 - 3,Wolverhampton Wanderers,Bolton Wanderers
+25/12/1935,4 - 1,Aston Villa,Huddersfield Town
+25/12/1935,0 - 1,Blackburn Rovers,Stoke City
+25/12/1935,0 - 3,Bolton Wanderers,Wolverhampton Wanderers
+25/12/1935,5 - 2,Brentford,Preston North End
+25/12/1935,1 - 0,Grimsby Town,Birmingham City
+25/12/1935,0 - 1,Liverpool,Arsenal
+25/12/1935,0 - 0,Manchester City,Chelsea
+25/12/1935,3 - 0,Portsmouth,Derby County
+21/12/1935,4 - 2,Birmingham City,Everton
+21/12/1935,5 - 1,Blackburn Rovers,Aston Villa
+21/12/1935,2 - 2,Chelsea,Wolverhampton Wanderers
+21/12/1935,1 - 2,Grimsby Town,Portsmouth
+21/12/1935,0 - 1,Leeds United,Preston North End
+21/12/1935,1 - 0,Liverpool,Sheffield Wednesday
+21/12/1935,1 - 1,Stoke City,Middlesbrough
+21/12/1935,3 - 1,Sunderland,Derby County
+21/12/1935,1 - 0,West Bromwich Albion,Brentford
+14/12/1935,1 - 7,Aston Villa,Arsenal
+14/12/1935,3 - 1,Bolton Wanderers,West Bromwich Albion
+14/12/1935,1 - 2,Brentford,Liverpool
+14/12/1935,2 - 0,Derby County,Grimsby Town
+14/12/1935,0 - 0,Everton,Leeds United
+14/12/1935,1 - 0,Huddersfield Town,Sunderland
+14/12/1935,0 - 2,Middlesbrough,Birmingham City
+14/12/1935,3 - 1,Portsmouth,Blackburn Rovers
+14/12/1935,2 - 0,Preston North End,Chelsea
+14/12/1935,0 - 1,Sheffield Wednesday,Stoke City
+14/12/1935,4 - 3,Wolverhampton Wanderers,Manchester City
+09/12/1935,2 - 0,Arsenal,Middlesbrough
+07/12/1935,4 - 1,Birmingham City,Huddersfield Town
+07/12/1935,3 - 2,Blackburn Rovers,Sheffield Wednesday
+07/12/1935,6 - 1,Grimsby Town,Brentford
+07/12/1935,1 - 0,Leeds United,Derby County
+07/12/1935,2 - 1,Liverpool,Preston North End
+07/12/1935,5 - 0,Manchester City,Aston Villa
+07/12/1935,4 - 1,Stoke City,Wolverhampton Wanderers
+07/12/1935,7 - 2,Sunderland,Bolton Wanderers
+07/12/1935,6 - 1,West Bromwich Albion,Everton
+30/11/1935,4 - 0,Aston Villa,Stoke City
+30/11/1935,2 - 0,Bolton Wanderers,Birmingham City
+30/11/1935,2 - 2,Brentford,Leeds United
+30/11/1935,2 - 0,Derby County,West Bromwich Albion
+30/11/1935,0 - 3,Everton,Sunderland
+30/11/1935,0 - 0,Huddersfield Town,Arsenal
+30/11/1935,2 - 0,Middlesbrough,Manchester City
+30/11/1935,2 - 1,Portsmouth,Liverpool
+30/11/1935,1 - 0,Preston North End,Grimsby Town
+30/11/1935,4 - 1,Sheffield Wednesday,Chelsea
+30/11/1935,8 - 1,Wolverhampton Wanderers,Blackburn Rovers
+23/11/1935,4 - 0,Arsenal,Wolverhampton Wanderers
+23/11/1935,2 - 2,Birmingham City,Aston Villa
+23/11/1935,1 - 1,Blackburn Rovers,Preston North End
+23/11/1935,2 - 1,Chelsea,Brentford
+23/11/1935,0 - 4,Grimsby Town,Everton
+23/11/1935,5 - 2,Leeds United,Bolton Wanderers
+23/11/1935,0 - 0,Liverpool,Derby County
+23/11/1935,3 - 0,Manchester City,Sheffield Wednesday
+23/11/1935,2 - 0,Stoke City,Portsmouth
+23/11/1935,2 - 1,Sunderland,Middlesbrough
+23/11/1935,1 - 2,West Bromwich Albion,Huddersfield Town
+16/11/1935,2 - 2,Aston Villa,Chelsea
+16/11/1935,3 - 3,Bolton Wanderers,Manchester City
+16/11/1935,1 - 5,Brentford,Sunderland
+16/11/1935,2 - 2,Derby County,Birmingham City
+16/11/1935,0 - 2,Everton,Arsenal
+16/11/1935,2 - 1,Huddersfield Town,Stoke City
+16/11/1935,6 - 1,Middlesbrough,Blackburn Rovers
+16/11/1935,2 - 2,Portsmouth,Leeds United
+16/11/1935,3 - 0,Preston North End,West Bromwich Albion
+16/11/1935,3 - 0,Sheffield Wednesday,Grimsby Town
+16/11/1935,3 - 1,Wolverhampton Wanderers,Liverpool
+09/11/1935,1 - 1,Arsenal,Derby County
+09/11/1935,2 - 1,Birmingham City,Brentford
+09/11/1935,2 - 1,Blackburn Rovers,Huddersfield Town
+09/11/1935,2 - 1,Chelsea,Middlesbrough
+09/11/1935,2 - 1,Grimsby Town,Wolverhampton Wanderers
+09/11/1935,7 - 2,Leeds United,Sheffield Wednesday
+09/11/1935,3 - 2,Liverpool,Aston Villa
+09/11/1935,1 - 0,Manchester City,Everton
+09/11/1935,1 - 2,Stoke City,Bolton Wanderers
+09/11/1935,4 - 2,Sunderland,Preston North End
+09/11/1935,2 - 0,West Bromwich Albion,Portsmouth
+02/11/1935,2 - 6,Aston Villa,Grimsby Town
+02/11/1935,3 - 1,Bolton Wanderers,Blackburn Rovers
+02/11/1935,2 - 1,Brentford,Arsenal
+02/11/1935,3 - 0,Derby County,Manchester City
+02/11/1935,5 - 1,Everton,Stoke City
+02/11/1935,2 - 0,Huddersfield Town,Chelsea
+02/11/1935,2 - 2,Middlesbrough,Liverpool
+02/11/1935,2 - 2,Portsmouth,Sunderland
+02/11/1935,3 - 1,Preston North End,Birmingham City
+02/11/1935,2 - 5,Sheffield Wednesday,West Bromwich Albion
+02/11/1935,3 - 0,Wolverhampton Wanderers,Leeds United
+26/10/1935,2 - 1,Arsenal,Preston North End
+26/10/1935,4 - 0,Birmingham City,Portsmouth
+26/10/1935,1 - 1,Blackburn Rovers,Everton
+26/10/1935,2 - 1,Chelsea,Bolton Wanderers
+26/10/1935,1 - 0,Grimsby Town,Middlesbrough
+26/10/1935,4 - 2,Leeds United,Aston Villa
+26/10/1935,3 - 0,Liverpool,Huddersfield Town
+26/10/1935,2 - 1,Manchester City,Brentford
+26/10/1935,0 - 0,Stoke City,Derby County
+26/10/1935,5 - 1,Sunderland,Sheffield Wednesday
+26/10/1935,2 - 1,West Bromwich Albion,Wolverhampton Wanderers
+19/10/1935,0 - 7,Aston Villa,West Bromwich Albion
+19/10/1935,0 - 0,Bolton Wanderers,Liverpool
+19/10/1935,0 - 0,Brentford,Stoke City
+19/10/1935,1 - 0,Derby County,Blackburn Rovers
+19/10/1935,5 - 1,Everton,Chelsea
+19/10/1935,1 - 0,Huddersfield Town,Grimsby Town
+19/10/1935,1 - 1,Middlesbrough,Leeds United
+19/10/1935,2 - 1,Portsmouth,Arsenal
+19/10/1935,4 - 0,Preston North End,Manchester City
+19/10/1935,3 - 1,Sheffield Wednesday,Birmingham City
+19/10/1935,3 - 4,Wolverhampton Wanderers,Sunderland
+12/10/1935,1 - 2,Aston Villa,Bolton Wanderers
+12/10/1935,4 - 1,Blackburn Rovers,Manchester City
+12/10/1935,1 - 1,Chelsea,Arsenal
+12/10/1935,4 - 0,Grimsby Town,Sunderland
+12/10/1935,1 - 1,Leeds United,West Bromwich Albion
+12/10/1935,1 - 2,Liverpool,Birmingham City
+12/10/1935,4 - 2,Middlesbrough,Huddersfield Town
+12/10/1935,1 - 3,Portsmouth,Brentford
+12/10/1935,1 - 0,Sheffield Wednesday,Derby County
+12/10/1935,2 - 1,Stoke City,Preston North End
+12/10/1935,4 - 0,Wolverhampton Wanderers,Everton
+05/10/1935,5 - 1,Arsenal,Blackburn Rovers
+05/10/1935,2 - 1,Birmingham City,Chelsea
+05/10/1935,3 - 1,Bolton Wanderers,Middlesbrough
+05/10/1935,2 - 2,Brentford,Sheffield Wednesday
+05/10/1935,3 - 1,Derby County,Wolverhampton Wanderers
+05/10/1935,2 - 2,Everton,Aston Villa
+05/10/1935,2 - 2,Leeds United,Huddersfield Town
+05/10/1935,1 - 2,Manchester City,Stoke City
+05/10/1935,1 - 1,Preston North End,Portsmouth
+05/10/1935,2 - 0,Sunderland,Liverpool
+05/10/1935,4 - 1,West Bromwich Albion,Grimsby Town
+28/09/1935,0 - 2,Aston Villa,Derby County
+28/09/1935,1 - 2,Blackburn Rovers,Birmingham City
+28/09/1935,3 - 1,Chelsea,Sunderland
+28/09/1935,0 - 1,Grimsby Town,Leeds United
+28/09/1935,0 - 0,Huddersfield Town,Bolton Wanderers
+28/09/1935,5 - 0,Liverpool,West Bromwich Albion
+28/09/1935,0 - 0,Manchester City,Portsmouth
+28/09/1935,6 - 1,Middlesbrough,Everton
+28/09/1935,1 - 0,Sheffield Wednesday,Preston North End
+28/09/1935,0 - 3,Stoke City,Arsenal
+28/09/1935,3 - 2,Wolverhampton Wanderers,Brentford
+21/09/1935,2 - 3,Arsenal,Manchester City
+21/09/1935,0 - 5,Birmingham City,Stoke City
+21/09/1935,1 - 2,Brentford,Aston Villa
+21/09/1935,3 - 2,Derby County,Middlesbrough
+21/09/1935,1 - 3,Everton,Huddersfield Town
+21/09/1935,3 - 1,Grimsby Town,Bolton Wanderers
+21/09/1935,1 - 0,Leeds United,Liverpool
+21/09/1935,3 - 2,Portsmouth,Sheffield Wednesday
+21/09/1935,2 - 0,Preston North End,Wolverhampton Wanderers
+21/09/1935,7 - 2,Sunderland,Blackburn Rovers
+21/09/1935,1 - 2,West Bromwich Albion,Chelsea
+18/09/1935,2 - 1,Derby County,Brentford
+18/09/1935,1 - 1,Leeds United,Arsenal
+18/09/1935,2 - 0,Liverpool,Stoke City
+18/09/1935,4 - 2,Middlesbrough,Wolverhampton Wanderers
+18/09/1935,2 - 2,Preston North End,Everton
+18/09/1935,0 - 0,West Bromwich Albion,Birmingham City
+16/09/1935,2 - 2,Aston Villa,Sunderland
+16/09/1935,1 - 0,Blackburn Rovers,Chelsea
+16/09/1935,1 - 2,Sheffield Wednesday,Huddersfield Town
+14/09/1935,2 - 2,Arsenal,Sheffield Wednesday
+14/09/1935,5 - 1,Aston Villa,Preston North End
+14/09/1935,3 - 1,Blackburn Rovers,West Bromwich Albion
+14/09/1935,2 - 0,Bolton Wanderers,Everton
+14/09/1935,1 - 0,Chelsea,Leeds United
+14/09/1935,1 - 1,Huddersfield Town,Derby County
+14/09/1935,7 - 2,Liverpool,Grimsby Town
+14/09/1935,3 - 1,Manchester City,Birmingham City
+14/09/1935,0 - 0,Middlesbrough,Brentford
+14/09/1935,0 - 2,Stoke City,Sunderland
+14/09/1935,2 - 0,Wolverhampton Wanderers,Portsmouth
+11/09/1935,6 - 0,Arsenal,Grimsby Town
+11/09/1935,2 - 0,Birmingham City,Leeds United
+11/09/1935,2 - 0,Derby County,Preston North End
+11/09/1935,3 - 0,Everton,Portsmouth
+11/09/1935,3 - 0,Huddersfield Town,Wolverhampton Wanderers
+11/09/1935,6 - 0,Manchester City,Liverpool
+11/09/1935,6 - 1,Sunderland,West Bromwich Albion
+09/09/1935,2 - 7,Aston Villa,Middlesbrough
+09/09/1935,2 - 2,Sheffield Wednesday,Bolton Wanderers
+09/09/1935,3 - 0,Stoke City,Chelsea
+07/09/1935,1 - 1,Birmingham City,Arsenal
+07/09/1935,1 - 2,Brentford,Huddersfield Town
+07/09/1935,4 - 0,Derby County,Bolton Wanderers
+07/09/1935,1 - 3,Grimsby Town,Chelsea
+07/09/1935,1 - 4,Leeds United,Blackburn Rovers
+07/09/1935,6 - 0,Liverpool,Everton
+07/09/1935,3 - 0,Portsmouth,Aston Villa
+07/09/1935,0 - 5,Preston North End,Middlesbrough
+07/09/1935,0 - 0,Sheffield Wednesday,Wolverhampton Wanderers
+07/09/1935,2 - 0,Sunderland,Manchester City
+07/09/1935,2 - 0,West Bromwich Albion,Stoke City
+05/09/1935,3 - 1,Brentford,Blackburn Rovers
+04/09/1935,3 - 5,Chelsea,Stoke City
+04/09/1935,0 - 0,Leeds United,Birmingham City
+04/09/1935,0 - 2,Liverpool,Manchester City
+04/09/1935,1 - 2,Middlesbrough,Aston Villa
+04/09/1935,2 - 0,Portsmouth,Everton
+04/09/1935,1 - 3,West Bromwich Albion,Sunderland
+03/09/1935,1 - 0,Grimsby Town,Arsenal
+02/09/1935,1 - 1,Bolton Wanderers,Sheffield Wednesday
+02/09/1935,1 - 0,Preston North End,Derby County
+02/09/1935,2 - 2,Wolverhampton Wanderers,Huddersfield Town
+31/08/1935,3 - 1,Arsenal,Sunderland
+31/08/1935,1 - 2,Aston Villa,Sheffield Wednesday
+31/08/1935,1 - 0,Blackburn Rovers,Grimsby Town
+31/08/1935,0 - 2,Bolton Wanderers,Brentford
+31/08/1935,2 - 2,Chelsea,Liverpool
+31/08/1935,4 - 0,Everton,Derby County
+31/08/1935,1 - 0,Huddersfield Town,Preston North End
+31/08/1935,1 - 0,Manchester City,West Bromwich Albion
+31/08/1935,3 - 2,Middlesbrough,Portsmouth
+31/08/1935,3 - 1,Stoke City,Leeds United
+31/08/1935,3 - 1,Wolverhampton Wanderers,Birmingham City

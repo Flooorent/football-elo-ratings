@@ -1,0 +1,307 @@
+date,score,home_team,away_team
+20/05/2001,1 - 3,Beerschot,Gent
+20/05/2001,6 - 0,Club Brugge,Genk
+20/05/2001,1 - 5,Eendracht Aalst,Anderlecht
+20/05/2001,1 - 1,Mechelen,Lierse
+20/05/2001,1 - 1,Sint-Truiden,Antwerp
+20/05/2001,1 - 3,Standard Liège,Lokeren
+20/05/2001,0 - 1,Westerlo,Sporting Charleroi
+20/05/2001,3 - 2,Zuid-West-Vlaanderen,Beveren
+19/05/2001,1 - 3,La Louvière,Excelsior Mouscron
+13/05/2001,1 - 0,Anderlecht,Mechelen
+13/05/2001,0 - 0,Antwerp,Eendracht Aalst
+13/05/2001,1 - 4,Beveren,Westerlo
+13/05/2001,1 - 1,Excelsior Mouscron,Standard Liège
+13/05/2001,2 - 0,Genk,Beerschot
+13/05/2001,2 - 2,Gent,La Louvière
+13/05/2001,0 - 2,Lierse,Club Brugge
+13/05/2001,3 - 0,Lokeren,Zuid-West-Vlaanderen
+13/05/2001,1 - 7,Sporting Charleroi,Sint-Truiden
+06/05/2001,4 - 0,Eendracht Aalst,Sporting Charleroi
+06/05/2001,1 - 0,Westerlo,Zuid-West-Vlaanderen
+05/05/2001,6 - 0,Beerschot,Lierse
+05/05/2001,0 - 1,Club Brugge,Anderlecht
+05/05/2001,2 - 1,La Louvière,Genk
+05/05/2001,2 - 1,Lokeren,Excelsior Mouscron
+05/05/2001,1 - 0,Sint-Truiden,Beveren
+05/05/2001,1 - 0,Standard Liège,Gent
+04/05/2001,0 - 3,Mechelen,Antwerp
+29/04/2001,0 - 1,Antwerp,Club Brugge
+29/04/2001,0 - 1,Zuid-West-Vlaanderen,Excelsior Mouscron
+28/04/2001,7 - 0,Anderlecht,Beerschot
+28/04/2001,1 - 0,Beveren,Eendracht Aalst
+28/04/2001,2 - 2,Genk,Standard Liège
+28/04/2001,3 - 2,Gent,Lokeren
+28/04/2001,1 - 2,Lierse,La Louvière
+28/04/2001,4 - 2,Sporting Charleroi,Mechelen
+28/04/2001,4 - 6,Westerlo,Sint-Truiden
+22/04/2001,3 - 1,Beerschot,Antwerp
+22/04/2001,1 - 0,Club Brugge,Sporting Charleroi
+22/04/2001,1 - 2,Eendracht Aalst,Westerlo
+21/04/2001,2 - 2,Excelsior Mouscron,Gent
+21/04/2001,2 - 2,Lokeren,Genk
+21/04/2001,2 - 2,Mechelen,Beveren
+21/04/2001,1 - 1,Sint-Truiden,Zuid-West-Vlaanderen
+21/04/2001,3 - 2,Standard Liège,Lierse
+20/04/2001,0 - 1,La Louvière,Anderlecht
+14/04/2001,1 - 1,Antwerp,La Louvière
+14/04/2001,0 - 2,Beveren,Club Brugge
+14/04/2001,4 - 0,Genk,Excelsior Mouscron
+14/04/2001,1 - 4,Lierse,Lokeren
+14/04/2001,1 - 0,Sint-Truiden,Eendracht Aalst
+14/04/2001,2 - 1,Sporting Charleroi,Beerschot
+14/04/2001,0 - 0,Westerlo,Mechelen
+14/04/2001,2 - 1,Zuid-West-Vlaanderen,Gent
+13/04/2001,0 - 0,Anderlecht,Standard Liège
+07/04/2001,2 - 0,Beerschot,Beveren
+07/04/2001,2 - 2,Club Brugge,Westerlo
+07/04/2001,0 - 0,Eendracht Aalst,Zuid-West-Vlaanderen
+07/04/2001,1 - 2,Excelsior Mouscron,Lierse
+07/04/2001,2 - 1,Gent,Genk
+07/04/2001,0 - 0,Lokeren,Anderlecht
+07/04/2001,1 - 2,Mechelen,Sint-Truiden
+07/04/2001,0 - 1,Standard Liège,Antwerp
+06/04/2001,1 - 1,La Louvière,Sporting Charleroi
+01/04/2001,0 - 1,Beveren,La Louvière
+01/04/2001,1 - 3,Eendracht Aalst,Mechelen
+01/04/2001,2 - 3,Sporting Charleroi,Standard Liège
+01/04/2001,1 - 2,Zuid-West-Vlaanderen,Genk
+31/03/2001,2 - 1,Antwerp,Lokeren
+31/03/2001,2 - 0,Lierse,Gent
+31/03/2001,1 - 2,Sint-Truiden,Club Brugge
+31/03/2001,1 - 2,Westerlo,Beerschot
+30/03/2001,3 - 3,Anderlecht,Excelsior Mouscron
+18/03/2001,1 - 1,Club Brugge,Eendracht Aalst
+18/03/2001,2 - 0,Mechelen,Zuid-West-Vlaanderen
+17/03/2001,1 - 0,Beerschot,Sint-Truiden
+17/03/2001,3 - 2,Excelsior Mouscron,Antwerp
+17/03/2001,2 - 0,Genk,Lierse
+17/03/2001,2 - 1,Gent,Anderlecht
+17/03/2001,3 - 1,La Louvière,Westerlo
+17/03/2001,1 - 0,Lokeren,Sporting Charleroi
+17/03/2001,4 - 2,Standard Liège,Beveren
+11/03/2001,1 - 0,Antwerp,Gent
+11/03/2001,2 - 0,Eendracht Aalst,Beerschot
+11/03/2001,1 - 1,Sint-Truiden,La Louvière
+11/03/2001,1 - 0,Zuid-West-Vlaanderen,Lierse
+10/03/2001,1 - 0,Anderlecht,Genk
+10/03/2001,0 - 2,Beveren,Lokeren
+10/03/2001,1 - 1,Mechelen,Club Brugge
+10/03/2001,1 - 3,Sporting Charleroi,Excelsior Mouscron
+09/03/2001,2 - 2,Westerlo,Standard Liège
+04/03/2001,0 - 0,Club Brugge,Zuid-West-Vlaanderen
+04/03/2001,2 - 0,Lokeren,Westerlo
+03/03/2001,4 - 1,Beerschot,Mechelen
+03/03/2001,0 - 0,Excelsior Mouscron,Beveren
+03/03/2001,1 - 1,Genk,Antwerp
+03/03/2001,1 - 1,Gent,Sporting Charleroi
+03/03/2001,3 - 0,La Louvière,Eendracht Aalst
+03/03/2001,0 - 0,Lierse,Anderlecht
+03/03/2001,1 - 1,Standard Liège,Sint-Truiden
+24/02/2001,0 - 2,Gent,Club Brugge
+24/02/2001,2 - 2,Westerlo,Anderlecht
+18/02/2001,2 - 2,Club Brugge,Beerschot
+18/02/2001,1 - 1,Eendracht Aalst,Standard Liège
+18/02/2001,1 - 4,Zuid-West-Vlaanderen,Anderlecht
+17/02/2001,0 - 0,Antwerp,Lierse
+17/02/2001,1 - 1,Beveren,Gent
+17/02/2001,0 - 0,Mechelen,La Louvière
+17/02/2001,2 - 0,Sint-Truiden,Lokeren
+17/02/2001,2 - 1,Sporting Charleroi,Genk
+16/02/2001,1 - 0,Westerlo,Excelsior Mouscron
+11/02/2001,2 - 0,Standard Liège,Mechelen
+10/02/2001,2 - 1,Beerschot,Zuid-West-Vlaanderen
+10/02/2001,1 - 0,Excelsior Mouscron,Sint-Truiden
+10/02/2001,1 - 0,Genk,Beveren
+10/02/2001,3 - 1,Gent,Westerlo
+10/02/2001,2 - 0,Lierse,Sporting Charleroi
+10/02/2001,2 - 0,Lokeren,Eendracht Aalst
+09/02/2001,2 - 0,Anderlecht,Antwerp
+09/02/2001,1 - 1,La Louvière,Club Brugge
+04/02/2001,1 - 1,Club Brugge,Standard Liège
+04/02/2001,1 - 0,Eendracht Aalst,Excelsior Mouscron
+04/02/2001,2 - 0,Zuid-West-Vlaanderen,Antwerp
+03/02/2001,3 - 1,Beerschot,La Louvière
+03/02/2001,2 - 1,Beveren,Lierse
+03/02/2001,0 - 3,Mechelen,Lokeren
+03/02/2001,0 - 1,Sint-Truiden,Gent
+03/02/2001,5 - 0,Westerlo,Genk
+02/02/2001,0 - 4,Sporting Charleroi,Anderlecht
+28/01/2001,4 - 2,Excelsior Mouscron,Mechelen
+28/01/2001,0 - 2,La Louvière,Zuid-West-Vlaanderen
+28/01/2001,1 - 1,Standard Liège,Beerschot
+27/01/2001,1 - 1,Antwerp,Sporting Charleroi
+27/01/2001,1 - 3,Beveren,Anderlecht
+27/01/2001,3 - 0,Genk,Sint-Truiden
+27/01/2001,1 - 0,Gent,Eendracht Aalst
+27/01/2001,1 - 2,Lierse,Westerlo
+27/01/2001,2 - 2,Lokeren,Club Brugge
+21/01/2001,4 - 2,Eendracht Aalst,Genk
+21/01/2001,1 - 0,Zuid-West-Vlaanderen,Sporting Charleroi
+20/01/2001,2 - 0,Beerschot,Lokeren
+20/01/2001,2 - 1,Beveren,Antwerp
+20/01/2001,0 - 4,La Louvière,Standard Liège
+20/01/2001,2 - 1,Lierse,Sint-Truiden
+20/01/2001,3 - 3,Mechelen,Gent
+19/01/2001,2 - 2,Club Brugge,Excelsior Mouscron
+20/12/2000,3 - 2,Anderlecht,Sint-Truiden
+20/12/2000,1 - 3,Antwerp,Westerlo
+20/12/2000,4 - 1,Beerschot,Excelsior Mouscron
+20/12/2000,3 - 1,Genk,Mechelen
+20/12/2000,2 - 0,Lierse,Eendracht Aalst
+20/12/2000,3 - 1,Lokeren,La Louvière
+20/12/2000,5 - 0,Sporting Charleroi,Beveren
+20/12/2000,3 - 0,Standard Liège,Zuid-West-Vlaanderen
+17/12/2000,0 - 1,Genk,Club Brugge
+16/12/2000,3 - 0,Anderlecht,Eendracht Aalst
+16/12/2000,2 - 0,Antwerp,Sint-Truiden
+16/12/2000,2 - 1,Beveren,Zuid-West-Vlaanderen
+16/12/2000,0 - 0,Excelsior Mouscron,La Louvière
+16/12/2000,3 - 1,Gent,Beerschot
+16/12/2000,1 - 1,Lierse,Mechelen
+16/12/2000,2 - 1,Lokeren,Standard Liège
+15/12/2000,2 - 2,Sporting Charleroi,Westerlo
+10/12/2000,1 - 0,Club Brugge,Lierse
+10/12/2000,0 - 4,Eendracht Aalst,Antwerp
+10/12/2000,1 - 6,Zuid-West-Vlaanderen,Lokeren
+09/12/2000,5 - 1,Beerschot,Genk
+09/12/2000,1 - 1,La Louvière,Gent
+09/12/2000,0 - 2,Mechelen,Anderlecht
+09/12/2000,1 - 3,Sint-Truiden,Sporting Charleroi
+09/12/2000,1 - 2,Westerlo,Beveren
+08/12/2000,3 - 3,Standard Liège,Excelsior Mouscron
+03/12/2000,0 - 0,Beveren,Sint-Truiden
+03/12/2000,0 - 4,Zuid-West-Vlaanderen,Westerlo
+02/12/2000,3 - 1,Antwerp,Mechelen
+02/12/2000,2 - 1,Excelsior Mouscron,Lokeren
+02/12/2000,1 - 0,Genk,La Louvière
+02/12/2000,2 - 1,Gent,Standard Liège
+02/12/2000,1 - 1,Lierse,Beerschot
+02/12/2000,0 - 0,Sporting Charleroi,Eendracht Aalst
+01/12/2000,2 - 0,Anderlecht,Club Brugge
+26/11/2000,2 - 0,Club Brugge,Antwerp
+26/11/2000,1 - 1,Eendracht Aalst,Beveren
+25/11/2000,0 - 1,Beerschot,Anderlecht
+25/11/2000,4 - 3,Excelsior Mouscron,Zuid-West-Vlaanderen
+25/11/2000,0 - 2,La Louvière,Lierse
+25/11/2000,1 - 1,Lokeren,Gent
+25/11/2000,4 - 3,Mechelen,Sporting Charleroi
+25/11/2000,1 - 2,Sint-Truiden,Westerlo
+24/11/2000,2 - 1,Standard Liège,Genk
+19/11/2000,1 - 2,Antwerp,Beerschot
+19/11/2000,0 - 4,Zuid-West-Vlaanderen,Sint-Truiden
+18/11/2000,2 - 0,Anderlecht,La Louvière
+18/11/2000,1 - 1,Beveren,Mechelen
+18/11/2000,0 - 0,Genk,Lokeren
+18/11/2000,1 - 0,Gent,Excelsior Mouscron
+18/11/2000,1 - 1,Lierse,Standard Liège
+18/11/2000,1 - 1,Westerlo,Eendracht Aalst
+17/11/2000,0 - 4,Sporting Charleroi,Club Brugge
+12/11/2000,6 - 0,Club Brugge,Beveren
+12/11/2000,4 - 1,Eendracht Aalst,Sint-Truiden
+12/11/2000,2 - 0,Excelsior Mouscron,Genk
+12/11/2000,2 - 2,La Louvière,Antwerp
+12/11/2000,1 - 1,Standard Liège,Anderlecht
+11/11/2000,0 - 2,Beerschot,Sporting Charleroi
+11/11/2000,2 - 1,Gent,Zuid-West-Vlaanderen
+11/11/2000,2 - 0,Lokeren,Lierse
+11/11/2000,0 - 1,Mechelen,Westerlo
+01/11/2000,1 - 0,Antwerp,Genk
+29/10/2000,1 - 2,Antwerp,Standard Liège
+29/10/2000,0 - 2,Westerlo,Club Brugge
+29/10/2000,2 - 4,Zuid-West-Vlaanderen,Eendracht Aalst
+28/10/2000,8 - 0,Anderlecht,Lokeren
+28/10/2000,2 - 1,Beveren,Beerschot
+28/10/2000,1 - 1,Genk,Gent
+28/10/2000,1 - 0,Sint-Truiden,Mechelen
+28/10/2000,2 - 1,Sporting Charleroi,La Louvière
+27/10/2000,1 - 4,Lierse,Excelsior Mouscron
+22/10/2000,5 - 0,Club Brugge,Sint-Truiden
+22/10/2000,4 - 1,Mechelen,Eendracht Aalst
+21/10/2000,3 - 1,Beerschot,Westerlo
+21/10/2000,1 - 2,Excelsior Mouscron,Anderlecht
+21/10/2000,4 - 0,Genk,Zuid-West-Vlaanderen
+21/10/2000,2 - 3,Gent,Lierse
+21/10/2000,2 - 3,La Louvière,Beveren
+21/10/2000,0 - 1,Lokeren,Antwerp
+20/10/2000,4 - 0,Standard Liège,Sporting Charleroi
+15/10/2000,0 - 2,Eendracht Aalst,Club Brugge
+15/10/2000,2 - 1,Westerlo,La Louvière
+15/10/2000,1 - 0,Zuid-West-Vlaanderen,Mechelen
+14/10/2000,2 - 1,Anderlecht,Gent
+14/10/2000,1 - 0,Antwerp,Excelsior Mouscron
+14/10/2000,0 - 3,Beveren,Standard Liège
+14/10/2000,3 - 2,Sint-Truiden,Beerschot
+14/10/2000,1 - 0,Sporting Charleroi,Lokeren
+13/10/2000,1 - 1,Lierse,Genk
+01/10/2000,5 - 2,Club Brugge,Mechelen
+01/10/2000,1 - 1,Genk,Anderlecht
+01/10/2000,4 - 2,Gent,Antwerp
+30/09/2000,2 - 0,Beerschot,Eendracht Aalst
+30/09/2000,1 - 0,La Louvière,Sint-Truiden
+30/09/2000,4 - 1,Lierse,Zuid-West-Vlaanderen
+30/09/2000,1 - 1,Lokeren,Beveren
+30/09/2000,5 - 3,Standard Liège,Westerlo
+29/09/2000,3 - 0,Excelsior Mouscron,Sporting Charleroi
+24/09/2000,1 - 0,Eendracht Aalst,La Louvière
+24/09/2000,0 - 6,Zuid-West-Vlaanderen,Club Brugge
+23/09/2000,0 - 0,Beveren,Excelsior Mouscron
+23/09/2000,2 - 3,Mechelen,Beerschot
+23/09/2000,1 - 1,Sint-Truiden,Standard Liège
+23/09/2000,4 - 3,Sporting Charleroi,Gent
+23/09/2000,1 - 1,Westerlo,Lokeren
+22/09/2000,5 - 2,Anderlecht,Lierse
+17/09/2000,2 - 3,Beerschot,Club Brugge
+17/09/2000,2 - 1,Genk,Sporting Charleroi
+16/09/2000,4 - 3,Anderlecht,Zuid-West-Vlaanderen
+16/09/2000,3 - 5,Excelsior Mouscron,Westerlo
+16/09/2000,5 - 0,Gent,Beveren
+16/09/2000,2 - 2,La Louvière,Mechelen
+16/09/2000,4 - 1,Lierse,Antwerp
+16/09/2000,2 - 1,Lokeren,Sint-Truiden
+16/09/2000,7 - 0,Standard Liège,Eendracht Aalst
+10/09/2000,3 - 0,Club Brugge,La Louvière
+10/09/2000,2 - 2,Eendracht Aalst,Lokeren
+10/09/2000,3 - 0,Zuid-West-Vlaanderen,Beerschot
+09/09/2000,0 - 3,Antwerp,Anderlecht
+09/09/2000,2 - 0,Beveren,Genk
+09/09/2000,0 - 4,Mechelen,Standard Liège
+09/09/2000,1 - 4,Sint-Truiden,Excelsior Mouscron
+09/09/2000,2 - 0,Sporting Charleroi,Lierse
+09/09/2000,0 - 0,Westerlo,Gent
+06/09/2000,2 - 0,Antwerp,Zuid-West-Vlaanderen
+06/09/2000,2 - 0,Excelsior Mouscron,Eendracht Aalst
+06/09/2000,1 - 2,Genk,Westerlo
+06/09/2000,2 - 1,Gent,Sint-Truiden
+06/09/2000,0 - 5,La Louvière,Beerschot
+06/09/2000,3 - 0,Lierse,Beveren
+06/09/2000,3 - 2,Lokeren,Mechelen
+06/09/2000,0 - 4,Standard Liège,Club Brugge
+05/09/2000,7 - 2,Anderlecht,Sporting Charleroi
+27/08/2000,3 - 1,Club Brugge,Lokeren
+27/08/2000,1 - 4,Eendracht Aalst,Gent
+27/08/2000,1 - 0,Sporting Charleroi,Antwerp
+27/08/2000,1 - 0,Westerlo,Lierse
+27/08/2000,2 - 2,Zuid-West-Vlaanderen,La Louvière
+26/08/2000,4 - 0,Anderlecht,Beveren
+26/08/2000,1 - 5,Mechelen,Excelsior Mouscron
+26/08/2000,2 - 2,Sint-Truiden,Genk
+25/08/2000,1 - 0,Beerschot,Standard Liège
+20/08/2000,1 - 2,Excelsior Mouscron,Club Brugge
+19/08/2000,3 - 2,Anderlecht,Westerlo
+19/08/2000,0 - 1,Antwerp,Beveren
+19/08/2000,3 - 1,Genk,Eendracht Aalst
+19/08/2000,2 - 1,Gent,Mechelen
+19/08/2000,2 - 0,Lokeren,Beerschot
+19/08/2000,0 - 1,Sint-Truiden,Lierse
+19/08/2000,5 - 0,Sporting Charleroi,Zuid-West-Vlaanderen
+19/08/2000,3 - 0,Standard Liège,La Louvière
+13/08/2000,6 - 2,Club Brugge,Gent
+13/08/2000,1 - 3,Eendracht Aalst,Lierse
+13/08/2000,0 - 0,Sint-Truiden,Anderlecht
+13/08/2000,3 - 4,Zuid-West-Vlaanderen,Standard Liège
+12/08/2000,1 - 2,Beveren,Sporting Charleroi
+12/08/2000,3 - 0,Excelsior Mouscron,Beerschot
+12/08/2000,0 - 0,La Louvière,Lokeren
+12/08/2000,0 - 0,Mechelen,Genk
+12/08/2000,2 - 1,Westerlo,Antwerp

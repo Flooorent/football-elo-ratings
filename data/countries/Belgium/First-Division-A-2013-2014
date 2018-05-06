@@ -1,0 +1,302 @@
+date,score,home_team,away_team
+18/05/2014,3 - 1,Anderlecht,Lokeren
+18/05/2014,2 - 0,Club Brugge,Zulte-Waregem
+18/05/2014,1 - 0,Standard Liège,Genk
+15/05/2014,3 - 2,Genk,Club Brugge
+15/05/2014,1 - 3,Lokeren,Standard Liège
+15/05/2014,1 - 2,Zulte-Waregem,Anderlecht
+11/05/2014,4 - 0,Anderlecht,Genk
+11/05/2014,0 - 1,Standard Liège,Club Brugge
+10/05/2014,3 - 1,Zulte-Waregem,Lokeren
+04/05/2014,0 - 1,Club Brugge,Anderlecht
+03/05/2014,1 - 2,Genk,Lokeren
+02/05/2014,4 - 1,Standard Liège,Zulte-Waregem
+27/04/2014,2 - 1,Anderlecht,Standard Liège
+26/04/2014,1 - 3,Lokeren,Club Brugge
+25/04/2014,2 - 2,Zulte-Waregem,Genk
+21/04/2014,1 - 0,Genk,Anderlecht
+21/04/2014,0 - 0,Club Brugge,Standard Liège
+20/04/2014,3 - 2,Lokeren,Zulte-Waregem
+17/04/2014,2 - 2,Standard Liège,Lokeren
+16/04/2014,2 - 0,Club Brugge,Genk
+15/04/2014,0 - 0,Anderlecht,Zulte-Waregem
+13/04/2014,2 - 2,Genk,Standard Liège
+12/04/2014,2 - 1,Zulte-Waregem,Club Brugge
+11/04/2014,1 - 2,Lokeren,Anderlecht
+06/04/2014,3 - 0,Anderlecht,Club Brugge
+05/04/2014,1 - 1,Lokeren,Genk
+04/04/2014,2 - 0,Zulte-Waregem,Standard Liège
+30/03/2014,1 - 0,Standard Liège,Anderlecht
+29/03/2014,0 - 3,Genk,Zulte-Waregem
+28/03/2014,5 - 1,Club Brugge,Lokeren
+17/05/2014,2 - 2, [PS] KV Oostende,Kortrijk
+09/05/2014,2 - 2,Kortrijk,KV Oostende
+03/05/2014,4 - 0,Gent,Lierse
+03/05/2014,0 - 1,Waasland-Beveren,KV Oostende
+26/04/2014,1 - 1,KV Oostende,Gent
+26/04/2014,4 - 2,Lierse,Waasland-Beveren
+19/04/2014,0 - 2,Lierse,KV Oostende
+19/04/2014,2 - 4,Waasland-Beveren,Gent
+12/04/2014,2 - 1,Gent,Waasland-Beveren
+12/04/2014,2 - 0,KV Oostende,Lierse
+05/04/2014,0 - 0,KV Oostende,Waasland-Beveren
+05/04/2014,1 - 0,Lierse,Gent
+29/03/2014,0 - 1,Gent,KV Oostende
+29/03/2014,2 - 0,Waasland-Beveren,Lierse
+03/05/2014,2 - 1,Kortrijk,Sporting Charleroi
+03/05/2014,2 - 0,Mechelen,Cercle Brugge
+26/04/2014,0 - 4,Cercle Brugge,Kortrijk
+26/04/2014,3 - 0,Sporting Charleroi,Mechelen
+19/04/2014,2 - 1,Mechelen,Kortrijk
+19/04/2014,2 - 0,Sporting Charleroi,Cercle Brugge
+12/04/2014,2 - 4,Cercle Brugge,Sporting Charleroi
+12/04/2014,4 - 1,Kortrijk,Mechelen
+05/04/2014,1 - 1,Sporting Charleroi,Kortrijk
+05/04/2014,0 - 1,Cercle Brugge,Mechelen
+30/03/2014,0 - 2,Mechelen,Sporting Charleroi
+29/03/2014,4 - 0,Kortrijk,Cercle Brugge
+27/04/2014,C - C,OH Leuven,Mons
+19/04/2014,C - C,Mons,OH Leuven
+12/04/2014,2 - 0,OH Leuven,Mons
+05/04/2014,1 - 1,Mons,OH Leuven
+29/03/2014,2 - 0,OH Leuven,Mons
+16/03/2014,4 - 0,Anderlecht,KV Oostende
+16/03/2014,2 - 0,Club Brugge,Cercle Brugge
+16/03/2014,0 - 1,Gent,Zulte-Waregem
+16/03/2014,2 - 2,Kortrijk,Genk
+16/03/2014,1 - 2,Lierse,Lokeren
+16/03/2014,0 - 3,Mechelen,Sporting Charleroi
+16/03/2014,3 - 2,Mons,OH Leuven
+16/03/2014,1 - 1,Waasland-Beveren,Standard Liège
+08/03/2014,1 - 4,Cercle Brugge,Gent
+08/03/2014,3 - 1,Genk,Mons
+08/03/2014,0 - 0,KV Oostende,Kortrijk
+08/03/2014,0 - 0,Lokeren,Waasland-Beveren
+08/03/2014,1 - 0,OH Leuven,Anderlecht
+08/03/2014,1 - 1,Sporting Charleroi,Lierse
+08/03/2014,2 - 0,Standard Liège,Mechelen
+08/03/2014,1 - 1,Zulte-Waregem,Club Brugge
+02/03/2014,2 - 0,Anderlecht,Genk
+02/03/2014,1 - 0,Club Brugge,Standard Liège
+01/03/2014,2 - 1,Gent,Sporting Charleroi
+01/03/2014,4 - 0,Kortrijk,Cercle Brugge
+01/03/2014,0 - 0,Lierse,OH Leuven
+01/03/2014,3 - 0,Mons,KV Oostende
+01/03/2014,2 - 2,Waasland-Beveren,Zulte-Waregem
+28/02/2014,1 - 0,Mechelen,Lokeren
+23/02/2014,0 - 2,Genk,Waasland-Beveren
+23/02/2014,2 - 3,Standard Liège,Gent
+23/02/2014,2 - 5,OH Leuven,Club Brugge
+22/02/2014,3 - 2,Cercle Brugge,Mechelen
+22/02/2014,1 - 2,Kortrijk,Mons
+22/02/2014,3 - 2,KV Oostende,Lierse
+22/02/2014,3 - 2,Sporting Charleroi,Zulte-Waregem
+21/02/2014,2 - 1,Lokeren,Anderlecht
+16/02/2014,2 - 0,Anderlecht,Mons
+16/02/2014,1 - 1,Gent,Lokeren
+15/02/2014,0 - 1,Lierse,Genk
+15/02/2014,1 - 1,Mechelen,KV Oostende
+15/02/2014,1 - 0,Waasland-Beveren,OH Leuven
+15/02/2014,2 - 1,Zulte-Waregem,Cercle Brugge
+15/02/2014,0 - 1,Sporting Charleroi,Standard Liège
+14/02/2014,3 - 1,Club Brugge,Kortrijk
+09/02/2014,1 - 3,Genk,Club Brugge
+09/02/2014,2 - 0,Standard Liège,Zulte-Waregem
+08/02/2014,0 - 0,Cercle Brugge,Waasland-Beveren
+08/02/2014,0 - 0,KV Oostende,Gent
+08/02/2014,3 - 1,Lokeren,Sporting Charleroi
+08/02/2014,1 - 5,Mons,Lierse
+08/02/2014,0 - 0,OH Leuven,Mechelen
+08/02/2014,2 - 2,Kortrijk,Anderlecht
+02/02/2014,1 - 1,Zulte-Waregem,Lokeren
+01/02/2014,2 - 1,Club Brugge,Mons
+01/02/2014,2 - 0,Gent,OH Leuven
+01/02/2014,0 - 2,Mechelen,Genk
+01/02/2014,0 - 1,Sporting Charleroi,KV Oostende
+01/02/2014,1 - 1,Waasland-Beveren,Kortrijk
+01/02/2014,4 - 0,Standard Liège,Cercle Brugge
+31/01/2014,2 - 0,Lierse,Anderlecht
+26/01/2014,2 - 0,Anderlecht,Club Brugge
+26/01/2014,1 - 2,Genk,Gent
+25/01/2014,3 - 0,Cercle Brugge,Sporting Charleroi
+25/01/2014,3 - 4,Kortrijk,Lierse
+25/01/2014,2 - 1,KV Oostende,Waasland-Beveren
+25/01/2014,0 - 2,Mons,Mechelen
+25/01/2014,1 - 0,OH Leuven,Zulte-Waregem
+24/01/2014,0 - 1,Lokeren,Standard Liège
+19/01/2014,1 - 0,Zulte-Waregem,Genk
+19/01/2014,2 - 1,Mechelen,Anderlecht
+18/01/2014,0 - 3,Cercle Brugge,Lokeren
+18/01/2014,0 - 1,Gent,Kortrijk
+18/01/2014,1 - 1,Lierse,Club Brugge
+18/01/2014,2 - 0,Sporting Charleroi,OH Leuven
+18/01/2014,4 - 1,Waasland-Beveren,Mons
+18/01/2014,2 - 0,Standard Liège,KV Oostende
+27/12/2013,1 - 5,Kortrijk,Standard Liège
+26/12/2013,1 - 2,Club Brugge,Waasland-Beveren
+26/12/2013,1 - 0,Anderlecht,Zulte-Waregem
+26/12/2013,0 - 3,Genk,Sporting Charleroi
+26/12/2013,0 - 3,KV Oostende,Lokeren
+26/12/2013,3 - 0,Lierse,Mechelen
+26/12/2013,1 - 0,Mons,Gent
+26/12/2013,3 - 0,OH Leuven,Cercle Brugge
+22/12/2013,1 - 1,Standard Liège,Anderlecht
+22/12/2013,1 - 3,Gent,Club Brugge
+21/12/2013,2 - 0,Lokeren,OH Leuven
+21/12/2013,5 - 2,Mechelen,Kortrijk
+21/12/2013,0 - 2,Sporting Charleroi,Mons
+21/12/2013,3 - 1,Waasland-Beveren,Lierse
+21/12/2013,2 - 2,Zulte-Waregem,KV Oostende
+21/12/2013,1 - 0,Cercle Brugge,Genk
+15/12/2013,2 - 2,Sporting Charleroi,Club Brugge
+15/12/2013,3 - 0,Zulte-Waregem,Lierse
+15/12/2013,1 - 2,Gent,Anderlecht
+15/12/2013,3 - 1,Standard Liège,Genk
+14/12/2013,2 - 1,Cercle Brugge,Mons
+14/12/2013,0 - 0,Lokeren,Kortrijk
+14/12/2013,0 - 0,Mechelen,Waasland-Beveren
+14/12/2013,1 - 2,OH Leuven,KV Oostende
+08/12/2013,0 - 2,Genk,Lokeren
+08/12/2013,0 - 0,OH Leuven,Standard Liège
+07/12/2013,3 - 0,Club Brugge,Mechelen
+07/12/2013,1 - 1,Kortrijk,Sporting Charleroi
+07/12/2013,2 - 0,KV Oostende,Cercle Brugge
+07/12/2013,1 - 3,Lierse,Gent
+07/12/2013,1 - 1,Mons,Zulte-Waregem
+07/12/2013,2 - 0,Anderlecht,Waasland-Beveren
+01/12/2013,3 - 0,Genk,OH Leuven
+01/12/2013,1 - 1,Kortrijk,Zulte-Waregem
+01/12/2013,2 - 1,Anderlecht,Cercle Brugge
+01/12/2013,0 - 5,Lierse,Standard Liège
+30/11/2013,2 - 0,Club Brugge,KV Oostende
+30/11/2013,0 - 1,Mechelen,Gent
+30/11/2013,1 - 0,Mons,Lokeren
+30/11/2013,0 - 0,Waasland-Beveren,Sporting Charleroi
+24/11/2013,1 - 0,Standard Liège,Mons
+24/11/2013,0 - 3,Lokeren,Club Brugge
+23/11/2013,2 - 4,Cercle Brugge,Lierse
+23/11/2013,2 - 0,Gent,Waasland-Beveren
+23/11/2013,4 - 0,KV Oostende,Genk
+23/11/2013,1 - 1,OH Leuven,Kortrijk
+23/11/2013,3 - 1,Zulte-Waregem,Mechelen
+23/11/2013,2 - 1,Sporting Charleroi,Anderlecht
+10/11/2013,2 - 0,Zulte-Waregem,Waasland-Beveren
+10/11/2013,0 - 1,Genk,Anderlecht
+10/11/2013,0 - 0,Standard Liège,Club Brugge
+09/11/2013,3 - 1,Cercle Brugge,Kortrijk
+09/11/2013,2 - 0,KV Oostende,Mons
+09/11/2013,2 - 0,OH Leuven,Lierse
+09/11/2013,0 - 1,Sporting Charleroi,Gent
+08/11/2013,4 - 0,Lokeren,Mechelen
+03/11/2013,0 - 1,Waasland-Beveren,Cercle Brugge
+03/11/2013,1 - 0,Club Brugge,Lokeren
+03/11/2013,0 - 1,Gent,Standard Liège
+02/11/2013,2 - 0,Kortrijk,KV Oostende
+02/11/2013,2 - 1,Lierse,Sporting Charleroi
+02/11/2013,2 - 2,Mechelen,Zulte-Waregem
+02/11/2013,2 - 3,Mons,Genk
+02/11/2013,3 - 1,Anderlecht,OH Leuven
+31/10/2013,2 - 0,Cercle Brugge,Club Brugge
+31/10/2013,2 - 2,Standard Liège,Waasland-Beveren
+30/10/2013,1 - 0,Genk,Kortrijk
+30/10/2013,0 - 3,KV Oostende,Anderlecht
+30/10/2013,1 - 0,Lokeren,Lierse
+30/10/2013,2 - 2,OH Leuven,Mons
+30/10/2013,2 - 2,Sporting Charleroi,Mechelen
+30/10/2013,3 - 2,Zulte-Waregem,Gent
+27/10/2013,1 - 1,Zulte-Waregem,Sporting Charleroi
+27/10/2013,1 - 1,Anderlecht,Standard Liège
+27/10/2013,0 - 2,Club Brugge,Genk
+26/10/2013,0 - 2,Lierse,KV Oostende
+26/10/2013,4 - 2,Mechelen,OH Leuven
+26/10/2013,0 - 1,Mons,Kortrijk
+26/10/2013,0 - 2,Waasland-Beveren,Lokeren
+25/10/2013,1 - 1,Gent,Cercle Brugge
+20/10/2013,4 - 1,Kortrijk,Club Brugge
+20/10/2013,2 - 2,Standard Liège,Sporting Charleroi
+19/10/2013,1 - 1,Cercle Brugge,Zulte-Waregem
+19/10/2013,4 - 0,Genk,Lierse
+19/10/2013,0 - 3,KV Oostende,Mechelen
+19/10/2013,2 - 2,Lokeren,Gent
+19/10/2013,4 - 2,OH Leuven,Waasland-Beveren
+18/10/2013,0 - 2,Mons,Anderlecht
+06/10/2013,1 - 2,Gent,Genk
+06/10/2013,1 - 0,Zulte-Waregem,Standard Liège
+06/10/2013,0 - 1,Anderlecht,Kortrijk
+05/10/2013,1 - 0,Club Brugge,OH Leuven
+05/10/2013,2 - 1,Lierse,Mons
+05/10/2013,1 - 2,Mechelen,Cercle Brugge
+05/10/2013,2 - 1,Sporting Charleroi,Lokeren
+05/10/2013,2 - 0,Waasland-Beveren,KV Oostende
+29/09/2013,0 - 5,Cercle Brugge,Standard Liège
+29/09/2013,2 - 0,Anderlecht,Lierse
+28/09/2013,1 - 0,Genk,Mechelen
+28/09/2013,2 - 1,Kortrijk,Waasland-Beveren
+28/09/2013,1 - 0,KV Oostende,Sporting Charleroi
+28/09/2013,0 - 1,Mons,Club Brugge
+28/09/2013,1 - 1,OH Leuven,Gent
+28/09/2013,2 - 4,Lokeren,Zulte-Waregem
+22/09/2013,0 - 0,Waasland-Beveren,Genk
+22/09/2013,4 - 2,Zulte-Waregem,OH Leuven
+22/09/2013,2 - 1,Standard Liège,Lokeren
+22/09/2013,4 - 0,Club Brugge,Anderlecht
+21/09/2013,1 - 1,Gent,KV Oostende
+21/09/2013,2 - 0,Lierse,Kortrijk
+21/09/2013,4 - 2,Mechelen,Mons
+21/09/2013,2 - 0,Sporting Charleroi,Cercle Brugge
+15/09/2013,5 - 2,Genk,Zulte-Waregem
+15/09/2013,2 - 4,KV Oostende,Standard Liège
+14/09/2013,4 - 1,Club Brugge,Lierse
+14/09/2013,3 - 0,Kortrijk,Gent
+14/09/2013,3 - 0,Lokeren,Cercle Brugge
+14/09/2013,1 - 1,Mons,Waasland-Beveren
+14/09/2013,0 - 0,OH Leuven,Sporting Charleroi
+14/09/2013,5 - 0,Anderlecht,Mechelen
+01/09/2013,1 - 1,Sporting Charleroi,Genk
+01/09/2013,1 - 2,Waasland-Beveren,Club Brugge
+01/09/2013,4 - 3,Zulte-Waregem,Anderlecht
+01/09/2013,2 - 0,Standard Liège,Kortrijk
+31/08/2013,1 - 1,Cercle Brugge,OH Leuven
+31/08/2013,1 - 0,Gent,Mons
+31/08/2013,1 - 0,Lokeren,KV Oostende
+31/08/2013,0 - 0,Mechelen,Lierse
+25/08/2013,0 - 2,Mons,Standard Liège
+25/08/2013,5 - 2,Anderlecht,Sporting Charleroi
+25/08/2013,1 - 0,Genk,Cercle Brugge
+25/08/2013,1 - 1,KV Oostende,Zulte-Waregem
+25/08/2013,1 - 1,Club Brugge,Gent
+24/08/2013,1 - 2,Kortrijk,Mechelen
+24/08/2013,1 - 0,Lierse,Waasland-Beveren
+24/08/2013,2 - 1,OH Leuven,Lokeren
+18/08/2013,0 - 3,Waasland-Beveren,Anderlecht
+18/08/2013,1 - 0,Standard Liège,OH Leuven
+17/08/2013,2 - 0,Cercle Brugge,KV Oostende
+17/08/2013,2 - 1,Gent,Lierse
+17/08/2013,3 - 1,Lokeren,Genk
+17/08/2013,1 - 2,Sporting Charleroi,Kortrijk
+17/08/2013,2 - 0,Zulte-Waregem,Mons
+17/08/2013,1 - 2,Mechelen,Club Brugge
+11/08/2013,0 - 2,Genk,Standard Liège
+11/08/2013,4 - 1,Anderlecht,Gent
+11/08/2013,1 - 1,Club Brugge,Zulte-Waregem
+10/08/2013,1 - 1,KV Oostende,OH Leuven
+10/08/2013,1 - 1,Lierse,Cercle Brugge
+10/08/2013,1 - 2,Mons,Sporting Charleroi
+10/08/2013,0 - 0,Waasland-Beveren,Mechelen
+09/08/2013,3 - 3,Kortrijk,Lokeren
+04/08/2013,1 - 2,KV Oostende,Club Brugge
+04/08/2013,3 - 0,Standard Liège,Lierse
+04/08/2013,2 - 1,Gent,Mechelen
+03/08/2013,2 - 1,Lokeren,Mons
+03/08/2013,1 - 4,OH Leuven,Genk
+03/08/2013,1 - 1,Sporting Charleroi,Waasland-Beveren
+03/08/2013,1 - 0,Zulte-Waregem,Kortrijk
+02/08/2013,0 - 4,Cercle Brugge,Anderlecht
+28/07/2013,0 - 2,Mechelen,Standard Liège
+28/07/2013,2 - 3,Anderlecht,Lokeren
+27/07/2013,3 - 0,Genk,KV Oostende
+27/07/2013,1 - 0,Kortrijk,OH Leuven
+27/07/2013,1 - 2,Lierse,Zulte-Waregem
+27/07/2013,1 - 1,Mons,Cercle Brugge
+27/07/2013,1 - 1,Waasland-Beveren,Gent
+26/07/2013,2 - 0,Club Brugge,Sporting Charleroi

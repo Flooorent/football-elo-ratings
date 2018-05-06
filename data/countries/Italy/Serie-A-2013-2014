@@ -1,0 +1,381 @@
+date,score,home_team,away_team
+18/05/2014,2 - 1,Chievo,Internazionale
+18/05/2014,2 - 2,Fiorentina,Torino
+18/05/2014,1 - 0,Lazio,Bologna
+18/05/2014,2 - 1,Milan,Sassuolo
+18/05/2014,5 - 1,Napoli,Hellas Verona
+18/05/2014,2 - 0,Parma,Livorno
+18/05/2014,2 - 1,Catania,Atalanta
+18/05/2014,1 - 0,Genoa,Roma
+18/05/2014,3 - 0,Juventus,Cagliari
+17/05/2014,3 - 3,Udinese,Sampdoria
+11/05/2014,0 - 1,Roma,Juventus
+11/05/2014,1 - 2,Bologna,Catania
+11/05/2014,0 - 1,Cagliari,Chievo
+11/05/2014,0 - 1,Livorno,Fiorentina
+11/05/2014,2 - 5,Sampdoria,Napoli
+11/05/2014,4 - 2,Sassuolo,Genoa
+11/05/2014,1 - 1,Torino,Parma
+11/05/2014,2 - 1,Atalanta,Milan
+10/05/2014,4 - 1,Internazionale,Lazio
+10/05/2014,2 - 2,Hellas Verona,Udinese
+06/05/2014,3 - 0,Napoli,Cagliari
+06/05/2014,3 - 4,Fiorentina,Sassuolo
+05/05/2014,1 - 0,Juventus,Atalanta
+05/05/2014,3 - 3,Lazio,Hellas Verona
+04/05/2014,1 - 0,Milan,Internazionale
+04/05/2014,4 - 1,Catania,Roma
+04/05/2014,0 - 1,Chievo,Torino
+04/05/2014,0 - 0,Genoa,Bologna
+04/05/2014,2 - 0,Parma,Sampdoria
+04/05/2014,5 - 3,Udinese,Livorno
+28/04/2014,1 - 3,Sassuolo,Juventus
+27/04/2014,1 - 1,Atalanta,Genoa
+27/04/2014,1 - 0,Cagliari,Parma
+27/04/2014,0 - 2,Livorno,Lazio
+27/04/2014,2 - 1,Sampdoria,Chievo
+27/04/2014,2 - 0,Torino,Udinese
+27/04/2014,4 - 0,Hellas Verona,Catania
+26/04/2014,0 - 0,Internazionale,Napoli
+26/04/2014,0 - 3,Bologna,Fiorentina
+25/04/2014,2 - 0,Roma,Milan
+19/04/2014,0 - 1,Fiorentina,Roma
+19/04/2014,1 - 0,Juventus,Bologna
+19/04/2014,1 - 2,Atalanta,Hellas Verona
+19/04/2014,2 - 1,Catania,Sampdoria
+19/04/2014,0 - 1,Chievo,Sassuolo
+19/04/2014,1 - 2,Genoa,Cagliari
+19/04/2014,3 - 3,Lazio,Torino
+19/04/2014,3 - 0,Milan,Livorno
+19/04/2014,0 - 2,Parma,Internazionale
+19/04/2014,1 - 1,Udinese,Napoli
+14/04/2014,0 - 2,Udinese,Juventus
+13/04/2014,1 - 0,Milan,Catania
+13/04/2014,3 - 5,Hellas Verona,Fiorentina
+13/04/2014,2 - 4,Livorno,Chievo
+13/04/2014,4 - 2,Napoli,Lazio
+13/04/2014,0 - 4,Sampdoria,Internazionale
+13/04/2014,2 - 1,Torino,Genoa
+13/04/2014,1 - 1,Bologna,Parma
+12/04/2014,3 - 1,Roma,Atalanta
+12/04/2014,1 - 1,Sassuolo,Cagliari
+07/04/2014,1 - 2,Genoa,Milan
+07/04/2014,2 - 0,Juventus,Livorno
+06/04/2014,1 - 0,Parma,Napoli
+06/04/2014,0 - 2,Atalanta,Sassuolo
+06/04/2014,1 - 3,Cagliari,Roma
+06/04/2014,1 - 2,Catania,Torino
+06/04/2014,2 - 1,Fiorentina,Udinese
+06/04/2014,2 - 0,Lazio,Sampdoria
+05/04/2014,2 - 2,Internazionale,Bologna
+05/04/2014,0 - 1,Chievo,Hellas Verona
+02/04/2014,4 - 2,Roma,Parma
+31/03/2014,2 - 2,Livorno,Internazionale
+31/03/2014,1 - 0,Udinese,Catania
+30/03/2014,2 - 0,Napoli,Juventus
+30/03/2014,3 - 0,Hellas Verona,Genoa
+30/03/2014,3 - 2,Lazio,Parma
+30/03/2014,0 - 0,Sampdoria,Fiorentina
+30/03/2014,2 - 1,Torino,Cagliari
+30/03/2014,0 - 2,Sassuolo,Roma
+29/03/2014,3 - 0,Milan,Chievo
+29/03/2014,0 - 2,Bologna,Atalanta
+27/03/2014,0 - 0,Internazionale,Udinese
+26/03/2014,2 - 0,Atalanta,Livorno
+26/03/2014,1 - 0,Cagliari,Hellas Verona
+26/03/2014,2 - 4,Catania,Napoli
+26/03/2014,3 - 0,Chievo,Bologna
+26/03/2014,0 - 2,Fiorentina,Milan
+26/03/2014,2 - 0,Genoa,Lazio
+26/03/2014,2 - 1,Juventus,Parma
+26/03/2014,1 - 2,Sassuolo,Sampdoria
+25/03/2014,2 - 1,Roma,Torino
+23/03/2014,0 - 1,Catania,Juventus
+23/03/2014,1 - 1,Lazio,Milan
+23/03/2014,0 - 1,Napoli,Fiorentina
+23/03/2014,1 - 0,Bologna,Cagliari
+23/03/2014,1 - 2,Internazionale,Atalanta
+23/03/2014,5 - 0,Sampdoria,Hellas Verona
+23/03/2014,1 - 0,Udinese,Sassuolo
+23/03/2014,1 - 1,Parma,Genoa
+22/03/2014,0 - 2,Chievo,Roma
+22/03/2014,3 - 1,Torino,Livorno
+17/03/2014,3 - 2,Roma,Udinese
+17/03/2014,0 - 1,Torino,Napoli
+16/03/2014,3 - 1,Fiorentina,Chievo
+16/03/2014,0 - 1,Genoa,Juventus
+16/03/2014,0 - 2,Cagliari,Lazio
+16/03/2014,2 - 1,Livorno,Bologna
+16/03/2014,2 - 4,Milan,Parma
+16/03/2014,3 - 1,Sassuolo,Catania
+16/03/2014,3 - 0,Atalanta,Sampdoria
+15/03/2014,0 - 2,Hellas Verona,Internazionale
+09/03/2014,1 - 0,Napoli,Roma
+09/03/2014,0 - 0,Bologna,Sassuolo
+09/03/2014,2 - 1,Chievo,Genoa
+09/03/2014,1 - 0,Internazionale,Torino
+09/03/2014,0 - 1,Lazio,Atalanta
+09/03/2014,2 - 0,Parma,Hellas Verona
+09/03/2014,4 - 2,Sampdoria,Livorno
+09/03/2014,1 - 0,Juventus,Fiorentina
+08/03/2014,1 - 1,Catania,Cagliari
+08/03/2014,1 - 0,Udinese,Milan
+02/03/2014,0 - 1,Fiorentina,Lazio
+02/03/2014,0 - 2,Milan,Juventus
+02/03/2014,1 - 1,Livorno,Napoli
+02/03/2014,2 - 1,Atalanta,Chievo
+02/03/2014,2 - 0,Genoa,Catania
+02/03/2014,0 - 0,Hellas Verona,Bologna
+02/03/2014,0 - 1,Sassuolo,Parma
+02/03/2014,0 - 2,Torino,Sampdoria
+02/03/2014,3 - 0,Cagliari,Udinese
+01/03/2014,0 - 0,Roma,Internazionale
+24/02/2014,1 - 1,Napoli,Genoa
+24/02/2014,2 - 2,Parma,Fiorentina
+23/02/2014,3 - 2,Lazio,Sassuolo
+23/02/2014,1 - 0,Juventus,Torino
+23/02/2014,2 - 0,Chievo,Catania
+23/02/2014,1 - 1,Internazionale,Cagliari
+23/02/2014,0 - 2,Sampdoria,Milan
+23/02/2014,1 - 1,Udinese,Atalanta
+23/02/2014,2 - 3,Livorno,Hellas Verona
+22/02/2014,0 - 1,Bologna,Roma
+17/02/2014,1 - 3,Hellas Verona,Torino
+16/02/2014,3 - 0,Roma,Sampdoria
+16/02/2014,0 - 4,Atalanta,Parma
+16/02/2014,1 - 2,Cagliari,Livorno
+16/02/2014,3 - 3,Genoa,Udinese
+16/02/2014,3 - 1,Juventus,Chievo
+16/02/2014,0 - 2,Sassuolo,Napoli
+16/02/2014,3 - 1,Catania,Lazio
+15/02/2014,1 - 2,Fiorentina,Internazionale
+14/02/2014,1 - 0,Milan,Bologna
+09/02/2014,1 - 0,Internazionale,Sassuolo
+09/02/2014,2 - 2,Hellas Verona,Juventus
+09/02/2014,0 - 0,Lazio,Roma
+09/02/2014,0 - 1,Livorno,Genoa
+09/02/2014,0 - 0,Parma,Catania
+09/02/2014,1 - 0,Sampdoria,Cagliari
+09/02/2014,1 - 2,Torino,Bologna
+08/02/2014,3 - 1,Napoli,Milan
+08/02/2014,2 - 0,Fiorentina,Atalanta
+08/02/2014,3 - 0,Udinese,Chievo
+03/02/2014,0 - 1,Genoa,Sampdoria
+02/02/2014,3 - 1,Juventus,Internazionale
+02/02/2014,3 - 0,Atalanta,Napoli
+02/02/2014,3 - 3,Catania,Livorno
+02/02/2014,0 - 2,Chievo,Lazio
+02/02/2014,1 - 2,Sassuolo,Hellas Verona
+01/02/2014,1 - 1,Milan,Torino
+01/02/2014,0 - 2,Bologna,Udinese
+01/02/2014,1 - 0,Cagliari,Fiorentina
+26/01/2014,3 - 3,Fiorentina,Genoa
+26/01/2014,1 - 2,Cagliari,Milan
+26/01/2014,0 - 0,Internazionale,Catania
+26/01/2014,3 - 1,Livorno,Sassuolo
+26/01/2014,1 - 0,Parma,Udinese
+26/01/2014,1 - 1,Sampdoria,Bologna
+26/01/2014,1 - 0,Torino,Atalanta
+26/01/2014,1 - 3,Hellas Verona,Roma
+25/01/2014,1 - 1,Lazio,Juventus
+25/01/2014,1 - 1,Napoli,Chievo
+19/01/2014,1 - 0,Milan,Hellas Verona
+19/01/2014,1 - 0,Atalanta,Cagliari
+19/01/2014,2 - 2,Bologna,Napoli
+19/01/2014,0 - 3,Catania,Fiorentina
+19/01/2014,1 - 2,Chievo,Parma
+19/01/2014,1 - 0,Genoa,Internazionale
+19/01/2014,0 - 2,Sassuolo,Torino
+19/01/2014,2 - 3,Udinese,Lazio
+18/01/2014,4 - 2,Juventus,Sampdoria
+18/01/2014,3 - 0,Roma,Livorno
+13/01/2014,1 - 1,Internazionale,Chievo
+13/01/2014,3 - 0,Sampdoria,Udinese
+12/01/2014,4 - 3,Sassuolo,Milan
+12/01/2014,2 - 1,Atalanta,Catania
+12/01/2014,1 - 4,Cagliari,Juventus
+12/01/2014,0 - 3,Hellas Verona,Napoli
+12/01/2014,4 - 0,Roma,Genoa
+12/01/2014,0 - 0,Torino,Fiorentina
+11/01/2014,0 - 0,Bologna,Lazio
+11/01/2014,0 - 3,Livorno,Parma
+06/01/2014,1 - 0,Lazio,Internazionale
+06/01/2014,2 - 0,Catania,Bologna
+06/01/2014,2 - 0,Genoa,Sassuolo
+06/01/2014,3 - 0,Milan,Atalanta
+06/01/2014,3 - 1,Parma,Torino
+06/01/2014,1 - 3,Udinese,Hellas Verona
+06/01/2014,2 - 0,Napoli,Sampdoria
+05/01/2014,3 - 0,Juventus,Roma
+05/01/2014,1 - 0,Fiorentina,Livorno
+05/01/2014,0 - 0,Chievo,Cagliari
+22/12/2013,1 - 0,Internazionale,Milan
+22/12/2013,1 - 4,Atalanta,Juventus
+22/12/2013,4 - 1,Hellas Verona,Lazio
+22/12/2013,4 - 0,Roma,Catania
+22/12/2013,1 - 1,Sampdoria,Parma
+22/12/2013,0 - 1,Sassuolo,Fiorentina
+22/12/2013,4 - 1,Torino,Chievo
+22/12/2013,1 - 0,Bologna,Genoa
+21/12/2013,1 - 1,Cagliari,Napoli
+21/12/2013,1 - 2,Livorno,Udinese
+16/12/2013,2 - 2,Milan,Roma
+15/12/2013,4 - 2,Napoli,Internazionale
+15/12/2013,4 - 0,Juventus,Sassuolo
+15/12/2013,0 - 1,Chievo,Sampdoria
+15/12/2013,3 - 0,Fiorentina,Bologna
+15/12/2013,1 - 1,Genoa,Atalanta
+15/12/2013,2 - 0,Lazio,Livorno
+15/12/2013,0 - 0,Parma,Cagliari
+15/12/2013,0 - 2,Udinese,Torino
+14/12/2013,0 - 0,Catania,Hellas Verona
+08/12/2013,3 - 3,Internazionale,Parma
+08/12/2013,2 - 1,Cagliari,Genoa
+08/12/2013,2 - 1,Hellas Verona,Atalanta
+08/12/2013,2 - 0,Sampdoria,Catania
+08/12/2013,0 - 1,Sassuolo,Chievo
+08/12/2013,1 - 0,Torino,Lazio
+08/12/2013,2 - 1,Roma,Fiorentina
+07/12/2013,3 - 3,Napoli,Udinese
+07/12/2013,2 - 2,Livorno,Milan
+06/12/2013,0 - 2,Bologna,Juventus
+02/12/2013,2 - 4,Lazio,Napoli
+02/12/2013,4 - 3,Fiorentina,Hellas Verona
+01/12/2013,1 - 0,Juventus,Udinese
+01/12/2013,1 - 1,Atalanta,Roma
+01/12/2013,2 - 2,Cagliari,Sassuolo
+01/12/2013,3 - 0,Chievo,Livorno
+01/12/2013,1 - 1,Internazionale,Sampdoria
+01/12/2013,1 - 3,Catania,Milan
+30/11/2013,1 - 1,Genoa,Torino
+30/11/2013,1 - 1,Parma,Bologna
+25/11/2013,0 - 0,Roma,Cagliari
+24/11/2013,1 - 1,Bologna,Internazionale
+24/11/2013,0 - 2,Livorno,Juventus
+24/11/2013,1 - 1,Sampdoria,Lazio
+24/11/2013,2 - 0,Sassuolo,Atalanta
+24/11/2013,4 - 1,Torino,Catania
+24/11/2013,1 - 0,Udinese,Fiorentina
+23/11/2013,1 - 1,Milan,Genoa
+23/11/2013,0 - 1,Napoli,Parma
+23/11/2013,0 - 1,Hellas Verona,Chievo
+10/11/2013,2 - 1,Fiorentina,Sampdoria
+10/11/2013,3 - 0,Juventus,Napoli
+10/11/2013,2 - 1,Atalanta,Bologna
+10/11/2013,2 - 1,Cagliari,Torino
+10/11/2013,0 - 0,Chievo,Milan
+10/11/2013,1 - 1,Parma,Lazio
+10/11/2013,1 - 1,Roma,Sassuolo
+10/11/2013,2 - 0,Genoa,Hellas Verona
+09/11/2013,2 - 0,Internazionale,Livorno
+09/11/2013,1 - 0,Catania,Udinese
+04/11/2013,0 - 0,Bologna,Chievo
+03/11/2013,1 - 1,Torino,Roma
+03/11/2013,2 - 1,Hellas Verona,Cagliari
+03/11/2013,0 - 2,Lazio,Genoa
+03/11/2013,3 - 4,Sampdoria,Sassuolo
+03/11/2013,0 - 3,Udinese,Internazionale
+03/11/2013,1 - 0,Livorno,Atalanta
+02/11/2013,0 - 2,Milan,Fiorentina
+02/11/2013,2 - 1,Napoli,Catania
+02/11/2013,0 - 1,Parma,Juventus
+31/10/2013,1 - 0,Roma,Chievo
+30/10/2013,0 - 3,Cagliari,Bologna
+30/10/2013,1 - 2,Fiorentina,Napoli
+30/10/2013,1 - 0,Genoa,Parma
+30/10/2013,2 - 0,Hellas Verona,Sampdoria
+30/10/2013,4 - 0,Juventus,Catania
+30/10/2013,3 - 3,Livorno,Torino
+30/10/2013,1 - 1,Milan,Lazio
+30/10/2013,1 - 2,Sassuolo,Udinese
+29/10/2013,1 - 1,Atalanta,Internazionale
+27/10/2013,2 - 0,Lazio,Cagliari
+27/10/2013,1 - 0,Bologna,Livorno
+27/10/2013,0 - 0,Catania,Sassuolo
+27/10/2013,1 - 2,Chievo,Fiorentina
+27/10/2013,2 - 0,Juventus,Genoa
+27/10/2013,3 - 2,Parma,Milan
+27/10/2013,0 - 1,Udinese,Roma
+27/10/2013,2 - 0,Napoli,Torino
+26/10/2013,4 - 2,Internazionale,Hellas Verona
+26/10/2013,1 - 0,Sampdoria,Atalanta
+20/10/2013,3 - 3,Torino,Internazionale
+20/10/2013,4 - 2,Fiorentina,Juventus
+20/10/2013,2 - 1,Genoa,Chievo
+20/10/2013,3 - 2,Hellas Verona,Parma
+20/10/2013,1 - 2,Livorno,Sampdoria
+20/10/2013,2 - 1,Sassuolo,Bologna
+20/10/2013,2 - 1,Atalanta,Lazio
+19/10/2013,1 - 0,Milan,Udinese
+19/10/2013,2 - 1,Cagliari,Catania
+18/10/2013,2 - 0,Roma,Napoli
+06/10/2013,3 - 2,Juventus,Milan
+06/10/2013,0 - 0,Lazio,Fiorentina
+06/10/2013,1 - 4,Bologna,Hellas Verona
+06/10/2013,1 - 1,Catania,Genoa
+06/10/2013,4 - 0,Napoli,Livorno
+06/10/2013,2 - 2,Sampdoria,Torino
+06/10/2013,2 - 0,Udinese,Cagliari
+06/10/2013,3 - 1,Parma,Sassuolo
+05/10/2013,0 - 3,Internazionale,Roma
+05/10/2013,0 - 1,Chievo,Atalanta
+30/09/2013,2 - 2,Fiorentina,Parma
+29/09/2013,5 - 0,Roma,Bologna
+29/09/2013,2 - 0,Atalanta,Udinese
+29/09/2013,1 - 1,[N] Cagliari,Internazionale
+29/09/2013,2 - 0,Catania,Chievo
+29/09/2013,2 - 1,Hellas Verona,Livorno
+29/09/2013,2 - 2,Sassuolo,Lazio
+29/09/2013,0 - 1,Torino,Juventus
+28/09/2013,1 - 0,Milan,Sampdoria
+28/09/2013,0 - 2,Genoa,Napoli
+26/09/2013,2 - 1,Internazionale,Fiorentina
+25/09/2013,3 - 3,Bologna,Milan
+25/09/2013,1 - 2,Chievo,Juventus
+25/09/2013,3 - 1,Lazio,Catania
+25/09/2013,1 - 1,Livorno,Cagliari
+25/09/2013,1 - 1,Napoli,Sassuolo
+25/09/2013,4 - 3,Parma,Atalanta
+25/09/2013,0 - 2,Sampdoria,Roma
+25/09/2013,2 - 2,Torino,Hellas Verona
+24/09/2013,1 - 0,Udinese,Genoa
+22/09/2013,1 - 2,Milan,Napoli
+22/09/2013,0 - 2,Atalanta,Fiorentina
+22/09/2013,1 - 2,Bologna,Torino
+22/09/2013,0 - 0,Catania,Parma
+22/09/2013,2 - 1,Juventus,Hellas Verona
+22/09/2013,2 - 0,Roma,Lazio
+22/09/2013,0 - 7,Sassuolo,Internazionale
+21/09/2013,0 - 0,Genoa,Livorno
+21/09/2013,2 - 2,[N] Cagliari,Sampdoria
+21/09/2013,2 - 1,Chievo,Udinese
+16/09/2013,1 - 3,Parma,Roma
+15/09/2013,0 - 3,Sampdoria,Genoa
+15/09/2013,2 - 0,Hellas Verona,Sassuolo
+15/09/2013,3 - 0,Lazio,Chievo
+15/09/2013,2 - 0,Livorno,Catania
+15/09/2013,1 - 1,Udinese,Bologna
+15/09/2013,1 - 1,Fiorentina,Cagliari
+14/09/2013,2 - 0,Napoli,Atalanta
+14/09/2013,2 - 2,Torino,Milan
+14/09/2013,1 - 1,Internazionale,Juventus
+01/09/2013,2 - 0,Atalanta,Torino
+01/09/2013,2 - 2,Bologna,Sampdoria
+01/09/2013,0 - 3,Catania,Internazionale
+01/09/2013,2 - 5,Genoa,Fiorentina
+01/09/2013,3 - 1,Milan,Cagliari
+01/09/2013,1 - 4,Sassuolo,Livorno
+01/09/2013,3 - 1,[N] Udinese,Parma
+01/09/2013,3 - 0,Roma,Hellas Verona
+31/08/2013,4 - 1,Juventus,Lazio
+31/08/2013,2 - 4,Chievo,Napoli
+26/08/2013,2 - 1,Fiorentina,Catania
+25/08/2013,2 - 1,[N] Cagliari,Atalanta
+25/08/2013,2 - 1,Lazio,Udinese
+25/08/2013,0 - 2,Livorno,Roma
+25/08/2013,3 - 0,Napoli,Bologna
+25/08/2013,0 - 0,Parma,Chievo
+25/08/2013,2 - 0,Torino,Sassuolo
+25/08/2013,2 - 0,Internazionale,Genoa
+24/08/2013,0 - 1,Sampdoria,Juventus
+24/08/2013,2 - 1,Hellas Verona,Milan

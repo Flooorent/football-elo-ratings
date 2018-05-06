@@ -1,0 +1,381 @@
+date,score,home_team,away_team
+21/05/2011,0 - 2,Deportivo La Coruña,Valencia
+21/05/2011,2 - 3,Espanyol,Sevilla
+21/05/2011,1 - 2,Levante,Real Zaragoza
+21/05/2011,3 - 4,Mallorca,Atlético Madrid
+21/05/2011,1 - 0,Osasuna,Villarreal
+21/05/2011,1 - 2,Racing Santander,Athletic Club
+21/05/2011,1 - 1,Real Sociedad,Getafe
+21/05/2011,0 - 0,Hércules,Sporting Gijón
+21/05/2011,8 - 1,Real Madrid,Almería
+21/05/2011,1 - 3,Málaga,Barcelona
+15/05/2011,3 - 1,Almería,Mallorca
+15/05/2011,1 - 1,Athletic Club,Málaga
+15/05/2011,2 - 1,Atlético Madrid,Hércules
+15/05/2011,0 - 0,Barcelona,Deportivo La Coruña
+15/05/2011,2 - 0,Getafe,Osasuna
+15/05/2011,1 - 0,Real Zaragoza,Espanyol
+15/05/2011,3 - 1,Sevilla,Real Sociedad
+15/05/2011,2 - 1,Sporting Gijón,Racing Santander
+15/05/2011,0 - 0,Valencia,Levante
+15/05/2011,1 - 3,Villarreal,Real Madrid
+11/05/2011,3 - 2,Osasuna,Sevilla
+11/05/2011,2 - 2,Espanyol,Valencia
+11/05/2011,2 - 2,Hércules,Mallorca
+11/05/2011,0 - 0,Almería,Villarreal
+11/05/2011,1 - 1,Levante,Barcelona
+11/05/2011,2 - 1,Real Sociedad,Real Zaragoza
+10/05/2011,4 - 0,Real Madrid,Getafe
+10/05/2011,2 - 0,Málaga,Sporting Gijón
+10/05/2011,2 - 1,Racing Santander,Atlético Madrid
+10/05/2011,2 - 1,Deportivo La Coruña,Athletic Club
+08/05/2011,1 - 3,Real Zaragoza,Osasuna
+08/05/2011,2 - 0,Barcelona,Espanyol
+08/05/2011,0 - 0,Mallorca,Villarreal
+07/05/2011,2 - 6,Sevilla,Real Madrid
+07/05/2011,0 - 3,Atlético Madrid,Málaga
+07/05/2011,3 - 2,Athletic Club,Levante
+07/05/2011,2 - 0,Getafe,Almería
+07/05/2011,2 - 3,Hércules,Racing Santander
+07/05/2011,2 - 2,Sporting Gijón,Deportivo La Coruña
+07/05/2011,3 - 0,Valencia,Real Sociedad
+02/05/2011,2 - 1,Espanyol,Athletic Club
+01/05/2011,1 - 0,Osasuna,Valencia
+01/05/2011,2 - 1,Villarreal,Getafe
+01/05/2011,0 - 1,Almería,Sevilla
+01/05/2011,0 - 0,Levante,Sporting Gijón
+01/05/2011,3 - 1,Málaga,Hércules
+01/05/2011,2 - 0,Racing Santander,Mallorca
+30/04/2011,0 - 1,Deportivo La Coruña,Atlético Madrid
+30/04/2011,2 - 1,Real Sociedad,Barcelona
+30/04/2011,2 - 3,Real Madrid,Real Zaragoza
+25/04/2011,1 - 0,Real Zaragoza,Almería
+24/04/2011,3 - 2,Sevilla,Villarreal
+24/04/2011,4 - 1,Atlético Madrid,Levante
+24/04/2011,1 - 0,Hércules,Deportivo La Coruña
+24/04/2011,2 - 0,Mallorca,Getafe
+24/04/2011,1 - 2,Racing Santander,Málaga
+24/04/2011,1 - 0,Sporting Gijón,Espanyol
+23/04/2011,2 - 1,Athletic Club,Real Sociedad
+23/04/2011,2 - 0,Barcelona,Osasuna
+23/04/2011,3 - 6,Valencia,Real Madrid
+18/04/2011,1 - 0,Villarreal,Real Zaragoza
+17/04/2011,2 - 2,Espanyol,Atlético Madrid
+17/04/2011,1 - 2,Osasuna,Athletic Club
+17/04/2011,2 - 0,Deportivo La Coruña,Racing Santander
+17/04/2011,2 - 1,Levante,Hércules
+17/04/2011,2 - 1,Real Sociedad,Sporting Gijón
+16/04/2011,1 - 1,Real Madrid,Barcelona
+16/04/2011,0 - 3,Almería,Valencia
+16/04/2011,1 - 0,Getafe,Sevilla
+16/04/2011,3 - 0,Málaga,Mallorca
+11/04/2011,2 - 1,Real Zaragoza,Getafe
+10/04/2011,5 - 0,Valencia,Villarreal
+10/04/2011,3 - 0,Atlético Madrid,Real Sociedad
+10/04/2011,0 - 0,Hércules,Espanyol
+10/04/2011,0 - 0,Málaga,Deportivo La Coruña
+10/04/2011,1 - 1,Racing Santander,Levante
+10/04/2011,1 - 0,Sporting Gijón,Osasuna
+09/04/2011,2 - 2,Mallorca,Sevilla
+09/04/2011,3 - 1,Barcelona,Almería
+09/04/2011,0 - 3,Athletic Club,Real Madrid
+04/04/2011,1 - 3,Almería,Athletic Club
+03/04/2011,2 - 3,Osasuna,Atlético Madrid
+03/04/2011,3 - 1,Sevilla,Real Zaragoza
+03/04/2011,2 - 1,Deportivo La Coruña,Mallorca
+03/04/2011,1 - 2,Espanyol,Racing Santander
+03/04/2011,3 - 1,Levante,Málaga
+03/04/2011,1 - 3,Real Sociedad,Hércules
+02/04/2011,0 - 1,Villarreal,Barcelona
+02/04/2011,2 - 4,Getafe,Valencia
+02/04/2011,0 - 1,Real Madrid,Sporting Gijón
+20/03/2011,0 - 1,Valencia,Sevilla
+20/03/2011,0 - 1,Athletic Club,Villarreal
+20/03/2011,0 - 1,Deportivo La Coruña,Levante
+20/03/2011,0 - 4,Hércules,Osasuna
+20/03/2011,2 - 0,Málaga,Espanyol
+20/03/2011,2 - 1,Racing Santander,Real Sociedad
+20/03/2011,1 - 0,Sporting Gijón,Almería
+19/03/2011,1 - 2,Atlético Madrid,Real Madrid
+19/03/2011,2 - 1,Barcelona,Getafe
+19/03/2011,1 - 0,Mallorca,Real Zaragoza
+14/03/2011,2 - 2,Getafe,Athletic Club
+13/03/2011,1 - 1,Sevilla,Barcelona
+13/03/2011,1 - 1,Villarreal,Sporting Gijón
+13/03/2011,2 - 0,Espanyol,Deportivo La Coruña
+13/03/2011,1 - 1,Levante,Mallorca
+13/03/2011,3 - 1,Osasuna,Racing Santander
+13/03/2011,0 - 2,Real Sociedad,Málaga
+12/03/2011,4 - 0,Real Zaragoza,Valencia
+12/03/2011,2 - 0,Real Madrid,Hércules
+12/03/2011,2 - 2,Almería,Atlético Madrid
+07/03/2011,2 - 1,Deportivo La Coruña,Real Sociedad
+06/03/2011,1 - 3,Racing Santander,Real Madrid
+06/03/2011,2 - 0,Athletic Club,Sevilla
+06/03/2011,1 - 2,Hércules,Almería
+06/03/2011,1 - 0,Levante,Espanyol
+06/03/2011,0 - 1,Málaga,Osasuna
+06/03/2011,2 - 0,Sporting Gijón,Getafe
+05/03/2011,3 - 1,Atlético Madrid,Villarreal
+05/03/2011,1 - 0,Barcelona,Real Zaragoza
+05/03/2011,1 - 2,Mallorca,Valencia
+03/03/2011,7 - 0,Real Madrid,Málaga
+03/03/2011,1 - 1,Almería,Racing Santander
+02/03/2011,0 - 1,Valencia,Barcelona
+02/03/2011,1 - 1,Getafe,Atlético Madrid
+02/03/2011,0 - 0,Osasuna,Deportivo La Coruña
+02/03/2011,1 - 1,Real Sociedad,Levante
+02/03/2011,2 - 1,Real Zaragoza,Athletic Club
+02/03/2011,1 - 0,Villarreal,Hércules
+01/03/2011,3 - 0,Sevilla,Sporting Gijón
+01/03/2011,1 - 2,Espanyol,Mallorca
+28/02/2011,3 - 1,Málaga,Almería
+27/02/2011,1 - 2,Athletic Club,Valencia
+27/02/2011,2 - 2,Racing Santander,Villarreal
+27/02/2011,0 - 0,Hércules,Getafe
+27/02/2011,2 - 1,Levante,Osasuna
+26/02/2011,0 - 0,Deportivo La Coruña,Real Madrid
+26/02/2011,0 - 3,Mallorca,Barcelona
+26/02/2011,2 - 2,Atlético Madrid,Sevilla
+26/02/2011,4 - 1,Espanyol,Real Sociedad
+26/02/2011,0 - 0,Sporting Gijón,Real Zaragoza
+21/02/2011,1 - 0,Real Sociedad,Mallorca
+20/02/2011,2 - 1,Barcelona,Athletic Club
+20/02/2011,1 - 0,Sevilla,Hércules
+20/02/2011,1 - 1,Almería,Deportivo La Coruña
+20/02/2011,0 - 1,Getafe,Racing Santander
+20/02/2011,4 - 0,Osasuna,Espanyol
+20/02/2011,1 - 1,Villarreal,Málaga
+19/02/2011,0 - 1,Real Zaragoza,Atlético Madrid
+19/02/2011,2 - 0,Real Madrid,Levante
+19/02/2011,0 - 0,Valencia,Sporting Gijón
+14/02/2011,1 - 0,Mallorca,Athletic Club
+13/02/2011,0 - 1,Espanyol,Real Madrid
+13/02/2011,1 - 0,Deportivo La Coruña,Villarreal
+13/02/2011,2 - 1,Hércules,Real Zaragoza
+13/02/2011,1 - 0,Levante,Almería
+13/02/2011,2 - 2,Málaga,Getafe
+13/02/2011,1 - 0,Real Sociedad,Osasuna
+12/02/2011,3 - 2,Racing Santander,Sevilla
+12/02/2011,1 - 1,Sporting Gijón,Barcelona
+12/02/2011,1 - 2,Atlético Madrid,Valencia
+06/02/2011,2 - 0,Valencia,Hércules
+06/02/2011,4 - 1,Real Madrid,Real Sociedad
+06/02/2011,0 - 0,Sevilla,Málaga
+05/02/2011,3 - 0,Barcelona,Atlético Madrid
+05/02/2011,0 - 1,Villarreal,Levante
+05/02/2011,3 - 2,Almería,Espanyol
+05/02/2011,3 - 0,Athletic Club,Sporting Gijón
+05/02/2011,4 - 1,Getafe,Deportivo La Coruña
+05/02/2011,1 - 1,Osasuna,Mallorca
+05/02/2011,1 - 1,Real Zaragoza,Racing Santander
+31/01/2011,1 - 1,Racing Santander,Valencia
+30/01/2011,0 - 1,Espanyol,Villarreal
+30/01/2011,1 - 0,Osasuna,Real Madrid
+30/01/2011,0 - 2,Atlético Madrid,Athletic Club
+29/01/2011,3 - 3,Deportivo La Coruña,Sevilla
+29/01/2011,0 - 3,Hércules,Barcelona
+29/01/2011,2 - 0,Levante,Getafe
+29/01/2011,1 - 2,Málaga,Real Zaragoza
+29/01/2011,0 - 4,Mallorca,Sporting Gijón
+29/01/2011,2 - 0,Real Sociedad,Almería
+24/01/2011,3 - 0,Athletic Club,Hércules
+23/01/2011,2 - 1,Villarreal,Real Sociedad
+23/01/2011,1 - 0,Real Madrid,Mallorca
+23/01/2011,3 - 2,Almería,Osasuna
+23/01/2011,1 - 3,Getafe,Espanyol
+23/01/2011,1 - 0,Real Zaragoza,Deportivo La Coruña
+23/01/2011,1 - 0,Sporting Gijón,Atlético Madrid
+22/01/2011,4 - 3,Valencia,Málaga
+22/01/2011,3 - 0,Barcelona,Racing Santander
+22/01/2011,4 - 1,Sevilla,Levante
+17/01/2011,3 - 0,Atlético Madrid,Mallorca
+16/01/2011,4 - 1,Barcelona,Málaga
+16/01/2011,1 - 1,Almería,Real Madrid
+16/01/2011,2 - 0,Valencia,Deportivo La Coruña
+15/01/2011,1 - 2,Sevilla,Espanyol
+15/01/2011,2 - 1,Athletic Club,Racing Santander
+15/01/2011,0 - 4,Getafe,Real Sociedad
+15/01/2011,1 - 0,Real Zaragoza,Levante
+15/01/2011,2 - 0,Sporting Gijón,Hércules
+15/01/2011,4 - 2,Villarreal,Osasuna
+10/01/2011,4 - 1,Hércules,Atlético Madrid
+09/01/2011,0 - 1,Levante,Valencia
+09/01/2011,4 - 2,Real Madrid,Villarreal
+09/01/2011,4 - 0,Espanyol,Real Zaragoza
+09/01/2011,4 - 1,Mallorca,Almería
+09/01/2011,0 - 0,Osasuna,Getafe
+09/01/2011,1 - 1,Racing Santander,Sporting Gijón
+08/01/2011,0 - 4,Deportivo La Coruña,Barcelona
+08/01/2011,2 - 3,Real Sociedad,Sevilla
+08/01/2011,1 - 1,Málaga,Athletic Club
+03/01/2011,2 - 3,Getafe,Real Madrid
+03/01/2011,0 - 0,Atlético Madrid,Racing Santander
+03/01/2011,3 - 0,Mallorca,Hércules
+03/01/2011,2 - 1,Real Zaragoza,Real Sociedad
+03/01/2011,2 - 0,Villarreal,Almería
+02/01/2011,2 - 1,Valencia,Espanyol
+02/01/2011,1 - 0,Sevilla,Osasuna
+02/01/2011,2 - 1,Barcelona,Levante
+02/01/2011,1 - 2,Sporting Gijón,Málaga
+02/01/2011,1 - 2,Athletic Club,Deportivo La Coruña
+20/12/2010,0 - 0,Racing Santander,Hércules
+19/12/2010,1 - 0,Real Madrid,Sevilla
+19/12/2010,0 - 3,Málaga,Atlético Madrid
+19/12/2010,2 - 3,Almería,Getafe
+19/12/2010,0 - 0,Osasuna,Real Zaragoza
+18/12/2010,1 - 2,Real Sociedad,Valencia
+18/12/2010,1 - 5,Espanyol,Barcelona
+18/12/2010,1 - 1,Deportivo La Coruña,Sporting Gijón
+18/12/2010,1 - 2,Levante,Athletic Club
+18/12/2010,3 - 1,Villarreal,Mallorca
+13/12/2010,3 - 3,Valencia,Osasuna
+12/12/2010,5 - 0,Barcelona,Real Sociedad
+12/12/2010,1 - 3,Real Zaragoza,Real Madrid
+12/12/2010,2 - 1,Athletic Club,Espanyol
+12/12/2010,4 - 1,Hércules,Málaga
+12/12/2010,0 - 1,Mallorca,Racing Santander
+12/12/2010,1 - 1,Sporting Gijón,Levante
+11/12/2010,2 - 0,Atlético Madrid,Deportivo La Coruña
+11/12/2010,1 - 3,Sevilla,Almería
+11/12/2010,1 - 0,Getafe,Villarreal
+06/12/2010,1 - 0,Deportivo La Coruña,Hércules
+05/12/2010,2 - 0,Real Sociedad,Athletic Club
+05/12/2010,1 - 0,Villarreal,Sevilla
+05/12/2010,1 - 1,Almería,Real Zaragoza
+05/12/2010,1 - 0,Espanyol,Sporting Gijón
+05/12/2010,3 - 0,Getafe,Mallorca
+05/12/2010,4 - 1,Málaga,Racing Santander
+04/12/2010,2 - 0,Real Madrid,Valencia
+04/12/2010,0 - 3,Osasuna,Barcelona
+04/12/2010,2 - 0,Levante,Atlético Madrid
+29/11/2010,5 - 0,Barcelona,Real Madrid
+28/11/2010,2 - 1,Valencia,Almería
+28/11/2010,1 - 0,Athletic Club,Osasuna
+28/11/2010,3 - 1,Hércules,Levante
+28/11/2010,2 - 0,Mallorca,Málaga
+28/11/2010,1 - 0,Racing Santander,Deportivo La Coruña
+28/11/2010,1 - 3,Sporting Gijón,Real Sociedad
+27/11/2010,2 - 3,Atlético Madrid,Espanyol
+27/11/2010,1 - 3,Sevilla,Getafe
+27/11/2010,0 - 3,Real Zaragoza,Villarreal
+22/11/2010,1 - 1,Getafe,Real Zaragoza
+21/11/2010,2 - 4,Real Sociedad,Atlético Madrid
+21/11/2010,1 - 2,Sevilla,Mallorca
+21/11/2010,3 - 0,Deportivo La Coruña,Málaga
+21/11/2010,3 - 0,Espanyol,Hércules
+21/11/2010,3 - 1,Levante,Racing Santander
+21/11/2010,1 - 0,Osasuna,Sporting Gijón
+20/11/2010,5 - 1,Real Madrid,Athletic Club
+20/11/2010,0 - 8,Almería,Barcelona
+20/11/2010,1 - 1,Villarreal,Valencia
+14/11/2010,2 - 0,Valencia,Getafe
+14/11/2010,0 - 1,Sporting Gijón,Real Madrid
+14/11/2010,2 - 1,Hércules,Real Sociedad
+14/11/2010,1 - 0,Málaga,Levante
+14/11/2010,0 - 0,Mallorca,Deportivo La Coruña
+14/11/2010,0 - 0,Racing Santander,Espanyol
+14/11/2010,1 - 2,Real Zaragoza,Sevilla
+13/11/2010,3 - 1,Barcelona,Villarreal
+13/11/2010,3 - 0,Atlético Madrid,Osasuna
+13/11/2010,1 - 0,Athletic Club,Almería
+08/11/2010,2 - 0,Sevilla,Valencia
+07/11/2010,2 - 0,Real Madrid,Atlético Madrid
+07/11/2010,1 - 3,Getafe,Barcelona
+07/11/2010,1 - 1,Almería,Sporting Gijón
+07/11/2010,1 - 2,Levante,Deportivo La Coruña
+07/11/2010,3 - 0,Osasuna,Hércules
+07/11/2010,3 - 2,Real Zaragoza,Mallorca
+07/11/2010,4 - 1,Villarreal,Athletic Club
+06/11/2010,1 - 0,Espanyol,Málaga
+06/11/2010,1 - 0,Real Sociedad,Racing Santander
+01/11/2010,2 - 1,Mallorca,Levante
+31/10/2010,3 - 0,Athletic Club,Getafe
+31/10/2010,1 - 1,Atlético Madrid,Almería
+31/10/2010,3 - 0,Deportivo La Coruña,Espanyol
+31/10/2010,1 - 2,Málaga,Real Sociedad
+31/10/2010,4 - 1,Racing Santander,Osasuna
+31/10/2010,1 - 1,Sporting Gijón,Villarreal
+30/10/2010,5 - 0,Barcelona,Sevilla
+30/10/2010,1 - 3,Hércules,Real Madrid
+30/10/2010,1 - 1,Valencia,Real Zaragoza
+25/10/2010,3 - 0,Real Sociedad,Deportivo La Coruña
+24/10/2010,2 - 0,Villarreal,Atlético Madrid
+24/10/2010,4 - 3,Sevilla,Athletic Club
+24/10/2010,1 - 1,Almería,Hércules
+24/10/2010,2 - 1,Espanyol,Levante
+24/10/2010,3 - 0,Getafe,Sporting Gijón
+24/10/2010,3 - 0,Osasuna,Málaga
+23/10/2010,1 - 2,Valencia,Mallorca
+23/10/2010,6 - 1,Real Madrid,Racing Santander
+23/10/2010,0 - 2,Real Zaragoza,Barcelona
+18/10/2010,2 - 2,Hércules,Villarreal
+17/10/2010,2 - 0,Sporting Gijón,Sevilla
+17/10/2010,2 - 1,Athletic Club,Real Zaragoza
+17/10/2010,0 - 0,Deportivo La Coruña,Osasuna
+17/10/2010,2 - 1,Levante,Real Sociedad
+17/10/2010,0 - 1,Mallorca,Espanyol
+17/10/2010,1 - 0,Racing Santander,Almería
+16/10/2010,1 - 4,Málaga,Real Madrid
+16/10/2010,2 - 1,Barcelona,Valencia
+16/10/2010,2 - 0,Atlético Madrid,Getafe
+03/10/2010,6 - 1,Real Madrid,Deportivo La Coruña
+03/10/2010,1 - 1,Barcelona,Mallorca
+03/10/2010,1 - 1,Almería,Málaga
+03/10/2010,3 - 0,Getafe,Hércules
+03/10/2010,1 - 1,Osasuna,Levante
+03/10/2010,3 - 1,Sevilla,Atlético Madrid
+03/10/2010,2 - 0,Villarreal,Racing Santander
+02/10/2010,2 - 1,Valencia,Athletic Club
+02/10/2010,1 - 0,Real Sociedad,Espanyol
+02/10/2010,2 - 2,Real Zaragoza,Sporting Gijón
+27/09/2010,2 - 3,Málaga,Villarreal
+26/09/2010,1 - 0,Atlético Madrid,Real Zaragoza
+26/09/2010,2 - 0,Hércules,Sevilla
+26/09/2010,0 - 2,Deportivo La Coruña,Almería
+26/09/2010,1 - 0,Espanyol,Osasuna
+26/09/2010,2 - 0,Mallorca,Real Sociedad
+26/09/2010,0 - 1,Racing Santander,Getafe
+25/09/2010,1 - 3,Athletic Club,Barcelona
+25/09/2010,0 - 0,Levante,Real Madrid
+25/09/2010,0 - 2,Sporting Gijón,Valencia
+23/09/2010,1 - 1,Sevilla,Racing Santander
+23/09/2010,0 - 2,Getafe,Málaga
+23/09/2010,1 - 0,Villarreal,Deportivo La Coruña
+22/09/2010,1 - 1,Valencia,Atlético Madrid
+22/09/2010,0 - 1,Almería,Levante
+22/09/2010,1 - 0,Barcelona,Sporting Gijón
+22/09/2010,0 - 0,Real Zaragoza,Hércules
+21/09/2010,3 - 0,Real Madrid,Espanyol
+21/09/2010,3 - 0,Athletic Club,Mallorca
+21/09/2010,3 - 1,Osasuna,Real Sociedad
+20/09/2010,2 - 2,Deportivo La Coruña,Getafe
+19/09/2010,1 - 2,Málaga,Sevilla
+19/09/2010,1 - 2,Atlético Madrid,Barcelona
+19/09/2010,1 - 2,Hércules,Valencia
+19/09/2010,1 - 2,Levante,Villarreal
+19/09/2010,2 - 0,Racing Santander,Real Zaragoza
+18/09/2010,1 - 2,Real Sociedad,Real Madrid
+18/09/2010,2 - 2,Sporting Gijón,Athletic Club
+18/09/2010,1 - 0,Espanyol,Almería
+18/09/2010,2 - 0,Mallorca,Osasuna
+13/09/2010,2 - 2,Almería,Real Sociedad
+12/09/2010,0 - 0,Sevilla,Deportivo La Coruña
+12/09/2010,4 - 0,Villarreal,Espanyol
+12/09/2010,4 - 1,Getafe,Levante
+12/09/2010,3 - 5,Real Zaragoza,Málaga
+12/09/2010,2 - 0,Sporting Gijón,Mallorca
+11/09/2010,1 - 2,Athletic Club,Atlético Madrid
+11/09/2010,1 - 0,Real Madrid,Osasuna
+11/09/2010,0 - 2,Barcelona,Hércules
+11/09/2010,1 - 0,Valencia,Racing Santander
+30/08/2010,4 - 0,Atlético Madrid,Sporting Gijón
+29/08/2010,0 - 0,Mallorca,Real Madrid
+29/08/2010,0 - 3,Racing Santander,Barcelona
+29/08/2010,0 - 0,Deportivo La Coruña,Real Zaragoza
+29/08/2010,3 - 1,Espanyol,Getafe
+29/08/2010,0 - 0,Osasuna,Almería
+29/08/2010,1 - 0,Real Sociedad,Villarreal
+28/08/2010,1 - 4,Levante,Sevilla
+28/08/2010,1 - 3,Málaga,Valencia
+28/08/2010,0 - 1,Hércules,Athletic Club

@@ -1,0 +1,463 @@
+date,score,home_team,away_team
+05/05/1928,2 - 1,Birmingham City,Derby County
+05/05/1928,0 - 1,Blackburn Rovers,Bury
+05/05/1928,1 - 1,Bolton Wanderers,Sheffield United
+05/05/1928,3 - 2,Cardiff City,Burnley
+05/05/1928,3 - 3,Everton,Arsenal
+05/05/1928,4 - 1,Huddersfield Town,Portsmouth
+05/05/1928,6 - 1,Manchester United,Liverpool
+05/05/1928,0 - 3,Middlesbrough,Sunderland
+05/05/1928,3 - 1,Newcastle United,West Ham United
+05/05/1928,2 - 0,Sheffield Wednesday,Aston Villa
+02/05/1928,1 - 1,Arsenal,Sheffield Wednesday
+02/05/1928,3 - 0,Aston Villa,Huddersfield Town
+30/04/1928,0 - 1,Huddersfield Town,Sheffield United
+30/04/1928,6 - 0,Leicester City,Blackburn Rovers
+28/04/1928,0 - 1,Arsenal,Manchester United
+28/04/1928,2 - 2,Aston Villa,Bolton Wanderers
+28/04/1928,3 - 5,Burnley,Everton
+28/04/1928,3 - 0,Bury,Cardiff City
+28/04/1928,2 - 1,Derby County,Middlesbrough
+28/04/1928,1 - 2,Leicester City,Huddersfield Town
+28/04/1928,2 - 0,Liverpool,Tottenham Hotspur
+28/04/1928,0 - 1,Portsmouth,Newcastle United
+28/04/1928,2 - 3,Sheffield United,Blackburn Rovers
+28/04/1928,2 - 3,Sunderland,Sheffield Wednesday
+28/04/1928,3 - 3,West Ham United,Birmingham City
+26/04/1928,3 - 2,Blackburn Rovers,Derby County
+25/04/1928,1 - 2,Huddersfield Town,Burnley
+25/04/1928,1 - 1,Liverpool,Leicester City
+25/04/1928,2 - 1,Manchester United,Sunderland
+24/04/1928,6 - 0,Blackburn Rovers,Portsmouth
+23/04/1928,1 - 1,Sheffield United,Newcastle United
+21/04/1928,2 - 0,Birmingham City,Liverpool
+21/04/1928,4 - 0,Bolton Wanderers,West Ham United
+21/04/1928,3 - 1,Cardiff City,Sunderland
+21/04/1928,3 - 2,Everton,Aston Villa
+21/04/1928,2 - 3,Manchester United,Sheffield United
+21/04/1928,1 - 1,Middlesbrough,Leicester City
+21/04/1928,1 - 1,Newcastle United,Arsenal
+21/04/1928,2 - 0,Sheffield Wednesday,Portsmouth
+21/04/1928,1 - 4,Tottenham Hotspur,Bury
+18/04/1928,3 - 0,Everton,Newcastle United
+18/04/1928,2 - 2,Middlesbrough,Arsenal
+16/04/1928,5 - 1,Sheffield United,Sunderland
+14/04/1928,0 - 0,Arsenal,Huddersfield Town
+14/04/1928,3 - 1,Aston Villa,Cardiff City
+14/04/1928,2 - 2,Burnley,Tottenham Hotspur
+14/04/1928,4 - 3,Bury,Manchester United
+14/04/1928,1 - 0,Derby County,Bolton Wanderers
+14/04/1928,3 - 0,Leicester City,Birmingham City
+14/04/1928,0 - 0,Liverpool,Newcastle United
+14/04/1928,4 - 1,Portsmouth,Middlesbrough
+14/04/1928,1 - 3,Sheffield United,Everton
+14/04/1928,1 - 0,Sunderland,Blackburn Rovers
+14/04/1928,1 - 2,West Ham United,Sheffield Wednesday
+10/04/1928,0 - 2,Birmingham City,Newcastle United
+10/04/1928,2 - 4,Huddersfield Town,Middlesbrough
+10/04/1928,4 - 2,Sheffield Wednesday,Tottenham Hotspur
+09/04/1928,1 - 0,Aston Villa,West Ham United
+09/04/1928,2 - 2,Cardiff City,Arsenal
+09/04/1928,1 - 0,Derby County,Sunderland
+09/04/1928,2 - 0,Huddersfield Town,Birmingham City
+09/04/1928,2 - 2,Leicester City,Bury
+09/04/1928,2 - 1,Manchester United,Bolton Wanderers
+09/04/1928,4 - 1,Portsmouth,Sheffield United
+07/04/1928,2 - 0,Birmingham City,Portsmouth
+07/04/1928,0 - 1,Blackburn Rovers,Aston Villa
+07/04/1928,1 - 2,Bolton Wanderers,Sunderland
+07/04/1928,2 - 2,Cardiff City,Sheffield United
+07/04/1928,1 - 1,Everton,Bury
+07/04/1928,2 - 4,Huddersfield Town,Liverpool
+07/04/1928,4 - 3,Manchester United,Burnley
+07/04/1928,2 - 2,Middlesbrough,West Ham United
+07/04/1928,1 - 5,Newcastle United,Leicester City
+07/04/1928,2 - 2,Sheffield Wednesday,Derby County
+07/04/1928,2 - 0,Tottenham Hotspur,Arsenal
+06/04/1928,3 - 0,Arsenal,Cardiff City
+06/04/1928,3 - 2,Bolton Wanderers,Manchester United
+06/04/1928,2 - 2,Burnley,Liverpool
+06/04/1928,4 - 1,Everton,Blackburn Rovers
+06/04/1928,0 - 1,Sunderland,Derby County
+06/04/1928,1 - 3,Tottenham Hotspur,Sheffield Wednesday
+06/04/1928,0 - 0,West Ham United,Aston Villa
+31/03/1928,2 - 2,Arsenal,Birmingham City
+31/03/1928,3 - 1,Aston Villa,Manchester United
+31/03/1928,5 - 1,Burnley,Newcastle United
+31/03/1928,2 - 3,Bury,Huddersfield Town
+31/03/1928,7 - 1,Derby County,Cardiff City
+31/03/1928,2 - 2,Leicester City,Sheffield Wednesday
+31/03/1928,1 - 1,Liverpool,Middlesbrough
+31/03/1928,1 - 0,Portsmouth,Bolton Wanderers
+31/03/1928,3 - 1,Sheffield United,Tottenham Hotspur
+31/03/1928,0 - 2,Sunderland,Everton
+31/03/1928,4 - 3,West Ham United,Blackburn Rovers
+28/03/1928,0 - 2,Arsenal,Portsmouth
+28/03/1928,5 - 0,Derby County,Manchester United
+28/03/1928,0 - 0,Sunderland,Tottenham Hotspur
+24/03/1928,4 - 0,Birmingham City,Burnley
+24/03/1928,3 - 3,Bolton Wanderers,Leicester City
+24/03/1928,1 - 5,Cardiff City,West Ham United
+24/03/1928,2 - 2,Everton,Derby County
+24/03/1928,2 - 3,Newcastle United,Bury
+24/03/1928,4 - 0,Sheffield Wednesday,Liverpool
+24/03/1928,2 - 1,Tottenham Hotspur,Aston Villa
+21/03/1928,0 - 0,Middlesbrough,Aston Villa
+19/03/1928,0 - 3,Tottenham Hotspur,Portsmouth
+17/03/1928,3 - 2,Arsenal,Blackburn Rovers
+17/03/1928,1 - 1,Aston Villa,Birmingham City
+17/03/1928,2 - 2,Burnley,Bolton Wanderers
+17/03/1928,4 - 2,Bury,Sheffield Wednesday
+17/03/1928,0 - 0,Derby County,Huddersfield Town
+17/03/1928,1 - 0,Leicester City,Everton
+17/03/1928,1 - 2,Liverpool,Cardiff City
+17/03/1928,1 - 0,Portsmouth,Manchester United
+17/03/1928,4 - 1,Sheffield United,Middlesbrough
+17/03/1928,1 - 1,Sunderland,Newcastle United
+17/03/1928,1 - 1,West Ham United,Tottenham Hotspur
+14/03/1928,3 - 1,Huddersfield Town,Blackburn Rovers
+14/03/1928,1 - 0,Manchester United,Everton
+14/03/1928,5 - 1,Sunderland,Arsenal
+12/03/1928,3 - 1,Sheffield United,Bury
+12/03/1928,4 - 0,West Ham United,Leicester City
+10/03/1928,4 - 1,Birmingham City,Sheffield United
+10/03/1928,2 - 1,Blackburn Rovers,Liverpool
+10/03/1928,1 - 1,Bolton Wanderers,Arsenal
+10/03/1928,3 - 0,Cardiff City,Leicester City
+10/03/1928,0 - 0,Everton,Portsmouth
+10/03/1928,4 - 2,Huddersfield Town,Sunderland
+10/03/1928,1 - 1,Manchester United,West Ham United
+10/03/1928,6 - 1,Middlesbrough,Bury
+10/03/1928,7 - 5,Newcastle United,Aston Villa
+10/03/1928,5 - 0,Sheffield Wednesday,Burnley
+10/03/1928,1 - 2,Tottenham Hotspur,Derby County
+07/03/1928,6 - 3,Arsenal,Liverpool
+07/03/1928,1 - 0,Birmingham City,Sheffield Wednesday
+07/03/1928,0 - 0,Manchester United,Huddersfield Town
+05/03/1928,1 - 0,Tottenham Hotspur,Cardiff City
+03/03/1928,1 - 1,Burnley,Middlesbrough
+03/03/1928,2 - 3,Bury,Birmingham City
+03/03/1928,4 - 2,Liverpool,Bolton Wanderers
+03/03/1928,3 - 0,Portsmouth,Cardiff City
+03/03/1928,0 - 0,West Ham United,Everton
+29/02/1928,2 - 0,Bolton Wanderers,Sheffield Wednesday
+25/02/1928,2 - 1,Blackburn Rovers,Tottenham Hotspur
+25/02/1928,0 - 1,Bolton Wanderers,Huddersfield Town
+25/02/1928,2 - 0,Cardiff City,Manchester United
+25/02/1928,2 - 1,Derby County,Sheffield United
+25/02/1928,3 - 2,Leicester City,Arsenal
+25/02/1928,3 - 3,Liverpool,Everton
+25/02/1928,1 - 1,Middlesbrough,Birmingham City
+25/02/1928,1 - 0,Portsmouth,Burnley
+25/02/1928,0 - 0,Sheffield Wednesday,Newcastle United
+25/02/1928,2 - 3,Sunderland,Aston Villa
+25/02/1928,1 - 2,West Ham United,Bury
+23/02/1928,3 - 0,Blackburn Rovers,Middlesbrough
+22/02/1928,2 - 1,Cardiff City,Birmingham City
+18/02/1928,0 - 0,Burnley,West Ham United
+18/02/1928,3 - 0,Bury,Derby County
+18/02/1928,2 - 2,Newcastle United,Bolton Wanderers
+18/02/1928,3 - 5,Portsmouth,Sunderland
+15/02/1928,2 - 3,Derby County,Liverpool
+11/02/1928,1 - 0,Aston Villa,Sheffield United
+11/02/1928,1 - 0,Blackburn Rovers,Newcastle United
+11/02/1928,3 - 2,Bolton Wanderers,Birmingham City
+11/02/1928,4 - 0,Cardiff City,Huddersfield Town
+11/02/1928,3 - 4,Derby County,Burnley
+11/02/1928,2 - 5,Everton,Tottenham Hotspur
+11/02/1928,5 - 2,Manchester United,Leicester City
+11/02/1928,1 - 0,Portsmouth,Liverpool
+11/02/1928,2 - 3,Sheffield Wednesday,Middlesbrough
+11/02/1928,1 - 0,Sunderland,Bury
+11/02/1928,2 - 2,West Ham United,Arsenal
+08/02/1928,3 - 1,Aston Villa,Burnley
+06/02/1928,1 - 2,Tottenham Hotspur,Bolton Wanderers
+04/02/1928,3 - 4,Arsenal,Derby County
+04/02/1928,2 - 1,Birmingham City,Blackburn Rovers
+04/02/1928,3 - 0,Burnley,Sunderland
+04/02/1928,0 - 0,Bury,Aston Villa
+04/02/1928,4 - 1,Huddersfield Town,Everton
+04/02/1928,6 - 2,Leicester City,Portsmouth
+04/02/1928,1 - 3,Liverpool,West Ham United
+04/02/1928,2 - 5,Middlesbrough,Bolton Wanderers
+04/02/1928,2 - 0,Newcastle United,Cardiff City
+04/02/1928,3 - 3,Sheffield Wednesday,Sheffield United
+04/02/1928,4 - 1,Tottenham Hotspur,Manchester United
+21/01/1928,0 - 3,Arsenal,Aston Villa
+21/01/1928,2 - 2,Birmingham City,Everton
+21/01/1928,2 - 1,Bolton Wanderers,Bury
+21/01/1928,5 - 3,Burnley,Sheffield United
+21/01/1928,4 - 2,Huddersfield Town,Tottenham Hotspur
+21/01/1928,4 - 0,Leicester City,Derby County
+21/01/1928,2 - 5,Liverpool,Sunderland
+21/01/1928,1 - 2,Middlesbrough,Cardiff City
+21/01/1928,4 - 1,Newcastle United,Manchester United
+21/01/1928,2 - 1,Portsmouth,West Ham United
+21/01/1928,4 - 1,Sheffield Wednesday,Blackburn Rovers
+07/01/1928,3 - 4,Aston Villa,Liverpool
+07/01/1928,1 - 6,Blackburn Rovers,Bolton Wanderers
+07/01/1928,2 - 0,Bury,Burnley
+07/01/1928,1 - 1,Cardiff City,Sheffield Wednesday
+07/01/1928,2 - 2,Derby County,Portsmouth
+07/01/1928,3 - 1,Everton,Middlesbrough
+07/01/1928,5 - 2,Huddersfield Town,West Ham United
+07/01/1928,1 - 1,Manchester United,Birmingham City
+07/01/1928,6 - 4,Sheffield United,Arsenal
+07/01/1928,2 - 2,Sunderland,Leicester City
+07/01/1928,5 - 2,Tottenham Hotspur,Newcastle United
+02/01/1928,1 - 1,Arsenal,Tottenham Hotspur
+02/01/1928,4 - 2,Blackburn Rovers,Everton
+02/01/1928,1 - 3,Bolton Wanderers,Derby County
+02/01/1928,2 - 1,Bury,Leicester City
+02/01/1928,2 - 2,Liverpool,Burnley
+02/01/1928,3 - 1,Middlesbrough,Huddersfield Town
+02/01/1928,1 - 1,Newcastle United,Birmingham City
+02/01/1928,3 - 1,Sheffield United,Portsmouth
+02/01/1928,3 - 2,Sunderland,West Ham United
+31/12/1927,3 - 1,Arsenal,Bury
+31/12/1927,3 - 2,Birmingham City,Tottenham Hotspur
+31/12/1927,2 - 1,Bolton Wanderers,Cardiff City
+31/12/1927,3 - 1,Burnley,Blackburn Rovers
+31/12/1927,3 - 0,Leicester City,Aston Villa
+31/12/1927,2 - 1,Liverpool,Sheffield United
+31/12/1927,1 - 2,Middlesbrough,Manchester United
+31/12/1927,2 - 3,Newcastle United,Huddersfield Town
+31/12/1927,1 - 2,Sheffield Wednesday,Everton
+31/12/1927,2 - 2,West Ham United,Derby County
+27/12/1927,0 - 1,Aston Villa,Derby County
+27/12/1927,5 - 1,Burnley,Leicester City
+27/12/1927,2 - 0,Cardiff City,Everton
+27/12/1927,0 - 2,Liverpool,Arsenal
+27/12/1927,3 - 3,Newcastle United,Middlesbrough
+27/12/1927,1 - 0,Portsmouth,Bury
+27/12/1927,0 - 5,Sheffield Wednesday,Huddersfield Town
+27/12/1927,1 - 1,West Ham United,Sheffield United
+26/12/1927,1 - 1,Birmingham City,Sunderland
+26/12/1927,4 - 1,Bolton Wanderers,Tottenham Hotspur
+26/12/1927,4 - 0,Bury,Portsmouth
+26/12/1927,5 - 0,Derby County,Aston Villa
+26/12/1927,2 - 1,Everton,Cardiff City
+26/12/1927,1 - 0,Huddersfield Town,Sheffield Wednesday
+26/12/1927,5 - 0,Leicester City,Burnley
+26/12/1927,1 - 1,Manchester United,Blackburn Rovers
+26/12/1927,1 - 1,Middlesbrough,Newcastle United
+26/12/1927,6 - 2,Sheffield United,West Ham United
+24/12/1927,3 - 2,Arsenal,Everton
+24/12/1927,5 - 4,Aston Villa,Sheffield Wednesday
+24/12/1927,2 - 1,Burnley,Cardiff City
+24/12/1927,2 - 3,Bury,Blackburn Rovers
+24/12/1927,4 - 1,Derby County,Birmingham City
+24/12/1927,6 - 1,Leicester City,Tottenham Hotspur
+24/12/1927,2 - 0,Liverpool,Manchester United
+24/12/1927,2 - 1,Portsmouth,Huddersfield Town
+24/12/1927,4 - 3,Sheffield United,Bolton Wanderers
+24/12/1927,1 - 0,Sunderland,Middlesbrough
+24/12/1927,5 - 2,West Ham United,Newcastle United
+17/12/1927,1 - 2,Birmingham City,West Ham United
+17/12/1927,1 - 0,Blackburn Rovers,Sheffield United
+17/12/1927,3 - 1,Bolton Wanderers,Aston Villa
+17/12/1927,0 - 1,Cardiff City,Bury
+17/12/1927,4 - 1,Everton,Burnley
+17/12/1927,3 - 1,Huddersfield Town,Leicester City
+17/12/1927,4 - 1,Manchester United,Arsenal
+17/12/1927,3 - 3,Middlesbrough,Derby County
+17/12/1927,1 - 3,Newcastle United,Portsmouth
+17/12/1927,0 - 0,Sheffield Wednesday,Sunderland
+17/12/1927,3 - 1,Tottenham Hotspur,Liverpool
+10/12/1927,4 - 1,Arsenal,Newcastle United
+10/12/1927,2 - 3,Aston Villa,Everton
+10/12/1927,0 - 1,Burnley,Huddersfield Town
+10/12/1927,1 - 2,Bury,Tottenham Hotspur
+10/12/1927,6 - 0,Derby County,Blackburn Rovers
+10/12/1927,3 - 3,Leicester City,Middlesbrough
+10/12/1927,2 - 3,Liverpool,Birmingham City
+10/12/1927,0 - 0,Portsmouth,Sheffield Wednesday
+10/12/1927,2 - 1,Sheffield United,Manchester United
+10/12/1927,0 - 2,Sunderland,Cardiff City
+10/12/1927,2 - 0,West Ham United,Bolton Wanderers
+03/12/1927,0 - 2,Birmingham City,Leicester City
+03/12/1927,0 - 0,Blackburn Rovers,Sunderland
+03/12/1927,2 - 1,Cardiff City,Aston Villa
+03/12/1927,0 - 0,Everton,Sheffield United
+03/12/1927,2 - 1,Huddersfield Town,Arsenal
+03/12/1927,0 - 1,Manchester United,Bury
+03/12/1927,5 - 1,Middlesbrough,Portsmouth
+03/12/1927,1 - 1,Newcastle United,Liverpool
+03/12/1927,2 - 0,Sheffield Wednesday,West Ham United
+03/12/1927,5 - 0,Tottenham Hotspur,Burnley
+26/11/1927,2 - 0,Aston Villa,Blackburn Rovers
+26/11/1927,4 - 0,Burnley,Manchester United
+26/11/1927,2 - 3,Bury,Everton
+26/11/1927,4 - 6,Derby County,Sheffield Wednesday
+26/11/1927,3 - 0,Leicester City,Newcastle United
+26/11/1927,4 - 2,Liverpool,Huddersfield Town
+26/11/1927,2 - 2,Portsmouth,Birmingham City
+26/11/1927,3 - 4,Sheffield United,Cardiff City
+26/11/1927,1 - 1,Sunderland,Bolton Wanderers
+26/11/1927,4 - 5,West Ham United,Middlesbrough
+19/11/1927,1 - 1,Birmingham City,Arsenal
+19/11/1927,1 - 0,Blackburn Rovers,West Ham United
+19/11/1927,3 - 1,Bolton Wanderers,Portsmouth
+19/11/1927,4 - 4,Cardiff City,Derby County
+19/11/1927,0 - 1,Everton,Sunderland
+19/11/1927,3 - 0,Huddersfield Town,Bury
+19/11/1927,5 - 1,Manchester United,Aston Villa
+19/11/1927,1 - 1,Middlesbrough,Liverpool
+19/11/1927,1 - 1,Newcastle United,Burnley
+19/11/1927,1 - 2,Sheffield Wednesday,Leicester City
+19/11/1927,2 - 2,Tottenham Hotspur,Sheffield United
+12/11/1927,3 - 1,Arsenal,Middlesbrough
+12/11/1927,1 - 2,Aston Villa,Tottenham Hotspur
+12/11/1927,2 - 1,Burnley,Birmingham City
+12/11/1927,1 - 4,Bury,Newcastle United
+12/11/1927,0 - 3,Derby County,Everton
+12/11/1927,4 - 2,Leicester City,Bolton Wanderers
+12/11/1927,5 - 2,Liverpool,Sheffield Wednesday
+12/11/1927,2 - 2,Portsmouth,Blackburn Rovers
+12/11/1927,1 - 7,Sheffield United,Huddersfield Town
+12/11/1927,4 - 1,Sunderland,Manchester United
+12/11/1927,2 - 0,West Ham United,Cardiff City
+05/11/1927,1 - 1,Birmingham City,Aston Villa
+05/11/1927,4 - 1,Blackburn Rovers,Arsenal
+05/11/1927,7 - 1,Bolton Wanderers,Burnley
+05/11/1927,1 - 1,Cardiff City,Liverpool
+05/11/1927,7 - 1,Everton,Leicester City
+05/11/1927,2 - 1,Huddersfield Town,Derby County
+05/11/1927,2 - 0,Manchester United,Portsmouth
+05/11/1927,3 - 0,Middlesbrough,Sheffield United
+05/11/1927,3 - 1,Newcastle United,Sunderland
+05/11/1927,4 - 0,Sheffield Wednesday,Bury
+05/11/1927,5 - 3,Tottenham Hotspur,West Ham United
+29/10/1927,1 - 2,Arsenal,Bolton Wanderers
+29/10/1927,3 - 0,Aston Villa,Newcastle United
+29/10/1927,3 - 1,Burnley,Sheffield Wednesday
+29/10/1927,1 - 4,Bury,Middlesbrough
+29/10/1927,1 - 1,Derby County,Tottenham Hotspur
+29/10/1927,4 - 1,Leicester City,Cardiff City
+29/10/1927,4 - 2,Liverpool,Blackburn Rovers
+29/10/1927,1 - 3,Portsmouth,Everton
+29/10/1927,3 - 1,Sheffield United,Birmingham City
+29/10/1927,3 - 0,Sunderland,Huddersfield Town
+29/10/1927,1 - 2,West Ham United,Manchester United
+22/10/1927,2 - 2,Birmingham City,Bury
+22/10/1927,0 - 0,Blackburn Rovers,Leicester City
+22/10/1927,2 - 1,Bolton Wanderers,Liverpool
+22/10/1927,3 - 1,Cardiff City,Portsmouth
+22/10/1927,7 - 0,Everton,West Ham United
+22/10/1927,1 - 1,Huddersfield Town,Aston Villa
+22/10/1927,5 - 0,Manchester United,Derby County
+22/10/1927,2 - 3,Middlesbrough,Burnley
+22/10/1927,1 - 0,Newcastle United,Sheffield United
+22/10/1927,1 - 1,Sheffield Wednesday,Arsenal
+22/10/1927,3 - 1,Tottenham Hotspur,Sunderland
+15/10/1927,2 - 2,Arsenal,Leicester City
+15/10/1927,4 - 2,Aston Villa,Sunderland
+15/10/1927,3 - 2,Birmingham City,Middlesbrough
+15/10/1927,2 - 0,Burnley,Portsmouth
+15/10/1927,3 - 1,Bury,West Ham United
+15/10/1927,1 - 1,Everton,Liverpool
+15/10/1927,1 - 0,Huddersfield Town,Bolton Wanderers
+15/10/1927,2 - 2,Manchester United,Cardiff City
+15/10/1927,4 - 3,Newcastle United,Sheffield Wednesday
+15/10/1927,1 - 0,Sheffield United,Derby County
+15/10/1927,1 - 1,Tottenham Hotspur,Blackburn Rovers
+08/10/1927,5 - 1,Aston Villa,Middlesbrough
+08/10/1927,1 - 1,Blackburn Rovers,Huddersfield Town
+08/10/1927,1 - 2,Bolton Wanderers,Newcastle United
+08/10/1927,2 - 1,Cardiff City,Tottenham Hotspur
+08/10/1927,5 - 2,Derby County,Bury
+08/10/1927,5 - 2,Everton,Manchester United
+08/10/1927,1 - 1,Leicester City,Liverpool
+08/10/1927,2 - 3,Portsmouth,Arsenal
+08/10/1927,2 - 3,Sheffield Wednesday,Birmingham City
+08/10/1927,0 - 1,Sunderland,Sheffield United
+08/10/1927,2 - 0,West Ham United,Burnley
+01/10/1927,2 - 2,Arsenal,West Ham United
+01/10/1927,1 - 1,Birmingham City,Bolton Wanderers
+01/10/1927,4 - 2,Burnley,Derby County
+01/10/1927,5 - 3,Bury,Sunderland
+01/10/1927,8 - 2,Huddersfield Town,Cardiff City
+01/10/1927,1 - 0,Leicester City,Manchester United
+01/10/1927,8 - 2,Liverpool,Portsmouth
+01/10/1927,3 - 3,Middlesbrough,Sheffield Wednesday
+01/10/1927,0 - 1,Newcastle United,Blackburn Rovers
+01/10/1927,0 - 3,Sheffield United,Aston Villa
+01/10/1927,1 - 3,Tottenham Hotspur,Everton
+24/09/1927,1 - 0,Aston Villa,Bury
+24/09/1927,4 - 4,Blackburn Rovers,Birmingham City
+24/09/1927,0 - 0,Bolton Wanderers,Middlesbrough
+24/09/1927,3 - 1,Cardiff City,Newcastle United
+24/09/1927,4 - 0,Derby County,Arsenal
+24/09/1927,2 - 2,Everton,Huddersfield Town
+24/09/1927,3 - 0,Manchester United,Tottenham Hotspur
+24/09/1927,2 - 0,Portsmouth,Leicester City
+24/09/1927,1 - 1,Sheffield United,Sheffield Wednesday
+24/09/1927,2 - 3,Sunderland,Burnley
+24/09/1927,3 - 1,West Ham United,Liverpool
+22/09/1927,2 - 1,Tottenham Hotspur,Leicester City
+19/09/1927,3 - 0,Blackburn Rovers,Manchester United
+19/09/1927,5 - 2,Bury,Liverpool
+17/09/1927,2 - 1,Arsenal,Sunderland
+17/09/1927,1 - 3,Birmingham City,Cardiff City
+17/09/1927,4 - 2,Burnley,Aston Villa
+17/09/1927,1 - 0,Bury,Sheffield United
+17/09/1927,4 - 2,Huddersfield Town,Manchester United
+17/09/1927,2 - 3,Leicester City,West Ham United
+17/09/1927,5 - 2,Liverpool,Derby County
+17/09/1927,2 - 0,Middlesbrough,Blackburn Rovers
+17/09/1927,2 - 2,Newcastle United,Everton
+17/09/1927,3 - 0,Portsmouth,Tottenham Hotspur
+17/09/1927,3 - 0,Sheffield Wednesday,Bolton Wanderers
+14/09/1927,2 - 2,Everton,Bolton Wanderers
+14/09/1927,4 - 3,Newcastle United,Derby County
+12/09/1927,1 - 1,Cardiff City,Blackburn Rovers
+12/09/1927,4 - 2,Tottenham Hotspur,Middlesbrough
+10/09/1927,2 - 2,Aston Villa,Arsenal
+10/09/1927,3 - 1,Blackburn Rovers,Sheffield Wednesday
+10/09/1927,1 - 0,Bury,Bolton Wanderers
+10/09/1927,1 - 1,Cardiff City,Middlesbrough
+10/09/1927,2 - 1,Derby County,Leicester City
+10/09/1927,5 - 2,Everton,Birmingham City
+10/09/1927,1 - 7,Manchester United,Newcastle United
+10/09/1927,5 - 2,Sheffield United,Burnley
+10/09/1927,2 - 1,Sunderland,Liverpool
+10/09/1927,2 - 2,Tottenham Hotspur,Huddersfield Town
+10/09/1927,4 - 2,West Ham United,Portsmouth
+07/09/1927,1 - 1,Manchester United,Sheffield Wednesday
+07/09/1927,4 - 2,Sunderland,Birmingham City
+05/09/1927,7 - 2,Aston Villa,Portsmouth
+05/09/1927,0 - 0,Blackburn Rovers,Cardiff City
+05/09/1927,1 - 1,Bolton Wanderers,Everton
+05/09/1927,1 - 2,Burnley,Arsenal
+05/09/1927,1 - 1,Derby County,Newcastle United
+05/09/1927,1 - 1,Sheffield United,Leicester City
+03/09/1927,6 - 1,Arsenal,Sheffield United
+03/09/1927,0 - 0,Birmingham City,Manchester United
+03/09/1927,3 - 1,Bolton Wanderers,Blackburn Rovers
+03/09/1927,2 - 3,Burnley,Bury
+03/09/1927,3 - 3,Leicester City,Sunderland
+03/09/1927,0 - 0,Liverpool,Aston Villa
+03/09/1927,4 - 2,Middlesbrough,Everton
+03/09/1927,4 - 1,Newcastle United,Tottenham Hotspur
+03/09/1927,2 - 2,Portsmouth,Derby County
+03/09/1927,3 - 3,Sheffield Wednesday,Cardiff City
+03/09/1927,4 - 2,West Ham United,Huddersfield Town
+01/09/1927,2 - 4,West Ham United,Sunderland
+31/08/1927,4 - 1,Arsenal,Burnley
+31/08/1927,5 - 1,Liverpool,Bury
+31/08/1927,3 - 1,Middlesbrough,Tottenham Hotspur
+31/08/1927,3 - 1,Portsmouth,Aston Villa
+29/08/1927,3 - 1,Birmingham City,Huddersfield Town
+29/08/1927,3 - 1,Leicester City,Sheffield United
+29/08/1927,0 - 2,Sheffield Wednesday,Manchester United
+27/08/1927,0 - 3,Aston Villa,Leicester City
+27/08/1927,2 - 1,Blackburn Rovers,Burnley
+27/08/1927,5 - 1,Bury,Arsenal
+27/08/1927,2 - 1,Cardiff City,Bolton Wanderers
+27/08/1927,2 - 3,Derby County,West Ham United
+27/08/1927,4 - 0,Everton,Sheffield Wednesday
+27/08/1927,1 - 3,Huddersfield Town,Newcastle United
+27/08/1927,3 - 0,Manchester United,Middlesbrough
+27/08/1927,1 - 1,Sheffield United,Liverpool
+27/08/1927,3 - 3,Sunderland,Portsmouth
+27/08/1927,1 - 0,Tottenham Hotspur,Birmingham City

@@ -1,0 +1,241 @@
+date,score,home_team,away_team
+12/05/2012,3 - 2,Sporting CP,Sporting Braga
+12/05/2012,1 - 2,Beira-Mar,Olhanense
+12/05/2012,3 - 1,Gil Vicente,Feirense
+12/05/2012,1 - 1,Marítimo,Paços de Ferreira
+12/05/2012,2 - 5,Rio Ave,Porto
+12/05/2012,2 - 3,União de Leiria,Nacional
+12/05/2012,1 - 2,Vitória Guimarães,Académica
+12/05/2012,1 - 3,Vitória Setúbal,Benfica
+05/05/2012,1 - 0,Académica,Vitória Setúbal
+05/05/2012,1 - 0,Benfica,União de Leiria
+05/05/2012,1 - 3,Feirense,Vitória Guimarães
+05/05/2012,3 - 1,Nacional,Gil Vicente
+05/05/2012,0 - 0,Olhanense,Marítimo
+05/05/2012,2 - 2,Paços de Ferreira,Rio Ave
+05/05/2012,2 - 0,Porto,Sporting CP
+05/05/2012,1 - 0,Sporting Braga,Beira-Mar
+30/04/2012,2 - 1,Sporting CP,Académica
+29/04/2012,2 - 2,Rio Ave,Benfica
+29/04/2012,2 - 0,Beira-Mar,Paços de Ferreira
+29/04/2012,0 - 4,União de Leiria,Feirense
+29/04/2012,0 - 3,Vitória Setúbal,Nacional
+28/04/2012,0 - 2,Marítimo,Porto
+28/04/2012,3 - 1,Gil Vicente,Vitória Guimarães
+27/04/2012,1 - 2,Sporting Braga,Olhanense
+23/04/2012,0 - 1,Académica,Olhanense
+22/04/2012,2 - 3,Nacional,Sporting CP
+22/04/2012,1 - 0,Feirense,Vitória Setúbal
+22/04/2012,0 - 0,Gil Vicente,Rio Ave
+21/04/2012,3 - 0,Porto,Beira-Mar
+21/04/2012,3 - 2,Vitória Guimarães,União de Leiria
+21/04/2012,4 - 1,Benfica,Marítimo
+20/04/2012,1 - 1,Paços de Ferreira,Sporting Braga
+09/04/2012,1 - 0,Sporting CP,Benfica
+07/04/2012,0 - 1,Sporting Braga,Porto
+07/04/2012,2 - 4,Marítimo,Nacional
+07/04/2012,1 - 2,Olhanense,Paços de Ferreira
+07/04/2012,2 - 2,Rio Ave,Feirense
+06/04/2012,1 - 0,Vitória Setúbal,Vitória Guimarães
+06/04/2012,2 - 1,Beira-Mar,Académica
+06/04/2012,0 - 0,União de Leiria,Gil Vicente
+01/04/2012,3 - 1,Vitória Guimarães,Paços de Ferreira
+01/04/2012,0 - 1,[N] União de Leiria,Sporting CP
+01/04/2012,1 - 3,Feirense,Beira-Mar
+01/04/2012,0 - 1,Gil Vicente,Vitória Setúbal
+01/04/2012,2 - 1,Nacional,Rio Ave
+31/03/2012,2 - 1,Benfica,Sporting Braga
+31/03/2012,2 - 0,Porto,Olhanense
+30/03/2012,0 - 1,Académica,Marítimo
+26/03/2012,2 - 1,Sporting Braga,Académica
+26/03/2012,3 - 2,Marítimo,Gil Vicente
+25/03/2012,1 - 1,Paços de Ferreira,Porto
+25/03/2012,0 - 1,Rio Ave,Vitória Guimarães
+25/03/2012,0 - 3,Beira-Mar,Nacional
+25/03/2012,1 - 0,Vitória Setúbal,União de Leiria
+24/03/2012,1 - 0,Sporting CP,Feirense
+23/03/2012,0 - 0,Olhanense,Benfica
+19/03/2012,2 - 0,Gil Vicente,Sporting CP
+18/03/2012,2 - 2,Vitória Guimarães,Olhanense
+18/03/2012,1 - 1,Vitória Setúbal,Marítimo
+18/03/2012,0 - 1,Académica,Paços de Ferreira
+17/03/2012,1 - 4,Feirense,Sporting Braga
+17/03/2012,1 - 0,[N] União de Leiria,Rio Ave
+16/03/2012,3 - 1,Benfica,Beira-Mar
+16/03/2012,0 - 2,Nacional,Porto
+11/03/2012,5 - 0,Sporting CP,Vitória Guimarães
+11/03/2012,1 - 2,Paços de Ferreira,Benfica
+11/03/2012,1 - 0,Beira-Mar,Gil Vicente
+11/03/2012,4 - 4,Olhanense,Nacional
+11/03/2012,3 - 0,Rio Ave,Vitória Setúbal
+10/03/2012,1 - 1,Porto,Académica
+10/03/2012,2 - 1,Sporting Braga,União de Leiria
+09/03/2012,2 - 1,Marítimo,Feirense
+05/03/2012,1 - 3,[N] União de Leiria,Olhanense
+04/03/2012,1 - 0,Vitória Guimarães,Marítimo
+04/03/2012,1 - 1,Feirense,Académica
+04/03/2012,1 - 2,Gil Vicente,Paços de Ferreira
+04/03/2012,4 - 0,Rio Ave,Beira-Mar
+03/03/2012,1 - 0,Vitória Setúbal,Sporting CP
+03/03/2012,1 - 3,Nacional,Sporting Braga
+02/03/2012,2 - 3,Benfica,Porto
+27/02/2012,4 - 0,Sporting Braga,Vitória Guimarães
+26/02/2012,2 - 0,Porto,Feirense
+26/02/2012,1 - 0,Sporting CP,Rio Ave
+26/02/2012,2 - 3,Beira-Mar,Vitória Setúbal
+26/02/2012,0 - 0,Olhanense,Gil Vicente
+26/02/2012,0 - 2,Paços de Ferreira,Nacional
+25/02/2012,0 - 0,Académica,Benfica
+24/02/2012,1 - 0,Marítimo,União de Leiria
+20/02/2012,1 - 0,Vitória Guimarães,Benfica
+19/02/2012,1 - 0,Sporting CP,Paços de Ferreira
+19/02/2012,1 - 3,Vitória Setúbal,Porto
+19/02/2012,1 - 1,Feirense,Olhanense
+19/02/2012,4 - 1,Nacional,Académica
+19/02/2012,0 - 0,[N] União de Leiria,Beira-Mar
+18/02/2012,0 - 3,Gil Vicente,Sporting Braga
+17/02/2012,1 - 3,Rio Ave,Marítimo
+13/02/2012,0 - 2,Académica,Gil Vicente
+12/02/2012,4 - 0,Porto,União de Leiria
+12/02/2012,0 - 1,Beira-Mar,Vitória Guimarães
+12/02/2012,0 - 2,Olhanense,Rio Ave
+12/02/2012,3 - 1,Paços de Ferreira,Feirense
+11/02/2012,4 - 1,Benfica,Nacional
+11/02/2012,2 - 0,Marítimo,Sporting CP
+10/02/2012,3 - 0,Sporting Braga,Vitória Setúbal
+30/01/2012,1 - 2,Marítimo,Sporting Braga
+29/01/2012,3 - 1,Gil Vicente,Porto
+29/01/2012,2 - 0,Sporting CP,Beira-Mar
+29/01/2012,2 - 4,[N] União de Leiria,Paços de Ferreira
+29/01/2012,2 - 3,Vitória Setúbal,Olhanense
+28/01/2012,1 - 2,Feirense,Benfica
+28/01/2012,0 - 0,Rio Ave,Académica
+27/01/2012,1 - 0,Vitória Guimarães,Nacional
+23/01/2012,0 - 0,Olhanense,Sporting CP
+22/01/2012,3 - 1,Benfica,Gil Vicente
+22/01/2012,3 - 1,Porto,Vitória Guimarães
+22/01/2012,2 - 1,Sporting Braga,Rio Ave
+22/01/2012,2 - 0,Nacional,Feirense
+22/01/2012,2 - 1,Paços de Ferreira,Vitória Setúbal
+21/01/2012,1 - 2,Beira-Mar,Marítimo
+20/01/2012,0 - 0,Académica,União de Leiria
+15/01/2012,2 - 1,Sporting Braga,Sporting CP
+15/01/2012,0 - 2,Académica,Vitória Guimarães
+15/01/2012,2 - 2,Nacional,União de Leiria
+15/01/2012,2 - 1,Olhanense,Beira-Mar
+14/01/2012,2 - 0,Porto,Rio Ave
+14/01/2012,4 - 1,Benfica,Vitória Setúbal
+14/01/2012,0 - 0,Feirense,Gil Vicente
+13/01/2012,1 - 1,Paços de Ferreira,Marítimo
+09/01/2012,1 - 2,Beira-Mar,Sporting Braga
+08/01/2012,1 - 0,Vitória Guimarães,Feirense
+08/01/2012,0 - 4,União de Leiria,Benfica
+08/01/2012,0 - 3,Gil Vicente,Nacional
+08/01/2012,2 - 1,Marítimo,Olhanense
+08/01/2012,1 - 0,Rio Ave,Paços de Ferreira
+07/01/2012,0 - 0,Sporting CP,Porto
+06/01/2012,1 - 1,Vitória Setúbal,Académica
+19/12/2011,3 - 4,Olhanense,Sporting Braga
+18/12/2011,1 - 1,Académica,Sporting CP
+18/12/2011,2 - 1,Feirense,União de Leiria
+18/12/2011,1 - 1,Nacional,Vitória Setúbal
+18/12/2011,0 - 3,Paços de Ferreira,Beira-Mar
+17/12/2011,2 - 0,Porto,Marítimo
+17/12/2011,1 - 1,Vitória Guimarães,Gil Vicente
+16/12/2011,5 - 1,Benfica,Rio Ave
+12/12/2011,0 - 2,Olhanense,Académica
+11/12/2011,0 - 1,Marítimo,Benfica
+11/12/2011,1 - 0,União de Leiria,Vitória Guimarães
+11/12/2011,2 - 0,Rio Ave,Gil Vicente
+11/12/2011,1 - 1,Vitória Setúbal,Feirense
+10/12/2011,1 - 0,Sporting CP,Nacional
+10/12/2011,1 - 2,Beira-Mar,Porto
+09/12/2011,5 - 2,Sporting Braga,Paços de Ferreira
+28/11/2011,3 - 0,Vitória Guimarães,Vitória Setúbal
+27/11/2011,1 - 1,Paços de Ferreira,Olhanense
+27/11/2011,3 - 2,Porto,Sporting Braga
+27/11/2011,2 - 0,Feirense,Rio Ave
+27/11/2011,2 - 1,Gil Vicente,União de Leiria
+26/11/2011,1 - 0,Benfica,Sporting CP
+26/11/2011,2 - 2,Nacional,Marítimo
+25/11/2011,0 - 1,Académica,Beira-Mar
+06/11/2011,3 - 1,Sporting CP,União de Leiria
+06/11/2011,1 - 1,Sporting Braga,Benfica
+06/11/2011,2 - 1,Beira-Mar,Feirense
+06/11/2011,2 - 1,Rio Ave,Nacional
+06/11/2011,0 - 0,Vitória Setúbal,Gil Vicente
+05/11/2011,0 - 0,Olhanense,Porto
+05/11/2011,3 - 2,Marítimo,Académica
+04/11/2011,1 - 5,Paços de Ferreira,Vitória Guimarães
+01/11/2011,0 - 0,Gil Vicente,Marítimo
+30/10/2011,0 - 2,[N] Feirense,Sporting CP
+30/10/2011,2 - 1,Vitória Guimarães,Rio Ave
+30/10/2011,2 - 1,Nacional,Beira-Mar
+30/10/2011,2 - 0,União de Leiria,Vitória Setúbal
+29/10/2011,2 - 1,Benfica,Olhanense
+29/10/2011,0 - 0,Académica,Sporting Braga
+28/10/2011,3 - 0,Porto,Paços de Ferreira
+24/10/2011,6 - 1,Sporting CP,Gil Vicente
+23/10/2011,3 - 0,Sporting Braga,Feirense
+23/10/2011,5 - 0,Porto,Nacional
+23/10/2011,1 - 0,Marítimo,Vitória Setúbal
+23/10/2011,2 - 0,Rio Ave,União de Leiria
+22/10/2011,0 - 1,Beira-Mar,Benfica
+22/10/2011,1 - 0,Olhanense,Vitória Guimarães
+21/10/2011,2 - 0,Paços de Ferreira,Académica
+03/10/2011,0 - 0,Gil Vicente,Beira-Mar
+02/10/2011,0 - 3,Académica,Porto
+02/10/2011,0 - 1,Vitória Guimarães,Sporting CP
+02/10/2011,2 - 2,[N] Feirense,Marítimo
+02/10/2011,1 - 0,Nacional,Olhanense
+02/10/2011,1 - 0,União de Leiria,Sporting Braga
+01/10/2011,4 - 1,Benfica,Paços de Ferreira
+30/09/2011,2 - 1,Vitória Setúbal,Rio Ave
+26/09/2011,4 - 0,Académica,Feirense
+25/09/2011,2 - 1,Marítimo,Vitória Guimarães
+25/09/2011,0 - 0,Beira-Mar,Rio Ave
+25/09/2011,2 - 1,Olhanense,União de Leiria
+25/09/2011,1 - 2,Paços de Ferreira,Gil Vicente
+24/09/2011,3 - 0,Sporting CP,Vitória Setúbal
+24/09/2011,2 - 0,Sporting Braga,Nacional
+23/09/2011,2 - 2,Porto,Benfica
+19/09/2011,2 - 3,Rio Ave,Sporting CP
+19/09/2011,1 - 1,Vitória Guimarães,Sporting Braga
+18/09/2011,4 - 1,Benfica,Académica
+18/09/2011,0 - 0,[N] Feirense,Porto
+18/09/2011,1 - 0,Vitória Setúbal,Beira-Mar
+18/09/2011,1 - 3,União de Leiria,Marítimo
+17/09/2011,1 - 0,Nacional,Paços de Ferreira
+16/09/2011,1 - 1,Gil Vicente,Olhanense
+12/09/2011,4 - 0,Académica,Nacional
+11/09/2011,2 - 1,Marítimo,Rio Ave
+11/09/2011,1 - 2,Olhanense,Feirense
+11/09/2011,3 - 1,Sporting Braga,Gil Vicente
+11/09/2011,0 - 1,Beira-Mar,União de Leiria
+10/09/2011,2 - 3,Paços de Ferreira,Sporting CP
+10/09/2011,2 - 1,Benfica,Vitória Guimarães
+09/09/2011,3 - 0,Porto,Vitória Setúbal
+06/09/2011,2 - 5,União de Leiria,Porto
+04/09/2011,1 - 4,Nacional,Vitória Guimarães
+29/08/2011,0 - 2,Nacional,Benfica
+29/08/2011,0 - 1,Vitória Setúbal,Sporting Braga
+28/08/2011,2 - 3,Sporting CP,Marítimo
+28/08/2011,0 - 0,[N] Feirense,Paços de Ferreira
+28/08/2011,0 - 3,Vitória Guimarães,Beira-Mar
+28/08/2011,0 - 1,Rio Ave,Olhanense
+27/08/2011,2 - 0,Gil Vicente,Académica
+22/08/2011,2 - 2,Olhanense,Vitória Setúbal
+21/08/2011,2 - 0,Sporting Braga,Marítimo
+21/08/2011,0 - 0,Beira-Mar,Sporting CP
+21/08/2011,1 - 0,Académica,Rio Ave
+21/08/2011,2 - 1,Paços de Ferreira,União de Leiria
+20/08/2011,3 - 1,Benfica,Feirense
+19/08/2011,3 - 1,Porto,Gil Vicente
+15/08/2011,1 - 2,União de Leiria,Académica
+14/08/2011,0 - 1,Vitória Guimarães,Porto
+14/08/2011,2 - 1,Vitória Setúbal,Paços de Ferreira
+14/08/2011,0 - 0,[N] Feirense,Nacional
+14/08/2011,0 - 0,Marítimo,Beira-Mar
+13/08/2011,1 - 1,Sporting CP,Olhanense
+13/08/2011,0 - 0,Rio Ave,Sporting Braga
+12/08/2011,2 - 2,Gil Vicente,Benfica

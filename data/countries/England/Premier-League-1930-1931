@@ -1,0 +1,463 @@
+date,score,home_team,away_team
+02/05/1931,5 - 0,Arsenal,Bolton Wanderers
+02/05/1931,2 - 1,Birmingham City,Leicester City
+02/05/1931,2 - 2,Blackpool,Manchester City
+02/05/1931,1 - 1,Chelsea,Newcastle United
+02/05/1931,2 - 1,Grimsby Town,Huddersfield Town
+02/05/1931,3 - 1,Leeds United,Derby County
+02/05/1931,2 - 0,Liverpool,West Ham United
+02/05/1931,4 - 4,Manchester United,Middlesbrough
+02/05/1931,3 - 0,Portsmouth,Blackburn Rovers
+02/05/1931,3 - 0,Sheffield Wednesday,Aston Villa
+02/05/1931,2 - 1,Sunderland,Sheffield United
+25/04/1931,4 - 2,Aston Villa,Manchester City
+25/04/1931,4 - 1,Bolton Wanderers,Leicester City
+25/04/1931,2 - 0,Chelsea,Portsmouth
+25/04/1931,6 - 2,Grimsby Town,Blackpool
+25/04/1931,3 - 0,Huddersfield Town,Derby County
+25/04/1931,4 - 1,Middlesbrough,Sheffield United
+25/04/1931,1 - 3,Newcastle United,Arsenal
+25/04/1931,1 - 3,Sheffield Wednesday,Blackburn Rovers
+25/04/1931,0 - 3,West Ham United,Sunderland
+20/04/1931,3 - 2,Sheffield Wednesday,Derby County
+18/04/1931,3 - 1,Arsenal,Liverpool
+18/04/1931,2 - 0,Birmingham City,Sheffield Wednesday
+18/04/1931,4 - 5,Blackburn Rovers,Middlesbrough
+18/04/1931,1 - 1,Blackpool,Huddersfield Town
+18/04/1931,6 - 1,Derby County,Manchester United
+18/04/1931,0 - 2,Leeds United,Aston Villa
+18/04/1931,3 - 1,Leicester City,Newcastle United
+18/04/1931,1 - 1,Manchester City,West Ham United
+18/04/1931,1 - 0,Portsmouth,Bolton Wanderers
+18/04/1931,2 - 1,Sheffield United,Grimsby Town
+18/04/1931,2 - 0,Sunderland,Chelsea
+15/04/1931,0 - 0,Liverpool,Birmingham City
+11/04/1931,4 - 0,Aston Villa,Sheffield United
+11/04/1931,2 - 0,Bolton Wanderers,Leeds United
+11/04/1931,1 - 1,Chelsea,Derby County
+11/04/1931,0 - 1,Grimsby Town,Arsenal
+11/04/1931,1 - 0,Huddersfield Town,Birmingham City
+11/04/1931,2 - 4,Liverpool,Sunderland
+11/04/1931,0 - 1,Manchester United,Blackburn Rovers
+11/04/1931,2 - 2,Middlesbrough,Leicester City
+11/04/1931,0 - 1,Newcastle United,Manchester City
+11/04/1931,2 - 2,Sheffield Wednesday,Portsmouth
+11/04/1931,3 - 2,West Ham United,Blackpool
+07/04/1931,4 - 3,Aston Villa,Newcastle United
+07/04/1931,1 - 1,Huddersfield Town,Sheffield Wednesday
+07/04/1931,4 - 0,Leeds United,Sheffield United
+07/04/1931,2 - 1,Leicester City,Chelsea
+06/04/1931,1 - 1,Arsenal,Portsmouth
+06/04/1931,1 - 0,Birmingham City,Sunderland
+06/04/1931,4 - 2,Bolton Wanderers,West Ham United
+06/04/1931,1 - 0,Chelsea,Leicester City
+06/04/1931,3 - 2,Derby County,Blackpool
+06/04/1931,4 - 1,Manchester United,Liverpool
+06/04/1931,1 - 1,Sheffield United,Leeds United
+04/04/1931,2 - 1,Arsenal,Chelsea
+04/04/1931,0 - 2,Birmingham City,Bolton Wanderers
+04/04/1931,1 - 0,Blackburn Rovers,Newcastle United
+04/04/1931,0 - 4,Blackpool,Sheffield Wednesday
+04/04/1931,1 - 2,Derby County,Middlesbrough
+04/04/1931,0 - 0,Leeds United,Grimsby Town
+04/04/1931,1 - 1,Leicester City,West Ham United
+04/04/1931,0 - 1,Manchester City,Huddersfield Town
+04/04/1931,5 - 0,Portsmouth,Aston Villa
+04/04/1931,4 - 1,Sheffield United,Liverpool
+04/04/1931,1 - 2,Sunderland,Manchester United
+03/04/1931,1 - 0,Blackpool,Derby County
+03/04/1931,4 - 1,Grimsby Town,Middlesbrough
+03/04/1931,1 - 1,Liverpool,Manchester United
+03/04/1931,3 - 0,Manchester City,Blackburn Rovers
+03/04/1931,1 - 1,Newcastle United,Huddersfield Town
+03/04/1931,1 - 1,Portsmouth,Arsenal
+03/04/1931,1 - 0,Sunderland,Birmingham City
+03/04/1931,1 - 4,West Ham United,Bolton Wanderers
+28/03/1931,4 - 1,Aston Villa,Blackpool
+28/03/1931,1 - 1,Bolton Wanderers,Manchester City
+28/03/1931,1 - 0,Chelsea,Leeds United
+28/03/1931,4 - 1,Grimsby Town,Birmingham City
+28/03/1931,1 - 1,Huddersfield Town,Blackburn Rovers
+28/03/1931,3 - 1,Liverpool,Portsmouth
+28/03/1931,1 - 2,Manchester United,Sheffield United
+28/03/1931,2 - 5,Middlesbrough,Arsenal
+28/03/1931,2 - 0,Newcastle United,Sunderland
+28/03/1931,4 - 0,Sheffield Wednesday,Leicester City
+28/03/1931,0 - 1,West Ham United,Derby County
+25/03/1931,1 - 0,Chelsea,Birmingham City
+25/03/1931,0 - 0,Manchester United,Leicester City
+24/03/1931,2 - 1,Grimsby Town,Sunderland
+21/03/1931,2 - 0,Arsenal,Sheffield Wednesday
+21/03/1931,1 - 2,Birmingham City,Middlesbrough
+21/03/1931,5 - 2,Blackburn Rovers,Grimsby Town
+21/03/1931,5 - 1,Blackpool,Manchester United
+21/03/1931,1 - 1,Derby County,Aston Villa
+21/03/1931,3 - 0,Leeds United,West Ham United
+21/03/1931,3 - 2,Leicester City,Liverpool
+21/03/1931,2 - 0,Manchester City,Chelsea
+21/03/1931,1 - 2,Portsmouth,Newcastle United
+21/03/1931,0 - 2,Sheffield United,Huddersfield Town
+21/03/1931,3 - 1,Sunderland,Bolton Wanderers
+16/03/1931,2 - 0,Huddersfield Town,Sunderland
+16/03/1931,0 - 1,Manchester United,Portsmouth
+16/03/1931,1 - 2,West Ham United,Birmingham City
+14/03/1931,5 - 1,Aston Villa,Arsenal
+14/03/1931,6 - 2,Bolton Wanderers,Sheffield United
+14/03/1931,3 - 2,Chelsea,Blackburn Rovers
+14/03/1931,1 - 3,Huddersfield Town,Portsmouth
+14/03/1931,0 - 0,Liverpool,Derby County
+14/03/1931,4 - 1,Middlesbrough,Manchester City
+14/03/1931,0 - 2,Newcastle United,Blackpool
+14/03/1931,2 - 1,Sheffield Wednesday,Leeds United
+11/03/1931,1 - 2,Leeds United,Arsenal
+07/03/1931,0 - 0,Arsenal,Huddersfield Town
+07/03/1931,0 - 0,Birmingham City,Manchester United
+07/03/1931,0 - 2,Blackburn Rovers,Aston Villa
+07/03/1931,2 - 1,Blackpool,Chelsea
+07/03/1931,4 - 1,Derby County,Bolton Wanderers
+07/03/1931,1 - 0,Leeds United,Newcastle United
+07/03/1931,0 - 1,Leicester City,Grimsby Town
+07/03/1931,1 - 1,Manchester City,Liverpool
+07/03/1931,1 - 0,Portsmouth,Middlesbrough
+07/03/1931,1 - 2,Sheffield United,West Ham United
+07/03/1931,5 - 1,Sunderland,Sheffield Wednesday
+02/03/1931,3 - 0,Blackburn Rovers,Leicester City
+28/02/1931,4 - 2,Aston Villa,Leicester City
+28/02/1931,1 - 1,Bolton Wanderers,Blackburn Rovers
+28/02/1931,3 - 5,Grimsby Town,Manchester City
+28/02/1931,5 - 2,Liverpool,Blackpool
+28/02/1931,5 - 0,Middlesbrough,Leeds United
+28/02/1931,1 - 0,Newcastle United,Sheffield United
+28/02/1931,2 - 4,West Ham United,Arsenal
+21/02/1931,4 - 1,Arsenal,Manchester United
+21/02/1931,0 - 4,Birmingham City,Aston Villa
+21/02/1931,1 - 0,Blackburn Rovers,West Ham United
+21/02/1931,3 - 3,Blackpool,Bolton Wanderers
+21/02/1931,1 - 5,Derby County,Newcastle United
+21/02/1931,1 - 2,Leeds United,Liverpool
+21/02/1931,1 - 2,Leicester City,Huddersfield Town
+21/02/1931,2 - 0,Manchester City,Sheffield Wednesday
+21/02/1931,4 - 3,Portsmouth,Grimsby Town
+21/02/1931,4 - 0,Sheffield United,Chelsea
+21/02/1931,1 - 1,Sunderland,Middlesbrough
+19/02/1931,2 - 1,Blackburn Rovers,Sheffield United
+18/02/1931,4 - 2,Aston Villa,Sunderland
+18/02/1931,0 - 1,Blackpool,Birmingham City
+18/02/1931,1 - 2,Chelsea,Huddersfield Town
+18/02/1931,1 - 3,Leeds United,Leicester City
+18/02/1931,1 - 1,Portsmouth,Manchester City
+17/02/1931,4 - 1,Grimsby Town,Bolton Wanderers
+14/02/1931,6 - 3,Arsenal,Derby County
+14/02/1931,1 - 0,Manchester United,West Ham United
+14/02/1931,0 - 5,Newcastle United,Middlesbrough
+14/02/1931,3 - 5,Sheffield Wednesday,Liverpool
+07/02/1931,4 - 1,Birmingham City,Blackburn Rovers
+07/02/1931,2 - 2,Bolton Wanderers,Sheffield Wednesday
+07/02/1931,5 - 1,Derby County,Portsmouth
+07/02/1931,1 - 6,Huddersfield Town,Aston Villa
+07/02/1931,6 - 0,Leicester City,Blackpool
+07/02/1931,4 - 2,Liverpool,Newcastle United
+07/02/1931,1 - 3,Manchester United,Manchester City
+07/02/1931,2 - 2,Middlesbrough,Chelsea
+07/02/1931,1 - 1,Sheffield United,Arsenal
+07/02/1931,4 - 0,Sunderland,Leeds United
+07/02/1931,3 - 4,West Ham United,Grimsby Town
+05/02/1931,2 - 7,Leicester City,Arsenal
+04/02/1931,1 - 1,Bolton Wanderers,Chelsea
+04/02/1931,8 - 2,Sunderland,Blackburn Rovers
+03/02/1931,5 - 3,Grimsby Town,Derby County
+31/01/1931,1 - 1,Arsenal,Birmingham City
+31/01/1931,8 - 1,Aston Villa,Middlesbrough
+31/01/1931,3 - 1,Blackpool,Sunderland
+31/01/1931,2 - 2,Chelsea,Liverpool
+31/01/1931,2 - 1,Grimsby Town,Manchester United
+31/01/1931,3 - 0,Huddersfield Town,Leeds United
+31/01/1931,4 - 3,Manchester City,Derby County
+31/01/1931,4 - 0,Newcastle United,Bolton Wanderers
+31/01/1931,2 - 3,Portsmouth,Sheffield United
+31/01/1931,5 - 3,Sheffield Wednesday,West Ham United
+28/01/1931,9 - 1,Arsenal,Grimsby Town
+28/01/1931,2 - 1,Birmingham City,Portsmouth
+28/01/1931,2 - 2,Leeds United,Blackpool
+28/01/1931,4 - 1,Manchester United,Sheffield Wednesday
+28/01/1931,2 - 2,Sheffield United,Manchester City
+26/01/1931,3 - 2,West Ham United,Newcastle United
+24/01/1931,1 - 1,Liverpool,Aston Villa
+24/01/1931,2 - 3,Middlesbrough,Huddersfield Town
+17/01/1931,1 - 3,Arsenal,Sunderland
+17/01/1931,3 - 1,Aston Villa,Bolton Wanderers
+17/01/1931,3 - 1,Blackburn Rovers,Leeds United
+17/01/1931,2 - 1,Chelsea,West Ham United
+17/01/1931,4 - 3,Derby County,Sheffield United
+17/01/1931,2 - 1,Huddersfield Town,Liverpool
+17/01/1931,4 - 2,Manchester City,Birmingham City
+17/01/1931,5 - 1,Middlesbrough,Blackpool
+17/01/1931,4 - 3,Newcastle United,Manchester United
+17/01/1931,2 - 1,Portsmouth,Leicester City
+17/01/1931,4 - 1,Sheffield Wednesday,Grimsby Town
+14/01/1931,2 - 0,Bolton Wanderers,Liverpool
+03/01/1931,1 - 2,Birmingham City,Derby County
+03/01/1931,1 - 1,Blackpool,Blackburn Rovers
+03/01/1931,1 - 0,Bolton Wanderers,Huddersfield Town
+03/01/1931,2 - 2,Grimsby Town,Newcastle United
+03/01/1931,3 - 2,Leicester City,Manchester City
+03/01/1931,3 - 1,Liverpool,Middlesbrough
+03/01/1931,1 - 0,Manchester United,Chelsea
+03/01/1931,1 - 3,Sheffield Wednesday,Sheffield United
+03/01/1931,0 - 0,Sunderland,Portsmouth
+03/01/1931,5 - 5,West Ham United,Aston Villa
+01/01/1931,0 - 1,Blackburn Rovers,Manchester City
+01/01/1931,0 - 0,Manchester United,Leeds United
+01/01/1931,2 - 1,Middlesbrough,Grimsby Town
+01/01/1931,2 - 0,Newcastle United,Aston Villa
+01/01/1931,2 - 1,Sheffield Wednesday,Huddersfield Town
+29/12/1930,3 - 2,Sheffield Wednesday,Middlesbrough
+27/12/1930,7 - 1,Arsenal,Blackpool
+27/12/1930,7 - 0,Aston Villa,Manchester United
+27/12/1930,3 - 3,Blackburn Rovers,Liverpool
+27/12/1930,5 - 0,Chelsea,Grimsby Town
+27/12/1930,1 - 0,Derby County,Leicester City
+27/12/1930,2 - 0,Huddersfield Town,West Ham United
+27/12/1930,2 - 0,Manchester City,Sunderland
+27/12/1930,3 - 0,Middlesbrough,Bolton Wanderers
+27/12/1930,1 - 2,Newcastle United,Sheffield Wednesday
+27/12/1930,1 - 1,Portsmouth,Leeds United
+27/12/1930,3 - 1,Sheffield United,Birmingham City
+26/12/1930,3 - 1,Arsenal,Manchester City
+26/12/1930,3 - 3,Aston Villa,Chelsea
+26/12/1930,1 - 1,Derby County,Blackburn Rovers
+26/12/1930,0 - 3,Huddersfield Town,Newcastle United
+26/12/1930,3 - 1,Leeds United,Birmingham City
+26/12/1930,1 - 1,Leicester City,Sunderland
+26/12/1930,1 - 1,Liverpool,Grimsby Town
+26/12/1930,1 - 1,Manchester United,Bolton Wanderers
+26/12/1930,2 - 0,Middlesbrough,Sheffield Wednesday
+26/12/1930,2 - 0,Portsmouth,West Ham United
+26/12/1930,5 - 1,Sheffield United,Blackpool
+25/12/1930,0 - 1,Birmingham City,Leeds United
+25/12/1930,1 - 0,Blackburn Rovers,Derby County
+25/12/1930,2 - 1,Blackpool,Sheffield United
+25/12/1930,3 - 1,Bolton Wanderers,Manchester United
+25/12/1930,0 - 2,Chelsea,Aston Villa
+25/12/1930,0 - 0,Grimsby Town,Liverpool
+25/12/1930,1 - 4,Manchester City,Arsenal
+25/12/1930,2 - 5,Sunderland,Leicester City
+25/12/1930,4 - 3,West Ham United,Portsmouth
+20/12/1930,1 - 2,Arsenal,Newcastle United
+20/12/1930,2 - 0,Birmingham City,Liverpool
+20/12/1930,5 - 2,Blackburn Rovers,Sheffield Wednesday
+20/12/1930,3 - 1,Blackpool,Grimsby Town
+20/12/1930,4 - 1,Derby County,Huddersfield Town
+20/12/1930,5 - 0,Leeds United,Manchester United
+20/12/1930,2 - 1,Leicester City,Bolton Wanderers
+20/12/1930,3 - 1,Manchester City,Aston Villa
+20/12/1930,1 - 1,Portsmouth,Chelsea
+20/12/1930,4 - 2,Sheffield United,Middlesbrough
+20/12/1930,6 - 1,Sunderland,West Ham United
+13/12/1930,4 - 3,Aston Villa,Leeds United
+13/12/1930,3 - 1,Bolton Wanderers,Portsmouth
+13/12/1930,5 - 0,Chelsea,Sunderland
+13/12/1930,2 - 1,Grimsby Town,Sheffield United
+13/12/1930,10 - 1,Huddersfield Town,Blackpool
+13/12/1930,1 - 1,Liverpool,Arsenal
+13/12/1930,2 - 1,Manchester United,Derby County
+13/12/1930,4 - 1,Middlesbrough,Blackburn Rovers
+13/12/1930,5 - 2,Newcastle United,Leicester City
+13/12/1930,9 - 1,Sheffield Wednesday,Birmingham City
+13/12/1930,2 - 0,West Ham United,Manchester City
+06/12/1930,2 - 0,Birmingham City,Huddersfield Town
+06/12/1930,4 - 1,Blackburn Rovers,Manchester United
+06/12/1930,1 - 3,Blackpool,West Ham United
+06/12/1930,6 - 2,Derby County,Chelsea
+06/12/1930,3 - 1,Leeds United,Bolton Wanderers
+06/12/1930,0 - 3,Leicester City,Middlesbrough
+06/12/1930,2 - 0,Manchester City,Newcastle United
+06/12/1930,2 - 4,Portsmouth,Sheffield Wednesday
+06/12/1930,3 - 4,Sheffield United,Aston Villa
+06/12/1930,6 - 5,Sunderland,Liverpool
+03/12/1930,2 - 2,Aston Villa,Portsmouth
+29/11/1930,2 - 0,Bolton Wanderers,Birmingham City
+29/11/1930,1 - 5,Chelsea,Arsenal
+29/11/1930,2 - 0,Grimsby Town,Leeds United
+29/11/1930,1 - 1,Huddersfield Town,Manchester City
+29/11/1930,6 - 1,Liverpool,Sheffield United
+29/11/1930,1 - 1,Manchester United,Sunderland
+29/11/1930,4 - 1,Middlesbrough,Derby County
+29/11/1930,2 - 3,Newcastle United,Blackburn Rovers
+29/11/1930,7 - 1,Sheffield Wednesday,Blackpool
+29/11/1930,2 - 0,West Ham United,Leicester City
+22/11/1930,5 - 3,Arsenal,Middlesbrough
+22/11/1930,4 - 1,Birmingham City,Grimsby Town
+22/11/1930,5 - 3,Blackburn Rovers,Huddersfield Town
+22/11/1930,2 - 2,Blackpool,Aston Villa
+22/11/1930,1 - 1,Derby County,West Ham United
+22/11/1930,2 - 3,Leeds United,Chelsea
+22/11/1930,2 - 5,Leicester City,Sheffield Wednesday
+22/11/1930,3 - 0,Manchester City,Bolton Wanderers
+22/11/1930,4 - 0,Portsmouth,Liverpool
+22/11/1930,3 - 1,Sheffield United,Manchester United
+22/11/1930,5 - 0,Sunderland,Newcastle United
+15/11/1930,4 - 6,Aston Villa,Derby County
+15/11/1930,2 - 2,Bolton Wanderers,Sunderland
+15/11/1930,2 - 0,Chelsea,Manchester City
+15/11/1930,2 - 0,Grimsby Town,Blackburn Rovers
+15/11/1930,1 - 1,Huddersfield Town,Sheffield United
+15/11/1930,3 - 1,Liverpool,Leicester City
+15/11/1930,0 - 0,Manchester United,Blackpool
+15/11/1930,1 - 1,Middlesbrough,Birmingham City
+15/11/1930,4 - 7,Newcastle United,Portsmouth
+15/11/1930,1 - 2,Sheffield Wednesday,Arsenal
+15/11/1930,1 - 1,West Ham United,Leeds United
+08/11/1930,5 - 2,Arsenal,Aston Villa
+08/11/1930,0 - 2,Birmingham City,West Ham United
+08/11/1930,2 - 0,Blackburn Rovers,Chelsea
+08/11/1930,0 - 0,Blackpool,Newcastle United
+08/11/1930,2 - 2,Derby County,Liverpool
+08/11/1930,2 - 3,Leeds United,Sheffield Wednesday
+08/11/1930,5 - 4,Leicester City,Manchester United
+08/11/1930,4 - 2,Manchester City,Middlesbrough
+08/11/1930,2 - 2,Portsmouth,Huddersfield Town
+08/11/1930,2 - 0,Sheffield United,Bolton Wanderers
+08/11/1930,3 - 2,Sunderland,Grimsby Town
+01/11/1930,5 - 2,Aston Villa,Blackburn Rovers
+01/11/1930,1 - 2,Bolton Wanderers,Derby County
+01/11/1930,3 - 0,Chelsea,Blackpool
+01/11/1930,8 - 2,Grimsby Town,Leicester City
+01/11/1930,1 - 1,Huddersfield Town,Arsenal
+01/11/1930,0 - 2,Liverpool,Manchester City
+01/11/1930,2 - 0,Manchester United,Birmingham City
+01/11/1930,0 - 1,Middlesbrough,Portsmouth
+01/11/1930,4 - 1,Newcastle United,Leeds United
+01/11/1930,7 - 2,Sheffield Wednesday,Sunderland
+01/11/1930,4 - 1,West Ham United,Sheffield United
+25/10/1930,1 - 1,Arsenal,West Ham United
+25/10/1930,6 - 2,Birmingham City,Chelsea
+25/10/1930,2 - 2,Blackburn Rovers,Bolton Wanderers
+25/10/1930,1 - 3,Blackpool,Liverpool
+25/10/1930,2 - 3,Derby County,Sheffield Wednesday
+25/10/1930,7 - 0,Leeds United,Middlesbrough
+25/10/1930,4 - 1,Leicester City,Aston Villa
+25/10/1930,1 - 0,Manchester City,Grimsby Town
+25/10/1930,4 - 1,Portsmouth,Manchester United
+25/10/1930,3 - 1,Sheffield United,Newcastle United
+25/10/1930,4 - 2,Sunderland,Huddersfield Town
+18/10/1930,1 - 1,Aston Villa,Birmingham City
+18/10/1930,1 - 0,Bolton Wanderers,Blackpool
+18/10/1930,1 - 0,Chelsea,Sheffield United
+18/10/1930,0 - 3,Grimsby Town,Portsmouth
+18/10/1930,4 - 1,Huddersfield Town,Leicester City
+18/10/1930,2 - 0,Liverpool,Leeds United
+18/10/1930,1 - 2,Manchester United,Arsenal
+18/10/1930,1 - 0,Middlesbrough,Sunderland
+18/10/1930,2 - 5,Newcastle United,Derby County
+18/10/1930,1 - 1,Sheffield Wednesday,Manchester City
+18/10/1930,4 - 3,West Ham United,Blackburn Rovers
+11/10/1930,1 - 1,Birmingham City,Blackpool
+11/10/1930,4 - 2,Bolton Wanderers,Grimsby Town
+11/10/1930,4 - 2,Derby County,Arsenal
+11/10/1930,1 - 1,Huddersfield Town,Chelsea
+11/10/1930,4 - 0,Leicester City,Leeds United
+11/10/1930,1 - 2,Liverpool,Sheffield Wednesday
+11/10/1930,1 - 3,Manchester City,Portsmouth
+11/10/1930,3 - 1,Middlesbrough,Newcastle United
+11/10/1930,1 - 1,Sheffield United,Blackburn Rovers
+11/10/1930,1 - 1,Sunderland,Aston Villa
+11/10/1930,5 - 1,West Ham United,Manchester United
+04/10/1930,1 - 1,Arsenal,Sheffield United
+04/10/1930,6 - 1,Aston Villa,Huddersfield Town
+04/10/1930,2 - 1,Blackburn Rovers,Birmingham City
+04/10/1930,5 - 4,Blackpool,Leicester City
+04/10/1930,4 - 0,Chelsea,Middlesbrough
+04/10/1930,4 - 0,Grimsby Town,West Ham United
+04/10/1930,0 - 3,Leeds United,Sunderland
+04/10/1930,4 - 1,Manchester City,Manchester United
+04/10/1930,0 - 4,Newcastle United,Liverpool
+04/10/1930,2 - 0,Portsmouth,Derby County
+04/10/1930,1 - 0,Sheffield Wednesday,Bolton Wanderers
+27/09/1930,2 - 4,Birmingham City,Arsenal
+27/09/1930,0 - 3,Bolton Wanderers,Newcastle United
+27/09/1930,1 - 1,Derby County,Manchester City
+27/09/1930,1 - 2,Leeds United,Huddersfield Town
+27/09/1930,3 - 1,Leicester City,Blackburn Rovers
+27/09/1930,3 - 1,Liverpool,Chelsea
+27/09/1930,0 - 2,Manchester United,Grimsby Town
+27/09/1930,3 - 1,Middlesbrough,Aston Villa
+27/09/1930,3 - 1,Sheffield United,Portsmouth
+27/09/1930,2 - 4,Sunderland,Blackpool
+27/09/1930,3 - 3,West Ham United,Sheffield Wednesday
+24/09/1930,0 - 2,Sheffield United,Leicester City
+20/09/1930,4 - 1,Arsenal,Leicester City
+20/09/1930,4 - 2,Aston Villa,Liverpool
+20/09/1930,3 - 0,Blackburn Rovers,Sunderland
+20/09/1930,3 - 7,Blackpool,Leeds United
+20/09/1930,0 - 1,Chelsea,Bolton Wanderers
+20/09/1930,1 - 0,Derby County,Grimsby Town
+20/09/1930,2 - 2,Huddersfield Town,Middlesbrough
+20/09/1930,0 - 4,Manchester City,Sheffield United
+20/09/1930,4 - 2,Newcastle United,West Ham United
+20/09/1930,2 - 2,Portsmouth,Birmingham City
+20/09/1930,3 - 0,Sheffield Wednesday,Manchester United
+17/09/1930,4 - 1,Derby County,Sunderland
+17/09/1930,1 - 0,Manchester City,Leeds United
+17/09/1930,2 - 2,Middlesbrough,West Ham United
+17/09/1930,2 - 2,Newcastle United,Birmingham City
+17/09/1930,4 - 3,Portsmouth,Blackpool
+15/09/1930,2 - 0,Aston Villa,Grimsby Town
+15/09/1930,2 - 2,Blackburn Rovers,Arsenal
+15/09/1930,0 - 0,Chelsea,Sheffield Wednesday
+15/09/1930,3 - 0,Huddersfield Town,Manchester United
+13/09/1930,3 - 2,Birmingham City,Manchester City
+13/09/1930,3 - 2,Blackpool,Middlesbrough
+13/09/1930,1 - 1,Bolton Wanderers,Aston Villa
+13/09/1930,2 - 3,Grimsby Town,Sheffield Wednesday
+13/09/1930,4 - 2,Leeds United,Blackburn Rovers
+13/09/1930,3 - 1,Leicester City,Portsmouth
+13/09/1930,1 - 4,Liverpool,Huddersfield Town
+13/09/1930,4 - 7,Manchester United,Newcastle United
+13/09/1930,3 - 3,Sheffield United,Derby County
+13/09/1930,1 - 4,Sunderland,Arsenal
+13/09/1930,4 - 1,West Ham United,Chelsea
+10/09/1930,3 - 2,Arsenal,Blackburn Rovers
+10/09/1930,1 - 1,Birmingham City,Newcastle United
+10/09/1930,2 - 2,Blackpool,Portsmouth
+10/09/1930,7 - 2,Liverpool,Bolton Wanderers
+10/09/1930,0 - 6,Manchester United,Huddersfield Town
+10/09/1930,1 - 3,Sunderland,Derby County
+09/09/1930,1 - 2,Grimsby Town,Aston Villa
+08/09/1930,4 - 2,Leeds United,Manchester City
+08/09/1930,2 - 2,Leicester City,Sheffield United
+08/09/1930,1 - 1,Sheffield Wednesday,Chelsea
+08/09/1930,0 - 3,West Ham United,Middlesbrough
+06/09/1930,3 - 1,Arsenal,Leeds United
+06/09/1930,6 - 1,Aston Villa,West Ham United
+06/09/1930,5 - 0,Blackburn Rovers,Blackpool
+06/09/1930,6 - 2,Chelsea,Manchester United
+06/09/1930,0 - 0,Derby County,Birmingham City
+06/09/1930,3 - 2,Huddersfield Town,Bolton Wanderers
+06/09/1930,0 - 2,Manchester City,Leicester City
+06/09/1930,3 - 3,Middlesbrough,Liverpool
+06/09/1930,1 - 2,Newcastle United,Grimsby Town
+06/09/1930,1 - 1,Portsmouth,Sunderland
+06/09/1930,1 - 1,Sheffield United,Sheffield Wednesday
+03/09/1930,4 - 1,Derby County,Leeds United
+03/09/1930,2 - 4,Manchester City,Blackpool
+03/09/1930,3 - 1,Middlesbrough,Manchester United
+03/09/1930,1 - 0,Newcastle United,Chelsea
+03/09/1930,3 - 3,Sheffield United,Sunderland
+01/09/1930,2 - 0,Aston Villa,Sheffield Wednesday
+01/09/1930,1 - 2,Blackburn Rovers,Portsmouth
+01/09/1930,1 - 4,Bolton Wanderers,Arsenal
+01/09/1930,2 - 2,Huddersfield Town,Grimsby Town
+01/09/1930,2 - 1,Leicester City,Birmingham City
+01/09/1930,7 - 0,West Ham United,Liverpool
+30/08/1930,3 - 1,Birmingham City,Sheffield United
+30/08/1930,1 - 4,Blackpool,Arsenal
+30/08/1930,3 - 0,Bolton Wanderers,Middlesbrough
+30/08/1930,0 - 1,Grimsby Town,Chelsea
+30/08/1930,2 - 2,Leeds United,Portsmouth
+30/08/1930,1 - 1,Leicester City,Derby County
+30/08/1930,2 - 1,Liverpool,Blackburn Rovers
+30/08/1930,3 - 4,Manchester United,Aston Villa
+30/08/1930,2 - 1,Sheffield Wednesday,Newcastle United
+30/08/1930,3 - 3,Sunderland,Manchester City
+30/08/1930,2 - 1,West Ham United,Huddersfield Town

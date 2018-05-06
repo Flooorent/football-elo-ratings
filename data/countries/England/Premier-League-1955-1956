@@ -1,0 +1,463 @@
+date,score,home_team,away_team
+02/05/1956,3 - 3,Sheffield United,Wolverhampton Wanderers
+28/04/1956,3 - 0,Aston Villa,West Bromwich Albion
+28/04/1956,1 - 2,Cardiff City,Arsenal
+28/04/1956,2 - 1,Chelsea,Blackpool
+28/04/1956,3 - 1,Huddersfield Town,Bolton Wanderers
+28/04/1956,2 - 3,Luton Town,Burnley
+28/04/1956,2 - 4,Portsmouth,Manchester City
+28/04/1956,3 - 1,Tottenham Hotspur,Sheffield United
+28/04/1956,3 - 1,Wolverhampton Wanderers,Sunderland
+23/04/1956,0 - 0,Cardiff City,Tottenham Hotspur
+21/04/1956,5 - 2,Birmingham City,Bolton Wanderers
+21/04/1956,1 - 2,Burnley,Wolverhampton Wanderers
+21/04/1956,0 - 0,Charlton Athletic,Cardiff City
+21/04/1956,1 - 0,Everton,Blackpool
+21/04/1956,3 - 2,Luton Town,Manchester City
+21/04/1956,1 - 0,Manchester United,Portsmouth
+21/04/1956,1 - 1,Newcastle United,Chelsea
+21/04/1956,0 - 1,Preston North End,Aston Villa
+21/04/1956,2 - 3,Sheffield United,Sunderland
+21/04/1956,1 - 2,Tottenham Hotspur,Huddersfield Town
+21/04/1956,2 - 1,West Bromwich Albion,Arsenal
+18/04/1956,1 - 0,Sunderland,Birmingham City
+18/04/1956,5 - 1,Wolverhampton Wanderers,Tottenham Hotspur
+14/04/1956,1 - 0,Arsenal,Birmingham City
+14/04/1956,3 - 2,Aston Villa,Sheffield United
+14/04/1956,0 - 2,Blackpool,Tottenham Hotspur
+14/04/1956,3 - 2,Bolton Wanderers,Newcastle United
+14/04/1956,2 - 0,Cardiff City,Luton Town
+14/04/1956,6 - 1,Chelsea,Everton
+14/04/1956,4 - 0,Huddersfield Town,Charlton Athletic
+14/04/1956,1 - 3,Manchester City,Burnley
+14/04/1956,1 - 1,Portsmouth,West Bromwich Albion
+14/04/1956,2 - 2,Sunderland,Manchester United
+14/04/1956,2 - 1,Wolverhampton Wanderers,Preston North End
+11/04/1956,3 - 1,Manchester City,Sheffield United
+07/04/1956,2 - 1,Birmingham City,Cardiff City
+07/04/1956,0 - 1,Burnley,Arsenal
+07/04/1956,2 - 1,Charlton Athletic,Sunderland
+07/04/1956,2 - 1,Everton,Wolverhampton Wanderers
+07/04/1956,1 - 0,Luton Town,Portsmouth
+07/04/1956,2 - 1,Manchester United,Blackpool
+07/04/1956,3 - 1,Newcastle United,Manchester City
+07/04/1956,0 - 1,Preston North End,Bolton Wanderers
+07/04/1956,2 - 1,Sheffield United,Chelsea
+07/04/1956,4 - 3,Tottenham Hotspur,Aston Villa
+07/04/1956,1 - 2,West Bromwich Albion,Huddersfield Town
+03/04/1956,0 - 0,Aston Villa,Wolverhampton Wanderers
+03/04/1956,0 - 1,Huddersfield Town,Arsenal
+03/04/1956,0 - 2,West Bromwich Albion,Birmingham City
+02/04/1956,2 - 0,Arsenal,Huddersfield Town
+02/04/1956,2 - 0,Birmingham City,West Bromwich Albion
+02/04/1956,1 - 3,Bolton Wanderers,Blackpool
+02/04/1956,2 - 1,Burnley,Charlton Athletic
+02/04/1956,2 - 3,Cardiff City,Portsmouth
+02/04/1956,0 - 0,Chelsea,Luton Town
+02/04/1956,4 - 2,Manchester City,Sunderland
+02/04/1956,0 - 0,Newcastle United,Manchester United
+02/04/1956,3 - 3,Preston North End,Tottenham Hotspur
+02/04/1956,1 - 1,Sheffield United,Everton
+02/04/1956,0 - 0,Wolverhampton Wanderers,Aston Villa
+31/03/1956,3 - 0,Arsenal,Luton Town
+31/03/1956,2 - 0,Aston Villa,Everton
+31/03/1956,1 - 1,Blackpool,Sheffield United
+31/03/1956,0 - 1,Bolton Wanderers,Burnley
+31/03/1956,1 - 3,Cardiff City,West Bromwich Albion
+31/03/1956,0 - 1,Chelsea,Preston North End
+31/03/1956,0 - 2,Huddersfield Town,Manchester United
+31/03/1956,1 - 1,Manchester City,Birmingham City
+31/03/1956,4 - 0,Portsmouth,Charlton Athletic
+31/03/1956,3 - 2,Sunderland,Tottenham Hotspur
+31/03/1956,2 - 1,Wolverhampton Wanderers,Newcastle United
+30/03/1956,0 - 0,Blackpool,Bolton Wanderers
+30/03/1956,2 - 1,Charlton Athletic,Burnley
+30/03/1956,1 - 4,Everton,Sheffield United
+30/03/1956,2 - 2,Luton Town,Chelsea
+30/03/1956,5 - 2,Manchester United,Newcastle United
+30/03/1956,1 - 1,Portsmouth,Cardiff City
+30/03/1956,0 - 3,Sunderland,Manchester City
+30/03/1956,0 - 4,Tottenham Hotspur,Preston North End
+24/03/1956,1 - 2,Birmingham City,Blackpool
+24/03/1956,4 - 0,Burnley,Sunderland
+24/03/1956,0 - 2,Charlton Athletic,Wolverhampton Wanderers
+24/03/1956,2 - 0,Everton,Cardiff City
+24/03/1956,2 - 1,Luton Town,Aston Villa
+24/03/1956,1 - 0,Manchester United,Bolton Wanderers
+24/03/1956,1 - 1,Newcastle United,Huddersfield Town
+24/03/1956,2 - 1,Preston North End,Portsmouth
+24/03/1956,0 - 2,Sheffield United,Arsenal
+24/03/1956,2 - 1,Tottenham Hotspur,Manchester City
+24/03/1956,3 - 0,West Bromwich Albion,Chelsea
+21/03/1956,3 - 2,Bolton Wanderers,Tottenham Hotspur
+21/03/1956,1 - 2,Chelsea,Birmingham City
+21/03/1956,0 - 2,Manchester City,Charlton Athletic
+21/03/1956,2 - 2,Sunderland,Preston North End
+19/03/1956,2 - 0,Aston Villa,Burnley
+17/03/1956,1 - 1,Arsenal,Manchester United
+17/03/1956,5 - 1,Blackpool,Newcastle United
+17/03/1956,4 - 0,Bolton Wanderers,West Bromwich Albion
+17/03/1956,1 - 0,Huddersfield Town,Everton
+17/03/1956,1 - 1,Portsmouth,Sheffield United
+17/03/1956,1 - 2,Wolverhampton Wanderers,Luton Town
+10/03/1956,0 - 0,Birmingham City,Wolverhampton Wanderers
+10/03/1956,5 - 0,Burnley,Chelsea
+10/03/1956,2 - 0,Charlton Athletic,Arsenal
+10/03/1956,1 - 2,Everton,Sunderland
+10/03/1956,0 - 0,Luton Town,Bolton Wanderers
+10/03/1956,1 - 1,Manchester United,Cardiff City
+10/03/1956,2 - 3,Newcastle United,Aston Villa
+10/03/1956,3 - 3,Preston North End,Blackpool
+10/03/1956,3 - 1,Sheffield United,Huddersfield Town
+10/03/1956,1 - 1,Tottenham Hotspur,Portsmouth
+10/03/1956,0 - 4,West Bromwich Albion,Manchester City
+07/03/1956,1 - 1,Cardiff City,Newcastle United
+07/03/1956,1 - 1,Huddersfield Town,Birmingham City
+07/03/1956,3 - 0,Manchester City,Everton
+07/03/1956,1 - 2,Sunderland,Luton Town
+06/03/1956,3 - 2,Arsenal,Preston North End
+03/03/1956,1 - 1,Aston Villa,Charlton Athletic
+03/03/1956,5 - 1,Blackpool,West Bromwich Albion
+03/03/1956,2 - 1,Bolton Wanderers,Sheffield United
+03/03/1956,2 - 4,Chelsea,Manchester United
+03/03/1956,3 - 1,Portsmouth,Burnley
+25/02/1956,3 - 2,Birmingham City,Portsmouth
+25/02/1956,0 - 2,Burnley,Cardiff City
+25/02/1956,1 - 2,Charlton Athletic,Blackpool
+25/02/1956,1 - 0,Everton,Bolton Wanderers
+25/02/1956,1 - 2,Luton Town,Huddersfield Town
+25/02/1956,1 - 0,Manchester United,Aston Villa
+25/02/1956,2 - 0,Newcastle United,Arsenal
+25/02/1956,0 - 3,Preston North End,Manchester City
+25/02/1956,4 - 0,Tottenham Hotspur,Chelsea
+25/02/1956,3 - 0,West Bromwich Albion,Sunderland
+22/02/1956,3 - 1,Chelsea,Charlton Athletic
+22/02/1956,0 - 2,Portsmouth,Newcastle United
+21/02/1956,3 - 2,Arsenal,Everton
+18/02/1956,3 - 2,Blackpool,Luton Town
+18/02/1956,1 - 0,Bolton Wanderers,Aston Villa
+18/02/1956,3 - 1,Cardiff City,Preston North End
+18/02/1956,1 - 0,Huddersfield Town,Burnley
+18/02/1956,0 - 2,Wolverhampton Wanderers,Manchester United
+11/02/1956,1 - 1,Aston Villa,Arsenal
+11/02/1956,1 - 1,Burnley,Sheffield United
+11/02/1956,1 - 0,Cardiff City,Blackpool
+11/02/1956,5 - 1,Charlton Athletic,West Bromwich Albion
+11/02/1956,0 - 0,Everton,Newcastle United
+11/02/1956,0 - 2,Luton Town,Manchester United
+11/02/1956,2 - 2,Manchester City,Chelsea
+11/02/1956,1 - 2,Preston North End,Huddersfield Town
+11/02/1956,4 - 2,Sunderland,Portsmouth
+11/02/1956,0 - 1,Tottenham Hotspur,Birmingham City
+11/02/1956,4 - 2,Wolverhampton Wanderers,Bolton Wanderers
+04/02/1956,3 - 1,Arsenal,Sunderland
+04/02/1956,4 - 0,Birmingham City,Charlton Athletic
+04/02/1956,0 - 1,Blackpool,Manchester City
+04/02/1956,2 - 3,Chelsea,Wolverhampton Wanderers
+04/02/1956,0 - 2,Everton,Portsmouth
+04/02/1956,1 - 2,Huddersfield Town,Cardiff City
+04/02/1956,2 - 0,Manchester United,Burnley
+04/02/1956,1 - 2,Newcastle United,Tottenham Hotspur
+04/02/1956,3 - 1,Sheffield United,Preston North End
+04/02/1956,3 - 1,West Bromwich Albion,Luton Town
+21/01/1956,1 - 4,Aston Villa,Chelsea
+21/01/1956,1 - 2,Burnley,West Bromwich Albion
+21/01/1956,0 - 2,Charlton Athletic,Newcastle United
+21/01/1956,0 - 1,Luton Town,Birmingham City
+21/01/1956,1 - 0,Manchester City,Huddersfield Town
+21/01/1956,5 - 2,Portsmouth,Arsenal
+21/01/1956,3 - 1,Preston North End,Manchester United
+21/01/1956,2 - 1,Sheffield United,Cardiff City
+21/01/1956,0 - 0,Sunderland,Bolton Wanderers
+21/01/1956,1 - 1,Tottenham Hotspur,Everton
+21/01/1956,2 - 3,Wolverhampton Wanderers,Blackpool
+14/01/1956,0 - 1,Arsenal,Tottenham Hotspur
+14/01/1956,1 - 2,Birmingham City,Burnley
+14/01/1956,6 - 0,Blackpool,Aston Villa
+14/01/1956,4 - 0,Bolton Wanderers,Portsmouth
+14/01/1956,4 - 1,Cardiff City,Manchester City
+14/01/1956,2 - 3,Chelsea,Sunderland
+14/01/1956,3 - 2,Everton,Charlton Athletic
+14/01/1956,1 - 3,Huddersfield Town,Wolverhampton Wanderers
+14/01/1956,3 - 1,Manchester United,Sheffield United
+14/01/1956,4 - 0,Newcastle United,Luton Town
+14/01/1956,3 - 2,West Bromwich Albion,Preston North End
+02/01/1956,2 - 2,Bolton Wanderers,Huddersfield Town
+02/01/1956,4 - 1,Manchester City,Portsmouth
+02/01/1956,0 - 3,Newcastle United,West Bromwich Albion
+02/01/1956,1 - 1,Sunderland,Wolverhampton Wanderers
+31/12/1955,3 - 1,Arsenal,Bolton Wanderers
+31/12/1955,3 - 0,Aston Villa,Huddersfield Town
+31/12/1955,3 - 1,Burnley,Newcastle United
+31/12/1955,1 - 2,Charlton Athletic,Tottenham Hotspur
+31/12/1955,2 - 2,Luton Town,Everton
+31/12/1955,2 - 1,Manchester United,Manchester City
+31/12/1955,4 - 4,Portsmouth,Chelsea
+31/12/1955,1 - 1,Preston North End,Birmingham City
+31/12/1955,2 - 2,Sheffield United,West Bromwich Albion
+31/12/1955,0 - 0,Sunderland,Blackpool
+31/12/1955,0 - 2,Wolverhampton Wanderers,Cardiff City
+27/12/1955,2 - 2,Arsenal,Wolverhampton Wanderers
+27/12/1955,3 - 0,Charlton Athletic,Manchester United
+27/12/1955,2 - 1,Chelsea,Cardiff City
+27/12/1955,5 - 1,Everton,Birmingham City
+27/12/1955,3 - 1,Huddersfield Town,Blackpool
+27/12/1955,2 - 1,Luton Town,Sheffield United
+27/12/1955,2 - 0,Manchester City,Bolton Wanderers
+27/12/1955,3 - 1,Newcastle United,Sunderland
+27/12/1955,2 - 2,Portsmouth,Aston Villa
+27/12/1955,4 - 2,Preston North End,Burnley
+27/12/1955,1 - 0,West Bromwich Albion,Tottenham Hotspur
+26/12/1955,1 - 3,Aston Villa,Portsmouth
+26/12/1955,6 - 2,Birmingham City,Everton
+26/12/1955,4 - 2,Blackpool,Huddersfield Town
+26/12/1955,1 - 3,Bolton Wanderers,Manchester City
+26/12/1955,1 - 2,Burnley,Preston North End
+26/12/1955,1 - 1,Cardiff City,Chelsea
+26/12/1955,5 - 1,Manchester United,Charlton Athletic
+26/12/1955,0 - 4,Sheffield United,Luton Town
+26/12/1955,1 - 6,Sunderland,Newcastle United
+26/12/1955,4 - 1,Tottenham Hotspur,West Bromwich Albion
+26/12/1955,3 - 3,Wolverhampton Wanderers,Arsenal
+24/12/1955,0 - 2,Birmingham City,Sheffield United
+24/12/1955,2 - 3,Blackpool,Portsmouth
+24/12/1955,1 - 0,Cardiff City,Aston Villa
+24/12/1955,3 - 1,Charlton Athletic,Bolton Wanderers
+24/12/1955,2 - 0,Chelsea,Arsenal
+24/12/1955,1 - 1,Everton,Burnley
+24/12/1955,4 - 0,Huddersfield Town,Sunderland
+24/12/1955,2 - 2,Manchester City,Wolverhampton Wanderers
+24/12/1955,5 - 0,Newcastle United,Preston North End
+24/12/1955,2 - 1,Tottenham Hotspur,Luton Town
+24/12/1955,1 - 4,West Bromwich Albion,Manchester United
+17/12/1955,4 - 1,Arsenal,Blackpool
+17/12/1955,0 - 3,Aston Villa,Manchester City
+17/12/1955,4 - 0,Bolton Wanderers,Chelsea
+17/12/1955,2 - 0,Burnley,Tottenham Hotspur
+17/12/1955,2 - 1,Luton Town,Charlton Athletic
+17/12/1955,2 - 1,Manchester United,Birmingham City
+17/12/1955,5 - 2,Portsmouth,Huddersfield Town
+17/12/1955,0 - 1,Preston North End,Everton
+17/12/1955,2 - 1,Sheffield United,Newcastle United
+17/12/1955,1 - 1,Sunderland,Cardiff City
+17/12/1955,3 - 2,Wolverhampton Wanderers,West Bromwich Albion
+10/12/1955,2 - 0,Arsenal,West Bromwich Albion
+10/12/1955,3 - 2,Aston Villa,Preston North End
+10/12/1955,4 - 0,Blackpool,Everton
+10/12/1955,6 - 0,Bolton Wanderers,Birmingham City
+10/12/1955,3 - 1,Cardiff City,Charlton Athletic
+10/12/1955,2 - 1,Chelsea,Newcastle United
+10/12/1955,1 - 0,Huddersfield Town,Tottenham Hotspur
+10/12/1955,3 - 2,Manchester City,Luton Town
+10/12/1955,3 - 2,Portsmouth,Manchester United
+10/12/1955,3 - 2,Sunderland,Sheffield United
+10/12/1955,3 - 1,Wolverhampton Wanderers,Burnley
+03/12/1955,4 - 0,Birmingham City,Arsenal
+03/12/1955,2 - 2,Burnley,Manchester City
+03/12/1955,4 - 1,Charlton Athletic,Huddersfield Town
+03/12/1955,3 - 3,Everton,Chelsea
+03/12/1955,3 - 0,Luton Town,Cardiff City
+03/12/1955,2 - 1,Manchester United,Sunderland
+03/12/1955,3 - 0,Newcastle United,Bolton Wanderers
+03/12/1955,2 - 0,Preston North End,Wolverhampton Wanderers
+03/12/1955,2 - 2,Sheffield United,Aston Villa
+03/12/1955,1 - 1,Tottenham Hotspur,Blackpool
+03/12/1955,4 - 0,West Bromwich Albion,Portsmouth
+26/11/1955,0 - 1,Arsenal,Burnley
+26/11/1955,0 - 2,Aston Villa,Tottenham Hotspur
+26/11/1955,0 - 0,Blackpool,Manchester United
+26/11/1955,0 - 0,Bolton Wanderers,Preston North End
+26/11/1955,2 - 1,Cardiff City,Birmingham City
+26/11/1955,1 - 0,Chelsea,Sheffield United
+26/11/1955,1 - 0,Huddersfield Town,West Bromwich Albion
+26/11/1955,1 - 2,Manchester City,Newcastle United
+26/11/1955,0 - 0,Portsmouth,Luton Town
+26/11/1955,3 - 2,Sunderland,Charlton Athletic
+26/11/1955,1 - 0,Wolverhampton Wanderers,Everton
+19/11/1955,5 - 0,Birmingham City,Huddersfield Town
+19/11/1955,3 - 0,Burnley,Portsmouth
+19/11/1955,3 - 1,Charlton Athletic,Aston Villa
+19/11/1955,1 - 1,Everton,Manchester City
+19/11/1955,8 - 2,Luton Town,Sunderland
+19/11/1955,3 - 0,Manchester United,Chelsea
+19/11/1955,4 - 0,Newcastle United,Cardiff City
+19/11/1955,0 - 1,Preston North End,Arsenal
+19/11/1955,1 - 3,Sheffield United,Bolton Wanderers
+19/11/1955,2 - 1,Tottenham Hotspur,Wolverhampton Wanderers
+19/11/1955,1 - 2,West Bromwich Albion,Blackpool
+12/11/1955,2 - 1,Arsenal,Sheffield United
+12/11/1955,1 - 0,Aston Villa,Luton Town
+12/11/1955,2 - 0,Blackpool,Birmingham City
+12/11/1955,3 - 1,Bolton Wanderers,Manchester United
+12/11/1955,3 - 1,Cardiff City,Everton
+12/11/1955,2 - 0,Chelsea,West Bromwich Albion
+12/11/1955,2 - 6,Huddersfield Town,Newcastle United
+12/11/1955,1 - 2,Manchester City,Tottenham Hotspur
+12/11/1955,0 - 2,Portsmouth,Preston North End
+12/11/1955,4 - 4,Sunderland,Burnley
+12/11/1955,2 - 0,Wolverhampton Wanderers,Charlton Athletic
+05/11/1955,3 - 0,Birmingham City,Chelsea
+05/11/1955,2 - 0,Burnley,Aston Villa
+05/11/1955,5 - 2,Charlton Athletic,Manchester City
+05/11/1955,5 - 2,Everton,Huddersfield Town
+05/11/1955,5 - 1,Luton Town,Wolverhampton Wanderers
+05/11/1955,1 - 1,Manchester United,Arsenal
+05/11/1955,1 - 2,Newcastle United,Blackpool
+05/11/1955,2 - 2,Preston North End,Sunderland
+05/11/1955,1 - 3,Sheffield United,Portsmouth
+05/11/1955,1 - 1,Tottenham Hotspur,Cardiff City
+05/11/1955,2 - 0,West Bromwich Albion,Bolton Wanderers
+29/10/1955,2 - 4,Arsenal,Charlton Athletic
+29/10/1955,3 - 0,Aston Villa,Newcastle United
+29/10/1955,2 - 6,Blackpool,Preston North End
+29/10/1955,4 - 0,Bolton Wanderers,Luton Town
+29/10/1955,0 - 1,Cardiff City,Manchester United
+29/10/1955,0 - 0,Chelsea,Burnley
+29/10/1955,1 - 2,Huddersfield Town,Sheffield United
+29/10/1955,2 - 0,Manchester City,West Bromwich Albion
+29/10/1955,4 - 1,Portsmouth,Tottenham Hotspur
+29/10/1955,0 - 0,Sunderland,Everton
+29/10/1955,1 - 0,Wolverhampton Wanderers,Birmingham City
+22/10/1955,4 - 3,Birmingham City,Manchester City
+22/10/1955,2 - 0,Burnley,Bolton Wanderers
+22/10/1955,6 - 1,Charlton Athletic,Portsmouth
+22/10/1955,2 - 1,Everton,Aston Villa
+22/10/1955,0 - 0,Luton Town,Arsenal
+22/10/1955,3 - 0,Manchester United,Huddersfield Town
+22/10/1955,3 - 1,Newcastle United,Wolverhampton Wanderers
+22/10/1955,2 - 3,Preston North End,Chelsea
+22/10/1955,2 - 1,Sheffield United,Blackpool
+22/10/1955,2 - 3,Tottenham Hotspur,Sunderland
+22/10/1955,2 - 1,West Bromwich Albion,Cardiff City
+15/10/1955,1 - 0,Arsenal,Newcastle United
+15/10/1955,4 - 4,Aston Villa,Manchester United
+15/10/1955,5 - 0,Blackpool,Charlton Athletic
+15/10/1955,1 - 1,Bolton Wanderers,Everton
+15/10/1955,2 - 2,Cardiff City,Burnley
+15/10/1955,2 - 0,Chelsea,Tottenham Hotspur
+15/10/1955,0 - 2,Huddersfield Town,Luton Town
+15/10/1955,0 - 2,Manchester City,Preston North End
+15/10/1955,0 - 5,Portsmouth,Birmingham City
+15/10/1955,2 - 1,Sunderland,West Bromwich Albion
+15/10/1955,3 - 2,Wolverhampton Wanderers,Sheffield United
+08/10/1955,1 - 2,Birmingham City,Sunderland
+08/10/1955,2 - 0,Burnley,Huddersfield Town
+08/10/1955,1 - 2,Charlton Athletic,Chelsea
+08/10/1955,1 - 1,Everton,Arsenal
+08/10/1955,3 - 1,Luton Town,Blackpool
+08/10/1955,4 - 3,Manchester United,Wolverhampton Wanderers
+08/10/1955,2 - 1,Newcastle United,Portsmouth
+08/10/1955,1 - 2,Preston North End,Cardiff City
+08/10/1955,1 - 1,Sheffield United,Manchester City
+08/10/1955,0 - 3,Tottenham Hotspur,Bolton Wanderers
+08/10/1955,1 - 0,West Bromwich Albion,Aston Villa
+01/10/1955,1 - 0,Arsenal,Aston Villa
+01/10/1955,3 - 0,Birmingham City,Tottenham Hotspur
+01/10/1955,2 - 1,Blackpool,Cardiff City
+01/10/1955,2 - 1,Bolton Wanderers,Wolverhampton Wanderers
+01/10/1955,2 - 1,Chelsea,Manchester City
+01/10/1955,2 - 2,Huddersfield Town,Preston North End
+01/10/1955,3 - 1,Manchester United,Luton Town
+01/10/1955,1 - 2,Newcastle United,Everton
+01/10/1955,2 - 1,Portsmouth,Sunderland
+01/10/1955,1 - 2,Sheffield United,Burnley
+01/10/1955,3 - 3,West Bromwich Albion,Charlton Athletic
+24/09/1955,0 - 2,Aston Villa,Bolton Wanderers
+24/09/1955,0 - 0,Burnley,Manchester United
+24/09/1955,1 - 2,Cardiff City,Huddersfield Town
+24/09/1955,2 - 0,Charlton Athletic,Birmingham City
+24/09/1955,0 - 2,Luton Town,West Bromwich Albion
+24/09/1955,2 - 0,Manchester City,Blackpool
+24/09/1955,1 - 0,Portsmouth,Everton
+24/09/1955,0 - 2,Preston North End,Sheffield United
+24/09/1955,3 - 1,Sunderland,Arsenal
+24/09/1955,3 - 1,Tottenham Hotspur,Newcastle United
+24/09/1955,2 - 1,Wolverhampton Wanderers,Chelsea
+21/09/1955,2 - 2,Birmingham City,Aston Villa
+17/09/1955,1 - 3,Arsenal,Portsmouth
+17/09/1955,0 - 0,Birmingham City,Luton Town
+17/09/1955,2 - 1,Blackpool,Wolverhampton Wanderers
+17/09/1955,0 - 3,Bolton Wanderers,Sunderland
+17/09/1955,3 - 2,Cardiff City,Sheffield United
+17/09/1955,0 - 0,Chelsea,Aston Villa
+17/09/1955,2 - 1,Everton,Tottenham Hotspur
+17/09/1955,3 - 3,Huddersfield Town,Manchester City
+17/09/1955,3 - 2,Manchester United,Preston North End
+17/09/1955,4 - 1,Newcastle United,Charlton Athletic
+17/09/1955,1 - 0,West Bromwich Albion,Burnley
+15/09/1955,2 - 1,Charlton Athletic,Preston North End
+14/09/1955,4 - 2,Everton,Manchester United
+10/09/1955,1 - 1,Aston Villa,Blackpool
+10/09/1955,3 - 2,Burnley,Birmingham City
+10/09/1955,0 - 2,Charlton Athletic,Everton
+10/09/1955,4 - 2,Luton Town,Newcastle United
+10/09/1955,3 - 1,Manchester City,Cardiff City
+10/09/1955,3 - 3,Portsmouth,Bolton Wanderers
+10/09/1955,0 - 1,Preston North End,West Bromwich Albion
+10/09/1955,1 - 0,Sheffield United,Manchester United
+10/09/1955,4 - 3,Sunderland,Chelsea
+10/09/1955,3 - 1,Tottenham Hotspur,Arsenal
+10/09/1955,4 - 0,Wolverhampton Wanderers,Huddersfield Town
+07/09/1955,4 - 0,Bolton Wanderers,Cardiff City
+07/09/1955,2 - 1,Manchester United,Everton
+07/09/1955,2 - 2,Preston North End,Charlton Athletic
+07/09/1955,1 - 1,West Bromwich Albion,Newcastle United
+06/09/1955,0 - 0,Arsenal,Manchester City
+05/09/1955,0 - 0,Aston Villa,Birmingham City
+05/09/1955,2 - 1,Blackpool,Chelsea
+05/09/1955,3 - 1,Burnley,Luton Town
+05/09/1955,2 - 0,Sheffield United,Tottenham Hotspur
+03/09/1955,0 - 3,Birmingham City,Preston North End
+03/09/1955,7 - 3,Blackpool,Sunderland
+03/09/1955,4 - 1,Bolton Wanderers,Arsenal
+03/09/1955,1 - 9,Cardiff City,Wolverhampton Wanderers
+03/09/1955,1 - 5,Chelsea,Portsmouth
+03/09/1955,0 - 1,Everton,Luton Town
+03/09/1955,1 - 1,Huddersfield Town,Aston Villa
+03/09/1955,1 - 0,Manchester City,Manchester United
+03/09/1955,3 - 1,Newcastle United,Burnley
+03/09/1955,2 - 3,Tottenham Hotspur,Charlton Athletic
+03/09/1955,2 - 1,West Bromwich Albion,Sheffield United
+01/09/1955,3 - 2,Charlton Athletic,Sheffield United
+31/08/1955,3 - 1,Birmingham City,Newcastle United
+31/08/1955,1 - 0,Cardiff City,Bolton Wanderers
+31/08/1955,2 - 0,Everton,West Bromwich Albion
+31/08/1955,2 - 1,Luton Town,Preston North End
+31/08/1955,2 - 2,Manchester City,Arsenal
+31/08/1955,1 - 2,Tottenham Hotspur,Manchester United
+31/08/1955,3 - 1,Wolverhampton Wanderers,Portsmouth
+29/08/1955,1 - 4,Aston Villa,Sunderland
+29/08/1955,1 - 1,Blackpool,Burnley
+29/08/1955,0 - 0,Chelsea,Huddersfield Town
+27/08/1955,1 - 1,Arsenal,Chelsea
+27/08/1955,2 - 0,Aston Villa,Cardiff City
+27/08/1955,1 - 3,Bolton Wanderers,Charlton Athletic
+27/08/1955,0 - 1,Burnley,Everton
+27/08/1955,2 - 1,Luton Town,Tottenham Hotspur
+27/08/1955,3 - 1,Manchester United,West Bromwich Albion
+27/08/1955,3 - 3,Portsmouth,Blackpool
+27/08/1955,4 - 3,Preston North End,Newcastle United
+27/08/1955,0 - 3,Sheffield United,Birmingham City
+27/08/1955,4 - 1,Sunderland,Huddersfield Town
+27/08/1955,7 - 2,Wolverhampton Wanderers,Manchester City
+24/08/1955,1 - 3,Huddersfield Town,Chelsea
+24/08/1955,2 - 2,Manchester United,Tottenham Hotspur
+24/08/1955,2 - 2,Newcastle United,Birmingham City
+24/08/1955,2 - 1,Portsmouth,Wolverhampton Wanderers
+24/08/1955,2 - 1,Preston North End,Luton Town
+24/08/1955,5 - 1,Sunderland,Aston Villa
+24/08/1955,2 - 0,West Bromwich Albion,Everton
+23/08/1955,3 - 1,Arsenal,Cardiff City
+22/08/1955,0 - 2,Burnley,Blackpool
+22/08/1955,0 - 0,Sheffield United,Charlton Athletic
+20/08/1955,2 - 2,Birmingham City,Manchester United
+20/08/1955,3 - 1,Blackpool,Arsenal
+20/08/1955,3 - 1,Cardiff City,Sunderland
+20/08/1955,2 - 2,Charlton Athletic,Luton Town
+20/08/1955,0 - 2,Chelsea,Bolton Wanderers
+20/08/1955,0 - 4,Everton,Preston North End
+20/08/1955,1 - 0,Huddersfield Town,Portsmouth
+20/08/1955,2 - 2,Manchester City,Aston Villa
+20/08/1955,4 - 2,Newcastle United,Sheffield United
+20/08/1955,0 - 1,Tottenham Hotspur,Burnley
+20/08/1955,1 - 1,West Bromwich Albion,Wolverhampton Wanderers

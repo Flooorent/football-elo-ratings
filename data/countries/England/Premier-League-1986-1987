@@ -1,0 +1,463 @@
+date,score,home_team,away_team
+11/05/1987,1 - 0,Everton,Tottenham Hotspur
+09/05/1987,1 - 2,Arsenal,Norwich City
+09/05/1987,2 - 1,Charlton Athletic,Queens Park Rangers
+09/05/1987,3 - 3,Chelsea,Liverpool
+09/05/1987,1 - 1,Coventry City,Southampton
+09/05/1987,3 - 1,Everton,Luton Town
+09/05/1987,3 - 1,Manchester United,Aston Villa
+09/05/1987,2 - 1,Nottingham Forest,Newcastle United
+09/05/1987,0 - 0,Oxford United,Leicester City
+09/05/1987,0 - 2,Sheffield Wednesday,Wimbledon
+09/05/1987,1 - 0,Watford,Tottenham Hotspur
+09/05/1987,2 - 0,West Ham United,Manchester City
+06/05/1987,1 - 1,Coventry City,Manchester United
+05/05/1987,2 - 3,Luton Town,Oxford United
+05/05/1987,2 - 1,Wimbledon,Chelsea
+04/05/1987,1 - 2,Aston Villa,Sheffield Wednesday
+04/05/1987,1 - 1,Leicester City,Coventry City
+04/05/1987,1 - 0,Liverpool,Watford
+04/05/1987,1 - 0,Manchester City,Nottingham Forest
+04/05/1987,0 - 3,Newcastle United,Charlton Athletic
+04/05/1987,0 - 1,Norwich City,Everton
+04/05/1987,1 - 4,Queens Park Rangers,Arsenal
+04/05/1987,1 - 0,Southampton,West Ham United
+04/05/1987,4 - 0,Tottenham Hotspur,Manchester United
+02/05/1987,2 - 1,Arsenal,Aston Villa
+02/05/1987,0 - 1,Charlton Athletic,Luton Town
+02/05/1987,3 - 1,Chelsea,Leicester City
+02/05/1987,1 - 0,Coventry City,Liverpool
+02/05/1987,0 - 0,Everton,Manchester City
+02/05/1987,0 - 1,Manchester United,Wimbledon
+02/05/1987,2 - 0,Nottingham Forest,Tottenham Hotspur
+02/05/1987,0 - 1,Oxford United,Norwich City
+02/05/1987,7 - 1,Sheffield Wednesday,Queens Park Rangers
+02/05/1987,1 - 1,Watford,Southampton
+02/05/1987,1 - 1,West Ham United,Newcastle United
+30/04/1987,2 - 3,Watford,Coventry City
+25/04/1987,4 - 0,Aston Villa,West Ham United
+25/04/1987,1 - 2,Leicester City,Watford
+25/04/1987,3 - 1,Liverpool,Everton
+25/04/1987,0 - 0,Luton Town,Sheffield Wednesday
+25/04/1987,3 - 0,Manchester City,Arsenal
+25/04/1987,1 - 0,Newcastle United,Chelsea
+25/04/1987,1 - 1,Norwich City,Coventry City
+25/04/1987,1 - 1,Queens Park Rangers,Manchester United
+25/04/1987,2 - 2,Southampton,Charlton Athletic
+25/04/1987,3 - 1,Tottenham Hotspur,Oxford United
+25/04/1987,2 - 1,Wimbledon,Nottingham Forest
+22/04/1987,1 - 1,Southampton,Sheffield Wednesday
+22/04/1987,2 - 2,Wimbledon,Tottenham Hotspur
+21/04/1987,2 - 0,Watford,Luton Town
+20/04/1987,4 - 1,Arsenal,Leicester City
+20/04/1987,3 - 0,Charlton Athletic,Aston Villa
+20/04/1987,1 - 1,Chelsea,Southampton
+20/04/1987,4 - 1,Coventry City,Queens Park Rangers
+20/04/1987,3 - 0,Everton,Newcastle United
+20/04/1987,1 - 0,Manchester United,Liverpool
+20/04/1987,1 - 1,Nottingham Forest,Norwich City
+20/04/1987,3 - 1,Oxford United,Wimbledon
+20/04/1987,2 - 1,Sheffield Wednesday,Manchester City
+20/04/1987,2 - 1,West Ham United,Tottenham Hotspur
+18/04/1987,0 - 1,Aston Villa,Everton
+18/04/1987,2 - 0,Leicester City,West Ham United
+18/04/1987,3 - 0,Liverpool,Nottingham Forest
+18/04/1987,2 - 0,Luton Town,Coventry City
+18/04/1987,1 - 2,Manchester City,Watford
+18/04/1987,2 - 1,Newcastle United,Manchester United
+18/04/1987,1 - 0,Norwich City,Sheffield Wednesday
+18/04/1987,1 - 1,Queens Park Rangers,Chelsea
+18/04/1987,3 - 0,Southampton,Oxford United
+18/04/1987,1 - 0,Tottenham Hotspur,Charlton Athletic
+18/04/1987,1 - 2,Wimbledon,Arsenal
+15/04/1987,1 - 1,Manchester City,Tottenham Hotspur
+14/04/1987,0 - 1,Arsenal,Newcastle United
+14/04/1987,2 - 3,Sheffield Wednesday,Nottingham Forest
+14/04/1987,3 - 1,Watford,Chelsea
+14/04/1987,0 - 0,West Ham United,Manchester United
+11/04/1987,2 - 1,Arsenal,Charlton Athletic
+11/04/1987,4 - 0,Everton,West Ham United
+11/04/1987,1 - 1,Leicester City,Aston Villa
+11/04/1987,2 - 4,Manchester City,Southampton
+11/04/1987,2 - 1,Norwich City,Liverpool
+11/04/1987,1 - 1,Oxford United,Newcastle United
+11/04/1987,2 - 2,Queens Park Rangers,Luton Town
+08/04/1987,4 - 1,Newcastle United,Norwich City
+08/04/1987,3 - 1,West Ham United,Arsenal
+07/04/1987,0 - 0,Charlton Athletic,Chelsea
+07/04/1987,0 - 1,Sheffield Wednesday,Tottenham Hotspur
+07/04/1987,2 - 2,Southampton,Wimbledon
+06/04/1987,0 - 3,Watford,Queens Park Rangers
+04/04/1987,0 - 0,Aston Villa,Manchester City
+04/04/1987,4 - 3,Charlton Athletic,Watford
+04/04/1987,1 - 2,Chelsea,Everton
+04/04/1987,0 - 0,Luton Town,Wimbledon
+04/04/1987,3 - 2,Manchester United,Oxford United
+04/04/1987,2 - 0,Newcastle United,Leicester City
+04/04/1987,0 - 0,Nottingham Forest,Coventry City
+04/04/1987,3 - 0,Tottenham Hotspur,Norwich City
+28/03/1987,0 - 1,Arsenal,Everton
+28/03/1987,1 - 0,Aston Villa,Coventry City
+28/03/1987,4 - 0,Leicester City,Manchester City
+28/03/1987,1 - 2,Liverpool,Wimbledon
+28/03/1987,3 - 1,Luton Town,Tottenham Hotspur
+28/03/1987,2 - 0,Manchester United,Nottingham Forest
+28/03/1987,2 - 0,Newcastle United,Southampton
+28/03/1987,2 - 1,Oxford United,Sheffield Wednesday
+28/03/1987,1 - 1,Queens Park Rangers,Norwich City
+28/03/1987,1 - 0,West Ham United,Watford
+25/03/1987,1 - 1,Aston Villa,Watford
+25/03/1987,4 - 1,Leicester City,Queens Park Rangers
+25/03/1987,1 - 1,Newcastle United,Tottenham Hotspur
+24/03/1987,0 - 0,Charlton Athletic,Oxford United
+24/03/1987,3 - 0,Southampton,Luton Town
+24/03/1987,0 - 2,West Ham United,Sheffield Wednesday
+24/03/1987,2 - 1,Wimbledon,Coventry City
+22/03/1987,2 - 1,Nottingham Forest,Leicester City
+22/03/1987,1 - 0,Tottenham Hotspur,Liverpool
+21/03/1987,1 - 0,Chelsea,West Ham United
+21/03/1987,2 - 1,Everton,Charlton Athletic
+21/03/1987,0 - 0,Manchester City,Newcastle United
+21/03/1987,0 - 0,Norwich City,Luton Town
+21/03/1987,1 - 0,Sheffield Wednesday,Manchester United
+21/03/1987,5 - 0,Southampton,Aston Villa
+21/03/1987,2 - 0,Watford,Arsenal
+21/03/1987,1 - 1,Wimbledon,Queens Park Rangers
+20/03/1987,3 - 0,Coventry City,Oxford United
+18/03/1987,2 - 1,Liverpool,Queens Park Rangers
+17/03/1987,0 - 0,Arsenal,Nottingham Forest
+14/03/1987,3 - 0,Everton,Southampton
+14/03/1987,1 - 0,Leicester City,Charlton Athletic
+14/03/1987,2 - 1,Luton Town,Manchester United
+14/03/1987,1 - 2,Manchester City,Chelsea
+14/03/1987,1 - 3,Oxford United,Liverpool
+14/03/1987,3 - 1,Queens Park Rangers,Nottingham Forest
+14/03/1987,0 - 2,West Ham United,Norwich City
+10/03/1987,0 - 1,Arsenal,Liverpool
+08/03/1987,2 - 1,Watford,Everton
+07/03/1987,2 - 1,Charlton Athletic,West Ham United
+07/03/1987,1 - 0,Chelsea,Arsenal
+07/03/1987,1 - 0,Coventry City,Sheffield Wednesday
+07/03/1987,2 - 0,Liverpool,Luton Town
+07/03/1987,2 - 0,Manchester United,Manchester City
+07/03/1987,2 - 1,Newcastle United,Aston Villa
+07/03/1987,0 - 0,Norwich City,Wimbledon
+07/03/1987,2 - 0,Nottingham Forest,Oxford United
+07/03/1987,4 - 0,Southampton,Leicester City
+07/03/1987,1 - 0,Tottenham Hotspur,Queens Park Rangers
+04/03/1987,0 - 0,Aston Villa,Wimbledon
+28/02/1987,2 - 1,Coventry City,Charlton Athletic
+28/02/1987,1 - 0,Liverpool,Southampton
+28/02/1987,2 - 1,Luton Town,West Ham United
+28/02/1987,0 - 0,Manchester United,Everton
+28/02/1987,1 - 1,Norwich City,Aston Villa
+28/02/1987,0 - 1,Nottingham Forest,Chelsea
+28/02/1987,1 - 0,Queens Park Rangers,Manchester City
+28/02/1987,0 - 1,Sheffield Wednesday,Watford
+28/02/1987,3 - 1,Wimbledon,Newcastle United
+25/02/1987,0 - 0,Oxford United,Arsenal
+25/02/1987,5 - 0,Tottenham Hotspur,Leicester City
+21/02/1987,2 - 2,Aston Villa,Liverpool
+21/02/1987,1 - 1,Chelsea,Manchester United
+21/02/1987,0 - 2,Leicester City,Norwich City
+21/02/1987,1 - 1,Manchester City,Luton Town
+15/02/1987,2 - 0,Wimbledon,Charlton Athletic
+14/02/1987,3 - 0,Coventry City,Chelsea
+14/02/1987,4 - 3,Liverpool,Leicester City
+14/02/1987,2 - 1,Luton Town,Aston Villa
+14/02/1987,3 - 1,Manchester United,Watford
+14/02/1987,1 - 1,Norwich City,Manchester City
+14/02/1987,1 - 1,Nottingham Forest,West Ham United
+14/02/1987,1 - 1,Oxford United,Everton
+14/02/1987,2 - 1,Queens Park Rangers,Newcastle United
+14/02/1987,1 - 1,Sheffield Wednesday,Arsenal
+14/02/1987,2 - 0,Tottenham Hotspur,Southampton
+10/02/1987,4 - 0,Chelsea,Oxford United
+07/02/1987,0 - 1,Aston Villa,Queens Park Rangers
+07/02/1987,0 - 0,Charlton Athletic,Manchester United
+07/02/1987,2 - 0,Chelsea,Sheffield Wednesday
+07/02/1987,3 - 1,Everton,Coventry City
+07/02/1987,3 - 1,Leicester City,Wimbledon
+07/02/1987,2 - 2,Newcastle United,Luton Town
+07/02/1987,1 - 2,Southampton,Norwich City
+07/02/1987,1 - 1,Watford,Nottingham Forest
+07/02/1987,0 - 1,West Ham United,Oxford United
+03/02/1987,2 - 0,Southampton,Coventry City
+31/01/1987,0 - 1,Charlton Athletic,Nottingham Forest
+25/01/1987,1 - 0,Nottingham Forest,Everton
+24/01/1987,1 - 3,Coventry City,West Ham United
+24/01/1987,2 - 0,Liverpool,Newcastle United
+24/01/1987,1 - 0,Luton Town,Leicester City
+24/01/1987,2 - 0,Manchester United,Arsenal
+24/01/1987,2 - 2,Norwich City,Chelsea
+24/01/1987,1 - 3,Oxford United,Watford
+24/01/1987,2 - 1,Queens Park Rangers,Southampton
+24/01/1987,1 - 1,Sheffield Wednesday,Charlton Athletic
+24/01/1987,3 - 0,Tottenham Hotspur,Aston Villa
+24/01/1987,0 - 0,Wimbledon,Manchester City
+18/01/1987,0 - 0,Arsenal,Coventry City
+17/01/1987,2 - 0,Everton,Sheffield Wednesday
+17/01/1987,0 - 1,Manchester City,Liverpool
+04/01/1987,1 - 2,Tottenham Hotspur,Arsenal
+03/01/1987,0 - 0,Aston Villa,Nottingham Forest
+03/01/1987,6 - 1,Leicester City,Sheffield Wednesday
+03/01/1987,1 - 0,Liverpool,West Ham United
+03/01/1987,1 - 0,Luton Town,Chelsea
+03/01/1987,1 - 0,Manchester City,Oxford United
+03/01/1987,1 - 2,Newcastle United,Coventry City
+03/01/1987,1 - 1,Norwich City,Charlton Athletic
+03/01/1987,0 - 1,Queens Park Rangers,Everton
+03/01/1987,1 - 1,Southampton,Manchester United
+03/01/1987,2 - 1,Wimbledon,Watford
+01/01/1987,3 - 1,Arsenal,Wimbledon
+01/01/1987,0 - 2,Charlton Athletic,Tottenham Hotspur
+01/01/1987,3 - 1,Chelsea,Queens Park Rangers
+01/01/1987,0 - 1,Coventry City,Luton Town
+01/01/1987,3 - 0,Everton,Aston Villa
+01/01/1987,4 - 1,Manchester United,Newcastle United
+01/01/1987,1 - 1,Nottingham Forest,Liverpool
+01/01/1987,3 - 1,Oxford United,Southampton
+01/01/1987,1 - 1,Sheffield Wednesday,Norwich City
+01/01/1987,1 - 1,Watford,Manchester City
+01/01/1987,4 - 1,West Ham United,Leicester City
+28/12/1986,5 - 0,Charlton Athletic,Manchester City
+28/12/1986,5 - 1,Everton,Leicester City
+28/12/1986,2 - 2,Nottingham Forest,Luton Town
+27/12/1986,1 - 0,Arsenal,Southampton
+27/12/1986,4 - 1,Chelsea,Aston Villa
+27/12/1986,4 - 3,Coventry City,Tottenham Hotspur
+27/12/1986,0 - 1,Manchester United,Norwich City
+27/12/1986,0 - 1,Oxford United,Queens Park Rangers
+27/12/1986,0 - 1,Sheffield Wednesday,Liverpool
+27/12/1986,1 - 0,Watford,Newcastle United
+27/12/1986,2 - 3,West Ham United,Wimbledon
+26/12/1986,2 - 0,Aston Villa,Charlton Athletic
+26/12/1986,1 - 1,Leicester City,Arsenal
+26/12/1986,0 - 1,Liverpool,Manchester United
+26/12/1986,0 - 2,Luton Town,Watford
+26/12/1986,1 - 0,Manchester City,Sheffield Wednesday
+26/12/1986,0 - 4,Newcastle United,Everton
+26/12/1986,2 - 1,Norwich City,Nottingham Forest
+26/12/1986,3 - 1,Queens Park Rangers,Coventry City
+26/12/1986,1 - 2,Southampton,Chelsea
+26/12/1986,4 - 0,Tottenham Hotspur,West Ham United
+26/12/1986,1 - 1,Wimbledon,Oxford United
+21/12/1986,2 - 2,Coventry City,Manchester City
+21/12/1986,2 - 0,Sheffield Wednesday,Newcastle United
+20/12/1986,3 - 0,Arsenal,Luton Town
+20/12/1986,0 - 0,Charlton Athletic,Liverpool
+20/12/1986,0 - 2,Chelsea,Tottenham Hotspur
+20/12/1986,3 - 0,Everton,Wimbledon
+20/12/1986,2 - 0,Manchester United,Leicester City
+20/12/1986,0 - 0,Nottingham Forest,Southampton
+20/12/1986,2 - 2,Oxford United,Aston Villa
+20/12/1986,1 - 1,West Ham United,Queens Park Rangers
+19/12/1986,1 - 1,Watford,Norwich City
+14/12/1986,2 - 0,Leicester City,Oxford United
+14/12/1986,3 - 0,Liverpool,Chelsea
+13/12/1986,3 - 3,Aston Villa,Manchester United
+13/12/1986,1 - 0,Luton Town,Everton
+13/12/1986,3 - 1,Manchester City,West Ham United
+13/12/1986,3 - 2,Newcastle United,Nottingham Forest
+13/12/1986,1 - 1,Norwich City,Arsenal
+13/12/1986,0 - 0,Queens Park Rangers,Charlton Athletic
+13/12/1986,2 - 1,Tottenham Hotspur,Watford
+13/12/1986,3 - 0,Wimbledon,Sheffield Wednesday
+07/12/1986,3 - 3,Manchester United,Tottenham Hotspur
+06/12/1986,3 - 1,Arsenal,Queens Park Rangers
+06/12/1986,1 - 1,Charlton Athletic,Newcastle United
+06/12/1986,0 - 4,Chelsea,Wimbledon
+06/12/1986,1 - 0,Coventry City,Leicester City
+06/12/1986,4 - 0,Everton,Norwich City
+06/12/1986,2 - 0,Nottingham Forest,Manchester City
+06/12/1986,4 - 2,Oxford United,Luton Town
+06/12/1986,2 - 1,Sheffield Wednesday,Aston Villa
+06/12/1986,2 - 0,Watford,Liverpool
+06/12/1986,3 - 1,West Ham United,Southampton
+30/11/1986,4 - 0,Newcastle United,West Ham United
+29/11/1986,0 - 4,Aston Villa,Arsenal
+29/11/1986,2 - 2,Leicester City,Chelsea
+29/11/1986,2 - 0,Liverpool,Coventry City
+29/11/1986,1 - 0,Luton Town,Charlton Athletic
+29/11/1986,1 - 3,Manchester City,Everton
+29/11/1986,2 - 1,Norwich City,Oxford United
+29/11/1986,2 - 2,Queens Park Rangers,Sheffield Wednesday
+29/11/1986,3 - 1,Southampton,Watford
+29/11/1986,2 - 3,Tottenham Hotspur,Nottingham Forest
+29/11/1986,1 - 0,Wimbledon,Manchester United
+23/11/1986,0 - 0,Everton,Liverpool
+22/11/1986,3 - 0,Arsenal,Manchester City
+22/11/1986,1 - 3,Charlton Athletic,Southampton
+22/11/1986,1 - 3,Chelsea,Newcastle United
+22/11/1986,2 - 1,Coventry City,Norwich City
+22/11/1986,1 - 0,Manchester United,Queens Park Rangers
+22/11/1986,3 - 2,Nottingham Forest,Wimbledon
+22/11/1986,2 - 4,Oxford United,Tottenham Hotspur
+22/11/1986,1 - 0,Sheffield Wednesday,Luton Town
+22/11/1986,5 - 1,Watford,Leicester City
+22/11/1986,1 - 1,West Ham United,Aston Villa
+16/11/1986,1 - 1,Liverpool,Sheffield Wednesday
+15/11/1986,0 - 0,Aston Villa,Chelsea
+15/11/1986,0 - 2,Leicester City,Everton
+15/11/1986,4 - 2,Luton Town,Nottingham Forest
+15/11/1986,2 - 1,Manchester City,Charlton Athletic
+15/11/1986,2 - 2,Newcastle United,Watford
+15/11/1986,0 - 0,Norwich City,Manchester United
+15/11/1986,1 - 1,Queens Park Rangers,Oxford United
+15/11/1986,0 - 4,Southampton,Arsenal
+15/11/1986,1 - 0,Tottenham Hotspur,Coventry City
+15/11/1986,0 - 1,Wimbledon,West Ham United
+08/11/1986,0 - 0,Arsenal,West Ham United
+08/11/1986,1 - 0,Coventry City,Nottingham Forest
+08/11/1986,2 - 2,Everton,Chelsea
+08/11/1986,1 - 1,Leicester City,Newcastle United
+08/11/1986,3 - 1,Manchester City,Aston Villa
+08/11/1986,2 - 1,Norwich City,Tottenham Hotspur
+08/11/1986,2 - 0,Oxford United,Manchester United
+08/11/1986,1 - 3,Queens Park Rangers,Liverpool
+08/11/1986,3 - 1,Sheffield Wednesday,Southampton
+08/11/1986,4 - 1,Watford,Charlton Athletic
+08/11/1986,0 - 1,Wimbledon,Luton Town
+02/11/1986,1 - 0,West Ham United,Everton
+01/11/1986,2 - 0,Aston Villa,Leicester City
+01/11/1986,0 - 2,Charlton Athletic,Arsenal
+01/11/1986,0 - 0,Chelsea,Watford
+01/11/1986,6 - 2,Liverpool,Norwich City
+01/11/1986,1 - 0,Luton Town,Queens Park Rangers
+01/11/1986,1 - 1,Manchester United,Coventry City
+01/11/1986,0 - 0,Newcastle United,Oxford United
+01/11/1986,3 - 2,Nottingham Forest,Sheffield Wednesday
+01/11/1986,1 - 1,Southampton,Manchester City
+01/11/1986,1 - 2,Tottenham Hotspur,Wimbledon
+26/10/1986,1 - 1,Manchester City,Manchester United
+25/10/1986,3 - 1,Arsenal,Chelsea
+25/10/1986,2 - 0,Aston Villa,Newcastle United
+25/10/1986,3 - 2,Everton,Watford
+25/10/1986,2 - 3,Leicester City,Southampton
+25/10/1986,4 - 1,Luton Town,Liverpool
+25/10/1986,2 - 1,Oxford United,Nottingham Forest
+25/10/1986,2 - 0,Queens Park Rangers,Tottenham Hotspur
+25/10/1986,2 - 2,Sheffield Wednesday,Coventry City
+25/10/1986,1 - 3,West Ham United,Charlton Athletic
+25/10/1986,2 - 0,Wimbledon,Norwich City
+19/10/1986,1 - 0,Coventry City,Wimbledon
+18/10/1986,2 - 0,Charlton Athletic,Leicester City
+18/10/1986,2 - 1,Chelsea,Manchester City
+18/10/1986,4 - 0,Liverpool,Oxford United
+18/10/1986,1 - 0,Manchester United,Luton Town
+18/10/1986,1 - 2,Newcastle United,Arsenal
+18/10/1986,1 - 1,Norwich City,West Ham United
+18/10/1986,1 - 0,Nottingham Forest,Queens Park Rangers
+18/10/1986,0 - 2,Southampton,Everton
+18/10/1986,1 - 1,Tottenham Hotspur,Sheffield Wednesday
+18/10/1986,4 - 2,Watford,Aston Villa
+11/10/1986,3 - 1,Arsenal,Watford
+11/10/1986,3 - 1,Aston Villa,Southampton
+11/10/1986,3 - 2,Charlton Athletic,Everton
+11/10/1986,3 - 1,Leicester City,Nottingham Forest
+11/10/1986,0 - 1,Liverpool,Tottenham Hotspur
+11/10/1986,0 - 0,Luton Town,Norwich City
+11/10/1986,3 - 1,Manchester United,Sheffield Wednesday
+11/10/1986,3 - 1,Newcastle United,Manchester City
+11/10/1986,2 - 0,Oxford United,Coventry City
+11/10/1986,2 - 1,Queens Park Rangers,Wimbledon
+11/10/1986,5 - 3,West Ham United,Chelsea
+04/10/1986,0 - 1,Chelsea,Charlton Athletic
+04/10/1986,0 - 1,Coventry City,Aston Villa
+04/10/1986,0 - 1,Everton,Arsenal
+04/10/1986,1 - 2,Manchester City,Leicester City
+04/10/1986,1 - 0,Norwich City,Queens Park Rangers
+04/10/1986,1 - 1,Nottingham Forest,Manchester United
+04/10/1986,6 - 1,Sheffield Wednesday,Oxford United
+04/10/1986,4 - 1,Southampton,Newcastle United
+04/10/1986,0 - 0,Tottenham Hotspur,Luton Town
+04/10/1986,2 - 2,Watford,West Ham United
+04/10/1986,1 - 3,Wimbledon,Liverpool
+28/09/1986,0 - 1,Manchester United,Chelsea
+27/09/1986,1 - 0,Coventry City,Watford
+27/09/1986,3 - 3,Liverpool,Aston Villa
+27/09/1986,1 - 0,Luton Town,Manchester City
+27/09/1986,2 - 0,Norwich City,Newcastle United
+27/09/1986,1 - 0,Nottingham Forest,Arsenal
+27/09/1986,3 - 2,Oxford United,Charlton Athletic
+27/09/1986,0 - 1,Queens Park Rangers,Leicester City
+27/09/1986,2 - 2,Sheffield Wednesday,West Ham United
+27/09/1986,2 - 0,Tottenham Hotspur,Everton
+27/09/1986,2 - 2,Wimbledon,Southampton
+21/09/1986,3 - 1,Everton,Manchester United
+20/09/1986,0 - 0,Arsenal,Oxford United
+20/09/1986,1 - 4,Aston Villa,Norwich City
+20/09/1986,1 - 1,Charlton Athletic,Coventry City
+20/09/1986,2 - 6,Chelsea,Nottingham Forest
+20/09/1986,1 - 2,Leicester City,Tottenham Hotspur
+20/09/1986,0 - 0,Manchester City,Queens Park Rangers
+20/09/1986,1 - 0,Newcastle United,Wimbledon
+20/09/1986,2 - 1,Southampton,Liverpool
+20/09/1986,0 - 1,Watford,Sheffield Wednesday
+20/09/1986,2 - 0,West Ham United,Luton Town
+17/09/1986,2 - 1,Norwich City,Leicester City
+16/09/1986,1 - 0,Watford,Manchester United
+13/09/1986,3 - 0,Coventry City,Newcastle United
+13/09/1986,2 - 0,Liverpool,Charlton Athletic
+13/09/1986,0 - 0,Luton Town,Arsenal
+13/09/1986,5 - 1,Manchester United,Southampton
+13/09/1986,1 - 3,Norwich City,Watford
+13/09/1986,6 - 0,Nottingham Forest,Aston Villa
+13/09/1986,0 - 0,Oxford United,Manchester City
+13/09/1986,2 - 3,Queens Park Rangers,West Ham United
+13/09/1986,2 - 2,Sheffield Wednesday,Leicester City
+13/09/1986,1 - 3,Tottenham Hotspur,Chelsea
+13/09/1986,1 - 2,Wimbledon,Everton
+06/09/1986,0 - 0,Arsenal,Tottenham Hotspur
+06/09/1986,1 - 2,Aston Villa,Oxford United
+06/09/1986,1 - 2,Charlton Athletic,Norwich City
+06/09/1986,1 - 3,Chelsea,Luton Town
+06/09/1986,0 - 0,Everton,Queens Park Rangers
+06/09/1986,1 - 1,Leicester City,Manchester United
+06/09/1986,0 - 1,Manchester City,Coventry City
+06/09/1986,2 - 3,Newcastle United,Sheffield Wednesday
+06/09/1986,1 - 3,Southampton,Nottingham Forest
+06/09/1986,0 - 1,Watford,Wimbledon
+06/09/1986,2 - 5,West Ham United,Liverpool
+03/09/1986,2 - 1,Aston Villa,Luton Town
+03/09/1986,2 - 1,Leicester City,Liverpool
+03/09/1986,2 - 2,Manchester City,Norwich City
+03/09/1986,0 - 2,Newcastle United,Queens Park Rangers
+02/09/1986,2 - 0,Arsenal,Sheffield Wednesday
+02/09/1986,0 - 1,Charlton Athletic,Wimbledon
+02/09/1986,0 - 0,Chelsea,Coventry City
+02/09/1986,3 - 1,Everton,Oxford United
+02/09/1986,2 - 0,Southampton,Tottenham Hotspur
+02/09/1986,1 - 2,West Ham United,Nottingham Forest
+30/08/1986,1 - 1,Coventry City,Everton
+30/08/1986,2 - 1,Liverpool,Arsenal
+30/08/1986,0 - 0,Luton Town,Newcastle United
+30/08/1986,0 - 1,Manchester United,Charlton Athletic
+30/08/1986,4 - 3,Norwich City,Southampton
+30/08/1986,1 - 1,Nottingham Forest,Watford
+30/08/1986,0 - 0,Oxford United,West Ham United
+30/08/1986,1 - 0,Queens Park Rangers,Aston Villa
+30/08/1986,2 - 0,Sheffield Wednesday,Chelsea
+30/08/1986,1 - 0,Tottenham Hotspur,Manchester City
+30/08/1986,1 - 0,Wimbledon,Leicester City
+27/08/1986,4 - 0,Nottingham Forest,Charlton Athletic
+26/08/1986,2 - 1,Coventry City,Arsenal
+26/08/1986,2 - 1,Luton Town,Southampton
+26/08/1986,3 - 2,Queens Park Rangers,Watford
+26/08/1986,3 - 2,Wimbledon,Aston Villa
+25/08/1986,0 - 0,Liverpool,Manchester City
+25/08/1986,2 - 3,Manchester United,West Ham United
+25/08/1986,1 - 1,Oxford United,Chelsea
+25/08/1986,2 - 2,Sheffield Wednesday,Everton
+25/08/1986,1 - 1,Tottenham Hotspur,Newcastle United
+23/08/1986,1 - 0,Arsenal,Manchester United
+23/08/1986,0 - 3,Aston Villa,Tottenham Hotspur
+23/08/1986,1 - 1,Charlton Athletic,Sheffield Wednesday
+23/08/1986,0 - 0,Chelsea,Norwich City
+23/08/1986,2 - 0,Everton,Nottingham Forest
+23/08/1986,1 - 1,Leicester City,Luton Town
+23/08/1986,3 - 1,Manchester City,Wimbledon
+23/08/1986,0 - 2,Newcastle United,Liverpool
+23/08/1986,5 - 1,Southampton,Queens Park Rangers
+23/08/1986,3 - 0,Watford,Oxford United
+23/08/1986,1 - 0,West Ham United,Coventry City

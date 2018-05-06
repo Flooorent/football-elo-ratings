@@ -1,0 +1,307 @@
+date,score,home_team,away_team
+17/05/1998,1 - 0,Belenenses,Varzim
+17/05/1998,7 - 1,Benfica,Leça
+17/05/1998,1 - 2,Boavista,Campomaiorense
+17/05/1998,0 - 0,Chaves,Académica
+17/05/1998,1 - 0,Farense,Rio Ave
+17/05/1998,3 - 2,Marítimo,Porto
+17/05/1998,2 - 1,Salgueiros,Estrela Amadora
+17/05/1998,2 - 0,Sporting Braga,Sporting CP
+17/05/1998,2 - 1,Vitória Guimarães,Vitória Setúbal
+11/05/1998,2 - 0,Estrela Amadora,Benfica
+10/05/1998,1 - 0,Académica,Farense
+10/05/1998,2 - 3,Campomaiorense,Vitória Guimarães
+10/05/1998,0 - 3,Leça,Boavista
+10/05/1998,7 - 2,Porto,Salgueiros
+10/05/1998,0 - 4,Rio Ave,Sporting Braga
+10/05/1998,0 - 4,Varzim,Marítimo
+10/05/1998,1 - 2,Vitória Setúbal,Chaves
+08/05/1998,1 - 0,Sporting CP,Belenenses
+03/05/1998,4 - 0,Boavista,Estrela Amadora
+03/05/1998,1 - 0,Chaves,Campomaiorense
+03/05/1998,2 - 0,Farense,Vitória Setúbal
+03/05/1998,3 - 1,Salgueiros,Varzim
+03/05/1998,3 - 2,Sporting Braga,Académica
+03/05/1998,2 - 2,Sporting CP,Rio Ave
+03/05/1998,0 - 0,Vitória Guimarães,Leça
+02/05/1998,3 - 0,Benfica,Porto
+01/05/1998,2 - 0,Marítimo,Belenenses
+27/04/1998,1 - 1,Académica,Sporting CP
+26/04/1998,2 - 4,Belenenses,Rio Ave
+26/04/1998,5 - 2,Campomaiorense,Farense
+26/04/1998,0 - 1,Estrela Amadora,Vitória Guimarães
+26/04/1998,0 - 1,Leça,Chaves
+26/04/1998,3 - 2,Porto,Boavista
+26/04/1998,5 - 1,Vitória Setúbal,Sporting Braga
+25/04/1998,0 - 0,Varzim,Benfica
+24/04/1998,1 - 4,Marítimo,Salgueiros
+19/04/1998,3 - 1,Benfica,Marítimo
+19/04/1998,2 - 0,Chaves,Estrela Amadora
+19/04/1998,1 - 1,Farense,Leça
+19/04/1998,3 - 0,Rio Ave,Académica
+19/04/1998,1 - 1,Salgueiros,Belenenses
+19/04/1998,2 - 1,Sporting Braga,Campomaiorense
+18/04/1998,2 - 0,Boavista,Varzim
+18/04/1998,0 - 1,Vitória Guimarães,Porto
+17/04/1998,2 - 1,Sporting CP,Vitória Setúbal
+11/04/1998,2 - 0,Belenenses,Académica
+11/04/1998,2 - 1,Estrela Amadora,Farense
+11/04/1998,0 - 0,Leça,Sporting Braga
+11/04/1998,1 - 0,Marítimo,Boavista
+11/04/1998,3 - 1,Porto,Chaves
+11/04/1998,0 - 2,Salgueiros,Benfica
+11/04/1998,1 - 2,Varzim,Vitória Guimarães
+11/04/1998,1 - 0,Vitória Setúbal,Rio Ave
+10/04/1998,3 - 5,Campomaiorense,Sporting CP
+05/04/1998,2 - 0,Académica,Vitória Setúbal
+05/04/1998,2 - 1,Benfica,Belenenses
+05/04/1998,2 - 1,Chaves,Varzim
+05/04/1998,1 - 1,Rio Ave,Campomaiorense
+05/04/1998,0 - 0,Vitória Guimarães,Marítimo
+04/04/1998,3 - 0,Boavista,Salgueiros
+04/04/1998,1 - 1,Sporting Braga,Estrela Amadora
+04/04/1998,2 - 0,Sporting CP,Leça
+03/04/1998,1 - 2,Farense,Porto
+29/03/1998,1 - 0,Belenenses,Vitória Setúbal
+29/03/1998,1 - 2,Campomaiorense,Académica
+29/03/1998,2 - 1,Estrela Amadora,Sporting CP
+29/03/1998,2 - 1,Leça,Rio Ave
+29/03/1998,1 - 0,Marítimo,Chaves
+29/03/1998,4 - 0,Porto,Sporting Braga
+29/03/1998,0 - 0,Salgueiros,Vitória Guimarães
+29/03/1998,1 - 0,Varzim,Farense
+28/03/1998,1 - 2,Benfica,Boavista
+22/03/1998,0 - 0,Chaves,Salgueiros
+22/03/1998,0 - 2,Farense,Marítimo
+22/03/1998,1 - 0,Rio Ave,Estrela Amadora
+22/03/1998,3 - 1,Sporting Braga,Varzim
+22/03/1998,0 - 1,Vitória Guimarães,Benfica
+22/03/1998,2 - 1,Vitória Setúbal,Campomaiorense
+21/03/1998,1 - 1,Académica,Leça
+21/03/1998,4 - 0,Boavista,Belenenses
+21/03/1998,2 - 0,Sporting CP,Porto
+15/03/1998,0 - 1,Belenenses,Campomaiorense
+15/03/1998,3 - 1,Benfica,Chaves
+15/03/1998,1 - 0,Estrela Amadora,Académica
+15/03/1998,1 - 3,Leça,Vitória Setúbal
+15/03/1998,1 - 1,Marítimo,Sporting Braga
+15/03/1998,4 - 1,Salgueiros,Farense
+14/03/1998,0 - 1,Boavista,Vitória Guimarães
+14/03/1998,2 - 0,Porto,Rio Ave
+13/03/1998,0 - 1,Varzim,Sporting CP
+08/03/1998,4 - 0,Campomaiorense,Leça
+08/03/1998,1 - 3,Chaves,Boavista
+08/03/1998,1 - 1,Farense,Benfica
+08/03/1998,0 - 0,Rio Ave,Varzim
+08/03/1998,0 - 2,Sporting Braga,Salgueiros
+08/03/1998,1 - 1,Sporting CP,Marítimo
+08/03/1998,2 - 2,Vitória Guimarães,Belenenses
+08/03/1998,2 - 1,Vitória Setúbal,Estrela Amadora
+06/03/1998,0 - 1,Académica,Porto
+01/03/1998,0 - 1,Belenenses,Leça
+01/03/1998,3 - 0,Benfica,Sporting Braga
+01/03/1998,2 - 2,Boavista,Farense
+01/03/1998,2 - 1,Estrela Amadora,Campomaiorense
+01/03/1998,3 - 2,Marítimo,Rio Ave
+01/03/1998,1 - 0,Porto,Vitória Setúbal
+01/03/1998,1 - 1,Varzim,Académica
+28/02/1998,5 - 1,Vitória Guimarães,Chaves
+27/02/1998,0 - 2,Salgueiros,Sporting CP
+21/02/1998,0 - 0,Académica,Marítimo
+21/02/1998,1 - 0,Chaves,Belenenses
+21/02/1998,2 - 0,Farense,Vitória Guimarães
+21/02/1998,0 - 4,Leça,Estrela Amadora
+21/02/1998,1 - 1,Rio Ave,Salgueiros
+21/02/1998,1 - 4,Sporting CP,Benfica
+21/02/1998,1 - 1,Vitória Setúbal,Varzim
+20/02/1998,2 - 2,Campomaiorense,Porto
+20/02/1998,1 - 2,Sporting Braga,Boavista
+15/02/1998,0 - 2,Belenenses,Estrela Amadora
+15/02/1998,2 - 1,Benfica,Rio Ave
+15/02/1998,2 - 2,Chaves,Farense
+15/02/1998,1 - 0,Marítimo,Vitória Setúbal
+15/02/1998,3 - 1,Porto,Leça
+15/02/1998,0 - 1,Salgueiros,Académica
+15/02/1998,3 - 0,Varzim,Campomaiorense
+14/02/1998,1 - 0,Vitória Guimarães,Sporting Braga
+13/02/1998,1 - 0,Boavista,Sporting CP
+09/02/1998,2 - 1,Estrela Amadora,Porto
+08/02/1998,2 - 1,Campomaiorense,Marítimo
+08/02/1998,3 - 1,Farense,Belenenses
+08/02/1998,1 - 0,Leça,Varzim
+08/02/1998,1 - 1,Rio Ave,Boavista
+08/02/1998,5 - 0,Sporting Braga,Chaves
+08/02/1998,1 - 1,Sporting CP,Vitória Guimarães
+08/02/1998,1 - 3,Vitória Setúbal,Salgueiros
+07/02/1998,1 - 2,Académica,Benfica
+01/02/1998,2 - 0,Benfica,Vitória Setúbal
+01/02/1998,2 - 0,Marítimo,Leça
+01/02/1998,5 - 2,Salgueiros,Campomaiorense
+01/02/1998,2 - 2,Varzim,Estrela Amadora
+01/02/1998,0 - 0,Vitória Guimarães,Rio Ave
+31/01/1998,1 - 0,Belenenses,Porto
+31/01/1998,6 - 0,Boavista,Académica
+31/01/1998,1 - 1,Farense,Sporting Braga
+30/01/1998,3 - 2,Chaves,Sporting CP
+25/01/1998,2 - 1,Académica,Vitória Guimarães
+25/01/1998,1 - 1,Estrela Amadora,Marítimo
+25/01/1998,3 - 0,Leça,Salgueiros
+25/01/1998,4 - 3,Porto,Varzim
+25/01/1998,1 - 0,Rio Ave,Chaves
+25/01/1998,1 - 1,Sporting Braga,Belenenses
+25/01/1998,3 - 2,Sporting CP,Farense
+25/01/1998,1 - 2,Vitória Setúbal,Boavista
+24/01/1998,1 - 2,Campomaiorense,Benfica
+19/01/1998,1 - 1,Sporting CP,Sporting Braga
+18/01/1998,2 - 2,Campomaiorense,Boavista
+18/01/1998,1 - 0,Estrela Amadora,Salgueiros
+18/01/1998,1 - 2,Leça,Benfica
+18/01/1998,2 - 1,Porto,Marítimo
+18/01/1998,0 - 3,Rio Ave,Farense
+18/01/1998,2 - 1,Varzim,Belenenses
+18/01/1998,0 - 0,Vitória Setúbal,Vitória Guimarães
+17/01/1998,1 - 2,Académica,Chaves
+11/01/1998,2 - 2,Benfica,Estrela Amadora
+11/01/1998,1 - 3,Chaves,Vitória Setúbal
+11/01/1998,0 - 0,Farense,Académica
+11/01/1998,2 - 1,Marítimo,Varzim
+11/01/1998,2 - 1,Vitória Guimarães,Campomaiorense
+10/01/1998,0 - 4,Belenenses,Sporting CP
+10/01/1998,2 - 0,Boavista,Leça
+10/01/1998,1 - 0,Sporting Braga,Rio Ave
+09/01/1998,1 - 3,Salgueiros,Porto
+05/01/1998,0 - 0,Rio Ave,Sporting CP
+04/01/1998,0 - 2,Belenenses,Marítimo
+04/01/1998,2 - 1,Campomaiorense,Chaves
+04/01/1998,1 - 2,Estrela Amadora,Boavista
+04/01/1998,1 - 0,Leça,Vitória Guimarães
+04/01/1998,0 - 2,Varzim,Salgueiros
+04/01/1998,4 - 1,Vitória Setúbal,Farense
+03/01/1998,2 - 2,Académica,Sporting Braga
+03/01/1998,2 - 0,Porto,Benfica
+22/12/1997,3 - 4,Boavista,Porto
+21/12/1997,4 - 0,Benfica,Varzim
+21/12/1997,0 - 1,Chaves,Leça
+21/12/1997,2 - 2,Farense,Campomaiorense
+21/12/1997,3 - 0,Rio Ave,Belenenses
+21/12/1997,1 - 0,Sporting CP,Académica
+21/12/1997,1 - 0,Vitória Guimarães,Estrela Amadora
+20/12/1997,2 - 0,Salgueiros,Marítimo
+20/12/1997,2 - 2,Sporting Braga,Vitória Setúbal
+15/12/1997,2 - 0,Vitória Setúbal,Sporting CP
+13/12/1997,0 - 0,Académica,Rio Ave
+13/12/1997,1 - 2,Belenenses,Salgueiros
+13/12/1997,4 - 0,Campomaiorense,Sporting Braga
+13/12/1997,4 - 1,Estrela Amadora,Chaves
+13/12/1997,2 - 1,Leça,Farense
+13/12/1997,1 - 0,Porto,Vitória Guimarães
+13/12/1997,0 - 0,Varzim,Boavista
+12/12/1997,1 - 0,Marítimo,Benfica
+07/12/1997,0 - 0,Académica,Belenenses
+07/12/1997,2 - 2,Benfica,Salgueiros
+07/12/1997,1 - 1,Farense,Estrela Amadora
+07/12/1997,3 - 0,Rio Ave,Vitória Setúbal
+06/12/1997,0 - 1,Boavista,Marítimo
+06/12/1997,2 - 0,Sporting CP,Campomaiorense
+06/12/1997,5 - 0,Vitória Guimarães,Varzim
+05/12/1997,2 - 2,Chaves,Porto
+05/12/1997,3 - 1,Sporting Braga,Leça
+01/12/1997,1 - 0,Leça,Sporting CP
+01/12/1997,5 - 2,Porto,Farense
+30/11/1997,4 - 1,Campomaiorense,Rio Ave
+30/11/1997,1 - 0,Estrela Amadora,Sporting Braga
+30/11/1997,0 - 1,Marítimo,Vitória Guimarães
+30/11/1997,1 - 1,Salgueiros,Boavista
+30/11/1997,1 - 1,Varzim,Chaves
+30/11/1997,0 - 1,Vitória Setúbal,Académica
+29/11/1997,1 - 2,Belenenses,Benfica
+23/11/1997,1 - 1,Académica,Campomaiorense
+23/11/1997,1 - 0,Chaves,Marítimo
+23/11/1997,1 - 0,Farense,Varzim
+23/11/1997,2 - 2,Rio Ave,Leça
+23/11/1997,3 - 0,Vitória Guimarães,Salgueiros
+23/11/1997,0 - 0,Vitória Setúbal,Belenenses
+22/11/1997,1 - 2,Sporting Braga,Porto
+22/11/1997,2 - 2,Sporting CP,Estrela Amadora
+21/11/1997,0 - 0,Boavista,Benfica
+10/11/1997,1 - 0,Benfica,Vitória Guimarães
+09/11/1997,0 - 0,Belenenses,Boavista
+09/11/1997,2 - 1,Campomaiorense,Vitória Setúbal
+09/11/1997,1 - 2,Estrela Amadora,Rio Ave
+09/11/1997,1 - 0,Leça,Académica
+09/11/1997,2 - 0,Salgueiros,Chaves
+09/11/1997,1 - 0,Varzim,Sporting Braga
+08/11/1997,1 - 1,Marítimo,Farense
+08/11/1997,1 - 1,Porto,Sporting CP
+02/11/1997,0 - 1,Académica,Estrela Amadora
+02/11/1997,2 - 1,Campomaiorense,Belenenses
+02/11/1997,0 - 0,Farense,Salgueiros
+02/11/1997,1 - 1,Vitória Guimarães,Boavista
+02/11/1997,2 - 1,Vitória Setúbal,Leça
+01/11/1997,0 - 1,Chaves,Benfica
+01/11/1997,1 - 1,Sporting CP,Varzim
+31/10/1997,0 - 0,Rio Ave,Porto
+31/10/1997,3 - 1,Sporting Braga,Marítimo
+26/10/1997,1 - 0,Salgueiros,Sporting Braga
+19/10/1997,1 - 0,Belenenses,Vitória Guimarães
+19/10/1997,3 - 1,Benfica,Farense
+19/10/1997,1 - 0,Estrela Amadora,Vitória Setúbal
+19/10/1997,1 - 0,Leça,Campomaiorense
+19/10/1997,1 - 3,Varzim,Rio Ave
+18/10/1997,2 - 1,Boavista,Chaves
+18/10/1997,2 - 1,Porto,Académica
+17/10/1997,0 - 1,Marítimo,Sporting CP
+06/10/1997,0 - 0,Farense,Boavista
+06/10/1997,1 - 1,Vitória Setúbal,Porto
+05/10/1997,1 - 1,Académica,Varzim
+05/10/1997,2 - 0,Campomaiorense,Estrela Amadora
+05/10/1997,1 - 2,Chaves,Vitória Guimarães
+05/10/1997,1 - 1,Leça,Belenenses
+05/10/1997,2 - 0,Rio Ave,Marítimo
+05/10/1997,2 - 1,Sporting CP,Salgueiros
+04/10/1997,1 - 1,Sporting Braga,Benfica
+28/09/1997,0 - 1,Belenenses,Chaves
+28/09/1997,2 - 1,Estrela Amadora,Leça
+28/09/1997,4 - 1,Marítimo,Académica
+28/09/1997,5 - 1,Salgueiros,Rio Ave
+28/09/1997,1 - 0,Varzim,Vitória Setúbal
+27/09/1997,0 - 0,Benfica,Sporting CP
+27/09/1997,3 - 0,Porto,Campomaiorense
+26/09/1997,0 - 0,Boavista,Sporting Braga
+26/09/1997,2 - 0,Vitória Guimarães,Farense
+22/09/1997,2 - 3,Leça,Porto
+22/09/1997,1 - 0,Sporting CP,Boavista
+21/09/1997,1 - 1,Estrela Amadora,Belenenses
+21/09/1997,3 - 2,Sporting Braga,Vitória Guimarães
+21/09/1997,1 - 1,Vitória Setúbal,Marítimo
+20/09/1997,2 - 1,Académica,Salgueiros
+20/09/1997,1 - 1,Campomaiorense,Varzim
+20/09/1997,1 - 0,Farense,Chaves
+20/09/1997,3 - 1,Rio Ave,Benfica
+14/09/1997,0 - 3,Belenenses,Farense
+14/09/1997,1 - 2,Boavista,Rio Ave
+14/09/1997,2 - 1,Marítimo,Campomaiorense
+14/09/1997,1 - 1,Salgueiros,Vitória Setúbal
+14/09/1997,1 - 0,Varzim,Leça
+13/09/1997,1 - 1,Benfica,Académica
+13/09/1997,4 - 0,Porto,Estrela Amadora
+12/09/1997,1 - 2,Chaves,Sporting Braga
+12/09/1997,1 - 0,Vitória Guimarães,Sporting CP
+31/08/1997,2 - 0,Académica,Boavista
+31/08/1997,0 - 0,Campomaiorense,Salgueiros
+31/08/1997,0 - 0,Estrela Amadora,Varzim
+31/08/1997,1 - 1,Leça,Marítimo
+31/08/1997,2 - 2,Sporting Braga,Farense
+31/08/1997,2 - 0,Sporting CP,Chaves
+31/08/1997,1 - 0,Vitória Setúbal,Benfica
+30/08/1997,2 - 0,Porto,Belenenses
+29/08/1997,1 - 2,Rio Ave,Vitória Guimarães
+25/08/1997,0 - 2,Varzim,Porto
+24/08/1997,2 - 2,Belenenses,Sporting Braga
+24/08/1997,4 - 0,Benfica,Campomaiorense
+24/08/1997,2 - 1,Boavista,Vitória Setúbal
+24/08/1997,0 - 2,Chaves,Rio Ave
+24/08/1997,2 - 1,Marítimo,Estrela Amadora
+24/08/1997,0 - 0,Salgueiros,Leça
+23/08/1997,0 - 0,Farense,Sporting CP
+23/08/1997,1 - 0,Vitória Guimarães,Académica

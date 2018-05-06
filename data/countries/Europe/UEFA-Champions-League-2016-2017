@@ -1,0 +1,218 @@
+date,score,home_team,away_team
+03/06/2017,1 - 4,[N] Juventus,Real Madrid
+10/05/2017,2 - 1,Atlético Madrid,Real Madrid
+09/05/2017,2 - 1,Juventus,Monaco
+03/05/2017,0 - 2,Monaco,Juventus
+02/05/2017,3 - 0,Real Madrid,Atlético Madrid
+19/04/2017,0 - 0,Barcelona,Juventus
+19/04/2017,3 - 1,Monaco,Borussia Dortmund
+18/04/2017,1 - 1,Leicester City,Atlético Madrid
+18/04/2017,1 - 2, [ET] Real Madrid,Bayern München
+12/04/2017,1 - 0,Atlético Madrid,Leicester City
+12/04/2017,1 - 2,Bayern München,Real Madrid
+12/04/2017,2 - 3,Borussia Dortmund,Monaco
+11/04/2017,3 - 0,Juventus,Barcelona
+15/03/2017,0 - 0,Atlético Madrid,Bayer Leverkusen
+15/03/2017,3 - 1,Monaco,Manchester City
+14/03/2017,1 - 0,Juventus,Porto
+14/03/2017,2 - 0,Leicester City,Sevilla
+08/03/2017,6 - 1,Barcelona,PSG
+08/03/2017,4 - 0,Borussia Dortmund,Benfica
+07/03/2017,1 - 5,Arsenal,Bayern München
+07/03/2017,1 - 3,Napoli,Real Madrid
+22/02/2017,0 - 2,Porto,Juventus
+22/02/2017,2 - 1,Sevilla,Leicester City
+21/02/2017,2 - 4,Bayer Leverkusen,Atlético Madrid
+21/02/2017,5 - 3,Manchester City,Monaco
+15/02/2017,5 - 1,Bayern München,Arsenal
+15/02/2017,3 - 1,Real Madrid,Napoli
+14/02/2017,1 - 0,Benfica,Borussia Dortmund
+14/02/2017,4 - 0,PSG,Barcelona
+06/12/2016,1 - 4,Basel,Arsenal
+06/12/2016,2 - 2,PSG,Ludogorets
+23/11/2016,2 - 2,Arsenal,PSG
+23/11/2016,0 - 0,[N] Ludogorets,Basel
+01/11/2016,1 - 2,Basel,PSG
+01/11/2016,2 - 3,[N] Ludogorets,Arsenal
+19/10/2016,6 - 0,Arsenal,Ludogorets
+19/10/2016,3 - 0,PSG,Basel
+28/09/2016,2 - 0,Arsenal,Basel
+28/09/2016,1 - 3,[N] Ludogorets,PSG
+13/09/2016,1 - 1,Basel,Ludogorets
+13/09/2016,1 - 1,PSG,Arsenal
+06/12/2016,1 - 2,Benfica,Napoli
+06/12/2016,6 - 0,Dynamo Kyiv,Beşiktaş
+23/11/2016,0 - 0,Napoli,Dynamo Kyiv
+23/11/2016,3 - 3,Beşiktaş,Benfica
+01/11/2016,1 - 0,Benfica,Dynamo Kyiv
+01/11/2016,1 - 1,Beşiktaş,Napoli
+19/10/2016,0 - 2,Dynamo Kyiv,Benfica
+19/10/2016,2 - 3,Napoli,Beşiktaş
+28/09/2016,1 - 1,Beşiktaş,Dynamo Kyiv
+28/09/2016,4 - 2,Napoli,Benfica
+13/09/2016,1 - 1,Benfica,Beşiktaş
+13/09/2016,1 - 2,Dynamo Kyiv,Napoli
+06/12/2016,4 - 0,Barcelona,Borussia M'gladbach
+06/12/2016,1 - 1,Manchester City,Celtic
+23/11/2016,1 - 1,Borussia M'gladbach,Manchester City
+23/11/2016,0 - 2,Celtic,Barcelona
+01/11/2016,1 - 1,Borussia M'gladbach,Celtic
+01/11/2016,3 - 1,Manchester City,Barcelona
+19/10/2016,4 - 0,Barcelona,Manchester City
+19/10/2016,0 - 2,Celtic,Borussia M'gladbach
+28/09/2016,1 - 2,Borussia M'gladbach,Barcelona
+28/09/2016,3 - 3,Celtic,Manchester City
+14/09/2016,4 - 0,Manchester City,Borussia M'gladbach
+13/09/2016,7 - 0,Barcelona,Celtic
+06/12/2016,1 - 0,Bayern München,Atlético Madrid
+06/12/2016,0 - 0,PSV,Rostov
+23/11/2016,2 - 0,Atlético Madrid,PSV
+23/11/2016,3 - 2,Rostov,Bayern München
+01/11/2016,2 - 1,Atlético Madrid,Rostov
+01/11/2016,1 - 2,PSV,Bayern München
+19/10/2016,4 - 1,Bayern München,PSV
+19/10/2016,0 - 1,Rostov,Atlético Madrid
+28/09/2016,1 - 0,Atlético Madrid,Bayern München
+28/09/2016,2 - 2,Rostov,PSV
+13/09/2016,5 - 0,Bayern München,Rostov
+13/09/2016,0 - 1,PSV,Atlético Madrid
+07/12/2016,3 - 0,Bayer Leverkusen,Monaco
+07/12/2016,3 - 1,Tottenham Hotspur,CSKA Moskva
+22/11/2016,2 - 1,Monaco,Tottenham Hotspur
+22/11/2016,1 - 1,CSKA Moskva,Bayer Leverkusen
+02/11/2016,3 - 0,Monaco,CSKA Moskva
+02/11/2016,0 - 1,Tottenham Hotspur,Bayer Leverkusen
+18/10/2016,0 - 0,Bayer Leverkusen,Tottenham Hotspur
+18/10/2016,1 - 1,CSKA Moskva,Monaco
+27/09/2016,0 - 1,CSKA Moskva,Tottenham Hotspur
+27/09/2016,1 - 1,Monaco,Bayer Leverkusen
+14/09/2016,2 - 2,Bayer Leverkusen,CSKA Moskva
+14/09/2016,1 - 2,Tottenham Hotspur,Monaco
+07/12/2016,1 - 0,Legia Warszawa,Sporting CP
+07/12/2016,2 - 2,Real Madrid,Borussia Dortmund
+22/11/2016,8 - 4,Borussia Dortmund,Legia Warszawa
+22/11/2016,1 - 2,Sporting CP,Real Madrid
+02/11/2016,1 - 0,Borussia Dortmund,Sporting CP
+02/11/2016,3 - 3,Legia Warszawa,Real Madrid
+18/10/2016,5 - 1,Real Madrid,Legia Warszawa
+18/10/2016,1 - 2,Sporting CP,Borussia Dortmund
+27/09/2016,2 - 2,Borussia Dortmund,Real Madrid
+27/09/2016,2 - 0,Sporting CP,Legia Warszawa
+14/09/2016,0 - 6,Legia Warszawa,Borussia Dortmund
+14/09/2016,2 - 1,Real Madrid,Sporting CP
+07/12/2016,0 - 2,Club Brugge,København
+07/12/2016,5 - 0,Porto,Leicester City
+22/11/2016,0 - 0,København,Porto
+22/11/2016,2 - 1,Leicester City,Club Brugge
+02/11/2016,0 - 0,København,Leicester City
+02/11/2016,1 - 0,Porto,Club Brugge
+18/10/2016,1 - 2,Club Brugge,Porto
+18/10/2016,1 - 0,Leicester City,København
+27/09/2016,4 - 0,København,Club Brugge
+27/09/2016,1 - 0,Leicester City,Porto
+14/09/2016,0 - 3,Club Brugge,Leicester City
+14/09/2016,1 - 1,Porto,København
+07/12/2016,2 - 0,Juventus,Dinamo Zagreb
+07/12/2016,0 - 0,Olympique Lyonnais,Sevilla
+22/11/2016,0 - 1,Dinamo Zagreb,Olympique Lyonnais
+22/11/2016,1 - 3,Sevilla,Juventus
+02/11/2016,1 - 1,Juventus,Olympique Lyonnais
+02/11/2016,4 - 0,Sevilla,Dinamo Zagreb
+18/10/2016,0 - 1,Dinamo Zagreb,Sevilla
+18/10/2016,0 - 1,Olympique Lyonnais,Juventus
+27/09/2016,0 - 4,Dinamo Zagreb,Juventus
+27/09/2016,1 - 0,Sevilla,Olympique Lyonnais
+14/09/2016,0 - 0,Juventus,Sevilla
+14/09/2016,3 - 0,Olympique Lyonnais,Dinamo Zagreb
+24/08/2016,1 - 1,APOEL,København
+24/08/2016,6 - 1,Borussia M'gladbach,Young Boys
+24/08/2016,1 - 0,Manchester City,FCSB
+24/08/2016,4 - 1,Rostov,Ajax
+24/08/2016,1 - 1,Salzburg,Dinamo Zagreb [ET] 
+23/08/2016,2 - 0,Hapoel Be'er Sheva,Celtic
+23/08/2016,1 - 1,Legia Warszawa,Dundalk
+23/08/2016,1 - 0,Monaco,Villarreal
+23/08/2016,0 - 3,Roma,Porto
+23/08/2016,2 - 2,Viktoria Plzeň,Ludogorets
+17/08/2016,5 - 2,Celtic,Hapoel Be'er Sheva
+17/08/2016,0 - 2,[N] Dundalk,Legia Warszawa
+17/08/2016,2 - 0,[N] Ludogorets,Viktoria Plzeň
+17/08/2016,1 - 1,Porto,Roma
+17/08/2016,1 - 2,Villarreal,Monaco
+16/08/2016,1 - 1,Ajax,Rostov
+16/08/2016,1 - 1,Dinamo Zagreb,Salzburg
+16/08/2016,0 - 5,FCSB,Manchester City
+16/08/2016,1 - 0,København,APOEL
+16/08/2016,1 - 3,Young Boys,Borussia M'gladbach
+03/08/2016,0 - 2,Anderlecht,Rostov
+03/08/2016,2 - 1,Celtic,Astana
+03/08/2016,0 - 0,Legia Warszawa,Trenčín
+03/08/2016,3 - 1,Monaco,Fenerbahçe
+03/08/2016,1 - 2,PAOK,Ajax
+03/08/2016,2 - 0,Salzburg,Partizani Tirana
+03/08/2016,2 - 0, [PS] Young Boys,Shakhtar Donetsk
+03/08/2016,1 - 0,Hapoel Be'er Sheva,Olympiakos Piraeus
+03/08/2016,2 - 0,FCSB,Sparta Praha
+03/08/2016,3 - 0,København,Astra
+02/08/2016,3 - 0,[N] Dundalk,BATE
+02/08/2016,2 - 2,Crvena Zvezda,Ludogorets [ET] 
+02/08/2016,3 - 0,APOEL,Rosenborg
+02/08/2016,0 - 1,Dinamo Tbilisi,Dinamo Zagreb
+02/08/2016,1 - 1,Qarabağ,Viktoria Plzeň
+27/07/2016,0 - 0,Olympiakos Piraeus,Hapoel Be'er Sheva
+27/07/2016,2 - 1,Fenerbahçe,Monaco
+27/07/2016,0 - 1,Trenčín,Legia Warszawa
+27/07/2016,1 - 1,Astra,København
+27/07/2016,2 - 1,Rosenborg,APOEL
+27/07/2016,1 - 1,Astana,Celtic
+26/07/2016,1 - 1,Ajax,PAOK
+26/07/2016,2 - 0,Dinamo Zagreb,Dinamo Tbilisi
+26/07/2016,2 - 0,Shakhtar Donetsk,Young Boys
+26/07/2016,2 - 2,Rostov,Anderlecht
+26/07/2016,0 - 1,Partizani Tirana,Salzburg
+26/07/2016,0 - 0,Viktoria Plzeň,Qarabağ
+26/07/2016,1 - 0,BATE,Dundalk
+26/07/2016,2 - 2,Ludogorets,Crvena Zvezda
+26/07/2016,1 - 1,Sparta Praha,FCSB
+20/07/2016,2 - 2,FH,Dundalk
+20/07/2016,3 - 0,Celtic,Lincoln Red Imps
+20/07/2016,3 - 2,Dinamo Zagreb,Vardar
+20/07/2016,2 - 3,Trenčín,Olimpija
+20/07/2016,1 - 1,Ferencváros,Partizani Tirana [PS] 
+20/07/2016,3 - 2,Norrköping,Rosenborg
+20/07/2016,1 - 1,F91 Dudelange,Qarabağ
+20/07/2016,2 - 1,Astana,Žalgiris
+19/07/2016,2 - 0,Legia Warszawa,Zrinjski
+19/07/2016,0 - 3,Mladost,Ludogorets
+19/07/2016,2 - 1,Crvena Zvezda,Valletta
+19/07/2016,6 - 0,København,Crusaders
+19/07/2016,3 - 0,APOEL,The New Saints
+19/07/2016,0 - 0,Sheriff,Hapoel Be'er Sheva
+19/07/2016,2 - 2,SJK,BATE
+19/07/2016,0 - 2,Liepāja,Salzburg
+19/07/2016,1 - 1,Alashkert,Dinamo Tbilisi
+13/07/2016,1 - 1,Dundalk,FH
+13/07/2016,3 - 4,Olimpija,Trenčín
+13/07/2016,0 - 3,Crusaders,København
+13/07/2016,1 - 1,[N] Partizani Tirana,Ferencváros
+13/07/2016,2 - 0,Ludogorets,Mladost
+13/07/2016,3 - 1,Rosenborg,Norrköping
+13/07/2016,0 - 0,Žalgiris,Astana
+12/07/2016,1 - 2,Vardar,Dinamo Zagreb
+12/07/2016,1 - 0,Salzburg,Liepāja
+12/07/2016,2 - 0,BATE,SJK
+12/07/2016,1 - 0,Lincoln Red Imps,Celtic
+12/07/2016,0 - 0,The New Saints,APOEL
+12/07/2016,1 - 2,Valletta,Crvena Zvezda
+12/07/2016,3 - 2,Hapoel Be'er Sheva,Sheriff
+12/07/2016,2 - 0,Dinamo Tbilisi,Alashkert
+12/07/2016,2 - 0,Qarabağ,F91 Dudelange
+12/07/2016,1 - 1,Zrinjski,Legia Warszawa
+06/07/2016,2 - 0,Lincoln Red Imps,Flora
+05/07/2016,0 - 3,Tre Penne,The New Saints
+05/07/2016,2 - 1,B36,Valletta
+05/07/2016,3 - 0,Alashkert,FC Santa Coloma
+28/06/2016,0 - 0,FC Santa Coloma,Alashkert
+28/06/2016,2 - 1,The New Saints,Tre Penne
+28/06/2016,1 - 0,Valletta,B36
+28/06/2016,2 - 1,Flora,Lincoln Red Imps

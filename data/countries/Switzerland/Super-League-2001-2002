@@ -1,0 +1,245 @@
+date,score,home_team,away_team
+08/05/2002,4 - 3,Basel,Lugano
+08/05/2002,3 - 3,Grasshopper,St. Gallen
+08/05/2002,0 - 1,Servette,Zürich
+08/05/2002,3 - 1,Sion,Young Boys
+04/05/2002,1 - 3,Lugano,Servette
+04/05/2002,2 - 1,St. Gallen,Sion
+04/05/2002,1 - 4,Young Boys,Grasshopper
+04/05/2002,3 - 1,Zürich,Basel
+28/04/2002,2 - 1,Grasshopper,Lugano
+28/04/2002,1 - 1,Sion,Zürich
+27/04/2002,1 - 2,Basel,St. Gallen
+27/04/2002,0 - 0,Servette,Young Boys
+25/04/2002,2 - 0,Lugano,Sion
+25/04/2002,1 - 1,Zürich,Grasshopper
+24/04/2002,1 - 3,St. Gallen,Servette
+24/04/2002,0 - 3,Young Boys,Basel
+20/04/2002,0 - 3,Sion,Basel
+20/04/2002,0 - 1,St. Gallen,Zürich
+20/04/2002,2 - 2,Young Boys,Lugano
+19/04/2002,2 - 2,Grasshopper,Servette
+14/04/2002,4 - 1,Basel,Grasshopper
+14/04/2002,2 - 0,Zürich,Young Boys
+13/04/2002,1 - 0,Lugano,St. Gallen
+13/04/2002,4 - 1,Servette,Sion
+07/04/2002,3 - 2,Basel,Servette
+07/04/2002,3 - 1,St. Gallen,Young Boys
+07/04/2002,0 - 2,Zürich,Lugano
+06/04/2002,0 - 2,Sion,Grasshopper
+04/04/2002,1 - 3,St. Gallen,Basel
+01/04/2002,1 - 2,Servette,Basel
+30/03/2002,1 - 0,Grasshopper,Sion
+30/03/2002,2 - 0,Lugano,Zürich
+30/03/2002,1 - 0,Young Boys,St. Gallen
+24/03/2002,1 - 0,Grasshopper,Basel
+24/03/2002,2 - 3,Sion,Servette
+24/03/2002,3 - 2,Young Boys,Zürich
+23/03/2002,0 - 0,St. Gallen,Lugano
+20/03/2002,1 - 4,Sion,Lugano
+17/03/2002,2 - 1,Lugano,Young Boys
+16/03/2002,4 - 0,Basel,Sion
+16/03/2002,1 - 0,Zürich,St. Gallen
+15/03/2002,1 - 5,Servette,Grasshopper
+09/03/2002,2 - 0,Basel,Young Boys
+09/03/2002,3 - 0,Grasshopper,Zürich
+09/03/2002,2 - 2,Servette,St. Gallen
+06/03/2002,1 - 0,Lugano,Grasshopper
+06/03/2002,3 - 1,Young Boys,Servette
+06/03/2002,2 - 1,Zürich,Sion
+03/03/2002,1 - 0,Servette,Lugano
+03/03/2002,0 - 2,Sion,St. Gallen
+02/03/2002,1 - 0,Basel,Zürich
+02/03/2002,1 - 1,Grasshopper,Young Boys
+24/02/2002,2 - 5,Lugano,Basel
+24/02/2002,4 - 0,Young Boys,Sion
+24/02/2002,0 - 2,Zürich,Servette
+23/02/2002,2 - 2,St. Gallen,Grasshopper
+07/05/2002,2 - 1,Aarau,Neuchâtel Xamax
+07/05/2002,3 - 2,Lausanne Sport,Delémont
+07/05/2002,1 - 0,Thun,Winterthur
+07/05/2002,2 - 2,Wil,Luzern
+04/05/2002,2 - 1,Delémont,Aarau
+04/05/2002,3 - 3,Luzern,Thun
+04/05/2002,1 - 0,Neuchâtel Xamax,Lausanne Sport
+04/05/2002,1 - 1,Winterthur,Wil
+28/04/2002,3 - 0,Aarau,Winterthur
+28/04/2002,1 - 0,Lausanne Sport,Luzern
+28/04/2002,2 - 0,Thun,Neuchâtel Xamax
+28/04/2002,3 - 1,Wil,Delémont
+25/04/2002,0 - 0,Delémont,Thun
+25/04/2002,2 - 2,Luzern,Aarau
+25/04/2002,1 - 4,Winterthur,Lausanne Sport
+24/04/2002,2 - 0,Neuchâtel Xamax,Wil
+21/04/2002,1 - 0,Delémont,Winterthur
+20/04/2002,0 - 1,Aarau,Wil
+20/04/2002,1 - 0,Lausanne Sport,Thun
+20/04/2002,3 - 2,Neuchâtel Xamax,Luzern
+14/04/2002,4 - 1,Luzern,Delémont
+14/04/2002,0 - 1,Thun,Aarau
+14/04/2002,0 - 0,Wil,Lausanne Sport
+14/04/2002,1 - 1,Winterthur,Neuchâtel Xamax
+07/04/2002,1 - 2,Thun,Wil
+06/04/2002,0 - 1,Lausanne Sport,Aarau
+06/04/2002,4 - 1,Luzern,Winterthur
+06/04/2002,4 - 0,Neuchâtel Xamax,Delémont
+01/04/2002,0 - 3,Aarau,Lausanne Sport
+01/04/2002,1 - 2,Delémont,Neuchâtel Xamax
+30/03/2002,2 - 0,Wil,Thun
+30/03/2002,3 - 2,Winterthur,Luzern
+24/03/2002,0 - 0,Delémont,Luzern
+24/03/2002,2 - 0,Lausanne Sport,Wil
+23/03/2002,1 - 3,Aarau,Thun
+23/03/2002,2 - 0,Neuchâtel Xamax,Winterthur
+17/03/2002,2 - 2,Luzern,Neuchâtel Xamax
+17/03/2002,2 - 0,Thun,Lausanne Sport
+17/03/2002,2 - 2,Wil,Aarau
+17/03/2002,0 - 0,Winterthur,Delémont
+10/03/2002,4 - 1,Lausanne Sport,Winterthur
+10/03/2002,1 - 1,Thun,Delémont
+10/03/2002,0 - 0,Wil,Neuchâtel Xamax
+09/03/2002,2 - 1,Aarau,Luzern
+06/03/2002,1 - 0,Delémont,Wil
+06/03/2002,1 - 2,Luzern,Lausanne Sport
+06/03/2002,4 - 0,Neuchâtel Xamax,Thun
+06/03/2002,2 - 2,Winterthur,Aarau
+03/03/2002,1 - 1,Lausanne Sport,Neuchâtel Xamax
+03/03/2002,4 - 2,Thun,Luzern
+03/03/2002,2 - 0,Wil,Winterthur
+02/03/2002,2 - 0,Aarau,Delémont
+24/02/2002,4 - 0,Delémont,Lausanne Sport
+24/02/2002,1 - 2,Luzern,Wil
+24/02/2002,3 - 1,Neuchâtel Xamax,Aarau
+24/02/2002,1 - 2,Winterthur,Thun
+09/12/2001,4 - 1,Grasshopper,Neuchâtel Xamax
+09/12/2001,1 - 0,Lugano,Aarau
+09/12/2001,0 - 1,Luzern,Basel
+09/12/2001,1 - 1,Servette,Lausanne Sport
+09/12/2001,0 - 1,Sion,Zürich
+09/12/2001,1 - 0,Young Boys,St. Gallen
+02/12/2001,4 - 5,Basel,Grasshopper
+01/12/2001,2 - 0,Aarau,Young Boys
+01/12/2001,2 - 1,Lausanne Sport,Sion
+01/12/2001,1 - 3,Neuchâtel Xamax,Lugano
+01/12/2001,2 - 2,St. Gallen,Servette
+01/12/2001,1 - 1,Zürich,Luzern
+25/11/2001,0 - 0,Grasshopper,Zürich
+25/11/2001,1 - 2,Lugano,Basel
+25/11/2001,0 - 1,Young Boys,Servette
+24/11/2001,1 - 2,Aarau,Neuchâtel Xamax
+24/11/2001,1 - 3,Luzern,Lausanne Sport
+24/11/2001,0 - 1,Sion,St. Gallen
+18/11/2001,0 - 0,Neuchâtel Xamax,Young Boys
+18/11/2001,2 - 3,Zürich,Lugano
+17/11/2001,1 - 0,Basel,Aarau
+17/11/2001,2 - 4,Lausanne Sport,Grasshopper
+17/11/2001,2 - 3,Servette,Sion
+17/11/2001,1 - 1,St. Gallen,Luzern
+04/11/2001,3 - 0,Grasshopper,Servette
+04/11/2001,1 - 1,Lugano,St. Gallen
+04/11/2001,1 - 1,Neuchâtel Xamax,Zürich
+03/11/2001,2 - 0,Aarau,Lausanne Sport
+03/11/2001,2 - 6,Luzern,Sion
+03/11/2001,2 - 2,Young Boys,Basel
+28/10/2001,1 - 2,Lausanne Sport,Lugano
+28/10/2001,1 - 0,Sion,Young Boys
+28/10/2001,1 - 0,Zürich,Aarau
+27/10/2001,5 - 1,Basel,Neuchâtel Xamax
+27/10/2001,2 - 0,Servette,Luzern
+27/10/2001,0 - 0,St. Gallen,Grasshopper
+21/10/2001,0 - 1,Aarau,St. Gallen
+21/10/2001,0 - 3,Grasshopper,Sion
+21/10/2001,1 - 1,Lugano,Servette
+20/10/2001,2 - 1,Basel,Zürich
+20/10/2001,2 - 1,Neuchâtel Xamax,Lausanne Sport
+20/10/2001,5 - 1,Young Boys,Luzern
+16/10/2001,2 - 1,Luzern,Aarau
+14/10/2001,2 - 4,Lausanne Sport,Basel
+14/10/2001,4 - 3,St. Gallen,Neuchâtel Xamax
+14/10/2001,0 - 0,Zürich,Young Boys
+13/10/2001,2 - 1,Luzern,Grasshopper
+13/10/2001,3 - 3,Servette,Aarau
+13/10/2001,5 - 0,Sion,Lugano
+10/10/2001,2 - 2,Aarau,Sion
+10/10/2001,2 - 2,Basel,St. Gallen
+10/10/2001,5 - 0,Lugano,Luzern
+10/10/2001,1 - 3,Neuchâtel Xamax,Servette
+10/10/2001,1 - 3,Young Boys,Grasshopper
+10/10/2001,1 - 0,Zürich,Lausanne Sport
+30/09/2001,2 - 5,Grasshopper,Lugano
+30/09/2001,1 - 4,Servette,Basel
+30/09/2001,3 - 1,St. Gallen,Zürich
+29/09/2001,0 - 4,Sion,Neuchâtel Xamax
+29/09/2001,7 - 0,Young Boys,Lausanne Sport
+26/09/2001,3 - 1,Basel,Lausanne Sport
+23/09/2001,1 - 0,Aarau,Grasshopper
+23/09/2001,1 - 1,Lausanne Sport,St. Gallen
+23/09/2001,0 - 3,Zürich,Servette
+22/09/2001,2 - 1,Basel,Sion
+22/09/2001,0 - 0,Lugano,Young Boys
+22/09/2001,4 - 1,Neuchâtel Xamax,Luzern
+17/09/2001,0 - 3,Lausanne Sport,Servette
+16/09/2001,4 - 1,Basel,Luzern
+16/09/2001,1 - 4,Neuchâtel Xamax,Grasshopper
+15/09/2001,3 - 1,Aarau,Lugano
+15/09/2001,4 - 1,St. Gallen,Young Boys
+15/09/2001,0 - 0,Zürich,Sion
+08/09/2001,1 - 0,Grasshopper,Basel
+08/09/2001,3 - 0,Luzern,Zürich
+08/09/2001,1 - 2,Servette,St. Gallen
+08/09/2001,1 - 0,Sion,Lausanne Sport
+08/09/2001,2 - 1,Young Boys,Aarau
+07/09/2001,3 - 1,Lugano,Neuchâtel Xamax
+26/08/2001,3 - 0,St. Gallen,Sion
+25/08/2001,5 - 1,Basel,Lugano
+25/08/2001,3 - 2,Lausanne Sport,Luzern
+25/08/2001,0 - 0,Neuchâtel Xamax,Aarau
+25/08/2001,3 - 0,Servette,Young Boys
+25/08/2001,1 - 3,Zürich,Grasshopper
+21/08/2001,1 - 1,Lausanne Sport,Neuchâtel Xamax
+21/08/2001,1 - 1,Lugano,Zürich
+21/08/2001,1 - 3,Sion,Servette
+18/08/2001,1 - 1,Aarau,Basel
+18/08/2001,1 - 2,Grasshopper,Lausanne Sport
+18/08/2001,1 - 3,Luzern,St. Gallen
+17/08/2001,2 - 0,Young Boys,Neuchâtel Xamax
+12/08/2001,0 - 1,St. Gallen,Lugano
+11/08/2001,3 - 1,Basel,Young Boys
+11/08/2001,0 - 3,Lausanne Sport,Aarau
+11/08/2001,1 - 1,Servette,Grasshopper
+11/08/2001,3 - 1,Sion,Luzern
+11/08/2001,1 - 1,Zürich,Neuchâtel Xamax
+08/08/2001,2 - 1,Lugano,Lausanne Sport
+04/08/2001,2 - 3,Aarau,Zürich
+04/08/2001,6 - 1,Grasshopper,St. Gallen
+04/08/2001,1 - 1,Luzern,Servette
+04/08/2001,1 - 0,Neuchâtel Xamax,Basel
+04/08/2001,3 - 2,Young Boys,Sion
+28/07/2001,1 - 0,Servette,Lugano
+28/07/2001,2 - 1,Sion,Grasshopper
+28/07/2001,1 - 1,St. Gallen,Aarau
+28/07/2001,2 - 0,Zürich,Basel
+27/07/2001,0 - 4,Luzern,Young Boys
+22/07/2001,1 - 1,Young Boys,Zürich
+21/07/2001,1 - 1,Aarau,Servette
+21/07/2001,6 - 0,Grasshopper,Luzern
+21/07/2001,3 - 0,Neuchâtel Xamax,St. Gallen
+18/07/2001,1 - 1,Grasshopper,Young Boys
+18/07/2001,1 - 1,Lausanne Sport,Zürich
+18/07/2001,1 - 2,Luzern,Lugano
+18/07/2001,2 - 0,Servette,Neuchâtel Xamax
+18/07/2001,3 - 3,St. Gallen,Basel
+17/07/2001,0 - 1,Sion,Aarau
+14/07/2001,3 - 2,Aarau,Luzern
+14/07/2001,5 - 3,Lugano,Grasshopper
+14/07/2001,0 - 0,Neuchâtel Xamax,Sion
+14/07/2001,3 - 2,Zürich,St. Gallen
+11/07/2001,3 - 1,Basel,Servette
+11/07/2001,2 - 3,Lausanne Sport,Young Boys
+11/07/2001,0 - 1,Lugano,Sion
+07/07/2001,1 - 0,Grasshopper,Aarau
+07/07/2001,0 - 0,Luzern,Neuchâtel Xamax
+07/07/2001,0 - 2,Servette,Zürich
+07/07/2001,1 - 1,Young Boys,Lugano
+04/07/2001,8 - 1,Sion,Basel
+04/07/2001,3 - 0,St. Gallen,Lausanne Sport

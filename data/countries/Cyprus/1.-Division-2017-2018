@@ -1,0 +1,237 @@
+date,score,home_team,away_team
+06/05/2018,document.write(timestamp_to_time(1525622400));16:00 GMT,Apollon,AEK Larnaca 
+06/05/2018,document.write(timestamp_to_time(1525618800));15:00 GMT,Anorthosis,Omonia Nicosia
+05/05/2018,document.write(timestamp_to_time(1525536000));16:00 GMT,AEL,APOEL
+29/04/2018,2 - 1,APOEL,Apollon
+29/04/2018,2 - 0,AEK Larnaca ,Omonia Nicosia
+28/04/2018,0 - 0,Anorthosis,AEL
+22/04/2018,1 - 3,AEK Larnaca ,APOEL
+22/04/2018,3 - 1,Apollon,Anorthosis
+21/04/2018,1 - 2,Omonia Nicosia,AEL
+15/04/2018,4 - 1,APOEL,Omonia Nicosia
+14/04/2018,1 - 1,Anorthosis,AEK Larnaca 
+14/04/2018,0 - 2,AEL,Apollon
+04/04/2018,3 - 0,Apollon,Omonia Nicosia
+04/04/2018,0 - 0,Anorthosis,APOEL
+03/04/2018,3 - 2,AEL,AEK Larnaca 
+01/04/2018,1 - 2,Omonia Nicosia,Anorthosis
+31/03/2018,3 - 0,AEK Larnaca ,Apollon
+31/03/2018,3 - 1,APOEL,AEL
+18/03/2018,4 - 2,Apollon,APOEL
+17/03/2018,0 - 2,AEL,Anorthosis
+17/03/2018,1 - 3,Omonia Nicosia,AEK Larnaca 
+11/03/2018,1 - 2,Anorthosis,Apollon
+11/03/2018,0 - 0,APOEL,AEK Larnaca 
+10/03/2018,2 - 1,AEL,Omonia Nicosia
+04/03/2018,0 - 2,Omonia Nicosia,APOEL
+03/03/2018,2 - 2,AEK Larnaca ,Anorthosis
+03/03/2018,5 - 1,Apollon,AEL
+07/05/2018,document.write(timestamp_to_time(1525708800));16:00 GMT,Ermis,Nea Salamis
+05/05/2018,document.write(timestamp_to_time(1525528800));14:00 GMT,Alki Oroklini,Doxa
+05/05/2018,document.write(timestamp_to_time(1525528800));14:00 GMT,Paphos,Olympiakos
+30/04/2018,1 - 1,Paphos,Alki Oroklini
+29/04/2018,3 - 1,Nea Salamis,Olympiakos
+28/04/2018,2 - 3,Doxa,Ermis
+23/04/2018,0 - 3,Olympiakos,Alki Oroklini
+21/04/2018,0 - 1,Ermis,Paphos
+21/04/2018,4 - 1,Nea Salamis,Doxa
+16/04/2018,2 - 3,Alki Oroklini,Ermis
+15/04/2018,1 - 2,Paphos,Nea Salamis
+14/04/2018,5 - 0,Doxa,Olympiakos
+05/04/2018,3 - 2,Ermis,Olympiakos
+04/04/2018,1 - 0,Paphos,Doxa
+03/04/2018,1 - 0,Alki Oroklini,Nea Salamis
+01/04/2018,3 - 0,Olympiakos,Paphos
+31/03/2018,4 - 3,Doxa,Alki Oroklini
+31/03/2018,2 - 0,Nea Salamis,Ermis
+18/03/2018,2 - 1,Ermis,Doxa
+18/03/2018,0 - 2,Olympiakos,Nea Salamis
+17/03/2018,3 - 0,Alki Oroklini,Paphos
+12/03/2018,0 - 1,Paphos,Ermis
+10/03/2018,3 - 1,Alki Oroklini,Olympiakos
+10/03/2018,2 - 6,Doxa,Nea Salamis
+04/03/2018,1 - 3,Nea Salamis,Paphos
+04/03/2018,0 - 1,Ermis,Alki Oroklini
+03/03/2018,0 - 1,Olympiakos,Doxa
+25/02/2018,1 - 1,Paphos,AEK Larnaca 
+25/02/2018,1 - 3,Omonia Nicosia,Doxa
+25/02/2018,0 - 1,AEL,Anorthosis
+25/02/2018,0 - 4,Alki Oroklini,Nea Salamis
+24/02/2018,4 - 1,Ermis,Aris
+24/02/2018,2 - 3,Olympiakos,APOEL
+24/02/2018,1 - 4,Ethnikos Achna,Apollon
+21/02/2018,0 - 1,Aris,Olympiakos
+18/02/2018,1 - 1,Doxa,Paphos
+18/02/2018,4 - 0,Anorthosis,Ermis
+17/02/2018,0 - 3,Nea Salamis,AEL
+17/02/2018,2 - 1,APOEL,Omonia Nicosia
+17/02/2018,5 - 1,Apollon,Alki Oroklini
+17/02/2018,6 - 1,AEK Larnaca ,Ethnikos Achna
+12/02/2018,2 - 4,Alki Oroklini,AEL
+11/02/2018,2 - 0,Apollon,AEK Larnaca 
+11/02/2018,0 - 3,Olympiakos,Anorthosis
+11/02/2018,2 - 3,Paphos,APOEL
+10/02/2018,2 - 1,Ermis,Nea Salamis
+10/02/2018,3 - 0,Omonia Nicosia,Aris
+10/02/2018,0 - 4,Ethnikos Achna,Doxa
+07/02/2018,0 - 2,Doxa,Apollon
+07/02/2018,1 - 0,AEL,Ermis
+07/02/2018,1 - 2,Anorthosis,Omonia Nicosia
+06/02/2018,2 - 1,AEK Larnaca ,Alki Oroklini
+06/02/2018,7 - 1,APOEL,Ethnikos Achna
+06/02/2018,2 - 0,Nea Salamis,Olympiakos
+06/02/2018,0 - 6,Aris,Paphos
+31/01/2018,4 - 0,AEK Larnaca ,Doxa
+31/01/2018,0 - 1,Paphos,Anorthosis
+31/01/2018,1 - 2,Apollon,APOEL
+31/01/2018,0 - 4,Ethnikos Achna,Aris
+30/01/2018,5 - 1,Omonia Nicosia,Nea Salamis
+30/01/2018,3 - 4,Alki Oroklini,Ermis
+30/01/2018,1 - 2,Olympiakos,AEL
+24/01/2018,0 - 4,APOEL,Apollon
+22/01/2018,4 - 0,Ermis,Olympiakos
+21/01/2018,0 - 1,Aris,Apollon
+21/01/2018,3 - 1,APOEL,AEK Larnaca 
+21/01/2018,3 - 0,Nea Salamis,Paphos
+20/01/2018,3 - 1,Anorthosis,Ethnikos Achna
+20/01/2018,0 - 1,Doxa,Alki Oroklini
+20/01/2018,2 - 3,AEL,Omonia Nicosia
+17/01/2018,1 - 0,Apollon,Omonia Nicosia
+17/01/2018,2 - 1,APOEL,AEL
+15/01/2018,1 - 1,Alki Oroklini,Olympiakos
+14/01/2018,0 - 1,Paphos,AEL
+14/01/2018,1 - 1,Apollon,Anorthosis
+14/01/2018,0 - 8,Doxa,APOEL
+13/01/2018,4 - 1,AEK Larnaca ,Aris
+13/01/2018,3 - 0,Omonia Nicosia,Ermis
+13/01/2018,0 - 3,Ethnikos Achna,Nea Salamis
+10/01/2018,0 - 2,Paphos,Apollon
+08/01/2018,1 - 0,Aris,Doxa
+07/01/2018,4 - 0,APOEL,Alki Oroklini
+07/01/2018,3 - 1,Anorthosis,AEK Larnaca 
+07/01/2018,3 - 0,AEL,Ethnikos Achna
+06/01/2018,0 - 0,Nea Salamis,Apollon
+06/01/2018,2 - 0,Ermis,Paphos
+06/01/2018,2 - 3,Olympiakos,Omonia Nicosia
+03/01/2018,2 - 0,AEK Larnaca ,Nea Salamis
+03/01/2018,1 - 1,Apollon,AEL
+03/01/2018,1 - 1,Paphos,Olympiakos
+03/01/2018,5 - 2,APOEL,Aris
+02/01/2018,0 - 3,Alki Oroklini,Omonia Nicosia
+02/01/2018,0 - 0,Ethnikos Achna,Ermis
+02/01/2018,0 - 0,Doxa,Anorthosis
+21/12/2017,0 - 6,Ermis,Apollon
+21/12/2017,3 - 0,Omonia Nicosia,Paphos
+21/12/2017,0 - 0,Aris,Alki Oroklini
+21/12/2017,0 - 1,Nea Salamis,Doxa
+20/12/2017,0 - 3,Anorthosis,APOEL
+20/12/2017,0 - 0,AEL,AEK Larnaca 
+20/12/2017,3 - 2,Olympiakos,Ethnikos Achna
+18/12/2017,2 - 1,Alki Oroklini,Paphos
+17/12/2017,1 - 1,AEK Larnaca ,Ermis
+17/12/2017,0 - 0,Doxa,AEL
+17/12/2017,5 - 0,Apollon,Olympiakos
+16/12/2017,2 - 1,APOEL,Nea Salamis
+16/12/2017,2 - 2,Ethnikos Achna,Omonia Nicosia
+16/12/2017,0 - 2,Aris,Anorthosis
+11/12/2017,0 - 0,AEL,APOEL
+11/12/2017,0 - 1,Omonia Nicosia,Apollon
+10/12/2017,1 - 2,Olympiakos,AEK Larnaca 
+10/12/2017,2 - 0,Nea Salamis,Aris
+09/12/2017,2 - 1,Anorthosis,Alki Oroklini
+09/12/2017,0 - 0,Paphos,Ethnikos Achna
+09/12/2017,1 - 2,Ermis,Doxa
+04/12/2017,5 - 0,AEK Larnaca ,Omonia Nicosia
+03/12/2017,1 - 0,Anorthosis,Nea Salamis
+03/12/2017,3 - 1,Doxa,Olympiakos
+03/12/2017,1 - 2,Aris,AEL
+02/12/2017,2 - 1,Alki Oroklini,Ethnikos Achna
+02/12/2017,2 - 1,APOEL,Ermis
+02/12/2017,6 - 0,Apollon,Paphos
+29/11/2017,0 - 4,Ermis,APOEL
+27/11/2017,3 - 0,Apollon,Ethnikos Achna
+26/11/2017,2 - 3,Nea Salamis,Alki Oroklini
+26/11/2017,1 - 2,Doxa,Omonia Nicosia
+26/11/2017,2 - 0,AEK Larnaca ,Paphos
+25/11/2017,1 - 1,Anorthosis,AEL
+25/11/2017,6 - 1,APOEL,Olympiakos
+25/11/2017,0 - 2,Aris,Ermis
+20/11/2017,1 - 0,Paphos,Doxa
+19/11/2017,1 - 2,Ermis,Anorthosis
+19/11/2017,3 - 1,AEL,Nea Salamis
+18/11/2017,0 - 3,Ethnikos Achna,AEK Larnaca 
+18/11/2017,0 - 0,Olympiakos,Aris
+18/11/2017,1 - 4,Alki Oroklini,Apollon
+17/11/2017,1 - 3,Omonia Nicosia,APOEL
+05/11/2017,1 - 1,AEK Larnaca ,Apollon
+05/11/2017,3 - 0,AEL,Alki Oroklini
+05/11/2017,4 - 0,APOEL,Paphos
+05/11/2017,1 - 1,Nea Salamis,Ermis
+04/11/2017,2 - 2,Aris,Omonia Nicosia
+04/11/2017,4 - 2,Doxa,Ethnikos Achna
+04/11/2017,5 - 1,Anorthosis,Olympiakos
+29/10/2017,0 - 1,Ermis,AEL
+29/10/2017,1 - 1,Olympiakos,Nea Salamis
+29/10/2017,4 - 2,Apollon,Doxa
+29/10/2017,0 - 0,Paphos,Aris
+28/10/2017,0 - 1,Alki Oroklini,AEK Larnaca 
+28/10/2017,1 - 1,Ethnikos Achna,APOEL
+28/10/2017,1 - 1,Omonia Nicosia,Anorthosis
+26/10/2017,3 - 0,AEL,Olympiakos
+25/10/2017,3 - 2,Ermis,Alki Oroklini
+25/10/2017,2 - 1,Aris,Ethnikos Achna
+25/10/2017,0 - 0,Anorthosis,Paphos
+24/10/2017,1 - 3,Nea Salamis,Omonia Nicosia
+24/10/2017,1 - 3,Doxa,AEK Larnaca 
+22/10/2017,1 - 0,Apollon,Aris
+22/10/2017,2 - 1,Olympiakos,Ermis
+21/10/2017,3 - 1,AEK Larnaca ,APOEL
+21/10/2017,1 - 2,Ethnikos Achna,Anorthosis
+21/10/2017,4 - 0,Paphos,Nea Salamis
+21/10/2017,0 - 5,Alki Oroklini,Doxa
+21/10/2017,1 - 0,Omonia Nicosia,AEL
+16/10/2017,0 - 0,Nea Salamis,Ethnikos Achna
+15/10/2017,0 - 1,AEL,Paphos
+15/10/2017,0 - 3,Olympiakos,Alki Oroklini
+15/10/2017,2 - 1,Ermis,Omonia Nicosia
+14/10/2017,0 - 5,Aris,AEK Larnaca 
+14/10/2017,1 - 1,Anorthosis,Apollon
+13/10/2017,2 - 0,[N] APOEL,Doxa
+01/10/2017,0 - 1,Alki Oroklini,APOEL
+01/10/2017,2 - 1,Doxa,Aris
+01/10/2017,5 - 0,Apollon,Nea Salamis
+01/10/2017,0 - 1,Ethnikos Achna,AEL
+30/09/2017,1 - 1,AEK Larnaca ,Anorthosis
+30/09/2017,1 - 1,Omonia Nicosia,Olympiakos
+30/09/2017,2 - 1,Paphos,Ermis
+25/09/2017,2 - 0,Anorthosis,Doxa
+24/09/2017,2 - 0,Ermis,Ethnikos Achna
+24/09/2017,0 - 0,Olympiakos,Paphos
+23/09/2017,1 - 0,Nea Salamis,AEK Larnaca 
+23/09/2017,1 - 1,AEL,Apollon
+23/09/2017,2 - 2,Omonia Nicosia,Alki Oroklini
+22/09/2017,0 - 0,Aris,APOEL
+20/09/2017,5 - 2,Omonia Nicosia,AEK Larnaca 
+18/09/2017,0 - 1,APOEL,Anorthosis
+18/09/2017,4 - 2,Apollon,Ermis
+17/09/2017,3 - 3,Alki Oroklini,Aris
+17/09/2017,4 - 1,Doxa,Nea Salamis
+16/09/2017,1 - 0,AEK Larnaca ,AEL
+16/09/2017,2 - 1,Paphos,Omonia Nicosia
+16/09/2017,1 - 2,Ethnikos Achna,Olympiakos
+11/09/2017,0 - 4,Ermis,AEK Larnaca 
+10/09/2017,1 - 0,Anorthosis,Aris
+10/09/2017,2 - 1,Omonia Nicosia,Ethnikos Achna
+10/09/2017,1 - 1,Paphos,Alki Oroklini
+09/09/2017,1 - 4,Nea Salamis,APOEL
+09/09/2017,1 - 0,AEL,Doxa
+09/09/2017,1 - 1,Olympiakos,Apollon
+27/08/2017,0 - 1,Alki Oroklini,Anorthosis
+27/08/2017,2 - 1,Doxa,Ermis
+27/08/2017,2 - 0,AEK Larnaca ,Olympiakos
+26/08/2017,1 - 1,Aris,Nea Salamis
+26/08/2017,3 - 0,Ethnikos Achna,Paphos
+21/08/2017,0 - 0,Olympiakos,Doxa
+20/08/2017,1 - 1,Nea Salamis,Anorthosis
+19/08/2017,1 - 0,AEL,Aris
+19/08/2017,0 - 1,Ethnikos Achna,Alki Oroklini

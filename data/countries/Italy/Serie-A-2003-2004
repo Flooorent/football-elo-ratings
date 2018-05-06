@@ -1,0 +1,307 @@
+date,score,home_team,away_team
+16/05/2004,2 - 1,Chievo,Bologna
+16/05/2004,2 - 3,Empoli,Internazionale
+16/05/2004,2 - 1,Lazio,Modena
+16/05/2004,2 - 1,Lecce,Reggina
+16/05/2004,4 - 2,Milan,Brescia
+16/05/2004,4 - 3,Parma,Udinese
+16/05/2004,1 - 0,Perugia,Ancona
+16/05/2004,1 - 3,Robur Siena,Juventus
+16/05/2004,0 - 0,Sampdoria,Roma
+09/05/2004,2 - 1,Ancona,Empoli
+09/05/2004,1 - 1,Bologna,Lecce
+09/05/2004,2 - 1,Brescia,Lazio
+09/05/2004,1 - 0,Internazionale,Parma
+09/05/2004,2 - 0,Juventus,Sampdoria
+09/05/2004,1 - 3,Modena,Robur Siena
+09/05/2004,2 - 1,Reggina,Milan
+09/05/2004,1 - 3,Roma,Perugia
+09/05/2004,1 - 1,Udinese,Chievo
+02/05/2004,2 - 0,Chievo,Modena
+02/05/2004,2 - 0,Empoli,Bologna
+02/05/2004,1 - 1,Lazio,Reggina
+02/05/2004,2 - 1,Lecce,Internazionale
+02/05/2004,1 - 0,Milan,Roma
+02/05/2004,3 - 1,Parma,Ancona
+02/05/2004,1 - 0,Perugia,Juventus
+02/05/2004,0 - 1,Robur Siena,Brescia
+02/05/2004,1 - 3,Sampdoria,Udinese
+25/04/2004,0 - 2,Ancona,Chievo
+25/04/2004,3 - 1,Bologna,Robur Siena
+25/04/2004,1 - 1,Brescia,Perugia
+25/04/2004,0 - 0,Internazionale,Lazio
+25/04/2004,3 - 4,Juventus,Lecce
+25/04/2004,1 - 0,Modena,Sampdoria
+25/04/2004,1 - 1,Reggina,Parma
+25/04/2004,3 - 0,Roma,Empoli
+25/04/2004,0 - 0,Udinese,Milan
+21/04/2004,1 - 1,Lazio,Roma
+18/04/2004,0 - 0,Chievo,Reggina
+18/04/2004,1 - 1,Empoli,Brescia
+18/04/2004,4 - 2,Internazionale,Bologna
+18/04/2004,4 - 2,Lazio,Ancona
+18/04/2004,0 - 1,Modena,Roma
+18/04/2004,2 - 2,Parma,Juventus
+18/04/2004,3 - 2,Sampdoria,Perugia
+17/04/2004,2 - 1,Lecce,Udinese
+17/04/2004,1 - 2,Robur Siena,Milan
+11/04/2004,2 - 3,Perugia,Internazionale
+10/04/2004,3 - 2,Ancona,Bologna
+10/04/2004,0 - 0,Brescia,Modena
+10/04/2004,1 - 0,Juventus,Lazio
+10/04/2004,1 - 0,Milan,Empoli
+10/04/2004,3 - 1,Parma,Lecce
+10/04/2004,0 - 1,Reggina,Udinese
+10/04/2004,0 - 0,Robur Siena,Sampdoria
+10/04/2004,3 - 1,Roma,Chievo
+04/04/2004,0 - 1,Ancona,Sampdoria
+04/04/2004,2 - 2,Bologna,Reggina
+04/04/2004,0 - 2,Chievo,Parma
+04/04/2004,1 - 0,Empoli,Perugia
+04/04/2004,3 - 2,Internazionale,Juventus
+04/04/2004,5 - 2,Lazio,Robur Siena
+04/04/2004,0 - 3,Lecce,Roma
+04/04/2004,1 - 1,Modena,Milan
+04/04/2004,4 - 3,Udinese,Brescia
+28/03/2004,5 - 2,Brescia,Ancona
+28/03/2004,3 - 1,Juventus,Modena
+28/03/2004,2 - 2,Milan,Chievo
+28/03/2004,4 - 0,Parma,Empoli
+28/03/2004,1 - 2,Perugia,Lazio
+28/03/2004,0 - 2,Reggina,Internazionale
+28/03/2004,1 - 0,Robur Siena,Udinese
+28/03/2004,1 - 2,Roma,Bologna
+28/03/2004,2 - 2,Sampdoria,Lecce
+25/03/2004,2 - 1,Bologna,Lazio
+21/03/2004,0 - 2,Ancona,Internazionale
+21/03/2004,3 - 0,Bologna,Brescia
+21/03/2004,1 - 1,Chievo,Robur Siena
+21/03/2004,1 - 1,Empoli,Sampdoria
+21/03/2004,1 - 2,Lecce,Perugia
+21/03/2004,1 - 2,Modena,Reggina
+20/03/2004,3 - 1,Milan,Parma
+20/03/2004,0 - 0,Udinese,Juventus
+14/03/2004,0 - 0,Internazionale,Chievo
+14/03/2004,1 - 3,Juventus,Milan
+14/03/2004,2 - 2,Lazio,Udinese
+14/03/2004,2 - 2,Parma,Brescia
+14/03/2004,1 - 1,Perugia,Modena
+14/03/2004,0 - 0,Reggina,Roma
+14/03/2004,3 - 2,Robur Siena,Ancona
+13/03/2004,0 - 0,Empoli,Lecce
+13/03/2004,3 - 2,Sampdoria,Bologna
+07/03/2004,1 - 1,Ancona,Reggina
+07/03/2004,0 - 0,Chievo,Empoli
+07/03/2004,0 - 0,Lecce,Robur Siena
+07/03/2004,3 - 1,Milan,Sampdoria
+07/03/2004,4 - 1,Roma,Internazionale
+07/03/2004,1 - 1,Udinese,Perugia
+06/03/2004,2 - 3,Brescia,Juventus
+06/03/2004,2 - 2,Modena,Parma
+29/02/2004,1 - 3,Internazionale,Brescia
+29/02/2004,3 - 0,Juventus,Ancona
+29/02/2004,0 - 1,Lazio,Milan
+29/02/2004,1 - 0,Lecce,Modena
+29/02/2004,1 - 4,Parma,Roma
+29/02/2004,4 - 2,Perugia,Bologna
+29/02/2004,1 - 0,Sampdoria,Chievo
+28/02/2004,2 - 0,Empoli,Udinese
+28/02/2004,0 - 0,Robur Siena,Reggina
+22/02/2004,0 - 1,Bologna,Juventus
+22/02/2004,1 - 2,Brescia,Lecce
+22/02/2004,0 - 0,Chievo,Lazio
+22/02/2004,1 - 1,Modena,Empoli
+22/02/2004,1 - 2,Reggina,Perugia
+22/02/2004,6 - 0,Roma,Robur Siena
+22/02/2004,3 - 0,Udinese,Ancona
+21/02/2004,3 - 2,Milan,Internazionale
+21/02/2004,1 - 2,Sampdoria,Parma
+15/02/2004,0 - 0,Ancona,Roma
+15/02/2004,1 - 1,Bologna,Modena
+15/02/2004,1 - 1,Brescia,Sampdoria
+15/02/2004,1 - 2,Internazionale,Udinese
+15/02/2004,1 - 0,Juventus,Reggina
+15/02/2004,1 - 1,Lecce,Milan
+15/02/2004,1 - 2,Robur Siena,Parma
+14/02/2004,3 - 0,Lazio,Empoli
+14/02/2004,0 - 2,Perugia,Chievo
+08/02/2004,1 - 0,Empoli,Robur Siena
+08/02/2004,2 - 1,Milan,Perugia
+08/02/2004,2 - 1,Modena,Ancona
+08/02/2004,0 - 3,Parma,Lazio
+08/02/2004,0 - 0,Reggina,Brescia
+08/02/2004,4 - 0,Roma,Juventus
+08/02/2004,2 - 2,Sampdoria,Internazionale
+07/02/2004,2 - 3,Chievo,Lecce
+07/02/2004,1 - 3,Udinese,Bologna
+01/02/2004,0 - 2,Ancona,Lecce
+01/02/2004,0 - 2,Bologna,Milan
+01/02/2004,4 - 0,Internazionale,Robur Siena
+01/02/2004,1 - 0,Juventus,Chievo
+01/02/2004,1 - 1,Lazio,Sampdoria
+01/02/2004,2 - 2,Perugia,Parma
+01/02/2004,1 - 0,Udinese,Modena
+31/01/2004,1 - 0,Brescia,Roma
+31/01/2004,2 - 0,Reggina,Empoli
+28/01/2004,2 - 1,Milan,Robur Siena
+25/01/2004,3 - 1,Chievo,Brescia
+25/01/2004,3 - 3,Empoli,Juventus
+25/01/2004,0 - 1,Lecce,Lazio
+25/01/2004,5 - 0,Milan,Ancona
+25/01/2004,1 - 1,Modena,Internazionale
+25/01/2004,0 - 0,Parma,Bologna
+25/01/2004,1 - 1,Roma,Udinese
+24/01/2004,2 - 1,Robur Siena,Perugia
+24/01/2004,2 - 0,Sampdoria,Reggina
+18/01/2004,0 - 0,Ancona,Perugia
+18/01/2004,3 - 1,Bologna,Chievo
+18/01/2004,0 - 1,Brescia,Milan
+18/01/2004,0 - 1,Internazionale,Empoli
+18/01/2004,4 - 2,Juventus,Robur Siena
+18/01/2004,1 - 3,Reggina,Lecce
+18/01/2004,3 - 1,Roma,Sampdoria
+17/01/2004,1 - 1,Modena,Lazio
+17/01/2004,1 - 1,Udinese,Parma
+11/01/2004,2 - 0,Empoli,Ancona
+11/01/2004,0 - 1,Lazio,Brescia
+11/01/2004,1 - 2,Lecce,Bologna
+11/01/2004,3 - 1,Milan,Reggina
+11/01/2004,0 - 1,Perugia,Roma
+11/01/2004,4 - 0,Robur Siena,Modena
+11/01/2004,1 - 2,Sampdoria,Juventus
+10/01/2004,0 - 0,Chievo,Udinese
+10/01/2004,1 - 0,Parma,Internazionale
+06/01/2004,0 - 2,Ancona,Parma
+06/01/2004,2 - 1,Bologna,Empoli
+06/01/2004,4 - 2,Brescia,Robur Siena
+06/01/2004,3 - 1,Internazionale,Lecce
+06/01/2004,1 - 0,Juventus,Perugia
+06/01/2004,0 - 3,Modena,Chievo
+06/01/2004,2 - 1,Reggina,Lazio
+06/01/2004,1 - 2,Roma,Milan
+06/01/2004,0 - 1,Udinese,Sampdoria
+21/12/2003,1 - 0,Chievo,Ancona
+21/12/2003,2 - 1,Lazio,Internazionale
+21/12/2003,1 - 1,Lecce,Juventus
+21/12/2003,1 - 2,Milan,Udinese
+21/12/2003,2 - 2,Perugia,Brescia
+21/12/2003,0 - 0,Robur Siena,Bologna
+21/12/2003,1 - 1,Sampdoria,Modena
+20/12/2003,0 - 2,Empoli,Roma
+20/12/2003,1 - 2,Parma,Reggina
+14/12/2003,0 - 1,Ancona,Lazio
+14/12/2003,0 - 2,Bologna,Internazionale
+14/12/2003,2 - 0,Brescia,Empoli
+14/12/2003,4 - 0,Juventus,Parma
+14/12/2003,0 - 0,Reggina,Chievo
+14/12/2003,1 - 0,Roma,Modena
+13/12/2003,3 - 3,Perugia,Sampdoria
+13/12/2003,1 - 0,Udinese,Lecce
+07/12/2003,3 - 2,Bologna,Ancona
+07/12/2003,0 - 3,Chievo,Roma
+07/12/2003,2 - 1,Internazionale,Perugia
+07/12/2003,1 - 2,Lecce,Parma
+07/12/2003,1 - 1,Modena,Brescia
+07/12/2003,2 - 1,Sampdoria,Robur Siena
+07/12/2003,1 - 0,Udinese,Reggina
+06/12/2003,0 - 1,Empoli,Milan
+06/12/2003,2 - 0,Lazio,Juventus
+30/11/2003,1 - 2,Brescia,Udinese
+30/11/2003,2 - 0,Milan,Modena
+30/11/2003,3 - 1,Parma,Chievo
+30/11/2003,1 - 1,Perugia,Empoli
+30/11/2003,0 - 0,Reggina,Bologna
+30/11/2003,3 - 1,Roma,Lecce
+30/11/2003,2 - 0,Sampdoria,Ancona
+29/11/2003,1 - 3,Juventus,Internazionale
+29/11/2003,3 - 0,Robur Siena,Lazio
+23/11/2003,1 - 1,Ancona,Brescia
+23/11/2003,0 - 4,Bologna,Roma
+23/11/2003,0 - 2,Chievo,Milan
+23/11/2003,1 - 0,Empoli,Parma
+23/11/2003,3 - 1,Lazio,Perugia
+23/11/2003,0 - 0,Lecce,Sampdoria
+23/11/2003,1 - 1,Udinese,Robur Siena
+22/11/2003,6 - 0,Internazionale,Reggina
+22/11/2003,0 - 2,Modena,Juventus
+09/11/2003,3 - 0,Internazionale,Ancona
+09/11/2003,4 - 1,Juventus,Udinese
+09/11/2003,0 - 0,Parma,Milan
+09/11/2003,2 - 2,Perugia,Lecce
+09/11/2003,1 - 1,Reggina,Modena
+09/11/2003,1 - 2,Robur Siena,Chievo
+09/11/2003,2 - 0,Roma,Lazio
+08/11/2003,0 - 0,Brescia,Bologna
+08/11/2003,2 - 0,Sampdoria,Empoli
+02/11/2003,0 - 0,Ancona,Robur Siena
+02/11/2003,0 - 1,Bologna,Sampdoria
+02/11/2003,2 - 3,Brescia,Parma
+02/11/2003,0 - 2,Chievo,Internazionale
+02/11/2003,2 - 1,Lecce,Empoli
+02/11/2003,1 - 0,Modena,Perugia
+02/11/2003,2 - 0,Roma,Reggina
+01/11/2003,1 - 1,Milan,Juventus
+01/11/2003,1 - 2,Udinese,Lazio
+26/10/2003,0 - 0,Internazionale,Roma
+26/10/2003,2 - 0,Juventus,Brescia
+26/10/2003,2 - 1,Lazio,Bologna
+26/10/2003,3 - 0,Parma,Modena
+26/10/2003,3 - 3,Perugia,Udinese
+26/10/2003,0 - 0,Reggina,Ancona
+26/10/2003,0 - 3,Sampdoria,Milan
+25/10/2003,0 - 1,Empoli,Chievo
+25/10/2003,2 - 1,Robur Siena,Lecce
+19/10/2003,2 - 2,Bologna,Perugia
+19/10/2003,1 - 1,Chievo,Sampdoria
+19/10/2003,1 - 0,Milan,Lazio
+19/10/2003,2 - 0,Modena,Lecce
+19/10/2003,2 - 1,Reggina,Robur Siena
+19/10/2003,2 - 0,Roma,Parma
+19/10/2003,2 - 0,Udinese,Empoli
+18/10/2003,2 - 3,Ancona,Juventus
+18/10/2003,2 - 2,Brescia,Internazionale
+05/10/2003,0 - 3,Ancona,Udinese
+05/10/2003,0 - 3,Empoli,Modena
+05/10/2003,1 - 3,Internazionale,Milan
+05/10/2003,2 - 1,Juventus,Bologna
+05/10/2003,1 - 0,Lazio,Chievo
+05/10/2003,1 - 4,Lecce,Brescia
+05/10/2003,1 - 0,Parma,Sampdoria
+05/10/2003,0 - 0,Perugia,Reggina
+05/10/2003,0 - 0,Robur Siena,Roma
+28/09/2003,4 - 1,Chievo,Perugia
+28/09/2003,2 - 2,Empoli,Lazio
+28/09/2003,3 - 0,Milan,Lecce
+28/09/2003,2 - 0,Modena,Bologna
+28/09/2003,1 - 1,Parma,Robur Siena
+28/09/2003,3 - 0,Roma,Ancona
+28/09/2003,2 - 1,Sampdoria,Brescia
+27/09/2003,0 - 2,Reggina,Juventus
+27/09/2003,0 - 0,Udinese,Internazionale
+21/09/2003,2 - 0,Bologna,Udinese
+21/09/2003,4 - 4,Brescia,Reggina
+21/09/2003,0 - 0,Internazionale,Sampdoria
+21/09/2003,2 - 2,Juventus,Roma
+21/09/2003,2 - 3,Lazio,Parma
+21/09/2003,1 - 2,Lecce,Chievo
+21/09/2003,1 - 1,Perugia,Milan
+20/09/2003,1 - 1,Ancona,Modena
+20/09/2003,4 - 0,Robur Siena,Empoli
+14/09/2003,1 - 2,Chievo,Juventus
+14/09/2003,1 - 1,Empoli,Reggina
+14/09/2003,3 - 1,Lecce,Ancona
+14/09/2003,0 - 1,Modena,Udinese
+14/09/2003,3 - 0,Parma,Perugia
+14/09/2003,0 - 1,Robur Siena,Internazionale
+14/09/2003,5 - 0,Roma,Brescia
+13/09/2003,2 - 1,Milan,Bologna
+13/09/2003,1 - 2,Sampdoria,Lazio
+01/09/2003,0 - 2,Ancona,Milan
+31/08/2003,2 - 2,Bologna,Parma
+31/08/2003,1 - 1,Brescia,Chievo
+31/08/2003,2 - 0,Internazionale,Modena
+31/08/2003,5 - 1,Juventus,Empoli
+31/08/2003,4 - 1,Lazio,Lecce
+31/08/2003,2 - 2,Perugia,Robur Siena
+31/08/2003,1 - 2,Udinese,Roma
+30/08/2003,2 - 2,Reggina,Sampdoria

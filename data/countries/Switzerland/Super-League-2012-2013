@@ -1,0 +1,181 @@
+date,score,home_team,away_team
+01/06/2013,1 - 0,Basel,St. Gallen
+01/06/2013,4 - 1,Grasshopper,Lausanne Sport
+01/06/2013,3 - 4,Servette,Luzern
+01/06/2013,4 - 2,Sion,Zürich
+01/06/2013,2 - 2,Thun,Young Boys
+29/05/2013,3 - 0,Lausanne Sport,Servette
+29/05/2013,2 - 0,Luzern,Sion
+29/05/2013,1 - 2,St. Gallen,Grasshopper
+29/05/2013,0 - 1,Young Boys,Basel
+29/05/2013,2 - 0,Zürich,Thun
+26/05/2013,1 - 0,Grasshopper,Basel
+26/05/2013,4 - 1,St. Gallen,Servette
+26/05/2013,2 - 4,Young Boys,Zürich
+25/05/2013,3 - 0,Lausanne Sport,Luzern
+25/05/2013,0 - 1,Sion,Thun
+22/05/2013,4 - 0,Servette,Sion
+18/05/2013,0 - 1,Servette,Young Boys
+18/05/2013,4 - 1,Zürich,Luzern
+17/05/2013,3 - 0,Thun,St. Gallen
+16/05/2013,2 - 0,Basel,Lausanne Sport
+16/05/2013,0 - 4,Sion,Grasshopper
+12/05/2013,0 - 1,Grasshopper,Zürich
+12/05/2013,2 - 0,Basel,Servette
+12/05/2013,2 - 0,Thun,Lausanne Sport
+11/05/2013,3 - 1,Luzern,Young Boys
+11/05/2013,5 - 0,St. Gallen,Sion
+09/05/2013,2 - 0,Servette,Thun
+08/05/2013,3 - 1,Zürich,Basel
+08/05/2013,1 - 3,Lausanne Sport,Sion
+08/05/2013,2 - 0,Luzern,St. Gallen
+07/05/2013,4 - 0,Young Boys,Grasshopper
+05/05/2013,1 - 1,Thun,Luzern
+05/05/2013,0 - 1,Sion,Basel
+04/05/2013,2 - 0,Grasshopper,Servette
+04/05/2013,3 - 1,St. Gallen,Young Boys
+03/05/2013,1 - 1,Lausanne Sport,Zürich
+28/04/2013,1 - 2,St. Gallen,Zürich
+28/04/2013,0 - 3,Basel,Luzern
+28/04/2013,3 - 1,Young Boys,Lausanne Sport
+27/04/2013,0 - 2,Grasshopper,Thun
+21/04/2013,0 - 0,Sion,Young Boys
+21/04/2013,1 - 1,Luzern,Grasshopper
+21/04/2013,2 - 2,Thun,Basel
+20/04/2013,1 - 3,Lausanne Sport,St. Gallen
+20/04/2013,4 - 0,Zürich,Servette
+14/04/2013,1 - 1,Grasshopper,Sion
+14/04/2013,3 - 1,Basel,Zürich
+14/04/2013,1 - 2,Young Boys,Thun
+13/04/2013,1 - 0,Luzern,Lausanne Sport
+13/04/2013,1 - 3,Servette,St. Gallen
+07/04/2013,1 - 1,St. Gallen,Basel
+07/04/2013,2 - 4,Lausanne Sport,Thun
+07/04/2013,0 - 2,Young Boys,Servette
+06/04/2013,2 - 1,Sion,Luzern
+06/04/2013,2 - 4,Zürich,Grasshopper
+01/04/2013,0 - 0,Lausanne Sport,Young Boys
+01/04/2013,0 - 4,Luzern,Basel
+30/03/2013,1 - 0,Thun,Grasshopper
+30/03/2013,1 - 3,Zürich,St. Gallen
+30/03/2013,1 - 1,Sion,Servette
+17/03/2013,0 - 0,Grasshopper,Luzern
+17/03/2013,1 - 0,Basel,Thun
+17/03/2013,0 - 0,Young Boys,Sion
+16/03/2013,1 - 2,Servette,Zürich
+16/03/2013,3 - 1,St. Gallen,Lausanne Sport
+13/03/2013,0 - 0,St. Gallen,Thun
+10/03/2013,3 - 0,Basel,Young Boys
+10/03/2013,0 - 1,Sion,Lausanne Sport
+10/03/2013,0 - 4,Thun,Zürich
+09/03/2013,3 - 1,Grasshopper,St. Gallen
+09/03/2013,1 - 1,Luzern,Servette
+03/03/2013,0 - 0,Lausanne Sport,Grasshopper
+03/03/2013,1 - 2,Servette,Basel
+03/03/2013,2 - 0,Young Boys,St. Gallen
+02/03/2013,0 - 0,Luzern,Thun
+02/03/2013,3 - 1,Zürich,Sion
+24/02/2013,0 - 0,Basel,Grasshopper
+24/02/2013,4 - 0,St. Gallen,Luzern
+24/02/2013,4 - 0,Thun,Sion
+23/02/2013,1 - 0,Servette,Lausanne Sport
+23/02/2013,4 - 0,Zürich,Young Boys
+17/02/2013,1 - 1,Thun,Servette
+17/02/2013,1 - 2,Lausanne Sport,Basel
+17/02/2013,1 - 1,Luzern,Zürich
+16/02/2013,2 - 0,Grasshopper,Young Boys
+16/02/2013,1 - 0,Sion,St. Gallen
+10/02/2013,3 - 0,Basel,Sion
+10/02/2013,2 - 0,Zürich,Lausanne Sport
+09/02/2013,0 - 1,Servette,Grasshopper
+09/02/2013,3 - 2,Young Boys,Luzern
+02/12/2012,1 - 0,Grasshopper,Zürich
+02/12/2012,0 - 0,Servette,Thun
+02/12/2012,3 - 1,Young Boys,Sion
+01/12/2012,1 - 0,Basel,St. Gallen
+01/12/2012,0 - 0,Luzern,Lausanne Sport
+28/11/2012,2 - 1,Young Boys,Luzern
+25/11/2012,3 - 2,Thun,Basel
+25/11/2012,2 - 1,Lausanne Sport,Young Boys
+25/11/2012,1 - 1,St. Gallen,Luzern
+24/11/2012,1 - 1,Sion,Grasshopper
+24/11/2012,0 - 2,Zürich,Servette
+18/11/2012,4 - 0,Basel,Grasshopper
+18/11/2012,0 - 2,Servette,Sion
+18/11/2012,0 - 0,Young Boys,St. Gallen
+17/11/2012,3 - 0,Lausanne Sport,Thun
+17/11/2012,0 - 2,Zürich,Luzern
+04/11/2012,0 - 3,St. Gallen,Sion
+04/11/2012,1 - 1,Luzern,Servette
+04/11/2012,1 - 4,Thun,Zürich
+03/11/2012,2 - 0,Basel,Young Boys
+03/11/2012,1 - 1,Grasshopper,Lausanne Sport
+28/10/2012,1 - 2,Zürich,Basel
+28/10/2012,1 - 0,St. Gallen,Thun
+28/10/2012,2 - 0,Servette,Grasshopper
+27/10/2012,1 - 1,Sion,Lausanne Sport
+21/10/2012,3 - 2,Grasshopper,Young Boys
+21/10/2012,0 - 2,Lausanne Sport,Zürich
+21/10/2012,1 - 0,Luzern,Basel
+20/10/2012,1 - 1,Servette,St. Gallen
+20/10/2012,1 - 1,Thun,Sion
+07/10/2012,3 - 2,Basel,Servette
+07/10/2012,3 - 2,Sion,Luzern
+07/10/2012,1 - 1,Zürich,Young Boys
+06/10/2012,2 - 1,St. Gallen,Lausanne Sport
+06/10/2012,2 - 3,Thun,Grasshopper
+01/10/2012,1 - 0,Grasshopper,St. Gallen
+30/09/2012,2 - 2,Sion,Zürich
+30/09/2012,2 - 1,Luzern,Thun
+30/09/2012,6 - 2,Young Boys,Servette
+29/09/2012,1 - 1,Lausanne Sport,Basel
+27/09/2012,2 - 0,Grasshopper,Luzern
+27/09/2012,2 - 1,Thun,Young Boys
+26/09/2012,4 - 1,Basel,Sion
+26/09/2012,0 - 1,Servette,Lausanne Sport
+26/09/2012,0 - 2,Zürich,St. Gallen
+23/09/2012,1 - 1,Young Boys,Basel
+23/09/2012,1 - 0,Lausanne Sport,Luzern
+23/09/2012,2 - 0,St. Gallen,Servette
+22/09/2012,2 - 1,Sion,Thun
+22/09/2012,0 - 1,Zürich,Grasshopper
+02/09/2012,0 - 0,Basel,Zürich
+02/09/2012,1 - 2,Luzern,Young Boys
+02/09/2012,3 - 0,Thun,Servette
+01/09/2012,0 - 2,Lausanne Sport,Grasshopper
+01/09/2012,0 - 3,Sion,St. Gallen
+26/08/2012,0 - 0,Young Boys,Lausanne Sport
+26/08/2012,0 - 2,Servette,Luzern
+26/08/2012,1 - 0,Zürich,Sion
+25/08/2012,1 - 0,Grasshopper,Thun
+25/08/2012,2 - 1,St. Gallen,Basel
+19/08/2012,0 - 2,Luzern,Grasshopper
+19/08/2012,1 - 1,Servette,Zürich
+19/08/2012,1 - 0,Sion,Young Boys
+18/08/2012,2 - 0,Basel,Lausanne Sport
+18/08/2012,0 - 1,Thun,St. Gallen
+12/08/2012,3 - 1,Basel,Thun
+12/08/2012,1 - 0,Grasshopper,Servette
+12/08/2012,4 - 1,Young Boys,Zürich
+11/08/2012,0 - 2,Lausanne Sport,Sion
+11/08/2012,1 - 1,Luzern,St. Gallen
+05/08/2012,1 - 1,Servette,Young Boys
+05/08/2012,2 - 1,Thun,Luzern
+05/08/2012,4 - 0,Zürich,Lausanne Sport
+04/08/2012,1 - 1,Sion,Basel
+04/08/2012,1 - 1,St. Gallen,Grasshopper
+29/07/2012,0 - 3,Luzern,Sion
+29/07/2012,5 - 1,Lausanne Sport,Servette
+29/07/2012,3 - 0,Young Boys,Thun
+28/07/2012,2 - 2,Grasshopper,Basel
+28/07/2012,3 - 1,St. Gallen,Zürich
+22/07/2012,0 - 2,Zürich,Thun
+22/07/2012,1 - 0,Sion,Servette
+22/07/2012,0 - 1,Young Boys,Grasshopper
+21/07/2012,2 - 2,Basel,Luzern
+21/07/2012,0 - 1,Lausanne Sport,St. Gallen
+15/07/2012,1 - 1,St. Gallen,Young Boys
+15/07/2012,0 - 2,Grasshopper,Sion
+15/07/2012,1 - 1,Luzern,Zürich
+14/07/2012,0 - 0,Thun,Lausanne Sport
+13/07/2012,0 - 1,Servette,Basel

@@ -1,0 +1,313 @@
+date,score,home_team,away_team
+29/05/2011,5 - 1,Groningen,ADO Den Haag [PS] 
+26/05/2011,5 - 1,ADO Den Haag,Groningen
+22/05/2011,2 - 1,Groningen,Heracles
+22/05/2011,1 - 2,Roda JC,ADO Den Haag
+19/05/2011,4 - 2,ADO Den Haag,Roda JC
+19/05/2011,3 - 2,Heracles,Groningen
+15/05/2011,3 - 1,Ajax,Twente
+15/05/2011,1 - 0,De Graafschap,VVV
+15/05/2011,1 - 1,Feyenoord,NEC
+15/05/2011,0 - 0,Groningen,PSV
+15/05/2011,3 - 0,Heracles,ADO Den Haag
+15/05/2011,0 - 0,Roda JC,Heerenveen
+15/05/2011,5 - 1,Utrecht,AZ
+15/05/2011,1 - 4,Vitesse,Excelsior
+15/05/2011,0 - 1,Willem II,NAC Breda
+01/05/2011,2 - 4,ADO Den Haag,Groningen
+01/05/2011,5 - 1,AZ,De Graafschap
+01/05/2011,3 - 1,Excelsior,Utrecht
+01/05/2011,1 - 2,Heerenveen,Ajax
+01/05/2011,1 - 2,NAC Breda,Heracles
+01/05/2011,5 - 0,NEC,Roda JC
+01/05/2011,2 - 1,PSV,Vitesse
+01/05/2011,4 - 0,Twente,Willem II
+01/05/2011,3 - 2,VVV,Feyenoord
+24/04/2011,3 - 1,Groningen,NEC
+24/04/2011,4 - 1,Ajax,Excelsior
+24/04/2011,3 - 1,Feyenoord,PSV
+24/04/2011,4 - 2,Utrecht,Vitesse
+23/04/2011,2 - 2,VVV,Heerenveen
+23/04/2011,2 - 0,Heracles,De Graafschap
+23/04/2011,5 - 1,Roda JC,NAC Breda
+23/04/2011,2 - 1,Willem II,AZ
+22/04/2011,1 - 2,ADO Den Haag,Twente
+17/04/2011,6 - 1,Feyenoord,Willem II
+17/04/2011,1 - 1,De Graafschap,Twente
+17/04/2011,0 - 2,Heracles,PSV
+17/04/2011,1 - 2,NEC,Ajax
+16/04/2011,3 - 1,AZ,ADO Den Haag
+16/04/2011,1 - 2,NAC Breda,Excelsior
+16/04/2011,5 - 2,Roda JC,VVV
+16/04/2011,2 - 1,Vitesse,Groningen
+15/04/2011,3 - 0,Heerenveen,Utrecht
+10/04/2011,2 - 2,PSV,Heerenveen
+10/04/2011,2 - 0,Ajax,Groningen
+10/04/2011,1 - 1,Twente,Roda JC
+10/04/2011,0 - 4,Utrecht,Feyenoord
+09/04/2011,2 - 6,Willem II,Heracles
+09/04/2011,1 - 0,ADO Den Haag,Vitesse
+09/04/2011,0 - 0,Excelsior,De Graafschap
+09/04/2011,1 - 4,VVV,NEC
+08/04/2011,1 - 1,AZ,NAC Breda
+03/04/2011,3 - 0,Ajax,Heracles
+03/04/2011,3 - 2,Groningen,VVV
+03/04/2011,2 - 3,Utrecht,ADO Den Haag
+03/04/2011,2 - 1,Vitesse,NEC
+02/04/2011,0 - 1,Feyenoord,AZ
+02/04/2011,1 - 3,De Graafschap,NAC Breda
+02/04/2011,2 - 3,Heerenveen,Excelsior
+02/04/2011,4 - 5,Willem II,Roda JC
+02/04/2011,2 - 0,Twente,PSV
+20/03/2011,0 - 2,Excelsior,Twente
+20/03/2011,1 - 0,PSV,Utrecht
+20/03/2011,3 - 0,Roda JC,Feyenoord
+20/03/2011,3 - 2,ADO Den Haag,Ajax
+19/03/2011,1 - 0,NEC,De Graafschap
+19/03/2011,4 - 2,Heracles,Heerenveen
+19/03/2011,0 - 0,VVV,Willem II
+19/03/2011,0 - 1,NAC Breda,Groningen
+18/03/2011,3 - 1,AZ,Vitesse
+13/03/2011,2 - 2,NEC,PSV
+13/03/2011,2 - 1,Feyenoord,NAC Breda
+13/03/2011,2 - 1,Twente,VVV
+13/03/2011,1 - 3,Willem II,Ajax
+13/03/2011,1 - 0,De Graafschap,ADO Den Haag
+12/03/2011,1 - 1,Vitesse,Heerenveen
+12/03/2011,1 - 2,Roda JC,AZ
+12/03/2011,4 - 1,Heracles,Excelsior
+11/03/2011,1 - 0,Utrecht,Groningen
+06/03/2011,4 - 0,Ajax,AZ
+06/03/2011,1 - 4,Groningen,Heracles
+06/03/2011,0 - 1,Heerenveen,Feyenoord
+06/03/2011,1 - 1,Utrecht,Roda JC
+05/03/2011,2 - 3,Excelsior,PSV
+05/03/2011,5 - 1,ADO Den Haag,NEC
+05/03/2011,2 - 0,Vitesse,VVV
+05/03/2011,2 - 0,Twente,NAC Breda
+04/03/2011,2 - 1,De Graafschap,Willem II
+27/02/2011,1 - 1,NEC,Utrecht
+27/02/2011,2 - 1,AZ,Twente
+27/02/2011,5 - 1,Feyenoord,Groningen
+27/02/2011,0 - 0,PSV,Ajax
+26/02/2011,3 - 2,NAC Breda,ADO Den Haag
+26/02/2011,6 - 1,Heracles,Vitesse
+26/02/2011,1 - 1,Roda JC,De Graafschap
+26/02/2011,4 - 3,Willem II,Heerenveen
+25/02/2011,1 - 0,VVV,Excelsior
+20/02/2011,4 - 1,PSV,NAC Breda
+20/02/2011,1 - 0,Ajax,VVV
+20/02/2011,1 - 1,Twente,NEC
+20/02/2011,2 - 0,Vitesse,De Graafschap
+20/02/2011,2 - 2,ADO Den Haag,Feyenoord
+19/02/2011,1 - 4,Groningen,Roda JC
+19/02/2011,0 - 2,Heerenveen,AZ
+19/02/2011,4 - 0,Excelsior,Willem II
+18/02/2011,1 - 1,Utrecht,Heracles
+13/02/2011,1 - 1,De Graafschap,Groningen
+13/02/2011,0 - 2,NAC Breda,Heerenveen
+13/02/2011,2 - 0,NEC,Excelsior
+13/02/2011,2 - 2,Roda JC,Ajax
+12/02/2011,0 - 4,AZ,PSV
+12/02/2011,2 - 1,Feyenoord,Heracles
+12/02/2011,1 - 0,Twente,Vitesse
+12/02/2011,3 - 3,Willem II,Utrecht
+12/02/2011,3 - 0,ADO Den Haag,VVV
+06/02/2011,7 - 1,Groningen,Willem II
+06/02/2011,1 - 0,Heracles,Roda JC
+06/02/2011,1 - 1,Utrecht,Twente
+06/02/2011,1 - 1,Vitesse,Feyenoord
+05/02/2011,3 - 0,VVV,NAC Breda
+05/02/2011,2 - 1,Excelsior,AZ
+05/02/2011,0 - 1,PSV,ADO Den Haag
+05/02/2011,0 - 0,Heerenveen,NEC
+04/02/2011,2 - 0,Ajax,De Graafschap
+01/02/2011,0 - 0,De Graafschap,Utrecht
+30/01/2011,1 - 4,Heerenveen,Groningen
+30/01/2011,0 - 3,NAC Breda,Ajax
+30/01/2011,2 - 1,Twente,Feyenoord
+30/01/2011,1 - 5,Excelsior,ADO Den Haag
+29/01/2011,2 - 1,PSV,Willem II
+29/01/2011,6 - 1,AZ,VVV
+29/01/2011,5 - 2,Vitesse,Roda JC
+28/01/2011,1 - 1,NEC,Heracles
+23/01/2011,1 - 2,Groningen,Twente
+23/01/2011,3 - 0,Roda JC,Excelsior
+23/01/2011,0 - 3,VVV,PSV
+23/01/2011,3 - 0,Utrecht,Ajax
+22/01/2011,0 - 1,Feyenoord,De Graafschap
+22/01/2011,2 - 2,NEC,NAC Breda
+22/01/2011,1 - 0,Willem II,Vitesse
+22/01/2011,0 - 0,Heracles,AZ
+21/01/2011,3 - 1,ADO Den Haag,Heerenveen
+19/01/2011,2 - 0,Ajax,Feyenoord
+19/01/2011,2 - 2,AZ,NEC
+19/01/2011,5 - 0,Twente,Heracles
+19/01/2011,1 - 2,VVV,Utrecht
+19/12/2010,3 - 1,PSV,Roda JC
+18/12/2010,2 - 1,ADO Den Haag,Willem II
+18/12/2010,2 - 2,Excelsior,Groningen
+18/12/2010,1 - 1,NAC Breda,Vitesse
+18/12/2010,4 - 0,Heerenveen,De Graafschap
+15/12/2010,1 - 3,Excelsior,NAC Breda
+14/12/2010,0 - 4,VVV,Roda JC
+12/12/2010,1 - 0,Feyenoord,Excelsior
+12/12/2010,2 - 0,Groningen,AZ
+12/12/2010,6 - 2,Heerenveen,Twente
+12/12/2010,0 - 1,Vitesse,Ajax
+11/12/2010,0 - 0,De Graafschap,PSV
+11/12/2010,3 - 1,NEC,Willem II
+11/12/2010,1 - 1,Roda JC,ADO Den Haag
+11/12/2010,3 - 1,NAC Breda,Utrecht
+10/12/2010,2 - 2,Heracles,VVV
+05/12/2010,0 - 2,ADO Den Haag,AZ
+05/12/2010,2 - 1,Utrecht,Heerenveen
+05/12/2010,1 - 1,Willem II,Feyenoord
+04/12/2010,2 - 0,Twente,De Graafschap
+04/12/2010,5 - 2,PSV,Heracles
+04/12/2010,1 - 1,Ajax,NEC
+03/12/2010,4 - 1,Groningen,Vitesse
+28/11/2010,2 - 1,Heracles,Utrecht
+28/11/2010,0 - 2,VVV,Ajax
+28/11/2010,1 - 1,De Graafschap,Vitesse
+28/11/2010,2 - 1,Feyenoord,ADO Den Haag
+27/11/2010,2 - 4,NEC,Twente
+27/11/2010,1 - 0,Roda JC,Groningen
+27/11/2010,1 - 1,Willem II,Excelsior
+27/11/2010,2 - 2,AZ,Heerenveen
+26/11/2010,4 - 2,NAC Breda,PSV
+24/11/2010,1 - 1,Roda JC,Utrecht
+24/11/2010,0 - 1,Willem II,De Graafschap
+21/11/2010,4 - 0,Utrecht,NEC
+21/11/2010,3 - 0,ADO Den Haag,NAC Breda
+21/11/2010,2 - 0,Groningen,Feyenoord
+21/11/2010,5 - 0,Heerenveen,Willem II
+20/11/2010,0 - 0,Ajax,PSV
+20/11/2010,3 - 1,De Graafschap,Roda JC
+20/11/2010,1 - 2,Twente,AZ
+20/11/2010,2 - 0,Vitesse,Heracles
+20/11/2010,1 - 0,Excelsior,VVV
+14/11/2010,2 - 2,Feyenoord,Heerenveen
+14/11/2010,3 - 0,Heracles,Groningen
+14/11/2010,2 - 0,AZ,Ajax
+14/11/2010,1 - 1,NEC,ADO Den Haag
+14/11/2010,1 - 5,VVV,Vitesse
+13/11/2010,2 - 1,NAC Breda,Twente
+13/11/2010,4 - 2,PSV,Excelsior
+07/11/2010,1 - 1,Feyenoord,Roda JC
+07/11/2010,1 - 2,Utrecht,PSV
+07/11/2010,1 - 1,Vitesse,AZ
+07/11/2010,0 - 1,Ajax,ADO Den Haag
+06/11/2010,1 - 4,De Graafschap,NEC
+06/11/2010,2 - 1,Groningen,NAC Breda
+06/11/2010,3 - 2,Heerenveen,Heracles
+06/11/2010,2 - 1,Twente,Excelsior
+05/11/2010,1 - 4,Willem II,VVV
+31/10/2010,2 - 1,AZ,Feyenoord
+31/10/2010,2 - 2,Roda JC,Willem II
+31/10/2010,1 - 0,ADO Den Haag,Utrecht
+31/10/2010,0 - 0,NEC,Vitesse
+30/10/2010,0 - 1,PSV,Twente
+30/10/2010,0 - 2,Excelsior,Heerenveen
+30/10/2010,1 - 4,Heracles,Ajax
+30/10/2010,2 - 0,NAC Breda,De Graafschap
+30/10/2010,3 - 5,VVV,Groningen
+27/10/2010,3 - 0,Feyenoord,VVV
+27/10/2010,2 - 0,Utrecht,Excelsior
+27/10/2010,0 - 2,Vitesse,PSV
+27/10/2010,1 - 3,Willem II,Twente
+27/10/2010,3 - 1,Ajax,Heerenveen
+27/10/2010,2 - 1,De Graafschap,AZ
+27/10/2010,3 - 1,Groningen,ADO Den Haag
+26/10/2010,4 - 1,Heracles,NAC Breda
+26/10/2010,1 - 1,Roda JC,NEC
+24/10/2010,1 - 4,Vitesse,Utrecht
+24/10/2010,3 - 0,AZ,Willem II
+24/10/2010,10 - 0,PSV,Feyenoord
+24/10/2010,3 - 2,Twente,ADO Den Haag
+24/10/2010,2 - 2,Excelsior,Ajax
+23/10/2010,2 - 0,Heerenveen,VVV
+23/10/2010,3 - 2,NEC,Groningen
+23/10/2010,1 - 1,De Graafschap,Heracles
+22/10/2010,1 - 2,NAC Breda,Roda JC
+17/10/2010,3 - 2,Heracles,NEC
+17/10/2010,1 - 0,Groningen,Heerenveen
+17/10/2010,4 - 1,Roda JC,Vitesse
+17/10/2010,2 - 4,Willem II,PSV
+16/10/2010,0 - 1,Feyenoord,Twente
+16/10/2010,2 - 1,ADO Den Haag,Excelsior
+16/10/2010,2 - 2,Utrecht,De Graafschap
+16/10/2010,0 - 1,VVV,AZ
+16/10/2010,3 - 0,Ajax,NAC Breda
+03/10/2010,3 - 0,PSV,VVV
+03/10/2010,2 - 1,AZ,Heracles
+03/10/2010,1 - 1,De Graafschap,Feyenoord
+03/10/2010,0 - 0,Heerenveen,ADO Den Haag
+03/10/2010,4 - 2,Twente,Groningen
+03/10/2010,1 - 2,Ajax,Utrecht
+02/10/2010,1 - 2,Excelsior,Roda JC
+02/10/2010,2 - 0,NAC Breda,NEC
+01/10/2010,0 - 0,Vitesse,Willem II
+26/09/2010,1 - 0,VVV,De Graafschap
+26/09/2010,0 - 2,Excelsior,Vitesse
+26/09/2010,2 - 1,NAC Breda,Willem II
+26/09/2010,3 - 0,NEC,Feyenoord
+25/09/2010,2 - 2,Twente,Ajax
+25/09/2010,3 - 2,ADO Den Haag,Heracles
+25/09/2010,1 - 0,AZ,Utrecht
+25/09/2010,1 - 1,PSV,Groningen
+25/09/2010,2 - 2,Heerenveen,Roda JC
+19/09/2010,0 - 0,Heracles,Twente
+19/09/2010,0 - 1,NEC,AZ
+19/09/2010,0 - 0,Roda JC,PSV
+19/09/2010,3 - 2,Utrecht,VVV
+19/09/2010,1 - 2,Feyenoord,Ajax
+18/09/2010,2 - 4,Willem II,ADO Den Haag
+18/09/2010,0 - 0,Vitesse,NAC Breda
+18/09/2010,2 - 0,Groningen,Excelsior
+17/09/2010,3 - 2,De Graafschap,Heerenveen
+12/09/2010,1 - 0,Groningen,Utrecht
+12/09/2010,2 - 2,ADO Den Haag,De Graafschap
+12/09/2010,2 - 0,NAC Breda,Feyenoord
+11/09/2010,1 - 2,AZ,Roda JC
+11/09/2010,2 - 1,Excelsior,Heracles
+11/09/2010,2 - 1,Heerenveen,Vitesse
+11/09/2010,3 - 1,PSV,NEC
+11/09/2010,2 - 0,Ajax,Willem II
+11/09/2010,1 - 2,VVV,Twente
+29/08/2010,1 - 1,AZ,Excelsior
+29/08/2010,2 - 2,ADO Den Haag,PSV
+29/08/2010,4 - 0,Feyenoord,Vitesse
+29/08/2010,4 - 0,Twente,Utrecht
+29/08/2010,0 - 5,De Graafschap,Ajax
+28/08/2010,2 - 2,NEC,Heerenveen
+28/08/2010,2 - 0,NAC Breda,VVV
+28/08/2010,4 - 2,Roda JC,Heracles
+27/08/2010,0 - 3,Willem II,Groningen
+22/08/2010,3 - 1,PSV,AZ
+22/08/2010,1 - 1,Heracles,Feyenoord
+22/08/2010,3 - 0,Utrecht,Willem II
+22/08/2010,2 - 3,VVV,ADO Den Haag
+21/08/2010,3 - 0,Ajax,Roda JC
+21/08/2010,2 - 1,Groningen,De Graafschap
+21/08/2010,3 - 1,Heerenveen,NAC Breda
+21/08/2010,0 - 3,Vitesse,Twente
+20/08/2010,4 - 2,Excelsior,NEC
+15/08/2010,1 - 3,ADO Den Haag,Roda JC
+15/08/2010,3 - 1,Utrecht,NAC Breda
+15/08/2010,3 - 5,Willem II,NEC
+15/08/2010,3 - 2,Excelsior,Feyenoord
+14/08/2010,0 - 0,Twente,Heerenveen
+14/08/2010,1 - 1,AZ,Groningen
+14/08/2010,6 - 0,PSV,De Graafschap
+14/08/2010,1 - 0,VVV,Heracles
+14/08/2010,4 - 2,Ajax,Vitesse
+08/08/2010,1 - 1,NAC Breda,AZ
+08/08/2010,3 - 1,Feyenoord,Utrecht
+08/08/2010,2 - 2,Groningen,Ajax
+08/08/2010,3 - 1,Vitesse,ADO Den Haag
+07/08/2010,1 - 3,Heerenveen,PSV
+07/08/2010,3 - 0,De Graafschap,Excelsior
+07/08/2010,3 - 0,Heracles,Willem II
+07/08/2010,1 - 0,NEC,VVV
+06/08/2010,0 - 0,Roda JC,Twente

@@ -1,0 +1,307 @@
+date,score,home_team,away_team
+04/06/1995,1 - 2,Bari 1908,Sampdoria
+04/06/1995,2 - 5,Cremonese,Roma
+04/06/1995,1 - 2,Fiorentina,Milan
+04/06/1995,1 - 0,Genoa,Torino
+04/06/1995,2 - 1,Internazionale,Padova
+04/06/1995,3 - 1,Juventus,Cagliari
+04/06/1995,1 - 0,Lazio,Brescia
+04/06/1995,1 - 0,Napoli,Parma
+04/06/1995,1 - 1,Reggiana,Foggia
+28/05/1995,1 - 2,Brescia,Cremonese
+28/05/1995,0 - 1,Cagliari,Napoli
+28/05/1995,0 - 1,Foggia,Lazio
+28/05/1995,0 - 1,Milan,Bari 1908
+28/05/1995,1 - 1,Padova,Genoa
+28/05/1995,3 - 0,Parma,Fiorentina
+28/05/1995,3 - 0,Roma,Juventus
+28/05/1995,2 - 2,Sampdoria,Internazionale
+28/05/1995,4 - 0,Torino,Reggiana
+21/05/1995,2 - 2,Bari 1908,Roma
+21/05/1995,3 - 0,Cremonese,Padova
+21/05/1995,6 - 3,Fiorentina,Torino
+21/05/1995,3 - 0,Genoa,Foggia
+21/05/1995,1 - 2,Internazionale,Cagliari
+21/05/1995,4 - 0,Juventus,Parma
+21/05/1995,1 - 0,Lazio,Sampdoria
+21/05/1995,1 - 0,Napoli,Milan
+21/05/1995,2 - 0,Reggiana,Brescia
+14/05/1995,1 - 2,Brescia,Napoli
+14/05/1995,0 - 2,Cagliari,Sampdoria
+14/05/1995,2 - 1,Foggia,Fiorentina
+14/05/1995,4 - 1,Lazio,Internazionale
+14/05/1995,1 - 0,Milan,Roma
+14/05/1995,3 - 0,Padova,Reggiana
+14/05/1995,1 - 1,Torino,Cremonese
+13/05/1995,0 - 4,Genoa,Juventus
+13/05/1995,1 - 0,Parma,Bari 1908
+07/05/1995,3 - 1,Bari 1908,Torino
+07/05/1995,2 - 0,Cagliari,Padova
+07/05/1995,2 - 1,Cremonese,Reggiana
+07/05/1995,0 - 3,Juventus,Lazio
+07/05/1995,3 - 0,Milan,Foggia
+07/05/1995,1 - 3,Napoli,Internazionale
+07/05/1995,0 - 0,Parma,Genoa
+07/05/1995,2 - 0,Roma,Fiorentina
+07/05/1995,2 - 1,Sampdoria,Brescia
+30/04/1995,1 - 2,Brescia,Parma
+30/04/1995,1 - 4,Fiorentina,Juventus
+30/04/1995,2 - 2,Foggia,Bari 1908
+30/04/1995,2 - 1,Genoa,Sampdoria
+30/04/1995,0 - 0,Internazionale,Cremonese
+30/04/1995,0 - 0,Lazio,Cagliari
+30/04/1995,0 - 0,Padova,Roma
+30/04/1995,0 - 4,Reggiana,Milan
+30/04/1995,1 - 1,Torino,Napoli
+23/04/1995,3 - 0,Bari 1908,Brescia
+23/04/1995,4 - 2,Cagliari,Reggiana
+23/04/1995,4 - 1,Cremonese,Genoa
+23/04/1995,0 - 1,Juventus,Padova
+23/04/1995,5 - 1,Milan,Torino
+23/04/1995,2 - 1,Napoli,Foggia
+23/04/1995,3 - 0,Parma,Internazionale
+23/04/1995,0 - 2,Roma,Lazio
+23/04/1995,2 - 2,Sampdoria,Fiorentina
+14/04/1995,0 - 0,Cremonese,Bari 1908
+14/04/1995,4 - 0,Fiorentina,Napoli
+14/04/1995,0 - 0,Foggia,Parma
+14/04/1995,1 - 1,Genoa,Cagliari
+14/04/1995,3 - 1,Internazionale,Milan
+14/04/1995,2 - 0,Padova,Lazio
+14/04/1995,1 - 2,Reggiana,Juventus
+14/04/1995,3 - 0,Roma,Brescia
+14/04/1995,0 - 0,Torino,Sampdoria
+09/04/1995,2 - 2,Bari 1908,Fiorentina
+09/04/1995,1 - 2,Brescia,Padova
+09/04/1995,2 - 1,Cagliari,Foggia
+09/04/1995,2 - 0,Internazionale,Genoa
+09/04/1995,1 - 2,Juventus,Torino
+09/04/1995,2 - 0,Lazio,Reggiana
+09/04/1995,0 - 0,Napoli,Roma
+09/04/1995,2 - 3,Parma,Milan
+09/04/1995,2 - 1,Sampdoria,Cremonese
+02/04/1995,0 - 0,Cremonese,Lazio
+02/04/1995,4 - 0,Fiorentina,Brescia
+02/04/1995,4 - 1,Foggia,Padova
+02/04/1995,1 - 1,Genoa,Bari 1908
+02/04/1995,0 - 2,Milan,Juventus
+02/04/1995,2 - 0,Napoli,Sampdoria
+02/04/1995,0 - 1,Reggiana,Internazionale
+02/04/1995,1 - 0,Roma,Parma
+02/04/1995,3 - 2,Torino,Cagliari
+19/03/1995,1 - 1,Bari 1908,Napoli
+19/03/1995,1 - 4,Brescia,Torino
+19/03/1995,0 - 1,Cagliari,Roma
+19/03/1995,3 - 0,Internazionale,Foggia
+19/03/1995,1 - 0,Juventus,Cremonese
+19/03/1995,4 - 0,Lazio,Genoa
+19/03/1995,0 - 1,Padova,Fiorentina
+19/03/1995,2 - 2,Reggiana,Parma
+19/03/1995,0 - 3,Sampdoria,Milan
+12/03/1995,0 - 1,Bari 1908,Internazionale
+12/03/1995,2 - 0,Cremonese,Cagliari
+12/03/1995,1 - 1,Fiorentina,Reggiana
+12/03/1995,1 - 0,Genoa,Brescia
+12/03/1995,2 - 0,Juventus,Foggia
+12/03/1995,1 - 0,Milan,Padova
+12/03/1995,3 - 2,Napoli,Lazio
+12/03/1995,3 - 2,Parma,Sampdoria
+12/03/1995,1 - 1,Roma,Torino
+05/03/1995,0 - 5,Brescia,Milan
+05/03/1995,2 - 1,Cagliari,Bari 1908
+05/03/1995,0 - 1,Foggia,Cremonese
+05/03/1995,0 - 0,Internazionale,Juventus
+05/03/1995,8 - 2,Lazio,Fiorentina
+05/03/1995,2 - 0,Padova,Napoli
+05/03/1995,0 - 1,Reggiana,Genoa
+05/03/1995,3 - 0,Sampdoria,Roma
+05/03/1995,0 - 2,Torino,Parma
+26/02/1995,0 - 1,Bari 1908,Padova
+26/02/1995,2 - 3,Brescia,Cagliari
+26/02/1995,2 - 2,Fiorentina,Internazionale
+26/02/1995,3 - 1,Milan,Cremonese
+26/02/1995,1 - 0,Napoli,Genoa
+26/02/1995,2 - 0,Parma,Lazio
+26/02/1995,2 - 0,Roma,Reggiana
+26/02/1995,0 - 1,Sampdoria,Juventus
+26/02/1995,2 - 0,Torino,Foggia
+19/02/1995,2 - 0,Cagliari,Parma
+19/02/1995,0 - 0,Cremonese,Fiorentina
+19/02/1995,1 - 1,Foggia,Sampdoria
+19/02/1995,1 - 0,Genoa,Roma
+19/02/1995,1 - 0,Internazionale,Brescia
+19/02/1995,1 - 0,Juventus,Napoli
+19/02/1995,4 - 0,Lazio,Milan
+19/02/1995,4 - 2,Padova,Torino
+19/02/1995,0 - 1,Reggiana,Bari 1908
+15/02/1995,1 - 1,Genoa,Milan
+12/02/1995,0 - 2,Bari 1908,Juventus
+12/02/1995,1 - 0,Brescia,Foggia
+12/02/1995,3 - 1,Fiorentina,Genoa
+12/02/1995,1 - 1,Milan,Cagliari
+12/02/1995,1 - 0,Napoli,Cremonese
+12/02/1995,1 - 0,Parma,Padova
+12/02/1995,3 - 1,Roma,Internazionale
+12/02/1995,2 - 1,Sampdoria,Reggiana
+12/02/1995,2 - 0,Torino,Lazio
+29/01/1995,2 - 0,Cagliari,Fiorentina
+29/01/1995,1 - 1,Cremonese,Parma
+29/01/1995,0 - 1,Foggia,Roma
+29/01/1995,2 - 1,Internazionale,Torino
+29/01/1995,2 - 1,Juventus,Brescia
+29/01/1995,0 - 2,Lazio,Bari 1908
+29/01/1995,1 - 4,Padova,Sampdoria
+29/01/1995,1 - 2,Reggiana,Napoli
+25/01/1995,3 - 2,Torino,Juventus
+22/01/1995,0 - 1,Brescia,Lazio
+22/01/1995,3 - 0,Cagliari,Juventus
+22/01/1995,1 - 0,Foggia,Reggiana
+22/01/1995,2 - 0,Milan,Fiorentina
+22/01/1995,1 - 0,Padova,Internazionale
+22/01/1995,2 - 0,Parma,Napoli
+22/01/1995,1 - 1,Roma,Cremonese
+22/01/1995,1 - 1,Sampdoria,Bari 1908
+22/01/1995,0 - 0,Torino,Genoa
+15/01/1995,3 - 5,Bari 1908,Milan
+15/01/1995,0 - 0,Cremonese,Brescia
+15/01/1995,1 - 1,Fiorentina,Parma
+15/01/1995,2 - 1,Genoa,Padova
+15/01/1995,2 - 0,Internazionale,Sampdoria
+15/01/1995,3 - 0,Juventus,Roma
+15/01/1995,7 - 1,Lazio,Foggia
+15/01/1995,1 - 1,Napoli,Cagliari
+15/01/1995,1 - 0,Reggiana,Torino
+11/01/1995,2 - 1,Milan,Reggiana
+08/01/1995,1 - 0,Brescia,Reggiana
+08/01/1995,1 - 1,Cagliari,Internazionale
+08/01/1995,2 - 1,Foggia,Genoa
+08/01/1995,1 - 1,Milan,Napoli
+08/01/1995,3 - 2,Padova,Cremonese
+08/01/1995,1 - 3,Parma,Juventus
+08/01/1995,2 - 0,Roma,Bari 1908
+08/01/1995,3 - 1,Sampdoria,Lazio
+08/01/1995,1 - 0,Torino,Fiorentina
+21/12/1994,0 - 0,Torino,Milan
+19/12/1994,1 - 1,Napoli,Brescia
+18/12/1994,1 - 2,Bari 1908,Parma
+18/12/1994,3 - 0,Cremonese,Torino
+18/12/1994,1 - 1,Fiorentina,Foggia
+18/12/1994,0 - 2,Internazionale,Lazio
+18/12/1994,1 - 1,Juventus,Genoa
+18/12/1994,3 - 0,Reggiana,Padova
+18/12/1994,0 - 0,Roma,Milan
+18/12/1994,5 - 0,Sampdoria,Cagliari
+11/12/1994,0 - 0,Brescia,Sampdoria
+11/12/1994,1 - 0,Fiorentina,Roma
+11/12/1994,1 - 3,Foggia,Milan
+11/12/1994,0 - 0,Genoa,Parma
+11/12/1994,0 - 2,Internazionale,Napoli
+11/12/1994,3 - 4,Lazio,Juventus
+11/12/1994,2 - 1,Padova,Cagliari
+11/12/1994,2 - 0,Reggiana,Cremonese
+11/12/1994,2 - 0,Torino,Bari 1908
+04/12/1994,2 - 1,Bari 1908,Foggia
+04/12/1994,1 - 1,Cagliari,Lazio
+04/12/1994,0 - 1,Cremonese,Internazionale
+04/12/1994,3 - 2,Juventus,Fiorentina
+04/12/1994,1 - 1,Napoli,Torino
+04/12/1994,4 - 0,Parma,Brescia
+04/12/1994,2 - 0,Roma,Padova
+04/12/1994,3 - 2,Sampdoria,Genoa
+27/11/1994,1 - 2,Brescia,Bari 1908
+27/11/1994,2 - 2,Fiorentina,Sampdoria
+27/11/1994,1 - 1,Foggia,Napoli
+27/11/1994,0 - 1,Genoa,Cremonese
+27/11/1994,1 - 1,Internazionale,Parma
+27/11/1994,0 - 3,Lazio,Roma
+27/11/1994,1 - 2,Padova,Juventus
+27/11/1994,0 - 0,Reggiana,Cagliari
+20/11/1994,2 - 0,Bari 1908,Cremonese
+20/11/1994,0 - 0,Brescia,Roma
+20/11/1994,1 - 0,Cagliari,Genoa
+20/11/1994,3 - 1,Juventus,Reggiana
+20/11/1994,5 - 1,Lazio,Padova
+20/11/1994,1 - 1,Milan,Internazionale
+20/11/1994,2 - 5,Napoli,Fiorentina
+20/11/1994,2 - 0,Parma,Foggia
+20/11/1994,1 - 1,Sampdoria,Torino
+06/11/1994,1 - 0,Cremonese,Sampdoria
+06/11/1994,2 - 0,Fiorentina,Bari 1908
+06/11/1994,2 - 0,Foggia,Cagliari
+06/11/1994,2 - 1,Genoa,Internazionale
+06/11/1994,1 - 1,Milan,Parma
+06/11/1994,2 - 0,Padova,Brescia
+06/11/1994,0 - 0,Reggiana,Lazio
+06/11/1994,1 - 1,Roma,Napoli
+30/10/1994,4 - 1,Bari 1908,Genoa
+30/10/1994,2 - 4,Brescia,Fiorentina
+30/10/1994,1 - 0,Cagliari,Torino
+30/10/1994,1 - 0,Internazionale,Reggiana
+30/10/1994,1 - 0,Juventus,Milan
+30/10/1994,1 - 0,Lazio,Cremonese
+30/10/1994,0 - 0,Padova,Foggia
+30/10/1994,1 - 0,Parma,Roma
+30/10/1994,0 - 0,Sampdoria,Napoli
+23/10/1994,1 - 2,Cremonese,Juventus
+23/10/1994,4 - 1,Fiorentina,Padova
+23/10/1994,0 - 0,Foggia,Internazionale
+23/10/1994,1 - 2,Genoa,Lazio
+23/10/1994,0 - 0,Milan,Sampdoria
+23/10/1994,3 - 0,Napoli,Bari 1908
+23/10/1994,2 - 1,Parma,Reggiana
+23/10/1994,1 - 1,Roma,Cagliari
+23/10/1994,2 - 0,Torino,Brescia
+16/10/1994,2 - 2,Torino,Roma
+15/10/1994,1 - 2,Brescia,Genoa
+15/10/1994,1 - 0,Cagliari,Cremonese
+15/10/1994,2 - 0,Foggia,Juventus
+15/10/1994,1 - 2,Internazionale,Bari 1908
+15/10/1994,5 - 1,Lazio,Napoli
+15/10/1994,2 - 0,Padova,Milan
+15/10/1994,1 - 1,Reggiana,Fiorentina
+15/10/1994,3 - 1,Sampdoria,Parma
+02/10/1994,0 - 0,Bari 1908,Cagliari
+02/10/1994,1 - 3,Cremonese,Foggia
+02/10/1994,1 - 1,Fiorentina,Lazio
+02/10/1994,3 - 1,Genoa,Reggiana
+02/10/1994,0 - 0,Juventus,Internazionale
+02/10/1994,1 - 0,Milan,Brescia
+02/10/1994,3 - 3,Napoli,Padova
+02/10/1994,2 - 0,Parma,Torino
+02/10/1994,1 - 0,Roma,Sampdoria
+25/09/1994,2 - 0,Cagliari,Brescia
+25/09/1994,1 - 0,Cremonese,Milan
+25/09/1994,0 - 2,Foggia,Torino
+25/09/1994,3 - 3,Genoa,Napoli
+25/09/1994,3 - 1,Internazionale,Fiorentina
+25/09/1994,1 - 0,Juventus,Sampdoria
+25/09/1994,2 - 2,Lazio,Parma
+25/09/1994,0 - 2,Padova,Bari 1908
+25/09/1994,1 - 4,Reggiana,Roma
+18/09/1994,1 - 0,Bari 1908,Reggiana
+18/09/1994,0 - 0,Brescia,Internazionale
+18/09/1994,3 - 1,Fiorentina,Cremonese
+18/09/1994,2 - 1,Milan,Lazio
+18/09/1994,0 - 2,Napoli,Juventus
+18/09/1994,2 - 1,Parma,Cagliari
+18/09/1994,3 - 0,Roma,Genoa
+18/09/1994,1 - 1,Sampdoria,Foggia
+18/09/1994,2 - 0,Torino,Padova
+11/09/1994,1 - 1,Cagliari,Milan
+11/09/1994,2 - 0,Cremonese,Napoli
+11/09/1994,3 - 1,Foggia,Brescia
+11/09/1994,1 - 1,Genoa,Fiorentina
+11/09/1994,0 - 1,Internazionale,Roma
+11/09/1994,2 - 0,Juventus,Bari 1908
+11/09/1994,3 - 0,Lazio,Torino
+11/09/1994,0 - 3,Padova,Parma
+11/09/1994,0 - 2,Reggiana,Sampdoria
+04/09/1994,0 - 1,Bari 1908,Lazio
+04/09/1994,1 - 1,Brescia,Juventus
+04/09/1994,2 - 1,Fiorentina,Cagliari
+04/09/1994,1 - 0,Milan,Genoa
+04/09/1994,1 - 0,Napoli,Reggiana
+04/09/1994,2 - 0,Parma,Cremonese
+04/09/1994,1 - 1,Roma,Foggia
+04/09/1994,5 - 0,Sampdoria,Padova
+04/09/1994,0 - 2,Torino,Internazionale

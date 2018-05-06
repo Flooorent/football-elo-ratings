@@ -1,0 +1,381 @@
+date,score,home_team,away_team
+10/05/1998,1 - 0,Aston Villa,Arsenal
+10/05/1998,0 - 2,Barnsley,Manchester United
+10/05/1998,1 - 0,Blackburn Rovers,Newcastle United
+10/05/1998,2 - 0,Chelsea,Bolton Wanderers
+10/05/1998,1 - 0,Crystal Palace,Sheffield Wednesday
+10/05/1998,1 - 0,Derby County,Liverpool
+10/05/1998,1 - 1,Everton,Coventry City
+10/05/1998,1 - 1,Leeds United,Wimbledon
+10/05/1998,1 - 1,Tottenham Hotspur,Southampton
+10/05/1998,4 - 3,West Ham United,Leicester City
+06/05/1998,4 - 0,Liverpool,Arsenal
+05/05/1998,3 - 3,Crystal Palace,West Ham United
+04/05/1998,3 - 0,Manchester United,Leeds United
+03/05/1998,4 - 0,Arsenal,Everton
+02/05/1998,5 - 2,Bolton Wanderers,Crystal Palace
+02/05/1998,2 - 0,Coventry City,Blackburn Rovers
+02/05/1998,1 - 0,Leicester City,Barnsley
+02/05/1998,5 - 0,Liverpool,West Ham United
+02/05/1998,3 - 1,Newcastle United,Chelsea
+02/05/1998,1 - 3,Sheffield Wednesday,Aston Villa
+02/05/1998,0 - 2,Southampton,Derby County
+02/05/1998,2 - 6,Wimbledon,Tottenham Hotspur
+29/04/1998,1 - 0,Arsenal,Derby County
+29/04/1998,0 - 1,Chelsea,Blackburn Rovers
+29/04/1998,0 - 0,Coventry City,Wimbledon
+29/04/1998,0 - 0,Leicester City,Newcastle United
+27/04/1998,0 - 3,Crystal Palace,Manchester United
+26/04/1998,0 - 4,Derby County,Leicester City
+25/04/1998,1 - 3,Aston Villa,Bolton Wanderers
+25/04/1998,0 - 2,Barnsley,Arsenal
+25/04/1998,0 - 0,Blackburn Rovers,Wimbledon
+25/04/1998,4 - 1,Chelsea,Liverpool
+25/04/1998,1 - 3,Everton,Sheffield Wednesday
+25/04/1998,3 - 3,Leeds United,Coventry City
+25/04/1998,2 - 0,Tottenham Hotspur,Newcastle United
+25/04/1998,2 - 4,West Ham United,Southampton
+19/04/1998,1 - 0,Chelsea,Sheffield Wednesday
+19/04/1998,1 - 1,Coventry City,Liverpool
+18/04/1998,5 - 0,Arsenal,Wimbledon
+18/04/1998,1 - 1,Barnsley,Tottenham Hotspur
+18/04/1998,2 - 3,Bolton Wanderers,Leeds United
+18/04/1998,3 - 1,Crystal Palace,Derby County
+18/04/1998,1 - 1,Everton,Leicester City
+18/04/1998,1 - 1,Manchester United,Newcastle United
+18/04/1998,1 - 2,Southampton,Aston Villa
+18/04/1998,2 - 1,West Ham United,Blackburn Rovers
+14/04/1998,3 - 3,Leicester City,Southampton
+13/04/1998,1 - 4,Blackburn Rovers,Arsenal
+13/04/1998,4 - 0,Derby County,Bolton Wanderers
+13/04/1998,2 - 1,Liverpool,Crystal Palace
+13/04/1998,2 - 1,Newcastle United,Barnsley
+13/04/1998,1 - 1,Sheffield Wednesday,West Ham United
+13/04/1998,1 - 1,Tottenham Hotspur,Coventry City
+13/04/1998,0 - 0,Wimbledon,Everton
+11/04/1998,3 - 1,Arsenal,Newcastle United
+11/04/1998,2 - 1,Barnsley,Sheffield Wednesday
+11/04/1998,2 - 1,Bolton Wanderers,Blackburn Rovers
+11/04/1998,2 - 0,Chelsea,Tottenham Hotspur
+11/04/1998,1 - 2,Coventry City,Aston Villa
+11/04/1998,0 - 3,Crystal Palace,Leicester City
+11/04/1998,2 - 0,Everton,Leeds United
+11/04/1998,0 - 1,Southampton,Wimbledon
+11/04/1998,0 - 0,West Ham United,Derby County
+10/04/1998,1 - 1,Manchester United,Liverpool
+08/04/1998,3 - 1,Leeds United,Chelsea
+06/04/1998,1 - 3,Blackburn Rovers,Manchester United
+05/04/1998,0 - 1,Derby County,Chelsea
+04/04/1998,2 - 0,Aston Villa,West Ham United
+04/04/1998,2 - 1,Leeds United,Barnsley
+04/04/1998,1 - 1,Leicester City,Coventry City
+04/04/1998,1 - 0,Sheffield Wednesday,Southampton
+04/04/1998,1 - 1,Tottenham Hotspur,Everton
+04/04/1998,0 - 0,Wimbledon,Bolton Wanderers
+31/03/1998,2 - 1,Blackburn Rovers,Barnsley
+31/03/1998,0 - 1,Bolton Wanderers,Arsenal
+31/03/1998,0 - 0,Wimbledon,Newcastle United
+30/03/1998,3 - 0,West Ham United,Leeds United
+28/03/1998,1 - 0,Arsenal,Sheffield Wednesday
+28/03/1998,2 - 3,Barnsley,Liverpool
+28/03/1998,2 - 0,Bolton Wanderers,Leicester City
+28/03/1998,1 - 0,Coventry City,Derby County
+28/03/1998,1 - 3,Crystal Palace,Tottenham Hotspur
+28/03/1998,1 - 4,Everton,Aston Villa
+28/03/1998,2 - 0,Manchester United,Wimbledon
+28/03/1998,2 - 1,Southampton,Newcastle United
+18/03/1998,1 - 2,Newcastle United,Crystal Palace
+15/03/1998,0 - 5,Derby County,Leeds United
+14/03/1998,3 - 1,Aston Villa,Crystal Palace
+14/03/1998,4 - 3,Barnsley,Southampton
+14/03/1998,3 - 2,Bolton Wanderers,Sheffield Wednesday
+14/03/1998,1 - 0,Everton,Blackburn Rovers
+14/03/1998,0 - 1,Manchester United,Arsenal
+14/03/1998,0 - 0,Newcastle United,Coventry City
+14/03/1998,3 - 3,Tottenham Hotspur,Liverpool
+14/03/1998,2 - 1,West Ham United,Chelsea
+14/03/1998,2 - 1,Wimbledon,Leicester City
+11/03/1998,0 - 1,Aston Villa,Barnsley
+11/03/1998,6 - 2,Chelsea,Crystal Palace
+11/03/1998,4 - 0,Leeds United,Blackburn Rovers
+11/03/1998,1 - 1,West Ham United,Manchester United
+11/03/1998,0 - 1,Wimbledon,Arsenal
+08/03/1998,0 - 1,Chelsea,Aston Villa
+07/03/1998,2 - 1,Liverpool,Bolton Wanderers
+07/03/1998,2 - 0,Sheffield Wednesday,Manchester United
+07/03/1998,2 - 1,Southampton,Everton
+04/03/1998,1 - 0,Leeds United,Tottenham Hotspur
+02/03/1998,0 - 0,West Ham United,Arsenal
+01/03/1998,1 - 0,Tottenham Hotspur,Bolton Wanderers
+28/02/1998,2 - 1,Aston Villa,Liverpool
+28/02/1998,2 - 1,Barnsley,Wimbledon
+28/02/1998,5 - 3,Blackburn Rovers,Leicester City
+28/02/1998,0 - 1,Chelsea,Manchester United
+28/02/1998,0 - 3,Crystal Palace,Coventry City
+28/02/1998,3 - 0,Derby County,Sheffield Wednesday
+28/02/1998,0 - 0,Everton,Newcastle United
+28/02/1998,0 - 1,Leeds United,Southampton
+23/02/1998,1 - 1,Liverpool,Everton
+22/02/1998,1 - 1,Newcastle United,Leeds United
+21/02/1998,1 - 0,Arsenal,Crystal Palace
+21/02/1998,1 - 1,Bolton Wanderers,West Ham United
+21/02/1998,1 - 0,Coventry City,Barnsley
+21/02/1998,2 - 0,Leicester City,Chelsea
+21/02/1998,2 - 0,Manchester United,Derby County
+21/02/1998,1 - 0,Sheffield Wednesday,Tottenham Hotspur
+21/02/1998,3 - 0,Southampton,Blackburn Rovers
+21/02/1998,2 - 1,Wimbledon,Aston Villa
+18/02/1998,0 - 2,Aston Villa,Manchester United
+18/02/1998,1 - 2,Southampton,Coventry City
+14/02/1998,1 - 2,Everton,Derby County
+14/02/1998,3 - 3,Sheffield Wednesday,Liverpool
+14/02/1998,1 - 1,Tottenham Hotspur,Leicester City
+09/02/1998,0 - 3,Crystal Palace,Wimbledon
+08/02/1998,2 - 0,Arsenal,Chelsea
+07/02/1998,2 - 2,Barnsley,Everton
+07/02/1998,0 - 3,Blackburn Rovers,Tottenham Hotspur
+07/02/1998,1 - 0,Coventry City,Sheffield Wednesday
+07/02/1998,0 - 1,Derby County,Aston Villa
+07/02/1998,1 - 0,Leicester City,Leeds United
+07/02/1998,2 - 3,Liverpool,Southampton
+07/02/1998,1 - 1,Manchester United,Bolton Wanderers
+07/02/1998,0 - 1,Newcastle United,West Ham United
+01/02/1998,0 - 1,Aston Villa,Newcastle United
+31/01/1998,3 - 0,Arsenal,Southampton
+31/01/1998,1 - 5,Bolton Wanderers,Coventry City
+31/01/1998,2 - 0,Chelsea,Barnsley
+31/01/1998,0 - 2,Crystal Palace,Leeds United
+31/01/1998,2 - 1,Derby County,Tottenham Hotspur
+31/01/1998,0 - 0,Liverpool,Blackburn Rovers
+31/01/1998,0 - 1,Manchester United,Leicester City
+31/01/1998,1 - 1,Sheffield Wednesday,Wimbledon
+31/01/1998,2 - 2,West Ham United,Everton
+20/01/1998,1 - 0,Liverpool,Newcastle United
+19/01/1998,1 - 0,Southampton,Manchester United
+18/01/1998,3 - 1,Everton,Chelsea
+17/01/1998,1 - 0,Barnsley,Crystal Palace
+17/01/1998,5 - 0,Blackburn Rovers,Aston Villa
+17/01/1998,2 - 2,Coventry City,Arsenal
+17/01/1998,1 - 2,Leeds United,Sheffield Wednesday
+17/01/1998,0 - 0,Leicester City,Liverpool
+17/01/1998,2 - 1,Newcastle United,Bolton Wanderers
+17/01/1998,1 - 0,Tottenham Hotspur,West Ham United
+17/01/1998,0 - 0,Wimbledon,Derby County
+11/01/1998,3 - 1,Derby County,Blackburn Rovers
+10/01/1998,2 - 1,Arsenal,Leeds United
+10/01/1998,1 - 1,Aston Villa,Leicester City
+10/01/1998,0 - 0,Bolton Wanderers,Southampton
+10/01/1998,3 - 1,Chelsea,Coventry City
+10/01/1998,1 - 3,Crystal Palace,Everton
+10/01/1998,2 - 0,Liverpool,Wimbledon
+10/01/1998,2 - 0,Manchester United,Tottenham Hotspur
+10/01/1998,2 - 1,Sheffield Wednesday,Newcastle United
+10/01/1998,6 - 0,West Ham United,Barnsley
+29/12/1997,1 - 0,Southampton,Chelsea
+28/12/1997,1 - 0,Barnsley,Derby County
+28/12/1997,2 - 2,Blackburn Rovers,Crystal Palace
+28/12/1997,3 - 2,Coventry City,Manchester United
+28/12/1997,3 - 2,Everton,Bolton Wanderers
+28/12/1997,1 - 1,Leeds United,Aston Villa
+28/12/1997,1 - 1,Leicester City,Sheffield Wednesday
+28/12/1997,1 - 2,Newcastle United,Liverpool
+28/12/1997,1 - 1,Tottenham Hotspur,Arsenal
+28/12/1997,1 - 2,Wimbledon,West Ham United
+26/12/1997,2 - 1,Arsenal,Leicester City
+26/12/1997,4 - 1,Aston Villa,Tottenham Hotspur
+26/12/1997,1 - 1,Bolton Wanderers,Barnsley
+26/12/1997,1 - 1,Chelsea,Wimbledon
+26/12/1997,1 - 1,Crystal Palace,Southampton
+26/12/1997,1 - 0,Derby County,Newcastle United
+26/12/1997,3 - 1,Liverpool,Leeds United
+26/12/1997,2 - 0,Manchester United,Everton
+26/12/1997,0 - 0,Sheffield Wednesday,Blackburn Rovers
+26/12/1997,1 - 0,West Ham United,Coventry City
+21/12/1997,0 - 1,Newcastle United,Manchester United
+20/12/1997,1 - 1,Aston Villa,Southampton
+20/12/1997,3 - 0,Blackburn Rovers,West Ham United
+20/12/1997,0 - 0,Derby County,Crystal Palace
+20/12/1997,2 - 0,Leeds United,Bolton Wanderers
+20/12/1997,0 - 1,Leicester City,Everton
+20/12/1997,1 - 0,Liverpool,Coventry City
+20/12/1997,1 - 4,Sheffield Wednesday,Chelsea
+20/12/1997,3 - 0,Tottenham Hotspur,Barnsley
+17/12/1997,0 - 0,Newcastle United,Derby County
+15/12/1997,1 - 0,Manchester United,Aston Villa
+14/12/1997,3 - 3,Bolton Wanderers,Derby County
+13/12/1997,1 - 3,Arsenal,Blackburn Rovers
+13/12/1997,2 - 2,Barnsley,Newcastle United
+13/12/1997,0 - 0,Chelsea,Leeds United
+13/12/1997,4 - 0,Coventry City,Tottenham Hotspur
+13/12/1997,0 - 3,Crystal Palace,Liverpool
+13/12/1997,0 - 0,Everton,Wimbledon
+13/12/1997,2 - 1,Southampton,Leicester City
+13/12/1997,1 - 0,West Ham United,Sheffield Wednesday
+08/12/1997,2 - 1,Sheffield Wednesday,Barnsley
+07/12/1997,1 - 0,Wimbledon,Southampton
+06/12/1997,3 - 0,Aston Villa,Coventry City
+06/12/1997,3 - 1,Blackburn Rovers,Bolton Wanderers
+06/12/1997,2 - 0,Derby County,West Ham United
+06/12/1997,0 - 0,Leeds United,Everton
+06/12/1997,1 - 1,Leicester City,Crystal Palace
+06/12/1997,1 - 3,Liverpool,Manchester United
+06/12/1997,0 - 1,Newcastle United,Arsenal
+06/12/1997,1 - 6,Tottenham Hotspur,Chelsea
+03/12/1997,4 - 1,West Ham United,Crystal Palace
+01/12/1997,1 - 0,Bolton Wanderers,Newcastle United
+30/11/1997,0 - 1,Arsenal,Liverpool
+30/11/1997,4 - 0,Manchester United,Blackburn Rovers
+29/11/1997,2 - 3,Barnsley,Leeds United
+29/11/1997,1 - 0,Bolton Wanderers,Wimbledon
+29/11/1997,4 - 0,Chelsea,Derby County
+29/11/1997,0 - 2,Coventry City,Leicester City
+29/11/1997,1 - 2,Crystal Palace,Newcastle United
+29/11/1997,0 - 2,Everton,Tottenham Hotspur
+29/11/1997,2 - 3,Southampton,Sheffield Wednesday
+29/11/1997,2 - 1,West Ham United,Aston Villa
+26/11/1997,2 - 0,Chelsea,Everton
+24/11/1997,0 - 1,Tottenham Hotspur,Crystal Palace
+23/11/1997,3 - 1,Leeds United,West Ham United
+22/11/1997,2 - 1,Aston Villa,Everton
+22/11/1997,1 - 0,Blackburn Rovers,Chelsea
+22/11/1997,3 - 1,Derby County,Coventry City
+22/11/1997,0 - 0,Leicester City,Bolton Wanderers
+22/11/1997,0 - 1,Liverpool,Barnsley
+22/11/1997,2 - 1,Newcastle United,Southampton
+22/11/1997,2 - 0,Sheffield Wednesday,Arsenal
+22/11/1997,2 - 5,Wimbledon,Manchester United
+10/11/1997,0 - 1,Leicester City,Wimbledon
+09/11/1997,3 - 2,Arsenal,Manchester United
+09/11/1997,2 - 1,Chelsea,West Ham United
+08/11/1997,3 - 2,Blackburn Rovers,Everton
+08/11/1997,2 - 2,Coventry City,Newcastle United
+08/11/1997,1 - 1,Crystal Palace,Aston Villa
+08/11/1997,4 - 3,Leeds United,Derby County
+08/11/1997,4 - 0,Liverpool,Tottenham Hotspur
+08/11/1997,5 - 0,Sheffield Wednesday,Bolton Wanderers
+08/11/1997,4 - 1,Southampton,Barnsley
+02/11/1997,0 - 2,Everton,Southampton
+01/11/1997,0 - 2,Aston Villa,Chelsea
+01/11/1997,1 - 1,Barnsley,Blackburn Rovers
+01/11/1997,1 - 1,Bolton Wanderers,Liverpool
+01/11/1997,3 - 0,Derby County,Arsenal
+01/11/1997,6 - 1,Manchester United,Sheffield Wednesday
+01/11/1997,3 - 3,Newcastle United,Leicester City
+01/11/1997,0 - 1,Tottenham Hotspur,Leeds United
+01/11/1997,1 - 2,Wimbledon,Coventry City
+27/10/1997,2 - 1,Leicester City,West Ham United
+26/10/1997,0 - 0,Arsenal,Aston Villa
+26/10/1997,1 - 0,Bolton Wanderers,Chelsea
+25/10/1997,0 - 0,Coventry City,Everton
+25/10/1997,4 - 0,Liverpool,Derby County
+25/10/1997,7 - 0,Manchester United,Barnsley
+25/10/1997,1 - 1,Newcastle United,Blackburn Rovers
+25/10/1997,1 - 3,Sheffield Wednesday,Crystal Palace
+25/10/1997,3 - 2,Southampton,Tottenham Hotspur
+25/10/1997,1 - 0,Wimbledon,Leeds United
+22/10/1997,1 - 1,Derby County,Wimbledon
+20/10/1997,2 - 0,Barnsley,Coventry City
+19/10/1997,3 - 2,Tottenham Hotspur,Sheffield Wednesday
+18/10/1997,1 - 2,Aston Villa,Wimbledon
+18/10/1997,1 - 0,Blackburn Rovers,Southampton
+18/10/1997,1 - 0,Chelsea,Leicester City
+18/10/1997,0 - 0,Crystal Palace,Arsenal
+18/10/1997,2 - 2,Derby County,Manchester United
+18/10/1997,2 - 0,Everton,Liverpool
+18/10/1997,4 - 1,Leeds United,Newcastle United
+18/10/1997,3 - 0,West Ham United,Bolton Wanderers
+06/10/1997,1 - 2,Leicester City,Derby County
+05/10/1997,4 - 2,Liverpool,Chelsea
+04/10/1997,5 - 0,Arsenal,Barnsley
+04/10/1997,0 - 1,Bolton Wanderers,Aston Villa
+04/10/1997,0 - 0,Coventry City,Leeds United
+04/10/1997,2 - 0,Manchester United,Crystal Palace
+04/10/1997,1 - 0,Newcastle United,Tottenham Hotspur
+04/10/1997,3 - 1,Sheffield Wednesday,Everton
+04/10/1997,3 - 0,Southampton,West Ham United
+04/10/1997,0 - 1,Wimbledon,Blackburn Rovers
+28/09/1997,0 - 0,Blackburn Rovers,Coventry City
+27/09/1997,2 - 2,Aston Villa,Sheffield Wednesday
+27/09/1997,0 - 2,Barnsley,Leicester City
+27/09/1997,1 - 0,Chelsea,Newcastle United
+27/09/1997,2 - 2,Crystal Palace,Bolton Wanderers
+27/09/1997,4 - 0,Derby County,Southampton
+27/09/1997,2 - 2,Everton,Arsenal
+27/09/1997,1 - 0,Leeds United,Manchester United
+27/09/1997,0 - 0,Tottenham Hotspur,Wimbledon
+27/09/1997,2 - 1,West Ham United,Liverpool
+24/09/1997,4 - 0,Arsenal,West Ham United
+24/09/1997,1 - 1,Coventry City,Crystal Palace
+24/09/1997,1 - 1,Leicester City,Blackburn Rovers
+24/09/1997,2 - 2,Manchester United,Chelsea
+24/09/1997,1 - 0,Newcastle United,Everton
+24/09/1997,2 - 5,Sheffield Wednesday,Derby County
+24/09/1997,0 - 2,Southampton,Leeds United
+23/09/1997,1 - 1,Bolton Wanderers,Tottenham Hotspur
+23/09/1997,4 - 1,Wimbledon,Barnsley
+22/09/1997,3 - 0,Liverpool,Aston Villa
+21/09/1997,2 - 3,Chelsea,Arsenal
+20/09/1997,2 - 1,Aston Villa,Derby County
+20/09/1997,0 - 0,Bolton Wanderers,Manchester United
+20/09/1997,4 - 2,Everton,Barnsley
+20/09/1997,0 - 1,Leeds United,Leicester City
+20/09/1997,0 - 0,Sheffield Wednesday,Coventry City
+20/09/1997,1 - 1,Southampton,Liverpool
+20/09/1997,0 - 0,Tottenham Hotspur,Blackburn Rovers
+20/09/1997,0 - 1,West Ham United,Newcastle United
+20/09/1997,0 - 1,Wimbledon,Crystal Palace
+14/09/1997,3 - 4,Blackburn Rovers,Leeds United
+13/09/1997,4 - 1,Arsenal,Bolton Wanderers
+13/09/1997,0 - 3,Barnsley,Aston Villa
+13/09/1997,1 - 0,Coventry City,Southampton
+13/09/1997,0 - 3,Crystal Palace,Chelsea
+13/09/1997,3 - 1,Derby County,Everton
+13/09/1997,3 - 0,Leicester City,Tottenham Hotspur
+13/09/1997,2 - 1,Liverpool,Sheffield Wednesday
+13/09/1997,2 - 1,Manchester United,West Ham United
+13/09/1997,1 - 3,Newcastle United,Wimbledon
+01/09/1997,0 - 0,Bolton Wanderers,Everton
+30/08/1997,0 - 0,Arsenal,Tottenham Hotspur
+30/08/1997,1 - 0,Aston Villa,Leeds United
+30/08/1997,4 - 2,Chelsea,Southampton
+30/08/1997,1 - 2,Crystal Palace,Blackburn Rovers
+30/08/1997,1 - 0,Derby County,Barnsley
+30/08/1997,3 - 0,Manchester United,Coventry City
+30/08/1997,1 - 0,Sheffield Wednesday,Leicester City
+30/08/1997,3 - 1,West Ham United,Wimbledon
+27/08/1997,2 - 1,Barnsley,Bolton Wanderers
+27/08/1997,1 - 1,Coventry City,West Ham United
+27/08/1997,0 - 2,Everton,Manchester United
+27/08/1997,3 - 3,Leicester City,Arsenal
+27/08/1997,1 - 0,Southampton,Crystal Palace
+27/08/1997,3 - 2,Tottenham Hotspur,Aston Villa
+27/08/1997,0 - 2,Wimbledon,Chelsea
+26/08/1997,0 - 2,Leeds United,Liverpool
+25/08/1997,7 - 2,Blackburn Rovers,Sheffield Wednesday
+24/08/1997,0 - 6,Barnsley,Chelsea
+23/08/1997,1 - 1,Blackburn Rovers,Liverpool
+23/08/1997,2 - 2,Coventry City,Bolton Wanderers
+23/08/1997,2 - 1,Everton,West Ham United
+23/08/1997,0 - 2,Leeds United,Crystal Palace
+23/08/1997,0 - 0,Leicester City,Manchester United
+23/08/1997,1 - 0,Newcastle United,Aston Villa
+23/08/1997,1 - 3,Southampton,Arsenal
+23/08/1997,1 - 0,Tottenham Hotspur,Derby County
+23/08/1997,1 - 1,Wimbledon,Sheffield Wednesday
+13/08/1997,0 - 4,Aston Villa,Blackburn Rovers
+13/08/1997,1 - 2,Liverpool,Leicester City
+13/08/1997,1 - 0,Manchester United,Southampton
+13/08/1997,1 - 3,Sheffield Wednesday,Leeds United
+13/08/1997,2 - 1,West Ham United,Tottenham Hotspur
+12/08/1997,0 - 1,Crystal Palace,Barnsley
+11/08/1997,2 - 0,Arsenal,Coventry City
+10/08/1997,0 - 2,Tottenham Hotspur,Manchester United
+09/08/1997,1 - 2,Barnsley,West Ham United
+09/08/1997,1 - 0,Blackburn Rovers,Derby County
+09/08/1997,3 - 2,Coventry City,Chelsea
+09/08/1997,1 - 2,Everton,Crystal Palace
+09/08/1997,1 - 1,Leeds United,Arsenal
+09/08/1997,1 - 0,Leicester City,Aston Villa
+09/08/1997,2 - 1,Newcastle United,Sheffield Wednesday
+09/08/1997,0 - 1,Southampton,Bolton Wanderers
+09/08/1997,1 - 1,Wimbledon,Liverpool

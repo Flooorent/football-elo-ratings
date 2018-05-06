@@ -1,0 +1,307 @@
+date,score,home_team,away_team
+08/05/2010,0 - 3,Bochum,Hannover 96
+08/05/2010,1 - 1,Borussia M'gladbach,Bayer Leverkusen
+08/05/2010,3 - 1,Freiburg,Borussia Dortmund
+08/05/2010,1 - 3,Hertha BSC,Bayern München
+08/05/2010,1 - 1,Hoffenheim,Stuttgart
+08/05/2010,0 - 0,Mainz 05,Schalke 04
+08/05/2010,1 - 0,Nürnberg,Köln
+08/05/2010,1 - 1,Werder Bremen,Hamburger SV
+08/05/2010,3 - 1,Wolfsburg,Eintracht Frankfurt
+01/05/2010,1 - 1,Bayer Leverkusen,Hertha BSC
+01/05/2010,3 - 1,Bayern München,Bochum
+01/05/2010,1 - 1,Borussia Dortmund,Wolfsburg
+01/05/2010,1 - 2,Eintracht Frankfurt,Hoffenheim
+01/05/2010,4 - 0,Hamburger SV,Nürnberg
+01/05/2010,6 - 1,Hannover 96,Borussia M'gladbach
+01/05/2010,2 - 2,Köln,Freiburg
+01/05/2010,0 - 2,Schalke 04,Werder Bremen
+01/05/2010,2 - 2,Stuttgart,Mainz 05
+25/04/2010,1 - 0,Freiburg,Wolfsburg
+25/04/2010,5 - 1,Hoffenheim,Hamburger SV
+24/04/2010,1 - 0,Werder Bremen,Köln
+24/04/2010,3 - 0,Bayer Leverkusen,Hannover 96
+24/04/2010,1 - 1,Borussia M'gladbach,Bayern München
+24/04/2010,0 - 1,Hertha BSC,Schalke 04
+24/04/2010,3 - 3,Mainz 05,Eintracht Frankfurt
+24/04/2010,2 - 3,Nürnberg,Borussia Dortmund
+23/04/2010,0 - 2,Bochum,Stuttgart
+18/04/2010,2 - 2,Eintracht Frankfurt,Hertha BSC
+18/04/2010,1 - 1,Borussia Dortmund,Hoffenheim
+17/04/2010,7 - 0,Bayern München,Hannover 96
+17/04/2010,2 - 1,Freiburg,Nürnberg
+17/04/2010,0 - 1,Hamburger SV,Mainz 05
+17/04/2010,3 - 1,Schalke 04,Borussia M'gladbach
+17/04/2010,2 - 1,Stuttgart,Bayer Leverkusen
+17/04/2010,2 - 4,Wolfsburg,Werder Bremen
+16/04/2010,2 - 0,Köln,Bochum
+11/04/2010,0 - 2,Nürnberg,Wolfsburg
+11/04/2010,1 - 2,Bochum,Hamburger SV
+10/04/2010,1 - 1,Bayer Leverkusen,Bayern München
+10/04/2010,4 - 2,Hannover 96,Schalke 04
+10/04/2010,0 - 1,Hertha BSC,Stuttgart
+10/04/2010,0 - 2,Hoffenheim,Köln
+10/04/2010,1 - 0,Mainz 05,Borussia Dortmund
+10/04/2010,4 - 0,Werder Bremen,Freiburg
+09/04/2010,2 - 0,Borussia M'gladbach,Eintracht Frankfurt
+04/04/2010,0 - 0,Hamburger SV,Hannover 96
+04/04/2010,4 - 0,Wolfsburg,Hoffenheim
+03/04/2010,0 - 3,Köln,Hertha BSC
+03/04/2010,2 - 1,Borussia Dortmund,Werder Bremen
+03/04/2010,3 - 2,Eintracht Frankfurt,Bayer Leverkusen
+03/04/2010,1 - 1,Freiburg,Bochum
+03/04/2010,2 - 0,Nürnberg,Mainz 05
+03/04/2010,1 - 2,Schalke 04,Bayern München
+03/04/2010,2 - 1,Stuttgart,Borussia M'gladbach
+28/03/2010,1 - 0,Borussia M'gladbach,Hamburger SV
+28/03/2010,1 - 1,Hoffenheim,Freiburg
+27/03/2010,0 - 2,Bayer Leverkusen,Schalke 04
+27/03/2010,1 - 2,Bayern München,Stuttgart
+27/03/2010,1 - 4,Hannover 96,Köln
+27/03/2010,0 - 0,Hertha BSC,Borussia Dortmund
+27/03/2010,0 - 2,Mainz 05,Wolfsburg
+27/03/2010,4 - 2,Werder Bremen,Nürnberg
+26/03/2010,1 - 2,Bochum,Eintracht Frankfurt
+21/03/2010,1 - 5,Wolfsburg,Hertha BSC
+21/03/2010,2 - 2,Hamburger SV,Schalke 04
+20/03/2010,3 - 0,Borussia Dortmund,Bayer Leverkusen
+20/03/2010,2 - 1,Eintracht Frankfurt,Bayern München
+20/03/2010,1 - 0,Freiburg,Mainz 05
+20/03/2010,0 - 0,Nürnberg,Hoffenheim
+20/03/2010,2 - 0,Stuttgart,Hannover 96
+20/03/2010,3 - 2,Werder Bremen,Bochum
+19/03/2010,1 - 1,Köln,Borussia M'gladbach
+14/03/2010,4 - 2,Bayer Leverkusen,Hamburger SV
+14/03/2010,0 - 1,Hoffenheim,Werder Bremen
+13/03/2010,2 - 1,Bayern München,Freiburg
+13/03/2010,1 - 4,Bochum,Borussia Dortmund
+13/03/2010,0 - 4,Borussia M'gladbach,Wolfsburg
+13/03/2010,2 - 1,Hannover 96,Eintracht Frankfurt
+13/03/2010,1 - 2,Hertha BSC,Nürnberg
+13/03/2010,1 - 0,Mainz 05,Köln
+12/03/2010,2 - 1,Schalke 04,Stuttgart
+07/03/2010,0 - 1,Hoffenheim,Mainz 05
+07/03/2010,3 - 2,Nürnberg,Bayer Leverkusen
+06/03/2010,3 - 0,Borussia Dortmund,Borussia M'gladbach
+06/03/2010,1 - 4,Eintracht Frankfurt,Schalke 04
+06/03/2010,1 - 2,Freiburg,Hannover 96
+06/03/2010,1 - 0,Hamburger SV,Hertha BSC
+06/03/2010,1 - 1,Köln,Bayern München
+06/03/2010,2 - 2,Werder Bremen,Stuttgart
+06/03/2010,4 - 1,Wolfsburg,Bochum
+28/02/2010,1 - 0,Bayern München,Hamburger SV
+28/02/2010,0 - 1,Hannover 96,Wolfsburg
+27/02/2010,0 - 0,Bayer Leverkusen,Köln
+27/02/2010,0 - 0,Bochum,Nürnberg
+27/02/2010,1 - 1,Borussia M'gladbach,Freiburg
+27/02/2010,0 - 2,Hertha BSC,Hoffenheim
+27/02/2010,1 - 2,Mainz 05,Werder Bremen
+27/02/2010,2 - 1,Stuttgart,Eintracht Frankfurt
+26/02/2010,2 - 1,Schalke 04,Borussia Dortmund
+21/02/2010,2 - 2,Werder Bremen,Bayer Leverkusen
+21/02/2010,2 - 1,Wolfsburg,Schalke 04
+21/02/2010,0 - 3,Freiburg,Hertha BSC
+20/02/2010,4 - 1,Borussia Dortmund,Hannover 96
+20/02/2010,0 - 0,Hamburger SV,Eintracht Frankfurt
+20/02/2010,1 - 5,Köln,Stuttgart
+20/02/2010,0 - 0,Mainz 05,Bochum
+20/02/2010,1 - 1,Nürnberg,Bayern München
+19/02/2010,2 - 2,Hoffenheim,Borussia M'gladbach
+14/02/2010,2 - 1,Eintracht Frankfurt,Freiburg
+14/02/2010,2 - 0,Schalke 04,Köln
+13/02/2010,3 - 1,Bayern München,Borussia Dortmund
+13/02/2010,2 - 1,Bayer Leverkusen,Wolfsburg
+13/02/2010,2 - 1,Bochum,Hoffenheim
+13/02/2010,1 - 5,Hannover 96,Werder Bremen
+13/02/2010,1 - 1,Hertha BSC,Mainz 05
+13/02/2010,1 - 3,Stuttgart,Hamburger SV
+12/02/2010,2 - 1,Borussia M'gladbach,Nürnberg
+07/02/2010,2 - 3,Borussia Dortmund,Eintracht Frankfurt
+07/02/2010,1 - 0,Mainz 05,Borussia M'gladbach
+06/02/2010,1 - 2,Nürnberg,Stuttgart
+06/02/2010,1 - 1,Bochum,Bayer Leverkusen
+06/02/2010,0 - 0,Freiburg,Schalke 04
+06/02/2010,2 - 1,Hoffenheim,Hannover 96
+06/02/2010,3 - 3,Köln,Hamburger SV
+06/02/2010,1 - 3,Wolfsburg,Bayern München
+05/02/2010,2 - 1,Werder Bremen,Hertha BSC
+31/01/2010,3 - 1,Bayer Leverkusen,Freiburg
+31/01/2010,4 - 1,Stuttgart,Borussia Dortmund
+30/01/2010,2 - 0,Schalke 04,Hoffenheim
+30/01/2010,3 - 0,Bayern München,Mainz 05
+30/01/2010,4 - 3,Borussia M'gladbach,Werder Bremen
+30/01/2010,1 - 2,Eintracht Frankfurt,Köln
+30/01/2010,1 - 3,Hannover 96,Nürnberg
+30/01/2010,0 - 0,Hertha BSC,Bochum
+29/01/2010,1 - 1,Hamburger SV,Wolfsburg
+24/01/2010,0 - 3,Hoffenheim,Bayer Leverkusen
+24/01/2010,2 - 3,Wolfsburg,Köln
+23/01/2010,1 - 0,Borussia Dortmund,Hamburger SV
+23/01/2010,2 - 2,Bochum,Schalke 04
+23/01/2010,0 - 0,Hertha BSC,Borussia M'gladbach
+23/01/2010,1 - 0,Mainz 05,Hannover 96
+23/01/2010,1 - 1,Nürnberg,Eintracht Frankfurt
+23/01/2010,2 - 3,Werder Bremen,Bayern München
+22/01/2010,0 - 1,Freiburg,Stuttgart
+17/01/2010,2 - 3,Köln,Borussia Dortmund
+17/01/2010,1 - 0,Schalke 04,Nürnberg
+16/01/2010,3 - 1,Stuttgart,Wolfsburg
+16/01/2010,4 - 2,Bayer Leverkusen,Mainz 05
+16/01/2010,1 - 2,Borussia M'gladbach,Bochum
+16/01/2010,1 - 0,Eintracht Frankfurt,Werder Bremen
+16/01/2010,2 - 0,Hamburger SV,Freiburg
+16/01/2010,0 - 3,Hannover 96,Hertha BSC
+15/01/2010,2 - 0,Bayern München,Hoffenheim
+20/12/2009,3 - 0,Köln,Nürnberg
+20/12/2009,2 - 1,Hamburger SV,Werder Bremen
+19/12/2009,3 - 1,Stuttgart,Hoffenheim
+19/12/2009,3 - 2,Bayer Leverkusen,Borussia M'gladbach
+19/12/2009,5 - 2,Bayern München,Hertha BSC
+19/12/2009,1 - 0,Borussia Dortmund,Freiburg
+19/12/2009,2 - 2,Eintracht Frankfurt,Wolfsburg
+19/12/2009,2 - 3,Hannover 96,Bochum
+18/12/2009,1 - 0,Schalke 04,Mainz 05
+13/12/2009,1 - 3,Wolfsburg,Borussia Dortmund
+13/12/2009,1 - 1,Mainz 05,Stuttgart
+12/12/2009,0 - 2,Werder Bremen,Schalke 04
+12/12/2009,1 - 5,Bochum,Bayern München
+12/12/2009,5 - 3,Borussia M'gladbach,Hannover 96
+12/12/2009,0 - 0,Freiburg,Köln
+12/12/2009,1 - 1,Hoffenheim,Eintracht Frankfurt
+12/12/2009,0 - 4,Nürnberg,Hamburger SV
+11/12/2009,2 - 2,Hertha BSC,Bayer Leverkusen
+06/12/2009,2 - 0,Schalke 04,Hertha BSC
+06/12/2009,0 - 0,Köln,Werder Bremen
+05/12/2009,2 - 0,Eintracht Frankfurt,Mainz 05
+05/12/2009,4 - 0,Borussia Dortmund,Nürnberg
+05/12/2009,0 - 0,Hamburger SV,Hoffenheim
+05/12/2009,0 - 0,Hannover 96,Bayer Leverkusen
+05/12/2009,1 - 1,Stuttgart,Bochum
+05/12/2009,2 - 2,Wolfsburg,Freiburg
+04/12/2009,2 - 1,Bayern München,Borussia M'gladbach
+29/11/2009,0 - 3,Hannover 96,Bayern München
+29/11/2009,4 - 0,Bayer Leverkusen,Stuttgart
+28/11/2009,1 - 0,Borussia M'gladbach,Schalke 04
+28/11/2009,1 - 3,Hertha BSC,Eintracht Frankfurt
+28/11/2009,1 - 2,Hoffenheim,Borussia Dortmund
+28/11/2009,1 - 1,Mainz 05,Hamburger SV
+28/11/2009,0 - 1,Nürnberg,Freiburg
+28/11/2009,2 - 2,Werder Bremen,Wolfsburg
+27/11/2009,0 - 0,Bochum,Köln
+22/11/2009,0 - 1,Hamburger SV,Bochum
+22/11/2009,1 - 1,Bayern München,Bayer Leverkusen
+21/11/2009,0 - 0,Borussia Dortmund,Mainz 05
+21/11/2009,1 - 2,Eintracht Frankfurt,Borussia M'gladbach
+21/11/2009,0 - 6,Freiburg,Werder Bremen
+21/11/2009,0 - 4,Köln,Hoffenheim
+21/11/2009,2 - 0,Schalke 04,Hannover 96
+21/11/2009,1 - 1,Stuttgart,Hertha BSC
+21/11/2009,2 - 3,Wolfsburg,Nürnberg
+08/11/2009,0 - 1,Hertha BSC,Köln
+08/11/2009,1 - 1,Werder Bremen,Borussia Dortmund
+08/11/2009,2 - 2,Hannover 96,Hamburger SV
+07/11/2009,1 - 1,Bayern München,Schalke 04
+07/11/2009,1 - 2,Bochum,Freiburg
+07/11/2009,0 - 0,Borussia M'gladbach,Stuttgart
+07/11/2009,1 - 2,Hoffenheim,Wolfsburg
+07/11/2009,1 - 0,Mainz 05,Nürnberg
+06/11/2009,4 - 0,Bayer Leverkusen,Eintracht Frankfurt
+01/11/2009,2 - 1,Eintracht Frankfurt,Bochum
+01/11/2009,0 - 1,Freiburg,Hoffenheim
+31/10/2009,2 - 2,Schalke 04,Bayer Leverkusen
+31/10/2009,2 - 3,Hamburger SV,Borussia M'gladbach
+31/10/2009,0 - 1,Köln,Hannover 96
+31/10/2009,2 - 2,Nürnberg,Werder Bremen
+31/10/2009,0 - 0,Stuttgart,Bayern München
+31/10/2009,3 - 3,Wolfsburg,Mainz 05
+30/10/2009,2 - 0,Borussia Dortmund,Hertha BSC
+25/10/2009,1 - 4,Bochum,Werder Bremen
+25/10/2009,3 - 3,Schalke 04,Hamburger SV
+25/10/2009,0 - 0,Hertha BSC,Wolfsburg
+24/10/2009,2 - 1,Bayern München,Eintracht Frankfurt
+24/10/2009,0 - 0,Borussia M'gladbach,Köln
+24/10/2009,1 - 0,Hannover 96,Stuttgart
+24/10/2009,3 - 0,Hoffenheim,Nürnberg
+24/10/2009,3 - 0,Mainz 05,Freiburg
+23/10/2009,1 - 1,Bayer Leverkusen,Borussia Dortmund
+18/10/2009,2 - 0,Borussia Dortmund,Bochum
+18/10/2009,2 - 1,Wolfsburg,Borussia M'gladbach
+17/10/2009,0 - 0,Hamburger SV,Bayer Leverkusen
+17/10/2009,2 - 1,Eintracht Frankfurt,Hannover 96
+17/10/2009,1 - 2,Freiburg,Bayern München
+17/10/2009,1 - 0,Köln,Mainz 05
+17/10/2009,3 - 0,Nürnberg,Hertha BSC
+17/10/2009,1 - 2,Stuttgart,Schalke 04
+17/10/2009,2 - 0,Werder Bremen,Hoffenheim
+04/10/2009,1 - 3,Hertha BSC,Hamburger SV
+04/10/2009,0 - 2,Stuttgart,Werder Bremen
+03/10/2009,0 - 1,Borussia M'gladbach,Borussia Dortmund
+03/10/2009,4 - 0,Bayer Leverkusen,Nürnberg
+03/10/2009,0 - 0,Bayern München,Köln
+03/10/2009,1 - 1,Bochum,Wolfsburg
+03/10/2009,5 - 2,Hannover 96,Freiburg
+03/10/2009,2 - 1,Mainz 05,Hoffenheim
+02/10/2009,2 - 0,Schalke 04,Eintracht Frankfurt
+27/09/2009,5 - 1,Hoffenheim,Hertha BSC
+27/09/2009,3 - 0,Freiburg,Borussia M'gladbach
+26/09/2009,1 - 0,Hamburger SV,Bayern München
+26/09/2009,0 - 1,Borussia Dortmund,Schalke 04
+26/09/2009,0 - 3,Eintracht Frankfurt,Stuttgart
+26/09/2009,0 - 1,Köln,Bayer Leverkusen
+26/09/2009,3 - 0,Werder Bremen,Mainz 05
+26/09/2009,4 - 2,Wolfsburg,Hannover 96
+25/09/2009,0 - 1,Nürnberg,Bochum
+20/09/2009,0 - 0,Bayer Leverkusen,Werder Bremen
+20/09/2009,0 - 4,Hertha BSC,Freiburg
+20/09/2009,1 - 1,Eintracht Frankfurt,Hamburger SV
+19/09/2009,2 - 1,Bayern München,Nürnberg
+19/09/2009,2 - 3,Bochum,Mainz 05
+19/09/2009,2 - 4,Borussia M'gladbach,Hoffenheim
+19/09/2009,1 - 1,Hannover 96,Borussia Dortmund
+19/09/2009,0 - 2,Stuttgart,Köln
+18/09/2009,1 - 2,Schalke 04,Wolfsburg
+13/09/2009,1 - 2,Köln,Schalke 04
+13/09/2009,0 - 0,Werder Bremen,Hannover 96
+12/09/2009,3 - 1,Hamburger SV,Stuttgart
+12/09/2009,1 - 5,Borussia Dortmund,Bayern München
+12/09/2009,0 - 2,Freiburg,Eintracht Frankfurt
+12/09/2009,3 - 0,Hoffenheim,Bochum
+12/09/2009,2 - 1,Mainz 05,Hertha BSC
+12/09/2009,1 - 0,Nürnberg,Borussia M'gladbach
+12/09/2009,2 - 3,Wolfsburg,Bayer Leverkusen
+30/08/2009,3 - 1,Hamburger SV,Köln
+30/08/2009,2 - 3,Hertha BSC,Werder Bremen
+29/08/2009,3 - 0,Bayern München,Wolfsburg
+29/08/2009,2 - 1,Bayer Leverkusen,Bochum
+29/08/2009,1 - 1,Eintracht Frankfurt,Borussia Dortmund
+29/08/2009,0 - 1,Hannover 96,Hoffenheim
+29/08/2009,0 - 1,Schalke 04,Freiburg
+29/08/2009,0 - 0,Stuttgart,Nürnberg
+28/08/2009,2 - 0,Borussia M'gladbach,Mainz 05
+23/08/2009,3 - 0,Werder Bremen,Borussia M'gladbach
+23/08/2009,2 - 4,Wolfsburg,Hamburger SV
+23/08/2009,1 - 0,Bochum,Hertha BSC
+22/08/2009,1 - 1,Borussia Dortmund,Stuttgart
+22/08/2009,0 - 5,Freiburg,Bayer Leverkusen
+22/08/2009,0 - 0,Köln,Eintracht Frankfurt
+22/08/2009,2 - 1,Mainz 05,Bayern München
+22/08/2009,0 - 2,Nürnberg,Hannover 96
+21/08/2009,0 - 0,Hoffenheim,Schalke 04
+16/08/2009,3 - 0,Schalke 04,Bochum
+16/08/2009,2 - 1,Borussia M'gladbach,Hertha BSC
+15/08/2009,1 - 3,Köln,Wolfsburg
+15/08/2009,1 - 0,Bayer Leverkusen,Hoffenheim
+15/08/2009,1 - 1,Bayern München,Werder Bremen
+15/08/2009,1 - 1,Eintracht Frankfurt,Nürnberg
+15/08/2009,4 - 1,Hamburger SV,Borussia Dortmund
+15/08/2009,1 - 1,Hannover 96,Mainz 05
+15/08/2009,4 - 2,Stuttgart,Freiburg
+09/08/2009,1 - 1,Freiburg,Hamburger SV
+09/08/2009,3 - 3,Bochum,Borussia M'gladbach
+08/08/2009,1 - 1,Hoffenheim,Bayern München
+08/08/2009,1 - 0,Borussia Dortmund,Köln
+08/08/2009,1 - 0,Hertha BSC,Hannover 96
+08/08/2009,2 - 2,Mainz 05,Bayer Leverkusen
+08/08/2009,1 - 2,Nürnberg,Schalke 04
+08/08/2009,2 - 3,Werder Bremen,Eintracht Frankfurt
+07/08/2009,2 - 0,Wolfsburg,Stuttgart

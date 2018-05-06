@@ -1,0 +1,381 @@
+date,score,home_team,away_team
+07/05/2006,4 - 2,Arsenal,Wigan Athletic
+07/05/2006,2 - 1,Aston Villa,Sunderland
+07/05/2006,2 - 0,Blackburn Rovers,Manchester City
+07/05/2006,1 - 0,Bolton Wanderers,Birmingham City
+07/05/2006,2 - 2,Everton,West Bromwich Albion
+07/05/2006,1 - 0,Fulham,Middlesbrough
+07/05/2006,4 - 0,Manchester United,Charlton Athletic
+07/05/2006,1 - 0,Newcastle United,Chelsea
+07/05/2006,1 - 3,Portsmouth,Liverpool
+07/05/2006,2 - 1,West Ham United,Tottenham Hotspur
+04/05/2006,1 - 3,Manchester City,Arsenal
+04/05/2006,2 - 1,Sunderland,Fulham
+03/05/2006,1 - 1,Bolton Wanderers,Middlesbrough
+02/05/2006,1 - 0,Blackburn Rovers,Chelsea
+01/05/2006,0 - 0,Manchester United,Middlesbrough
+01/05/2006,0 - 1,West Bromwich Albion,West Ham United
+01/05/2006,0 - 3,Sunderland,Arsenal
+30/04/2006,1 - 0,Tottenham Hotspur,Bolton Wanderers
+29/04/2006,0 - 2,Charlton Athletic,Blackburn Rovers
+29/04/2006,0 - 0,Birmingham City,Newcastle United
+29/04/2006,3 - 1,Liverpool,Aston Villa
+29/04/2006,1 - 2,Manchester City,Fulham
+29/04/2006,0 - 1,Middlesbrough,Everton
+29/04/2006,1 - 2,Wigan Athletic,Portsmouth
+29/04/2006,3 - 0,Chelsea,Manchester United
+26/04/2006,1 - 2,West Ham United,Liverpool
+25/04/2006,0 - 1,Aston Villa,Manchester City
+24/04/2006,1 - 0,Fulham,Wigan Athletic
+22/04/2006,4 - 1,Bolton Wanderers,Charlton Athletic
+22/04/2006,0 - 0,Everton,Birmingham City
+22/04/2006,3 - 0,Newcastle United,West Bromwich Albion
+22/04/2006,2 - 1,Portsmouth,Sunderland
+22/04/2006,1 - 1,Arsenal,Tottenham Hotspur
+19/04/2006,2 - 1,Birmingham City,Blackburn Rovers
+18/04/2006,3 - 2,Wigan Athletic,Aston Villa
+17/04/2006,0 - 0,West Bromwich Albion,Bolton Wanderers
+17/04/2006,2 - 1,Charlton Athletic,Portsmouth
+17/04/2006,3 - 0,Chelsea,Everton
+17/04/2006,2 - 0,Middlesbrough,West Ham United
+17/04/2006,1 - 4,Sunderland,Newcastle United
+17/04/2006,1 - 2,Tottenham Hotspur,Manchester United
+16/04/2006,0 - 1,Blackburn Rovers,Liverpool
+16/04/2006,3 - 1,Aston Villa,Birmingham City
+15/04/2006,3 - 1,Arsenal,West Bromwich Albion
+15/04/2006,0 - 1,Everton,Tottenham Hotspur
+15/04/2006,2 - 1,Fulham,Charlton Athletic
+15/04/2006,3 - 1,Newcastle United,Wigan Athletic
+15/04/2006,1 - 0,Portsmouth,Middlesbrough
+15/04/2006,1 - 0,West Ham United,Manchester City
+15/04/2006,0 - 2,[N] Bolton Wanderers,Chelsea
+14/04/2006,0 - 0,Manchester United,Sunderland
+12/04/2006,1 - 1,Portsmouth,Arsenal
+09/04/2006,2 - 0,Manchester United,Arsenal
+09/04/2006,1 - 2,Middlesbrough,Newcastle United
+09/04/2006,1 - 0,Liverpool,Bolton Wanderers
+09/04/2006,0 - 0,Aston Villa,West Bromwich Albion
+09/04/2006,4 - 1,Chelsea,West Ham United
+08/04/2006,1 - 1,Wigan Athletic,Birmingham City
+08/04/2006,0 - 0,Charlton Athletic,Everton
+08/04/2006,2 - 2,Portsmouth,Blackburn Rovers
+08/04/2006,2 - 1,Tottenham Hotspur,Manchester City
+04/04/2006,1 - 0,Birmingham City,Bolton Wanderers
+03/04/2006,1 - 1,Blackburn Rovers,Wigan Athletic
+02/04/2006,0 - 0,West Ham United,Charlton Athletic
+02/04/2006,0 - 1,Manchester City,Middlesbrough
+01/04/2006,0 - 2,West Bromwich Albion,Liverpool
+01/04/2006,5 - 0,Arsenal,Aston Villa
+01/04/2006,1 - 2,[N] Bolton Wanderers,Manchester United
+01/04/2006,2 - 2,Everton,Sunderland
+01/04/2006,1 - 3,Fulham,Portsmouth
+01/04/2006,3 - 1,Newcastle United,Tottenham Hotspur
+01/04/2006,0 - 0,Birmingham City,Chelsea
+29/03/2006,1 - 0,Manchester United,West Ham United
+27/03/2006,2 - 1,Tottenham Hotspur,West Bromwich Albion
+26/03/2006,3 - 0,Manchester United,Birmingham City
+26/03/2006,3 - 1,Charlton Athletic,Newcastle United
+26/03/2006,4 - 3,Middlesbrough,Bolton Wanderers
+25/03/2006,0 - 0,Aston Villa,Fulham
+25/03/2006,2 - 0,Chelsea,Manchester City
+25/03/2006,0 - 1,Sunderland,Blackburn Rovers
+25/03/2006,1 - 2,Wigan Athletic,West Ham United
+25/03/2006,3 - 1,Liverpool,Everton
+19/03/2006,1 - 0,Fulham,Chelsea
+19/03/2006,1 - 3,Newcastle United,Liverpool
+18/03/2006,0 - 2,Birmingham City,Tottenham Hotspur
+18/03/2006,3 - 0,Arsenal,Charlton Athletic
+18/03/2006,3 - 2,Blackburn Rovers,Middlesbrough
+18/03/2006,2 - 0,Bolton Wanderers,Sunderland
+18/03/2006,0 - 1,Manchester City,Wigan Athletic
+18/03/2006,1 - 2,West Bromwich Albion,Manchester United
+18/03/2006,2 - 4,West Ham United,Portsmouth
+18/03/2006,4 - 1,Everton,Aston Villa
+15/03/2006,5 - 1,Liverpool,Fulham
+12/03/2006,2 - 1,Arsenal,Liverpool
+12/03/2006,2 - 1,Charlton Athletic,Middlesbrough
+12/03/2006,2 - 0,Manchester United,Newcastle United
+11/03/2006,2 - 0,Blackburn Rovers,Aston Villa
+11/03/2006,4 - 1,Bolton Wanderers,West Ham United
+11/03/2006,3 - 1,Everton,Fulham
+11/03/2006,2 - 1,Portsmouth,Manchester City
+11/03/2006,0 - 1,Sunderland,Wigan Athletic
+11/03/2006,2 - 1,Chelsea,Tottenham Hotspur
+11/03/2006,1 - 1,Birmingham City,West Bromwich Albion
+06/03/2006,1 - 2,Wigan Athletic,Manchester United
+05/03/2006,3 - 2,Tottenham Hotspur,Blackburn Rovers
+05/03/2006,2 - 1,Manchester City,Sunderland
+04/03/2006,0 - 0,Liverpool,Charlton Athletic
+04/03/2006,1 - 0,Aston Villa,Portsmouth
+04/03/2006,0 - 4,Fulham,Arsenal
+04/03/2006,1 - 0,Middlesbrough,Birmingham City
+04/03/2006,3 - 1,Newcastle United,Bolton Wanderers
+04/03/2006,2 - 2,West Ham United,Everton
+04/03/2006,1 - 2,West Bromwich Albion,Chelsea
+26/02/2006,0 - 2,West Bromwich Albion,Middlesbrough
+26/02/2006,2 - 1,Bolton Wanderers,Fulham
+26/02/2006,1 - 0,Liverpool,Manchester City
+25/02/2006,2 - 0,Newcastle United,Everton
+25/02/2006,1 - 0,Birmingham City,Sunderland
+25/02/2006,1 - 0,Blackburn Rovers,Arsenal
+25/02/2006,0 - 0,Charlton Athletic,Aston Villa
+25/02/2006,2 - 0,Chelsea,Portsmouth
+22/02/2006,0 - 0,Newcastle United,Charlton Athletic
+19/02/2006,2 - 2,Tottenham Hotspur,Wigan Athletic
+15/02/2006,2 - 0,Blackburn Rovers,Sunderland
+14/02/2006,1 - 0,Liverpool,Arsenal
+13/02/2006,3 - 0,West Ham United,Birmingham City
+12/02/2006,3 - 2,Manchester City,Charlton Athletic
+12/02/2006,1 - 1,Sunderland,Tottenham Hotspur
+11/02/2006,1 - 3,Portsmouth,Manchester United
+11/02/2006,1 - 1,Arsenal,Bolton Wanderers
+11/02/2006,1 - 2,Aston Villa,Newcastle United
+11/02/2006,1 - 0,Everton,Blackburn Rovers
+11/02/2006,6 - 1,Fulham,West Bromwich Albion
+11/02/2006,3 - 0,Middlesbrough,Chelsea
+11/02/2006,0 - 1,Wigan Athletic,Liverpool
+08/02/2006,2 - 0,Charlton Athletic,Liverpool
+05/02/2006,2 - 0,Chelsea,Liverpool
+05/02/2006,3 - 1,Tottenham Hotspur,Charlton Athletic
+04/02/2006,4 - 2,Manchester United,Fulham
+04/02/2006,0 - 2,Birmingham City,Arsenal
+04/02/2006,1 - 1,Bolton Wanderers,Wigan Athletic
+04/02/2006,1 - 0,Everton,Manchester City
+04/02/2006,0 - 4,Middlesbrough,Aston Villa
+04/02/2006,2 - 0,Newcastle United,Portsmouth
+04/02/2006,2 - 0,West Bromwich Albion,Blackburn Rovers
+04/02/2006,2 - 0,West Ham United,Sunderland
+01/02/2006,2 - 3,Arsenal,West Ham United
+01/02/2006,4 - 3,Blackburn Rovers,Manchester United
+01/02/2006,1 - 1,Liverpool,Birmingham City
+01/02/2006,1 - 1,Aston Villa,Chelsea
+01/02/2006,3 - 0,Manchester City,Newcastle United
+01/02/2006,1 - 1,Portsmouth,Bolton Wanderers
+31/01/2006,0 - 0,Charlton Athletic,West Bromwich Albion
+31/01/2006,1 - 0,Fulham,Tottenham Hotspur
+31/01/2006,0 - 3,Sunderland,Middlesbrough
+31/01/2006,1 - 1,Wigan Athletic,Everton
+23/01/2006,2 - 1,West Ham United,Fulham
+22/01/2006,1 - 0,Manchester United,Liverpool
+22/01/2006,1 - 1,Chelsea,Charlton Athletic
+21/01/2006,0 - 1,West Bromwich Albion,Sunderland
+21/01/2006,5 - 0,Birmingham City,Portsmouth
+21/01/2006,2 - 0,Bolton Wanderers,Manchester City
+21/01/2006,2 - 3,Middlesbrough,Wigan Athletic
+21/01/2006,0 - 1,Newcastle United,Blackburn Rovers
+21/01/2006,0 - 0,Tottenham Hotspur,Aston Villa
+21/01/2006,1 - 0,Everton,Arsenal
+15/01/2006,1 - 2,Sunderland,Chelsea
+15/01/2006,0 - 1,Wigan Athletic,West Bromwich Albion
+14/01/2006,0 - 0,Blackburn Rovers,Bolton Wanderers
+14/01/2006,7 - 0,Arsenal,Middlesbrough
+14/01/2006,1 - 2,Aston Villa,West Ham United
+14/01/2006,2 - 0,Charlton Athletic,Birmingham City
+14/01/2006,1 - 0,Fulham,Newcastle United
+14/01/2006,1 - 0,Liverpool,Tottenham Hotspur
+14/01/2006,0 - 1,Portsmouth,Everton
+14/01/2006,3 - 1,Manchester City,Manchester United
+04/01/2006,0 - 2,Manchester City,Tottenham Hotspur
+03/01/2006,0 - 0,Arsenal,Manchester United
+02/01/2006,2 - 1,Blackburn Rovers,Portsmouth
+02/01/2006,2 - 0,Birmingham City,Wigan Athletic
+02/01/2006,2 - 2,Bolton Wanderers,Liverpool
+02/01/2006,3 - 1,Everton,Charlton Athletic
+02/01/2006,2 - 1,Fulham,Sunderland
+02/01/2006,2 - 2,Newcastle United,Middlesbrough
+02/01/2006,1 - 3,West Ham United,Chelsea
+02/01/2006,1 - 2,West Bromwich Albion,Aston Villa
+31/12/2005,1 - 0,Liverpool,West Bromwich Albion
+31/12/2005,4 - 1,Manchester United,Bolton Wanderers
+31/12/2005,0 - 0,Middlesbrough,Manchester City
+31/12/2005,1 - 0,Portsmouth,Fulham
+31/12/2005,0 - 1,Sunderland,Everton
+31/12/2005,0 - 3,Wigan Athletic,Blackburn Rovers
+31/12/2005,2 - 0,Charlton Athletic,West Ham United
+31/12/2005,2 - 0,Chelsea,Birmingham City
+31/12/2005,2 - 0,Tottenham Hotspur,Newcastle United
+31/12/2005,0 - 0,Aston Villa,Arsenal
+28/12/2005,1 - 3,Everton,Liverpool
+28/12/2005,4 - 0,Arsenal,Portsmouth
+28/12/2005,2 - 2,Birmingham City,Manchester United
+28/12/2005,3 - 3,Fulham,Aston Villa
+28/12/2005,0 - 1,Manchester City,Chelsea
+28/12/2005,2 - 0,West Bromwich Albion,Tottenham Hotspur
+28/12/2005,0 - 2,West Ham United,Wigan Athletic
+26/12/2005,4 - 0,Aston Villa,Everton
+26/12/2005,2 - 0,Liverpool,Newcastle United
+26/12/2005,3 - 0,Manchester United,West Bromwich Albion
+26/12/2005,0 - 2,Middlesbrough,Blackburn Rovers
+26/12/2005,1 - 1,Portsmouth,West Ham United
+26/12/2005,0 - 0,Sunderland,Bolton Wanderers
+26/12/2005,4 - 3,Wigan Athletic,Manchester City
+26/12/2005,3 - 2,Chelsea,Fulham
+26/12/2005,2 - 0,Tottenham Hotspur,Birmingham City
+26/12/2005,0 - 1,Charlton Athletic,Arsenal
+18/12/2005,0 - 2,Arsenal,Chelsea
+18/12/2005,3 - 3,Middlesbrough,Tottenham Hotspur
+17/12/2005,4 - 1,Manchester City,Birmingham City
+17/12/2005,0 - 2,Aston Villa,Manchester United
+17/12/2005,0 - 4,Everton,Bolton Wanderers
+17/12/2005,2 - 1,Fulham,Blackburn Rovers
+17/12/2005,1 - 0,Portsmouth,West Bromwich Albion
+17/12/2005,2 - 4,West Ham United,Newcastle United
+17/12/2005,3 - 0,Wigan Athletic,Charlton Athletic
+14/12/2005,1 - 2,Everton,West Ham United
+14/12/2005,4 - 0,Manchester United,Wigan Athletic
+12/12/2005,3 - 1,Tottenham Hotspur,Portsmouth
+11/12/2005,1 - 1,Manchester United,Everton
+10/12/2005,1 - 0,Newcastle United,Arsenal
+10/12/2005,1 - 0,Birmingham City,Fulham
+10/12/2005,3 - 2,Blackburn Rovers,West Ham United
+10/12/2005,1 - 1,Bolton Wanderers,Aston Villa
+10/12/2005,2 - 0,Charlton Athletic,Sunderland
+10/12/2005,1 - 0,Chelsea,Wigan Athletic
+10/12/2005,2 - 0,West Bromwich Albion,Manchester City
+10/12/2005,2 - 0,Liverpool,Middlesbrough
+05/12/2005,1 - 2,Birmingham City,West Ham United
+04/12/2005,2 - 5,Charlton Athletic,Manchester City
+03/12/2005,3 - 0,Manchester United,Portsmouth
+03/12/2005,0 - 2,Blackburn Rovers,Everton
+03/12/2005,2 - 0,Bolton Wanderers,Arsenal
+03/12/2005,1 - 0,Chelsea,Middlesbrough
+03/12/2005,1 - 1,Newcastle United,Aston Villa
+03/12/2005,3 - 2,Tottenham Hotspur,Sunderland
+03/12/2005,0 - 0,West Bromwich Albion,Fulham
+03/12/2005,3 - 0,Liverpool,Wigan Athletic
+30/11/2005,0 - 2,Sunderland,Liverpool
+27/11/2005,1 - 2,West Ham United,Manchester United
+27/11/2005,2 - 2,Middlesbrough,West Bromwich Albion
+27/11/2005,2 - 1,Fulham,Bolton Wanderers
+27/11/2005,1 - 0,Everton,Newcastle United
+26/11/2005,0 - 2,Portsmouth,Chelsea
+26/11/2005,3 - 0,Arsenal,Blackburn Rovers
+26/11/2005,1 - 0,Aston Villa,Charlton Athletic
+26/11/2005,0 - 1,Manchester City,Liverpool
+26/11/2005,0 - 1,Sunderland,Birmingham City
+26/11/2005,1 - 2,Wigan Athletic,Tottenham Hotspur
+20/11/2005,3 - 2,Middlesbrough,Fulham
+20/11/2005,1 - 1,Tottenham Hotspur,West Ham United
+19/11/2005,4 - 0,West Bromwich Albion,Everton
+19/11/2005,1 - 3,Charlton Athletic,Manchester United
+19/11/2005,3 - 0,Chelsea,Newcastle United
+19/11/2005,3 - 0,Liverpool,Portsmouth
+19/11/2005,0 - 0,Manchester City,Blackburn Rovers
+19/11/2005,1 - 3,Sunderland,Aston Villa
+19/11/2005,2 - 3,Wigan Athletic,Arsenal
+07/11/2005,1 - 0,Bolton Wanderers,Tottenham Hotspur
+06/11/2005,1 - 0,Manchester United,Chelsea
+06/11/2005,1 - 0,Everton,Middlesbrough
+05/11/2005,0 - 2,Portsmouth,Wigan Athletic
+05/11/2005,3 - 1,Arsenal,Sunderland
+05/11/2005,4 - 1,Blackburn Rovers,Charlton Athletic
+05/11/2005,2 - 1,Fulham,Manchester City
+05/11/2005,1 - 0,Newcastle United,Birmingham City
+05/11/2005,1 - 0,West Ham United,West Bromwich Albion
+05/11/2005,0 - 2,Aston Villa,Liverpool
+31/10/2005,3 - 1,Manchester City,Aston Villa
+30/10/2005,0 - 3,West Bromwich Albion,Newcastle United
+29/10/2005,4 - 1,Middlesbrough,Manchester United
+29/10/2005,0 - 1,Birmingham City,Everton
+29/10/2005,0 - 1,Charlton Athletic,Bolton Wanderers
+29/10/2005,4 - 2,Chelsea,Blackburn Rovers
+29/10/2005,2 - 0,Liverpool,West Ham United
+29/10/2005,1 - 4,Sunderland,Portsmouth
+29/10/2005,1 - 1,Tottenham Hotspur,Arsenal
+29/10/2005,1 - 0,Wigan Athletic,Fulham
+23/10/2005,1 - 1,Everton,Chelsea
+23/10/2005,2 - 0,Bolton Wanderers,West Bromwich Albion
+23/10/2005,2 - 1,West Ham United,Middlesbrough
+23/10/2005,3 - 2,Newcastle United,Sunderland
+22/10/2005,1 - 2,Portsmouth,Charlton Athletic
+22/10/2005,1 - 0,Arsenal,Manchester City
+22/10/2005,0 - 2,Aston Villa,Wigan Athletic
+22/10/2005,2 - 0,Fulham,Liverpool
+22/10/2005,1 - 1,Manchester United,Tottenham Hotspur
+22/10/2005,2 - 0,Blackburn Rovers,Birmingham City
+17/10/2005,1 - 1,Charlton Athletic,Fulham
+16/10/2005,2 - 1,Manchester City,West Ham United
+16/10/2005,0 - 1,Birmingham City,Aston Villa
+15/10/2005,1 - 1,Middlesbrough,Portsmouth
+15/10/2005,5 - 1,Chelsea,Bolton Wanderers
+15/10/2005,1 - 0,Liverpool,Blackburn Rovers
+15/10/2005,1 - 3,Sunderland,Manchester United
+15/10/2005,2 - 0,Tottenham Hotspur,Everton
+15/10/2005,2 - 1,West Bromwich Albion,Arsenal
+15/10/2005,1 - 0,Wigan Athletic,Newcastle United
+02/10/2005,1 - 4,Liverpool,Chelsea
+02/10/2005,2 - 3,Aston Villa,Middlesbrough
+02/10/2005,1 - 0,Arsenal,Birmingham City
+02/10/2005,2 - 1,Wigan Athletic,Bolton Wanderers
+02/10/2005,2 - 0,Manchester City,Everton
+01/10/2005,1 - 1,Sunderland,West Ham United
+01/10/2005,2 - 0,Blackburn Rovers,West Bromwich Albion
+01/10/2005,2 - 3,Charlton Athletic,Tottenham Hotspur
+01/10/2005,2 - 3,Fulham,Manchester United
+01/10/2005,0 - 0,Portsmouth,Newcastle United
+26/09/2005,1 - 0,Tottenham Hotspur,Fulham
+25/09/2005,0 - 2,Middlesbrough,Sunderland
+24/09/2005,1 - 0,Bolton Wanderers,Portsmouth
+24/09/2005,2 - 1,Chelsea,Aston Villa
+24/09/2005,0 - 1,Everton,Wigan Athletic
+24/09/2005,1 - 2,Manchester United,Blackburn Rovers
+24/09/2005,1 - 0,Newcastle United,Manchester City
+24/09/2005,1 - 2,West Bromwich Albion,Charlton Athletic
+24/09/2005,0 - 0,West Ham United,Arsenal
+24/09/2005,2 - 2,Birmingham City,Liverpool
+19/09/2005,2 - 0,Arsenal,Everton
+18/09/2005,0 - 1,Manchester City,Bolton Wanderers
+18/09/2005,1 - 1,Wigan Athletic,Middlesbrough
+18/09/2005,0 - 3,Blackburn Rovers,Newcastle United
+18/09/2005,0 - 0,Liverpool,Manchester United
+17/09/2005,1 - 1,Aston Villa,Tottenham Hotspur
+17/09/2005,0 - 2,Charlton Athletic,Chelsea
+17/09/2005,1 - 2,Fulham,West Ham United
+17/09/2005,1 - 1,Portsmouth,Birmingham City
+17/09/2005,1 - 1,Sunderland,West Bromwich Albion
+12/09/2005,4 - 0,West Ham United,Aston Villa
+11/09/2005,0 - 0,Bolton Wanderers,Blackburn Rovers
+10/09/2005,2 - 1,Middlesbrough,Arsenal
+10/09/2005,0 - 1,Birmingham City,Charlton Athletic
+10/09/2005,2 - 0,Chelsea,Sunderland
+10/09/2005,0 - 1,Everton,Portsmouth
+10/09/2005,1 - 1,Manchester United,Manchester City
+10/09/2005,1 - 1,Newcastle United,Fulham
+10/09/2005,0 - 0,Tottenham Hotspur,Liverpool
+10/09/2005,1 - 2,West Bromwich Albion,Wigan Athletic
+28/08/2005,0 - 2,Newcastle United,Manchester United
+28/08/2005,0 - 3,Middlesbrough,Charlton Athletic
+27/08/2005,1 - 0,Aston Villa,Blackburn Rovers
+27/08/2005,1 - 0,Fulham,Everton
+27/08/2005,2 - 1,Manchester City,Portsmouth
+27/08/2005,0 - 2,Tottenham Hotspur,Chelsea
+27/08/2005,1 - 2,West Ham United,Bolton Wanderers
+27/08/2005,1 - 0,Wigan Athletic,Sunderland
+27/08/2005,2 - 3,West Bromwich Albion,Birmingham City
+24/08/2005,0 - 0,Blackburn Rovers,Tottenham Hotspur
+24/08/2005,2 - 0,Bolton Wanderers,Newcastle United
+24/08/2005,4 - 1,Arsenal,Fulham
+24/08/2005,4 - 0,Chelsea,West Bromwich Albion
+23/08/2005,0 - 3,Birmingham City,Middlesbrough
+23/08/2005,1 - 1,Portsmouth,Aston Villa
+23/08/2005,1 - 2,Sunderland,Manchester City
+21/08/2005,1 - 0,Chelsea,Arsenal
+21/08/2005,0 - 1,Bolton Wanderers,Everton
+20/08/2005,1 - 2,Birmingham City,Manchester City
+20/08/2005,2 - 1,Blackburn Rovers,Fulham
+20/08/2005,1 - 0,Charlton Athletic,Wigan Athletic
+20/08/2005,1 - 0,Liverpool,Sunderland
+20/08/2005,0 - 0,Newcastle United,West Ham United
+20/08/2005,2 - 0,Tottenham Hotspur,Middlesbrough
+20/08/2005,2 - 1,West Bromwich Albion,Portsmouth
+20/08/2005,1 - 0,Manchester United,Aston Villa
+14/08/2005,0 - 1,Wigan Athletic,Chelsea
+14/08/2005,2 - 0,Arsenal,Newcastle United
+13/08/2005,0 - 0,Middlesbrough,Liverpool
+13/08/2005,2 - 2,Aston Villa,Bolton Wanderers
+13/08/2005,0 - 0,Fulham,Birmingham City
+13/08/2005,0 - 0,Manchester City,West Bromwich Albion
+13/08/2005,0 - 2,Portsmouth,Tottenham Hotspur
+13/08/2005,1 - 3,Sunderland,Charlton Athletic
+13/08/2005,3 - 1,West Ham United,Blackburn Rovers
+13/08/2005,0 - 2,Everton,Manchester United

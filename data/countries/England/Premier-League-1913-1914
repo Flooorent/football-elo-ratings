@@ -1,0 +1,381 @@
+date,score,home_team,away_team
+27/04/1914,2 - 2,Burnley,Bradford City
+27/04/1914,2 - 1,Liverpool,Sheffield United
+25/04/1914,1 - 3,Aston Villa,Middlesbrough
+25/04/1914,2 - 0,Chelsea,Everton
+25/04/1914,0 - 0,Manchester United,Blackburn Rovers
+25/04/1914,1 - 1,Newcastle United,Derby County
+25/04/1914,2 - 1,Oldham Athletic,Sunderland
+25/04/1914,2 - 2,Preston North End,Manchester City
+25/04/1914,2 - 0,Sheffield Wednesday,Tottenham Hotspur
+22/04/1914,2 - 1,Manchester United,Sheffield United
+18/04/1914,2 - 1,Blackburn Rovers,Oldham Athletic
+18/04/1914,1 - 1,Bradford City,Manchester United
+18/04/1914,0 - 1,Derby County,Preston North End
+18/04/1914,1 - 1,Everton,Bolton Wanderers
+18/04/1914,4 - 1,Manchester City,Burnley
+18/04/1914,4 - 0,Middlesbrough,Liverpool
+18/04/1914,2 - 0,Sheffield United,Newcastle United
+18/04/1914,2 - 0,Sunderland,Chelsea
+18/04/1914,0 - 2,Tottenham Hotspur,Aston Villa
+18/04/1914,1 - 1,West Bromwich Albion,Sheffield Wednesday
+15/04/1914,1 - 2,Liverpool,Manchester United
+14/04/1914,2 - 0,Oldham Athletic,Sheffield Wednesday
+14/04/1914,3 - 1,West Bromwich Albion,Chelsea
+13/04/1914,3 - 2,Aston Villa,Derby County
+13/04/1914,1 - 0,Bradford City,Liverpool
+13/04/1914,2 - 1,Chelsea,Bolton Wanderers
+13/04/1914,0 - 2,Everton,Oldham Athletic
+13/04/1914,0 - 1,Manchester City,Newcastle United
+13/04/1914,6 - 0,Middlesbrough,Tottenham Hotspur
+13/04/1914,2 - 1,West Bromwich Albion,Manchester United
+11/04/1914,2 - 1,Bolton Wanderers,Sunderland
+11/04/1914,5 - 1,Burnley,Derby County
+11/04/1914,2 - 0,Chelsea,Blackburn Rovers
+11/04/1914,0 - 1,Liverpool,Aston Villa
+11/04/1914,0 - 1,Manchester United,Manchester City
+11/04/1914,1 - 0,Newcastle United,Middlesbrough
+11/04/1914,3 - 1,Oldham Athletic,Bradford City
+11/04/1914,2 - 4,Preston North End,Sheffield United
+11/04/1914,2 - 2,Sheffield Wednesday,Everton
+11/04/1914,1 - 1,West Bromwich Albion,Tottenham Hotspur
+10/04/1914,2 - 0,Burnley,Everton
+10/04/1914,1 - 0,Liverpool,Derby County
+10/04/1914,3 - 1,Manchester City,Aston Villa
+10/04/1914,2 - 3,Middlesbrough,Sheffield United
+10/04/1914,0 - 0,Newcastle United,Blackburn Rovers
+10/04/1914,2 - 1,Preston North End,Bradford City
+10/04/1914,2 - 0,Sunderland,Manchester United
+10/04/1914,3 - 0,Tottenham Hotspur,Bolton Wanderers
+06/04/1914,1 - 2,Burnley,Middlesbrough
+06/04/1914,2 - 0,Sheffield United,Bolton Wanderers
+04/04/1914,1 - 3,Aston Villa,Newcastle United
+04/04/1914,3 - 2,Blackburn Rovers,Bolton Wanderers
+04/04/1914,0 - 0,Bradford City,Chelsea
+04/04/1914,4 - 2,Derby County,Manchester United
+04/04/1914,2 - 0,Everton,West Bromwich Albion
+04/04/1914,2 - 1,Manchester City,Oldham Athletic
+04/04/1914,4 - 1,Middlesbrough,Preston North End
+04/04/1914,5 - 0,Sheffield United,Burnley
+04/04/1914,0 - 1,Sunderland,Sheffield Wednesday
+04/04/1914,0 - 0,Tottenham Hotspur,Liverpool
+01/04/1914,1 - 2,Newcastle United,Liverpool
+01/04/1914,3 - 2,Preston North End,Aston Villa
+28/03/1914,3 - 0,Bolton Wanderers,Bradford City
+28/03/1914,1 - 0,Chelsea,Manchester City
+28/03/1914,1 - 1,Everton,Tottenham Hotspur
+28/03/1914,0 - 0,Oldham Athletic,Derby County
+28/03/1914,3 - 1,Sheffield Wednesday,Blackburn Rovers
+28/03/1914,2 - 1,West Bromwich Albion,Sunderland
+25/03/1914,2 - 3,Manchester City,West Bromwich Albion
+23/03/1914,3 - 1,Blackburn Rovers,Sunderland
+21/03/1914,1 - 0,Aston Villa,Burnley
+21/03/1914,2 - 0,Blackburn Rovers,West Bromwich Albion
+21/03/1914,3 - 1,Bradford City,Sheffield Wednesday
+21/03/1914,0 - 1,Derby County,Chelsea
+21/03/1914,3 - 1,Liverpool,Preston North End
+21/03/1914,0 - 1,Manchester City,Bolton Wanderers
+21/03/1914,2 - 1,Sheffield United,Oldham Athletic
+21/03/1914,5 - 2,Sunderland,Everton
+21/03/1914,0 - 0,Tottenham Hotspur,Newcastle United
+19/03/1914,1 - 1,Sheffield United,West Bromwich Albion
+18/03/1914,0 - 0,Aston Villa,Oldham Athletic
+18/03/1914,3 - 0,Liverpool,Chelsea
+18/03/1914,3 - 1,Manchester City,Sunderland
+18/03/1914,5 - 2,Middlesbrough,Sheffield Wednesday
+18/03/1914,3 - 1,Newcastle United,Burnley
+14/03/1914,3 - 1,Bolton Wanderers,Derby County
+14/03/1914,5 - 2,Burnley,Liverpool
+14/03/1914,2 - 0,Chelsea,Sheffield United
+14/03/1914,0 - 0,Everton,Blackburn Rovers
+14/03/1914,0 - 6,Manchester United,Aston Villa
+14/03/1914,3 - 0,Oldham Athletic,Middlesbrough
+14/03/1914,4 - 1,Preston North End,Newcastle United
+14/03/1914,2 - 2,Sheffield Wednesday,Manchester City
+14/03/1914,2 - 0,Sunderland,Tottenham Hotspur
+14/03/1914,2 - 1,West Bromwich Albion,Bradford City
+11/03/1914,1 - 1,Derby County,Sheffield Wednesday
+07/03/1914,1 - 0,Bolton Wanderers,West Bromwich Albion
+07/03/1914,0 - 1,Bradford City,Everton
+07/03/1914,2 - 0,Middlesbrough,Chelsea
+07/03/1914,1 - 0,Tottenham Hotspur,Preston North End
+05/03/1914,4 - 2,Preston North End,Manchester United
+28/02/1914,1 - 1,Blackburn Rovers,Tottenham Hotspur
+28/02/1914,1 - 1,Bolton Wanderers,Middlesbrough
+28/02/1914,3 - 4,Burnley,Preston North End
+28/02/1914,0 - 3,Chelsea,Aston Villa
+28/02/1914,1 - 0,Everton,Manchester City
+28/02/1914,2 - 2,Manchester United,Newcastle United
+28/02/1914,2 - 2,Oldham Athletic,Liverpool
+28/02/1914,2 - 1,Sheffield Wednesday,Sheffield United
+28/02/1914,0 - 1,Sunderland,Bradford City
+28/02/1914,2 - 1,West Bromwich Albion,Derby County
+25/02/1914,1 - 0,Aston Villa,Bolton Wanderers
+25/02/1914,0 - 2,Bradford City,Blackburn Rovers
+23/02/1914,2 - 0,Tottenham Hotspur,Burnley
+21/02/1914,1 - 0,Derby County,Everton
+21/02/1914,3 - 1,Middlesbrough,Manchester United
+21/02/1914,0 - 0,Newcastle United,Oldham Athletic
+14/02/1914,2 - 1,Blackburn Rovers,Manchester City
+14/02/1914,2 - 1,Bolton Wanderers,Liverpool
+14/02/1914,2 - 1,Bradford City,Tottenham Hotspur
+14/02/1914,0 - 1,Chelsea,Newcastle United
+14/02/1914,5 - 0,Everton,Sheffield United
+14/02/1914,0 - 1,Manchester United,Burnley
+14/02/1914,1 - 0,Oldham Athletic,Preston North End
+14/02/1914,2 - 3,Sheffield Wednesday,Aston Villa
+14/02/1914,1 - 0,Sunderland,Derby County
+14/02/1914,2 - 1,West Bromwich Albion,Middlesbrough
+11/02/1914,1 - 1,Bolton Wanderers,Chelsea
+07/02/1914,2 - 0,Aston Villa,West Bromwich Albion
+07/02/1914,2 - 0,Burnley,Oldham Athletic
+07/02/1914,2 - 3,Derby County,Blackburn Rovers
+07/02/1914,1 - 2,Liverpool,Sheffield Wednesday
+07/02/1914,1 - 0,Manchester City,Bradford City
+07/02/1914,2 - 0,Middlesbrough,Everton
+07/02/1914,4 - 3,Newcastle United,Bolton Wanderers
+07/02/1914,3 - 3,Preston North End,Chelsea
+07/02/1914,1 - 0,Sheffield United,Sunderland
+07/02/1914,2 - 1,Tottenham Hotspur,Manchester United
+24/01/1914,3 - 2,Blackburn Rovers,Sheffield United
+24/01/1914,0 - 3,Bolton Wanderers,Preston North End
+24/01/1914,0 - 0,Bradford City,Derby County
+24/01/1914,0 - 0,Chelsea,Burnley
+24/01/1914,1 - 4,Everton,Aston Villa
+24/01/1914,2 - 1,Manchester City,Tottenham Hotspur
+24/01/1914,2 - 2,Oldham Athletic,Manchester United
+24/01/1914,0 - 0,Sheffield Wednesday,Newcastle United
+24/01/1914,4 - 2,Sunderland,Middlesbrough
+24/01/1914,0 - 1,West Bromwich Albion,Liverpool
+17/01/1914,5 - 0,Aston Villa,Sunderland
+17/01/1914,2 - 2,Burnley,Bolton Wanderers
+17/01/1914,2 - 4,Derby County,Manchester City
+17/01/1914,1 - 2,Liverpool,Everton
+17/01/1914,0 - 1,Manchester United,Chelsea
+17/01/1914,3 - 0,Middlesbrough,Blackburn Rovers
+17/01/1914,3 - 3,Newcastle United,West Bromwich Albion
+17/01/1914,5 - 0,Preston North End,Sheffield Wednesday
+17/01/1914,1 - 1,Sheffield United,Bradford City
+17/01/1914,3 - 1,Tottenham Hotspur,Oldham Athletic
+03/01/1914,0 - 0,Blackburn Rovers,Aston Villa
+03/01/1914,6 - 1,Bolton Wanderers,Manchester United
+03/01/1914,2 - 3,Bradford City,Middlesbrough
+03/01/1914,2 - 1,Chelsea,Oldham Athletic
+03/01/1914,4 - 0,Derby County,Tottenham Hotspur
+03/01/1914,2 - 0,Everton,Newcastle United
+03/01/1914,2 - 1,Manchester City,Sheffield United
+03/01/1914,2 - 6,Sheffield Wednesday,Burnley
+03/01/1914,1 - 2,Sunderland,Liverpool
+03/01/1914,1 - 0,West Bromwich Albion,Preston North End
+01/01/1914,0 - 0,Blackburn Rovers,Burnley
+01/01/1914,3 - 0,Bolton Wanderers,Tottenham Hotspur
+01/01/1914,0 - 1,Liverpool,Bradford City
+01/01/1914,1 - 0,Manchester United,West Bromwich Albion
+01/01/1914,3 - 2,Middlesbrough,Derby County
+01/01/1914,0 - 1,Newcastle United,Manchester City
+01/01/1914,2 - 0,Oldham Athletic,Everton
+01/01/1914,3 - 0,Sheffield United,Aston Villa
+01/01/1914,3 - 1,Sunderland,Preston North End
+29/12/1913,1 - 1,Sheffield Wednesday,Bolton Wanderers
+27/12/1913,0 - 1,Aston Villa,Bradford City
+27/12/1913,0 - 0,Burnley,West Bromwich Albion
+27/12/1913,3 - 3,Liverpool,Blackburn Rovers
+27/12/1913,2 - 1,Manchester United,Sheffield Wednesday
+27/12/1913,2 - 0,Middlesbrough,Manchester City
+27/12/1913,2 - 1,Newcastle United,Sunderland
+27/12/1913,2 - 0,Oldham Athletic,Bolton Wanderers
+27/12/1913,1 - 0,Preston North End,Everton
+27/12/1913,2 - 2,Sheffield United,Derby County
+27/12/1913,1 - 2,Tottenham Hotspur,Chelsea
+26/12/1913,3 - 0,Aston Villa,Sheffield United
+26/12/1913,2 - 0,Bradford City,Newcastle United
+26/12/1913,5 - 0,Everton,Manchester United
+26/12/1913,1 - 0,Manchester City,Liverpool
+26/12/1913,1 - 5,Preston North End,Blackburn Rovers
+26/12/1913,3 - 0,Sheffield Wednesday,Chelsea
+26/12/1913,1 - 1,Sunderland,Burnley
+26/12/1913,0 - 1,Tottenham Hotspur,Middlesbrough
+26/12/1913,2 - 2,West Bromwich Albion,Oldham Athletic
+25/12/1913,5 - 0,Blackburn Rovers,Preston North End
+25/12/1913,0 - 1,Burnley,Sunderland
+25/12/1913,2 - 1,Chelsea,Sheffield Wednesday
+25/12/1913,0 - 2,Derby County,Aston Villa
+25/12/1913,4 - 2,Liverpool,Manchester City
+25/12/1913,0 - 1,Manchester United,Everton
+25/12/1913,0 - 0,Newcastle United,Bradford City
+25/12/1913,2 - 0,Oldham Athletic,West Bromwich Albion
+25/12/1913,3 - 1,Sheffield United,Middlesbrough
+20/12/1913,0 - 1,Blackburn Rovers,Manchester United
+20/12/1913,1 - 1,Bradford City,Burnley
+20/12/1913,2 - 0,Derby County,Newcastle United
+20/12/1913,0 - 0,Everton,Chelsea
+20/12/1913,1 - 1,Manchester City,Preston North End
+20/12/1913,5 - 2,Middlesbrough,Aston Villa
+20/12/1913,0 - 1,Sheffield United,Liverpool
+20/12/1913,2 - 0,Sunderland,Oldham Athletic
+20/12/1913,1 - 1,Tottenham Hotspur,Sheffield Wednesday
+20/12/1913,1 - 1,West Bromwich Albion,Bolton Wanderers
+13/12/1913,3 - 3,Aston Villa,Tottenham Hotspur
+13/12/1913,0 - 0,Bolton Wanderers,Everton
+13/12/1913,2 - 0,Burnley,Manchester City
+13/12/1913,1 - 1,Chelsea,Sunderland
+13/12/1913,2 - 1,Liverpool,Middlesbrough
+13/12/1913,1 - 1,Manchester United,Bradford City
+13/12/1913,2 - 1,Newcastle United,Sheffield United
+13/12/1913,1 - 1,Oldham Athletic,Blackburn Rovers
+13/12/1913,2 - 0,Preston North End,Derby County
+13/12/1913,1 - 4,Sheffield Wednesday,West Bromwich Albion
+06/12/1913,2 - 1,Aston Villa,Liverpool
+06/12/1913,3 - 1,Blackburn Rovers,Chelsea
+06/12/1913,0 - 1,Bradford City,Oldham Athletic
+06/12/1913,3 - 1,Derby County,Burnley
+06/12/1913,1 - 1,Everton,Sheffield Wednesday
+06/12/1913,0 - 2,Manchester City,Manchester United
+06/12/1913,3 - 0,Middlesbrough,Newcastle United
+06/12/1913,2 - 0,Sheffield United,Preston North End
+06/12/1913,3 - 2,Sunderland,Bolton Wanderers
+06/12/1913,3 - 0,Tottenham Hotspur,West Bromwich Albion
+29/11/1913,1 - 0,Bolton Wanderers,Blackburn Rovers
+29/11/1913,0 - 0,Burnley,Sheffield United
+29/11/1913,2 - 1,Chelsea,Bradford City
+29/11/1913,2 - 1,Liverpool,Tottenham Hotspur
+29/11/1913,3 - 3,Manchester United,Derby County
+29/11/1913,2 - 2,Newcastle United,Aston Villa
+29/11/1913,1 - 3,Oldham Athletic,Manchester City
+29/11/1913,4 - 1,Preston North End,Middlesbrough
+29/11/1913,2 - 1,Sheffield Wednesday,Sunderland
+29/11/1913,1 - 1,West Bromwich Albion,Everton
+22/11/1913,3 - 0,Aston Villa,Preston North End
+22/11/1913,3 - 2,Blackburn Rovers,Sheffield Wednesday
+22/11/1913,5 - 1,Bradford City,Bolton Wanderers
+22/11/1913,1 - 2,Derby County,Oldham Athletic
+22/11/1913,0 - 0,Liverpool,Newcastle United
+22/11/1913,2 - 1,Manchester City,Chelsea
+22/11/1913,2 - 1,Middlesbrough,Burnley
+22/11/1913,2 - 0,Sheffield United,Manchester United
+22/11/1913,0 - 0,Sunderland,West Bromwich Albion
+22/11/1913,4 - 1,Tottenham Hotspur,Everton
+15/11/1913,3 - 0,Bolton Wanderers,Manchester City
+15/11/1913,4 - 0,Burnley,Aston Villa
+15/11/1913,2 - 1,Chelsea,Derby County
+15/11/1913,1 - 5,Everton,Sunderland
+15/11/1913,0 - 1,Manchester United,Middlesbrough
+15/11/1913,2 - 0,Newcastle United,Tottenham Hotspur
+15/11/1913,1 - 2,Oldham Athletic,Sheffield United
+15/11/1913,0 - 1,Preston North End,Liverpool
+15/11/1913,1 - 3,Sheffield Wednesday,Bradford City
+15/11/1913,2 - 0,West Bromwich Albion,Blackburn Rovers
+08/11/1913,3 - 1,Aston Villa,Manchester United
+08/11/1913,6 - 0,Blackburn Rovers,Everton
+08/11/1913,1 - 0,Bradford City,West Bromwich Albion
+08/11/1913,3 - 3,Derby County,Bolton Wanderers
+08/11/1913,1 - 1,Liverpool,Burnley
+08/11/1913,1 - 2,Manchester City,Sheffield Wednesday
+08/11/1913,0 - 0,Middlesbrough,Oldham Athletic
+08/11/1913,2 - 0,Newcastle United,Preston North End
+08/11/1913,3 - 2,Sheffield United,Chelsea
+08/11/1913,1 - 4,Tottenham Hotspur,Sunderland
+01/11/1913,3 - 1,Bolton Wanderers,Sheffield United
+01/11/1913,1 - 0,Burnley,Newcastle United
+01/11/1913,3 - 2,Chelsea,Middlesbrough
+01/11/1913,1 - 1,Everton,Bradford City
+01/11/1913,3 - 0,Manchester United,Liverpool
+01/11/1913,0 - 1,Oldham Athletic,Aston Villa
+01/11/1913,1 - 2,Preston North End,Tottenham Hotspur
+01/11/1913,1 - 3,Sheffield Wednesday,Derby County
+01/11/1913,2 - 1,Sunderland,Blackburn Rovers
+01/11/1913,0 - 0,West Bromwich Albion,Manchester City
+25/10/1913,1 - 2,Aston Villa,Chelsea
+25/10/1913,0 - 2,Bradford City,Sunderland
+25/10/1913,1 - 2,Derby County,West Bromwich Albion
+25/10/1913,0 - 3,Liverpool,Oldham Athletic
+25/10/1913,1 - 1,Manchester City,Everton
+25/10/1913,2 - 3,Middlesbrough,Bolton Wanderers
+25/10/1913,0 - 1,Newcastle United,Manchester United
+25/10/1913,2 - 1,Preston North End,Burnley
+25/10/1913,0 - 1,Sheffield United,Sheffield Wednesday
+25/10/1913,3 - 3,Tottenham Hotspur,Blackburn Rovers
+18/10/1913,0 - 0,Blackburn Rovers,Bradford City
+18/10/1913,3 - 0,Bolton Wanderers,Aston Villa
+18/10/1913,3 - 1,Burnley,Tottenham Hotspur
+18/10/1913,3 - 0,Chelsea,Liverpool
+18/10/1913,5 - 0,Everton,Derby County
+18/10/1913,3 - 0,Manchester United,Preston North End
+18/10/1913,3 - 0,Oldham Athletic,Newcastle United
+18/10/1913,2 - 0,Sheffield Wednesday,Middlesbrough
+18/10/1913,0 - 0,Sunderland,Manchester City
+18/10/1913,2 - 1,West Bromwich Albion,Sheffield United
+11/10/1913,2 - 0,Aston Villa,Sheffield Wednesday
+11/10/1913,1 - 2,Burnley,Manchester United
+11/10/1913,1 - 1,Derby County,Sunderland
+11/10/1913,2 - 1,Liverpool,Bolton Wanderers
+11/10/1913,1 - 2,Manchester City,Blackburn Rovers
+11/10/1913,3 - 0,Middlesbrough,West Bromwich Albion
+11/10/1913,1 - 0,Newcastle United,Chelsea
+11/10/1913,0 - 1,Preston North End,Oldham Athletic
+11/10/1913,4 - 1,Sheffield United,Everton
+11/10/1913,0 - 0,Tottenham Hotspur,Bradford City
+04/10/1913,3 - 1,Blackburn Rovers,Derby County
+04/10/1913,3 - 1,Bolton Wanderers,Newcastle United
+04/10/1913,3 - 2,Bradford City,Manchester City
+04/10/1913,2 - 0,Chelsea,Preston North End
+04/10/1913,2 - 0,Everton,Middlesbrough
+04/10/1913,3 - 1,Manchester United,Tottenham Hotspur
+04/10/1913,1 - 1,Oldham Athletic,Burnley
+04/10/1913,4 - 1,Sheffield Wednesday,Liverpool
+04/10/1913,1 - 2,Sunderland,Sheffield United
+04/10/1913,1 - 0,West Bromwich Albion,Aston Villa
+27/09/1913,3 - 1,Aston Villa,Everton
+27/09/1913,6 - 1,Burnley,Chelsea
+27/09/1913,3 - 1,Derby County,Bradford City
+27/09/1913,0 - 0,Liverpool,West Bromwich Albion
+27/09/1913,4 - 1,Manchester United,Oldham Athletic
+27/09/1913,3 - 4,Middlesbrough,Sunderland
+27/09/1913,3 - 1,Newcastle United,Sheffield Wednesday
+27/09/1913,1 - 1,Preston North End,Bolton Wanderers
+27/09/1913,1 - 1,Sheffield United,Blackburn Rovers
+27/09/1913,3 - 1,Tottenham Hotspur,Manchester City
+22/09/1913,1 - 2,Sheffield Wednesday,Oldham Athletic
+20/09/1913,6 - 0,Blackburn Rovers,Middlesbrough
+20/09/1913,0 - 0,Bolton Wanderers,Burnley
+20/09/1913,2 - 1,Bradford City,Sheffield United
+20/09/1913,0 - 2,Chelsea,Manchester United
+20/09/1913,1 - 2,Everton,Liverpool
+20/09/1913,1 - 2,Manchester City,Derby County
+20/09/1913,3 - 0,Oldham Athletic,Tottenham Hotspur
+20/09/1913,2 - 1,Sheffield Wednesday,Preston North End
+20/09/1913,2 - 0,Sunderland,Aston Villa
+20/09/1913,1 - 1,West Bromwich Albion,Newcastle United
+17/09/1913,0 - 0,Bradford City,Preston North End
+13/09/1913,1 - 3,Aston Villa,Blackburn Rovers
+13/09/1913,3 - 0,Burnley,Sheffield Wednesday
+13/09/1913,1 - 3,Liverpool,Sunderland
+13/09/1913,0 - 1,Manchester United,Bolton Wanderers
+13/09/1913,1 - 1,Middlesbrough,Bradford City
+13/09/1913,0 - 1,Newcastle United,Everton
+13/09/1913,3 - 2,Oldham Athletic,Chelsea
+13/09/1913,0 - 2,Preston North End,West Bromwich Albion
+13/09/1913,1 - 3,Sheffield United,Manchester City
+13/09/1913,1 - 1,Tottenham Hotspur,Derby County
+10/09/1913,2 - 2,Derby County,Middlesbrough
+08/09/1913,1 - 2,Burnley,Blackburn Rovers
+08/09/1913,1 - 1,Chelsea,West Bromwich Albion
+08/09/1913,3 - 1,Manchester United,Sunderland
+08/09/1913,2 - 1,Tottenham Hotspur,Sheffield United
+06/09/1913,6 - 2,Blackburn Rovers,Liverpool
+06/09/1913,6 - 2,Bolton Wanderers,Oldham Athletic
+06/09/1913,0 - 0,Bradford City,Aston Villa
+06/09/1913,1 - 3,Chelsea,Tottenham Hotspur
+06/09/1913,3 - 5,Derby County,Sheffield United
+06/09/1913,2 - 0,Everton,Preston North End
+06/09/1913,1 - 1,Manchester City,Middlesbrough
+06/09/1913,1 - 3,Sheffield Wednesday,Manchester United
+06/09/1913,1 - 2,Sunderland,Newcastle United
+06/09/1913,4 - 1,West Bromwich Albion,Burnley
+01/09/1913,1 - 1,Aston Villa,Manchester City
+01/09/1913,3 - 0,Blackburn Rovers,Newcastle United
+01/09/1913,0 - 1,Bolton Wanderers,Sheffield Wednesday
+01/09/1913,1 - 1,Derby County,Liverpool
+01/09/1913,1 - 1,Everton,Burnley
+01/09/1913,2 - 2,Preston North End,Sunderland
+01/09/1913,1 - 4,Sheffield United,Tottenham Hotspur

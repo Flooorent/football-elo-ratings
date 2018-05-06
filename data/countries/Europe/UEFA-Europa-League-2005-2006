@@ -1,0 +1,334 @@
+date,score,home_team,away_team
+10/05/2006,0 - 4,Middlesbrough,Sevilla
+27/04/2006,4 - 2,Middlesbrough,FCSB
+27/04/2006,0 - 0, [ET] Sevilla,Schalke 04
+20/04/2006,1 - 0,FCSB,Middlesbrough
+20/04/2006,0 - 0,Schalke 04,Sevilla
+06/04/2006,0 - 0,FCSB,Rapid Bucureşti
+06/04/2006,4 - 1,Middlesbrough,Basel
+06/04/2006,1 - 1,Schalke 04,Levski Sofia
+06/04/2006,1 - 1,Zenit,Sevilla
+30/03/2006,2 - 0,Basel,Middlesbrough
+30/03/2006,1 - 3,Levski Sofia,Schalke 04
+30/03/2006,1 - 1,Rapid Bucureşti,FCSB
+30/03/2006,4 - 1,Sevilla,Zenit
+16/03/2006,2 - 1,Levski Sofia,Udinese
+16/03/2006,0 - 3,Real Betis,FCSB
+16/03/2006,3 - 0,Schalke 04,Palermo
+16/03/2006,2 - 2,Strasbourg,Basel
+16/03/2006,1 - 1,Zenit,Olympique Marseille
+15/03/2006,3 - 1,Hamburger SV,Rapid Bucureşti
+15/03/2006,2 - 1,Roma,Middlesbrough
+15/03/2006,2 - 0,Sevilla,Lille
+09/03/2006,2 - 0,Basel,Strasbourg
+09/03/2006,0 - 0,FCSB,Real Betis
+09/03/2006,1 - 0,Lille,Sevilla
+09/03/2006,1 - 0,Middlesbrough,Roma
+09/03/2006,0 - 1,Olympique Marseille,Zenit
+09/03/2006,1 - 0,Palermo,Schalke 04
+09/03/2006,2 - 0,Rapid Bucureşti,Hamburger SV
+09/03/2006,0 - 0,Udinese,Levski Sofia
+23/02/2006,2 - 0, [ET] AZ,Real Betis
+23/02/2006,0 - 3,Espanyol,Schalke 04
+23/02/2006,0 - 1,FCSB,Heerenveen
+23/02/2006,2 - 0,Hamburger SV,Thun
+23/02/2006,1 - 0,Lens,Udinese
+23/02/2006,2 - 0,Levski Sofia,Petržalka
+23/02/2006,0 - 1,Middlesbrough,Stuttgart
+23/02/2006,1 - 1,Monaco,Basel
+23/02/2006,2 - 1,Olympique Marseille,Bolton Wanderers
+23/02/2006,1 - 0,Palermo,Slavia Praha
+23/02/2006,2 - 0,Rapid Bucureşti,Hertha BSC
+23/02/2006,2 - 1,Roma,Club Brugge
+23/02/2006,2 - 0,Sevilla,Lokomotiv Moskva
+23/02/2006,0 - 0,Shakhtar Donetsk,Lille
+23/02/2006,0 - 0,Strasbourg,Lovech
+23/02/2006,2 - 1,Zenit,Rosenborg
+16/02/2006,2 - 1,Slavia Praha,Palermo
+16/02/2006,1 - 2,Stuttgart,Middlesbrough
+16/02/2006,1 - 0,Thun,Hamburger SV
+15/02/2006,1 - 0,Basel,Monaco
+15/02/2006,0 - 0,Bolton Wanderers,Olympique Marseille
+15/02/2006,1 - 2,Club Brugge,Roma
+15/02/2006,1 - 3,Heerenveen,FCSB
+15/02/2006,0 - 1,Hertha BSC,Rapid Bucureşti
+15/02/2006,3 - 2,Lille,Shakhtar Donetsk
+15/02/2006,0 - 1,Lokomotiv Moskva,Sevilla
+15/02/2006,0 - 2,Lovech,Strasbourg
+15/02/2006,0 - 1,Petržalka,Levski Sofia
+15/02/2006,2 - 0,Real Betis,AZ
+15/02/2006,0 - 2,Rosenborg,Zenit
+15/02/2006,2 - 1,Schalke 04,Espanyol
+15/02/2006,3 - 0,Udinese,Lens
+15/12/2005,2 - 0,Hamburger SV,Slavia Praha
+15/12/2005,2 - 1,Monaco,CSKA Sofia
+30/11/2005,2 - 0,CSKA Sofia,Viking
+30/11/2005,0 - 2,Slavia Praha,Monaco
+24/11/2005,2 - 0,Monaco,Hamburger SV
+24/11/2005,2 - 2,Viking,Slavia Praha
+03/11/2005,2 - 0,Hamburger SV,Viking
+03/11/2005,4 - 2,Slavia Praha,CSKA Sofia
+20/10/2005,0 - 1,CSKA Sofia,Hamburger SV
+20/10/2005,1 - 0,Viking,Monaco
+15/12/2005,1 - 0,Espanyol,Maccabi Petah Tikva
+15/12/2005,3 - 0,Palermo,Brøndby
+30/11/2005,1 - 1,Brøndby,Espanyol
+30/11/2005,0 - 4,Maccabi Petah Tikva,Lokomotiv Moskva
+24/11/2005,1 - 1,Espanyol,Palermo
+23/11/2005,4 - 2,Lokomotiv Moskva,Brøndby
+03/11/2005,2 - 0,Brøndby,Maccabi Petah Tikva
+03/11/2005,0 - 0,Palermo,Lokomotiv Moskva
+20/10/2005,1 - 2,Maccabi Petah Tikva,Palermo
+19/10/2005,0 - 1,Lokomotiv Moskva,Espanyol
+15/12/2005,0 - 0,Hertha BSC,FCSB
+15/12/2005,2 - 1,Lens,Sampdoria
+30/11/2005,3 - 0,FCSB,Halmstad
+30/11/2005,0 - 0,Sampdoria,Hertha BSC
+24/11/2005,1 - 3,Halmstad,Sampdoria
+24/11/2005,0 - 0,Hertha BSC,Lens
+03/11/2005,5 - 0,Lens,Halmstad
+03/11/2005,0 - 0,Sampdoria,FCSB
+20/10/2005,4 - 0,FCSB,Lens
+20/10/2005,0 - 1,Halmstad,Hertha BSC
+15/12/2005,1 - 0,AZ,Grasshopper
+15/12/2005,2 - 0,Middlesbrough,Lovech
+30/11/2005,2 - 3,Grasshopper,Dnipro Dnipropetrovsk
+30/11/2005,0 - 2,Lovech,AZ
+24/11/2005,0 - 0,AZ,Middlesbrough
+24/11/2005,0 - 2,Dnipro Dnipropetrovsk,Lovech
+03/11/2005,2 - 1,Lovech,Grasshopper
+03/11/2005,3 - 0,Middlesbrough,Dnipro Dnipropetrovsk
+20/10/2005,1 - 2,Dnipro Dnipropetrovsk,AZ
+20/10/2005,0 - 1,Grasshopper,Middlesbrough
+14/12/2005,3 - 1,Roma,Basel
+14/12/2005,2 - 2,Strasbourg,Crvena Zvezda
+01/12/2005,4 - 3,Basel,Tromsø
+01/12/2005,3 - 1,Crvena Zvezda,Roma
+24/11/2005,1 - 1,Roma,Strasbourg
+24/11/2005,3 - 1,Tromsø,Crvena Zvezda
+03/11/2005,1 - 2,Crvena Zvezda,Basel
+03/11/2005,2 - 0,Strasbourg,Tromsø
+20/10/2005,0 - 2,Basel,Strasbourg
+20/10/2005,1 - 2,Tromsø,Roma
+14/12/2005,2 - 1,Heerenveen,Levski Sofia
+14/12/2005,2 - 1,Olympique Marseille,Dinamo Bucureşti
+01/12/2005,1 - 0,Dinamo Bucureşti,CSKA Moskva
+01/12/2005,1 - 0,Levski Sofia,Olympique Marseille
+24/11/2005,2 - 1,CSKA Moskva,Levski Sofia
+24/11/2005,1 - 0,Olympique Marseille,Heerenveen
+03/11/2005,0 - 0,Heerenveen,CSKA Moskva
+03/11/2005,1 - 0,Levski Sofia,Dinamo Bucureşti
+20/10/2005,1 - 2,CSKA Moskva,Olympique Marseille
+20/10/2005,0 - 0,Dinamo Bucureşti,Heerenveen
+14/12/2005,5 - 1,PAOK,Rennes
+14/12/2005,2 - 1,Stuttgart,Rapid Bucureşti
+01/12/2005,1 - 0,Rapid Bucureşti,PAOK
+01/12/2005,0 - 1,Rennes,Shakhtar Donetsk
+24/11/2005,1 - 2,PAOK,Stuttgart
+24/11/2005,0 - 1,Shakhtar Donetsk,Rapid Bucureşti
+03/11/2005,2 - 0,Rapid Bucureşti,Rennes
+03/11/2005,0 - 2,Stuttgart,Shakhtar Donetsk
+20/10/2005,0 - 2,Rennes,Stuttgart
+20/10/2005,1 - 0,Shakhtar Donetsk,PAOK
+14/12/2005,1 - 1,Bolton Wanderers,Sevilla
+14/12/2005,1 - 3,Vitória Guimarães,Beşiktaş
+01/12/2005,1 - 1,Beşiktaş,Zenit
+01/12/2005,3 - 1,Sevilla,Vitória Guimarães
+24/11/2005,1 - 1,Vitória Guimarães,Bolton Wanderers
+24/11/2005,2 - 1,Zenit,Sevilla
+03/11/2005,1 - 0,Bolton Wanderers,Zenit
+03/11/2005,3 - 0,Sevilla,Beşiktaş
+20/10/2005,1 - 1,Beşiktaş,Bolton Wanderers
+20/10/2005,2 - 1,Zenit,Vitória Guimarães
+29/09/2005,0 - 1,AEK Athens,Zenit
+29/09/2005,0 - 4,Anorthosis,Palermo
+29/09/2005,0 - 0,Aris,Roma
+29/09/2005,2 - 1,Austria Wien,Viking
+29/09/2005,3 - 1,AZ,Krylya Sovetov
+29/09/2005,1 - 2,Cork City,Slavia Praha
+29/09/2005,1 - 0,CSKA Sofia,Bayer Leverkusen
+29/09/2005,0 - 2,Debrecen,Shakhtar Donetsk
+29/09/2005,5 - 1,Dnipro Dnipropetrovsk,Hibernian
+29/09/2005,1 - 0,Domžale,Stuttgart
+29/09/2005,2 - 4,Dyskobolia Grodzisk SSA,Lens
+29/09/2005,2 - 0,Espanyol,Teplice
+29/09/2005,1 - 0,Everton,Dinamo Bucureşti
+29/09/2005,3 - 1,FCSB,Vålerenga
+29/09/2005,1 - 1,Galatasaray,Tromsø
+29/09/2005,0 - 1,Genk,Lovech
+29/09/2005,5 - 0,Heerenveen,Baník Ostrava
+29/09/2005,3 - 1,Hertha BSC,APOEL
+29/09/2005,0 - 1,København,Hamburger SV
+29/09/2005,1 - 0,Levski Sofia,Auxerre
+29/09/2005,3 - 2,Lokomotiv Moskva,Brann
+29/09/2005,1 - 2,Lokomotiv Plovdiv,Bolton Wanderers
+29/09/2005,0 - 2,Mainz 05,Sevilla
+29/09/2005,1 - 4,Malmö FF,Beşiktaş
+29/09/2005,2 - 2,Metalurh Donetsk,PAOK
+29/09/2005,1 - 3,Midtjylland,CSKA Moskva
+29/09/2005,0 - 3,MYPA,Grasshopper
+29/09/2005,0 - 0, [PS] Olympique Marseille,Beerschot
+29/09/2005,0 - 0,Osasuna,Rennes
+29/09/2005,2 - 5,Partizan,Maccabi Petah Tikva
+29/09/2005,1 - 0,Rapid Bucureşti,Feyenoord
+29/09/2005,1 - 0,Sampdoria,Vitória Setúbal
+29/09/2005,0 - 1,Široki Brijeg,Basel
+29/09/2005,1 - 1,Sporting Braga,Crvena Zvezda
+29/09/2005,1 - 2,Sporting CP,Halmstad [ET] 
+29/09/2005,5 - 0,Strasbourg,Grazer AK
+29/09/2005,1 - 3,Willem II,Monaco
+29/09/2005,0 - 1,Wisła Kraków,Vitória Guimarães
+29/09/2005,0 - 0,Xanthi,Middlesbrough
+29/09/2005,2 - 1,Zürich,Brøndby
+15/09/2005,0 - 1,APOEL,Hertha BSC
+15/09/2005,2 - 1,Auxerre,Levski Sofia
+15/09/2005,2 - 0,Baník Ostrava,Heerenveen
+15/09/2005,5 - 0,Basel,Široki Brijeg
+15/09/2005,0 - 1,Bayer Leverkusen,CSKA Sofia
+15/09/2005,0 - 0,Beerschot,Olympique Marseille
+15/09/2005,0 - 1,Beşiktaş,Malmö FF
+15/09/2005,2 - 1,Bolton Wanderers,Lokomotiv Plovdiv
+15/09/2005,1 - 2,Brann,Lokomotiv Moskva
+15/09/2005,2 - 0,Brøndby,Zürich
+15/09/2005,0 - 0,Crvena Zvezda,Sporting Braga
+15/09/2005,3 - 1,CSKA Moskva,Midtjylland
+15/09/2005,5 - 1,Dinamo Bucureşti,Everton
+15/09/2005,1 - 1,Feyenoord,Rapid Bucureşti
+15/09/2005,1 - 1,Grasshopper,MYPA
+15/09/2005,0 - 2,Grazer AK,Strasbourg
+15/09/2005,1 - 2,Halmstad,Sporting CP
+15/09/2005,1 - 1,Hamburger SV,København
+15/09/2005,0 - 0,Hibernian,Dnipro Dnipropetrovsk
+15/09/2005,5 - 3,Krylya Sovetov,AZ
+15/09/2005,1 - 1,Lens,Dyskobolia Grodzisk SSA
+15/09/2005,2 - 2,Lovech,Genk
+15/09/2005,0 - 2,Maccabi Petah Tikva,Partizan
+15/09/2005,2 - 0,Middlesbrough,Xanthi
+15/09/2005,2 - 0,Monaco,Willem II
+15/09/2005,2 - 1,Palermo,Anorthosis
+15/09/2005,1 - 1,PAOK,Metalurh Donetsk
+15/09/2005,3 - 1,Rennes,Osasuna
+15/09/2005,5 - 1,Roma,Aris
+15/09/2005,0 - 0,Sevilla,Mainz 05
+15/09/2005,4 - 1,Shakhtar Donetsk,Debrecen
+15/09/2005,2 - 0,Slavia Praha,Cork City
+15/09/2005,2 - 0,Stuttgart,Domžale
+15/09/2005,1 - 1,Teplice,Espanyol
+15/09/2005,1 - 0,Tromsø,Galatasaray
+15/09/2005,0 - 3,Vålerenga,FCSB
+15/09/2005,1 - 0,Viking,Austria Wien
+15/09/2005,3 - 0,Vitória Guimarães,Wisła Kraków
+15/09/2005,1 - 1,Vitória Setúbal,Sampdoria
+15/09/2005,0 - 0,Zenit,AEK Athens
+25/08/2005,2 - 2,Austria Wien,Žilina
+25/08/2005,2 - 2,B36,Midtjylland
+25/08/2005,0 - 2,BATE,Krylya Sovetov
+25/08/2005,5 - 1,Beşiktaş,Vaduz
+25/08/2005,0 - 2,Carmarthen Town,København
+25/08/2005,0 - 0,Cork City,Djurgården
+25/08/2005,4 - 0,Crvena Zvezda,Inter Zaprešić
+25/08/2005,4 - 0,Dnipro Dnipropetrovsk,Banants
+25/08/2005,1 - 1,Domžale,Ashdod
+25/08/2005,0 - 0,Dukla,Dyskobolia Grodzisk SSA
+25/08/2005,2 - 2,Dundee United,MYPA
+25/08/2005,3 - 0,Genk,Liepājas Metalurgs
+25/08/2005,1 - 0,Grazer AK,Nistru
+25/08/2005,0 - 2,Keflavík,Mainz 05
+25/08/2005,3 - 0,Levski Sofia,Celje
+25/08/2005,2 - 4,Linfield,Halmstad
+25/08/2005,1 - 0,Lokomotiv Plovdiv,OFK Beograd
+25/08/2005,6 - 0,Maccabi Petah Tikva,Bashkimi
+25/08/2005,1 - 0,Maccabi Tel Aviv,APOEL
+25/08/2005,2 - 1,Metalurh Donetsk,FC Sopron
+25/08/2005,2 - 1,Omonia Nicosia,Dinamo Bucureşti
+25/08/2005,2 - 1,Rijeka,Lovech
+25/08/2005,4 - 2,Široki Brijeg,Zeta
+25/08/2005,2 - 1,Teplice,Partizan Minsk
+25/08/2005,0 - 1, [PS] Tromsø,Esbjerg
+25/08/2005,0 - 2,Vantaan Allianssi,Brann
+25/08/2005,1 - 1,Vardar,Rapid Bucureşti
+25/08/2005,2 - 1,Viking,Rhyl
+25/08/2005,3 - 2,Wisła Płock,Grasshopper
+25/08/2005,1 - 1,Zenit,Austria Kärnten
+25/08/2005,4 - 1,Zürich,Legia Warszawa
+11/08/2005,1 - 0,APOEL,Maccabi Tel Aviv
+11/08/2005,2 - 2,Ashdod,Domžale
+11/08/2005,2 - 2,Austria Kärnten,Zenit
+11/08/2005,2 - 4,Banants,Dnipro Dnipropetrovsk
+11/08/2005,0 - 5,Bashkimi,Maccabi Petah Tikva
+11/08/2005,0 - 0,Brann,Vantaan Allianssi
+11/08/2005,1 - 0,Celje,Levski Sofia
+11/08/2005,3 - 1,Dinamo Bucureşti,Omonia Nicosia
+11/08/2005,1 - 1,Djurgården,Cork City
+11/08/2005,4 - 1,Dyskobolia Grodzisk SSA,Dukla
+11/08/2005,0 - 1,Esbjerg,Tromsø
+11/08/2005,0 - 3,FC Sopron,Metalurh Donetsk
+11/08/2005,1 - 0,Grasshopper,Wisła Płock
+11/08/2005,1 - 1,Halmstad,Linfield
+11/08/2005,1 - 3,Inter Zaprešić,Crvena Zvezda
+11/08/2005,2 - 0,København,Carmarthen Town
+11/08/2005,2 - 0,Krylya Sovetov,BATE
+11/08/2005,0 - 1,Legia Warszawa,Zürich
+11/08/2005,2 - 3,Liepājas Metalurgs,Genk
+11/08/2005,1 - 0,Lovech,Rijeka
+11/08/2005,2 - 0,Mainz 05,Keflavík
+11/08/2005,2 - 1,Midtjylland,B36
+11/08/2005,0 - 0,MYPA,Dundee United
+11/08/2005,0 - 2,Nistru,Grazer AK
+11/08/2005,2 - 1,OFK Beograd,Lokomotiv Plovdiv
+11/08/2005,1 - 1,Partizan Minsk,Teplice
+11/08/2005,3 - 0,Rapid Bucureşti,Vardar
+11/08/2005,0 - 1,Rhyl,Viking
+11/08/2005,0 - 1,Vaduz,Beşiktaş
+11/08/2005,0 - 1,Zeta,Široki Brijeg
+11/08/2005,1 - 2,Žilina,Austria Wien
+28/07/2005,4 - 0,APOEL,Birkirkara
+28/07/2005,3 - 2,Atlantas,Rhyl
+28/07/2005,2 - 1,B36,ÍBV
+28/07/2005,5 - 0,BATE,Torpedo Kutaisi
+28/07/2005,5 - 1,Carmarthen Town,Longford Town
+28/07/2005,0 - 1,Cork City,Ekranas
+28/07/2005,1 - 0,Dacia,Vaduz
+28/07/2005,3 - 0,Domžale,Domagnano
+28/07/2005,0 - 6,Flora,Esbjerg
+28/07/2005,0 - 3,Hibernians,Omonia Nicosia
+28/07/2005,2 - 0,Keflavík,Etzella Ettelbrück
+28/07/2005,1 - 2,Khazar Lankaran,Nistru
+28/07/2005,3 - 0,Liepājas Metalurgs,NSÍ
+28/07/2005,0 - 2,Lokomotivi Tbilisi,Banants
+28/07/2005,0 - 0,Mika,Mainz 05
+28/07/2005,1 - 0,MYPA,TVMK Tallinn
+28/07/2005,1 - 1,NK Žepce,Bashkimi
+28/07/2005,1 - 2,Partizan Minsk,Ferencváros
+28/07/2005,5 - 0,Rapid Bucureşti,Sant Julià
+28/07/2005,3 - 0,Široki Brijeg,Teuta Durrës
+28/07/2005,1 - 1,UT Pétange,Vantaan Allianssi
+28/07/2005,0 - 0,Vardar,Elbasani
+28/07/2005,2 - 1,Ventspils,Linfield
+28/07/2005,1 - 0,Viking,Portadown
+28/07/2005,3 - 1,Žilina,Bakı
+14/07/2005,1 - 0,Bakı,Žilina
+14/07/2005,2 - 3,Banants,Lokomotivi Tbilisi
+14/07/2005,3 - 0,Bashkimi,NK Žepce
+14/07/2005,0 - 2,Birkirkara,APOEL
+14/07/2005,0 - 5,Domagnano,Domžale
+14/07/2005,0 - 2,Ekranas,Cork City
+14/07/2005,1 - 1,Elbasani,Vardar
+14/07/2005,1 - 2,Esbjerg,Flora
+14/07/2005,0 - 4,Etzella Ettelbrück,Keflavík
+14/07/2005,0 - 2,Ferencváros,Partizan Minsk
+14/07/2005,1 - 1,ÍBV,B36
+14/07/2005,1 - 0,Linfield,Ventspils
+14/07/2005,2 - 0,Longford Town,Carmarthen Town
+14/07/2005,4 - 0,Mainz 05,Mika
+14/07/2005,3 - 1,Nistru,Khazar Lankaran
+14/07/2005,0 - 3,NSÍ,Liepājas Metalurgs
+14/07/2005,3 - 0,Omonia Nicosia,Hibernians
+14/07/2005,1 - 2,Portadown,Viking
+14/07/2005,2 - 1,Rhyl,Atlantas
+14/07/2005,0 - 5,Sant Julià,Rapid Bucureşti
+14/07/2005,3 - 1,Teuta Durrës,Široki Brijeg
+14/07/2005,0 - 1,Torpedo Kutaisi,BATE
+14/07/2005,1 - 1,TVMK Tallinn,MYPA
+14/07/2005,2 - 0,Vaduz,Dacia
+14/07/2005,3 - 0,Vantaan Allianssi,UT Pétange

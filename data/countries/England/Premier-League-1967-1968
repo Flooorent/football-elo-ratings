@@ -1,0 +1,463 @@
+date,score,home_team,away_team
+21/05/1968,5 - 1,Everton,Fulham
+15/05/1968,2 - 1,Stoke City,Liverpool
+11/05/1968,2 - 1,Arsenal,West Bromwich Albion
+11/05/1968,3 - 0,Burnley,Leeds United
+11/05/1968,0 - 0,Leicester City,Stoke City
+11/05/1968,6 - 1,Liverpool,Nottingham Forest
+11/05/1968,1 - 2,Manchester United,Sunderland
+11/05/1968,3 - 4,Newcastle United,Manchester City
+11/05/1968,1 - 2,Sheffield United,Chelsea
+11/05/1968,0 - 0,Southampton,Coventry City
+11/05/1968,1 - 1,West Ham United,Everton
+11/05/1968,2 - 1,Wolverhampton Wanderers,Tottenham Hotspur
+07/05/1968,4 - 3,Arsenal,Leeds United
+04/05/1968,0 - 2,Burnley,Sheffield United
+04/05/1968,3 - 0,Everton,Stoke City
+04/05/1968,2 - 2,Fulham,Southampton
+04/05/1968,1 - 2,Leeds United,Liverpool
+04/05/1968,4 - 2,Leicester City,Nottingham Forest
+04/05/1968,6 - 0,Manchester United,Newcastle United
+04/05/1968,1 - 2,Sheffield Wednesday,Arsenal
+04/05/1968,0 - 0,Sunderland,West Bromwich Albion
+04/05/1968,1 - 3,Tottenham Hotspur,Manchester City
+04/05/1968,0 - 0,West Ham United,Coventry City
+04/05/1968,3 - 0,Wolverhampton Wanderers,Chelsea
+01/05/1968,0 - 2,Fulham,Stoke City
+01/05/1968,3 - 1,West Bromwich Albion,West Ham United
+30/04/1968,3 - 2,Arsenal,Sheffield Wednesday
+29/04/1968,1 - 0,Chelsea,Wolverhampton Wanderers
+29/04/1968,1 - 1,Liverpool,Tottenham Hotspur
+29/04/1968,2 - 0,Manchester City,Everton
+29/04/1968,6 - 3,West Bromwich Albion,Manchester United
+27/04/1968,2 - 0,Arsenal,Burnley
+27/04/1968,1 - 0,Chelsea,Sunderland
+27/04/1968,0 - 1,Coventry City,Leicester City
+27/04/1968,4 - 1,Liverpool,Fulham
+27/04/1968,1 - 3,Newcastle United,Tottenham Hotspur
+27/04/1968,1 - 2,Sheffield United,West Ham United
+27/04/1968,1 - 1,Southampton,Wolverhampton Wanderers
+25/04/1968,1 - 0,Manchester City,Sheffield Wednesday
+24/04/1968,1 - 1,West Ham United,Sunderland
+23/04/1968,2 - 3,Sheffield United,Fulham
+23/04/1968,3 - 2,Stoke City,Leeds United
+22/04/1968,2 - 1,Chelsea,Burnley
+22/04/1968,1 - 0,Nottingham Forest,Everton
+20/04/1968,4 - 0,Burnley,Stoke City
+20/04/1968,2 - 1,Everton,Chelsea
+20/04/1968,2 - 0,Fulham,Newcastle United
+20/04/1968,3 - 1,Leeds United,West Bromwich Albion
+20/04/1968,4 - 1,Leicester City,Southampton
+20/04/1968,1 - 0,Manchester United,Sheffield United
+20/04/1968,0 - 0,Sheffield Wednesday,Nottingham Forest
+20/04/1968,2 - 0,Sunderland,Arsenal
+20/04/1968,4 - 2,Tottenham Hotspur,Coventry City
+20/04/1968,1 - 0,West Ham United,Liverpool
+20/04/1968,0 - 0,Wolverhampton Wanderers,Manchester City
+17/04/1968,1 - 0,Leeds United,Tottenham Hotspur
+16/04/1968,1 - 0,Chelsea,Manchester City
+16/04/1968,0 - 2,Leicester City,Burnley
+16/04/1968,1 - 1,Nottingham Forest,West Ham United
+16/04/1968,0 - 0,Sheffield Wednesday,Everton
+16/04/1968,3 - 3,Stoke City,Coventry City
+15/04/1968,0 - 3,Arsenal,Southampton
+15/04/1968,1 - 1,Burnley,Leicester City
+15/04/1968,2 - 0,Coventry City,Stoke City
+15/04/1968,1 - 0,Everton,Sheffield Wednesday
+15/04/1968,3 - 0,Manchester United,Fulham
+15/04/1968,1 - 1,Sheffield United,Liverpool
+15/04/1968,2 - 0,Sunderland,Wolverhampton Wanderers
+15/04/1968,2 - 0,West Bromwich Albion,Newcastle United
+13/04/1968,2 - 1,Arsenal,Leicester City
+13/04/1968,2 - 0,Chelsea,Tottenham Hotspur
+13/04/1968,0 - 1,Coventry City,Leeds United
+13/04/1968,2 - 1,Liverpool,Sunderland
+13/04/1968,3 - 0,Manchester City,West Ham United
+13/04/1968,1 - 0,Newcastle United,Burnley
+13/04/1968,2 - 2,Nottingham Forest,Fulham
+13/04/1968,0 - 1,Sheffield United,Everton
+13/04/1968,2 - 2,Southampton,Manchester United
+13/04/1968,0 - 2,Stoke City,Wolverhampton Wanderers
+13/04/1968,1 - 1,West Bromwich Albion,Sheffield Wednesday
+12/04/1968,0 - 4,Fulham,Manchester United
+12/04/1968,1 - 2,Liverpool,Sheffield United
+12/04/1968,1 - 0,Manchester City,Chelsea
+12/04/1968,2 - 2,Newcastle United,West Bromwich Albion
+12/04/1968,2 - 1,Tottenham Hotspur,Leeds United
+12/04/1968,3 - 0,West Ham United,Nottingham Forest
+10/04/1968,2 - 0,Southampton,Arsenal
+09/04/1968,2 - 1,Everton,Leicester City
+06/04/1968,0 - 0,Burnley,West Bromwich Albion
+06/04/1968,2 - 0,Everton,Arsenal
+06/04/1968,1 - 1,Fulham,Coventry City
+06/04/1968,3 - 0,Leeds United,Sheffield United
+06/04/1968,1 - 0,Leicester City,Manchester City
+06/04/1968,1 - 2,Manchester United,Liverpool
+06/04/1968,2 - 2,Sheffield Wednesday,Chelsea
+06/04/1968,3 - 1,Sunderland,Stoke City
+06/04/1968,6 - 1,Tottenham Hotspur,Southampton
+06/04/1968,5 - 0,West Ham United,Newcastle United
+06/04/1968,6 - 1,Wolverhampton Wanderers,Nottingham Forest
+03/04/1968,0 - 0,Newcastle United,Leicester City
+02/04/1968,0 - 0,West Bromwich Albion,Sunderland
+30/03/1968,1 - 0,Coventry City,Wolverhampton Wanderers
+30/03/1968,0 - 3,Nottingham Forest,Sunderland
+30/03/1968,2 - 0,Southampton,Sheffield Wednesday
+30/03/1968,2 - 4,Stoke City,Manchester United
+30/03/1968,5 - 0,Tottenham Hotspur,Burnley
+29/03/1968,1 - 1,West Ham United,Arsenal
+27/03/1968,1 - 3,Manchester United,Manchester City
+23/03/1968,2 - 0,Burnley,Southampton
+23/03/1968,1 - 0,Everton,Newcastle United
+23/03/1968,1 - 3,Fulham,Arsenal
+23/03/1968,2 - 0,Leeds United,Manchester City
+23/03/1968,2 - 3,Leicester City,West Bromwich Albion
+23/03/1968,3 - 0,Manchester United,Nottingham Forest
+23/03/1968,1 - 2,Sheffield Wednesday,Liverpool
+23/03/1968,1 - 1,Sunderland,Coventry City
+23/03/1968,3 - 0,Tottenham Hotspur,Stoke City
+23/03/1968,0 - 1,West Ham United,Chelsea
+23/03/1968,1 - 3,Wolverhampton Wanderers,Sheffield United
+20/03/1968,0 - 0,Chelsea,Leeds United
+19/03/1968,2 - 1,Nottingham Forest,Leicester City
+19/03/1968,2 - 3,Wolverhampton Wanderers,Sheffield Wednesday
+16/03/1968,0 - 2,Arsenal,Wolverhampton Wanderers
+16/03/1968,4 - 1,Chelsea,Leicester City
+16/03/1968,2 - 0,Coventry City,Manchester United
+16/03/1968,3 - 2,Liverpool,Burnley
+16/03/1968,5 - 1,Manchester City,Fulham
+16/03/1968,1 - 1,Newcastle United,Leeds United
+16/03/1968,0 - 0,Nottingham Forest,Tottenham Hotspur
+16/03/1968,1 - 2,Sheffield United,Sunderland
+16/03/1968,0 - 0,Southampton,West Ham United
+16/03/1968,0 - 1,Stoke City,Sheffield Wednesday
+16/03/1968,2 - 6,West Bromwich Albion,Everton
+13/03/1968,0 - 1,Fulham,Sheffield United
+13/03/1968,1 - 1,Leeds United,Nottingham Forest
+13/03/1968,3 - 0,West Bromwich Albion,Stoke City
+09/03/1968,3 - 1,Manchester City,Coventry City
+09/03/1968,2 - 1,Wolverhampton Wanderers,Sunderland
+08/03/1968,2 - 1,Southampton,Fulham
+02/03/1968,0 - 1,Burnley,Manchester City
+02/03/1968,3 - 1,Everton,Coventry City
+02/03/1968,3 - 1,Leicester City,Sheffield United
+02/03/1968,1 - 3,Manchester United,Chelsea
+02/03/1968,1 - 1,Sheffield Wednesday,Newcastle United
+02/03/1968,0 - 3,Sunderland,Southampton
+02/03/1968,1 - 1,Wolverhampton Wanderers,Liverpool
+01/03/1968,0 - 0,Tottenham Hotspur,West Bromwich Albion
+28/02/1968,2 - 0,Fulham,Sheffield Wednesday
+26/02/1968,3 - 2,Sheffield United,Tottenham Hotspur
+26/02/1968,3 - 2,Southampton,Everton
+26/02/1968,2 - 0,Stoke City,West Ham United
+24/02/1968,0 - 2,Arsenal,Manchester United
+24/02/1968,3 - 0,Coventry City,Sheffield Wednesday
+24/02/1968,3 - 1,Liverpool,Leicester City
+24/02/1968,1 - 0,Manchester City,Sunderland
+24/02/1968,2 - 0,Newcastle United,Wolverhampton Wanderers
+24/02/1968,1 - 0,Nottingham Forest,Burnley
+24/02/1968,2 - 1,West Bromwich Albion,Fulham
+17/02/1968,2 - 1,Burnley,Manchester United
+12/02/1968,3 - 1,Chelsea,Liverpool
+10/02/1968,0 - 0,Arsenal,Newcastle United
+10/02/1968,2 - 1,Coventry City,Chelsea
+10/02/1968,4 - 3,Fulham,Burnley
+10/02/1968,2 - 1,Leeds United,West Ham United
+10/02/1968,2 - 2,Nottingham Forest,Southampton
+10/02/1968,1 - 1,Sheffield United,West Bromwich Albion
+10/02/1968,0 - 1,Sunderland,Tottenham Hotspur
+03/02/1968,1 - 1,Burnley,Wolverhampton Wanderers
+03/02/1968,1 - 0,Chelsea,Nottingham Forest
+03/02/1968,1 - 0,Everton,Liverpool
+03/02/1968,2 - 2,Leicester City,Leeds United
+03/02/1968,1 - 1,Manchester City,Arsenal
+03/02/1968,1 - 0,Newcastle United,Sheffield United
+03/02/1968,0 - 1,Sheffield Wednesday,Sunderland
+03/02/1968,1 - 2,Southampton,Stoke City
+03/02/1968,1 - 2,Tottenham Hotspur,Manchester United
+03/02/1968,0 - 1,West Bromwich Albion,Coventry City
+03/02/1968,7 - 2,West Ham United,Fulham
+20/01/1968,1 - 4,Coventry City,Newcastle United
+20/01/1968,0 - 1,Fulham,Leicester City
+20/01/1968,2 - 0,Leeds United,Everton
+20/01/1968,2 - 0,Liverpool,Southampton
+20/01/1968,4 - 2,Manchester United,Sheffield Wednesday
+20/01/1968,3 - 2,Nottingham Forest,West Bromwich Albion
+20/01/1968,0 - 3,Sheffield United,Manchester City
+20/01/1968,0 - 1,Stoke City,Chelsea
+20/01/1968,2 - 2,Sunderland,Burnley
+20/01/1968,1 - 0,Tottenham Hotspur,Arsenal
+20/01/1968,1 - 2,Wolverhampton Wanderers,West Ham United
+17/01/1968,1 - 2,Sheffield Wednesday,Tottenham Hotspur
+13/01/1968,1 - 1,Arsenal,Sheffield United
+13/01/1968,5 - 0,Leeds United,Southampton
+13/01/1968,3 - 1,Leicester City,Wolverhampton Wanderers
+13/01/1968,0 - 0,Newcastle United,Nottingham Forest
+06/01/1968,1 - 1,Coventry City,Arsenal
+06/01/1968,0 - 5,Fulham,Leeds United
+06/01/1968,4 - 1,Liverpool,West Bromwich Albion
+06/01/1968,3 - 1,Manchester United,West Ham United
+06/01/1968,0 - 3,Nottingham Forest,Manchester City
+06/01/1968,1 - 1,Sheffield Wednesday,Sheffield United
+06/01/1968,3 - 5,Southampton,Chelsea
+06/01/1968,2 - 1,Stoke City,Newcastle United
+06/01/1968,0 - 2,Sunderland,Leicester City
+06/01/1968,1 - 3,Wolverhampton Wanderers,Everton
+30/12/1967,1 - 1,Arsenal,Chelsea
+30/12/1967,2 - 1,Burnley,Everton
+30/12/1967,1 - 2,Fulham,Tottenham Hotspur
+30/12/1967,3 - 2,Leeds United,Sheffield Wednesday
+30/12/1967,2 - 4,Leicester City,West Ham United
+30/12/1967,1 - 0,Liverpool,Coventry City
+30/12/1967,0 - 2,Manchester City,West Bromwich Albion
+30/12/1967,4 - 1,Sheffield United,Southampton
+30/12/1967,1 - 3,Stoke City,Nottingham Forest
+30/12/1967,3 - 3,Sunderland,Newcastle United
+30/12/1967,2 - 3,Wolverhampton Wanderers,Manchester United
+26/12/1967,2 - 1,Chelsea,Arsenal
+26/12/1967,1 - 1,Coventry City,Liverpool
+26/12/1967,2 - 0,Everton,Burnley
+26/12/1967,4 - 0,Manchester United,Wolverhampton Wanderers
+26/12/1967,2 - 1,Newcastle United,Sunderland
+26/12/1967,3 - 0,Nottingham Forest,Stoke City
+26/12/1967,0 - 1,Sheffield Wednesday,Leeds United
+26/12/1967,3 - 3,Southampton,Sheffield United
+26/12/1967,2 - 2,Tottenham Hotspur,Fulham
+26/12/1967,3 - 2,West Bromwich Albion,Manchester City
+26/12/1967,4 - 2,West Ham United,Leicester City
+23/12/1967,3 - 0,Arsenal,Nottingham Forest
+23/12/1967,2 - 1,Burnley,Sheffield Wednesday
+23/12/1967,3 - 0,Everton,Sunderland
+23/12/1967,2 - 2,Fulham,Chelsea
+23/12/1967,2 - 1,Leeds United,Wolverhampton Wanderers
+23/12/1967,2 - 2,Leicester City,Manchester United
+23/12/1967,4 - 2,Manchester City,Stoke City
+23/12/1967,1 - 1,Newcastle United,Liverpool
+23/12/1967,2 - 0,Sheffield United,Coventry City
+23/12/1967,0 - 0,West Bromwich Albion,Southampton
+23/12/1967,2 - 1,West Ham United,Tottenham Hotspur
+16/12/1967,0 - 3,Chelsea,West Bromwich Albion
+16/12/1967,5 - 1,Coventry City,Burnley
+16/12/1967,1 - 1,Liverpool,Manchester City
+16/12/1967,3 - 1,Manchester United,Everton
+16/12/1967,1 - 0,Nottingham Forest,Sheffield United
+16/12/1967,4 - 1,Sheffield Wednesday,West Ham United
+16/12/1967,0 - 0,Southampton,Newcastle United
+16/12/1967,0 - 1,Stoke City,Arsenal
+16/12/1967,2 - 2,Sunderland,Leeds United
+16/12/1967,0 - 1,Tottenham Hotspur,Leicester City
+16/12/1967,3 - 2,Wolverhampton Wanderers,Fulham
+11/12/1967,2 - 3,West Ham United,West Bromwich Albion
+09/12/1967,2 - 0,Liverpool,Leeds United
+09/12/1967,4 - 1,Manchester City,Tottenham Hotspur
+09/12/1967,2 - 2,Newcastle United,Manchester United
+09/12/1967,1 - 0,Sheffield United,Burnley
+09/12/1967,1 - 0,Stoke City,Everton
+08/12/1967,1 - 1,Coventry City,West Ham United
+02/12/1967,1 - 0,Burnley,Arsenal
+02/12/1967,1 - 0,Everton,Nottingham Forest
+02/12/1967,1 - 1,Fulham,Liverpool
+02/12/1967,2 - 0,Leeds United,Stoke City
+02/12/1967,0 - 0,Leicester City,Coventry City
+02/12/1967,2 - 1,Manchester United,West Bromwich Albion
+02/12/1967,1 - 1,Sheffield Wednesday,Manchester City
+02/12/1967,2 - 3,Sunderland,Chelsea
+02/12/1967,1 - 1,Tottenham Hotspur,Newcastle United
+02/12/1967,3 - 0,West Ham United,Sheffield United
+02/12/1967,2 - 0,Wolverhampton Wanderers,Southampton
+25/11/1967,0 - 0,Arsenal,West Ham United
+25/11/1967,1 - 1,Chelsea,Manchester United
+25/11/1967,0 - 2,Coventry City,Everton
+25/11/1967,2 - 1,Liverpool,Wolverhampton Wanderers
+25/11/1967,4 - 2,Manchester City,Burnley
+25/11/1967,4 - 0,Newcastle United,Sheffield Wednesday
+25/11/1967,0 - 2,Nottingham Forest,Leeds United
+25/11/1967,0 - 0,Sheffield United,Leicester City
+25/11/1967,3 - 2,Southampton,Sunderland
+25/11/1967,0 - 1,Stoke City,Fulham
+25/11/1967,2 - 0,West Bromwich Albion,Tottenham Hotspur
+18/11/1967,2 - 0,Burnley,Newcastle United
+18/11/1967,1 - 0,Everton,Sheffield United
+18/11/1967,2 - 0,Fulham,Nottingham Forest
+18/11/1967,1 - 1,Leeds United,Coventry City
+18/11/1967,2 - 2,Leicester City,Arsenal
+18/11/1967,3 - 2,Manchester United,Southampton
+18/11/1967,2 - 2,Sheffield Wednesday,West Bromwich Albion
+18/11/1967,1 - 1,Sunderland,Liverpool
+18/11/1967,2 - 0,Tottenham Hotspur,Chelsea
+18/11/1967,2 - 3,West Ham United,Manchester City
+18/11/1967,3 - 4,Wolverhampton Wanderers,Stoke City
+11/11/1967,2 - 2,Arsenal,Everton
+11/11/1967,3 - 0,Chelsea,Sheffield Wednesday
+11/11/1967,0 - 3,Coventry City,Fulham
+11/11/1967,1 - 2,Liverpool,Manchester United
+11/11/1967,6 - 0,Manchester City,Leicester City
+11/11/1967,1 - 0,Newcastle United,West Ham United
+11/11/1967,3 - 1,Nottingham Forest,Wolverhampton Wanderers
+11/11/1967,1 - 0,Sheffield United,Leeds United
+11/11/1967,1 - 2,Southampton,Tottenham Hotspur
+11/11/1967,2 - 1,Stoke City,Sunderland
+11/11/1967,8 - 1,West Bromwich Albion,Burnley
+08/11/1967,1 - 0,Leeds United,Manchester United
+04/11/1967,1 - 1,Burnley,Chelsea
+04/11/1967,1 - 1,Everton,Manchester City
+04/11/1967,3 - 1,Leeds United,Arsenal
+04/11/1967,2 - 2,Leicester City,Newcastle United
+04/11/1967,1 - 0,Manchester United,Stoke City
+04/11/1967,2 - 0,Sheffield Wednesday,Southampton
+04/11/1967,1 - 0,Sunderland,Nottingham Forest
+04/11/1967,1 - 1,Tottenham Hotspur,Liverpool
+04/11/1967,2 - 0,Wolverhampton Wanderers,Coventry City
+28/10/1967,5 - 3,Arsenal,Fulham
+28/10/1967,1 - 3,Chelsea,West Ham United
+28/10/1967,2 - 2,Coventry City,Sunderland
+28/10/1967,1 - 0,Liverpool,Sheffield Wednesday
+28/10/1967,1 - 0,Manchester City,Leeds United
+28/10/1967,1 - 0,Newcastle United,Everton
+28/10/1967,3 - 1,Nottingham Forest,Manchester United
+28/10/1967,1 - 1,Sheffield United,Wolverhampton Wanderers
+28/10/1967,2 - 2,Southampton,Burnley
+28/10/1967,2 - 1,Stoke City,Tottenham Hotspur
+28/10/1967,0 - 0,West Bromwich Albion,Leicester City
+25/10/1967,2 - 0,Leeds United,Newcastle United
+25/10/1967,2 - 2,Leicester City,Chelsea
+25/10/1967,4 - 0,Manchester United,Coventry City
+25/10/1967,2 - 1,Sunderland,Sheffield United
+25/10/1967,1 - 1,Tottenham Hotspur,Nottingham Forest
+24/10/1967,1 - 1,Burnley,Liverpool
+24/10/1967,2 - 1,Everton,West Bromwich Albion
+23/10/1967,1 - 1,Sheffield Wednesday,Stoke City
+23/10/1967,0 - 1,West Ham United,Southampton
+23/10/1967,3 - 2,Wolverhampton Wanderers,Arsenal
+21/10/1967,2 - 4,Fulham,Manchester City
+14/10/1967,2 - 1,Arsenal,Sunderland
+14/10/1967,1 - 1,Chelsea,Everton
+14/10/1967,2 - 3,Coventry City,Tottenham Hotspur
+14/10/1967,3 - 1,Liverpool,West Ham United
+14/10/1967,2 - 0,Manchester City,Wolverhampton Wanderers
+14/10/1967,2 - 1,Newcastle United,Fulham
+14/10/1967,0 - 0,Nottingham Forest,Sheffield Wednesday
+14/10/1967,0 - 3,Sheffield United,Manchester United
+14/10/1967,1 - 5,Southampton,Leicester City
+14/10/1967,0 - 2,Stoke City,Burnley
+14/10/1967,2 - 0,West Bromwich Albion,Leeds United
+07/10/1967,1 - 1,Burnley,Nottingham Forest
+07/10/1967,4 - 2,Everton,Southampton
+07/10/1967,1 - 2,Fulham,West Bromwich Albion
+07/10/1967,7 - 0,Leeds United,Chelsea
+07/10/1967,2 - 1,Leicester City,Liverpool
+07/10/1967,1 - 0,Manchester United,Arsenal
+07/10/1967,4 - 0,Sheffield Wednesday,Coventry City
+07/10/1967,1 - 0,Sunderland,Manchester City
+07/10/1967,1 - 1,Tottenham Hotspur,Sheffield United
+07/10/1967,3 - 4,West Ham United,Stoke City
+07/10/1967,2 - 2,Wolverhampton Wanderers,Newcastle United
+30/09/1967,2 - 0,Burnley,Fulham
+30/09/1967,1 - 1,Chelsea,Coventry City
+30/09/1967,0 - 2,Leicester City,Everton
+30/09/1967,2 - 1,Liverpool,Stoke City
+30/09/1967,1 - 2,Manchester City,Manchester United
+30/09/1967,2 - 1,Newcastle United,Arsenal
+30/09/1967,2 - 2,Sheffield Wednesday,Wolverhampton Wanderers
+30/09/1967,2 - 1,Southampton,Nottingham Forest
+30/09/1967,3 - 0,Tottenham Hotspur,Sunderland
+30/09/1967,4 - 1,West Bromwich Albion,Sheffield United
+30/09/1967,0 - 0,West Ham United,Leeds United
+23/09/1967,1 - 0,Arsenal,Manchester City
+23/09/1967,4 - 2,Coventry City,West Bromwich Albion
+23/09/1967,0 - 3,Fulham,West Ham United
+23/09/1967,3 - 2,Leeds United,Leicester City
+23/09/1967,1 - 0,Liverpool,Everton
+23/09/1967,3 - 1,Manchester United,Tottenham Hotspur
+23/09/1967,3 - 0,Nottingham Forest,Chelsea
+23/09/1967,2 - 1,Sheffield United,Newcastle United
+23/09/1967,3 - 2,Stoke City,Southampton
+23/09/1967,0 - 2,Sunderland,Sheffield Wednesday
+23/09/1967,3 - 2,Wolverhampton Wanderers,Burnley
+20/09/1967,2 - 1,Leeds United,Burnley
+16/09/1967,4 - 0,Arsenal,Tottenham Hotspur
+16/09/1967,3 - 0,Burnley,Sunderland
+16/09/1967,2 - 2,Chelsea,Stoke City
+16/09/1967,0 - 1,Everton,Leeds United
+16/09/1967,1 - 2,Leicester City,Fulham
+16/09/1967,5 - 2,Manchester City,Sheffield United
+16/09/1967,3 - 2,Newcastle United,Coventry City
+16/09/1967,1 - 1,Sheffield Wednesday,Manchester United
+16/09/1967,1 - 0,Southampton,Liverpool
+16/09/1967,2 - 1,West Bromwich Albion,Nottingham Forest
+16/09/1967,1 - 2,West Ham United,Wolverhampton Wanderers
+09/09/1967,0 - 3,Coventry City,Manchester City
+09/09/1967,2 - 1,Fulham,Everton
+09/09/1967,3 - 1,Liverpool,Chelsea
+09/09/1967,2 - 2,Manchester United,Burnley
+09/09/1967,4 - 0,Nottingham Forest,Newcastle United
+09/09/1967,2 - 4,Sheffield United,Arsenal
+09/09/1967,1 - 1,Southampton,Leeds United
+09/09/1967,0 - 0,Stoke City,West Bromwich Albion
+09/09/1967,1 - 5,Sunderland,West Ham United
+09/09/1967,2 - 1,Tottenham Hotspur,Sheffield Wednesday
+09/09/1967,1 - 3,Wolverhampton Wanderers,Leicester City
+06/09/1967,4 - 2,Chelsea,Sheffield United
+06/09/1967,2 - 0,Manchester City,Newcastle United
+06/09/1967,4 - 2,Sheffield Wednesday,Fulham
+06/09/1967,3 - 2,Stoke City,Leicester City
+06/09/1967,1 - 1,Sunderland,Manchester United
+06/09/1967,2 - 1,Tottenham Hotspur,Wolverhampton Wanderers
+06/09/1967,1 - 3,West Bromwich Albion,Arsenal
+05/09/1967,2 - 1,Coventry City,Southampton
+05/09/1967,2 - 0,Everton,West Ham United
+05/09/1967,0 - 1,Nottingham Forest,Liverpool
+02/09/1967,1 - 1,Arsenal,Coventry City
+02/09/1967,5 - 1,Burnley,Tottenham Hotspur
+02/09/1967,2 - 6,Chelsea,Southampton
+02/09/1967,4 - 2,Everton,Wolverhampton Wanderers
+02/09/1967,2 - 0,Leeds United,Fulham
+02/09/1967,0 - 2,Leicester City,Sunderland
+02/09/1967,2 - 0,Manchester City,Nottingham Forest
+02/09/1967,1 - 1,Newcastle United,Stoke City
+02/09/1967,0 - 1,Sheffield United,Sheffield Wednesday
+02/09/1967,0 - 2,West Bromwich Albion,Liverpool
+02/09/1967,1 - 3,West Ham United,Manchester United
+30/08/1967,3 - 0,Leicester City,Sheffield Wednesday
+30/08/1967,4 - 2,Manchester City,Southampton
+30/08/1967,5 - 1,Newcastle United,Chelsea
+30/08/1967,4 - 1,West Bromwich Albion,Wolverhampton Wanderers
+29/08/1967,3 - 3,Burnley,West Ham United
+29/08/1967,1 - 3,Coventry City,Nottingham Forest
+29/08/1967,0 - 1,Everton,Tottenham Hotspur
+29/08/1967,1 - 0,Sheffield United,Stoke City
+28/08/1967,2 - 0,Arsenal,Liverpool
+28/08/1967,3 - 2,Fulham,Sunderland
+26/08/1967,1 - 1,Chelsea,Fulham
+26/08/1967,2 - 2,Coventry City,Sheffield United
+26/08/1967,6 - 0,Liverpool,Newcastle United
+26/08/1967,1 - 1,Manchester United,Leicester City
+26/08/1967,2 - 0,Nottingham Forest,Arsenal
+26/08/1967,2 - 1,Sheffield Wednesday,Burnley
+26/08/1967,4 - 0,Southampton,West Bromwich Albion
+26/08/1967,3 - 0,Stoke City,Manchester City
+26/08/1967,1 - 0,Sunderland,Everton
+26/08/1967,5 - 1,Tottenham Hotspur,West Ham United
+26/08/1967,2 - 0,Wolverhampton Wanderers,Leeds United
+23/08/1967,1 - 1,Chelsea,Newcastle United
+23/08/1967,1 - 0,Manchester United,Leeds United
+23/08/1967,2 - 1,Sheffield Wednesday,Leicester City
+23/08/1967,3 - 2,Southampton,Manchester City
+23/08/1967,1 - 1,Stoke City,Sheffield United
+23/08/1967,3 - 0,Sunderland,Fulham
+23/08/1967,1 - 1,Tottenham Hotspur,Everton
+23/08/1967,3 - 3,Wolverhampton Wanderers,West Bromwich Albion
+22/08/1967,2 - 0,Liverpool,Arsenal
+22/08/1967,3 - 3,Nottingham Forest,Coventry City
+21/08/1967,4 - 2,West Ham United,Burnley
+19/08/1967,2 - 0,Arsenal,Stoke City
+19/08/1967,2 - 1,Burnley,Coventry City
+19/08/1967,3 - 1,Everton,Manchester United
+19/08/1967,1 - 2,Fulham,Wolverhampton Wanderers
+19/08/1967,1 - 1,Leeds United,Sunderland
+19/08/1967,2 - 3,Leicester City,Tottenham Hotspur
+19/08/1967,0 - 0,Manchester City,Liverpool
+19/08/1967,3 - 0,Newcastle United,Southampton
+19/08/1967,1 - 3,Sheffield United,Nottingham Forest
+19/08/1967,0 - 1,West Bromwich Albion,Chelsea
+19/08/1967,2 - 3,West Ham United,Sheffield Wednesday

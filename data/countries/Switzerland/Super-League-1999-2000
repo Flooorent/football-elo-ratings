@@ -1,0 +1,245 @@
+date,score,home_team,away_team
+07/06/2000,0 - 3,Basel,Lausanne Sport
+07/06/2000,3 - 1,Neuchâtel Xamax,Luzern
+07/06/2000,1 - 1,St. Gallen,Grasshopper
+07/06/2000,1 - 3,Yverdon Sport,Servette
+03/06/2000,2 - 1,Luzern,Yverdon Sport
+03/06/2000,3 - 3,Servette,Neuchâtel Xamax
+02/06/2000,3 - 0,Grasshopper,Basel
+02/06/2000,1 - 3,Lausanne Sport,St. Gallen
+27/05/2000,0 - 0,Basel,Luzern
+27/05/2000,4 - 4,Yverdon Sport,Grasshopper
+26/05/2000,0 - 0,St. Gallen,Servette
+23/05/2000,1 - 2,Neuchâtel Xamax,Lausanne Sport
+21/05/2000,1 - 1,Servette,Basel
+20/05/2000,1 - 3,Grasshopper,Neuchâtel Xamax
+20/05/2000,2 - 0,Lausanne Sport,Yverdon Sport
+19/05/2000,1 - 2,Luzern,St. Gallen
+14/05/2000,3 - 1,Lausanne Sport,Grasshopper
+13/05/2000,1 - 1,Luzern,Servette
+13/05/2000,7 - 2,Neuchâtel Xamax,Yverdon Sport
+12/05/2000,3 - 1,Basel,St. Gallen
+07/05/2000,0 - 2,Grasshopper,Luzern
+07/05/2000,3 - 0,St. Gallen,Neuchâtel Xamax
+07/05/2000,0 - 1,Yverdon Sport,Basel
+06/05/2000,1 - 3,Servette,Lausanne Sport
+30/04/2000,4 - 1,St. Gallen,Yverdon Sport
+29/04/2000,3 - 1,Lausanne Sport,Luzern
+29/04/2000,1 - 2,Neuchâtel Xamax,Basel
+29/04/2000,1 - 3,Servette,Grasshopper
+22/04/2000,1 - 1,Basel,Neuchâtel Xamax
+22/04/2000,2 - 3,Grasshopper,Servette
+22/04/2000,1 - 0,Luzern,Lausanne Sport
+22/04/2000,0 - 1,Yverdon Sport,St. Gallen
+16/04/2000,0 - 1,Luzern,Grasshopper
+15/04/2000,2 - 0,Basel,Yverdon Sport
+15/04/2000,2 - 1,Lausanne Sport,Servette
+15/04/2000,0 - 3,Neuchâtel Xamax,St. Gallen
+09/04/2000,1 - 1,Grasshopper,Lausanne Sport
+09/04/2000,6 - 0,Servette,Luzern
+09/04/2000,3 - 0,Yverdon Sport,Neuchâtel Xamax
+07/04/2000,1 - 1,St. Gallen,Basel
+02/04/2000,7 - 1,St. Gallen,Luzern
+02/04/2000,1 - 0,Yverdon Sport,Lausanne Sport
+01/04/2000,1 - 0,Basel,Servette
+01/04/2000,1 - 3,Neuchâtel Xamax,Grasshopper
+26/03/2000,4 - 1,Grasshopper,Yverdon Sport
+26/03/2000,3 - 2,Luzern,Basel
+25/03/2000,2 - 1,Lausanne Sport,Neuchâtel Xamax
+25/03/2000,1 - 2,Servette,St. Gallen
+19/03/2000,2 - 2,Basel,Grasshopper
+19/03/2000,2 - 3,Yverdon Sport,Luzern
+18/03/2000,2 - 2,Neuchâtel Xamax,Servette
+17/03/2000,1 - 0,St. Gallen,Lausanne Sport
+12/03/2000,0 - 0,Lausanne Sport,Basel
+12/03/2000,1 - 2,Luzern,Neuchâtel Xamax
+11/03/2000,2 - 0,Servette,Yverdon Sport
+10/03/2000,4 - 4,Grasshopper,St. Gallen
+07/06/2000,1 - 1,Baden,Thun
+07/06/2000,1 - 1,Lugano,Delémont
+07/06/2000,2 - 2,Sion,Bellinzona
+07/06/2000,1 - 0,Zürich,Aarau
+04/06/2000,3 - 1,Aarau,Sion
+04/06/2000,0 - 0,Bellinzona,Zürich
+04/06/2000,3 - 0,Delémont,Baden
+04/06/2000,2 - 3,Thun,Lugano
+27/05/2000,1 - 3,Baden,Aarau
+27/05/2000,1 - 1,Lugano,Bellinzona
+27/05/2000,2 - 1,Sion,Delémont
+23/05/2000,2 - 1,Zürich,Thun
+20/05/2000,2 - 2,Aarau,Lugano
+20/05/2000,3 - 1,Bellinzona,Baden
+20/05/2000,0 - 0,Thun,Sion
+18/05/2000,0 - 2,Delémont,Zürich
+14/05/2000,1 - 0,Lugano,Baden
+14/05/2000,2 - 2,Zürich,Sion
+13/05/2000,1 - 1,Aarau,Bellinzona
+13/05/2000,2 - 3,Delémont,Thun
+07/05/2000,0 - 1,Baden,Zürich
+07/05/2000,5 - 0,Bellinzona,Delémont
+06/05/2000,4 - 0,Sion,Lugano
+06/05/2000,1 - 0,Thun,Aarau
+30/04/2000,1 - 3,Baden,Sion
+30/04/2000,0 - 2,Bellinzona,Thun
+29/04/2000,0 - 1,Delémont,Aarau
+29/04/2000,2 - 1,Zürich,Lugano
+22/04/2000,2 - 1,Lugano,Zürich
+22/04/2000,1 - 1,Thun,Bellinzona
+21/04/2000,4 - 1,Sion,Baden
+20/04/2000,5 - 2,Aarau,Delémont
+16/04/2000,2 - 0,Aarau,Thun
+15/04/2000,0 - 4,Delémont,Bellinzona
+15/04/2000,4 - 2,Lugano,Sion
+15/04/2000,1 - 2,Zürich,Baden
+09/04/2000,2 - 2,Bellinzona,Aarau
+08/04/2000,0 - 3,Baden,Lugano
+08/04/2000,1 - 0,Sion,Zürich
+08/04/2000,1 - 1,Thun,Delémont
+02/04/2000,0 - 0,Baden,Bellinzona
+02/04/2000,3 - 2,Lugano,Aarau
+02/04/2000,3 - 0,Sion,Thun
+01/04/2000,0 - 3,Zürich,Delémont
+26/03/2000,2 - 0,Aarau,Baden
+26/03/2000,0 - 0,Bellinzona,Lugano
+26/03/2000,3 - 2,Delémont,Sion
+26/03/2000,0 - 1,Thun,Zürich
+19/03/2000,0 - 2,Baden,Delémont
+19/03/2000,2 - 1,Lugano,Thun
+19/03/2000,2 - 0,Sion,Aarau
+18/03/2000,4 - 0,Zürich,Bellinzona
+12/03/2000,0 - 0,Aarau,Zürich
+12/03/2000,2 - 0,Bellinzona,Sion
+12/03/2000,0 - 3,Delémont,Lugano
+12/03/2000,4 - 0,Thun,Baden
+12/12/1999,2 - 1,Basel,Aarau
+12/12/1999,2 - 0,Grasshopper,Luzern
+12/12/1999,1 - 2,Lugano,Delémont
+12/12/1999,3 - 0,Neuchâtel Xamax,Zürich
+12/12/1999,2 - 0,St. Gallen,Servette
+12/12/1999,0 - 0,Yverdon Sport,Lausanne Sport
+05/12/1999,0 - 2,Aarau,Lugano
+05/12/1999,0 - 3,Delémont,St. Gallen
+05/12/1999,0 - 2,Lausanne Sport,Neuchâtel Xamax
+05/12/1999,4 - 1,Luzern,Yverdon Sport
+05/12/1999,2 - 1,Servette,Grasshopper
+05/12/1999,0 - 1,Zürich,Basel
+01/12/1999,2 - 1,St. Gallen,Grasshopper
+28/11/1999,1 - 1,Aarau,Zürich
+28/11/1999,4 - 0,Grasshopper,Delémont
+28/11/1999,1 - 1,Lugano,St. Gallen
+28/11/1999,2 - 1,Yverdon Sport,Servette
+27/11/1999,3 - 3,Basel,Lausanne Sport
+27/11/1999,3 - 1,Neuchâtel Xamax,Luzern
+21/11/1999,1 - 3,Delémont,Yverdon Sport
+21/11/1999,3 - 0,Luzern,Basel
+21/11/1999,2 - 1,Zürich,Lugano
+20/11/1999,3 - 1,Lausanne Sport,Aarau
+20/11/1999,2 - 4,Servette,Neuchâtel Xamax
+07/11/1999,1 - 0,Aarau,Luzern
+07/11/1999,0 - 0,Basel,Servette
+07/11/1999,1 - 5,Lugano,Grasshopper
+07/11/1999,2 - 2,Zürich,Lausanne Sport
+06/11/1999,2 - 0,Neuchâtel Xamax,Delémont
+06/11/1999,0 - 1,Yverdon Sport,St. Gallen
+31/10/1999,2 - 2,Delémont,Basel
+31/10/1999,0 - 0,Grasshopper,Yverdon Sport
+31/10/1999,2 - 1,St. Gallen,Neuchâtel Xamax
+30/10/1999,2 - 0,Lausanne Sport,Lugano
+30/10/1999,0 - 1,Luzern,Zürich
+30/10/1999,1 - 1,Servette,Aarau
+24/10/1999,4 - 2,Aarau,Delémont
+24/10/1999,4 - 1,Basel,St. Gallen
+24/10/1999,2 - 2,Lugano,Yverdon Sport
+24/10/1999,0 - 1,Neuchâtel Xamax,Grasshopper
+24/10/1999,2 - 0,Zürich,Servette
+23/10/1999,2 - 1,Lausanne Sport,Luzern
+17/10/1999,2 - 2,Delémont,Zürich
+17/10/1999,1 - 1,Grasshopper,Basel
+17/10/1999,3 - 0,Luzern,Lugano
+17/10/1999,0 - 0,Yverdon Sport,Neuchâtel Xamax
+16/10/1999,0 - 1,Servette,Lausanne Sport
+16/10/1999,4 - 1,St. Gallen,Aarau
+11/10/1999,3 - 0,Lausanne Sport,Delémont
+03/10/1999,2 - 1,Aarau,Grasshopper
+03/10/1999,2 - 4,Luzern,Servette
+03/10/1999,1 - 3,Zürich,St. Gallen
+02/10/1999,1 - 2,Basel,Yverdon Sport
+01/10/1999,2 - 1,Lugano,Neuchâtel Xamax
+26/09/1999,0 - 1,Delémont,Luzern
+26/09/1999,1 - 1,Yverdon Sport,Aarau
+25/09/1999,2 - 1,Grasshopper,Zürich
+25/09/1999,3 - 0,Lugano,Servette
+25/09/1999,2 - 2,St. Gallen,Lausanne Sport
+23/09/1999,1 - 2,Neuchâtel Xamax,Basel
+20/09/1999,3 - 3,Lausanne Sport,Grasshopper
+20/09/1999,1 - 0,Zürich,Yverdon Sport
+19/09/1999,2 - 2,Luzern,St. Gallen
+19/09/1999,1 - 1,Servette,Delémont
+18/09/1999,4 - 1,Aarau,Neuchâtel Xamax
+18/09/1999,1 - 0,Basel,Lugano
+12/09/1999,1 - 0,Delémont,Lugano
+12/09/1999,2 - 0,Luzern,Grasshopper
+11/09/1999,1 - 3,Aarau,Basel
+11/09/1999,2 - 2,Lausanne Sport,Yverdon Sport
+11/09/1999,2 - 1,Servette,St. Gallen
+11/09/1999,2 - 1,Zürich,Neuchâtel Xamax
+29/08/1999,0 - 0,Basel,Zürich
+29/08/1999,4 - 2,Grasshopper,Servette
+28/08/1999,4 - 1,Lugano,Aarau
+28/08/1999,1 - 2,Neuchâtel Xamax,Lausanne Sport
+28/08/1999,2 - 1,St. Gallen,Delémont
+28/08/1999,3 - 0,Yverdon Sport,Luzern
+24/08/1999,1 - 1,St. Gallen,Basel
+22/08/1999,2 - 1,Delémont,Grasshopper
+21/08/1999,1 - 0,Lausanne Sport,Basel
+21/08/1999,1 - 1,Luzern,Neuchâtel Xamax
+21/08/1999,3 - 1,Servette,Yverdon Sport
+21/08/1999,2 - 1,St. Gallen,Lugano
+21/08/1999,0 - 1,Zürich,Aarau
+15/08/1999,2 - 0,Basel,Luzern
+15/08/1999,2 - 2,Grasshopper,St. Gallen
+15/08/1999,1 - 1,Lugano,Zürich
+14/08/1999,1 - 3,Aarau,Lausanne Sport
+14/08/1999,3 - 2,Neuchâtel Xamax,Servette
+14/08/1999,3 - 1,Yverdon Sport,Delémont
+10/08/1999,0 - 1,Yverdon Sport,Basel
+08/08/1999,2 - 1,Grasshopper,Lugano
+07/08/1999,2 - 2,Delémont,Neuchâtel Xamax
+07/08/1999,2 - 0,Lausanne Sport,Zürich
+07/08/1999,2 - 1,Luzern,Aarau
+07/08/1999,1 - 1,Servette,Basel
+07/08/1999,3 - 2,St. Gallen,Yverdon Sport
+01/08/1999,3 - 2,Aarau,Servette
+31/07/1999,3 - 0,Basel,Delémont
+31/07/1999,1 - 1,Lugano,Lausanne Sport
+31/07/1999,2 - 2,Neuchâtel Xamax,St. Gallen
+31/07/1999,2 - 0,Yverdon Sport,Grasshopper
+31/07/1999,1 - 1,Zürich,Luzern
+25/07/1999,2 - 1,Luzern,Lausanne Sport
+24/07/1999,4 - 2,Delémont,Aarau
+24/07/1999,4 - 0,Grasshopper,Neuchâtel Xamax
+24/07/1999,3 - 0,Servette,Zürich
+24/07/1999,1 - 0,Yverdon Sport,Lugano
+21/07/1999,1 - 0,Aarau,St. Gallen
+21/07/1999,1 - 1,Basel,Grasshopper
+21/07/1999,0 - 1,Lausanne Sport,Servette
+21/07/1999,1 - 1,Lugano,Luzern
+21/07/1999,1 - 1,Neuchâtel Xamax,Yverdon Sport
+21/07/1999,3 - 1,Zürich,Delémont
+18/07/1999,3 - 0,St. Gallen,Zürich
+17/07/1999,1 - 1,Delémont,Lausanne Sport
+17/07/1999,4 - 0,Grasshopper,Aarau
+17/07/1999,3 - 1,Neuchâtel Xamax,Lugano
+17/07/1999,1 - 0,Servette,Luzern
+14/07/1999,1 - 1,Basel,Neuchâtel Xamax
+11/07/1999,0 - 0,Zürich,Grasshopper
+10/07/1999,1 - 1,Aarau,Yverdon Sport
+10/07/1999,0 - 1,Lausanne Sport,St. Gallen
+10/07/1999,2 - 0,Luzern,Delémont
+10/07/1999,1 - 3,Servette,Lugano
+07/07/1999,1 - 3,Delémont,Servette
+07/07/1999,1 - 1,Grasshopper,Lausanne Sport
+07/07/1999,1 - 1,Lugano,Basel
+07/07/1999,1 - 1,Neuchâtel Xamax,Aarau
+07/07/1999,2 - 0,St. Gallen,Luzern
+07/07/1999,1 - 1,Yverdon Sport,Zürich

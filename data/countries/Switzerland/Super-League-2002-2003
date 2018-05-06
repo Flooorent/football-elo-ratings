@@ -1,0 +1,231 @@
+date,score,home_team,away_team
+31/05/2003,3 - 0,Basel,Neuchâtel Xamax
+31/05/2003,2 - 2,Wil,Thun
+31/05/2003,2 - 4,Young Boys,Grasshopper
+31/05/2003,5 - 2,Zürich,Servette
+25/05/2003,4 - 2,Grasshopper,Wil
+25/05/2003,2 - 0,Neuchâtel Xamax,Zürich
+25/05/2003,0 - 4,Servette,Basel
+25/05/2003,4 - 2,Thun,Young Boys
+21/05/2003,4 - 0,Basel,Thun
+21/05/2003,1 - 1,Wil,Neuchâtel Xamax
+21/05/2003,2 - 1,Young Boys,Servette
+21/05/2003,1 - 1,Zürich,Grasshopper
+18/05/2003,2 - 0,Neuchâtel Xamax,Young Boys
+18/05/2003,1 - 2,Thun,Zürich
+17/05/2003,1 - 0,Servette,Wil
+16/05/2003,2 - 2,Grasshopper,Basel
+08/05/2003,3 - 1,Basel,Zürich
+08/05/2003,5 - 1,Grasshopper,Thun
+08/05/2003,1 - 3,Neuchâtel Xamax,Servette
+08/05/2003,3 - 4,Young Boys,Wil
+04/05/2003,2 - 1,Thun,Neuchâtel Xamax
+04/05/2003,4 - 5,Wil,Basel
+03/05/2003,0 - 4,Servette,Grasshopper
+03/05/2003,4 - 2,Zürich,Young Boys
+28/04/2003,3 - 1,Thun,Servette
+27/04/2003,2 - 2,Grasshopper,Neuchâtel Xamax
+27/04/2003,2 - 0,Young Boys,Basel
+26/04/2003,1 - 0,Wil,Zürich
+21/04/2003,0 - 1,Neuchâtel Xamax,Grasshopper
+19/04/2003,3 - 0,Basel,Young Boys
+17/04/2003,3 - 1,Servette,Thun
+16/04/2003,2 - 1,Zürich,Wil
+13/04/2003,1 - 1,Grasshopper,Servette
+13/04/2003,2 - 1,Young Boys,Zürich
+12/04/2003,3 - 1,Basel,Wil
+12/04/2003,1 - 0,Neuchâtel Xamax,Thun
+06/04/2003,1 - 2,Thun,Grasshopper
+06/04/2003,1 - 2,Zürich,Basel
+05/04/2003,0 - 0,Servette,Neuchâtel Xamax
+05/04/2003,0 - 1,Wil,Young Boys
+26/03/2003,2 - 1,Servette,Zürich
+23/03/2003,1 - 1,Zürich,Thun
+22/03/2003,2 - 2,Basel,Grasshopper
+22/03/2003,1 - 1,Wil,Servette
+22/03/2003,3 - 1,Young Boys,Neuchâtel Xamax
+16/03/2003,2 - 0,Grasshopper,Zürich
+16/03/2003,1 - 1,Servette,Young Boys
+15/03/2003,3 - 0,Neuchâtel Xamax,Wil
+15/03/2003,1 - 4,Thun,Basel
+09/03/2003,1 - 0,Young Boys,Thun
+09/03/2003,1 - 1,Zürich,Neuchâtel Xamax
+08/03/2003,2 - 0,Basel,Servette
+08/03/2003,1 - 3,Wil,Grasshopper
+02/03/2003,4 - 0,Grasshopper,Young Boys
+02/03/2003,1 - 1,Thun,Wil
+01/03/2003,3 - 1,Neuchâtel Xamax,Basel
+29/05/2003,1 - 5,Luzern,St. Gallen
+29/05/2003,3 - 1,Sion,Aarau
+29/05/2003,4 - 0,Vaduz,Kriens
+24/05/2003,4 - 2,Aarau,Luzern
+24/05/2003,2 - 1,Delémont,Vaduz
+24/05/2003,1 - 0,St. Gallen,Sion
+21/05/2003,5 - 0,Luzern,Delémont
+21/05/2003,3 - 0,Sion,Kriens
+21/05/2003,3 - 6,Vaduz,Aarau
+18/05/2003,2 - 1,Delémont,Sion
+18/05/2003,3 - 3,Kriens,Luzern
+17/05/2003,1 - 0,St. Gallen,Vaduz
+08/05/2003,2 - 0,Aarau,Delémont
+08/05/2003,4 - 0,Luzern,Vaduz
+08/05/2003,6 - 1,St. Gallen,Kriens
+04/05/2003,1 - 4,Delémont,St. Gallen
+04/05/2003,1 - 4,Kriens,Aarau
+04/05/2003,1 - 1,Vaduz,Sion
+27/04/2003,2 - 2,Delémont,Kriens
+26/04/2003,1 - 0,Aarau,St. Gallen
+26/04/2003,1 - 1,Luzern,Sion
+21/04/2003,0 - 1,Kriens,Delémont
+21/04/2003,0 - 0,St. Gallen,Aarau
+19/04/2003,0 - 1,Sion,Luzern
+13/04/2003,2 - 4,Sion,Vaduz
+12/04/2003,1 - 2,Aarau,Kriens
+12/04/2003,2 - 0,St. Gallen,Delémont
+06/04/2003,1 - 2,Delémont,Aarau
+06/04/2003,1 - 0,Kriens,St. Gallen
+06/04/2003,0 - 0,Vaduz,Luzern
+23/03/2003,2 - 1,Luzern,Kriens
+23/03/2003,1 - 0,Sion,Delémont
+23/03/2003,1 - 1,Vaduz,St. Gallen
+19/03/2003,0 - 1,Kriens,Vaduz
+16/03/2003,3 - 3,Delémont,Luzern
+16/03/2003,3 - 0,Kriens,Sion
+15/03/2003,5 - 1,Aarau,Vaduz
+09/03/2003,1 - 1,Sion,St. Gallen
+09/03/2003,1 - 1,Vaduz,Delémont
+08/03/2003,0 - 1,Luzern,Aarau
+02/03/2003,4 - 2,St. Gallen,Luzern
+01/03/2003,3 - 0,Aarau,Sion
+08/12/2002,2 - 0,Aarau,Thun
+08/12/2002,2 - 2,Delémont,Zürich
+08/12/2002,1 - 1,Grasshopper,St. Gallen
+08/12/2002,3 - 2,Neuchâtel Xamax,Luzern
+08/12/2002,4 - 4,Servette,Young Boys
+07/12/2002,1 - 4,Wil,Basel
+01/12/2002,1 - 2,Basel,Grasshopper
+01/12/2002,2 - 0,Luzern,Aarau
+01/12/2002,1 - 1,Servette,Neuchâtel Xamax
+01/12/2002,3 - 0,St. Gallen,Delémont
+01/12/2002,3 - 0,Thun,Wil
+01/12/2002,4 - 2,Zürich,Young Boys
+24/11/2002,0 - 3,Aarau,Servette
+24/11/2002,2 - 1,Wil,Luzern
+24/11/2002,1 - 2,Young Boys,St. Gallen
+23/11/2002,3 - 0,Grasshopper,Delémont
+23/11/2002,2 - 2,Neuchâtel Xamax,Zürich
+22/11/2002,3 - 0,Basel,Thun
+17/11/2002,2 - 4,Delémont,Young Boys
+17/11/2002,1 - 1,Luzern,Basel
+17/11/2002,0 - 2,St. Gallen,Neuchâtel Xamax
+17/11/2002,2 - 2,Thun,Grasshopper
+16/11/2002,1 - 1,Servette,Wil
+16/11/2002,1 - 2,Zürich,Aarau
+03/11/2002,3 - 2,Grasshopper,Luzern
+03/11/2002,1 - 0,Thun,Servette
+03/11/2002,11 - 3,Wil,St. Gallen
+02/11/2002,3 - 0,Aarau,Delémont
+02/11/2002,3 - 1,Neuchâtel Xamax,Young Boys
+01/11/2002,5 - 3,Basel,Zürich
+27/10/2002,2 - 1,Delémont,Neuchâtel Xamax
+27/10/2002,1 - 2,Luzern,Thun
+27/10/2002,1 - 0,St. Gallen,Aarau
+27/10/2002,0 - 2,Young Boys,Grasshopper
+26/10/2002,1 - 3,Zürich,Wil
+25/10/2002,0 - 1,Servette,Basel
+20/10/2002,4 - 0,Grasshopper,Neuchâtel Xamax
+20/10/2002,0 - 0,Thun,Zürich
+20/10/2002,2 - 0,Wil,Delémont
+19/10/2002,1 - 1,Aarau,Young Boys
+19/10/2002,6 - 0,Basel,St. Gallen
+19/10/2002,4 - 3,Luzern,Servette
+06/10/2002,1 - 2,Delémont,Basel
+06/10/2002,4 - 3,Servette,Grasshopper
+06/10/2002,2 - 2,St. Gallen,Thun
+06/10/2002,2 - 1,Zürich,Luzern
+05/10/2002,3 - 1,Neuchâtel Xamax,Aarau
+04/10/2002,4 - 2,Young Boys,Wil
+29/09/2002,1 - 0,Luzern,St. Gallen
+29/09/2002,0 - 1,Thun,Delémont
+29/09/2002,2 - 1,Wil,Neuchâtel Xamax
+28/09/2002,2 - 1,Basel,Young Boys
+28/09/2002,3 - 0,Grasshopper,Aarau
+27/09/2002,2 - 0,Servette,Zürich
+22/09/2002,2 - 2,Delémont,Luzern
+22/09/2002,1 - 1,Grasshopper,Zürich
+22/09/2002,2 - 2,St. Gallen,Servette
+22/09/2002,3 - 0,Young Boys,Thun
+21/09/2002,0 - 0,Aarau,Wil
+21/09/2002,1 - 1,Neuchâtel Xamax,Basel
+15/09/2002,5 - 0,Servette,Delémont
+14/09/2002,4 - 0,Basel,Aarau
+14/09/2002,0 - 0,Luzern,Young Boys
+14/09/2002,1 - 1,Thun,Neuchâtel Xamax
+14/09/2002,1 - 1,Wil,Grasshopper
+14/09/2002,2 - 1,Zürich,St. Gallen
+11/09/2002,7 - 1,Basel,Wil
+11/09/2002,0 - 1,Luzern,Neuchâtel Xamax
+11/09/2002,2 - 3,St. Gallen,Grasshopper
+11/09/2002,4 - 2,Young Boys,Servette
+11/09/2002,1 - 0,Zürich,Delémont
+10/09/2002,2 - 0,Thun,Aarau
+01/09/2002,6 - 2,Delémont,St. Gallen
+01/09/2002,2 - 3,Grasshopper,Basel
+01/09/2002,2 - 1,Neuchâtel Xamax,Servette
+01/09/2002,1 - 5,Wil,Thun
+31/08/2002,1 - 2,Aarau,Luzern
+31/08/2002,2 - 1,Young Boys,Zürich
+25/08/2002,2 - 4,Delémont,Grasshopper
+25/08/2002,2 - 1,St. Gallen,Young Boys
+24/08/2002,1 - 1,Luzern,Wil
+24/08/2002,5 - 0,Servette,Aarau
+24/08/2002,4 - 2,Thun,Basel
+24/08/2002,3 - 2,Zürich,Neuchâtel Xamax
+18/08/2002,3 - 1,Aarau,Zürich
+18/08/2002,2 - 2,Wil,Servette
+17/08/2002,2 - 3,Basel,Luzern
+17/08/2002,4 - 1,Grasshopper,Thun
+17/08/2002,1 - 0,Neuchâtel Xamax,St. Gallen
+17/08/2002,2 - 0,Young Boys,Delémont
+11/08/2002,2 - 1,Delémont,Aarau
+10/08/2002,1 - 0,Luzern,Grasshopper
+10/08/2002,3 - 1,Servette,Thun
+10/08/2002,2 - 2,St. Gallen,Wil
+10/08/2002,1 - 1,Young Boys,Neuchâtel Xamax
+10/08/2002,0 - 4,Zürich,Basel
+07/08/2002,0 - 1,Zürich,Thun
+04/08/2002,3 - 1,Thun,Luzern
+04/08/2002,0 - 1,Wil,Zürich
+03/08/2002,1 - 1,Aarau,St. Gallen
+03/08/2002,4 - 2,Basel,Servette
+03/08/2002,4 - 0,Grasshopper,Young Boys
+03/08/2002,0 - 1,Neuchâtel Xamax,Delémont
+31/07/2002,1 - 3,Luzern,Zürich
+28/07/2002,1 - 2,Delémont,Wil
+27/07/2002,1 - 5,Neuchâtel Xamax,Grasshopper
+27/07/2002,2 - 0,Servette,Luzern
+27/07/2002,1 - 1,St. Gallen,Basel
+27/07/2002,1 - 0,Young Boys,Aarau
+21/07/2002,3 - 2,Wil,Young Boys
+20/07/2002,2 - 0,Aarau,Neuchâtel Xamax
+20/07/2002,1 - 0,Basel,Delémont
+20/07/2002,2 - 0,Grasshopper,Servette
+20/07/2002,0 - 1,Thun,St. Gallen
+17/07/2002,2 - 3,Aarau,Grasshopper
+17/07/2002,0 - 1,Delémont,Thun
+17/07/2002,1 - 1,Neuchâtel Xamax,Wil
+17/07/2002,5 - 0,St. Gallen,Luzern
+17/07/2002,1 - 1,Young Boys,Basel
+16/07/2002,3 - 1,Zürich,Servette
+13/07/2002,1 - 1,Basel,Neuchâtel Xamax
+13/07/2002,3 - 4,Thun,Young Boys
+13/07/2002,4 - 0,Wil,Aarau
+10/07/2002,3 - 0,Luzern,Delémont
+10/07/2002,2 - 0,Servette,St. Gallen
+10/07/2002,1 - 2,Zürich,Grasshopper
+07/07/2002,2 - 0,Delémont,Servette
+06/07/2002,0 - 1,Aarau,Basel
+06/07/2002,4 - 1,Grasshopper,Wil
+06/07/2002,2 - 1,Neuchâtel Xamax,Thun
+06/07/2002,2 - 2,Young Boys,Luzern
+03/07/2002,0 - 3,St. Gallen,Zürich

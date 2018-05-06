@@ -1,0 +1,241 @@
+date,score,home_team,away_team
+06/05/2018,document.write(timestamp_to_time(1525622400));16:00 GMT,Panaitolikos,Asteras Tripolis
+06/05/2018,document.write(timestamp_to_time(1525622400));16:00 GMT,Panathinaikos,Xanthi
+06/05/2018,document.write(timestamp_to_time(1525622400));16:00 GMT,Panionios,Levadiakos
+06/05/2018,document.write(timestamp_to_time(1525622400));16:00 GMT,PAS Giannina,Olympiakos Piraeus
+05/05/2018,document.write(timestamp_to_time(1525536000));16:00 GMT,Apollon Smirnis,AEK Athens
+05/05/2018,document.write(timestamp_to_time(1525536000));16:00 GMT,Atromitos,Kerkyra
+05/05/2018,document.write(timestamp_to_time(1525536000));16:00 GMT,Larissa,Lamia
+05/05/2018,document.write(timestamp_to_time(1525536000));16:00 GMT,PAOK,Platanias
+29/04/2018,2 - 1,Asteras Tripolis,Apollon Smirnis
+29/04/2018,0 - 0,Kerkyra,AEK Athens
+29/04/2018,2 - 1,Lamia,PAS Giannina
+29/04/2018,0 - 1,Levadiakos,Atromitos
+29/04/2018,4 - 0,Olympiakos Piraeus,Panaitolikos
+29/04/2018,0 - 3,Panathinaikos,PAOK
+29/04/2018,1 - 2,Platanias,Panionios
+29/04/2018,1 - 0,Xanthi,Larissa
+22/04/2018,2 - 0,AEK Athens,Levadiakos
+22/04/2018,1 - 0,Apollon Smirnis,Olympiakos Piraeus
+22/04/2018,4 - 1,Atromitos,Platanias
+22/04/2018,1 - 3,Kerkyra,Asteras Tripolis
+22/04/2018,1 - 0,Panaitolikos,Lamia
+22/04/2018,0 - 3,Panionios,Panathinaikos
+22/04/2018,2 - 1,PAOK,Xanthi
+22/04/2018,0 - 0,PAS Giannina,Larissa
+16/04/2018,5 - 1,Olympiakos Piraeus,Kerkyra
+15/04/2018,0 - 1,Platanias,AEK Athens
+15/04/2018,1 - 0,Panathinaikos,Atromitos
+15/04/2018,3 - 0,Xanthi,PAS Giannina
+15/04/2018,4 - 2,Larissa,Panaitolikos
+14/04/2018,3 - 1,PAOK,Panionios
+14/04/2018,1 - 0,Levadiakos,Asteras Tripolis
+14/04/2018,0 - 0,Lamia,Apollon Smirnis
+04/04/2018,0 - 1,PAS Giannina,Apollon Smirnis
+02/04/2018,4 - 0,Asteras Tripolis,Platanias
+01/04/2018,3 - 0,AEK Athens,Panathinaikos
+01/04/2018,3 - 0,Apollon Smirnis,Larissa
+01/04/2018,0 - 0,Kerkyra,Lamia
+01/04/2018,0 - 0,Panionios,Xanthi
+31/03/2018,1 - 1,Levadiakos,Olympiakos Piraeus
+31/03/2018,0 - 2,Atromitos,PAOK
+31/03/2018,1 - 0,Panaitolikos,PAS Giannina
+11/03/2018,0 - 3,PAOK,AEK Athens
+11/03/2018,1 - 1,Lamia,Levadiakos
+11/03/2018,1 - 0,Xanthi,Panaitolikos
+11/03/2018,0 - 4,Platanias,Olympiakos Piraeus
+10/03/2018,1 - 1,Panathinaikos,Asteras Tripolis
+10/03/2018,2 - 2,Panionios,Atromitos
+10/03/2018,0 - 0,Larissa,Kerkyra
+05/03/2018,2 - 1,Apollon Smirnis,Panaitolikos
+04/03/2018,1 - 1,Olympiakos Piraeus,Panathinaikos
+04/03/2018,1 - 0,AEK Athens,Panionios
+04/03/2018,2 - 1,Levadiakos,Larissa
+04/03/2018,3 - 2,Asteras Tripolis,PAOK
+03/03/2018,1 - 0,Atromitos,Xanthi
+03/03/2018,1 - 1,Kerkyra,PAS Giannina
+03/03/2018,1 - 2,Platanias,Lamia
+26/02/2018,1 - 1,Atromitos,AEK Athens
+25/02/2018,0 - 3,PAOK,Olympiakos Piraeus
+25/02/2018,1 - 0,Larissa,Platanias
+25/02/2018,1 - 0,Panaitolikos,Kerkyra
+25/02/2018,2 - 0,Xanthi,Apollon Smirnis
+24/02/2018,2 - 0,Panathinaikos,Lamia
+24/02/2018,0 - 0,Panionios,Asteras Tripolis
+24/02/2018,0 - 0,PAS Giannina,Levadiakos
+19/02/2018,0 - 1,Larissa,Panathinaikos
+18/02/2018,1 - 0,Olympiakos Piraeus,Panionios
+18/02/2018,4 - 0,AEK Athens,Xanthi
+18/02/2018,1 - 2,Levadiakos,Panaitolikos
+18/02/2018,0 - 3,Platanias,PAS Giannina
+17/02/2018,0 - 2,Lamia,PAOK
+17/02/2018,0 - 1,Asteras Tripolis,Atromitos
+17/02/2018,2 - 0,Kerkyra,Apollon Smirnis
+12/02/2018,3 - 0,PAOK,Larissa
+11/02/2018,2 - 2,Atromitos,Olympiakos Piraeus
+11/02/2018,1 - 0,AEK Athens,Asteras Tripolis
+11/02/2018,3 - 0,Panaitolikos,Platanias
+11/02/2018,1 - 1,Apollon Smirnis,Levadiakos
+10/02/2018,2 - 1,PAS Giannina,Panathinaikos
+10/02/2018,1 - 0,Panionios,Lamia
+10/02/2018,1 - 1,Xanthi,Kerkyra
+05/02/2018,1 - 1,Platanias,Apollon Smirnis
+04/02/2018,1 - 2,Olympiakos Piraeus,AEK Athens
+04/02/2018,1 - 1,Lamia,Atromitos
+04/02/2018,2 - 0,Levadiakos,Kerkyra
+04/02/2018,1 - 3,PAS Giannina,PAOK
+03/02/2018,0 - 0,Panathinaikos,Panaitolikos
+03/02/2018,0 - 0,Larissa,Panionios
+03/02/2018,1 - 1,Asteras Tripolis,Xanthi
+28/01/2018,1 - 1,Asteras Tripolis,Olympiakos Piraeus
+28/01/2018,1 - 0,Atromitos,Larissa
+28/01/2018,0 - 1,Panionios,PAS Giannina
+28/01/2018,2 - 1,Xanthi,Levadiakos
+28/01/2018,0 - 1,Panaitolikos,PAOK
+27/01/2018,2 - 0,AEK Athens,Lamia
+27/01/2018,0 - 0,Apollon Smirnis,Panathinaikos
+27/01/2018,2 - 0,Kerkyra,Platanias
+21/01/2018,3 - 0,Olympiakos Piraeus,Xanthi
+21/01/2018,1 - 0,Lamia,Asteras Tripolis
+21/01/2018,1 - 1,Panaitolikos,Panionios
+21/01/2018,2 - 2,PAS Giannina,Atromitos
+21/01/2018,3 - 0,PAOK,Apollon Smirnis
+20/01/2018,0 - 0,Larissa,AEK Athens
+20/01/2018,4 - 0,Panathinaikos,Kerkyra
+20/01/2018,1 - 0,Platanias,Levadiakos
+15/01/2018,2 - 0,Olympiakos Piraeus,Lamia
+14/01/2018,3 - 1,AEK Athens,PAS Giannina
+14/01/2018,3 - 2,Levadiakos,Panathinaikos
+14/01/2018,3 - 1,Asteras Tripolis,Larissa
+14/01/2018,0 - 1,Atromitos,Panaitolikos
+14/01/2018,0 - 3,Kerkyra,PAOK
+13/01/2018,1 - 1,Apollon Smirnis,Panionios
+13/01/2018,3 - 2,Xanthi,Platanias
+08/01/2018,0 - 3,Apollon Smirnis,Atromitos
+07/01/2018,0 - 3,Larissa,Olympiakos Piraeus
+07/01/2018,0 - 1,Lamia,Xanthi
+07/01/2018,0 - 0,PAS Giannina,Asteras Tripolis
+07/01/2018,2 - 0,Panathinaikos,Platanias
+06/01/2018,1 - 4,Panaitolikos,AEK Athens
+06/01/2018,5 - 0,PAOK,Levadiakos
+06/01/2018,3 - 1,Panionios,Kerkyra
+18/12/2017,2 - 1,Levadiakos,Panionios
+17/12/2017,1 - 1,Xanthi,Panathinaikos
+17/12/2017,0 - 0,Asteras Tripolis,Panaitolikos
+17/12/2017,0 - 2,Lamia,Larissa
+17/12/2017,1 - 0,Olympiakos Piraeus,PAS Giannina
+16/12/2017,0 - 1,[N] Platanias,PAOK
+16/12/2017,0 - 0,AEK Athens,Apollon Smirnis
+16/12/2017,1 - 3,Kerkyra,Atromitos
+11/12/2017,3 - 1,AEK Athens,Kerkyra
+10/12/2017,4 - 0,PAOK,Panathinaikos
+10/12/2017,1 - 0,Atromitos,Levadiakos
+10/12/2017,1 - 1,PAS Giannina,Lamia
+10/12/2017,1 - 3,Apollon Smirnis,Asteras Tripolis
+09/12/2017,1 - 4,Panaitolikos,Olympiakos Piraeus
+09/12/2017,2 - 1,Panionios,Platanias
+09/12/2017,1 - 0,Larissa,Xanthi
+04/12/2017,1 - 3,Platanias,Atromitos
+03/12/2017,0 - 2,Levadiakos,AEK Athens
+03/12/2017,2 - 2,Lamia,Panaitolikos
+03/12/2017,1 - 1,Larissa,PAS Giannina
+03/12/2017,0 - 1,Panathinaikos,Panionios
+02/12/2017,3 - 1,Olympiakos Piraeus,Apollon Smirnis
+02/12/2017,0 - 3,Xanthi,PAOK
+02/12/2017,4 - 0,Asteras Tripolis,Kerkyra
+27/11/2017,3 - 0,AEK Athens,Platanias
+26/11/2017,1 - 3,Kerkyra,Olympiakos Piraeus
+26/11/2017,2 - 0,Asteras Tripolis,Levadiakos
+26/11/2017,3 - 1,Panaitolikos,Larissa
+26/11/2017,2 - 2,Panionios,PAOK
+25/11/2017,1 - 1,Atromitos,Panathinaikos
+25/11/2017,1 - 1,Apollon Smirnis,Lamia
+25/11/2017,1 - 1,PAS Giannina,Xanthi
+20/11/2017,2 - 1,PAOK,Atromitos
+19/11/2017,1 - 1,Panathinaikos,AEK Athens
+19/11/2017,1 - 1,PAS Giannina,Panaitolikos
+19/11/2017,0 - 3,Platanias,Asteras Tripolis
+19/11/2017,2 - 0,Xanthi,Panionios
+18/11/2017,2 - 1,Olympiakos Piraeus,Levadiakos
+18/11/2017,1 - 0,Larissa,Apollon Smirnis
+18/11/2017,1 - 1,Lamia,Kerkyra
+06/11/2017,0 - 0,Levadiakos,Lamia
+05/11/2017,1 - 0,AEK Athens,PAOK
+05/11/2017,4 - 3,Apollon Smirnis,PAS Giannina
+05/11/2017,1 - 1,Kerkyra,Larissa
+05/11/2017,5 - 1,Olympiakos Piraeus,Platanias
+04/11/2017,1 - 0,Asteras Tripolis,Panathinaikos
+04/11/2017,0 - 0,Atromitos,Panionios
+04/11/2017,1 - 3,Panaitolikos,Xanthi
+30/10/2017,2 - 0,PAOK,Asteras Tripolis
+29/10/2017,0 - 1,Panionios,AEK Athens
+29/10/2017,2 - 0,Lamia,Platanias
+29/10/2017,1 - 1,Panaitolikos,Apollon Smirnis
+29/10/2017,0 - 2,Xanthi,Atromitos
+28/10/2017,1 - 0,Panathinaikos,Olympiakos Piraeus
+28/10/2017,2 - 1,PAS Giannina,Kerkyra
+28/10/2017,1 - 0,Larissa,Levadiakos
+23/10/2017,0 - 1,AEK Athens,Atromitos
+22/10/2017,1 - 0,Olympiakos Piraeus,PAOK
+22/10/2017,2 - 0,Apollon Smirnis,Xanthi
+22/10/2017,0 - 1,Platanias,Larissa
+22/10/2017,0 - 1,Asteras Tripolis,Panionios
+21/10/2017,1 - 1,Lamia,Panathinaikos
+21/10/2017,1 - 0,Kerkyra,Panaitolikos
+21/10/2017,1 - 1,Levadiakos,PAS Giannina
+16/10/2017,2 - 1,Panathinaikos,Larissa
+15/10/2017,1 - 1,Xanthi,AEK Athens
+15/10/2017,0 - 0,Apollon Smirnis,Kerkyra
+15/10/2017,0 - 1,Panaitolikos,Levadiakos
+15/10/2017,4 - 0,PAOK,Lamia
+14/10/2017,3 - 4,Panionios,Olympiakos Piraeus
+14/10/2017,1 - 0,Atromitos,Asteras Tripolis
+14/10/2017,3 - 1,PAS Giannina,Platanias
+02/10/2017,1 - 0,Lamia,Panionios
+01/10/2017,2 - 0,Asteras Tripolis,AEK Athens
+01/10/2017,0 - 2,Kerkyra,Xanthi
+01/10/2017,2 - 1,Levadiakos,Apollon Smirnis
+01/10/2017,0 - 1,Olympiakos Piraeus,Atromitos
+30/09/2017,1 - 1,Larissa,PAOK
+30/09/2017,2 - 0,Panathinaikos,PAS Giannina
+30/09/2017,0 - 3,Platanias,Panaitolikos
+25/09/2017,0 - 0,Xanthi,Asteras Tripolis
+24/09/2017,3 - 2,AEK Athens,Olympiakos Piraeus
+24/09/2017,1 - 1,Kerkyra,Levadiakos
+24/09/2017,4 - 1,Panionios,Larissa
+24/09/2017,1 - 0,PAOK,PAS Giannina
+23/09/2017,2 - 0,Panaitolikos,Panathinaikos
+23/09/2017,3 - 0,Atromitos,Lamia
+23/09/2017,0 - 1,Apollon Smirnis,Platanias
+18/09/2017,1 - 1,PAS Giannina,Panionios
+17/09/2017,0 - 1,[N] Lamia,AEK Athens
+17/09/2017,0 - 0,Larissa,Atromitos
+17/09/2017,0 - 0,Platanias,Kerkyra
+17/09/2017,1 - 0,Panathinaikos,Apollon Smirnis
+16/09/2017,1 - 1,Olympiakos Piraeus,Asteras Tripolis
+16/09/2017,1 - 0,PAOK,Panaitolikos
+16/09/2017,1 - 0,Levadiakos,Xanthi
+11/09/2017,0 - 0,Apollon Smirnis,PAOK
+10/09/2017,1 - 0,Kerkyra,Panathinaikos
+10/09/2017,4 - 0,AEK Athens,Larissa
+10/09/2017,1 - 1,Levadiakos,Platanias
+10/09/2017,1 - 1,Panionios,Panaitolikos
+09/09/2017,1 - 1,Xanthi,Olympiakos Piraeus
+09/09/2017,0 - 0,Atromitos,PAS Giannina
+09/09/2017,1 - 3,Asteras Tripolis,Lamia
+28/08/2017,1 - 1,Larissa,Asteras Tripolis
+27/08/2017,0 - 0,PAS Giannina,AEK Athens
+27/08/2017,0 - 0,Panathinaikos,Levadiakos
+27/08/2017,2 - 0,Panionios,Apollon Smirnis
+27/08/2017,3 - 1,PAOK,Kerkyra
+26/08/2017,0 - 1,Lamia,Olympiakos Piraeus
+26/08/2017,2 - 2,Panaitolikos,Atromitos
+26/08/2017,0 - 2,Platanias,Xanthi
+21/08/2017,1 - 1,Atromitos,Apollon Smirnis
+20/08/2017,1 - 1,Platanias,Panathinaikos
+20/08/2017,2 - 0,AEK Athens,Panaitolikos
+20/08/2017,0 - 1,Kerkyra,Panionios
+20/08/2017,0 - 0,Levadiakos,PAOK
+19/08/2017,4 - 1,Olympiakos Piraeus,Larissa
+19/08/2017,1 - 2,Asteras Tripolis,PAS Giannina
+19/08/2017,0 - 0,Xanthi,Lamia

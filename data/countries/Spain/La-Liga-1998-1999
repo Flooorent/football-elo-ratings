@@ -1,0 +1,381 @@
+date,score,home_team,away_team
+20/06/1999,0 - 1,Celta de Vigo,Atlético Madrid
+20/06/1999,2 - 2,CF Extremadura,Villarreal
+20/06/1999,2 - 1,Deportivo Alavés,Real Sociedad
+20/06/1999,2 - 1,Espanyol,Real Oviedo
+20/06/1999,1 - 4,Real Betis,Athletic Club
+20/06/1999,3 - 1,Real Madrid,Deportivo La Coruña
+20/06/1999,2 - 0,Real Zaragoza,Barcelona
+20/06/1999,3 - 0,Valencia,Mallorca
+19/06/1999,0 - 2,Racing Santander,Real Valladolid
+19/06/1999,1 - 2,Salamanca,Tenerife
+13/06/1999,5 - 0,Athletic Club,Deportivo Alavés
+13/06/1999,4 - 1,Barcelona,Real Betis
+13/06/1999,2 - 0,Mallorca,Celta de Vigo
+13/06/1999,3 - 2,Real Oviedo,Salamanca
+13/06/1999,1 - 2,Real Sociedad,Espanyol
+13/06/1999,3 - 2,Tenerife,Valencia
+13/06/1999,3 - 0,Villarreal,Racing Santander
+12/06/1999,3 - 1,Atlético Madrid,Real Madrid
+12/06/1999,1 - 1,Deportivo La Coruña,CF Extremadura
+12/06/1999,1 - 1,Real Valladolid,Real Zaragoza
+30/05/1999,2 - 0,Celta de Vigo,Tenerife
+30/05/1999,2 - 1,CF Extremadura,Atlético Madrid
+30/05/1999,3 - 0,Espanyol,Deportivo Alavés
+30/05/1999,1 - 1,Racing Santander,Deportivo La Coruña
+30/05/1999,2 - 0,Real Betis,Real Valladolid
+30/05/1999,2 - 1,Real Madrid,Mallorca
+30/05/1999,4 - 0,Real Zaragoza,Villarreal
+30/05/1999,0 - 1,Salamanca,Real Sociedad
+29/05/1999,1 - 3,Athletic Club,Barcelona
+29/05/1999,3 - 0,Valencia,Real Oviedo
+23/05/1999,1 - 1,Atlético Madrid,Racing Santander
+23/05/1999,2 - 1,Deportivo La Coruña,Real Zaragoza
+23/05/1999,4 - 0,Espanyol,Salamanca
+23/05/1999,2 - 0,Mallorca,CF Extremadura
+23/05/1999,1 - 3,Real Oviedo,Celta de Vigo
+23/05/1999,1 - 1,Real Sociedad,Valencia
+23/05/1999,0 - 3,Real Valladolid,Athletic Club
+23/05/1999,2 - 3,Tenerife,Real Madrid
+23/05/1999,3 - 4,Villarreal,Real Betis
+22/05/1999,1 - 4,Deportivo Alavés,Barcelona
+16/05/1999,2 - 0,Athletic Club,Villarreal
+16/05/1999,2 - 2,Celta de Vigo,Real Sociedad
+16/05/1999,1 - 0,CF Extremadura,Tenerife
+16/05/1999,0 - 3,Real Betis,Deportivo La Coruña
+16/05/1999,2 - 1,Real Madrid,Real Oviedo
+16/05/1999,2 - 0,Real Zaragoza,Atlético Madrid
+16/05/1999,1 - 0,Salamanca,Deportivo Alavés
+16/05/1999,1 - 2,Valencia,Espanyol
+15/05/1999,1 - 1,Barcelona,Real Valladolid
+14/05/1999,1 - 0,Racing Santander,Mallorca
+09/05/1999,2 - 3,Atlético Madrid,Real Betis
+09/05/1999,2 - 0,Deportivo Alavés,Real Valladolid
+09/05/1999,1 - 1,Deportivo La Coruña,Athletic Club
+09/05/1999,3 - 0,Espanyol,Celta de Vigo
+09/05/1999,1 - 0,Mallorca,Real Zaragoza
+09/05/1999,1 - 0,Real Oviedo,CF Extremadura
+09/05/1999,0 - 1,Salamanca,Valencia
+09/05/1999,2 - 2,Tenerife,Racing Santander
+09/05/1999,2 - 3,Villarreal,Barcelona
+08/05/1999,3 - 2,Real Sociedad,Real Madrid
+02/05/1999,1 - 2,Athletic Club,Atlético Madrid
+02/05/1999,4 - 0,Barcelona,Deportivo La Coruña
+02/05/1999,1 - 0,Celta de Vigo,Salamanca
+02/05/1999,1 - 0,CF Extremadura,Real Sociedad
+02/05/1999,0 - 0,Racing Santander,Real Oviedo
+02/05/1999,1 - 3,Real Betis,Mallorca
+02/05/1999,1 - 0,Real Valladolid,Villarreal
+02/05/1999,3 - 1,Real Zaragoza,Tenerife
+01/05/1999,2 - 0,Real Madrid,Espanyol
+01/05/1999,5 - 0,Valencia,Deportivo Alavés
+25/04/1999,1 - 1,Atlético Madrid,Barcelona
+25/04/1999,2 - 1,Deportivo Alavés,Villarreal
+25/04/1999,3 - 0,Deportivo La Coruña,Real Valladolid
+25/04/1999,0 - 0,Espanyol,CF Extremadura
+25/04/1999,6 - 1,Mallorca,Athletic Club
+25/04/1999,1 - 2,Real Oviedo,Real Zaragoza
+25/04/1999,2 - 0,Real Sociedad,Racing Santander
+25/04/1999,1 - 1,Salamanca,Real Madrid
+25/04/1999,3 - 2,Tenerife,Real Betis
+24/04/1999,2 - 2,Valencia,Celta de Vigo
+18/04/1999,2 - 0,Athletic Club,Tenerife
+18/04/1999,1 - 1,Celta de Vigo,Deportivo Alavés
+18/04/1999,1 - 1,CF Extremadura,Salamanca
+18/04/1999,0 - 2,Racing Santander,Espanyol
+18/04/1999,5 - 0,Real Betis,Real Oviedo
+18/04/1999,3 - 1,Real Madrid,Valencia
+18/04/1999,1 - 1,Real Zaragoza,Real Sociedad
+18/04/1999,1 - 2,Villarreal,Deportivo La Coruña
+17/04/1999,2 - 1,Barcelona,Mallorca
+17/04/1999,1 - 0,Real Valladolid,Atlético Madrid
+11/04/1999,2 - 2,Atlético Madrid,Villarreal
+11/04/1999,5 - 1,Celta de Vigo,Real Madrid
+11/04/1999,2 - 1,Deportivo Alavés,Deportivo La Coruña
+11/04/1999,2 - 1,Espanyol,Real Zaragoza
+11/04/1999,1 - 0,Mallorca,Real Valladolid
+11/04/1999,0 - 0,Real Oviedo,Athletic Club
+11/04/1999,1 - 0,Real Sociedad,Real Betis
+11/04/1999,1 - 2,Salamanca,Racing Santander
+11/04/1999,1 - 1,Valencia,CF Extremadura
+10/04/1999,2 - 3,Tenerife,Barcelona
+04/04/1999,0 - 0,Athletic Club,Real Sociedad
+04/04/1999,3 - 1,Barcelona,Real Oviedo
+04/04/1999,1 - 1,CF Extremadura,Celta de Vigo
+04/04/1999,0 - 1,Real Betis,Espanyol
+04/04/1999,3 - 2,Real Madrid,Deportivo Alavés
+04/04/1999,2 - 1,Real Valladolid,Tenerife
+04/04/1999,2 - 0,Real Zaragoza,Salamanca
+04/04/1999,0 - 2,Villarreal,Mallorca
+03/04/1999,1 - 1,Deportivo La Coruña,Atlético Madrid
+03/04/1999,0 - 1,Racing Santander,Valencia
+21/03/1999,3 - 0,Celta de Vigo,Racing Santander
+21/03/1999,2 - 0,Deportivo Alavés,Atlético Madrid
+21/03/1999,1 - 2,Mallorca,Deportivo La Coruña
+21/03/1999,2 - 0,Real Madrid,CF Extremadura
+21/03/1999,0 - 0,Real Oviedo,Real Valladolid
+21/03/1999,0 - 2,Real Sociedad,Barcelona
+21/03/1999,1 - 3,Salamanca,Real Betis
+21/03/1999,2 - 2,Tenerife,Villarreal
+21/03/1999,1 - 1,Valencia,Real Zaragoza
+20/03/1999,1 - 1,Espanyol,Athletic Club
+14/03/1999,1 - 0,Athletic Club,Salamanca
+14/03/1999,3 - 0,Barcelona,Espanyol
+14/03/1999,1 - 0,CF Extremadura,Deportivo Alavés
+14/03/1999,2 - 0,Deportivo La Coruña,Tenerife
+14/03/1999,0 - 0,Real Valladolid,Real Sociedad
+14/03/1999,0 - 0,Villarreal,Real Oviedo
+13/03/1999,1 - 2,Atlético Madrid,Mallorca
+13/03/1999,1 - 3,Racing Santander,Real Madrid
+13/03/1999,0 - 1,Real Betis,Valencia
+13/03/1999,0 - 1,Real Zaragoza,Celta de Vigo
+07/03/1999,4 - 0,Celta de Vigo,Real Betis
+07/03/1999,0 - 3,CF Extremadura,Racing Santander
+07/03/1999,2 - 0,Deportivo Alavés,Mallorca
+07/03/1999,0 - 2,Espanyol,Real Valladolid
+07/03/1999,3 - 2,Real Madrid,Real Zaragoza
+07/03/1999,1 - 1,Real Sociedad,Villarreal
+07/03/1999,1 - 4,Salamanca,Barcelona
+07/03/1999,1 - 0,Tenerife,Atlético Madrid
+07/03/1999,4 - 1,Valencia,Athletic Club
+06/03/1999,1 - 2,Real Oviedo,Deportivo La Coruña
+28/02/1999,0 - 1,Deportivo La Coruña,Real Sociedad
+28/02/1999,1 - 1,Mallorca,Tenerife
+28/02/1999,2 - 0,Racing Santander,Deportivo Alavés
+28/02/1999,4 - 1,Real Valladolid,Salamanca
+28/02/1999,3 - 1,Real Zaragoza,CF Extremadura
+28/02/1999,2 - 2,Villarreal,Espanyol
+27/02/1999,0 - 0,Athletic Club,Celta de Vigo
+27/02/1999,0 - 0,Atlético Madrid,Real Oviedo
+27/02/1999,2 - 4,Barcelona,Valencia
+27/02/1999,3 - 2,Real Betis,Real Madrid
+21/02/1999,0 - 0,Celta de Vigo,Barcelona
+21/02/1999,3 - 1,Deportivo Alavés,Tenerife
+21/02/1999,2 - 2,Espanyol,Deportivo La Coruña
+21/02/1999,1 - 3,Real Oviedo,Mallorca
+21/02/1999,3 - 2,Real Sociedad,Atlético Madrid
+21/02/1999,1 - 0,Salamanca,Villarreal
+21/02/1999,0 - 1,Valencia,Real Valladolid
+20/02/1999,2 - 1,CF Extremadura,Real Betis
+20/02/1999,2 - 4,Racing Santander,Real Zaragoza
+20/02/1999,0 - 1,Real Madrid,Athletic Club
+14/02/1999,0 - 0,Athletic Club,CF Extremadura
+14/02/1999,3 - 0,Barcelona,Real Madrid
+14/02/1999,1 - 1,Real Betis,Racing Santander
+14/02/1999,2 - 1,Real Valladolid,Celta de Vigo
+14/02/1999,1 - 1,Real Zaragoza,Deportivo Alavés
+14/02/1999,0 - 2,Tenerife,Real Oviedo
+14/02/1999,1 - 0,Villarreal,Valencia
+13/02/1999,1 - 2,Atlético Madrid,Espanyol
+13/02/1999,1 - 0,Deportivo La Coruña,Salamanca
+13/02/1999,1 - 0,Mallorca,Real Sociedad
+07/02/1999,4 - 1,Celta de Vigo,Villarreal
+07/02/1999,1 - 2,CF Extremadura,Barcelona
+07/02/1999,2 - 2,Deportivo Alavés,Real Oviedo
+07/02/1999,1 - 0,Espanyol,Mallorca
+07/02/1999,2 - 0,Racing Santander,Athletic Club
+07/02/1999,3 - 2,Real Madrid,Real Valladolid
+07/02/1999,1 - 1,Real Sociedad,Tenerife
+07/02/1999,2 - 2,Real Zaragoza,Real Betis
+07/02/1999,2 - 1,Salamanca,Atlético Madrid
+06/02/1999,0 - 0,Valencia,Deportivo La Coruña
+31/01/1999,3 - 2,Barcelona,Racing Santander
+31/01/1999,2 - 1,Deportivo La Coruña,Celta de Vigo
+31/01/1999,0 - 0,Real Valladolid,CF Extremadura
+31/01/1999,0 - 0,Tenerife,Espanyol
+30/01/1999,2 - 0,Athletic Club,Real Zaragoza
+30/01/1999,1 - 2,Atlético Madrid,Valencia
+30/01/1999,1 - 0,Mallorca,Salamanca
+30/01/1999,1 - 0,Real Betis,Deportivo Alavés
+30/01/1999,2 - 1,Real Oviedo,Real Sociedad
+30/01/1999,0 - 2,Villarreal,Real Madrid
+24/01/1999,2 - 1,Atlético Madrid,Celta de Vigo
+24/01/1999,3 - 1,Barcelona,Real Zaragoza
+24/01/1999,4 - 0,Deportivo La Coruña,Real Madrid
+24/01/1999,0 - 1,Mallorca,Valencia
+24/01/1999,1 - 1,Real Oviedo,Espanyol
+24/01/1999,2 - 1,Real Sociedad,Deportivo Alavés
+24/01/1999,0 - 0,Real Valladolid,Racing Santander
+24/01/1999,1 - 0,Tenerife,Salamanca
+24/01/1999,1 - 1,Villarreal,CF Extremadura
+23/01/1999,0 - 0,Athletic Club,Real Betis
+17/01/1999,1 - 2,CF Extremadura,Deportivo La Coruña
+17/01/1999,1 - 2,Deportivo Alavés,Athletic Club
+17/01/1999,0 - 0,Espanyol,Real Sociedad
+17/01/1999,1 - 2,Racing Santander,Villarreal
+17/01/1999,0 - 3,Real Betis,Barcelona
+17/01/1999,4 - 2,Real Madrid,Atlético Madrid
+17/01/1999,2 - 0,Real Zaragoza,Real Valladolid
+17/01/1999,1 - 1,Salamanca,Real Oviedo
+17/01/1999,1 - 1,Valencia,Tenerife
+16/01/1999,4 - 2,Celta de Vigo,Mallorca
+10/01/1999,5 - 0,Atlético Madrid,CF Extremadura
+10/01/1999,1 - 1,Deportivo Alavés,Espanyol
+10/01/1999,1 - 2,Deportivo La Coruña,Racing Santander
+10/01/1999,2 - 1,Mallorca,Real Madrid
+10/01/1999,2 - 2,Real Oviedo,Valencia
+10/01/1999,4 - 0,Real Sociedad,Salamanca
+10/01/1999,0 - 3,Real Valladolid,Real Betis
+10/01/1999,0 - 2,Tenerife,Celta de Vigo
+10/01/1999,1 - 1,Villarreal,Real Zaragoza
+09/01/1999,4 - 2,Barcelona,Athletic Club
+06/01/1999,3 - 1,Real Madrid,Salamanca
+03/01/1999,2 - 1,Athletic Club,Real Valladolid
+03/01/1999,7 - 1,Barcelona,Deportivo Alavés
+03/01/1999,6 - 2,Celta de Vigo,Real Oviedo
+03/01/1999,1 - 0,CF Extremadura,Mallorca
+03/01/1999,2 - 3,Racing Santander,Atlético Madrid
+03/01/1999,4 - 1,Real Betis,Villarreal
+03/01/1999,4 - 0,Real Madrid,Tenerife
+03/01/1999,3 - 1,Real Zaragoza,Deportivo La Coruña
+03/01/1999,2 - 3,Salamanca,Espanyol
+02/01/1999,2 - 0,Valencia,Real Sociedad
+20/12/1998,0 - 0,Atlético Madrid,Real Zaragoza
+20/12/1998,1 - 0,Deportivo Alavés,Salamanca
+20/12/1998,2 - 1,Espanyol,Valencia
+20/12/1998,1 - 1,Mallorca,Racing Santander
+20/12/1998,1 - 0,Real Oviedo,Real Madrid
+20/12/1998,2 - 0,Real Sociedad,Celta de Vigo
+20/12/1998,0 - 1,Real Valladolid,Barcelona
+20/12/1998,1 - 1,Tenerife,CF Extremadura
+20/12/1998,0 - 1,Villarreal,Athletic Club
+19/12/1998,2 - 2,Deportivo La Coruña,Real Betis
+13/12/1998,2 - 1,Athletic Club,Deportivo La Coruña
+13/12/1998,1 - 3,Barcelona,Villarreal
+13/12/1998,2 - 0,Celta de Vigo,Espanyol
+13/12/1998,0 - 1,CF Extremadura,Real Oviedo
+13/12/1998,0 - 0,Racing Santander,Tenerife
+13/12/1998,3 - 2,Real Madrid,Real Sociedad
+13/12/1998,3 - 0,Real Valladolid,Deportivo Alavés
+13/12/1998,0 - 1,Real Zaragoza,Mallorca
+13/12/1998,1 - 0,Valencia,Salamanca
+12/12/1998,0 - 0,Real Betis,Atlético Madrid
+06/12/1998,0 - 1,Deportivo Alavés,Valencia
+06/12/1998,1 - 0,Real Oviedo,Racing Santander
+06/12/1998,1 - 1,Tenerife,Real Zaragoza
+06/12/1998,2 - 1,Villarreal,Real Valladolid
+05/12/1998,0 - 0,Atlético Madrid,Athletic Club
+05/12/1998,2 - 1,Deportivo La Coruña,Barcelona
+05/12/1998,0 - 0,Espanyol,Real Madrid
+05/12/1998,1 - 0,Mallorca,Real Betis
+05/12/1998,2 - 0,Real Sociedad,CF Extremadura
+05/12/1998,1 - 1,Salamanca,Celta de Vigo
+29/11/1998,1 - 0,Athletic Club,Mallorca
+29/11/1998,2 - 2,Celta de Vigo,Valencia
+29/11/1998,1 - 0,CF Extremadura,Espanyol
+29/11/1998,0 - 1,Racing Santander,Real Sociedad
+29/11/1998,1 - 0,Real Betis,Tenerife
+29/11/1998,0 - 1,Real Valladolid,Deportivo La Coruña
+29/11/1998,1 - 0,Real Zaragoza,Real Oviedo
+29/11/1998,2 - 0,Villarreal,Deportivo Alavés
+28/11/1998,0 - 1,Barcelona,Atlético Madrid
+22/11/1998,2 - 1,Deportivo La Coruña,Villarreal
+22/11/1998,1 - 1,Espanyol,Racing Santander
+22/11/1998,2 - 1,Salamanca,CF Extremadura
+21/11/1998,6 - 1,Atlético Madrid,Real Valladolid
+21/11/1998,2 - 0,Deportivo Alavés,Celta de Vigo
+21/11/1998,1 - 0,Mallorca,Barcelona
+21/11/1998,0 - 1,Real Oviedo,Real Betis
+21/11/1998,0 - 0,Real Sociedad,Real Zaragoza
+21/11/1998,3 - 1,Valencia,Real Madrid
+20/11/1998,0 - 1,Tenerife,Athletic Club
+15/11/1998,3 - 5,Athletic Club,Real Oviedo
+15/11/1998,4 - 1,Barcelona,Tenerife
+15/11/1998,1 - 0,CF Extremadura,Valencia
+15/11/1998,2 - 2,Deportivo La Coruña,Deportivo Alavés
+15/11/1998,4 - 1,Racing Santander,Salamanca
+15/11/1998,1 - 0,Real Betis,Real Sociedad
+15/11/1998,1 - 0,Real Valladolid,Mallorca
+15/11/1998,0 - 3,Real Zaragoza,Espanyol
+15/11/1998,2 - 1,Villarreal,Atlético Madrid
+14/11/1998,1 - 2,Real Madrid,Celta de Vigo
+08/11/1998,1 - 1,Atlético Madrid,Deportivo La Coruña
+08/11/1998,5 - 1,Celta de Vigo,CF Extremadura
+08/11/1998,1 - 1,Deportivo Alavés,Real Madrid
+08/11/1998,1 - 0,Mallorca,Villarreal
+08/11/1998,2 - 1,Real Oviedo,Barcelona
+08/11/1998,3 - 1,Real Sociedad,Athletic Club
+08/11/1998,1 - 2,Salamanca,Real Zaragoza
+08/11/1998,2 - 2,Tenerife,Real Valladolid
+08/11/1998,3 - 0,Valencia,Racing Santander
+07/11/1998,1 - 0,Espanyol,Real Betis
+01/11/1998,1 - 1,Deportivo La Coruña,Mallorca
+01/11/1998,2 - 1,Real Valladolid,Real Oviedo
+01/11/1998,2 - 5,Villarreal,Tenerife
+31/10/1998,2 - 2,Athletic Club,Espanyol
+31/10/1998,3 - 0,Atlético Madrid,Deportivo Alavés
+31/10/1998,4 - 1,Barcelona,Real Sociedad
+31/10/1998,1 - 5,CF Extremadura,Real Madrid
+31/10/1998,2 - 2,Racing Santander,Celta de Vigo
+31/10/1998,1 - 0,Real Betis,Salamanca
+31/10/1998,1 - 4,Real Zaragoza,Valencia
+25/10/1998,0 - 1,Deportivo Alavés,CF Extremadura
+25/10/1998,1 - 2,Espanyol,Barcelona
+25/10/1998,4 - 0,Mallorca,Atlético Madrid
+25/10/1998,2 - 2,Real Madrid,Racing Santander
+25/10/1998,0 - 0,Real Oviedo,Villarreal
+25/10/1998,1 - 0,Real Sociedad,Real Valladolid
+25/10/1998,2 - 1,Salamanca,Athletic Club
+25/10/1998,1 - 1,Tenerife,Deportivo La Coruña
+25/10/1998,5 - 1,Valencia,Real Betis
+24/10/1998,2 - 0,Celta de Vigo,Real Zaragoza
+18/10/1998,4 - 0,Deportivo La Coruña,Real Oviedo
+18/10/1998,2 - 1,Mallorca,Deportivo Alavés
+18/10/1998,3 - 1,Racing Santander,CF Extremadura
+18/10/1998,2 - 1,Real Valladolid,Espanyol
+17/10/1998,2 - 0,Athletic Club,Valencia
+17/10/1998,2 - 0,Atlético Madrid,Tenerife
+17/10/1998,1 - 1,Barcelona,Salamanca
+17/10/1998,0 - 3,Real Betis,Celta de Vigo
+17/10/1998,3 - 4,Real Zaragoza,Real Madrid
+17/10/1998,1 - 1,Villarreal,Real Sociedad
+04/10/1998,3 - 2,Celta de Vigo,Athletic Club
+04/10/1998,0 - 2,CF Extremadura,Real Zaragoza
+04/10/1998,0 - 1,Deportivo Alavés,Racing Santander
+04/10/1998,1 - 1,Espanyol,Villarreal
+04/10/1998,0 - 1,Real Madrid,Real Betis
+04/10/1998,3 - 1,Real Oviedo,Atlético Madrid
+04/10/1998,2 - 0,Real Sociedad,Deportivo La Coruña
+04/10/1998,1 - 0,Salamanca,Real Valladolid
+04/10/1998,1 - 1,Tenerife,Mallorca
+03/10/1998,1 - 3,Valencia,Barcelona
+27/09/1998,1 - 0,Deportivo La Coruña,Espanyol
+27/09/1998,0 - 0,Mallorca,Real Oviedo
+27/09/1998,3 - 1,Real Zaragoza,Racing Santander
+27/09/1998,1 - 2,Tenerife,Deportivo Alavés
+27/09/1998,5 - 0,Villarreal,Salamanca
+26/09/1998,2 - 3,Athletic Club,Real Madrid
+26/09/1998,4 - 1,Atlético Madrid,Real Sociedad
+26/09/1998,2 - 2,Barcelona,Celta de Vigo
+26/09/1998,1 - 1,Real Betis,CF Extremadura
+26/09/1998,3 - 1,Real Valladolid,Valencia
+20/09/1998,0 - 0,Celta de Vigo,Real Valladolid
+20/09/1998,0 - 1,CF Extremadura,Athletic Club
+20/09/1998,1 - 0,Deportivo Alavés,Real Zaragoza
+20/09/1998,1 - 1,Espanyol,Atlético Madrid
+20/09/1998,1 - 0,Racing Santander,Real Betis
+20/09/1998,0 - 1,Real Oviedo,Tenerife
+20/09/1998,0 - 1,Real Sociedad,Mallorca
+20/09/1998,3 - 1,Salamanca,Deportivo La Coruña
+20/09/1998,1 - 0,Valencia,Villarreal
+19/09/1998,2 - 2,Real Madrid,Barcelona
+13/09/1998,2 - 0,Mallorca,Espanyol
+13/09/1998,1 - 0,Real Oviedo,Deportivo Alavés
+12/09/1998,2 - 0,Athletic Club,Racing Santander
+12/09/1998,2 - 0,Atlético Madrid,Salamanca
+12/09/1998,1 - 0,Barcelona,CF Extremadura
+12/09/1998,1 - 0,Deportivo La Coruña,Valencia
+12/09/1998,1 - 3,Real Betis,Real Zaragoza
+12/09/1998,0 - 1,Real Valladolid,Real Madrid
+12/09/1998,2 - 2,Tenerife,Real Sociedad
+12/09/1998,1 - 1,Villarreal,Celta de Vigo
+31/08/1998,4 - 1,Real Madrid,Villarreal
+30/08/1998,0 - 0,Celta de Vigo,Deportivo La Coruña
+30/08/1998,0 - 0,CF Extremadura,Real Valladolid
+30/08/1998,2 - 1,Espanyol,Tenerife
+30/08/1998,0 - 0,Racing Santander,Barcelona
+30/08/1998,3 - 3,Real Sociedad,Real Oviedo
+30/08/1998,2 - 0,Real Zaragoza,Athletic Club
+30/08/1998,0 - 0,Salamanca,Mallorca
+29/08/1998,0 - 0,Deportivo Alavés,Real Betis
+29/08/1998,1 - 0,Valencia,Atlético Madrid

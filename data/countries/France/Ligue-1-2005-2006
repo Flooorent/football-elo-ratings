@@ -1,0 +1,381 @@
+date,score,home_team,away_team
+13/05/2006,3 - 1,Ajaccio,Saint-Étienne
+13/05/2006,4 - 0,Auxerre,Strasbourg
+13/05/2006,1 - 1,Bordeaux,Olympique Marseille
+13/05/2006,3 - 1,Lens,Nantes
+13/05/2006,1 - 0,Metz,PSG
+13/05/2006,2 - 2,Monaco,Nancy
+13/05/2006,8 - 1,Olympique Lyonnais,Le Mans
+13/05/2006,2 - 2,Rennes,Lille
+13/05/2006,1 - 2,Toulouse,Sochaux
+13/05/2006,1 - 2,Troyes,Nice
+06/05/2006,0 - 0,Le Mans,Lens
+06/05/2006,4 - 0,Lille,Olympique Lyonnais
+06/05/2006,1 - 3,Nancy,Auxerre
+06/05/2006,0 - 1,Nantes,Bordeaux
+06/05/2006,2 - 1,Nice,Metz
+06/05/2006,2 - 2,Olympique Marseille,Strasbourg
+06/05/2006,2 - 4,PSG,Ajaccio
+06/05/2006,0 - 0,Saint-Étienne,Rennes
+06/05/2006,1 - 1,Sochaux,Troyes
+06/05/2006,3 - 3,Toulouse,Monaco
+03/05/2006,1 - 2,Auxerre,Olympique Marseille
+03/05/2006,1 - 1,Rennes,PSG
+30/04/2006,0 - 3,Ajaccio,Nice
+30/04/2006,2 - 2,Bordeaux,Le Mans
+30/04/2006,0 - 1,Metz,Sochaux
+30/04/2006,1 - 1,Monaco,Nantes
+30/04/2006,4 - 0,Olympique Lyonnais,Saint-Étienne
+30/04/2006,1 - 3,Strasbourg,Nancy
+30/04/2006,3 - 1,Troyes,Toulouse
+29/04/2006,4 - 2,Lens,Lille
+23/04/2006,2 - 1,Monaco,Olympique Lyonnais
+23/04/2006,0 - 3,Sochaux,Bordeaux
+16/04/2006,2 - 1,Nice,Rennes
+16/04/2006,0 - 1,PSG,Olympique Lyonnais
+15/04/2006,0 - 0,Le Mans,Monaco
+15/04/2006,3 - 2,Lille,Bordeaux
+15/04/2006,3 - 2,Nantes,Auxerre
+15/04/2006,6 - 0,Olympique Marseille,Nancy
+15/04/2006,2 - 0,Saint-Étienne,Lens
+15/04/2006,1 - 1,Sochaux,Strasbourg
+15/04/2006,3 - 0,Troyes,Ajaccio
+14/04/2006,2 - 0,Toulouse,Metz
+09/04/2006,0 - 0,Auxerre,Le Mans
+09/04/2006,2 - 1,Rennes,Sochaux
+08/04/2006,1 - 0,Ajaccio,Toulouse
+08/04/2006,0 - 0,Bordeaux,Saint-Étienne
+08/04/2006,1 - 1,Lens,PSG
+08/04/2006,2 - 4,Metz,Troyes
+08/04/2006,1 - 0,Monaco,Olympique Marseille
+08/04/2006,0 - 0,Nancy,Lille
+08/04/2006,2 - 1,Olympique Lyonnais,Nice
+08/04/2006,0 - 1,Strasbourg,Nantes
+02/04/2006,0 - 0,Le Mans,Nancy
+02/04/2006,3 - 1,PSG,Bordeaux
+02/04/2006,0 - 1,Toulouse,Rennes
+01/04/2006,1 - 1,Lille,Auxerre
+01/04/2006,0 - 1,Metz,Lens
+01/04/2006,1 - 3,Nantes,Olympique Marseille
+01/04/2006,3 - 1,Nice,Strasbourg
+01/04/2006,1 - 1,Saint-Étienne,Monaco
+01/04/2006,3 - 1,Sochaux,Ajaccio
+01/04/2006,0 - 1,Troyes,Olympique Lyonnais
+26/03/2006,1 - 0,Bordeaux,Nice
+26/03/2006,1 - 1,Monaco,PSG
+25/03/2006,0 - 1,Ajaccio,Metz
+25/03/2006,0 - 0,Auxerre,Saint-Étienne
+25/03/2006,2 - 1,Lens,Sochaux
+25/03/2006,0 - 0,Nancy,Nantes
+25/03/2006,1 - 1,Olympique Lyonnais,Toulouse
+25/03/2006,1 - 1,Olympique Marseille,Le Mans
+25/03/2006,2 - 0,Rennes,Troyes
+25/03/2006,2 - 2,Strasbourg,Lille
+19/03/2006,0 - 0,Lille,Olympique Marseille
+19/03/2006,4 - 1,PSG,Auxerre
+19/03/2006,0 - 2,Saint-Étienne,Strasbourg
+18/03/2006,1 - 0,Ajaccio,Monaco
+18/03/2006,0 - 0,Le Mans,Nantes
+18/03/2006,0 - 1,Metz,Rennes
+18/03/2006,1 - 0,Nice,Nancy
+18/03/2006,0 - 4,Sochaux,Olympique Lyonnais
+18/03/2006,1 - 1,Toulouse,Lens
+18/03/2006,1 - 1,Troyes,Bordeaux
+12/03/2006,1 - 1,Nantes,Lille
+12/03/2006,2 - 0,Olympique Marseille,Saint-Étienne
+12/03/2006,1 - 2,Strasbourg,Le Mans
+11/03/2006,2 - 0,Auxerre,Nice
+11/03/2006,2 - 0,Bordeaux,Toulouse
+11/03/2006,1 - 0,Lens,Troyes
+11/03/2006,4 - 1,Monaco,Sochaux
+11/03/2006,1 - 1,Nancy,PSG
+11/03/2006,4 - 0,Olympique Lyonnais,Metz
+11/03/2006,3 - 0,Rennes,Ajaccio
+07/03/2006,0 - 0,Metz,Nancy
+05/03/2006,0 - 0,PSG,Olympique Marseille
+05/03/2006,1 - 0,Saint-Étienne,Nantes
+05/03/2006,1 - 1,Troyes,Auxerre
+04/03/2006,1 - 3,Ajaccio,Olympique Lyonnais
+04/03/2006,4 - 0,Lille,Le Mans
+04/03/2006,2 - 1,Metz,Monaco
+04/03/2006,0 - 0,Nice,Lens
+04/03/2006,2 - 1,Rennes,Strasbourg
+04/03/2006,1 - 1,Toulouse,Nancy
+26/02/2006,1 - 0,Lens,Ajaccio
+26/02/2006,0 - 1,Monaco,Lille
+26/02/2006,1 - 0,Olympique Marseille,Nice
+26/02/2006,2 - 0,Strasbourg,Troyes
+25/02/2006,2 - 0,Auxerre,Toulouse
+25/02/2006,3 - 3,Bordeaux,Metz
+25/02/2006,0 - 1,Le Mans,Saint-Étienne
+25/02/2006,0 - 3,Nancy,Sochaux
+25/02/2006,0 - 0,Nantes,PSG
+25/02/2006,1 - 4,Olympique Lyonnais,Rennes
+19/02/2006,1 - 0,Metz,Olympique Marseille
+18/02/2006,0 - 2,Ajaccio,Bordeaux
+18/02/2006,2 - 0,Nice,Monaco
+18/02/2006,0 - 1,PSG,Le Mans
+18/02/2006,4 - 1,Rennes,Lens
+18/02/2006,0 - 2,Saint-Étienne,Lille
+18/02/2006,1 - 0,Sochaux,Auxerre
+18/02/2006,1 - 2,Toulouse,Strasbourg
+18/02/2006,0 - 1,Troyes,Nancy
+17/02/2006,3 - 1,Olympique Lyonnais,Nantes
+14/02/2006,1 - 1,Nantes,Troyes
+14/02/2006,0 - 1,Saint-Étienne,Nice
+12/02/2006,0 - 0,Lille,PSG
+12/02/2006,0 - 0,Olympique Marseille,Toulouse
+11/02/2006,1 - 1,Auxerre,Metz
+11/02/2006,2 - 0,Bordeaux,Rennes
+11/02/2006,2 - 0,Le Mans,Nice
+11/02/2006,1 - 1,Lens,Olympique Lyonnais
+11/02/2006,1 - 1,Monaco,Troyes
+11/02/2006,2 - 0,Nancy,Saint-Étienne
+11/02/2006,3 - 1,Nantes,Sochaux
+11/02/2006,2 - 2,Strasbourg,Ajaccio
+08/02/2006,1 - 1,Strasbourg,PSG
+05/02/2006,0 - 0,Olympique Lyonnais,Bordeaux
+05/02/2006,0 - 1,Troyes,Olympique Marseille
+04/02/2006,1 - 0,Ajaccio,Auxerre
+04/02/2006,2 - 1,Lens,Strasbourg
+04/02/2006,2 - 0,Nice,Lille
+04/02/2006,2 - 2,PSG,Saint-Étienne
+04/02/2006,1 - 3,Rennes,Monaco
+04/02/2006,0 - 0,Sochaux,Le Mans
+04/02/2006,1 - 0,Toulouse,Nantes
+01/02/2006,1 - 3,Saint-Étienne,Toulouse
+29/01/2006,3 - 1,Lille,Metz
+28/01/2006,2 - 0,Auxerre,Rennes
+28/01/2006,1 - 0,Bordeaux,Lens
+28/01/2006,1 - 1,Le Mans,Toulouse
+28/01/2006,0 - 0,Nancy,Ajaccio
+28/01/2006,0 - 0,Olympique Marseille,Sochaux
+22/01/2006,1 - 1,Lens,Monaco
+22/01/2006,1 - 1,Olympique Lyonnais,Auxerre
+21/01/2006,3 - 1,Ajaccio,Olympique Marseille
+21/01/2006,2 - 1,Bordeaux,Strasbourg
+21/01/2006,1 - 4,Metz,Nantes
+21/01/2006,1 - 0,Nice,PSG
+21/01/2006,0 - 2,Rennes,Nancy
+21/01/2006,4 - 0,Sochaux,Saint-Étienne
+21/01/2006,0 - 0,Toulouse,Lille
+21/01/2006,1 - 3,Troyes,Le Mans
+15/01/2006,1 - 0,Olympique Marseille,Rennes
+15/01/2006,2 - 1,PSG,Troyes
+14/01/2006,1 - 0,Auxerre,Lens
+14/01/2006,1 - 0,Le Mans,Ajaccio
+14/01/2006,3 - 0,Lille,Sochaux
+14/01/2006,0 - 1,Monaco,Bordeaux
+14/01/2006,0 - 2,Nancy,Olympique Lyonnais
+14/01/2006,0 - 0,Nantes,Nice
+14/01/2006,2 - 1,Strasbourg,Metz
+12/01/2006,1 - 0,Toulouse,PSG
+11/01/2006,0 - 2,Ajaccio,Nantes
+11/01/2006,1 - 0,Bordeaux,Auxerre
+11/01/2006,1 - 2,Lens,Nancy
+11/01/2006,0 - 1,Metz,Saint-Étienne
+11/01/2006,1 - 1,Monaco,Strasbourg
+11/01/2006,2 - 1,Olympique Lyonnais,Olympique Marseille
+11/01/2006,1 - 0,Rennes,Le Mans
+11/01/2006,1 - 1,Sochaux,Nice
+11/01/2006,1 - 0,Troyes,Lille
+05/01/2006,2 - 1,Auxerre,Monaco
+04/01/2006,2 - 0,Le Mans,Metz
+04/01/2006,2 - 0,Lille,Ajaccio
+04/01/2006,0 - 0,Nancy,Bordeaux
+04/01/2006,0 - 2,Nantes,Rennes
+04/01/2006,2 - 1,Nice,Toulouse
+04/01/2006,1 - 1,Olympique Marseille,Lens
+04/01/2006,3 - 1,PSG,Sochaux
+04/01/2006,1 - 1,Saint-Étienne,Troyes
+04/01/2006,0 - 4,Strasbourg,Olympique Lyonnais
+18/12/2005,2 - 0,Lens,Le Mans
+18/12/2005,1 - 0,Monaco,Toulouse
+17/12/2005,1 - 1,Ajaccio,PSG
+17/12/2005,0 - 1,Auxerre,Nancy
+17/12/2005,0 - 0,Bordeaux,Nantes
+17/12/2005,1 - 0,Metz,Nice
+17/12/2005,0 - 1,Rennes,Saint-Étienne
+17/12/2005,0 - 1,Strasbourg,Olympique Marseille
+17/12/2005,2 - 1,Troyes,Sochaux
+16/12/2005,1 - 3,Olympique Lyonnais,Lille
+11/12/2005,0 - 0,Nantes,Monaco
+11/12/2005,0 - 0,Saint-Étienne,Olympique Lyonnais
+10/12/2005,1 - 0,Le Mans,Bordeaux
+10/12/2005,0 - 0,Lille,Lens
+10/12/2005,1 - 2,Nancy,Strasbourg
+10/12/2005,1 - 0,Nice,Ajaccio
+10/12/2005,1 - 0,Olympique Marseille,Auxerre
+10/12/2005,2 - 0,PSG,Rennes
+10/12/2005,1 - 1,Sochaux,Metz
+10/12/2005,2 - 1,Toulouse,Troyes
+04/12/2005,2 - 1,Lens,Saint-Étienne
+04/12/2005,1 - 1,Nancy,Olympique Marseille
+04/12/2005,1 - 0,Rennes,Nice
+03/12/2005,0 - 1,Ajaccio,Troyes
+03/12/2005,4 - 0,Auxerre,Nantes
+03/12/2005,1 - 0,Bordeaux,Lille
+03/12/2005,2 - 2,Metz,Toulouse
+03/12/2005,2 - 0,Monaco,Le Mans
+03/12/2005,2 - 0,Olympique Lyonnais,PSG
+03/12/2005,0 - 0,Strasbourg,Sochaux
+27/11/2005,4 - 3,Nantes,Strasbourg
+27/11/2005,2 - 1,Olympique Marseille,Monaco
+27/11/2005,3 - 4,PSG,Lens
+26/11/2005,1 - 0,Lille,Nancy
+26/11/2005,1 - 1,Nice,Olympique Lyonnais
+26/11/2005,1 - 1,Saint-Étienne,Bordeaux
+26/11/2005,1 - 0,Sochaux,Rennes
+26/11/2005,3 - 0,Toulouse,Ajaccio
+26/11/2005,0 - 0,Troyes,Metz
+25/11/2005,0 - 2,Le Mans,Auxerre
+20/11/2005,0 - 2,Bordeaux,PSG
+20/11/2005,4 - 1,Rennes,Toulouse
+19/11/2005,0 - 1,Ajaccio,Sochaux
+19/11/2005,3 - 2,Auxerre,Lille
+19/11/2005,0 - 0,Lens,Metz
+19/11/2005,1 - 0,Monaco,Saint-Étienne
+19/11/2005,1 - 0,Nancy,Le Mans
+19/11/2005,2 - 1,Olympique Lyonnais,Troyes
+19/11/2005,2 - 1,Olympique Marseille,Nantes
+19/11/2005,0 - 0,Strasbourg,Nice
+11/11/2005,0 - 0,Ajaccio,Lens
+06/11/2005,2 - 0,Lille,Strasbourg
+06/11/2005,0 - 0,PSG,Monaco
+06/11/2005,1 - 1,Sochaux,Lens
+06/11/2005,2 - 1,Troyes,Rennes
+05/11/2005,3 - 0,Le Mans,Olympique Marseille
+05/11/2005,2 - 0,Metz,Ajaccio
+05/11/2005,3 - 0,Nantes,Nancy
+05/11/2005,0 - 1,Nice,Bordeaux
+05/11/2005,1 - 1,Saint-Étienne,Auxerre
+05/11/2005,0 - 1,Toulouse,Olympique Lyonnais
+30/10/2005,2 - 0,Auxerre,PSG
+30/10/2005,0 - 0,Nancy,Nice
+29/10/2005,2 - 0,Bordeaux,Troyes
+29/10/2005,1 - 0,Lens,Toulouse
+29/10/2005,3 - 0,Monaco,Ajaccio
+29/10/2005,1 - 0,Nantes,Le Mans
+29/10/2005,1 - 0,Olympique Lyonnais,Sochaux
+29/10/2005,1 - 1,Olympique Marseille,Lille
+29/10/2005,2 - 1,Rennes,Metz
+29/10/2005,0 - 1,Strasbourg,Saint-Étienne
+23/10/2005,0 - 1,Ajaccio,Rennes
+23/10/2005,2 - 0,Le Mans,Strasbourg
+23/10/2005,2 - 1,Saint-Étienne,Olympique Marseille
+23/10/2005,2 - 1,Sochaux,Monaco
+23/10/2005,1 - 1,Troyes,Lens
+22/10/2005,2 - 0,Lille,Nantes
+22/10/2005,0 - 4,Metz,Olympique Lyonnais
+22/10/2005,1 - 0,Nice,Auxerre
+22/10/2005,1 - 0,PSG,Nancy
+22/10/2005,1 - 1,Toulouse,Bordeaux
+16/10/2005,3 - 2,Olympique Lyonnais,Ajaccio
+16/10/2005,1 - 0,Olympique Marseille,PSG
+15/10/2005,3 - 0,Auxerre,Troyes
+15/10/2005,1 - 1,Bordeaux,Sochaux
+15/10/2005,1 - 1,Le Mans,Lille
+15/10/2005,2 - 2,Lens,Nice
+15/10/2005,3 - 0,Monaco,Metz
+15/10/2005,2 - 0,Nancy,Toulouse
+15/10/2005,1 - 1,Nantes,Saint-Étienne
+15/10/2005,0 - 1,Strasbourg,Rennes
+02/10/2005,0 - 1,Lille,Monaco
+02/10/2005,0 - 1,Nice,Olympique Marseille
+02/10/2005,1 - 3,Rennes,Olympique Lyonnais
+02/10/2005,2 - 0,Toulouse,Auxerre
+02/10/2005,1 - 1,Troyes,Strasbourg
+01/10/2005,0 - 1,Metz,Bordeaux
+01/10/2005,2 - 0,PSG,Nantes
+01/10/2005,3 - 0,Saint-Étienne,Le Mans
+01/10/2005,0 - 2,Sochaux,Nancy
+25/09/2005,0 - 0,Lens,Rennes
+25/09/2005,0 - 1,Nantes,Olympique Lyonnais
+24/09/2005,3 - 0,Auxerre,Sochaux
+24/09/2005,1 - 0,Bordeaux,Ajaccio
+24/09/2005,0 - 0,Le Mans,PSG
+24/09/2005,2 - 0,Lille,Saint-Étienne
+24/09/2005,0 - 0,Monaco,Nice
+24/09/2005,2 - 1,Nancy,Troyes
+24/09/2005,3 - 1,Olympique Marseille,Metz
+24/09/2005,2 - 4,Strasbourg,Toulouse
+22/09/2005,1 - 1,Olympique Lyonnais,Lens
+21/09/2005,0 - 0,Ajaccio,Strasbourg
+21/09/2005,1 - 2,Metz,Auxerre
+21/09/2005,1 - 0,Nice,Le Mans
+21/09/2005,2 - 1,PSG,Lille
+21/09/2005,2 - 2,Rennes,Bordeaux
+21/09/2005,0 - 2,Saint-Étienne,Nancy
+21/09/2005,1 - 0,Sochaux,Nantes
+21/09/2005,1 - 0,Toulouse,Olympique Marseille
+21/09/2005,1 - 2,Troyes,Monaco
+18/09/2005,2 - 0,Auxerre,Ajaccio
+18/09/2005,0 - 2,Monaco,Rennes
+18/09/2005,2 - 1,Olympique Marseille,Troyes
+18/09/2005,3 - 0,Saint-Étienne,PSG
+18/09/2005,1 - 1,Strasbourg,Lens
+17/09/2005,1 - 1,Bordeaux,Olympique Lyonnais
+17/09/2005,2 - 1,Le Mans,Sochaux
+17/09/2005,4 - 0,Lille,Nice
+17/09/2005,1 - 1,Nancy,Metz
+17/09/2005,2 - 0,Nantes,Toulouse
+11/09/2005,1 - 1,Lens,Bordeaux
+11/09/2005,0 - 1,Sochaux,Olympique Marseille
+10/09/2005,1 - 0,Ajaccio,Nancy
+10/09/2005,0 - 2,Metz,Lille
+10/09/2005,0 - 1,Nice,Saint-Étienne
+10/09/2005,2 - 1,Olympique Lyonnais,Monaco
+10/09/2005,1 - 0,PSG,Strasbourg
+10/09/2005,3 - 1,Rennes,Auxerre
+10/09/2005,0 - 2,Toulouse,Le Mans
+10/09/2005,1 - 0,Troyes,Nantes
+28/08/2005,0 - 2,Auxerre,Olympique Lyonnais
+28/08/2005,0 - 0,Monaco,Lens
+27/08/2005,1 - 0,Le Mans,Troyes
+27/08/2005,6 - 0,Nancy,Rennes
+27/08/2005,0 - 0,Nantes,Metz
+27/08/2005,1 - 1,Olympique Marseille,Ajaccio
+27/08/2005,1 - 2,PSG,Nice
+27/08/2005,0 - 0,Saint-Étienne,Sochaux
+27/08/2005,0 - 0,Strasbourg,Bordeaux
+24/08/2005,0 - 0,Lille,Toulouse
+21/08/2005,1 - 1,Toulouse,Saint-Étienne
+21/08/2005,1 - 1,Troyes,PSG
+20/08/2005,0 - 0,Ajaccio,Le Mans
+20/08/2005,1 - 0,Bordeaux,Monaco
+20/08/2005,7 - 0,Lens,Auxerre
+20/08/2005,0 - 0,Metz,Strasbourg
+20/08/2005,1 - 1,Nice,Nantes
+20/08/2005,1 - 0,Olympique Lyonnais,Nancy
+20/08/2005,3 - 2,Rennes,Olympique Marseille
+20/08/2005,0 - 0,Sochaux,Lille
+14/08/2005,1 - 1,Olympique Marseille,Olympique Lyonnais
+14/08/2005,1 - 2,Strasbourg,Monaco
+13/08/2005,1 - 0,Auxerre,Bordeaux
+13/08/2005,4 - 0,Le Mans,Rennes
+13/08/2005,1 - 2,Lille,Troyes
+13/08/2005,1 - 2,Nancy,Lens
+13/08/2005,0 - 2,Nantes,Ajaccio
+13/08/2005,1 - 2,Nice,Sochaux
+13/08/2005,2 - 0,PSG,Toulouse
+13/08/2005,2 - 0,Saint-Étienne,Metz
+07/08/2005,1 - 0,Olympique Lyonnais,Strasbourg
+07/08/2005,0 - 3,Rennes,Nantes
+06/08/2005,3 - 3,Ajaccio,Lille
+06/08/2005,1 - 0,Bordeaux,Nancy
+06/08/2005,2 - 0,Lens,Olympique Marseille
+06/08/2005,0 - 0,Metz,Le Mans
+06/08/2005,0 - 2,Monaco,Auxerre
+06/08/2005,0 - 1,Sochaux,PSG
+06/08/2005,0 - 2,Toulouse,Nice
+06/08/2005,0 - 0,Troyes,Saint-Étienne
+31/07/2005,1 - 2,Le Mans,Olympique Lyonnais
+30/07/2005,1 - 0,Lille,Rennes
+30/07/2005,0 - 1,Nancy,Monaco
+30/07/2005,2 - 0,Nantes,Lens
+30/07/2005,1 - 1,Nice,Troyes
+30/07/2005,0 - 2,Olympique Marseille,Bordeaux
+30/07/2005,0 - 0,Saint-Étienne,Ajaccio
+30/07/2005,0 - 1,Sochaux,Toulouse
+30/07/2005,0 - 0,Strasbourg,Auxerre
+29/07/2005,4 - 1,PSG,Metz

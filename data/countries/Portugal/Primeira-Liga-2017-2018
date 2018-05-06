@@ -1,0 +1,307 @@
+date,score,home_team,away_team
+13/05/2018,document.write(timestamp_to_time(1526223600));15:00 GMT,Benfica,Moreirense
+13/05/2018,document.write(timestamp_to_time(1526223600));15:00 GMT,Boavista,Belenenses
+13/05/2018,document.write(timestamp_to_time(1526223600));15:00 GMT,Desportivo Aves,Chaves
+13/05/2018,document.write(timestamp_to_time(1526223600));15:00 GMT,Feirense,Estoril
+13/05/2018,document.write(timestamp_to_time(1526223600));15:00 GMT,Marítimo,Sporting CP
+13/05/2018,document.write(timestamp_to_time(1526223600));15:00 GMT,Portimonense,Paços de Ferreira
+13/05/2018,document.write(timestamp_to_time(1526223600));15:00 GMT,Rio Ave,Sporting Braga
+13/05/2018,document.write(timestamp_to_time(1526223600));15:00 GMT,Vitória Guimarães,Porto
+13/05/2018,document.write(timestamp_to_time(1526223600));15:00 GMT,Vitória Setúbal,Tondela
+07/05/2018,document.write(timestamp_to_time(1525719600));19:00 GMT,Paços de Ferreira,Rio Ave
+06/05/2018,document.write(timestamp_to_time(1525634100));19:15 GMT,Porto,Feirense
+06/05/2018,document.write(timestamp_to_time(1525626000));17:00 GMT,Chaves,Marítimo
+06/05/2018,document.write(timestamp_to_time(1525618800));15:00 GMT,Estoril,Vitória Setúbal
+06/05/2018,document.write(timestamp_to_time(1525618800));15:00 GMT,Moreirense,Desportivo Aves
+05/05/2018,document.write(timestamp_to_time(1525548600));19:30 GMT,Sporting CP,Benfica
+05/05/2018,document.write(timestamp_to_time(1525540500));17:15 GMT,Tondela,Vitória Guimarães
+05/05/2018,document.write(timestamp_to_time(1525532400));15:00 GMT,Belenenses,Portimonense
+04/05/2018,document.write(timestamp_to_time(1525462200));19:30 GMT,Sporting Braga,Boavista
+30/04/2018,1 - 0,Desportivo Aves,Estoril
+29/04/2018,0 - 1,Belenenses,Sporting Braga
+29/04/2018,0 - 1,Marítimo,Porto
+29/04/2018,1 - 0,Boavista,Paços de Ferreira
+29/04/2018,2 - 1,Rio Ave,Chaves
+28/04/2018,1 - 2,Portimonense,Sporting CP
+28/04/2018,2 - 3,Benfica,Tondela
+28/04/2018,0 - 2,Vitória Setúbal,Feirense
+27/04/2018,1 - 0,Vitória Guimarães,Moreirense
+23/04/2018,5 - 1,Porto,Vitória Setúbal
+22/04/2018,1 - 0,Sporting CP,Boavista
+22/04/2018,2 - 1,Moreirense,Rio Ave
+22/04/2018,2 - 1,Chaves,Portimonense
+22/04/2018,3 - 0,Tondela,Desportivo Aves
+21/04/2018,1 - 2,Estoril,Benfica
+21/04/2018,2 - 1,Feirense,Vitória Guimarães
+21/04/2018,1 - 1,Paços de Ferreira,Belenenses
+20/04/2018,2 - 0,Sporting Braga,Marítimo
+16/04/2018,1 - 1,Rio Ave,Tondela
+15/04/2018,3 - 4,Belenenses,Sporting CP
+15/04/2018,0 - 1,Benfica,Porto
+15/04/2018,1 - 1,Marítimo,Moreirense
+14/04/2018,1 - 1,Vitória Guimarães,Vitória Setúbal
+14/04/2018,3 - 3,Boavista,Chaves
+14/04/2018,1 - 0,Desportivo Aves,Feirense
+14/04/2018,0 - 1,Portimonense,Estoril
+13/04/2018,1 - 5,Paços de Ferreira,Sporting Braga
+09/04/2018,1 - 0,Moreirense,Boavista
+08/04/2018,2 - 0,Sporting CP,Paços de Ferreira
+08/04/2018,2 - 0,Porto,Desportivo Aves
+08/04/2018,1 - 1,Chaves,Belenenses
+07/04/2018,1 - 2,Vitória Setúbal,Benfica
+07/04/2018,2 - 2,Feirense,Sporting Braga
+07/04/2018,1 - 1,Estoril,Marítimo
+07/04/2018,2 - 2,Tondela,Portimonense
+06/04/2018,3 - 0,Vitória Guimarães,Rio Ave
+02/04/2018,2 - 0,Belenenses,Porto
+31/03/2018,1 - 0,Sporting Braga,Sporting CP
+31/03/2018,2 - 0,Benfica,Vitória Guimarães
+31/03/2018,2 - 0,Paços de Ferreira,Chaves
+31/03/2018,4 - 3,Portimonense,Moreirense
+30/03/2018,1 - 1,Boavista,Tondela
+30/03/2018,2 - 0,Rio Ave,Estoril
+30/03/2018,4 - 1,Marítimo,Feirense
+29/03/2018,1 - 4,Desportivo Aves,Vitória Setúbal
+18/03/2018,2 - 0,Sporting CP,Rio Ave
+18/03/2018,1 - 4,Chaves,Sporting Braga
+18/03/2018,2 - 1,Moreirense,Belenenses
+18/03/2018,2 - 1,Vitória Guimarães,Desportivo Aves
+17/03/2018,2 - 0,Porto,Boavista
+17/03/2018,0 - 2,Feirense,Benfica
+17/03/2018,1 - 1,Estoril,Paços de Ferreira
+17/03/2018,1 - 2,Tondela,Marítimo
+16/03/2018,1 - 1,Vitória Setúbal,Portimonense
+12/03/2018,1 - 2,Chaves,Sporting CP
+11/03/2018,1 - 0,Paços de Ferreira,Porto
+11/03/2018,0 - 0,Belenenses,Tondela
+11/03/2018,4 - 2,Marítimo,Vitória Setúbal
+11/03/2018,2 - 1,Portimonense,Vitória Guimarães
+10/03/2018,1 - 0,Boavista,Estoril
+10/03/2018,2 - 0,Benfica,Desportivo Aves
+10/03/2018,2 - 1,Rio Ave,Feirense
+09/03/2018,3 - 0,Sporting Braga,Moreirense
+05/03/2018,3 - 0,Desportivo Aves,Portimonense
+04/03/2018,0 - 0,Vitória Guimarães,Belenenses
+04/03/2018,1 - 0,Vitória Setúbal,Rio Ave
+04/03/2018,2 - 0,Moreirense,Paços de Ferreira
+04/03/2018,2 - 0,Tondela,Chaves
+03/03/2018,0 - 6,Estoril,Sporting Braga
+03/03/2018,5 - 0,Benfica,Marítimo
+03/03/2018,3 - 0,Feirense,Boavista
+02/03/2018,2 - 1,Porto,Sporting CP
+26/02/2018,1 - 0,Sporting CP,Moreirense
+26/02/2018,1 - 0,Sporting Braga,Tondela
+25/02/2018,1 - 5,Portimonense,Porto
+25/02/2018,4 - 0,Boavista,Vitória Setúbal
+25/02/2018,2 - 0,Chaves,Estoril
+24/02/2018,1 - 3,Paços de Ferreira,Benfica
+24/02/2018,3 - 2,Marítimo,Vitória Guimarães
+24/02/2018,1 - 0,Belenenses,Feirense
+23/02/2018,0 - 0,Rio Ave,Desportivo Aves
+21/02/2018,1 - 3,Estoril,Porto
+19/02/2018,1 - 2,Tondela,Sporting CP
+18/02/2018,0 - 5,Vitória Guimarães,Sporting Braga
+18/02/2018,5 - 0,Porto,Rio Ave
+18/02/2018,0 - 1,Moreirense,Chaves
+18/02/2018,1 - 0,Vitória Setúbal,Paços de Ferreira
+17/02/2018,0 - 2,Estoril,Belenenses
+17/02/2018,4 - 0,Benfica,Boavista
+17/02/2018,0 - 0,Desportivo Aves,Marítimo
+16/02/2018,1 - 3,Feirense,Portimonense
+12/02/2018,1 - 2,Moreirense,Estoril
+11/02/2018,1 - 0,Boavista,Vitória Guimarães
+11/02/2018,2 - 0,Sporting CP,Feirense
+11/02/2018,2 - 5,Belenenses,Desportivo Aves
+11/02/2018,0 - 4,Chaves,Porto
+10/02/2018,1 - 3,Portimonense,Benfica
+10/02/2018,3 - 1,Sporting Braga,Vitória Setúbal
+10/02/2018,3 - 0,Rio Ave,Marítimo
+09/02/2018,0 - 2,Paços de Ferreira,Tondela
+06/02/2018,3 - 0,Desportivo Aves,Boavista
+05/02/2018,3 - 0,Vitória Setúbal,Belenenses
+05/02/2018,0 - 3,Marítimo,Portimonense
+04/02/2018,3 - 2,Vitória Guimarães,Paços de Ferreira
+04/02/2018,2 - 0,Estoril,Sporting CP
+04/02/2018,1 - 2,Feirense,Chaves
+04/02/2018,1 - 2,Tondela,Moreirense
+03/02/2018,3 - 1,Porto,Sporting Braga
+03/02/2018,5 - 1,Benfica,Rio Ave
+31/01/2018,1 - 0,Sporting CP,Vitória Guimarães
+31/01/2018,2 - 1,Boavista,Marítimo
+31/01/2018,2 - 2,Chaves,Vitória Setúbal
+30/01/2018,0 - 0,Moreirense,Porto
+30/01/2018,3 - 0,Estoril,Tondela
+30/01/2018,2 - 0,Sporting Braga,Desportivo Aves
+29/01/2018,1 - 1,Belenenses,Benfica
+29/01/2018,2 - 1,Paços de Ferreira,Feirense
+29/01/2018,4 - 1,Portimonense,Rio Ave
+21/01/2018,3 - 1,Vitória Guimarães,Estoril
+21/01/2018,2 - 0,Rio Ave,Boavista
+21/01/2018,0 - 2,Desportivo Aves,Paços de Ferreira
+21/01/2018,1 - 0,Feirense,Moreirense
+20/01/2018,1 - 2,Portimonense,Sporting Braga
+20/01/2018,3 - 0,Benfica,Chaves
+20/01/2018,0 - 0,Marítimo,Belenenses
+19/01/2018,1 - 0,Porto,Tondela
+19/01/2018,1 - 1,Vitória Setúbal,Sporting CP
+15/01/2018,2 - 2,Moreirense,Vitória Setúbal
+14/01/2018,3 - 0,Sporting CP,Desportivo Aves
+14/01/2018,1 - 2,Belenenses,Rio Ave
+14/01/2018,2 - 0,Boavista,Portimonense
+14/01/2018,3 - 1,Tondela,Feirense
+13/01/2018,1 - 3,Sporting Braga,Benfica
+13/01/2018,0 - 0,Paços de Ferreira,Marítimo
+12/01/2018,4 - 3,Chaves,Vitória Guimarães
+09/01/2018,1 - 1,Belenenses,Boavista
+09/01/2018,1 - 1,Tondela,Vitória Setúbal
+08/01/2018,0 - 2,Estoril,Feirense
+08/01/2018,1 - 1,Paços de Ferreira,Portimonense
+07/01/2018,4 - 2,Porto,Vitória Guimarães
+07/01/2018,5 - 0,Sporting CP,Marítimo
+07/01/2018,0 - 2,Moreirense,Benfica
+07/01/2018,1 - 1,Chaves,Desportivo Aves
+06/01/2018,2 - 1,Sporting Braga,Rio Ave
+04/01/2018,0 - 0,Portimonense,Belenenses
+04/01/2018,2 - 2,Vitória Setúbal,Estoril
+03/01/2018,1 - 1,Benfica,Sporting CP
+03/01/2018,1 - 2,Feirense,Porto
+03/01/2018,4 - 2,Rio Ave,Paços de Ferreira
+03/01/2018,1 - 3,Boavista,Sporting Braga
+03/01/2018,1 - 2,Desportivo Aves,Moreirense
+03/01/2018,1 - 2,Marítimo,Chaves
+23/12/2017,0 - 1,Vitória Guimarães,Tondela
+18/12/2017,3 - 1,Porto,Marítimo
+18/12/2017,2 - 1,Moreirense,Vitória Guimarães
+17/12/2017,1 - 5,Tondela,Benfica
+17/12/2017,2 - 0,Sporting CP,Portimonense
+17/12/2017,1 - 1,Chaves,Rio Ave
+17/12/2017,1 - 0,Feirense,Vitória Setúbal
+16/12/2017,4 - 0,Sporting Braga,Belenenses
+16/12/2017,3 - 2,Estoril,Desportivo Aves
+15/12/2017,1 - 2,Paços de Ferreira,Boavista
+11/12/2017,1 - 0,Marítimo,Sporting Braga
+11/12/2017,1 - 0,Vitória Guimarães,Feirense
+10/12/2017,0 - 5,Vitória Setúbal,Porto
+10/12/2017,1 - 1,Belenenses,Paços de Ferreira
+10/12/2017,0 - 1,Portimonense,Chaves
+09/12/2017,1 - 3,Boavista,Sporting CP
+09/12/2017,3 - 1,Benfica,Estoril
+09/12/2017,0 - 1,Desportivo Aves,Tondela
+08/12/2017,2 - 1,Rio Ave,Moreirense
+04/12/2017,0 - 0,Estoril,Portimonense
+03/12/2017,1 - 2,Vitória Setúbal,Vitória Guimarães
+03/12/2017,3 - 0,Sporting Braga,Paços de Ferreira
+03/12/2017,0 - 1,Feirense,Desportivo Aves
+02/12/2017,0 - 0,Chaves,Boavista
+02/12/2017,1 - 3,Tondela,Rio Ave
+02/12/2017,1 - 1,Moreirense,Marítimo
+01/12/2017,0 - 0,Porto,Benfica
+01/12/2017,1 - 0,Sporting CP,Belenenses
+27/11/2017,0 - 1,Rio Ave,Vitória Guimarães
+27/11/2017,3 - 1,Sporting Braga,Feirense
+26/11/2017,6 - 0,Benfica,Vitória Setúbal
+26/11/2017,1 - 2,Paços de Ferreira,Sporting CP
+26/11/2017,0 - 0,Marítimo,Estoril
+25/11/2017,1 - 1,Desportivo Aves,Porto
+25/11/2017,1 - 0,Boavista,Moreirense
+25/11/2017,2 - 0,Portimonense,Tondela
+24/11/2017,0 - 1,Belenenses,Chaves
+05/11/2017,2 - 2,Sporting CP,Sporting Braga
+05/11/2017,1 - 3,Vitória Guimarães,Benfica
+05/11/2017,4 - 2,Chaves,Paços de Ferreira
+05/11/2017,0 - 1,Feirense,Marítimo
+04/11/2017,2 - 0,Porto,Belenenses
+04/11/2017,0 - 2,Estoril,Rio Ave
+04/11/2017,1 - 1,Moreirense,Portimonense
+04/11/2017,3 - 2,Tondela,Boavista
+03/11/2017,0 - 1,Vitória Setúbal,Desportivo Aves
+30/10/2017,5 - 2,Portimonense,Vitória Setúbal
+29/10/2017,1 - 3,Desportivo Aves,Vitória Guimarães
+29/10/2017,1 - 0,Paços de Ferreira,Estoril
+29/10/2017,1 - 0,Sporting Braga,Chaves
+28/10/2017,0 - 3,Boavista,Porto
+28/10/2017,3 - 0,Belenenses,Moreirense
+28/10/2017,2 - 0,Marítimo,Tondela
+27/10/2017,0 - 1,Rio Ave,Sporting CP
+27/10/2017,1 - 0,Benfica,Feirense
+23/10/2017,3 - 3,Vitória Guimarães,Portimonense
+23/10/2017,0 - 1,Moreirense,Sporting Braga
+22/10/2017,5 - 1,Sporting CP,Chaves
+22/10/2017,1 - 3,Desportivo Aves,Benfica
+22/10/2017,2 - 0,Tondela,Belenenses
+21/10/2017,6 - 1,Porto,Paços de Ferreira
+21/10/2017,3 - 1,Vitória Setúbal,Marítimo
+21/10/2017,1 - 0,Feirense,Rio Ave
+20/10/2017,0 - 3,Estoril,Boavista
+01/10/2017,1 - 0,Belenenses,Vitória Guimarães
+01/10/2017,1 - 1,Marítimo,Benfica
+01/10/2017,0 - 0,Sporting CP,Porto
+01/10/2017,6 - 0,Sporting Braga,Estoril
+30/09/2017,2 - 1,Rio Ave,Vitória Setúbal
+30/09/2017,1 - 0,Boavista,Feirense
+30/09/2017,3 - 2,Paços de Ferreira,Moreirense
+30/09/2017,2 - 2,Portimonense,Desportivo Aves
+29/09/2017,1 - 1,Chaves,Tondela
+25/09/2017,1 - 1,Vitória Setúbal,Boavista
+24/09/2017,0 - 0,Desportivo Aves,Rio Ave
+24/09/2017,1 - 2,Tondela,Sporting Braga
+24/09/2017,1 - 4,Feirense,Belenenses
+24/09/2017,2 - 1,Vitória Guimarães,Marítimo
+23/09/2017,2 - 0,Benfica,Paços de Ferreira
+23/09/2017,1 - 1,Moreirense,Sporting CP
+23/09/2017,0 - 2,Estoril,Chaves
+22/09/2017,5 - 2,Porto,Portimonense
+18/09/2017,3 - 0,Chaves,Moreirense
+18/09/2017,2 - 1,Portimonense,Feirense
+17/09/2017,2 - 1,Sporting Braga,Vitória Guimarães
+17/09/2017,1 - 2,Rio Ave,Porto
+17/09/2017,2 - 1,Belenenses,Estoril
+16/09/2017,2 - 0,Sporting CP,Tondela
+16/09/2017,2 - 1,Boavista,Benfica
+16/09/2017,2 - 1,Marítimo,Desportivo Aves
+15/09/2017,1 - 0,Paços de Ferreira,Vitória Setúbal
+11/09/2017,2 - 1,Desportivo Aves,Belenenses
+10/09/2017,0 - 2,Estoril,Moreirense
+10/09/2017,1 - 0,Vitória Guimarães,Boavista
+10/09/2017,2 - 0,Vitória Setúbal,Sporting Braga
+09/09/2017,3 - 0,Porto,Chaves
+09/09/2017,1 - 0,Marítimo,Rio Ave
+09/09/2017,2 - 2,Tondela,Paços de Ferreira
+08/09/2017,2 - 1,Benfica,Portimonense
+08/09/2017,2 - 3,Feirense,Sporting CP
+28/08/2017,1 - 2,Portimonense,Marítimo
+27/08/2017,0 - 1,Sporting Braga,Porto
+27/08/2017,2 - 1,Sporting CP,Estoril
+27/08/2017,1 - 0,Boavista,Desportivo Aves
+26/08/2017,1 - 1,Rio Ave,Benfica
+26/08/2017,0 - 2,Chaves,Feirense
+26/08/2017,0 - 3,Moreirense,Tondela
+26/08/2017,0 - 0,Paços de Ferreira,Vitória Guimarães
+25/08/2017,1 - 1,Belenenses,Vitória Setúbal
+21/08/2017,2 - 1,Feirense,Paços de Ferreira
+20/08/2017,1 - 0,Marítimo,Boavista
+20/08/2017,0 - 2,Desportivo Aves,Sporting Braga
+20/08/2017,3 - 0,Porto,Moreirense
+20/08/2017,1 - 1,Vitória Setúbal,Chaves
+19/08/2017,5 - 0,Benfica,Belenenses
+19/08/2017,0 - 5,Vitória Guimarães,Sporting CP
+19/08/2017,2 - 3,Tondela,Estoril
+18/08/2017,2 - 0,Rio Ave,Portimonense
+14/08/2017,0 - 1,Chaves,Benfica
+14/08/2017,3 - 0,Estoril,Vitória Guimarães
+13/08/2017,0 - 1,Tondela,Porto
+13/08/2017,2 - 1,Sporting Braga,Portimonense
+13/08/2017,2 - 2,Paços de Ferreira,Desportivo Aves
+12/08/2017,1 - 2,Boavista,Rio Ave
+12/08/2017,1 - 0,Belenenses,Marítimo
+12/08/2017,0 - 0,Moreirense,Feirense
+11/08/2017,1 - 0,Sporting CP,Vitória Setúbal
+10/08/2017,3 - 2,Vitória Guimarães,Chaves
+09/08/2017,3 - 1,Benfica,Sporting Braga
+09/08/2017,4 - 0,Porto,Estoril
+08/08/2017,1 - 0,Marítimo,Paços de Ferreira
+07/08/2017,1 - 0,Rio Ave,Belenenses
+07/08/2017,1 - 1,Feirense,Tondela
+07/08/2017,2 - 1,Portimonense,Boavista
+06/08/2017,1 - 1,Vitória Setúbal,Moreirense
+06/08/2017,0 - 2,Desportivo Aves,Sporting CP
